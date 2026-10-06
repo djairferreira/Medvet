@@ -27,11 +27,13 @@ def uri(rel):
 def marca(n):
     return 'data:image/png;base64,'+base64.b64encode(open(os.path.join(ROOT,'_base','marca',n),'rb').read()).decode()
 L96,L480=marca('logo-96.png'),marca('logo-480.png')
-body=body.replace('{{LOGO96}}',L96).replace('{{LOGO480}}',L480)
+import datetime
+body=body.replace('{{ANO}}',str(datetime.date.today().year)).replace('{{LOGO96}}',L96).replace('{{LOGO480}}',L480)
 body=re.sub(r'src="(img/[^"]+)"',lambda m:'src="%s"'%uri(m.group(1)),body)
 js_dados=re.sub(r'"img": ?"(img/[^"]+)"',lambda m:'"img":"%s"'%uri(m.group(1)),js_dados)
 assert 'img/' not in re.sub(r'data:[^"]+','',body+js_dados).replace('fontes/img',''), 'imagem não embutida'
 html=f'''<!doctype html>
+<!-- © Vet do Futuro (@vetdofuturoo). Todos os direitos reservados. Proibida a reprodução sem autorização. -->
 <html lang="pt-BR">
 <head>
 <meta charset="utf-8">
@@ -39,6 +41,8 @@ html=f'''<!doctype html>
 <title>{titulo} · Vet do Futuro</title>
 <link rel="icon" type="image/png" href="{L96}">
 <meta name="theme-color" content="#173A2B">
+<meta name="author" content="Vet do Futuro">
+<meta name="copyright" content="© Vet do Futuro. Todos os direitos reservados.">
 <meta name="description" content="Resumo interativo Vet do Futuro (@vetdofuturoo): {titulo}.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

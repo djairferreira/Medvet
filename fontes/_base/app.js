@@ -181,6 +181,23 @@ $$('[data-count]').forEach(el=>{const to=+el.dataset.count;const t0=performance.
   if(matchMedia('(prefers-reduced-motion: reduce)').matches)return;
   const step=t=>{const k=Math.min(1,(t-t0)/1200);el.textContent=Math.round(to*(1-Math.pow(1-k,3)));if(k<1)requestAnimationFrame(step)};requestAnimationFrame(step)});
 
+/* ---------- tabelas viram cartões no celular ---------- */
+$$('.tbl table').forEach(t=>{if(t.querySelector('[rowspan],[colspan]'))return;const hs=$$('thead th',t).map(th=>th.textContent.trim());if(hs.length<3)return;
+  t.classList.add('stack');$$('tbody tr',t).forEach(tr=>$$('td',tr).forEach((td,i)=>td.setAttribute('data-label',hs[i]||'')))});
+
+/* ---------- Instagram da Vet do Futuro ---------- */
+const IG_URL='https://www.instagram.com/vetdofuturoo/';
+function openIG(src){
+  const d=document.createElement('div');d.className='igdlg';d.setAttribute('role','dialog');d.setAttribute('aria-modal','true');d.setAttribute('aria-labelledby','igT');
+  d.innerHTML=`<div class="box"><img alt="Logo Vet do Futuro"><h3 id="igT">Vet do Futuro</h3><span class="handle">@vetdofuturoo</span><p>Este resumo foi criado pela Vet do Futuro. Siga no Instagram para receber os próximos livros, dicas de prova e novidades.</p><div class="acts"><a href="${IG_URL}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>Abrir o Instagram</a><button type="button">Continuar estudando</button></div></div>`;
+  $('img',d).src=src||($('.brand-mark')||{}).src||'';
+  const close=()=>{d.remove();document.body.classList.remove('lock');document.removeEventListener('keydown',k)};
+  const k=e=>{if(e.key==='Escape')close()};
+  d.addEventListener('click',e=>{if(e.target===d||e.target.closest('.acts button'))close();if(e.target.closest('.acts a'))setTimeout(close,300)});
+  document.addEventListener('keydown',k);document.body.appendChild(d);document.body.classList.add('lock');$('.acts a',d).focus();
+}
+$$('[data-ig]').forEach(b=>b.addEventListener('click',e=>{e.preventDefault();if(side.classList.contains('open'))closeNav(false);openIG(document.querySelector('.cover-logo')?.src)}));
+
 /* ---------- lightbox ---------- */
 let lastFocus=null;
 document.addEventListener('click',e=>{const img=e.target.closest('.fig img, .cover-img img');if(!img)return;
