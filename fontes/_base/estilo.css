@@ -1,11 +1,13 @@
-/* Layout: livro-atlas — índice fixo à esquerda (gaveta com fundo escurecido no celular), coluna de leitura de ~68ch, figuras e laboratórios interativos até 960px.
+/* Identidade: Vet do Futuro — verde-floresta e oliva sobre creme, títulos em serifa clássica como na logo.
+   Layout: livro-atlas — índice fixo à esquerda (gaveta com fundo escurecido no celular), coluna de leitura de ~68ch, figuras e laboratórios interativos até 960px.
    Paleta da coloração H&E: hematoxilina (violeta) para estrutura, eosina (rosa) para alerta, marfim de osso para memorização. */
 :root{
-  --paper:#F6F4F8; --panel:#FFFFFF; --ink:#1F1828; --muted:#665D72; --line:#DFD8E6;
-  --hema:#4A2A82; --hema-2:#6B4BB0; --hema-soft:#ECE6F6; --eosin:#C2386A; --eosin-soft:#FBE7EF;
+  --paper:#F8F2E8; --panel:#FFFDF8; --ink:#16241D; --muted:#5C685F; --line:#E2D9C9;
+  --hema:#173A2B; --hema-2:#5E6B3C; --hema-soft:#E6ECE1; --eosin:#A8324A; --eosin-soft:#F6E4E3;
   --bone:#F1E9DA; --bone-2:#D9C7A4; --bone-ink:#5E4A26; --ok:#1F7A5A; --ok-soft:#E2F3EC; --bad:#B3261E; --bad-soft:#FBE9E7;
   --sky:#2F6FB3; --sky-soft:#E3EEF9; --amber:#B7791F; --amber-soft:#FBF1DE;
   --scrim:rgba(20,12,30,.48); --shadow:0 1px 2px rgba(31,24,40,.06),0 8px 24px rgba(31,24,40,.08);
+  --f-title:"Cormorant Garamond","Iowan Old Style",Georgia,serif;
   --f-display:"Bricolage Grotesque","Avenir Next","Segoe UI",system-ui,sans-serif;
   --f-body:"Source Serif 4",Georgia,"Times New Roman",serif;
   --f-mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
@@ -14,14 +16,14 @@
   --ease:cubic-bezier(.2,.7,.2,1);
 }
 @media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
-  --paper:#15111B; --panel:#1E1826; --ink:#EDE7F3; --muted:#A99FB6; --line:#352C40;
-  --hema:#B9A0F2; --hema-2:#9C7FE6; --hema-soft:#2A2140; --eosin:#FF86AE; --eosin-soft:#3A1A28;
+  --paper:#0F1914; --panel:#16231C; --ink:#EEF0E6; --muted:#A5AFA2; --line:#2A3A31;
+  --hema:#9CC9A8; --hema-2:#BCC584; --hema-soft:#1C3127; --eosin:#F08DA0; --eosin-soft:#3A1E24;
   --bone:#2D2618; --bone-2:#6E5A36; --bone-ink:#EBD9B4; --ok:#6FD3A8; --ok-soft:#173327; --bad:#FF8A80; --bad-soft:#3A1A18;
   --sky:#86B8EE; --sky-soft:#17283B; --amber:#F2B866; --amber-soft:#33260F;
   --scrim:rgba(0,0,0,.6); --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.35); color-scheme:dark }}
 :root[data-theme="dark"]{
-  --paper:#15111B; --panel:#1E1826; --ink:#EDE7F3; --muted:#A99FB6; --line:#352C40;
-  --hema:#B9A0F2; --hema-2:#9C7FE6; --hema-soft:#2A2140; --eosin:#FF86AE; --eosin-soft:#3A1A28;
+  --paper:#0F1914; --panel:#16231C; --ink:#EEF0E6; --muted:#A5AFA2; --line:#2A3A31;
+  --hema:#9CC9A8; --hema-2:#BCC584; --hema-soft:#1C3127; --eosin:#F08DA0; --eosin-soft:#3A1E24;
   --bone:#2D2618; --bone-2:#6E5A36; --bone-ink:#EBD9B4; --ok:#6FD3A8; --ok-soft:#173327; --bad:#FF8A80; --bad-soft:#3A1A18;
   --sky:#86B8EE; --sky-soft:#17283B; --amber:#F2B866; --amber-soft:#33260F;
   --scrim:rgba(0,0,0,.6); --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.35); color-scheme:dark }
@@ -41,15 +43,14 @@ h1,h2,h3,h4,h5{font-family:var(--f-display);line-height:1.15;text-wrap:balance;m
 
 /* ---------- barra de leitura ---------- */
 .readbar{position:fixed;left:0;right:0;top:0;height:3px;z-index:60;pointer-events:none}
-.readbar i{display:block;height:100%;background:linear-gradient(90deg,var(--hema),var(--eosin));transform-origin:0 50%;transform:scaleX(0)}
+.readbar i{display:block;height:100%;background:linear-gradient(90deg,var(--hema),var(--hema-2));transform-origin:0 50%;transform:scaleX(0)}
 
 /* ---------- shell ---------- */
 .shell{display:grid;grid-template-columns:300px minmax(0,1fr);min-height:100vh}
 .side{position:sticky;top:0;height:100vh;overflow:auto;overscroll-behavior:contain;border-right:1px solid var(--line);background:var(--panel);padding:22px 16px 28px;display:flex;flex-direction:column;gap:16px}
 .side-head{display:flex;align-items:center;justify-content:space-between;gap:10px}
 .brand{display:flex;gap:10px;align-items:center;min-width:0}
-.brand-mark{width:38px;height:38px;border-radius:50%;flex:none;border:1px solid var(--line);
-  background:radial-gradient(circle at 35% 35%,var(--eosin) 0 22%,transparent 23%),radial-gradient(circle at 65% 62%,var(--hema) 0 18%,transparent 19%),var(--eosin-soft)}
+.brand-mark{width:44px;height:44px;border-radius:50%;flex:none;display:block}
 .brand b{font-family:var(--f-display);font-size:1.15rem;display:block;line-height:1.1}
 .brand span{font-family:var(--f-mono);font-size:.68rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase;display:block;margin-top:2px}
 .icon-btn{display:inline-grid;place-items:center;width:40px;height:40px;border-radius:10px;border:1px solid var(--line);background:var(--panel);cursor:pointer;flex:none;transition:background .2s,border-color .2s,transform .15s}
@@ -83,8 +84,8 @@ h1,h2,h3,h4,h5{font-family:var(--f-display);line-height:1.15;text-wrap:balance;m
 /* ---------- capa ---------- */
 .cover{max-width:960px;margin-inline:auto;padding-block:56px 32px;display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:36px;align-items:center}
 .eyebrow{font-family:var(--f-mono);font-size:.74rem;letter-spacing:.12em;text-transform:uppercase;color:var(--eosin);line-height:1.5}
-.cover h1{font-size:clamp(2.4rem,6vw,4.4rem);font-weight:800;letter-spacing:-.02em;margin:10px 0 14px}
-.cover h1 em{font-style:normal;color:var(--hema);background:linear-gradient(90deg,var(--hema),var(--eosin),var(--hema));background-size:200% 100%;-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;animation:shimmer 6s linear infinite}
+.cover h1{font-family:var(--f-title);font-size:clamp(2.8rem,6.6vw,4.9rem);font-weight:700;letter-spacing:-.01em;line-height:1.02;margin:10px 0 14px}
+.cover h1 em{font-style:normal;color:var(--hema);background:linear-gradient(90deg,var(--hema),var(--hema-2),var(--hema));background-size:200% 100%;-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;animation:shimmer 6s linear infinite}
 @keyframes shimmer{to{background-position:-200% 0}}
 .cover p.lede{font-size:1.15rem;color:var(--muted);max-width:52ch;margin:0 0 18px}
 .cover-img{border-radius:var(--r-lg);overflow:hidden;border:1px solid var(--line);background:#fff;margin:0;box-shadow:var(--shadow)}
@@ -105,8 +106,8 @@ h1,h2,h3,h4,h5{font-family:var(--f-display);line-height:1.15;text-wrap:balance;m
 /* ---------- capítulos ---------- */
 .chapter{padding-top:56px;border-top:1px solid var(--line);margin-top:48px}
 .ch-head{max-width:960px;margin:0 auto 28px;display:grid;grid-template-columns:auto minmax(0,1fr);gap:8px 22px;align-items:end}
-.ch-num{font-family:var(--f-display);font-weight:800;font-size:clamp(4rem,10vw,6.5rem);line-height:.8;color:var(--hema);font-variant-numeric:tabular-nums}
-.ch-head h2{font-size:clamp(1.8rem,4vw,2.6rem);font-weight:800;letter-spacing:-.015em}
+.ch-num{font-family:var(--f-title);font-weight:700;font-variant-numeric:lining-nums tabular-nums;font-size:clamp(4rem,10vw,6.5rem);line-height:.8;color:var(--hema);font-variant-numeric:tabular-nums}
+.ch-head h2{font-family:var(--f-title);font-size:clamp(2rem,4.4vw,2.9rem);font-weight:700;letter-spacing:-.005em;line-height:1.05}
 .ch-head .eyebrow{display:block;margin-bottom:6px}
 .ch-meta{grid-column:1/-1;display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:10px}
 .done-btn{font-family:var(--f-display);font-weight:600;font-size:.9rem;border:1px solid var(--hema);color:var(--hema);background:transparent;border-radius:999px;padding:6px 14px;cursor:pointer;min-height:34px;transition:background .2s,color .2s,transform .15s}
@@ -116,7 +117,7 @@ h1,h2,h3,h4,h5{font-family:var(--f-display);line-height:1.15;text-wrap:balance;m
 .goals h4{font-size:.78rem;font-family:var(--f-mono);text-transform:uppercase;letter-spacing:.1em;color:var(--muted);margin-bottom:8px;font-weight:500}
 .goals ul{margin:0;padding-left:1.1em}
 .goals li{margin:2px 0}
-.col h3{font-size:var(--s2);font-weight:700;margin:44px 0 12px;letter-spacing:-.01em}
+.col h3{font-family:var(--f-title);font-size:1.85rem;font-weight:700;margin:44px 0 12px;letter-spacing:-.01em}
 .col h3 .tag{font-family:var(--f-mono);font-size:.72rem;font-weight:500;color:var(--eosin);display:block;letter-spacing:.1em;text-transform:uppercase;margin-bottom:4px}
 .col h4{font-size:1.15rem;font-weight:700;margin:26px 0 8px}
 .col p{margin:0 0 14px}
@@ -248,7 +249,7 @@ td.num,th.num{font-variant-numeric:tabular-nums;font-family:var(--f-mono);font-s
 .vbar{display:flex;height:54px;border-radius:10px;overflow:hidden;border:1px solid var(--line);margin:12px 0 8px}
 .vbar span{display:flex;align-items:center;justify-content:center;flex-direction:column;color:#fff;font-family:var(--f-display);font-weight:700;font-size:.95rem;line-height:1.05;transition:flex-grow .7s var(--ease);min-width:0;overflow:hidden;white-space:nowrap}
 .vbar span small{font-family:var(--f-mono);font-weight:500;font-size:.66rem;opacity:.9}
-.vb-c{background:#5B3E99}.vb-t{background:#B23A6B}.vb-l{background:#2F6FB3}.vb-s{background:#1F7A5A}.vb-ca{background:#9A6B1E}
+.vb-c{background:#2E5A44}.vb-t{background:#B23A6B}.vb-l{background:#2F6FB3}.vb-s{background:#5E6B3C}.vb-ca{background:#9A6B1E}
 .vkey{display:flex;flex-wrap:wrap;gap:10px;font-family:var(--f-display);font-size:.85rem;color:var(--muted)}
 .vkey i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:5px;vertical-align:-1px}
 
@@ -476,3 +477,21 @@ td.num,th.num{font-variant-numeric:tabular-nums;font-family:var(--f-mono);font-s
   html{scroll-behavior:auto}
   *,*::before,*::after{animation:none!important;transition:none!important}
 }
+
+/* ---------- Vet do Futuro ---------- */
+.brandbar{display:flex;align-items:center;gap:12px;margin-bottom:14px}
+.brandbar img{width:64px;height:64px;border-radius:50%;box-shadow:var(--shadow)}
+.brandbar b{display:block;font-family:var(--f-title);font-size:1.35rem;line-height:1;color:var(--hema)}
+.brandbar span{font-family:var(--f-mono);font-size:.7rem;color:var(--muted);letter-spacing:.08em;text-transform:uppercase}
+.cover-logo{position:absolute;right:-14px;bottom:-14px;width:92px;height:92px;border-radius:50%;box-shadow:var(--shadow);background:var(--paper)}
+.cover-wrap{position:relative}
+.tb-logo{display:inline-block;width:28px;height:28px;border-radius:50%;vertical-align:middle;margin:-3px 6px 0 0}
+.ig{display:inline-flex;align-items:center;gap:8px;font-family:var(--f-display);font-weight:600;text-decoration:none;color:var(--hema);border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:7px 14px;min-height:38px;transition:border-color .2s,transform .15s}
+.ig:hover{border-color:var(--hema)}
+.ig svg{width:18px;height:18px;stroke:currentColor;fill:none;stroke-width:2}
+.side .ig{align-self:flex-start;font-size:.88rem}
+.book-foot{max-width:760px;margin:72px auto 0;padding-top:36px;border-top:1px solid var(--line);display:grid;grid-template-columns:auto minmax(0,1fr);gap:20px;align-items:center}
+.book-foot img{width:120px;height:120px;border-radius:50%;box-shadow:var(--shadow)}
+.book-foot h4{font-family:var(--f-title);font-size:1.8rem;margin:0 0 4px;color:var(--hema)}
+.book-foot p{margin:0 0 12px;color:var(--muted)}
+@media (max-width:560px){.book-foot{grid-template-columns:minmax(0,1fr);justify-items:center;text-align:center}.cover-logo{width:72px;height:72px;right:-6px;bottom:-10px}}
