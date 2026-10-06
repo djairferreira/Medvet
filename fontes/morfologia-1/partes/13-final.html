@@ -1,0 +1,49 @@
+
+<section class="chapter" id="flash">
+  <div class="ch-head"><div class="ch-num">★</div><div><span class="eyebrow">Revisão ativa</span><h2>Flashcards</h2></div></div>
+  <div class="col">
+    <p>Leia a pergunta, responda em voz alta e só então vire o cartão. Use “Errei” para mandar o cartão para o fim da fila.</p>
+    <div class="fc-wrap">
+      <div class="fc-controls">
+        <label for="fcFilter" class="mono" style="font-size:.8rem;color:var(--muted)">Capítulo</label>
+        <select id="fcFilter"><option value="all">Todos</option></select>
+        <button class="tbtn" type="button" id="fcShuffle">Embaralhar</button>
+      </div>
+      <div class="fc" id="fc" tabindex="0" role="button" aria-label="Virar cartão">
+        <div class="fc-in"><div class="fc-face fc-front"><small id="fcTag">Pergunta</small><div id="fcQ"></div><small>toque para virar</small></div><div class="fc-face fc-back"><small>Resposta</small><div id="fcA"></div></div></div>
+      </div>
+      <div class="fc-nav"><button class="btn ghost" type="button" id="fcPrev">← Anterior</button><span class="count" id="fcCount"></span><div style="display:flex;gap:8px"><button class="btn pink" type="button" id="fcWrong">Errei</button><button class="btn" type="button" id="fcRight">Acertei →</button></div></div>
+    </div>
+  </div>
+</section>
+
+<section class="chapter" id="simulado">
+  <div class="ch-head"><div class="ch-num">★</div><div><span class="eyebrow">25 questões sorteadas, ao menos uma de cada capítulo</span><h2>Simulado com nota</h2></div></div>
+  <div class="col">
+    <p>As questões são sorteadas do banco inteiro, com pelo menos uma de cada capítulo. Responda tudo e clique em <b>Corrigir</b>: só então aparecem as respostas e a nota. Cada simulado sorteia outras questões e outra ordem de alternativas.</p>
+    <div style="display:flex;gap:10px;flex-wrap:wrap"><button class="btn" type="button" id="simStart" data-n="25">Começar novo simulado</button></div>
+    <div id="simBox"></div>
+  </div>
+</section>
+
+<section class="chapter" id="glossario">
+  <div class="ch-head"><div class="ch-num">★</div><div><span class="eyebrow">O Atlas de Osteologia foi traduzido do espanhol</span><h2>Glossário do atlas: espanhol → português</h2></div></div>
+  <div class="col">
+    <p>As legendas do <i>Atlas de Osteologia dos Mamíferos</i> misturam espanhol e português. Use esta tabela para ler as legendas originais sem tropeçar.</p>
+    <div class="gloss">
+      <div><i>apófise</i><b>processo</b></div><div><i>agujero</i><b>forame</b></div><div><i>cúbito</i><b>ulna</b></div><div><i>peroné</i><b>fíbula</b></div>
+      <div><i>astrágalo</i><b>tálus</b></div><div><i>rótula</i><b>patela</b></div><div><i>hilera</i><b>fileira</b></div><div><i>cara</i><b>face</b></div>
+      <div><i>borde</i><b>borda / margem</b></div><div><i>surco</i><b>sulco</b></div><div><i>cuello</i><b>colo</b></div><div><i>cuerpo</i><b>corpo</b></div>
+      <div><i>cabeza</i><b>cabeça</b></div><div><i>escotadura</i><b>incisura</b></div><div><i>cresta</i><b>crista</b></div><div><i>fosa</i><b>fossa</b></div>
+      <div><i>espina</i><b>espinha</b></div><div><i>costilla</i><b>costela</b></div><div><i>esternón</i><b>esterno</b></div><div><i>suela</i><b>sola (face solear)</b></div>
+      <div><i>diente</i><b>dente</b></div><div><i>ala</i><b>asa</b></div><div><i>ilion / isquion</i><b>ílio / ísquio</b></div><div><i>pecten</i><b>pécten (borda do púbis)</b></div>
+      <div><i>hueso</i><b>osso</b></div><div><i>caballo</i><b>cavalo</b></div><div><i>perro</i><b>cão</b></div><div><i>oveja / cerdo</i><b>ovelha / porco</b></div>
+      <div><i>escafoides</i><b>carpo radial</b></div><div><i>semilunar</i><b>carpo intermédio</b></div><div><i>piramidal</i><b>carpo ulnar</b></div><div><i>pisiforme</i><b>carpo acessório</b></div>
+      <div><i>ganchoso</i><b>cárpico IV</b></div><div><i>centrotarsal</i><b>centroquartal</b></div><div><i>maleolar</i><b>maléolo</b></div><div><i>cartílago ungular</i><b>cartilagem ungular</b></div>
+    </div>
+  </div>
+</section>
+
+</main>
+</div>
+<button class="icon-btn totop" id="toTop" type="button" aria-label="Voltar ao topo"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg></button>

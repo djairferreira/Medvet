@@ -1,0 +1,87 @@
+<section class="chapter" id="tireoide">
+  <div class="ch-head">
+    <div class="ch-num">03</div>
+    <div><span class="eyebrow">Histologia · Lâmina “Tireoide e paratireoide”</span><h2>Tireoide e paratireoide: o termostato do cálcio</h2></div>
+    <div class="ch-meta"><button class="done-btn" data-done="tireoide" aria-pressed="false">Marcar como estudado</button><span class="chip">~15 min</span></div>
+  </div>
+  <div class="col">
+    <p class="oneliner">A calcitonina (tireoide) tira cálcio do sangue e põe no osso; o paratormônio (paratireoide) faz o contrário. O osso é o cofre, as duas glândulas são as chaves.</p>
+    <div class="goals"><h4>Na lâmina você precisa identificar</h4><ul>
+      <li>Glândula tireoide, folículos tireoidianos, coloide, células foliculares, células parafoliculares.</li>
+      <li>Glândula paratireoide e células principais.</li>
+      <li>A função de cada componente.</li></ul></div>
+
+    <h3><span class="tag">3.1</span>Tireoide: glândula folicular</h3>
+    <p>A tireoide é chamada de <strong>glândula folicular</strong> porque suas unidades são esferas ocas, os <strong>folículos tireoidianos</strong>, que no corte aparecem como estruturas ovais.</p>
+    <div class="cards">
+      <div class="card"><span class="role">Parede do folículo</span><h5>Células foliculares</h5><p>Epitélio simples (cúbico) que forma a parede do folículo. Produzem os hormônios <b>T3 e T4</b> (a partir da tireoglobulina) e os guardam dentro do folículo.</p></div>
+      <div class="card"><span class="role">Dentro do folículo</span><h5>Coloide</h5><p>O “gel rosa” (<b>acidófilo</b>) que preenche o folículo. Produzido pelas células foliculares, armazena T3 e T4.</p></div>
+      <div class="card"><span class="role">Ao lado do folículo</span><h5>Células parafoliculares (C)</h5><p>Células claras, maiores, entre os folículos. Produzem <b>calcitonina</b>.</p></div>
+    </div>
+    <h3><span class="tag">3.2</span>Paratireoide: glândula cordonal</h3>
+    <p>A paratireoide é <strong>cordonal</strong>: suas células se arranjam em <strong>cordões</strong>, uma em sequência da outra, como um “colar de pérolas”. Cora em roxo (<strong>basófila</strong>), contrastando com o rosa da tireoide. A população principal são as <strong>células principais</strong>, que produzem o <strong>paratormônio (PTH)</strong>.</p>
+    <div class="legend-wrap" id="lg-tir">
+      <div class="legend-head"><b>Lâmina: tireoide + paratireoide</b><button class="tbtn" data-legend="lg-tir">Esconder legenda e testar</button></div>
+      <figure class="fig"><img src="img/tireoide-paratireoide.jpg" loading="lazy" alt="Lâmina com tireoide e paratireoide lado a lado"></figure>
+      <ul class="legend">
+        <li><b>Esquerda</b><span>Paratireoide: massa roxa compacta, sem folículos</span></li>
+        <li><b>Direita</b><span>Tireoide: folículos com coloide rosa</span></li>
+      </ul>
+    </div>
+    <div class="figrow">
+      <figure class="fig"><img src="img/foliculos.jpg" loading="lazy" alt="Folículos tireoidianos com células foliculares e parafoliculares"><figcaption><b>Folículos em maior aumento.</b> Gel rosa = coloide (T3 e T4); a fila de células na parede = células foliculares; o grupo entre folículos = célula parafolicular (calcitonina).</figcaption></figure>
+      <figure class="fig"><img src="img/paratireoide-a.jpg" loading="lazy" alt="Paratireoide marcada com A ao lado da tireoide"><figcaption><b>Kahoot.</b> “A” é a paratireoide: parte principal, produz o paratormônio.</figcaption></figure>
+    </div>
+
+    <h3><span class="tag">3.3</span>O controle do cálcio</h3>
+    <section class="labbox rv calc" aria-labelledby="caTitle">
+      <header><div><span class="eyebrow">Lab interativo</span><h4 id="caTitle">Simulador do cálcio sanguíneo</h4></div></header>
+      <div class="svgwrap">
+        <svg viewBox="0 0 600 230" role="img" aria-label="Glândulas, sangue e osso trocando cálcio">
+          <defs><marker id="mkH" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="var(--hema)"/></marker>
+          <marker id="mkE" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="var(--eosin)"/></marker></defs>
+          <g class="gl" id="glT"><rect x="16" y="22" width="168" height="62" rx="14" fill="var(--eosin-soft)" stroke="var(--eosin)"/><text x="100" y="48" text-anchor="middle" font-size="14" font-weight="700">Tireoide</text><text x="100" y="68" text-anchor="middle" font-size="12" fill="var(--muted)">células parafoliculares (C)</text></g>
+          <g class="gl" id="glP"><rect x="16" y="146" width="168" height="62" rx="14" fill="var(--hema-soft)" stroke="var(--hema)"/><text x="100" y="172" text-anchor="middle" font-size="14" font-weight="700">Paratireoide</text><text x="100" y="192" text-anchor="middle" font-size="12" fill="var(--muted)">células principais</text></g>
+          <path class="flow-down" id="hCT" d="M186 54 Q216 54 232 98" marker-end="url(#mkH)"/>
+          <text x="196" y="40" font-size="12" font-weight="700" fill="var(--hema)" class="gl" id="tCT">calcitonina</text>
+          <path class="flow-up" id="hPTH" d="M186 176 Q216 176 232 134" marker-end="url(#mkE)"/>
+          <text x="194" y="206" font-size="12" font-weight="700" fill="var(--eosin)" class="gl" id="tPTH">PTH</text>
+          <rect x="236" y="88" width="140" height="56" rx="28" fill="var(--bad-soft)" stroke="var(--bad)"/>
+          <text x="306" y="112" text-anchor="middle" font-size="13" font-weight="700">Sangue</text>
+          <text x="306" y="132" text-anchor="middle" font-size="12" fill="var(--muted)" id="caVal">Ca²⁺ normal</text>
+          <path class="flow-down" id="fDown" d="M380 104 L428 104" marker-end="url(#mkH)"/>
+          <path class="flow-up" id="fUp" d="M428 128 L380 128" marker-end="url(#mkE)"/>
+          <rect x="434" y="56" width="150" height="120" rx="12" fill="var(--bone)" stroke="var(--bone-ink)"/>
+          <text x="509" y="98" text-anchor="middle" font-size="14" font-weight="700">Osso</text>
+          <text x="509" y="118" text-anchor="middle" font-size="12" fill="var(--muted)">matriz: o “cofre”</text>
+          <text x="509" y="138" text-anchor="middle" font-size="12" fill="var(--muted)">de cálcio</text>
+        </svg>
+      </div>
+      <label for="caSlider" style="display:block;font-family:var(--f-display);font-weight:600;margin:12px 0 4px">Cálcio no sangue</label>
+      <input id="caSlider" type="range" min="0" max="100" value="50" aria-describedby="caOut">
+      <div style="display:flex;justify-content:space-between;font-family:var(--f-mono);font-size:.72rem;color:var(--muted)"><span>BAIXO</span><span>NORMAL</span><span>ALTO</span></div>
+      <div style="display:grid;gap:6px;margin:10px 0">
+        <div class="mrow"><span>Osteoclastos</span><div class="meter"><i id="mOC" style="width:50%"></i></div></div>
+        <div class="mrow"><span>Osteoblastos</span><div class="meter"><i id="mOB" style="width:50%;background:var(--hema)"></i></div></div>
+      </div>
+      <div class="readout" id="caOut" aria-live="polite"></div>
+    </section>
+    <div class="flow">
+      <div class="lane down"><h5>Cálcio ALTO no sangue</h5><ol>
+        <li>Células <b>parafoliculares da tireoide</b> liberam <b>calcitonina</b>.</li>
+        <li>A calcitonina <b>inibe o osteoclasto</b> (e favorece o osteoblasto).</li>
+        <li>O cálcio sai do sangue e é guardado na <b>matriz óssea</b>.</li></ol></div>
+      <div class="lane up"><h5>Cálcio BAIXO no sangue</h5><ol>
+        <li>Células <b>principais da paratireoide</b> liberam <b>paratormônio (PTH)</b>.</li>
+        <li>O PTH estimula a <b>reabsorção óssea</b> pelos osteoclastos.</li>
+        <li>O cálcio sai da matriz óssea e vai para o <b>sangue</b>.</li></ol></div>
+    </div>
+    <div class="note mem"><b>Memorize</b><p>Calci<b>TON</b>ina “<b>TONifica</b>” o osso (põe cálcio nele). <b>PARA</b>tormônio “<b>PARA</b> de guardar” e manda o cálcio de volta ao sangue.</p></div>
+    <div class="note trap"><b>Pegadinha (estava nas anotações)</b><p>Em um resumo aparece “células paratireoides → calcitonina”. <b>Errado.</b> Calcitonina vem das células <b>parafoliculares da tireoide</b>. A paratireoide produz <b>PTH</b>. Os nomes “parafolicular” e “paratireoide” são parecidos de propósito na prova.</p></div>
+    <div class="note trap"><b>Outra confusão comum</b><p>Tireoide = <b>acidófila</b> (rosa, por causa do coloide). Paratireoide = <b>basófila</b> (roxa, células densas em cordões).</p></div>
+
+    <div class="quiz" data-quiz="tireoide"></div>
+  </div>
+</section>
+
+<!-- ================= CAP 4 ================= -->

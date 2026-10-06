@@ -1,0 +1,121 @@
+
+<section class="chapter" id="posicao">
+  <div class="ch-head">
+    <div class="ch-num">00</div>
+    <div><span class="eyebrow">Anatomia · Apostila “Visão geral” + aprofundamento</span><h2>Posição anatômica, planos e termos de direção</h2></div>
+    <div class="ch-meta"><button class="done-btn" data-done="posicao" aria-pressed="false">Marcar como estudado</button><span class="chip">~20 min</span><span class="chip">base de tudo</span></div>
+  </div>
+  <div class="col">
+    <p class="oneliner">Antes de nomear qualquer acidente ósseo, é preciso saber para onde ele aponta. Os termos de direção são o GPS da anatomia: valem para o animal parado em posição anatômica.</p>
+    <div class="goals rv"><h4>Você precisa saber</h4><ul>
+      <li>Descrever a posição anatômica de um quadrúpede.</li>
+      <li>Os planos (sagital mediano, sagital, dorsal, transversal) e os eixos.</li>
+      <li>Cranial, caudal, rostral, dorsal, ventral, medial, lateral, proximal, distal.</li>
+      <li>Quando usar dorsal/palmar e dorsal/plantar nos membros, e axial/abaxial nos dedos.</li></ul></div>
+
+    <h3><span class="tag">0.1</span>Posição anatômica</h3>
+    <p>Para estudar o corpo de um quadrúpede, o animal é imaginado <strong>em posição de alerta</strong>: os quatro membros estendidos e apoiados firmemente no solo, o pescoço erguido (formando cerca de 145° com o dorso), as narinas voltadas para a frente, as orelhas em pé e o olhar no horizonte. Todos os termos abaixo partem dessa posição, mesmo que o animal esteja deitado na mesa de cirurgia.</p>
+    <div class="figrow">
+      <figure class="fig"><img src="img/ap-07.png" loading="lazy" alt="Cão com termos de direção desenhados"><figcaption><b>Termos de direção no cão.</b> Rostral e caudal na cabeça; cranial e caudal no tronco; proximal e distal nos membros; dorsal e palmar/plantar abaixo do carpo e do tarso.</figcaption></figure>
+      <figure class="fig"><img src="img/ap-08.png" loading="lazy" alt="Equino cortado pelos planos anatômicos"><figcaption><b>Planos no equino.</b> Sagital mediano (divide em direito e esquerdo), dorsal (paralelo ao dorso) e transversal (corta o tronco ou o membro em fatias).</figcaption></figure>
+    </div>
+
+    <section class="labbox rv" aria-labelledby="dirTitle">
+      <header><div><span class="eyebrow">Lab interativo</span><h4 id="dirTitle">Laboratório de direções</h4></div>
+        <div class="ctrl" style="margin:0"><button class="tbtn" type="button" id="dirQuiz" aria-pressed="false">Me teste</button></div></header>
+      <div class="duo dir" id="dirLab">
+        <div class="svgwrap">
+          <svg viewBox="0 0 640 340" role="img" aria-label="Quadrúpede em vista lateral com setas de direção">
+            <line x1="40" y1="318" x2="610" y2="318" stroke="var(--line)" stroke-width="2"/>
+            <g class="plane" data-t="transversal"><rect x="292" y="62" width="16" height="256" rx="3" fill="var(--eosin)" opacity=".28"/><text x="300" y="56" text-anchor="middle" font-size="14" font-weight="700" fill="var(--eosin)">Plano transversal</text></g>
+            <g class="plane" data-t="pdorsal"><rect x="110" y="152" width="490" height="12" rx="3" fill="var(--sky)" opacity=".3"/><text x="606" y="148" text-anchor="end" font-size="14" font-weight="700" fill="var(--sky)">Plano dorsal</text></g>
+            <g class="animal">
+              <rect class="far" x="404" y="190" width="22" height="120" rx="10"/>
+              <rect class="far" x="198" y="186" width="24" height="124" rx="10"/>
+              <path style="fill:none;stroke:var(--bone-ink);stroke-width:9;stroke-linecap:round" d="M156 140 Q112 122 94 82"/>
+              <ellipse cx="300" cy="160" rx="150" ry="52"/>
+              <path d="M410 140 Q438 104 470 80 L502 104 Q470 140 444 186 Z"/>
+              <path d="M486 62 L476 34 L500 54 Z"/>
+              <ellipse cx="505" cy="82" rx="40" ry="28"/>
+              <path d="M532 68 L585 82 Q592 91 583 98 L532 102 Z"/>
+              <circle cx="512" cy="74" r="4" style="fill:var(--ink);stroke:none"/>
+              <rect x="388" y="192" width="24" height="118" rx="10"/>
+              <ellipse cx="403" cy="310" rx="18" ry="8"/>
+              <rect x="182" y="188" width="26" height="122" rx="10"/>
+              <ellipse cx="197" cy="310" rx="18" ry="8"/>
+            </g>
+            <g class="arw" data-t="cranial"><line x1="300" y1="40" x2="414" y2="40"/><polygon points="424,40 410,32 410,48"/><text x="360" y="28" text-anchor="middle">Cranial</text></g>
+            <g class="arw" data-t="caudal"><line x1="300" y1="40" x2="186" y2="40"/><polygon points="176,40 190,32 190,48"/><text x="240" y="28" text-anchor="middle">Caudal</text></g>
+            <g class="arw" data-t="dorsal"><line x1="300" y1="128" x2="300" y2="74"/><polygon points="300,64 292,78 308,78"/><text x="312" y="80">Dorsal</text></g>
+            <g class="arw" data-t="ventral"><line x1="300" y1="196" x2="300" y2="252"/><polygon points="300,262 292,248 308,248"/><text x="312" y="258">Ventral</text></g>
+            <g class="arw" data-t="rostral"><line x1="508" y1="40" x2="594" y2="40"/><polygon points="604,40 590,32 590,48"/><text x="556" y="28" text-anchor="middle">Rostral</text></g>
+            <g class="arw" data-t="proximal"><line x1="244" y1="298" x2="244" y2="224"/><polygon points="244,214 236,228 252,228"/><text x="254" y="262">Proximal</text></g>
+            <g class="arw" data-t="distal"><line x1="244" y1="218" x2="244" y2="292"/><polygon points="244,302 236,288 252,288"/><text x="254" y="262">Distal</text></g>
+            <g class="arw" data-t="mdorsal"><line x1="416" y1="282" x2="446" y2="282"/><polygon points="456,282 442,274 442,290"/><text x="462" y="287">Dorsal</text></g>
+            <g class="arw" data-t="palmar"><line x1="384" y1="282" x2="354" y2="282"/><polygon points="344,282 358,274 358,290"/><text x="338" y="287" text-anchor="end">Palmar</text></g>
+            <g class="arw" data-t="plantar"><line x1="178" y1="282" x2="148" y2="282"/><polygon points="138,282 152,274 152,290"/><text x="132" y="287" text-anchor="end">Plantar</text></g>
+          </svg>
+        </div>
+        <div class="svgwrap">
+          <svg viewBox="0 0 260 340" role="img" aria-label="Quadrúpede em vista cranial com planos e setas medial e lateral">
+            <line x1="20" y1="318" x2="240" y2="318" stroke="var(--line)" stroke-width="2"/>
+            <g class="plane" data-t="smediano"><rect x="127" y="34" width="6" height="284" rx="2" fill="var(--eosin)" opacity=".6"/><text x="130" y="24" text-anchor="middle" font-size="12" font-weight="700" fill="var(--eosin)">Sagital mediano</text></g>
+            <g class="plane" data-t="sagital"><rect x="168" y="34" width="6" height="284" rx="2" fill="var(--eosin)" opacity=".45"/><text x="171" y="24" text-anchor="middle" font-size="12" font-weight="700" fill="var(--eosin)">Sagital</text></g>
+            <g class="plane" data-t="pdorsal"><rect x="40" y="150" width="180" height="10" rx="3" fill="var(--sky)" opacity=".35"/></g>
+            <g class="animal">
+              <path d="M104 62 L96 30 L118 52 Z"/><path d="M156 62 L164 30 L142 52 Z"/>
+              <ellipse cx="130" cy="160" rx="78" ry="58"/>
+              <circle cx="130" cy="84" r="34"/>
+              <ellipse cx="130" cy="100" rx="16" ry="12"/>
+              <circle cx="117" cy="76" r="4" style="fill:var(--ink);stroke:none"/><circle cx="143" cy="76" r="4" style="fill:var(--ink);stroke:none"/>
+              <rect x="80" y="196" width="24" height="114" rx="10"/><ellipse cx="92" cy="310" rx="17" ry="8"/>
+              <rect x="156" y="196" width="24" height="114" rx="10"/><ellipse cx="168" cy="310" rx="17" ry="8"/>
+            </g>
+            <g class="arw" data-t="medial"><line x1="106" y1="262" x2="122" y2="262"/><polygon points="132,262 118,254 118,270"/><text x="130" y="246" text-anchor="middle">Medial</text></g>
+            <g class="arw" data-t="lateral"><line x1="78" y1="262" x2="52" y2="262"/><polygon points="42,262 56,254 56,270"/><text x="50" y="246" text-anchor="middle">Lateral</text></g>
+          </svg>
+        </div>
+      </div>
+      <div class="ctrl" id="dirBtns" role="group" aria-label="Termos de direção">
+        <button class="tbtn" type="button" data-t="cranial">Cranial</button><button class="tbtn" type="button" data-t="caudal">Caudal</button><button class="tbtn" type="button" data-t="rostral">Rostral</button><button class="tbtn" type="button" data-t="dorsal">Dorsal</button><button class="tbtn" type="button" data-t="ventral">Ventral</button><button class="tbtn" type="button" data-t="medial">Medial</button><button class="tbtn" type="button" data-t="lateral">Lateral</button><button class="tbtn" type="button" data-t="proximal">Proximal</button><button class="tbtn" type="button" data-t="distal">Distal</button><button class="tbtn" type="button" data-t="mdorsal">Dorsal (mão/pé)</button><button class="tbtn" type="button" data-t="palmar">Palmar</button><button class="tbtn" type="button" data-t="plantar">Plantar</button>
+      </div>
+      <div class="ctrl" id="planeBtns" role="group" aria-label="Planos">
+        <button class="tbtn" type="button" data-p="smediano">Plano sagital mediano</button><button class="tbtn" type="button" data-p="sagital">Plano sagital</button><button class="tbtn" type="button" data-p="pdorsal">Plano dorsal</button><button class="tbtn" type="button" data-p="transversal">Plano transversal</button>
+      </div>
+      <div class="readout" id="dirOut" aria-live="polite"><b>Toque em um termo ou em um plano.</b> A seta ou o plano aparece no animal com a definição. Em “Me teste”, a seta aparece sem nome e você escolhe o termo certo.</div>
+    </section>
+
+    <h3><span class="tag">0.2</span>Planos e eixos</h3>
+    <div class="tbl"><table>
+      <thead><tr><th>Plano</th><th>Como corta o corpo</th></tr></thead>
+      <tbody>
+        <tr><td><b>Sagital mediano</b></td><td>Passa exatamente no meio e divide o animal em duas metades simétricas, os <b>antímeros</b> direito e esquerdo</td></tr>
+        <tr><td><b>Sagital</b> (paramediano)</td><td>Qualquer plano paralelo ao sagital mediano</td></tr>
+        <tr><td><b>Dorsal</b> (frontal)</td><td>Paralelo ao dorso; separa uma parte dorsal de uma ventral</td></tr>
+        <tr><td><b>Transversal</b></td><td>Perpendicular ao eixo longo do corpo ou do membro; corta “em fatias”</td></tr>
+      </tbody></table></div>
+    <div class="tbl"><table>
+      <thead><tr><th>Eixo</th><th>Une</th></tr></thead>
+      <tbody>
+        <tr><td><b>Longitudinal</b></td><td>O centro do plano cranial ao centro do plano caudal (o “comprimento” do animal)</td></tr>
+        <tr><td><b>Sagital</b> (dorsoventral)</td><td>O centro do plano dorsal ao centro do plano ventral</td></tr>
+        <tr><td><b>Laterolateral</b> (transversal)</td><td>O lado direito ao lado esquerdo</td></tr>
+      </tbody></table></div>
+
+    <h3><span class="tag">0.3</span>Os termos, um a um</h3>
+    <div class="cards">
+      <div class="card"><span class="role">Tronco e pescoço</span><h5>Cranial × caudal</h5><p>Em direção à cabeça × em direção à cauda.</p></div>
+      <div class="card"><span class="role">Só na cabeça</span><h5>Rostral × caudal</h5><p>Na cabeça, “para a frente” é <b>rostral</b> (em direção ao focinho), porque a cabeça já é o extremo cranial.</p></div>
+      <div class="card"><span class="role">Altura</span><h5>Dorsal × ventral</h5><p>Em direção ao dorso (costas) × em direção ao ventre (barriga).</p></div>
+      <div class="card"><span class="role">Lado</span><h5>Medial × lateral</h5><p>Mais perto do plano mediano × mais longe dele.</p></div>
+      <div class="card"><span class="role">Membros</span><h5>Proximal × distal</h5><p>Mais perto do tronco × mais longe do tronco (em direção ao casco ou à unha).</p></div>
+      <div class="card"><span class="role">Mão e pé</span><h5>Dorsal × palmar / plantar</h5><p>Do carpo/tarso para baixo, a face da frente é <b>dorsal</b>; a de trás é <b>palmar</b> no torácico e <b>plantar</b> no pélvico.</p></div>
+      <div class="card"><span class="role">Dedos de ruminantes e suínos</span><h5>Axial × abaxial</h5><p>O eixo do membro passa <b>entre</b> o 3º e o 4º dedo. A face do dedo voltada para esse eixo é <b>axial</b>; a oposta é <b>abaxial</b>.</p></div>
+      <div class="card"><span class="role">Termos especiais</span><h5>Superior, inferior, interno, externo</h5><p><b>Superior/inferior</b> só para lábios e pálpebras. <b>Interno/externo</b> para cavidades e órgãos ocos.</p></div>
+    </div>
+    <div class="note deep"><b>Aprofundamento</b><p>A troca de cranial/caudal para dorsal/palmar acontece exatamente no <b>carpo</b> (e dorsal/plantar no <b>tarso</b>). Do braço até o antebraço, a face da frente do membro é <b>cranial</b>; do carpo para baixo, a mesma face passa a se chamar <b>dorsal</b>. Por isso o atlas descreve o metacarpo em “visão dorsal” e “visão palmar”, mas o úmero em “visão cranial” e “visão caudal”.</p></div>
+    <div class="note trap"><b>Pegadinha</b><p>“Dorsal” tem dois sentidos: no tronco é <b>em direção às costas</b>; na mão e no pé é <b>a face da frente</b>. A face de trás do pé nunca é “palmar”: é <b>plantar</b>.</p></div>
+
+    <div class="quiz" data-quiz="posicao"></div>
+  </div>
+</section>
