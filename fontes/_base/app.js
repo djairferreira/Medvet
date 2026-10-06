@@ -172,7 +172,12 @@ secs.forEach(s=>io.observe(s));
 
 /* ---------- barra de leitura e topo ---------- */
 const rb=$('#readbar i'),tt=$('#toTop');let tick=false;
-const onScroll=()=>{const h=document.documentElement;const p=h.scrollTop/Math.max(1,h.scrollHeight-h.clientHeight);rb.style.transform=`scaleX(${Math.min(1,p)})`;tt.classList.toggle('on',h.scrollTop>900);tick=false};
+let lastY=0,hideT=null;
+const onScroll=()=>{const h=document.documentElement;const y=h.scrollTop;const p=y/Math.max(1,h.scrollHeight-h.clientHeight);rb.style.transform=`scaleX(${Math.min(1,p)})`;
+  const up=y<lastY-4;lastY=y;
+  if(y>900&&up){tt.classList.add('on');clearTimeout(hideT);hideT=setTimeout(()=>tt.classList.remove('on'),1800)}
+  else if(!up||y<=900){if(y<=900)tt.classList.remove('on')}
+  tick=false};
 addEventListener('scroll',()=>{if(!tick){tick=true;requestAnimationFrame(onScroll)}},{passive:true}); onScroll();
 tt.addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
 
@@ -196,7 +201,7 @@ function openIG(src){
   d.addEventListener('click',e=>{if(e.target===d||e.target.closest('.acts button'))close();if(e.target.closest('.acts a'))setTimeout(close,300)});
   document.addEventListener('keydown',k);document.body.appendChild(d);document.body.classList.add('lock');$('.acts a',d).focus();
 }
-$$('[data-ig]').forEach(b=>b.addEventListener('click',e=>{e.preventDefault();if(side.classList.contains('open'))closeNav(false);openIG(document.querySelector('.cover-logo')?.src)}));
+$$('[data-ig]').forEach(b=>b.addEventListener('click',e=>{e.preventDefault();if(side.classList.contains('open'))closeNav(false);openIG(document.querySelector('.book-foot img')?.src)}));
 
 /* ---------- lightbox ---------- */
 let lastFocus=null;
