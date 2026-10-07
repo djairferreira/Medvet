@@ -9,7 +9,7 @@ pasta, titulo = sys.argv[1], sys.argv[2]
 src=os.path.join(ROOT,pasta)
 read=lambda p: open(p,encoding='utf-8').read()
 body=''.join(read(os.path.join(src,'partes',f)) for f in sorted(os.listdir(os.path.join(src,'partes'))) if f.endswith('.html'))
-js_dados=''.join(read(os.path.join(src,f)) for f in ['dados-novos.js','dados.js','roteiro.js'] if os.path.exists(os.path.join(src,f)))
+js_dados=''.join(read(os.path.join(src,f)) for f in ['dados-novos.js','dados.js','dados-extra.js','roteiro.js'] if os.path.exists(os.path.join(src,f)))
 js_w=read(os.path.join(src,'widgets.js')) if os.path.exists(os.path.join(src,'widgets.js')) else ''
 css=read(os.path.join(ROOT,'_base','estilo.css'))+(read(os.path.join(src,'estilo.css')) if os.path.exists(os.path.join(src,'estilo.css')) else ''); app=read(os.path.join(ROOT,'_base','app.js'))
 # contagens reais

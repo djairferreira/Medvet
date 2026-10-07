@@ -616,6 +616,8 @@ td.num,th.num{font-variant-numeric:tabular-nums;font-family:var(--f-mono);font-s
 html{scroll-behavior:smooth}
 @media (max-width:960px){.side{overflow-y:auto;touch-action:pan-y}.scrim{touch-action:none}}
 
+.quiz-info{margin:-4px 0 12px;font-family:var(--f-display);font-size:.875rem;color:var(--muted)}
+
 /* ===== Célula: laboratórios ===== */
 .cod-track{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0;min-height:56px}
 .cod{display:inline-flex;flex-direction:column;align-items:center;justify-content:center;min-width:52px;padding:6px 8px;border-radius:var(--r-sm);background:var(--panel);border:1px solid var(--line);transition:transform .25s var(--ease),background .25s,opacity .25s}
@@ -3080,15 +3082,22 @@ function renderQuestion(item,idx,onAnswer){
     }); opts.appendChild(b)});
   return w;
 }
+/* sorteio sem repetição: cada questão só volta depois de todo o banco ter aparecido */
+const qid=q=>{let h=0;const t=q.q;for(let i=0;i<t.length;i++)h=(h*31+t.charCodeAt(i))|0;return (h>>>0).toString(36)};
+function draw(arr,n,key){const ids=new Set(arr.map(qid));let seen=store.get(key,[]).filter(x=>ids.has(x));const sset=new Set(seen);
+  let pick=shuffle(arr.filter(q=>!sset.has(qid(q)))).slice(0,n);
+  if(pick.length<n){const got=new Set(pick.map(qid));seen=[];pick=pick.concat(shuffle(arr.filter(q=>!got.has(qid(q)))).slice(0,n-pick.length))}
+  seen=seen.concat(pick.map(qid));store.set(key,seen);return {pick,left:arr.length-new Set(seen).size}}
 $$('.quiz[data-quiz]').forEach(box=>{
   const ch=box.dataset.quiz, n=+box.dataset.n||6;
+  const all=L.Q.filter(x=>x.c===ch);
   const build=()=>{
-    const pool=shuffle(L.Q.filter(x=>x.c===ch)).slice(0,n);
+    const {pick:pool,left}=draw(all,n,'vistas:'+ch);
     let right=0,done=0;
-    box.innerHTML=`<div class="quiz-h"><h4>Teste o capítulo</h4><span class="score">0 / ${pool.length}</span></div>`;
+    box.innerHTML=`<div class="quiz-h"><h4>Teste o capítulo</h4><span class="score">0 / ${pool.length}</span></div><p class="quiz-info">Banco do capítulo: <b>${all.length}</b> questões · ${left>0?`<b>${left}</b> ainda não sorteadas nesta rodada`:'você viu todas; o próximo sorteio recomeça o ciclo'}</p>`;
     const sc=$('.score',box);
     pool.forEach((it,i)=>box.appendChild(renderQuestion(it,i+1,ok=>{done++;if(ok)right++;sc.textContent=`${right} / ${pool.length}`;
-      if(done===pool.length){const r=document.createElement('div');r.style.marginTop='10px';r.innerHTML=`<button class="tbtn" type="button">Sortear outras questões</button>`;$('button',r).onclick=build;box.appendChild(r)}})));
+      if(done===pool.length){const r=document.createElement('div');r.style.marginTop='10px';r.innerHTML=`<button class="tbtn" type="button">Sortear outras questões</button>`;$('button',r).onclick=()=>{build();box.scrollIntoView({block:'start'})};box.appendChild(r)}})));
   };
   build();
 });
@@ -3098,9 +3107,12 @@ const simBtn=$('#simStart');
 if(simBtn) simBtn.addEventListener('click',()=>{
   const box=$('#simBox'); const N=+simBtn.dataset.n||25;
   // sorteio equilibrado: ao menos 1 por capítulo antes de completar
+  const ids=new Set(L.Q.map(qid));let seen=store.get('vistas:sim',[]).filter(x=>ids.has(x));if(L.Q.length-new Set(seen).size<N)seen=[];const sset=new Set(seen);
+  const fresh=q=>!sset.has(qid(q));
   const byCap={}; L.Q.forEach(q=>{(byCap[q.c]=byCap[q.c]||[]).push(q)});
-  let pool=[]; Object.values(byCap).forEach(arr=>pool.push(shuffle(arr)[0]));
-  const rest=shuffle(L.Q.filter(q=>!pool.includes(q))); pool=shuffle(pool.concat(rest.slice(0,Math.max(0,N-pool.length)))).slice(0,N);
+  let pool=[]; Object.values(byCap).forEach(arr=>{const f=arr.filter(fresh);pool.push(shuffle(f.length?f:arr)[0])});
+  const rest=L.Q.filter(q=>!pool.includes(q)); pool=shuffle(pool.concat(shuffle(rest.filter(fresh)).concat(shuffle(rest.filter(q=>!fresh(q)))).slice(0,Math.max(0,N-pool.length)))).slice(0,N);
+  store.set('vistas:sim',seen.concat(pool.map(qid)));
   box.innerHTML=''; const answers=new Array(pool.length).fill(null);
   const bar=document.createElement('div'); bar.className='sim-bar'; bar.innerHTML=`<span>Respondidas: <b class="mono" id="simCount">0 / ${pool.length}</b></span><button class="btn" type="button" id="simGo">Corrigir</button>`; box.appendChild(bar);
   const qs=document.createElement('div'); qs.className='quiz'; box.appendChild(qs);

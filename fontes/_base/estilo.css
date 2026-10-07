@@ -598,3 +598,5 @@ td.num,th.num{font-variant-numeric:tabular-nums;font-family:var(--f-mono);font-s
 .toc a[aria-current]{box-shadow:inset 3px 0 0 var(--hema)}
 html{scroll-behavior:smooth}
 @media (max-width:960px){.side{overflow-y:auto;touch-action:pan-y}.scrim{touch-action:none}}
+
+.quiz-info{margin:-4px 0 12px;font-family:var(--f-display);font-size:.875rem;color:var(--muted)}
