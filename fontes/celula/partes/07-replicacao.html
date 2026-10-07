@@ -1,0 +1,72 @@
+
+<section class="chapter" id="replicacao">
+  <div class="ch-head">
+    <div class="ch-num">07</div>
+    <div><span class="eyebrow">Unidade II · 02.02 Replicação · Unidade III · 03.02 Duplicação do DNA</span><h2>Replicação do DNA</h2></div>
+    <div class="ch-meta"><button class="done-btn" data-done="replicacao" aria-pressed="false">Marcar como estudado</button><span class="chip">~45 min</span></div>
+  </div>
+  <div class="col">
+    <p class="oneliner">A DNA polimerase só sabe fazer duas coisas: acrescentar nucleotídeos na ponta 3′ e precisar de um iniciador. Quase tudo o que parece complicado na replicação (primer, fita descontínua, fragmentos de Okazaki, ligase) é consequência dessas duas limitações.</p>
+    <div class="goals rv"><h4>Objetivos</h4><ul>
+      <li>Explicar as premissas da replicação: semiconservativa, bidirecional, 5′→3′, várias origens.</li>
+      <li>Descrever a forquilha, a fita contínua e a descontínua.</li>
+      <li>Identificar cada enzima e sua função, na ordem em que atuam.</li>
+      <li>Relacionar a replicação a telômeros, PCR e fármacos.</li></ul></div>
+
+    <h3><span class="tag">7.1</span>As premissas</h3>
+    <div class="cards">
+      <div class="card"><span class="role">Quando</span><h5>Na fase S da interfase</h5><p>Uma única vez por ciclo celular (cap. 11).</p></div>
+      <div class="card"><span class="role">Como</span><h5>Semiconservativa</h5><p>Cada molécula-filha tem <b>uma fita antiga</b> (molde) e <b>uma nova</b>. Demonstrado por Meselson e Stahl (1958) com nitrogênio pesado.</p></div>
+      <div class="card"><span class="role">Sentido</span><h5>Sempre 5′ → 3′</h5><p>A nova fita cresce acrescentando nucleotídeos na sua ponta 3′-OH.</p></div>
+      <div class="card"><span class="role">Onde começa</span><h5>Várias origens</h5><p>Os cromossomos eucarióticos têm milhares de <b>origens de replicação</b>; bactérias, uma só.</p></div>
+      <div class="card"><span class="role">Para onde</span><h5>Bidirecional</h5><p>De cada origem saem duas <b>forquilhas</b> em sentidos opostos, formando uma “bolha”.</p></div>
+      <div class="card"><span class="role">Forma</span><h5>Assimétrica</h5><p>De um lado da forquilha a síntese é contínua; do outro, descontínua.</p></div>
+    </div>
+    <figure class="fig"><img src="img/origens-replicacao.jpg" loading="lazy" alt="Três origens de replicação formando bolhas que se fundem"><figcaption><b>Três origens contíguas.</b> As bolhas crescem nos dois sentidos e se encontram. O segmento replicado a partir de uma origem é um <b>replicon</b>; a replicação termina quando todos os replicons se unem.</figcaption></figure>
+    <div class="note deep"><b>Por que tantas origens</b><p>A polimerase eucariótica é lenta (cerca de 50 nucleotídeos por segundo, contra mil nas bactérias). Um cromossomo bovino tem dezenas de milhões de pares de bases: com uma origem só, levaria semanas. Com milhares de replicons funcionando ao mesmo tempo, a fase S dura algumas horas.</p></div>
+
+    <h3><span class="tag">7.2</span>O problema da fita antiparalela</h3>
+    <p>As duas fitas do molde correm em sentidos opostos, mas a polimerase só sintetiza 5′→3′. Na forquilha:</p>
+    <ul>
+      <li><b>Fita contínua (líder)</b>: usa como molde a fita 3′→5′. A nova fita cresce na mesma direção em que a forquilha abre, de forma <b>contínua</b>, com <b>um só primer</b>.</li>
+      <li><b>Fita descontínua (atrasada)</b>: usa como molde a fita 5′→3′. A nova fita precisa crescer “de costas” para a forquilha, em <b>pedaços curtos</b>: os <b>fragmentos de Okazaki</b> (100 a 200 nucleotídeos nos eucariontes). Cada fragmento precisa do <b>seu próprio primer</b>.</li>
+    </ul>
+    <figure class="fig"><img src="img/forquilha.jpg" loading="lazy" alt="Forquilha de replicação com cadeia adiantada e cadeia atrasada"><figcaption><b>Forquilha.</b> Cadeia adiantada (contínua, um primer) e cadeia atrasada (descontínua, vários primers e fragmentos).</figcaption></figure>
+
+    <section class="labbox rv" aria-labelledby="repTitle">
+      <header><div><span class="eyebrow">Animação interativa</span><h4 id="repTitle">A forquilha de replicação, enzima por enzima</h4></div>
+        <div class="ctrl" style="margin:0"><button class="tbtn" type="button" id="repPrev" aria-label="Etapa anterior">←</button><button class="tbtn" type="button" id="repNext">Próxima etapa →</button></div></header>
+      <div class="svgwrap"><svg id="repSvg" viewBox="0 0 600 240" role="img" aria-label="Forquilha de replicação"></svg></div>
+      <div class="readout" id="repOut" aria-live="polite"></div>
+    </section>
+
+    <h3><span class="tag">7.3</span>As enzimas, na ordem em que entram</h3>
+    <div class="tbl"><table>
+      <thead><tr><th>Enzima / proteína</th><th>Função</th></tr></thead>
+      <tbody>
+        <tr><td><b>Proteínas iniciadoras</b> (complexo de reconhecimento da origem)</td><td>Reconhecem a origem e abrem a dupla hélice</td></tr>
+        <tr><td><b>Helicase</b></td><td>Separa as fitas, rompendo as pontes de hidrogênio; abre a forquilha (gasta ATP)</td></tr>
+        <tr><td><b>Proteínas ligantes de fita simples (SSB)</b></td><td>Cobrem a fita aberta para que não volte a parear nem forme grampos</td></tr>
+        <tr><td><b>Topoisomerase I e II (girase nas bactérias)</b></td><td>À frente da forquilha, cortam e religam o DNA para aliviar o <b>superenrolamento</b> causado pela abertura</td></tr>
+        <tr><td><b>Primase</b></td><td>Sintetiza o <b>primer</b>: pequeno trecho de <b>RNA</b> (cerca de 10 nucleotídeos) que fornece a ponta 3′-OH de que a polimerase precisa</td></tr>
+        <tr><td><b>DNA polimerase</b></td><td>Acrescenta nucleotídeos complementares ao molde na ponta 3′ do primer. Nos eucariontes: <b>α</b> (junto com a primase) inicia; <b>δ</b> e <b>ε</b> alongam as fitas. Também <b>revisa</b> o que fez (atividade exonuclease 3′→5′) e corrige erros</td></tr>
+        <tr><td><b>Grampo deslizante (PCNA)</b></td><td>Anel que prende a polimerase ao DNA e impede que ela se solte</td></tr>
+        <tr><td><b>Nuclease (RNase H) e polimerase de reparo</b></td><td>Removem os primers de RNA e preenchem o espaço com DNA</td></tr>
+        <tr><td><b>DNA ligase</b></td><td>Fecha a última ligação fosfodiéster entre fragmentos vizinhos, unindo os fragmentos de Okazaki</td></tr>
+      </tbody></table></div>
+    <div class="note trap"><b>Pegadinha sobre os nomes das polimerases</b><p>O material de aula usa “DNA polimerase III” (nome da enzima bacteriana) junto com as letras gregas das eucarióticas. Na literatura atual: nas <b>bactérias</b>, a polimerase III alonga e a polimerase I remove os primers; nos <b>eucariontes</b>, a α inicia (com a primase), a ε alonga principalmente a fita contínua e a δ a descontínua. Se a prova seguir a aula, use a nomenclatura da aula; mas saiba que a ideia central é a mesma: <b>uma polimerase inicia, outras alongam, e a ligase une</b>.</p></div>
+    <div class="note mem"><b>Memorize a sequência</b><p>“<b>H</b>oje <b>T</b>odo <b>P</b>rimo <b>P</b>recisa <b>L</b>igar”: <b>H</b>elicase abre, <b>T</b>opoisomerase alivia, <b>P</b>rimase põe o primer, <b>P</b>olimerase alonga (e o primer é trocado por DNA), <b>L</b>igase une.</p></div>
+
+    <h3><span class="tag">7.4</span>Fidelidade da cópia</h3>
+    <p>A polimerase erra cerca de 1 vez a cada 10<sup>5</sup> nucleotídeos. A <strong>revisão</strong> (ela “volta” e remove o nucleotídeo errado) reduz isso para 1 em 10<sup>7</sup>, e o <strong>reparo de mau pareamento</strong> depois da replicação, para cerca de 1 em 10<sup>9</sup> a 10<sup>10</sup>. O que escapa vira mutação (cap. 10).</p>
+
+    <h3><span class="tag">7.5</span>O problema das pontas e os telômeros</h3>
+    <p>Na extremidade da fita descontínua, quando o último primer é removido, não há onde colocar um novo primer: a cada replicação, o cromossomo <strong>perde um pedaço da ponta</strong>. Os <strong>telômeros</strong> são sequências repetidas sem genes que funcionam como “capa” descartável. A <strong>telomerase</strong>, que carrega o próprio molde de RNA, alonga os telômeros. É ativa nas células germinativas, nas células-tronco e em muitas <strong>células tumorais</strong>; nas células somáticas comuns, o encurtamento progressivo dos telômeros limita o número de divisões (senescência).</p>
+    <div class="note clin"><b>Na clínica e no laboratório</b><ul>
+      <li>A <b>PCR</b> é uma replicação no tubo: calor separa as fitas (como a helicase), primers sintéticos de DNA marcam o início, e uma DNA polimerase resistente ao calor (Taq) copia. Em 30 ciclos, uma molécula vira cerca de um bilhão. Base do diagnóstico de parvovirose, cinomose, leptospirose, erliquiose, brucelose e de testes genéticos de raça.</li>
+      <li><b>Fluoroquinolonas</b> (enrofloxacina) inibem a girase e a topoisomerase IV <b>bacterianas</b>; fármacos como a doxorrubicina inibem a topoisomerase II e são usados na quimioterapia de cães e gatos.</li>
+      <li>Antivirais como o aciclovir (herpesvírus felino) são nucleotídeos falsos que encerram a cadeia de DNA viral.</li></ul></div>
+
+    <div class="quiz" data-quiz="replicacao"></div>
+  </div>
+</section>

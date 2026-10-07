@@ -11,7 +11,7 @@ read=lambda p: open(p,encoding='utf-8').read()
 body=''.join(read(os.path.join(src,'partes',f)) for f in sorted(os.listdir(os.path.join(src,'partes'))) if f.endswith('.html'))
 js_dados=''.join(read(os.path.join(src,f)) for f in ['dados-novos.js','dados.js'] if os.path.exists(os.path.join(src,f)))
 js_w=read(os.path.join(src,'widgets.js')) if os.path.exists(os.path.join(src,'widgets.js')) else ''
-css=read(os.path.join(ROOT,'_base','estilo.css')); app=read(os.path.join(ROOT,'_base','app.js'))
+css=read(os.path.join(ROOT,'_base','estilo.css'))+(read(os.path.join(src,'estilo.css')) if os.path.exists(os.path.join(src,'estilo.css')) else ''); app=read(os.path.join(ROOT,'_base','app.js'))
 # contagens reais
 info=json.loads(subprocess.check_output(['node','-e','global.window={};eval(require("fs").readFileSync(0,"utf8"));const L=window.LIVRO;console.log(JSON.stringify({q:L.Q.length,m:Object.keys(L.MATCH).length,o:Object.keys(L.ORDER).length,caps:L.caps.length}))'],input=js_dados.encode()))
 nfig=len(set(re.findall(r'src="(img/[^"]+)"',body)) | set(re.findall(r'"img": ?"(img/[^"]+)"',js_dados)))

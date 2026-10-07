@@ -1,0 +1,85 @@
+
+<section class="chapter" id="mutacao">
+  <div class="ch-head">
+    <div class="ch-num">10</div>
+    <div><span class="eyebrow">Unidade II · 02.05 Mutação (e reparo do DNA)</span><h2>Mutação e reparo do DNA</h2></div>
+    <div class="ch-meta"><button class="done-btn" data-done="mutacao" aria-pressed="false">Marcar como estudado</button><span class="chip">~40 min</span></div>
+  </div>
+  <div class="col">
+    <p class="oneliner">Mutação é qualquer mudança permanente na sequência do DNA. É a fonte de toda a variabilidade que o melhoramento animal seleciona e, ao mesmo tempo, a causa das doenças genéticas e do câncer. A célula gasta muita energia para corrigi-la antes que ela se fixe.</p>
+    <div class="goals rv"><h4>Objetivos</h4><ul>
+      <li>Classificar as mutações pela extensão e pelo efeito na proteína.</li>
+      <li>Diferenciar mutações espontâneas e induzidas, e mutações somáticas e germinativas.</li>
+      <li>Descrever os principais sistemas de reparo do DNA.</li></ul></div>
+
+    <h3><span class="tag">10.1</span>Somática ou germinativa</h3>
+    <div class="cards">
+      <div class="card"><span class="role">Não passa aos filhos</span><h5>Somática</h5><p>Ocorre numa célula do corpo e passa só às suas descendentes. Pode causar câncer naquele tecido, mas não é herdada.</p></div>
+      <div class="card"><span class="role">Passa aos filhos</span><h5>Germinativa</h5><p>Ocorre na linhagem que forma gametas. Pode ser transmitida e estará em todas as células do filho. É a que interessa no melhoramento e nas doenças hereditárias.</p></div>
+    </div>
+
+    <h3><span class="tag">10.2</span>Mutações gênicas (pontuais)</h3>
+    <div class="tbl"><table>
+      <thead><tr><th>Tipo</th><th>O que muda</th><th>Efeito na proteína</th></tr></thead>
+      <tbody>
+        <tr><td><b>Substituição: transição</b></td><td>Purina por purina (A↔G) ou pirimidina por pirimidina (C↔T)</td><td>Depende do códon</td></tr>
+        <tr><td><b>Substituição: transversão</b></td><td>Purina por pirimidina, ou o contrário</td><td>Depende do códon</td></tr>
+        <tr><td><b>Silenciosa</b></td><td>Muda o códon, mas para outro do <b>mesmo aminoácido</b></td><td>Nenhum</td></tr>
+        <tr><td><b>De sentido trocado (missense)</b></td><td>Códon passa a codificar <b>outro aminoácido</b></td><td>De nenhum a grave, conforme o aminoácido e o local</td></tr>
+        <tr><td><b>Sem sentido (nonsense)</b></td><td>Códon vira <b>códon de parada</b></td><td>Proteína <b>truncada</b>, geralmente sem função</td></tr>
+        <tr><td><b>Inserção ou deleção</b> (de 1 ou 2 nucleotídeos)</td><td>Muda a <b>fase de leitura</b> (frameshift)</td><td>Todos os aminoácidos seguintes mudam; aparece parada precoce. Geralmente grave</td></tr>
+        <tr><td>Inserção ou deleção de 3 nucleotídeos</td><td>Acrescenta ou remove um aminoácido, sem mudar a fase</td><td>Variável</td></tr>
+      </tbody></table></div>
+
+    <section class="labbox rv" aria-labelledby="mutTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="mutTitle">Provoque uma mutação e veja o que acontece com a proteína</h4></div>
+        <div class="ctrl" style="margin:0"><button class="tbtn" type="button" id="mutReset">Restaurar original</button></div></header>
+      <p style="margin:0 0 8px;font-size:.95rem;color:var(--muted)">Toque num nucleotídeo para trocá-lo por outro, ou use os botões para aplicar um tipo de mutação. A proteína é traduzida de novo na hora, e as diferenças aparecem destacadas.</p>
+      <div class="mut-seq" id="mutSeq" role="group" aria-label="Sequência de mRNA"></div>
+      <div class="ctrl" id="mutBtns" role="group" aria-label="Tipos de mutação">
+        <button class="tbtn" type="button" data-m="silenciosa">Silenciosa</button><button class="tbtn" type="button" data-m="missense">Troca de aminoácido</button><button class="tbtn" type="button" data-m="nonsense">Sem sentido</button><button class="tbtn" type="button" data-m="insercao">Inserção (+1)</button><button class="tbtn" type="button" data-m="delecao">Deleção (−1)</button>
+      </div>
+      <div class="mut-prot" id="mutProt"></div>
+      <div class="readout" id="mutOut" aria-live="polite"></div>
+    </section>
+
+    <h3><span class="tag">10.3</span>Mutações cromossômicas</h3>
+    <ul>
+      <li><b>Estruturais</b>: deleção, duplicação, inversão e translocação de segmentos (ex.: translocação robertsoniana 1/29 dos bovinos, cap. 6).</li>
+      <li><b>Numéricas</b>: <b>aneuploidias</b> (um cromossomo a mais ou a menos, como trissomias e monossomias, geralmente por não disjunção na meiose, cap. 15) e <b>poliploidias</b> (conjuntos inteiros a mais, como o embrião triploide por polispermia, cap. 17).</li>
+    </ul>
+
+    <h3><span class="tag">10.4</span>Causas</h3>
+    <div class="flow">
+      <div class="lane down"><h5>Espontâneas</h5><ol>
+        <li><b>Erros de replicação</b> que escapam da revisão.</li>
+        <li><b>Desaminação</b>: citosina perde um grupo amino e vira uracila (pareia com A).</li>
+        <li><b>Despurinação</b>: a base A ou G se solta do açúcar (milhares por célula por dia).</li>
+        <li><b>Radicais livres</b> do próprio metabolismo oxidam bases.</li></ol></div>
+      <div class="lane up"><h5>Induzidas (mutagênicos)</h5><ol>
+        <li><b>Radiação ultravioleta</b>: forma <b>dímeros de timina</b>, que distorcem a hélice.</li>
+        <li><b>Radiação ionizante</b> (raio X, gama): quebra as duas fitas.</li>
+        <li><b>Agentes químicos</b>: alquilantes, análogos de base, intercalantes; micotoxinas como a <b>aflatoxina</b>.</li>
+        <li><b>Vírus</b> que se inserem no genoma (retrovírus).</li></ol></div>
+    </div>
+    <div class="note clin"><b>Na clínica</b><ul>
+      <li>O <b>carcinoma de células escamosas</b> é comum em gatos brancos (ponta das orelhas e nariz), em bovinos de cara branca (olho, “câncer de olho” em Hereford) e em equinos de pele clara: áreas sem pigmento expostas à radiação UV acumulam dímeros de timina.</li>
+      <li>A <b>aflatoxina</b> de grãos e rações mofados é mutagênica e hepatotóxica para cães, aves, suínos e bovinos, e passa para o leite como aflatoxina M1.</li>
+      <li>Os próprios quimioterápicos alquilantes (ciclofosfamida, clorambucil) agem danificando o DNA das células tumorais, e por isso também lesam medula óssea e intestino.</li></ul></div>
+
+    <h3><span class="tag">10.5</span>Sistemas de reparo</h3>
+    <div class="tbl"><table>
+      <thead><tr><th>Sistema</th><th>Corrige</th><th>Como</th></tr></thead>
+      <tbody>
+        <tr><td><b>Revisão da polimerase</b></td><td>Nucleotídeo errado no momento da cópia</td><td>Exonuclease 3′→5′ da própria polimerase remove e repõe</td></tr>
+        <tr><td><b>Reparo de mau pareamento</b></td><td>Erros que escaparam da revisão</td><td>Reconhece a fita nova, recorta o trecho e ressintetiza</td></tr>
+        <tr><td><b>Excisão de bases</b></td><td>Uma base danificada (uracila no DNA, base oxidada)</td><td>Glicosilase remove a base; endonuclease, polimerase e ligase completam</td></tr>
+        <tr><td><b>Excisão de nucleotídeos</b></td><td>Lesões volumosas que distorcem a hélice (<b>dímeros de timina</b>)</td><td>Recorta um trecho de cerca de 30 nucleotídeos e ressintetiza</td></tr>
+        <tr><td><b>Quebra de fita dupla</b></td><td>Radiação ionizante</td><td><b>Junção de pontas não homólogas</b> (rápida, pode perder nucleotídeos) ou <b>recombinação homóloga</b> (usa a cromátide-irmã como molde, sem erro)</td></tr>
+      </tbody></table></div>
+    <div class="note deep"><b>p53, o guardião do genoma</b><p>Quando o DNA está danificado, a proteína <b>p53</b> se acumula e <b>para o ciclo celular</b> (cap. 11) para dar tempo ao reparo. Se o dano for grande demais, ela leva a célula à <b>apoptose</b>. Mutações em p53 aparecem em grande parte dos tumores de animais e humanos, porque a célula perde o freio e passa a acumular mutações. Genes como BRCA1 e BRCA2, da recombinação homóloga, também estão associados a tumores mamários em cadelas.</p></div>
+    <div class="note mem"><b>Memorize</b><p>Mutação é <b>matéria-prima da evolução e do melhoramento</b>; reparo é o que impede que ela vire caos. Todo sistema de reparo usa a fita complementar (ou a cromátide-irmã) como molde para saber o que estava certo.</p></div>
+
+    <div class="quiz" data-quiz="mutacao"></div>
+  </div>
+</section>

@@ -130,6 +130,15 @@ $$('.order[data-order]').forEach(box=>{
   $('[data-a=reset]',box).onclick=start; start();
 });
 
+/* ---------- fim de capítulo: marcar como estudado sem voltar ao topo ---------- */
+(()=>{const chs=$$('section.chapter').filter(s=>s.querySelector('.ch-head .done-btn'));
+  chs.forEach((s,i)=>{const id=s.querySelector('.ch-head .done-btn').dataset.done;const col=s.querySelector('.col')||s;
+    const nx=chs[i+1];const nt=nx?(nx.querySelector('.ch-head h2')||{}).textContent:'';
+    const f=document.createElement('div');f.className='ch-end';
+    f.innerHTML=`<div class="ch-end-txt"><b>Fim do capítulo.</b><span>Terminou de estudar? Marque aqui sem precisar voltar ao topo.</span></div>
+      <div class="ch-end-acts"><button class="done-btn" type="button" data-done="${id}" aria-pressed="false">Marcar como estudado</button>${nx?`<a class="next-ch" href="#${nx.id}">Próximo: ${esc(nt)} →</a>`:''}</div>`;
+    col.appendChild(f)})})();
+
 /* ---------- progresso ---------- */
 const caps=L.caps.filter(c=>c.track!==false).map(c=>c.id);
 let done=store.get('done',{});

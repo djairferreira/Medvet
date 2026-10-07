@@ -1,0 +1,100 @@
+
+<section class="chapter" id="meiose">
+  <div class="ch-head">
+    <div class="ch-num">15</div>
+    <div><span class="eyebrow">Unidade V · 05.01 Gametas · 05.02 Meiose</span><h2>Meiose: reduzir e misturar</h2></div>
+    <div class="ch-meta"><button class="done-btn" data-done="meiose" aria-pressed="false">Marcar como estudado</button><span class="chip">~55 min</span></div>
+  </div>
+  <div class="col">
+    <p class="oneliner">A meiose faz duas coisas que a mitose não faz: reduz o número de cromossomos à metade (para que a fecundação restaure o número da espécie) e embaralha a informação genética (para que cada gameta seja único).</p>
+    <div class="goals rv"><h4>Objetivos</h4><ul>
+      <li>Descrever as fases da meiose I e II e as subfases da prófase I.</li>
+      <li>Explicar sinapse, crossing-over e quiasmas.</li>
+      <li>Identificar as fontes de variabilidade genética.</li>
+      <li>Comparar mitose e meiose e explicar a não disjunção.</li></ul></div>
+
+    <h3><span class="tag">15.1</span>Funções da meiose</h3>
+    <ul>
+      <li><b>Formar os gametas</b> (espermatozoides e ovócitos).</li>
+      <li><b>Reduzir a ploidia</b>: de diploide (2n) para haploide (n), e o conteúdo de DNA de 4C para 1C. Assim, na fecundação, n + n = 2n, e o número de cromossomos da espécie se mantém estável geração após geração.</li>
+      <li><b>Gerar variabilidade genética</b>, base da adaptação, da evolução e do melhoramento.</li>
+    </ul>
+    <p>A meiose é precedida de <strong>uma</strong> replicação de DNA e tem <strong>duas</strong> divisões:</p>
+    <div class="cards">
+      <div class="card"><span class="role">Reducional</span><h5>Meiose I</h5><p>Separa os <b>cromossomos homólogos</b>. 2n → n. As células-filhas já são haploides, embora cada cromossomo ainda tenha duas cromátides.</p></div>
+      <div class="card"><span class="role">Equacional</span><h5>Meiose II</h5><p>Separa as <b>cromátides-irmãs</b>, como numa mitose. n → n. Não há replicação antes dela.</p></div>
+    </div>
+
+    <h3><span class="tag">15.2</span>A prófase I em cinco subfases</h3>
+    <p>É a fase mais longa e a mais importante. Nela os homólogos se encontram e trocam pedaços.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Subfase</th><th>O que acontece</th></tr></thead>
+      <tbody>
+        <tr><td><b>Leptóteno</b> (“fio fino”)</td><td>Cromossomos começam a se condensar; aparecem como filamentos longos</td></tr>
+        <tr><td><b>Zigóteno</b> (“fio pareado”)</td><td><b>Sinapse</b>: os homólogos se pareiam ponto a ponto, unidos pelo <b>complexo sinaptonêmico</b>. Cada par é um <b>bivalente</b> ou <b>tétrade</b> (2 cromossomos, 4 cromátides)</td></tr>
+        <tr><td><b>Paquíteno</b> (“fio grosso”)</td><td><b>Crossing-over</b> (permuta): troca de segmentos entre <b>cromátides não irmãs</b> de homólogos</td></tr>
+        <tr><td><b>Diplóteno</b> (“fio duplo”)</td><td>O complexo sinaptonêmico se desfaz; os homólogos se afastam mas continuam presos nos <b>quiasmas</b>, os pontos onde houve permuta. <b>Na fêmea, o ovócito para aqui</b> desde a vida fetal (1º bloqueio)</td></tr>
+        <tr><td><b>Diacinese</b></td><td>Condensação máxima; os quiasmas deslizam para as pontas (terminalização); o envoltório nuclear e o nucléolo desaparecem; o fuso se forma</td></tr>
+      </tbody></table></div>
+    <div class="note mem"><b>Memorize</b><p>“<b>L</b>á <b>Z</b>é <b>P</b>egou o <b>D</b>inheiro <b>D</b>ireto”: <b>L</b>eptóteno, <b>Z</b>igóteno, <b>P</b>aquíteno, <b>D</b>iplóteno, <b>D</b>iacinese. E: <b>Z</b>igóteno = <b>Z</b>íper (sinapse); <b>P</b>aquíteno = <b>P</b>ermuta.</p></div>
+    <div class="figrow">
+      <figure class="fig"><img src="img/profase-i-fotos.jpg" loading="lazy" alt="Fotos das subfases da prófase I"><figcaption><b>Prófase I ao microscópio:</b> leptóteno, zigóteno, paquíteno, diplóteno e diacinese, com condensação crescente.</figcaption></figure>
+      <figure class="fig"><img src="img/quiasmas.jpg" loading="lazy" alt="Quiasmas entre cromossomos homólogos"><figcaption><b>Quiasmas</b> (X): pontos de contato entre cromátides não irmãs.</figcaption></figure>
+    </div>
+
+    <h3><span class="tag">15.3</span>O restante da meiose I e a meiose II</h3>
+    <section class="labbox rv" aria-labelledby="meiTitle">
+      <header><div><span class="eyebrow">Animação interativa</span><h4 id="meiTitle">Meiose numa célula com 2n = 4</h4></div>
+        <div class="ctrl" style="margin:0"><button class="tbtn" type="button" id="meiPrev" aria-label="Fase anterior">←</button><button class="tbtn" type="button" id="meiNext">Próxima fase →</button></div></header>
+      <div class="svgwrap"><svg id="meiSvg" viewBox="0 0 600 260" role="img" aria-label="Célula em meiose"></svg></div>
+      <div class="readout" id="meiOut" aria-live="polite"></div>
+    </section>
+    <div class="tbl"><table>
+      <thead><tr><th>Fase</th><th>Eventos</th></tr></thead>
+      <tbody>
+        <tr><td><b>Metáfase I</b></td><td>Os <b>pares de homólogos</b> (bivalentes) se alinham na placa equatorial. Cada homólogo está preso a um polo</td></tr>
+        <tr><td><b>Anáfase I</b></td><td>Os <b>homólogos se separam</b> e vão a polos opostos; as cromátides-irmãs continuam juntas. A orientação de cada par é aleatória: <b>segregação independente</b></td></tr>
+        <tr><td><b>Telófase I</b> e citocinese</td><td>Duas células haploides, cada cromossomo com duas cromátides</td></tr>
+        <tr><td><b>Intercinese</b></td><td>Intervalo curto <b>sem replicação</b> de DNA</td></tr>
+        <tr><td><b>Prófase II</b></td><td>Recondensação; novo fuso</td></tr>
+        <tr><td><b>Metáfase II</b></td><td>Cromossomos alinhados na placa; cada cromátide-irmã ligada a um polo. <b>Na fêmea, o ovócito para aqui</b> até a fecundação (2º bloqueio)</td></tr>
+        <tr><td><b>Anáfase II</b></td><td><b>Cromátides-irmãs se separam</b></td></tr>
+        <tr><td><b>Telófase II</b> e citocinese</td><td>Quatro células haploides geneticamente diferentes</td></tr>
+      </tbody></table></div>
+    <div class="figrow">
+      <figure class="fig"><img src="img/metafase-i.jpg" loading="lazy" alt="Metáfase I com bivalentes"><figcaption><b>Metáfase I.</b></figcaption></figure>
+      <figure class="fig"><img src="img/anafase-i.jpg" loading="lazy" alt="Anáfase I"><figcaption><b>Anáfase I.</b></figcaption></figure>
+      <figure class="fig"><img src="img/telofase-i.jpg" loading="lazy" alt="Telófase I"><figcaption><b>Telófase I.</b></figcaption></figure>
+      <figure class="fig"><img src="img/metafase-ii.jpg" loading="lazy" alt="Metáfase II"><figcaption><b>Metáfase II.</b></figcaption></figure>
+      <figure class="fig"><img src="img/anafase-ii.jpg" loading="lazy" alt="Anáfase II"><figcaption><b>Anáfase II.</b></figcaption></figure>
+      <figure class="fig"><img src="img/telofase-ii.jpg" loading="lazy" alt="Telófase II"><figcaption><b>Telófase II.</b></figcaption></figure>
+    </div>
+
+    <h3><span class="tag">15.4</span>As três fontes de variabilidade</h3>
+    <ol class="steps">
+      <li><b>Crossing-over</b><span>Na prófase I: cada cromátide sai com uma mistura de segmentos paterno e materno.</span></li>
+      <li><b>Segregação independente</b><span>Na anáfase I: cada par se orienta ao acaso. Número de combinações = <b>2<sup>n</sup></b>. No bovino (n = 30): 2<sup>30</sup>, mais de 1 bilhão de gametas diferentes, sem contar a permuta.</span></li>
+      <li><b>Fecundação aleatória</b><span>Qual espermatozoide encontra qual ovócito é ao acaso.</span></li>
+    </ol>
+
+    <h3><span class="tag">15.5</span>Mitose × meiose</h3>
+    <div class="tbl"><table>
+      <thead><tr><th></th><th>Mitose</th><th>Meiose</th></tr></thead>
+      <tbody>
+        <tr><td><b>Onde ocorre</b></td><td>Células somáticas</td><td>Linhagem germinativa (testículo, ovário)</td></tr>
+        <tr><td><b>Divisões</b></td><td>1</td><td>2</td></tr>
+        <tr><td><b>Células produzidas</b></td><td>2, diploides, idênticas à mãe</td><td>4, haploides, diferentes entre si</td></tr>
+        <tr><td><b>Pareamento de homólogos</b></td><td>Não</td><td>Sim (prófase I)</td></tr>
+        <tr><td><b>Crossing-over</b></td><td>Não (raro)</td><td>Sim</td></tr>
+        <tr><td><b>Metáfase</b></td><td>Cromossomos individuais na placa</td><td>Metáfase I: <b>pares</b> de homólogos na placa</td></tr>
+        <tr><td><b>Função</b></td><td>Crescimento, reparo, reposição</td><td>Gametas e variabilidade</td></tr>
+      </tbody></table></div>
+    <figure class="fig"><img src="img/mitose-x-meiose.jpg" loading="lazy" alt="Quadro comparativo entre mitose e meiose"><figcaption><b>Mitose × meiose</b> no quadro da aula.</figcaption></figure>
+
+    <h3><span class="tag">15.6</span>Quando a meiose erra: não disjunção</h3>
+    <p>Se um par de homólogos não se separa na anáfase I, ou um par de cromátides na anáfase II, surgem gametas com <strong>n + 1</strong> e <strong>n − 1</strong>. Fecundados, geram embriões <strong>trissômicos (2n + 1)</strong> ou <strong>monossômicos (2n − 1)</strong>. A maioria das aneuploidias autossômicas mata o embrião cedo, e é uma causa importante de <strong>perda embrionária</strong> e retorno ao cio. O risco aumenta com a <strong>idade da fêmea</strong>, porque os ovócitos ficam parados em prófase I por anos e a coesão entre os cromossomos se enfraquece.</p>
+    <div class="note clin"><b>Na reprodução</b><p>Na produção in vitro de embriões bovinos, uma fração considerável dos embriões tem alterações cromossômicas, mais do que os produzidos no animal. Ovócitos de vacas de alta produção ou sob <b>estresse térmico</b> também têm mais erros de meiose, o que ajuda a explicar a queda de fertilidade no verão.</p></div>
+
+    <div class="quiz" data-quiz="meiose"></div>
+  </div>
+</section>

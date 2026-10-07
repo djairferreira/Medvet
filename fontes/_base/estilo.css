@@ -402,7 +402,7 @@ td.num,th.num{font-variant-numeric:tabular-nums;font-family:var(--f-mono);font-s
 .fc.flip .fc-in{transform:rotateY(180deg)}
 .fc-face{position:absolute;inset:0;backface-visibility:hidden;-webkit-backface-visibility:hidden;border-radius:18px;padding:24px;display:flex;flex-direction:column;justify-content:center;gap:8px;border:1px solid var(--line)}
 .fc-front{background:linear-gradient(135deg,var(--hema),var(--hema-2));color:var(--on-accent)}
-.fc-front small,.fc-back small{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;opacity:.85}
+.fc-front small,.fc-back small{font-family:var(--f-mono);font-size:.75rem;letter-spacing:.1em;text-transform:uppercase;opacity:.85}
 .fc-front div{font-family:var(--f-display);font-size:clamp(1.3rem,3vw,1.8rem);font-weight:700;line-height:1.2}
 .fc-back{background:var(--panel);transform:rotateY(180deg);font-size:1.05rem}
 .fc-nav{display:flex;gap:8px;flex-wrap:wrap;justify-content:space-between;align-items:center}
@@ -577,3 +577,13 @@ td.num,th.num{font-variant-numeric:tabular-nums;font-family:var(--f-mono);font-s
 /* botão de voltar ao topo: só aparece ao rolar para cima e some sozinho, para nunca cobrir o conteúdo */
 .totop{width:44px;height:44px}
 .main{padding-bottom:calc(120px + env(safe-area-inset-bottom,0px))}
+
+/* ---------- fim de capítulo ---------- */
+.ch-end{margin:40px 0 0;padding:18px;border-radius:var(--r-lg);background:var(--hema-soft);display:grid;gap:12px}
+.ch-end-txt b{display:block;font-family:var(--f-display);font-size:1.05rem}
+.ch-end-txt span{color:var(--muted);font-size:.95rem}
+.ch-end-acts{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.ch-end .done-btn{min-height:44px;padding:8px 18px;font-size:.98rem}
+.next-ch{font-family:var(--f-display);font-weight:600;text-decoration:none;color:var(--hema);padding:8px 4px;min-height:44px;display:inline-flex;align-items:center}
+.next-ch:hover{text-decoration:underline}
+.toc .unit{font-family:var(--f-mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);padding:12px 8px 4px}

@@ -1,0 +1,110 @@
+
+<section class="chapter" id="ciclo">
+  <div class="ch-head">
+    <div class="ch-num">11</div>
+    <div><span class="eyebrow">Unidade III · 03.01 a 03.04 Divisão, duplicação, interfase e pontos de checagem</span><h2>Ciclo celular, mitose e seu controle</h2></div>
+    <div class="ch-meta"><button class="done-btn" data-done="ciclo" aria-pressed="false">Marcar como estudado</button><span class="chip">~60 min</span></div>
+  </div>
+  <div class="col">
+    <p class="oneliner">O ciclo celular tem uma tarefa: duplicar o DNA uma única vez e repartir as cópias igualmente entre duas células-filhas. A mitose é só o final visível; quem decide se e quando a célula se divide são as ciclinas e as Cdks, com freios nos pontos de checagem.</p>
+    <div class="goals rv"><h4>Objetivos</h4><ul>
+      <li>Caracterizar as fases do ciclo (G1, S, G2, M) e o estado G0.</li>
+      <li>Descrever as fases da mitose e a citocinese.</li>
+      <li>Explicar o controle por ciclinas e Cdks e os três pontos de checagem.</li>
+      <li>Relacionar a perda de controle do ciclo ao câncer e a fármacos antitumorais.</li></ul></div>
+
+    <h3><span class="tag">11.1</span>Para que serve o ciclo celular</h3>
+    <p>Num organismo pluricelular, o ciclo sustenta o <strong>crescimento</strong>, a <strong>reposição</strong> de células que morrem e a <strong>regeneração</strong> de tecidos lesados. Um tecido cresce pela multiplicação do número de células, e não pelo aumento delas. O equilíbrio entre proliferação e morte celular (apoptose) é a <strong>homeostase tecidual</strong>.</p>
+    <div class="cards">
+      <div class="card"><span class="role">Dividem-se sempre</span><h5>Lábeis</h5><p>Epitélio intestinal (renovado em poucos dias), epiderme, medula óssea, células da linhagem germinativa masculina.</p></div>
+      <div class="card"><span class="role">Dividem-se se estimuladas</span><h5>Estáveis</h5><p>Ficam em G0 e voltam ao ciclo sob estímulo: hepatócitos (o fígado regenera), fibroblastos, células do túbulo renal.</p></div>
+      <div class="card"><span class="role">Não se dividem</span><h5>Permanentes</h5><p>Terminalmente diferenciadas: neurônios, cardiomiócitos, fibras musculares esqueléticas. Lesão vira cicatriz.</p></div>
+    </div>
+
+    <h3><span class="tag">11.2</span>As fases</h3>
+    <div class="figrow">
+      <figure class="fig"><img src="img/ciclo-duracao.jpg" loading="lazy" alt="Ciclo celular com fases G1, S, G2 e M, duração e G0"><figcaption><b>Ciclo de cerca de 20 horas.</b> G1, S (8 h), G2 (4 h), M (1 h); R é o ponto de restrição; G0 é a saída do ciclo.</figcaption></figure>
+      <figure class="fig"><img src="img/teor-dna.jpg" loading="lazy" alt="Teor de DNA de 2C para 4C na fase S e de volta para 2C na telófase"><figcaption><b>Teor de DNA.</b> 2C em G1, sobe para 4C durante a fase S, fica em 4C em G2 e na mitose, e volta a 2C quando a célula se divide.</figcaption></figure>
+    </div>
+    <section class="labbox rv" aria-labelledby="cicTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="cicTitle">A roda do ciclo celular</h4></div>
+        <div class="ctrl" style="margin:0"><button class="tbtn" type="button" id="cicPlay" aria-pressed="false">▶ Girar o ciclo</button></div></header>
+      <div class="duo">
+        <div class="svgwrap"><svg id="cicSvg" viewBox="0 0 320 320" role="img" aria-label="Roda do ciclo celular"></svg></div>
+        <div class="readout" id="cicOut" aria-live="polite" style="align-self:stretch"></div>
+      </div>
+    </section>
+    <div class="tbl"><table>
+      <thead><tr><th>Fase</th><th>O que acontece</th><th>Duração típica</th></tr></thead>
+      <tbody>
+        <tr><td><b>G1</b> (gap 1)</td><td>Célula cresce, sintetiza RNA e proteínas, inclusive as necessárias para replicar o DNA. Avalia o ambiente (fatores de crescimento, nutrientes, tamanho). É a fase <b>mais variável</b>: de horas a anos</td><td>Muito variável</td></tr>
+        <tr><td><b>G0</b></td><td>Estado de repouso fora do ciclo. A célula funciona normalmente mas não se prepara para dividir</td><td>Indefinida</td></tr>
+        <tr><td><b>S</b> (síntese)</td><td><b>Replicação do DNA</b> (cap. 7) e síntese de <b>histonas</b>. Duplicação do centrossomo começa. Na maioria dos casos é o <b>ponto de não retorno</b></td><td>Cerca de 8 a 12 h</td></tr>
+        <tr><td><b>G2</b> (gap 2)</td><td>Crescimento, síntese de proteínas da mitose, conferência do DNA replicado</td><td>Cerca de 3 a 4 h</td></tr>
+        <tr><td><b>M</b> (mitose + citocinese)</td><td>Divisão do núcleo (cariocinese) e do citoplasma</td><td>Menos de 1 h</td></tr>
+      </tbody></table></div>
+    <p>A <strong>interfase</strong> (G1 + S + G2) ocupa cerca de 95% do ciclo. Não é um período de “repouso”: é quando a célula duplica todo o seu conteúdo. Ao final de G2, cada cromossomo é formado por <strong>duas cromátides-irmãs</strong>, mantidas unidas pelas <strong>coesinas</strong>.</p>
+    <figure class="fig"><img src="img/fase-g2.jpg" loading="lazy" alt="Célula em G2 com centrossomo duplicado"><figcaption><b>Fase G2.</b> Centrossomo duplicado, envoltório nuclear íntegro, cromatina ainda descondensada.</figcaption></figure>
+    <div class="note trap"><b>Pegadinha</b><p>Na fase G2 a célula tem <b>o mesmo número de cromossomos</b> que em G1 (2n), mas o <b>dobro de DNA</b> (4C). Cromossomo duplicado (duas cromátides) continua contando como <b>um</b> cromossomo, porque tem um só centrômero.</p></div>
+
+    <h3><span class="tag">11.3</span>Mitose, fase a fase</h3>
+    <section class="labbox rv" aria-labelledby="mitTitle">
+      <header><div><span class="eyebrow">Animação interativa</span><h4 id="mitTitle">Mitose numa célula com 2n = 4</h4></div>
+        <div class="ctrl" style="margin:0"><button class="tbtn" type="button" id="mitPrev" aria-label="Fase anterior">←</button><button class="tbtn" type="button" id="mitNext">Próxima fase →</button></div></header>
+      <div class="svgwrap"><svg id="mitSvg" viewBox="0 0 600 260" role="img" aria-label="Célula em mitose"></svg></div>
+      <div class="readout" id="mitOut" aria-live="polite"></div>
+    </section>
+    <div class="tbl"><table>
+      <thead><tr><th>Fase</th><th>Eventos</th></tr></thead>
+      <tbody>
+        <tr><td><b>Prófase</b></td><td>Cromatina se <b>condensa</b> (condensinas) e os cromossomos ficam visíveis, cada um com duas cromátides. O nucléolo some. Os centrossomos migram para polos opostos e organizam o <b>fuso mitótico</b></td></tr>
+        <tr><td><b>Prometáfase</b></td><td>O <b>envoltório nuclear se fragmenta</b> (fosforilação das laminas). Microtúbulos do fuso “capturam” os cromossomos pelos <b>cinetocoros</b></td></tr>
+        <tr><td><b>Metáfase</b></td><td>Condensação máxima. Os cromossomos se alinham na <b>placa equatorial</b>, cada cromátide-irmã ligada a um polo. Melhor fase para contar cromossomos (cariótipo)</td></tr>
+        <tr><td><b>Anáfase</b></td><td>A <b>separase</b> corta as coesinas; as cromátides-irmãs se separam e viram cromossomos-filhos, puxados para polos opostos (encurtamento dos microtúbulos do cinetocoro e afastamento dos polos)</td></tr>
+        <tr><td><b>Telófase</b></td><td>Cromossomos chegam aos polos e se descondensam; o envoltório nuclear e o nucléolo se refazem; o fuso se desfaz</td></tr>
+        <tr><td><b>Citocinese</b></td><td>Um <b>anel contrátil de actina e miosina</b> estrangula a célula no meio (sulco de clivagem), formando duas células-filhas</td></tr>
+      </tbody></table></div>
+    <div class="figrow">
+      <figure class="fig"><img src="img/profase.jpg" loading="lazy" alt="Prófase com centrossomos e cromossomos em condensação"><figcaption><b>Prófase.</b></figcaption></figure>
+      <figure class="fig"><img src="img/prometafase.jpg" loading="lazy" alt="Prometáfase com ruptura do envoltório nuclear"><figcaption><b>Prometáfase.</b></figcaption></figure>
+      <figure class="fig"><img src="img/metafase.jpg" loading="lazy" alt="Metáfase com cromossomos na placa equatorial"><figcaption><b>Metáfase.</b></figcaption></figure>
+      <figure class="fig"><img src="img/anafase.jpg" loading="lazy" alt="Anáfase com cromossomos-filhos indo aos polos"><figcaption><b>Anáfase.</b></figcaption></figure>
+      <figure class="fig"><img src="img/telofase-citocinese.jpg" loading="lazy" alt="Telófase e anel contrátil de actina e miosina"><figcaption><b>Telófase e citocinese.</b></figcaption></figure>
+      <figure class="fig"><img src="img/separase.jpg" loading="lazy" alt="Separase cortando as coesinas"><figcaption><b>Separase</b> corta as coesinas e libera as cromátides-irmãs.</figcaption></figure>
+    </div>
+    <div class="figrow">
+      <figure class="fig dark"><img src="img/fuso-fluorescencia.jpg" loading="lazy" alt="Fuso mitótico em fluorescência"><figcaption><b>Fuso em fluorescência:</b> microtúbulos (verde) e cromossomos (vermelho).</figcaption></figure>
+      <figure class="fig"><img src="img/metafase-me.jpg" loading="lazy" alt="Metáfase ao microscópio eletrônico"><figcaption><b>Metáfase ao microscópio eletrônico.</b></figcaption></figure>
+      <figure class="fig"><img src="img/citocinese-anel.jpg" loading="lazy" alt="Citocinese em embrião"><figcaption><b>Citocinese.</b> O anel contrátil separou completamente as duas células-filhas.</figcaption></figure>
+    </div>
+    <div class="note mem"><b>Memorize</b><p>“<b>P</b>apai <b>M</b>e <b>A</b>rranjou <b>T</b>rabalho”: <b>P</b>rófase (condensa), <b>M</b>etáfase (meio), <b>A</b>náfase (afasta), <b>T</b>elófase (termina).</p></div>
+
+    <h3><span class="tag">11.4</span>O controle do ciclo: ciclinas e Cdks</h3>
+    <p>O ciclo é comandado por <strong>quinases dependentes de ciclina (Cdks)</strong>: enzimas que fosforilam serinas e treoninas de proteínas-alvo, ligando os eventos de cada fase. A Cdk sozinha é inativa; ela só funciona ligada a uma <strong>ciclina</strong>. A quantidade de Cdk é constante, mas a de cada <strong>ciclina sobe e desce</strong> ao longo do ciclo: é síntese e destruição programada (pelo complexo APC/C e o proteassomo) que dá o ritmo.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Complexo</th><th>Quando age</th><th>O que faz</th></tr></thead>
+      <tbody>
+        <tr><td><b>G1-Cdk</b> (ciclina D + Cdk4/6)</td><td>G1</td><td>Responde aos fatores de crescimento e decide entrar no ciclo; fosforila a proteína <b>Rb</b>, que libera o fator <b>E2F</b> para ligar os genes da fase S</td></tr>
+        <tr><td><b>G1/S-Cdk</b> (ciclina E + Cdk2)</td><td>Final de G1</td><td>Compromete a célula a replicar</td></tr>
+        <tr><td><b>S-Cdk</b> (ciclina A + Cdk2)</td><td>Fase S</td><td>Ativa a maquinaria de replicação nas origens e impede que o DNA seja replicado duas vezes</td></tr>
+        <tr><td><b>M-Cdk</b> (ciclina B + Cdk1)</td><td>G2/M</td><td>Fosforila <b>condensinas</b> (condensação), <b>laminas</b> (desmonta o envoltório) e proteínas associadas aos microtúbulos (monta o fuso)</td></tr>
+      </tbody></table></div>
+    <figure class="fig"><img src="img/mcdk-ativo.jpg" loading="lazy" alt="M-Cdk ativo fosforilando condensinas, laminas e proteínas motoras"><figcaption><b>M-Cdk ativo.</b> Condensação dos cromossomos, desorganização do envoltório nuclear e reorganização dos microtúbulos.</figcaption></figure>
+
+    <h3><span class="tag">11.5</span>Os três pontos de checagem</h3>
+    <figure class="fig"><img src="img/pontos-checagem.jpg" loading="lazy" alt="Pontos de checagem G1, G2 e M"><figcaption><b>Pontos de checagem.</b> 1 em G1, 2 em G2, 3 na metáfase.</figcaption></figure>
+    <div class="cards">
+      <div class="card"><span class="role">Ponto 1 · fim de G1 (ponto de restrição)</span><h5>“Vale a pena dividir?”</h5><p>A célula cresceu o suficiente? O ambiente é favorável (fatores de crescimento, nutrientes)? O DNA está íntegro? Se não, para em G1 ou vai para G0. Aqui age a <b>p53</b>, que induz o inibidor p21.</p></div>
+      <div class="card"><span class="role">Ponto 2 · G2/M</span><h5>“O DNA foi bem copiado?”</h5><p>Todo o DNA foi replicado? Há dano? A célula tem tamanho adequado? Só então ativa M-Cdk e entra em mitose.</p></div>
+      <div class="card"><span class="role">Ponto 3 · metáfase/anáfase (fuso)</span><h5>“Todos os cromossomos estão presos?”</h5><p>Enquanto houver cinetocoro sem microtúbulo, a anáfase não começa. Impede que uma célula-filha fique com cromossomo a mais ou a menos.</p></div>
+    </div>
+    <div class="note deep"><b>Proto-oncogenes e supressores de tumor</b><p>Dois tipos de genes controlam a proliferação. Os <b>proto-oncogenes</b> funcionam como acelerador (receptores de fatores de crescimento, Ras, ciclinas); mutados em <b>oncogenes</b>, ficam sempre ligados, e basta um alelo alterado. Os <b>supressores de tumor</b> funcionam como freio (p53, Rb); para perder o freio, geralmente os <b>dois alelos</b> precisam ser perdidos. O câncer surge do acúmulo de várias dessas mutações ao longo do tempo, por isso é mais comum em animais idosos.</p></div>
+    <div class="note clin"><b>Na clínica</b><ul>
+      <li>Quimioterápicos agem em fases específicas: <b>vincristina</b> (fuso, fase M), <b>citarabina</b> e metotrexato (fase S), <b>ciclofosfamida</b> (DNA, qualquer fase). Os tecidos que mais sofrem efeitos colaterais são os <b>lábeis</b>: medula óssea (neutropenia), epitélio intestinal (vômito e diarreia) e folículo piloso (cães de pelagem de crescimento contínuo, como o Poodle, perdem pelo).</li>
+      <li>O <b>índice mitótico</b> (número de figuras de mitose por campo) é usado na graduação histológica de tumores, como o mastocitoma canino: quanto mais mitoses, mais agressivo.</li>
+      <li>O <b>parvovírus</b> canino e felino só se multiplica em células na fase S. Por isso ataca justamente as células que mais se dividem: criptas intestinais (diarreia hemorrágica), medula óssea (leucopenia) e, em filhotes de gato infectados na gestação, o cerebelo em desenvolvimento (hipoplasia cerebelar).</li></ul></div>
+    <div class="note mem"><b>Apoptose × necrose</b><p><b>Apoptose</b> é a morte programada, “limpa”: a célula encolhe, a cromatina condensa, ela se fragmenta em corpos apoptóticos e é fagocitada sem inflamação (via caspases, com participação da mitocôndria). <b>Necrose</b> é a morte acidental: a célula incha, rompe e o conteúdo derramado provoca inflamação.</p></div>
+
+    <div class="quiz" data-quiz="ciclo"></div>
+  </div>
+</section>
