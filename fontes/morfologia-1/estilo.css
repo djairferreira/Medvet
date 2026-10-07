@@ -1,0 +1,24 @@
+
+/* roteiro de bancada */
+.rot-nav{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:8px;align-items:center;margin:0 0 12px}
+.rot-nav select{min-width:0;width:100%;font-family:var(--f-display);font-weight:600;font-size:.95rem;padding:9px 10px;min-height:44px;border-radius:10px;border:1px solid var(--line);background:var(--panel);color:var(--ink)}
+.match-body .rot-fig img{background:#fff;max-height:520px;border-radius:var(--r-sm)}
+.roteiro .match-foot{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:12px}
+
+/* laboratórios das unidades I, III e V */
+.he-card{display:grid;gap:4px;place-items:center;text-align:center;min-height:110px;padding:18px;border-radius:var(--r);background:var(--paper);border:1px solid var(--line);margin-bottom:10px;transition:background .3s,border-color .3s}
+.he-card .mono{font-size:.75rem;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
+.he-card b{font-family:var(--f-display);font-size:1.3rem;line-height:1.25}
+.he-card.ok{background:var(--ok-soft);border-color:var(--ok)}
+.he-card.no{background:var(--bad-soft);border-color:var(--bad)}
+.tbtn.he-b{border-color:#5B2A86}.tbtn.he-a{border-color:#C2507A}
+.ex-wrap{position:relative;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:#fff}
+.ex-wrap img{width:100%;display:block}
+.ex-dots{position:absolute;inset:0}
+.ex-dot{position:absolute;width:30px;height:30px;margin:-15px 0 0 -15px;border-radius:50%;border:3px solid #fff;background:var(--eosin);box-shadow:0 1px 6px rgba(0,0,0,.35);cursor:pointer;padding:0;transition:transform .15s}
+.ex-dot::after{content:"";position:absolute;inset:-8px;border-radius:50%}
+.ex-dot:hover,.ex-dot.on{transform:scale(1.25);background:#173A2B}
+.ex-dots.quiz .ex-dot{background:#5E6B3C}
+@media (max-width:600px){.ex-dot{width:17px;height:17px;margin:-8.5px 0 0 -8.5px;border-width:2px}.ex-dot::after{inset:-6px}}
+.sc-range{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center;font-family:var(--f-display);font-size:.875rem;color:var(--muted);margin:10px 0}
+.sc-range input{width:100%;accent-color:var(--eosin);min-height:32px}

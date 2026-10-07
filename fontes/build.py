@@ -9,12 +9,12 @@ pasta, titulo = sys.argv[1], sys.argv[2]
 src=os.path.join(ROOT,pasta)
 read=lambda p: open(p,encoding='utf-8').read()
 body=''.join(read(os.path.join(src,'partes',f)) for f in sorted(os.listdir(os.path.join(src,'partes'))) if f.endswith('.html'))
-js_dados=''.join(read(os.path.join(src,f)) for f in ['dados-novos.js','dados.js'] if os.path.exists(os.path.join(src,f)))
+js_dados=''.join(read(os.path.join(src,f)) for f in ['dados-novos.js','dados.js','roteiro.js'] if os.path.exists(os.path.join(src,f)))
 js_w=read(os.path.join(src,'widgets.js')) if os.path.exists(os.path.join(src,'widgets.js')) else ''
 css=read(os.path.join(ROOT,'_base','estilo.css'))+(read(os.path.join(src,'estilo.css')) if os.path.exists(os.path.join(src,'estilo.css')) else ''); app=read(os.path.join(ROOT,'_base','app.js'))
 # contagens reais
 info=json.loads(subprocess.check_output(['node','-e','global.window={};eval(require("fs").readFileSync(0,"utf8"));const L=window.LIVRO;console.log(JSON.stringify({q:L.Q.length,m:Object.keys(L.MATCH).length,o:Object.keys(L.ORDER).length,caps:L.caps.length}))'],input=js_dados.encode()))
-nfig=len(set(re.findall(r'src="(img/[^"]+)"',body)) | set(re.findall(r'"img": ?"(img/[^"]+)"',js_dados)))
+nfig=len(set(re.findall(r'src="(img/[^"]+)"',body)) | set(re.findall(r'"(?:img|key)": ?"(img/[^"]+)"',js_dados)))
 nlab=body.count('class="labbox')+info['m']+info['o']
 for k,v in {'NCAP':info['caps'],'NFIG':nfig,'NLAB':nlab,'NQ':info['q']}.items(): body=body.replace('{{%s}}'%k,str(v))
 cache={}
@@ -30,7 +30,7 @@ L96,L480=marca('logo-96.png'),marca('logo-480.png')
 import datetime
 body=body.replace('{{ANO}}',str(datetime.date.today().year)).replace('{{LOGO96}}',L96).replace('{{LOGO480}}',L480)
 body=re.sub(r'src="(img/[^"]+)"',lambda m:'src="%s"'%uri(m.group(1)),body)
-js_dados=re.sub(r'"img": ?"(img/[^"]+)"',lambda m:'"img":"%s"'%uri(m.group(1)),js_dados)
+js_dados=re.sub(r'"(img|key)": ?"(img/[^"]+)"',lambda m:'"%s":"%s"'%(m.group(1),uri(m.group(2))),js_dados)
 assert 'img/' not in re.sub(r'data:[^"]+','',body+js_dados).replace('fontes/img',''), 'imagem não embutida'
 html=f'''<!doctype html>
 <!-- © Vet do Futuro (@vetdofuturoo). Todos os direitos reservados. Proibida a reprodução sem autorização. -->
@@ -40,7 +40,8 @@ html=f'''<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>{titulo} · Vet do Futuro</title>
 <link rel="icon" type="image/png" href="{L96}">
-<meta name="theme-color" content="#173A2B">
+<meta name="theme-color" content="#FFFFFF">
+<script>try{{var t=localStorage.getItem("vdf-tema");if(t)document.documentElement.dataset.theme=t}}catch(e){{}}</script>
 <meta name="author" content="Vet do Futuro">
 <meta name="copyright" content="© Vet do Futuro. Todos os direitos reservados.">
 <meta name="description" content="Resumo interativo Vet do Futuro (@vetdofuturoo): {titulo}.">

@@ -157,14 +157,40 @@ const stPaint=()=>{const c=$('#stCount');if(c)c.textContent=`${Object.values(st)
 $$('.station input').forEach(i=>{i.checked=!!st[i.dataset.k];i.addEventListener('change',()=>{st[i.dataset.k]=i.checked;store.set('st',st);stPaint()})});
 stPaint();
 
+
+/* ---------- tema claro / escuro ---------- */
+(()=>{const H=document.documentElement,dk=matchMedia('(prefers-color-scheme: dark)');
+  const cur=()=>H.dataset.theme||(dk.matches?'dark':'light');
+  const ico={dark:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z"/></svg>',light:'<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M5.3 18.7l1.6-1.6M17.1 6.9l1.6-1.6"/></svg>'};
+  const meta=document.querySelector('meta[name="theme-color"]');
+  const btns=[];const paint=()=>{const t=cur();btns.forEach(b=>{b.innerHTML=t==='dark'?ico.light:ico.dark;b.setAttribute('aria-label',t==='dark'?'Usar tema claro':'Usar tema escuro');b.title=b.getAttribute('aria-label')});
+    if(meta)meta.setAttribute('content',t==='dark'?'#0F1914':'#FFFFFF')};
+  const mk=cls=>{const b=document.createElement('button');b.type='button';b.className='icon-btn theme-btn '+cls;b.addEventListener('click',()=>{const t=cur()==='dark'?'light':'dark';H.dataset.theme=t;try{localStorage.setItem('vdf-tema',t)}catch(_){}paint()});btns.push(b);return b};
+  const tp=$('.topbar .tb-prog');if(tp){const w=document.createElement('span');w.className='tb-right';tp.replaceWith(w);w.append(tp,mk('tb-theme'))}
+  const sh=$('.side-head');if(sh){const cl=$('.side-head .close');const w=document.createElement('div');w.className='side-acts';sh.insertBefore(w,cl);w.append(mk('side-theme'));if(cl)w.append(cl)}
+  dk.addEventListener?.('change',paint);paint()})();
+
 /* ---------- índice e gaveta ---------- */
 const side=$('#side'),scrim=$('#scrim'),mb=$('#menuBtn'),cb=$('#closeBtn');
 const mq=matchMedia('(max-width:960px)');
-function openNav(){side.classList.add('open');scrim.classList.add('on');document.body.classList.add('lock');mb.setAttribute('aria-expanded','true');side.removeAttribute('aria-hidden');setTimeout(()=>cb.focus(),50)}
-function closeNav(focus){side.classList.remove('open');scrim.classList.remove('on');document.body.classList.remove('lock');mb.setAttribute('aria-expanded','false');if(mq.matches)side.setAttribute('aria-hidden','true');if(focus)mb.focus()}
+/* trava a página por trás da gaveta (no iOS overflow:hidden não basta) */
+let lockY=0;
+const lockBody=()=>{lockY=scrollY;const b=document.body.style;document.body.classList.add('lock');b.position='fixed';b.top=-lockY+'px';b.left='0';b.right='0';b.width='100%'};
+const unlockBody=()=>{if(!document.body.classList.contains('lock'))return;const b=document.body.style;document.body.classList.remove('lock');b.position=b.top=b.left=b.right=b.width='';
+  const h=document.documentElement,sb=h.style.scrollBehavior;h.style.scrollBehavior='auto';scrollTo(0,lockY);h.style.scrollBehavior=sb};
+/* rola só o índice (nunca a página) até o capítulo atual */
+let tocBusy=0;
+const tocTo=(a,center,smooth)=>{if(!a)return;const sr=side.getBoundingClientRect(),r=a.getBoundingClientRect();
+  if(!center&&r.top>=sr.top+60&&r.bottom<=sr.bottom-60)return;
+  side.scrollTo({top:side.scrollTop+r.top-sr.top-(center?sr.height/2-r.height/2:80),behavior:smooth?'smooth':'auto'})};
+['wheel','touchstart','pointerdown','scroll'].forEach(ev=>side.addEventListener(ev,()=>{tocBusy=Date.now()},{passive:true}));
+function openNav(){lockBody();side.classList.add('open');scrim.classList.add('on');mb.setAttribute('aria-expanded','true');side.removeAttribute('aria-hidden');
+  requestAnimationFrame(()=>tocTo($('.toc a.on'),true,false));setTimeout(()=>cb.focus({preventScroll:true}),50)}
+function closeNav(focus){side.classList.remove('open');scrim.classList.remove('on');unlockBody();mb.setAttribute('aria-expanded','false');if(mq.matches)side.setAttribute('aria-hidden','true');if(focus)mb.focus({preventScroll:true})}
 mb.addEventListener('click',()=>side.classList.contains('open')?closeNav(true):openNav());
 cb.addEventListener('click',()=>closeNav(true));
 scrim.addEventListener('click',()=>closeNav(true));
+scrim.addEventListener('touchmove',e=>e.preventDefault(),{passive:false});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&side.classList.contains('open'))closeNav(true)});
 $$('.toc a').forEach(a=>a.addEventListener('click',e=>{if(!mq.matches)return;e.preventDefault();closeNav(false);
   const t=document.querySelector(a.getAttribute('href'));if(!t)return;
@@ -176,7 +202,11 @@ const syncMq=()=>{if(mq.matches){if(!side.classList.contains('open'))side.setAtt
 mq.addEventListener?mq.addEventListener('change',syncMq):mq.addListener(syncMq); syncMq();
 
 const links=$$('.toc a'); const secs=links.map(a=>document.querySelector(a.getAttribute('href'))).filter(Boolean);
-const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){links.forEach(a=>{const on=a.getAttribute('href')==='#'+e.target.id;a.classList.toggle('on',on);if(on&&!mq.matches)a.scrollIntoView({block:'nearest'})})}})},{rootMargin:'-30% 0px -65% 0px'});
+let curSec=null;
+const spy=()=>{const lim=innerHeight*.35;let cur=secs[0];for(const x of secs){if(x.getBoundingClientRect().top<=lim)cur=x;else break}
+  if(cur===curSec)return;curSec=cur;links.forEach(a=>{const on=a.getAttribute('href')==='#'+cur.id;a.classList.toggle('on',on);
+    if(on){a.setAttribute('aria-current','location');if(!mq.matches&&Date.now()-tocBusy>2500)tocTo(a,false,true)}else a.removeAttribute('aria-current')})};
+const io=new IntersectionObserver(spy,{rootMargin:'-30% 0px -65% 0px'});
 secs.forEach(s=>io.observe(s));
 
 /* ---------- barra de leitura e topo ---------- */
@@ -187,7 +217,7 @@ const onScroll=()=>{const h=document.documentElement;const y=h.scrollTop;const p
   if(y>900&&up){tt.classList.add('on');clearTimeout(hideT);hideT=setTimeout(()=>tt.classList.remove('on'),1800)}
   else if(!up||y<=900){if(y<=900)tt.classList.remove('on')}
   tick=false};
-addEventListener('scroll',()=>{if(!tick){tick=true;requestAnimationFrame(onScroll)}},{passive:true}); onScroll();
+addEventListener('scroll',()=>{if(!tick){tick=true;requestAnimationFrame(()=>{onScroll();spy()})}},{passive:true}); onScroll();
 tt.addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
 
 /* ---------- números da capa ---------- */

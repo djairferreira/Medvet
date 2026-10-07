@@ -2,9 +2,9 @@
    Layout: livro-atlas — índice fixo à esquerda (gaveta com fundo escurecido no celular), coluna de leitura de ~68ch, figuras e laboratórios interativos até 960px.
    Paleta da coloração H&E: hematoxilina (violeta) para estrutura, eosina (rosa) para alerta, marfim de osso para memorização. */
 :root{
-  --on-accent:#FFFFFF; --paper:#F8F2E8; --panel:#FFFDF8; --ink:#16241D; --muted:#5C685F; --line:#E2D9C9;
+  --on-accent:#FFFFFF; --paper:#FFFFFF; --panel:#FAF9F6; --ink:#16241D; --muted:#5C685F; --line:#E4E0D7;
   --hema:#173A2B; --hema-2:#5E6B3C; --hema-soft:#E6ECE1; --eosin:#A8324A; --eosin-soft:#F6E4E3;
-  --bone:#F1E9DA; --bone-2:#D9C7A4; --bone-ink:#5E4A26; --ok:#1F7A5A; --ok-soft:#E2F3EC; --bad:#B3261E; --bad-soft:#FBE9E7;
+  --bone:#F3EEE4; --bone-2:#D9C7A4; --bone-ink:#5E4A26; --ok:#1F7A5A; --ok-soft:#E2F3EC; --bad:#B3261E; --bad-soft:#FBE9E7;
   --sky:#2F6FB3; --sky-soft:#E3EEF9; --amber:#B7791F; --amber-soft:#FBF1DE;
   --scrim:rgba(20,12,30,.48); --shadow:0 1px 2px rgba(31,24,40,.06),0 8px 24px rgba(31,24,40,.08);
   --f-title:"Cormorant Garamond","Iowan Old Style",Georgia,serif;
@@ -587,3 +587,14 @@ td.num,th.num{font-variant-numeric:tabular-nums;font-family:var(--f-mono);font-s
 .next-ch{font-family:var(--f-display);font-weight:600;text-decoration:none;color:var(--hema);padding:8px 4px;min-height:44px;display:inline-flex;align-items:center}
 .next-ch:hover{text-decoration:underline}
 .toc .unit{font-family:var(--f-mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);padding:12px 8px 4px}
+
+/* ---------- tema e índice ---------- */
+.tb-right{justify-self:end;display:inline-flex;align-items:center;gap:6px}
+.side-acts{display:flex;gap:8px;align-items:center;flex:none}
+.theme-btn svg{width:19px;height:19px}
+.theme-btn svg circle{fill:none}
+.topbar .tb-theme{width:38px;height:38px}
+.side{overscroll-behavior:contain;-webkit-overflow-scrolling:touch;scrollbar-width:thin;scrollbar-color:var(--line) transparent}
+.toc a[aria-current]{box-shadow:inset 3px 0 0 var(--hema)}
+html{scroll-behavior:smooth}
+@media (max-width:960px){.side{overflow-y:auto;touch-action:pan-y}.scrim{touch-action:none}}
