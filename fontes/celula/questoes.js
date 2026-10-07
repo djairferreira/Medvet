@@ -1,5 +1,2106 @@
-/* Banco ampliado de questões (sorteio sem repetição). Formato: {c, q, o:[certa, ...erradas], e} */
-window.LIVRO.Q.push(...[
+/* Banco de questões do livro (sorteio sem repetição no app). Formato: {c, q, o:[certa, ...erradas], e} */
+window.LIVRO.Q=[
+{
+"c": "procariontes",
+"q": "Qual característica define uma célula procariótica?",
+"o": [
+"Material genético livre no citoplasma, sem envoltório nuclear",
+"Ausência de ribossomos e de qualquer síntese proteica própria",
+"Ausência de membrana plasmática, substituída pela parede celular",
+"Presença de mitocôndrias pequenas espalhadas pelo citoplasma"
+],
+"e": "Procariontes têm DNA no nucleoide, sem carioteca. Têm membrana plasmática e ribossomos 70S, mas não têm organelas membranosas."
+},
+{
+"c": "procariontes",
+"q": "Os ribossomos bacterianos são do tipo:",
+"o": [
+"70S (subunidades 50S + 30S)",
+"80S (60S + 40S)",
+"90S",
+"55S, iguais aos mitocondriais de mamíferos"
+],
+"e": "70S nos procariontes; 80S no citoplasma dos eucariontes. Essa diferença é alvo de antimicrobianos como tetraciclinas e aminoglicosídeos."
+},
+{
+"c": "procariontes",
+"q": "Na coloração de Gram, as bactérias Gram-positivas ficam roxas porque:",
+"o": [
+"Têm parede espessa de peptidoglicano que retém o cristal violeta",
+"Têm membrana externa com lipopolissacarídeo que fixa o corante roxo",
+"Não têm parede celular, e o corante se acumula no citoplasma",
+"Têm cápsula espessa que absorve a safranina e escurece a célula"
+],
+"e": "A camada grossa de peptidoglicano retém o complexo cristal violeta–iodo após o álcool. Gram-negativas perdem o corante e ficam rosadas pela safranina."
+},
+{
+"c": "procariontes",
+"q": "O lipopolissacarídeo (LPS), responsável pela endotoxemia em equinos com cólica, faz parte:",
+"o": [
+"Da membrana externa das bactérias Gram-negativas",
+"Da parede espessa de peptidoglicano das Gram-positivas",
+"Da cápsula polissacarídica das bactérias Gram-positivas",
+"Do filamento de flagelina do flagelo bacteriano"
+],
+"e": "O LPS (lipídio A) fica na membrana externa das Gram-negativas e é liberado quando elas morrem ou se multiplicam, causando choque endotóxico."
+},
+{
+"c": "procariontes",
+"q": "Por que a penicilina não lesa as células do animal tratado?",
+"o": [
+"Porque age no peptidoglicano, que células animais não têm",
+"Porque não atravessa a membrana das células animais",
+"Porque age nos ribossomos 80S",
+"Porque é degradada no fígado antes de agir"
+],
+"e": "Os betalactâmicos inibem a síntese de peptidoglicano, estrutura exclusiva da parede bacteriana: alvo seletivo."
+},
+{
+"c": "procariontes",
+"q": "Plasmídeos são importantes na clínica porque:",
+"o": [
+"Carregam genes de resistência e podem passar entre bactérias",
+"Formam a parede celular e determinam o resultado do Gram",
+"São o local da respiração celular na ausência de mitocôndrias",
+"Produzem os flagelos e as fímbrias usados na adesão ao hospedeiro"
+],
+"e": "Plasmídeos são DNA circular extracromossômico, transferidos por conjugação; espalham genes de resistência a antimicrobianos entre bactérias."
+},
+{
+"c": "procariontes",
+"q": "A cápsula bacteriana tem como principal papel na doença:",
+"o": [
+"Proteger contra a fagocitose",
+"Realizar a fotossíntese da bactéria",
+"Sintetizar as proteínas de virulência",
+"Armazenar o DNA cromossômico"
+],
+"e": "A cápsula de polissacarídeo dificulta a fagocitose e favorece a virulência."
+},
+{
+"c": "procariontes",
+"q": "Qual destas estruturas está presente tanto em procariontes quanto em eucariontes?",
+"o": [
+"Membrana plasmática e ribossomos",
+"Mitocôndria com DNA circular próprio",
+"Retículo endoplasmático rugoso",
+"Envoltório nuclear com poros"
+],
+"e": "Toda célula tem membrana plasmática, citoplasma, ribossomos e DNA. As organelas membranosas são exclusivas dos eucariontes."
+},
+{
+"c": "procariontes",
+"q": "Uma bactéria esférica que forma cachos é chamada:",
+"o": [
+"Estafilococo",
+"Estreptococo",
+"Bacilo",
+"Espirilo"
+],
+"e": "Cocos em cachos = estafilococos; em cadeias = estreptococos; bastonetes = bacilos."
+},
+{
+"c": "membrana",
+"q": "O modelo atual de estrutura da membrana plasmática é o:",
+"o": [
+"Mosaico fluido",
+"Sanduíche de proteínas",
+"Bicamada rígida de colesterol",
+"Monocamada lipídica"
+],
+"e": "Singer e Nicolson (1972): bicamada lipídica fluida com proteínas inseridas como peças de um mosaico."
+},
+{
+"c": "membrana",
+"q": "Os fosfolipídios formam bicamada em água porque são:",
+"o": [
+"Anfipáticos: cabeça hidrofílica e caudas hidrofóbicas",
+"Totalmente hidrofílicos, dissolvendo-se de forma homogênea",
+"Totalmente hidrofóbicos, com cabeça e caudas apolares",
+"Ligados covalentemente às proteínas integrais da membrana"
+],
+"e": "As caudas fogem da água e se voltam umas para as outras; as cabeças ficam viradas para o meio aquoso."
+},
+{
+"c": "membrana",
+"q": "O colesterol na membrana animal:",
+"o": [
+"Modula a fluidez, evitando que fique fluida ou rígida demais",
+"Forma os canais iônicos que atravessam toda a bicamada",
+"Transporta a glicose do meio extracelular para dentro do citosol",
+"Fica apenas na face externa e forma o glicocálice"
+],
+"e": "Ele se intercala entre os fosfolipídios e funciona como tampão de fluidez com a temperatura."
+},
+{
+"c": "membrana",
+"q": "O glicocálice é formado por:",
+"o": [
+"Carboidratos ligados a proteínas e lipídios da face externa",
+"Fosfolipídios da face interna voltados para o citosol",
+"Filamentos de actina ligados à face interna da membrana",
+"Colesterol e água acumulados entre as duas monocamadas"
+],
+"e": "Cadeias de carboidratos de glicoproteínas e glicolipídios da face externa formam o glicocálice: reconhecimento celular, adesão, proteção. Os antígenos de grupos sanguíneos são parte dele."
+},
+{
+"c": "membrana",
+"q": "A bomba de Na⁺/K⁺ transporta, a cada ATP gasto:",
+"o": [
+"3 Na⁺ para fora e 2 K⁺ para dentro",
+"2 Na⁺ para fora e 3 K⁺ para dentro",
+"3 Na⁺ para dentro e 2 K⁺ para fora",
+"1 Na⁺ e 1 K⁺ no mesmo sentido"
+],
+"e": "Transporte ativo primário contra os gradientes; mantém o potencial de membrana e o volume celular."
+},
+{
+"c": "membrana",
+"q": "A absorção de glicose no intestino junto com o sódio (SGLT) é um exemplo de:",
+"o": [
+"Transporte ativo secundário (cotransporte)",
+"Difusão simples a favor do gradiente químico",
+"Transporte ativo primário por ATPase",
+"Fagocitose mediada por receptores"
+],
+"e": "A energia vem do gradiente de Na⁺ criado pela bomba Na⁺/K⁺. É a base da terapia de reidratação oral com glicose e sódio em bezerros com diarreia."
+},
+{
+"c": "membrana",
+"q": "Uma hemácia colocada em solução hipotônica:",
+"o": [
+"Ganha água e pode sofrer hemólise",
+"Perde água e murcha (crenação)",
+"Não se altera",
+"Perde sódio por difusão facilitada"
+],
+"e": "A água vai do meio menos concentrado (solução) para o mais concentrado (citoplasma). Por isso não se infunde água pura na veia."
+},
+{
+"c": "membrana",
+"q": "Qual substância atravessa a bicamada por difusão simples?",
+"o": [
+"O₂ e CO₂",
+"Glicose",
+"Íons Na⁺",
+"Proteínas"
+],
+"e": "Moléculas pequenas e apolares (gases, esteroides) passam direto pela bicamada. Íons e glicose precisam de proteínas."
+},
+{
+"c": "membrana",
+"q": "A difusão facilitada se diferencia da difusão simples porque:",
+"o": [
+"Usa proteína transportadora ou canal e satura",
+"Gasta ATP diretamente para mover o soluto",
+"Vai contra o gradiente de concentração do soluto",
+"Só ocorre em bactérias e em células vegetais"
+],
+"e": "Ambas são passivas (a favor do gradiente), mas a facilitada depende de proteínas e tem velocidade máxima."
+},
+{
+"c": "membrana",
+"q": "As aquaporinas são:",
+"o": [
+"Canais proteicos para a passagem de água",
+"Bombas que gastam ATP para expulsar água",
+"Lipídios do glicocálice",
+"Vesículas de pinocitose"
+],
+"e": "Elas aceleram muito a osmose; no rim, a ADH insere aquaporinas no ducto coletor para concentrar a urina."
+},
+{
+"c": "organelas",
+"q": "Proteínas que serão secretadas pela célula são sintetizadas em:",
+"o": [
+"Ribossomos do retículo endoplasmático rugoso",
+"Ribossomos livres dispersos no citosol",
+"Mitocôndrias, com seus ribossomos próprios",
+"Peroxissomos, a partir de aminoácidos importados"
+],
+"e": "Proteínas de secreção, de membrana e de lisossomos são feitas no RER e seguem para o Golgi."
+},
+{
+"c": "organelas",
+"q": "O retículo endoplasmático liso é abundante em hepatócitos porque participa de:",
+"o": [
+"Detoxificação de fármacos e síntese de lipídios",
+"Síntese de proteínas de secreção e de membrana",
+"Digestão intracelular de organelas envelhecidas",
+"Síntese de ATP pela fosforilação oxidativa"
+],
+"e": "No REL estão enzimas do citocromo P450, que metabolizam fármacos. Fenobarbital induz a proliferação do REL."
+},
+{
+"c": "organelas",
+"q": "No complexo de Golgi, a face cis:",
+"o": [
+"Recebe as vesículas vindas do RE",
+"Libera as vesículas de secreção",
+"É onde ficam os ribossomos",
+"É a face voltada para a membrana plasmática apenas em neurônios"
+],
+"e": "Cis = entrada (voltada para o RE); trans = saída. No caminho ocorre glicosilação e endereçamento."
+},
+{
+"c": "organelas",
+"q": "O sinal que endereça enzimas aos lisossomos é:",
+"o": [
+"Manose-6-fosfato adicionada no Golgi",
+"Sequência KDEL na extremidade carboxila",
+"Ubiquitina ligada a resíduos de lisina",
+"Peptídeo-sinal mitocondrial aminoterminal"
+],
+"e": "Receptores de manose-6-fosfato na rede trans do Golgi desviam as hidrolases para os endossomos/lisossomos. Falhas causam doenças de depósito lisossômico."
+},
+{
+"c": "organelas",
+"q": "As enzimas lisossômicas funcionam melhor em pH:",
+"o": [
+"Ácido, por volta de 4,5 a 5",
+"Neutro, em torno de 7,2",
+"Básico, por volta de 8,5 a 9",
+"Qualquer pH, sem diferença de atividade"
+],
+"e": "Uma bomba de prótons (H⁺-ATPase) acidifica o lisossomo. Se uma enzima escapa ao citosol (pH 7,2), quase não age: proteção da célula."
+},
+{
+"c": "organelas",
+"q": "A teoria endossimbiótica é sustentada por qual característica das mitocôndrias?",
+"o": [
+"DNA circular próprio e ribossomos semelhantes aos bacterianos",
+"Ausência de membranas",
+"Origem a partir do Golgi",
+"Presença de cromatina com histonas iguais às do núcleo"
+],
+"e": "Mitocôndrias têm dupla membrana, DNA circular, ribossomos 70S-like e dividem-se por fissão, como bactérias."
+},
+{
+"c": "organelas",
+"q": "O DNA mitocondrial é herdado:",
+"o": [
+"Pela mãe",
+"Pelo pai",
+"Igualmente pelos dois",
+"Apenas por machos"
+],
+"e": "As mitocôndrias do espermatozoide são destruídas no ovócito após a fecundação."
+},
+{
+"c": "organelas",
+"q": "Peroxissomos são caracterizados por:",
+"o": [
+"Oxidar ácidos graxos muito longos e degradar H₂O₂ por catalase",
+"Produzir ATP pela cadeia respiratória em suas cristas internas",
+"Sintetizar proteínas de secreção em ribossomos aderidos",
+"Fazer a glicosilação terminal de proteínas vindas do RE"
+],
+"e": "Fazem β-oxidação de ácidos graxos de cadeia muito longa, geram H₂O₂ e o decompõem com a catalase."
+},
+{
+"c": "organelas",
+"q": "O nucléolo é o local de:",
+"o": [
+"Síntese do rRNA e montagem das subunidades do ribossomo",
+"Replicação do DNA mitocondrial antes da divisão celular",
+"Síntese de lipídios de membrana e de hormônios esteroides",
+"Digestão intracelular de proteínas marcadas com ubiquitina"
+],
+"e": "No nucléolo a RNA polimerase I transcreve o rRNA, que se junta a proteínas para formar as subunidades."
+},
+{
+"c": "organelas",
+"q": "As cristas mitocondriais aumentam a superfície da:",
+"o": [
+"Membrana interna, onde fica a cadeia respiratória",
+"Membrana externa, onde ficam as porinas e a ATP sintase",
+"Matriz, onde ocorrem o ciclo de Krebs e a glicólise",
+"Membrana do RE liso associada à mitocôndria"
+],
+"e": "As cristas são dobras da membrana interna, onde ficam a cadeia respiratória e a ATP sintase. Mais área de membrana interna = mais complexos respiratórios. Células muito ativas (músculo cardíaco) têm cristas abundantes."
+},
+{
+"c": "citoesqueleto",
+"q": "O fuso mitótico é formado por:",
+"o": [
+"Microtúbulos",
+"Microfilamentos de actina",
+"Filamentos intermediários",
+"Queratina"
+],
+"e": "Os microtúbulos do fuso se ligam aos cinetócoros e separam as cromátides."
+},
+{
+"c": "citoesqueleto",
+"q": "O anel contrátil da citocinese é formado por:",
+"o": [
+"Actina e miosina",
+"Tubulina e dineína",
+"Queratina",
+"Vimentina"
+],
+"e": "Um anel de actina e miosina II estrangula a célula no fim da mitose."
+},
+{
+"c": "citoesqueleto",
+"q": "A proteína motora que leva vesículas pelo axônio em direção ao terminal (extremidade +) é a:",
+"o": [
+"Cinesina",
+"Dineína",
+"Miosina II",
+"Actina"
+],
+"e": "Cinesina: para a extremidade + (periferia). Dineína: para a extremidade − (corpo celular, centro)."
+},
+{
+"c": "citoesqueleto",
+"q": "O padrão do axonema de cílios e flagelos é:",
+"o": [
+"9 pares de microtúbulos periféricos + 2 centrais",
+"9 trincas de microtúbulos periféricos, sem centrais",
+"9 pares periféricos de actina, sem par central (9 + 0)",
+"13 protofilamentos isolados dispostos em anel"
+],
+"e": "9 + 2. Os centríolos e corpúsculos basais têm 9 trincas."
+},
+{
+"c": "citoesqueleto",
+"q": "Os filamentos intermediários têm como principal função:",
+"o": [
+"Dar resistência mecânica à tração",
+"Formar o fuso mitótico na divisão",
+"Movimentar cílios e flagelos",
+"Contrair as fibras musculares"
+],
+"e": "São cordas resistentes; as queratinas ancoram desmossomos e hemidesmossomos."
+},
+{
+"c": "citoesqueleto",
+"q": "Colchicina e vincristina interferem em qual estrutura?",
+"o": [
+"Microtúbulos, bloqueando a mitose em metáfase",
+"Microfilamentos de actina, impedindo a citocinese",
+"Filamentos intermediários, rompendo os desmossomos",
+"Membrana nuclear, impedindo sua reorganização"
+],
+"e": "Impedem a polimerização da tubulina; por isso a vincristina é usada como quimioterápico e a colchicina para obter cariótipos."
+},
+{
+"c": "citoesqueleto",
+"q": "Na discinesia ciliar primária (descrita em cães), há falha de qual proteína?",
+"o": [
+"Dineína do axonema",
+"Queratina",
+"Actina das microvilosidades",
+"Lamina nuclear"
+],
+"e": "Sem os braços de dineína, cílios e flagelos não batem: infecções respiratórias e espermatozoides imóveis."
+},
+{
+"c": "citoesqueleto",
+"q": "As microvilosidades do intestino são sustentadas por:",
+"o": [
+"Feixes de actina",
+"Microtúbulos 9+2",
+"Filamentos de queratina",
+"Centríolos"
+],
+"e": "Feixes de microfilamentos de actina mantêm a estrutura das microvilosidades."
+},
+{
+"c": "citoesqueleto",
+"q": "Na prática diagnóstica, a imuno-histoquímica para filamentos intermediários serve para:",
+"o": [
+"Identificar a origem tecidual de um tumor",
+"Medir a velocidade da mitose nas células tumorais",
+"Detectar bactérias Gram-negativas no tecido",
+"Dosar o ATP disponível nas células da lesão"
+],
+"e": "Os filamentos intermediários indicam a origem do tumor: queratina = epitelial (carcinoma); vimentina = mesenquimal (sarcoma); desmina = muscular; GFAP = astrócitos (neural)."
+},
+{
+"c": "juncoes",
+"q": "A junção que veda o espaço entre células epiteliais e impede a passagem de substâncias é a:",
+"o": [
+"Junção de oclusão (zônula de oclusão)",
+"Junção comunicante (junção do tipo gap)",
+"Desmossomo (mácula de adesão)",
+"Hemidesmossomo ligado à lâmina basal"
+],
+"e": "Claudinas e ocludinas selam o espaço intercelular e mantêm a polaridade do epitélio."
+},
+{
+"c": "juncoes",
+"q": "Junções comunicantes (gap) são formadas por:",
+"o": [
+"Conexinas, que formam canais entre células vizinhas",
+"Caderinas, que formam túneis entre os citoplasmas",
+"Integrinas, que formam poros entre citoplasmas vizinhos",
+"Claudinas, que ligam o citoplasma de células vizinhas"
+],
+"e": "Conexons de conexinas permitem passagem de íons e pequenas moléculas; sincronizam o músculo cardíaco."
+},
+{
+"c": "juncoes",
+"q": "O hemidesmossomo prende a célula:",
+"o": [
+"À lâmina basal, por integrinas",
+"À célula vizinha, por caderinas",
+"Ao lúmen",
+"Ao núcleo"
+],
+"e": "Desmossomo: célula–célula (caderinas). Hemidesmossomo: célula–lâmina basal (integrinas)."
+},
+{
+"c": "juncoes",
+"q": "O pênfigo foliáceo, comum em cães, é causado por:",
+"o": [
+"Anticorpos contra a desmogleína dos desmossomos",
+"Falha da bomba Na⁺/K⁺ nos queratinócitos",
+"Excesso de junções comunicantes na epiderme",
+"Deficiência de actina nas células basais"
+],
+"e": "Sem desmossomos, os queratinócitos se soltam (acantólise) e formam pústulas e crostas."
+},
+{
+"c": "juncoes",
+"q": "Hormônios esteroides atuam principalmente por receptores:",
+"o": [
+"Intracelulares, que regulam a transcrição",
+"Acoplados à proteína G na membrana",
+"Canais iônicos",
+"Tirosina-quinase"
+],
+"e": "São lipossolúveis, atravessam a membrana e se ligam a receptores citoplasmáticos/nucleares que agem como fatores de transcrição."
+},
+{
+"c": "juncoes",
+"q": "Na sinalização parácrina, o sinal:",
+"o": [
+"Age em células vizinhas",
+"Viaja pelo sangue a órgãos distantes",
+"Age na própria célula que o produziu",
+"Passa por junções comunicantes"
+],
+"e": "Endócrina = pelo sangue; parácrina = vizinhas; autócrina = a própria célula."
+},
+{
+"c": "juncoes",
+"q": "A insulina atua através de um receptor do tipo:",
+"o": [
+"Tirosina-quinase",
+"Acoplado à proteína G",
+"Intracelular nuclear",
+"Canal iônico"
+],
+"e": "O receptor de insulina tem atividade de quinase que fosforila tirosinas."
+},
+{
+"c": "juncoes",
+"q": "O AMPc é um exemplo de:",
+"o": [
+"Segundo mensageiro",
+"Primeiro mensageiro",
+"Receptor",
+"Junção celular"
+],
+"e": "O hormônio é o primeiro mensageiro; o AMPc, produzido pela adenilato ciclase, propaga o sinal dentro da célula."
+},
+{
+"c": "juncoes",
+"q": "A toxina da cólera e de cepas de E. coli enterotoxigênica causa diarreia porque:",
+"o": [
+"Mantém a proteína G ativa, elevando o AMPc",
+"Destrói as junções de oclusão do epitélio intestinal",
+"Bloqueia a bomba Na⁺/K⁺ dos enterócitos",
+"Destrói os ribossomos das células da cripta"
+],
+"e": "A toxina mantém a proteína G ativa; com AMPc alto, o canal CFTR secreta Cl⁻; água e sódio acompanham: diarreia secretora."
+},
+{
+"c": "acidos",
+"q": "Qual base nitrogenada é exclusiva do RNA?",
+"o": [
+"Uracila",
+"Timina",
+"Citosina",
+"Guanina"
+],
+"e": "DNA: A, T, C, G. RNA: A, U, C, G."
+},
+{
+"c": "acidos",
+"q": "Na dupla hélice, a adenina pareia com timina por:",
+"o": [
+"Duas pontes de hidrogênio",
+"Três pontes de hidrogênio",
+"Ligação fosfodiéster",
+"Ligação peptídica"
+],
+"e": "A=T: duas pontes; G≡C: três pontes. DNA rico em GC é mais estável ao calor."
+},
+{
+"c": "acidos",
+"q": "Se um DNA tem 20% de adenina, a porcentagem de citosina é:",
+"o": [
+"30%",
+"20%",
+"40%",
+"60%"
+],
+"e": "Regra de Chargaff: A = T = 20% → A+T = 40% → C+G = 60% → C = 30%."
+},
+{
+"c": "acidos",
+"q": "As fitas do DNA são antiparalelas, o que significa que:",
+"o": [
+"Uma corre 5'→3' e a outra 3'→5'",
+"As duas correm 5'→3'",
+"São formadas por açúcares diferentes",
+"Não se pareiam"
+],
+"e": "A orientação oposta das fitas é essencial para a replicação e a transcrição."
+},
+{
+"c": "acidos",
+"q": "O nucleossomo é formado por:",
+"o": [
+"DNA enrolado em um octâmero de histonas",
+"RNA associado a proteínas ribossômicas",
+"DNA circular sem proteínas associadas",
+"Tubulina enrolada em torno de uma molécula de DNA"
+],
+"e": "Cerca de 147 pares de bases dão quase duas voltas ao redor de 8 histonas (2 de cada: H2A, H2B, H3, H4); H1 fixa o DNA de ligação."
+},
+{
+"c": "acidos",
+"q": "A heterocromatina é:",
+"o": [
+"Cromatina condensada, pouco transcrita",
+"Cromatina descondensada e ativa",
+"Exclusiva de procariontes",
+"O RNA do nucléolo"
+],
+"e": "Eucromatina = aberta, ativa. Heterocromatina = compacta, inativa. O corpúsculo de Barr é um X inativo em heterocromatina."
+},
+{
+"c": "acidos",
+"q": "O número diploide do bovino é:",
+"o": [
+"2n = 60",
+"2n = 78",
+"2n = 38",
+"2n = 64"
+],
+"e": "Bovino 60; cão 78; gato 38; equino 64; suíno 38; ovino 54; caprino 60."
+},
+{
+"c": "acidos",
+"q": "Um cromossomo com o centrômero na ponta, como a maioria dos autossomos bovinos, é:",
+"o": [
+"Acrocêntrico ou telocêntrico",
+"Metacêntrico, de braços iguais",
+"Submetacêntrico, de braços desiguais",
+"Holocêntrico, com centrômero difuso"
+],
+"e": "Todos os autossomos bovinos são acrocêntricos; os cromossomos sexuais são submetacêntricos."
+},
+{
+"c": "acidos",
+"q": "A diferença no açúcar entre DNA e RNA é que:",
+"o": [
+"O DNA tem desoxirribose, sem a hidroxila no carbono 2'",
+"O RNA tem desoxirribose, sem a hidroxila no carbono 2'",
+"O DNA tem glicose, e o RNA tem ribose",
+"Não há diferença: ambos usam ribose"
+],
+"e": "A falta da OH no C2' torna o DNA mais estável."
+},
+{
+"c": "replicacao",
+"q": "A replicação do DNA é semiconservativa porque:",
+"o": [
+"Cada nova molécula conserva uma fita antiga e recebe uma nova",
+"Uma molécula fica com as duas fitas antigas e a outra com as duas novas",
+"As fitas antigas são degradadas e as duas novas se pareiam entre si",
+"Só uma das fitas é copiada, e a outra é descartada após a divisão"
+],
+"e": "Demonstrado por Meselson e Stahl (1958)."
+},
+{
+"c": "replicacao",
+"q": "A DNA polimerase só sintetiza no sentido:",
+"o": [
+"5'→3', adicionando nucleotídeos à ponta 3'-OH",
+"3'→5', adicionando nucleotídeos à ponta 5'-fosfato",
+"Nos dois sentidos, conforme a fita-molde utilizada",
+"5'→3', mas sem precisar de molde nem de primer"
+],
+"e": "A DNA polimerase adiciona nucleotídeos à extremidade 3'-OH, crescendo 5'→3'. Por isso uma fita é contínua (líder) e a outra descontínua (fragmentos de Okazaki)."
+},
+{
+"c": "replicacao",
+"q": "A enzima que abre a dupla hélice na forquilha é a:",
+"o": [
+"Helicase",
+"Primase",
+"Ligase",
+"Telomerase"
+],
+"e": "A helicase quebra as pontes de hidrogênio; proteínas SSB mantêm as fitas separadas; a topoisomerase alivia a torção."
+},
+{
+"c": "replicacao",
+"q": "A primase sintetiza:",
+"o": [
+"Um iniciador (primer) de RNA",
+"Os fragmentos de Okazaki inteiros",
+"Os telômeros",
+"Ligações entre fragmentos"
+],
+"e": "A DNA polimerase precisa de uma extremidade 3'-OH já pareada; o primer de RNA a fornece."
+},
+{
+"c": "replicacao",
+"q": "Os fragmentos de Okazaki são unidos pela:",
+"o": [
+"DNA ligase",
+"Helicase",
+"Primase",
+"Topoisomerase"
+],
+"e": "A ligase forma a ligação fosfodiéster que falta entre os fragmentos."
+},
+{
+"c": "replicacao",
+"q": "Quinolonas (enrofloxacino) matam bactérias porque inibem:",
+"o": [
+"A DNA girase (topoisomerase bacteriana)",
+"A síntese de peptidoglicano da parede",
+"A subunidade 30S do ribossomo bacteriano",
+"A RNA polimerase eucariótica do hospedeiro"
+],
+"e": "Sem girase, a torção acumulada impede a replicação."
+},
+{
+"c": "replicacao",
+"q": "A telomerase:",
+"o": [
+"Estende as pontas dos cromossomos com seu próprio molde de RNA",
+"Remove os primers de RNA dos fragmentos de Okazaki",
+"Abre a forquilha rompendo as pontes de hidrogênio entre as fitas",
+"Corrige pareamentos errados deixados pela polimerase"
+],
+"e": "É uma transcriptase reversa ativa em células germinativas, células-tronco e na maioria dos tumores."
+},
+{
+"c": "replicacao",
+"q": "A atividade de revisão (exonuclease 3'→5') da DNA polimerase serve para:",
+"o": [
+"Remover nucleotídeos incorretos recém-adicionados",
+"Adicionar o primer de RNA no início de cada fragmento",
+"Unir os fragmentos de Okazaki da fita descontínua",
+"Desenrolar a dupla hélice à frente da forquilha"
+],
+"e": "Ela reduz a taxa de erro em cerca de 100 vezes."
+},
+{
+"c": "replicacao",
+"q": "Em eucariontes, a replicação começa:",
+"o": [
+"Em muitas origens ao mesmo tempo",
+"Em uma única origem por cromossomo",
+"Somente nos telômeros de cada cromossomo",
+"Somente na região do centrômero"
+],
+"e": "Os cromossomos são longos; muitas origens permitem copiar o genoma em poucas horas na fase S."
+},
+{
+"c": "transcricao",
+"q": "Nos eucariontes, a RNA polimerase que transcreve os genes de proteínas (mRNA) é a:",
+"o": [
+"RNA polimerase II",
+"RNA polimerase I",
+"RNA polimerase III",
+"Primase"
+],
+"e": "Pol I: rRNA grandes. Pol II: mRNA (e alguns pequenos RNAs). Pol III: tRNA e rRNA 5S."
+},
+{
+"c": "transcricao",
+"q": "A sequência TATA box faz parte do:",
+"o": [
+"Promotor",
+"Íntron",
+"Códon de parada",
+"Terminador bacteriano"
+],
+"e": "Os fatores gerais de transcrição reconhecem a TATA box e posicionam a RNA polimerase II."
+},
+{
+"c": "transcricao",
+"q": "O splicing consiste em:",
+"o": [
+"Remover os íntrons e unir os éxons",
+"Adicionar o quepe na extremidade 5'",
+"Adicionar a cauda poli-A na ponta 3'",
+"Ler os códons e definir a fase de leitura"
+],
+"e": "Feito pelo spliceossomo (snRNPs); o splicing alternativo gera várias proteínas a partir de um gene."
+},
+{
+"c": "transcricao",
+"q": "O quepe 5' e a cauda poli-A do mRNA servem para:",
+"o": [
+"Proteger o mRNA, facilitar sua exportação e tradução",
+"Marcar o mRNA para destruição imediata pelo proteassomo",
+"Formar os íntrons que serão removidos no splicing",
+"Ligar o mRNA ao DNA durante toda a transcrição"
+],
+"e": "São modificações do pré-mRNA eucariótico no núcleo que protegem o mRNA da degradação e facilitam sua exportação e tradução."
+},
+{
+"c": "transcricao",
+"q": "Um gene tem a fita molde 3'-TACGGA-5'. O mRNA transcrito é:",
+"o": [
+"5'-AUGCCU-3'",
+"5'-ATGCCT-3'",
+"5'-UACGGA-3'",
+"3'-AUGCCU-5'"
+],
+"e": "O RNA é complementar ao molde, com U no lugar de T, e é sintetizado 5'→3'."
+},
+{
+"c": "transcricao",
+"q": "A rifampicina, usada contra Rhodococcus equi em potros, inibe:",
+"o": [
+"A RNA polimerase bacteriana",
+"A subunidade 50S do ribossomo",
+"A DNA girase da bactéria",
+"A síntese da parede celular"
+],
+"e": "Bloqueia a transcrição nas bactérias."
+},
+{
+"c": "transcricao",
+"q": "O RNA que carrega aminoácidos até o ribossomo é o:",
+"o": [
+"tRNA",
+"mRNA",
+"rRNA",
+"snRNA"
+],
+"e": "O tRNA tem o anticódon numa ponta e o aminoácido na outra."
+},
+{
+"c": "transcricao",
+"q": "Fatores de transcrição são:",
+"o": [
+"Proteínas que se ligam ao DNA e regulam a transcrição",
+"RNAs que formam a estrutura da subunidade maior do ribossomo",
+"Enzimas que realizam o splicing do pré-mRNA",
+"Hormônios peptídicos que entram no núcleo"
+],
+"e": "Ativadores e repressores ligam-se a promotores e intensificadores e controlam quais genes cada célula expressa."
+},
+{
+"c": "transcricao",
+"q": "Em procariontes, diferentemente dos eucariontes:",
+"o": [
+"Transcrição e tradução ocorrem juntas no citoplasma",
+"O mRNA sofre splicing antes de ser traduzido",
+"Existem três RNA polimerases, cada uma para um tipo de RNA",
+"O mRNA recebe quepe e cauda poli-A no núcleo"
+],
+"e": "Sem núcleo, o ribossomo começa a traduzir o mRNA enquanto ele ainda está sendo transcrito."
+},
+{
+"c": "traducao",
+"q": "O códon de início da tradução é:",
+"o": [
+"AUG, que codifica metionina",
+"UAA, que codifica triptofano",
+"UGA, que codifica cisteína",
+"GGG, que codifica glicina"
+],
+"e": "AUG codifica metionina, marca o início e define a fase de leitura. UAA e UGA são códons de parada; GGG codifica glicina, mas não inicia a tradução."
+},
+{
+"c": "traducao",
+"q": "São códons de parada:",
+"o": [
+"UAA, UAG e UGA",
+"AUG, UAA e UAG",
+"AUG, GUG e UUG",
+"UUU, UUC e UUA"
+],
+"e": "Não há tRNA para eles; fatores de liberação encerram a tradução."
+},
+{
+"c": "traducao",
+"q": "Dizer que o código genético é degenerado significa que:",
+"o": [
+"Vários códons codificam o mesmo aminoácido",
+"Um códon codifica vários aminoácidos",
+"O código muda entre espécies animais",
+"Os códons se sobrepõem"
+],
+"e": "64 códons para 20 aminoácidos. É por isso que muitas mutações na 3ª base são silenciosas."
+},
+{
+"c": "traducao",
+"q": "No ribossomo, o sítio A:",
+"o": [
+"Recebe o aminoacil-tRNA que chega",
+"Segura a cadeia que está sendo formada",
+"É por onde o tRNA vazio sai",
+"Liga o mRNA ao núcleo"
+],
+"e": "A = aminoacil (chegada); P = peptidil; E = saída (exit)."
+},
+{
+"c": "traducao",
+"q": "A ligação peptídica é catalisada:",
+"o": [
+"Pelo rRNA da subunidade maior (ribozima)",
+"Pelo tRNA que ocupa o sítio A",
+"Por uma proteína do sítio E do ribossomo",
+"Pelo mRNA, ao parear com o anticódon"
+],
+"e": "A atividade peptidil-transferase é do RNA ribossômico."
+},
+{
+"c": "traducao",
+"q": "Polissomos são:",
+"o": [
+"Vários ribossomos traduzindo o mesmo mRNA",
+"Ribossomos ligados à face cis do Golgi",
+"Vários mRNAs lidos ao mesmo tempo por um ribossomo",
+"Agregados de proteínas mal enoveladas no citosol"
+],
+"e": "Permitem produzir muitas cópias de uma proteína a partir de um mRNA."
+},
+{
+"c": "traducao",
+"q": "Tetraciclinas e aminoglicosídeos agem:",
+"o": [
+"Na subunidade 30S do ribossomo bacteriano",
+"Na subunidade 50S do ribossomo bacteriano",
+"Na síntese de peptidoglicano da parede",
+"Na DNA girase, impedindo a replicação"
+],
+"e": "30S: tetraciclinas, aminoglicosídeos. 50S: macrolídeos, florfenicol, lincosamidas."
+},
+{
+"c": "traducao",
+"q": "Proteínas mal enoveladas ou velhas são marcadas para destruição no proteassomo com:",
+"o": [
+"Ubiquitina",
+"Manose-6-fosfato",
+"Quepe 5'",
+"Cauda poli-A"
+],
+"e": "A poliubiquitinação endereça a proteína ao proteassomo."
+},
+{
+"c": "traducao",
+"q": "O mRNA 5'-AUG UUU GGC UAA-3' produz um peptídeo de:",
+"o": [
+"3 aminoácidos (Met–Phe–Gly)",
+"4 aminoácidos",
+"2 aminoácidos",
+"Nenhum, pois começa com AUG"
+],
+"e": "UAA é parada e não codifica aminoácido."
+},
+{
+"c": "traducao",
+"q": "O anticódon de um tRNA que lê o códon 5'-GCU-3' é:",
+"o": [
+"3'-CGA-5'",
+"5'-GCU-3'",
+"3'-GCU-5'",
+"5'-CGT-3'"
+],
+"e": "O anticódon é complementar e antiparalelo ao códon."
+},
+{
+"c": "mutacao",
+"q": "Uma mutação que troca um códon por outro que codifica o mesmo aminoácido é:",
+"o": [
+"Silenciosa",
+"Sem sentido (nonsense)",
+"De sentido trocado (missense)",
+"De mudança de fase"
+],
+"e": "A degenerescência do código faz com que a proteína não mude."
+},
+{
+"c": "mutacao",
+"q": "Uma mutação que cria um códon de parada prematuro é chamada:",
+"o": [
+"Sem sentido (nonsense)",
+"Silenciosa",
+"De sentido trocado",
+"Inversão"
+],
+"e": "A proteína sai truncada, geralmente sem função."
+},
+{
+"c": "mutacao",
+"q": "A inserção de um nucleotídeo na região codificadora geralmente causa:",
+"o": [
+"Mudança da fase de leitura a partir da mutação",
+"Troca de um único aminoácido, sem afetar os demais",
+"Nenhuma alteração, pois o código é degenerado",
+"Duplicação do cromossomo que contém o gene"
+],
+"e": "Todos os códons seguintes mudam; inserções/deleções de 3 nucleotídeos mantêm a fase."
+},
+{
+"c": "mutacao",
+"q": "Para passar à descendência, uma mutação precisa ocorrer:",
+"o": [
+"Na linhagem germinativa",
+"Em qualquer célula somática",
+"Na pele",
+"Em células do sangue"
+],
+"e": "Mutações somáticas afetam só o indivíduo (ex.: câncer); as germinativas vão aos gametas."
+},
+{
+"c": "mutacao",
+"q": "A luz ultravioleta causa principalmente:",
+"o": [
+"Dímeros de timina",
+"Quebras de dupla fita por radiação ionizante",
+"Desaminação de citosina",
+"Translocação robertsoniana"
+],
+"e": "Os dímeros são reparados por excisão de nucleotídeos; falhas favorecem o carcinoma de células escamosas em animais de pele clara (gatos brancos, bovinos com olhos despigmentados)."
+},
+{
+"c": "mutacao",
+"q": "A translocação robertsoniana 1/29 em bovinos é:",
+"o": [
+"A fusão de dois cromossomos acrocêntricos pelo centrômero",
+"Uma mutação de ponto que troca uma única base no cromossomo 1",
+"A perda de um cromossomo inteiro durante a meiose",
+"A inversão de um gene dentro do mesmo cromossomo"
+],
+"e": "O portador é normal, mas produz gametas desbalanceados: subfertilidade."
+},
+{
+"c": "mutacao",
+"q": "A proteína p53 é chamada 'guardiã do genoma' porque:",
+"o": [
+"Para o ciclo ou induz apoptose quando há dano no DNA",
+"Repara diretamente as quebras de fita dupla do DNA lesado",
+"Forma o fuso mitótico e separa as cromátides",
+"Duplica os telômeros a cada fase S do ciclo"
+],
+"e": "Mutações em p53 são frequentes em tumores de animais e humanos."
+},
+{
+"c": "mutacao",
+"q": "A deleção de 4 pares de bases no gene MDR1 (ABCB1) dos collies causa:",
+"o": [
+"Proteína truncada e sensibilidade à ivermectina",
+"Proteína normal, pois a deleção mantém a fase",
+"Aumento da expressão da bomba de efluxo",
+"Hemofilia por falta de fator de coagulação"
+],
+"e": "A mudança de fase cria um códon de parada precoce; a bomba de efluxo da barreira hematoencefálica não funciona."
+},
+{
+"c": "mutacao",
+"q": "Uma mutação missense na proteína do canal de sódio muscular causa em cavalos Quarto de Milha:",
+"o": [
+"HYPP (paralisia periódica hipercalêmica)",
+"Hipertermia maligna desencadeada por halotano",
+"BLAD (deficiência de adesão leucocitária)",
+"Displasia coxofemoral de origem poligênica"
+],
+"e": "Uma troca de aminoácido mantém o canal aberto: tremores e paralisia."
+},
+{
+"c": "ciclo",
+"q": "A duplicação do DNA ocorre na fase:",
+"o": [
+"S",
+"G1",
+"G2",
+"M"
+],
+"e": "Na fase S o conteúdo vai de 2C para 4C."
+},
+{
+"c": "ciclo",
+"q": "Neurônios e cardiomiócitos adultos permanecem em:",
+"o": [
+"G0",
+"Fase S contínua",
+"Metáfase",
+"G2"
+],
+"e": "Saíram do ciclo e não se dividem; por isso lesões nesses tecidos cicatrizam por fibrose."
+},
+{
+"c": "ciclo",
+"q": "Na metáfase, os cromossomos:",
+"o": [
+"Alinham-se na placa equatorial",
+"Separam as cromátides",
+"Descondensam",
+"Ficam dentro do envoltório nuclear"
+],
+"e": "É a fase de maior condensação, usada para fazer cariótipo."
+},
+{
+"c": "ciclo",
+"q": "A separação das cromátides-irmãs na anáfase depende da enzima:",
+"o": [
+"Separase, que corta a coesina",
+"Ligase, que une as cromátides",
+"Helicase, que abre os centrômeros",
+"Telomerase, que solta as pontas"
+],
+"e": "O complexo promotor da anáfase destrói a securina e libera a separase."
+},
+{
+"c": "ciclo",
+"q": "O envoltório nuclear se desfaz na:",
+"o": [
+"Prometafase",
+"Telófase",
+"G1",
+"Fase S"
+],
+"e": "Na prometafase os microtúbulos alcançam os cinetócoros."
+},
+{
+"c": "ciclo",
+"q": "Os complexos que controlam a passagem entre fases são formados por:",
+"o": [
+"Ciclinas e quinases dependentes de ciclina (Cdks)",
+"Actina e miosina do anel contrátil da célula",
+"Histonas e condensinas associadas à cromatina",
+"Tubulina e cinesina dos microtúbulos do fuso mitótico"
+],
+"e": "As ciclinas sobem e caem a cada fase; as Cdks fosforilam alvos quando ligadas a elas."
+},
+{
+"c": "ciclo",
+"q": "O ponto de checagem do fuso (metáfase–anáfase) verifica se:",
+"o": [
+"Todos os cinetócoros estão ligados ao fuso",
+"O DNA foi totalmente replicado na fase S",
+"A célula atingiu tamanho suficiente",
+"Há fatores de crescimento disponíveis no meio"
+],
+"e": "Evita a não disjunção e a aneuploidia."
+},
+{
+"c": "ciclo",
+"q": "Na citocinese de células animais forma-se:",
+"o": [
+"Um anel contrátil de actina e miosina",
+"Uma placa celular de vesículas do Golgi",
+"Um novo septo de peptidoglicano",
+"Um fuso de queratina entre os núcleos"
+],
+"e": "Placa celular é das plantas."
+},
+{
+"c": "ciclo",
+"q": "Uma célula em G2 tem conteúdo de DNA:",
+"o": [
+"4C",
+"2C",
+"1C",
+"C"
+],
+"e": "Após a fase S, até a divisão, a célula tem o dobro do DNA."
+},
+{
+"c": "ciclo",
+"q": "Os quimioterápicos que bloqueiam a mitose atingem mais células tumorais e também:",
+"o": [
+"Medula óssea, epitélio intestinal e folículos pilosos",
+"Neurônios do córtex cerebral e da medula espinhal adulta",
+"Cardiomiócitos e fibras musculares esqueléticas",
+"Células do cristalino e da córnea já diferenciadas"
+],
+"e": "Tecidos de renovação rápida sofrem: mielossupressão, diarreia e (em algumas raças) perda de pelos."
+},
+{
+"c": "mendel",
+"q": "Alelos são:",
+"o": [
+"Formas alternativas de um mesmo gene, no mesmo locus",
+"Genes distintos situados em cromossomos não homólogos",
+"Os dois cromossomos homólogos de cada par do núcleo",
+"Cópias idênticas de um cromossomo após a fase S"
+],
+"e": "Ex.: B (preto) e b (vermelho) no locus de cor em bovinos."
+},
+{
+"c": "mendel",
+"q": "Do cruzamento Aa × Aa, a proporção genotípica esperada é:",
+"o": [
+"1 AA : 2 Aa : 1 aa",
+"3 : 1",
+"9 : 3 : 3 : 1",
+"1 : 1"
+],
+"e": "A fenotípica é 3:1 com dominância completa."
+},
+{
+"c": "mendel",
+"q": "Um touro preto (dominante) cruzado com vacas vermelhas (bb) gera 50% de bezerros vermelhos. O touro é:",
+"o": [
+"Bb, heterozigoto",
+"BB, homozigoto",
+"bb",
+"Impossível saber"
+],
+"e": "Cruzamento-teste: aparecer descendente recessivo prova que o touro é portador."
+},
+{
+"c": "mendel",
+"q": "A proporção fenotípica clássica da F2 de diibridismo é:",
+"o": [
+"9 : 3 : 3 : 1",
+"3 : 1",
+"1 : 2 : 1",
+"1 : 1 : 1 : 1"
+],
+"e": "Dois genes com segregação independente e dominância completa."
+},
+{
+"c": "mendel",
+"q": "A 2ª lei de Mendel só vale para genes:",
+"o": [
+"Em cromossomos diferentes ou muito distantes no mesmo cromossomo",
+"Ligados e muito próximos entre si no mesmo cromossomo",
+"Localizados na região exclusiva do cromossomo Y",
+"Situados lado a lado no mesmo cromossomo, sem possibilidade de permuta"
+],
+"e": "Genes próximos tendem a ser herdados juntos (ligação gênica)."
+},
+{
+"c": "mendel",
+"q": "O cruzamento de AaBb × aabb gera proporção fenotípica de:",
+"o": [
+"1 : 1 : 1 : 1",
+"9 : 3 : 3 : 1",
+"3 : 1",
+"1 : 2 : 1"
+],
+"e": "É um cruzamento-teste duplo."
+},
+{
+"c": "mendel",
+"q": "Quantos tipos de gametas forma um indivíduo AaBbCc (genes independentes)?",
+"o": [
+"8",
+"6",
+"4",
+"3"
+],
+"e": "2ⁿ, com n = número de genes em heterozigose: 2³ = 8."
+},
+{
+"c": "mendel",
+"q": "Fenótipo é:",
+"o": [
+"O resultado da interação entre genótipo e ambiente",
+"Apenas o conjunto de genes herdados dos dois genitores",
+"Apenas o efeito do ambiente, sem influência dos genes",
+"A sequência de bases do DNA de um indivíduo"
+],
+"e": "Ex.: produção de leite depende da genética e da nutrição; a cor do gato siamês depende da temperatura da pele."
+},
+{
+"c": "mendel",
+"q": "Mendel trabalhou com ervilhas porque:",
+"o": [
+"Tinham ciclo curto, prole numerosa e caracteres bem contrastantes",
+"Tinham poucos cromossomos, grandes e fáceis de ver ao microscópio",
+"Eram as únicas plantas diploides conhecidas na época",
+"Não sofriam mutações e mantinham as linhagens estáveis"
+],
+"e": "Ciclo curto, muitos descendentes, caracteres contrastantes e autofecundação controlável permitiram contar proporções e obter linhagens puras."
+},
+{
+"c": "heranca",
+"q": "Num heredograma, o quadrado representa:",
+"o": [
+"Macho",
+"Fêmea",
+"Indivíduo de sexo desconhecido",
+"Portador"
+],
+"e": "Círculo = fêmea; losango = sexo não determinado; símbolo cheio = afetado."
+},
+{
+"c": "heranca",
+"q": "Dois pais normais têm um filhote afetado. A herança mais provável é:",
+"o": [
+"Autossômica recessiva",
+"Autossômica dominante",
+"Ligada ao Y",
+"Dominante ligada ao X"
+],
+"e": "Pais normais com filho afetado = ambos portadores (Aa)."
+},
+{
+"c": "heranca",
+"q": "A hemofilia A em cães afeta quase só machos porque é:",
+"o": [
+"Recessiva ligada ao X",
+"Autossômica dominante",
+"Ligada ao Y",
+"Mitocondrial"
+],
+"e": "Machos têm um X só (hemizigotos); fêmeas precisam de dois alelos para manifestar."
+},
+{
+"c": "heranca",
+"q": "O gado Shorthorn ruão (pelos vermelhos e brancos misturados) é exemplo de:",
+"o": [
+"Codominância",
+"Dominância completa",
+"Herança ligada ao sexo",
+"Epistasia"
+],
+"e": "Os dois alelos se expressam ao mesmo tempo, lado a lado."
+},
+{
+"c": "heranca",
+"q": "Uma gata tricolor (escaminha) é quase sempre fêmea porque:",
+"o": [
+"O gene da cor laranja fica no X, e um X é inativado ao acaso",
+"O gene da cor laranja fica no Y e só se expressa em machos",
+"É herança mitocondrial, transmitida apenas pela mãe",
+"É herança autossômica dominante limitada ao sexo feminino"
+],
+"e": "O gene laranja está no X e um X é inativado ao acaso em cada célula; é preciso ter dois X com alelos diferentes. Machos tricolores são XXY."
+},
+{
+"c": "heranca",
+"q": "Uma característica que só se manifesta em um sexo, como a produção de leite, é chamada:",
+"o": [
+"Limitada ao sexo",
+"Ligada ao X",
+"Ligada ao Y",
+"Influenciada pelo sexo"
+],
+"e": "Os genes estão em autossomos e os dois sexos os transmitem, mas só um os expressa."
+},
+{
+"c": "heranca",
+"q": "Na epistasia:",
+"o": [
+"Um gene interfere na expressão de outro gene",
+"Dois alelos do mesmo gene se expressam juntos",
+"Um gene só se expressa em machos",
+"O ambiente determina todo o fenótipo"
+],
+"e": "Ex.: no Labrador, o gene E (ee) impede a deposição de pigmento escuro, gerando cães amarelos independentemente do gene B."
+},
+{
+"c": "heranca",
+"q": "A cor da pelagem palomino nos cavalos (creme em heterozigose) ilustra:",
+"o": [
+"Dominância incompleta",
+"Codominância",
+"Herança ligada ao X",
+"Alelos letais"
+],
+"e": "O heterozigoto tem fenótipo intermediário entre os homozigotos (alazão e cremelo)."
+},
+{
+"c": "heranca",
+"q": "No gato Manx, o cruzamento de dois Manx gera 2 Manx : 1 com cauda porque:",
+"o": [
+"O alelo é letal em homozigose",
+"É herança ligada ao X",
+"É codominância",
+"Há epistasia recessiva"
+],
+"e": "Os homozigotos morrem como embriões, alterando a proporção 3:1 para 2:1."
+},
+{
+"c": "genes",
+"q": "Uma bezerra nascida gêmea de um macho tem alto risco de ser:",
+"o": [
+"Freemartin, estéril",
+"Hermafrodita verdadeira fértil",
+"XO",
+"Portadora de BLAD"
+],
+"e": "A anastomose das placentas permite troca de células e hormônios; cerca de 90% são estéreis."
+},
+{
+"c": "genes",
+"q": "Um gato macho tricolor geralmente tem cariótipo:",
+"o": [
+"XXY",
+"XY",
+"XO",
+"XX"
+],
+"e": "Precisa de dois X para ter laranja e preto. É estéril."
+},
+{
+"c": "genes",
+"q": "A causa cromossômica mais comum de infertilidade em éguas é:",
+"o": [
+"63,XO",
+"Trissomia do 21",
+"Translocação 1/29",
+"XXY"
+],
+"e": "Equivalente à síndrome de Turner: ovários pequenos e inativos."
+},
+{
+"c": "genes",
+"q": "As enzimas de restrição usadas no DNA recombinante vêm de:",
+"o": [
+"Bactérias, onde servem de defesa contra vírus",
+"Vírus bacteriófagos, que as usam para invadir",
+"Células de mamíferos, onde reparam o DNA",
+"Leveduras, onde participam da fermentação"
+],
+"e": "Nas bactérias, cortam o DNA de vírus invasores em sequências específicas."
+},
+{
+"c": "genes",
+"q": "A PCR serve para:",
+"o": [
+"Amplificar um trecho específico de DNA milhões de vezes",
+"Cortar o DNA em sequências específicas de bases",
+"Separar proteínas do soro de acordo com o peso molecular",
+"Inativar vírus em amostras clínicas antes do exame"
+],
+"e": "É a base do diagnóstico molecular de parvovírus, cinomose, leptospirose e outras doenças."
+},
+{
+"c": "genes",
+"q": "Para expressar um gene eucariótico em bactéria, usa-se cDNA porque:",
+"o": [
+"Ele não tem íntrons, que a bactéria não sabe remover",
+"Ele é mais longo e contém todos os éxons e íntrons",
+"Ele tem quepe 5' e cauda poli-A, exigidos pela bactéria",
+"Ele dispensa promotor para ser transcrito na bactéria"
+],
+"e": "cDNA é feito a partir do mRNA maduro pela transcriptase reversa."
+},
+{
+"c": "genes",
+"q": "A displasia coxofemoral em cães é um exemplo de herança:",
+"o": [
+"Multifatorial (poligênica + ambiente)",
+"Monogênica autossômica recessiva simples",
+"Mitocondrial, de transmissão materna",
+"Ligada ao Y, de pai para filho macho"
+],
+"e": "Controle por radiografia e seleção dos reprodutores, além de manejo do peso e do crescimento."
+},
+{
+"c": "genes",
+"q": "Um teste de DNA para BLAD em touros Holandeses serve para:",
+"o": [
+"Identificar portadores antes de usá-los na reprodução",
+"Curar a doença nos bezerros já afetados",
+"Determinar o sexo dos bezerros antes do nascimento",
+"Medir o potencial de produção de leite das filhas"
+],
+"e": "Identifica os heterozigotos e evita acasalar dois portadores, que gerariam 25% de bezerros afetados."
+},
+{
+"c": "genes",
+"q": "A ovelha Dolly provou que:",
+"o": [
+"Um núcleo somático diferenciado pode ser reprogramado",
+"As mitocôndrias carregam todo o genoma do animal",
+"A clivagem do embrião não precisa de DNA nuclear",
+"Espermatozoides podem ser clonados e gerar embriões viáveis"
+],
+"e": "Por transferência nuclear de célula somática, o núcleo de uma célula diferenciada foi reprogramado e gerou um animal inteiro."
+},
+{
+"c": "meiose",
+"q": "O crossing-over ocorre em qual subfase da prófase I?",
+"o": [
+"Paquíteno",
+"Leptóteno",
+"Zigóteno",
+"Diacinese"
+],
+"e": "Zigóteno = sinapse; paquíteno = permuta; diplóteno = quiasmas visíveis."
+},
+{
+"c": "meiose",
+"q": "A meiose I é chamada reducional porque:",
+"o": [
+"Separa os homólogos, reduzindo de 2n para n",
+"Separa as cromátides-irmãs de cada cromossomo",
+"Replica o DNA antes da divisão celular",
+"Forma quatro células diploides idênticas"
+],
+"e": "A meiose II é equacional, como uma mitose."
+},
+{
+"c": "meiose",
+"q": "O ovócito fica parado desde a vida fetal em:",
+"o": [
+"Diplóteno da prófase I",
+"Metáfase II da meiose",
+"Telófase I da meiose",
+"G1 do ciclo celular"
+],
+"e": "Fica bloqueado (dictióteno) até o pico de LH antes da ovulação. O segundo bloqueio é em metáfase II, até a fecundação."
+},
+{
+"c": "meiose",
+"q": "O complexo sinaptonêmico:",
+"o": [
+"Une os homólogos pareados durante a prófase I",
+"Forma o fuso que move os cromossomos",
+"Separa as cromátides-irmãs na anáfase II",
+"É uma estrutura exclusiva da mitose das células somáticas"
+],
+"e": "Forma-se no zigóteno e se desfaz no diplóteno."
+},
+{
+"c": "meiose",
+"q": "Num animal com n = 30 (bovino), o número de combinações possíveis só pela segregação independente é:",
+"o": [
+"2³⁰",
+"30²",
+"60",
+"2 × 30"
+],
+"e": "Mais de 1 bilhão de gametas diferentes, sem contar o crossing-over."
+},
+{
+"c": "meiose",
+"q": "Entre a meiose I e a meiose II:",
+"o": [
+"Não há replicação de DNA",
+"Há replicação completa",
+"O DNA é reduzido a 0,5C",
+"Há uma fase S curta"
+],
+"e": "A intercinese não tem fase S; por isso o gameta final tem 1C."
+},
+{
+"c": "meiose",
+"q": "A não disjunção na meiose produz gametas:",
+"o": [
+"n + 1 e n − 1",
+"Sempre diploides",
+"Triploides",
+"Com cromátides idênticas"
+],
+"e": "Fecundados, geram trissomias e monossomias, causa importante de perda embrionária."
+},
+{
+"c": "meiose",
+"q": "A metáfase I difere da metáfase mitótica porque na meiose I:",
+"o": [
+"Pares de homólogos (bivalentes) se alinham na placa",
+"Cromossomos isolados se alinham, um a um, na placa",
+"Não há formação de fuso entre os polos",
+"Os cromossomos estão totalmente descondensados"
+],
+"e": "Na mitose cada cromossomo se alinha individualmente."
+},
+{
+"c": "meiose",
+"q": "A meiose, ao final, produz:",
+"o": [
+"Quatro células haploides geneticamente diferentes",
+"Duas células diploides geneticamente idênticas entre si",
+"Quatro células diploides geneticamente iguais",
+"Duas células haploides geneticamente idênticas"
+],
+"e": "Na fêmea, só uma vira ovócito; as outras são corpúsculos polares."
+},
+{
+"c": "gametogenese",
+"q": "As células germinativas primordiais surgem:",
+"o": [
+"Fora da gônada e migram até a crista gonadal",
+"Dentro do túbulo seminífero, já na vida fetal",
+"No ovário adulto, a partir do epitélio de superfície",
+"No endométrio, durante a implantação do embrião"
+],
+"e": "Surgem no epiblasto/saco vitelino e migram pelo intestino posterior e mesentério até a gônada em formação."
+},
+{
+"c": "gametogenese",
+"q": "A célula de Sertoli tem como funções:",
+"o": [
+"Sustentar as células germinativas e formar a barreira hematotesticular",
+"Produzir testosterona sob estímulo do LH, no tecido intersticial do testículo",
+"Formar o acrossomo a partir do complexo de Golgi da espermátide",
+"Produzir progesterona para manter o epitélio seminífero ativo"
+],
+"e": "Junções de oclusão entre células de Sertoli formam a barreira; produzem ABP e inibina; respondem ao FSH."
+},
+{
+"c": "gametogenese",
+"q": "A testosterona é produzida pelas células:",
+"o": [
+"De Leydig, sob estímulo do LH",
+"De Sertoli, sob estímulo do FSH",
+"Da granulosa",
+"Germinativas"
+],
+"e": "Leydig = intersticiais, fora dos túbulos."
+},
+{
+"c": "gametogenese",
+"q": "A espermiogênese é:",
+"o": [
+"A transformação da espermátide em espermatozoide, sem divisão",
+"A meiose do espermatócito, que origina as espermátides",
+"A mitose da espermatogônia, que repõe o estoque de células-tronco",
+"A liberação do espermatozoide maduro no epidídimo"
+],
+"e": "Formação do acrossomo (a partir do Golgi), condensação do núcleo, formação do flagelo e perda do citoplasma."
+},
+{
+"c": "gametogenese",
+"q": "O acrossomo deriva do:",
+"o": [
+"Complexo de Golgi",
+"Retículo endoplasmático rugoso",
+"Núcleo",
+"Centríolo"
+],
+"e": "É uma vesícula com enzimas hidrolíticas, comparável a um lisossomo especializado."
+},
+{
+"c": "gametogenese",
+"q": "Na espermatogênese, a partir de um espermatócito primário formam-se:",
+"o": [
+"Quatro espermatozoides",
+"Um espermatozoide e três corpúsculos polares",
+"Dois espermatozoides",
+"Oito espermatozoides"
+],
+"e": "Na ovogênese, um ovócito primário gera um ovócito e corpúsculos polares."
+},
+{
+"c": "gametogenese",
+"q": "A duração da espermatogênese no touro é de cerca de:",
+"o": [
+"60 dias, mais cerca de 10 dias de epidídimo",
+"7 dias, mais cerca de 2 dias de epidídimo",
+"1 ano, mais cerca de 1 mês de epidídimo",
+"24 horas, sem passagem pelo epidídimo"
+],
+"e": "A espermatogênese dura cerca de 60 dias, com mais cerca de 10 dias de trânsito epididimário; por isso uma febre ou estresse térmico afeta o sêmen por cerca de 2 meses."
+},
+{
+"c": "gametogenese",
+"q": "Por que os testículos ficam no escroto?",
+"o": [
+"A espermatogênese exige temperatura 2 a 6 °C abaixo da corporal",
+"Para facilitar apenas a produção de testosterona pelas células de Leydig",
+"Para proteger os testículos de trauma na cavidade abdominal",
+"Porque os ductos deferentes são longos demais para o abdome"
+],
+"e": "Criptorquidismo bilateral leva a esterilidade; o testículo retido tem maior risco de tumor."
+},
+{
+"c": "gametogenese",
+"q": "O antro aparece no folículo:",
+"o": [
+"Secundário/terciário (antral)",
+"Primordial, já na vida fetal",
+"Primário, com uma camada de granulosa",
+"Corpo lúteo, logo após a ovulação"
+],
+"e": "O antro é cheio de líquido folicular; o folículo maduro pré-ovulatório é o folículo de Graaf."
+},
+{
+"c": "gametogenese",
+"q": "Na cadela, o ovócito liberado na ovulação está em:",
+"o": [
+"Prófase I (ovócito primário)",
+"Metáfase II (ovócito secundário)",
+"Telófase II, com o 2º corpúsculo polar",
+"Zigoto, já fecundado no ovário"
+],
+"e": "Completa a meiose I no oviduto em 2 a 3 dias. Na maioria das outras espécies domésticas, a ovulação ocorre em metáfase II."
+},
+{
+"c": "fecundacao",
+"q": "A fecundação ocorre normalmente na:",
+"o": [
+"Junção ampola-istmo do oviduto",
+"Cavidade uterina, junto ao endométrio",
+"Vagina, logo após a deposição do sêmen",
+"Superfície do ovário, no folículo roto"
+],
+"e": "Ocorre na junção ampola-istmo; o embrião desce depois ao útero."
+},
+{
+"c": "fecundacao",
+"q": "A capacitação espermática inclui:",
+"o": [
+"Perda de colesterol da membrana, entrada de Ca²⁺ e hiperativação",
+"Formação do acrossomo a partir do complexo de Golgi",
+"Condensação do núcleo pela troca de histonas por protaminas no testículo",
+"Conclusão da meiose II no interior do epidídimo"
+],
+"e": "Ocorre no trato feminino; sem ela, o espermatozoide não faz a reação acrossômica."
+},
+{
+"c": "fecundacao",
+"q": "A enzima acrossômica que digere a zona pelúcida é a:",
+"o": [
+"Acrosina",
+"Hialuronidase",
+"Lisozima",
+"Amilase"
+],
+"e": "Hialuronidase dispersa o cumulus; acrosina abre caminho na zona."
+},
+{
+"c": "fecundacao",
+"q": "A ligação do espermatozoide à zona pelúcida ser espécie-específica significa que:",
+"o": [
+"Impede a fecundação entre espécies diferentes",
+"Só machos férteis se ligam",
+"Só ocorre em bovinos",
+"O espermatozoide se liga a qualquer célula"
+],
+"e": "As glicoproteínas da ZP são reconhecidas por proteínas da mesma espécie."
+},
+{
+"c": "fecundacao",
+"q": "A reação cortical serve para:",
+"o": [
+"Bloquear a polispermia modificando a zona pelúcida",
+"Ativar o acrossomo do espermatozoide junto à zona",
+"Formar o pró-núcleo masculino a partir da cabeça",
+"Liberar o 1º corpúsculo polar no espaço perivitelino"
+],
+"e": "Grânulos corticais fazem exocitose e endurecem a zona."
+},
+{
+"c": "fecundacao",
+"q": "O sinal que ativa o ovócito na fecundação é:",
+"o": [
+"Oscilações de Ca²⁺ induzidas pela fosfolipase C zeta",
+"Queda do AMPc no espermatozoide após a capacitação",
+"Liberação de LH pela hipófise no momento da ovulação",
+"Entrada do acrossomo intacto no citoplasma do ovócito"
+],
+"e": "A fosfolipase C zeta do espermatozoide desencadeia oscilações de Ca²⁺, que liberam o ovócito da metáfase II e disparam a reação cortical."
+},
+{
+"c": "fecundacao",
+"q": "Um zigoto com três pró-núcleos indica:",
+"o": [
+"Polispermia (embrião triploide)",
+"Fecundação normal, com zigoto diploide",
+"Partenogênese por ativação espontânea",
+"Formação de gêmeos idênticos"
+],
+"e": "É inviável; comum na fecundação in vitro de suínos."
+},
+{
+"c": "fecundacao",
+"q": "Na vaca, a inseminação é feita cerca de 12 horas após o início do cio porque:",
+"o": [
+"O espermatozoide precisa se capacitar e o ovócito vive pouco",
+"O sêmen congelado precisa de horas para descongelar no útero",
+"O útero só aceita o sêmen depois que o cio termina por completo",
+"A ovulação da vaca ocorre antes do início do cio"
+],
+"e": "O espermatozoide precisa de horas para se capacitar e o ovócito vive pouco após a ovulação; assim, espermatozoides capacitados já esperam no oviduto quando ela ocorre."
+},
+{
+"c": "fecundacao",
+"q": "Singamia é:",
+"o": [
+"A união dos cromossomos dos dois pró-núcleos na 1ª metáfase",
+"A entrada do espermatozoide através da zona pelúcida do ovócito",
+"A reação acrossômica junto à zona pelúcida do ovócito",
+"A eclosão do blastocisto ao sair da zona pelúcida"
+],
+"e": "Resulta no zigoto 2n."
+},
+{
+"c": "fecundacao",
+"q": "Em equinos e cadelas, o sêmen é depositado:",
+"o": [
+"No útero",
+"Na vagina",
+"No oviduto",
+"No colo do útero apenas"
+],
+"e": "Na vaca e na ovelha, a deposição natural é vaginal."
+},
+{
+"c": "implantacao",
+"q": "O sinal de reconhecimento materno da gestação nos ruminantes é:",
+"o": [
+"Interferon-tau, produzido pelo trofoblasto",
+"Estrógeno do concepto, desviando a PGF2α",
+"Migração da vesícula embrionária pelo útero",
+"eCG, produzida pelos cálices endometriais"
+],
+"e": "O interferon-tau do trofoblasto bloqueia a liberação pulsátil de PGF2α e salva o corpo lúteo."
+},
+{
+"c": "implantacao",
+"q": "Na porca, o reconhecimento materno depende de:",
+"o": [
+"Estrógeno do concepto, que desvia a PGF2α para a luz uterina",
+"Interferon-tau do trofoblasto, que bloqueia os pulsos de PGF2α",
+"Migração dos embriões entre os dois cornos uterinos",
+"Nenhum sinal, pois o corpo lúteo da porca não regride"
+],
+"e": "São necessários pelo menos 4 embriões."
+},
+{
+"c": "implantacao",
+"q": "Na égua, o reconhecimento materno ocorre por:",
+"o": [
+"Migração da vesícula embrionária por todo o útero",
+"Interferon-tau secretado pelo trofoblasto alongado",
+"Estrógeno do concepto, sem participação de outros sinais",
+"Gonadotrofina coriônica humana produzida pelo embrião"
+],
+"e": "A vesícula percorre o útero várias vezes por dia até se fixar por volta do dia 16."
+},
+{
+"c": "implantacao",
+"q": "A placenta da vaca, pela forma, é:",
+"o": [
+"Cotiledonária",
+"Difusa",
+"Zonária",
+"Discoide"
+],
+"e": "Placentomas = cotilédone fetal + carúncula materna."
+},
+{
+"c": "implantacao",
+"q": "A placenta zonária é característica de:",
+"o": [
+"Cadela e gata",
+"Égua",
+"Porca",
+"Primatas"
+],
+"e": "Faixa em cinto ao redor do concepto."
+},
+{
+"c": "implantacao",
+"q": "Por que o leitão e o potro nascem praticamente sem anticorpos?",
+"o": [
+"A placenta epiteliocorial mantém todas as camadas maternas",
+"A mãe não produz anticorpos durante toda a gestação",
+"O fígado fetal destrói os anticorpos que atravessam a placenta",
+"A placenta hemocorial impede a passagem de imunoglobulinas"
+],
+"e": "A placenta epiteliocorial mantém todas as camadas e não deixa passar imunoglobulinas; os neonatos dependem totalmente do colostro nas primeiras horas."
+},
+{
+"c": "implantacao",
+"q": "Nos mamíferos domésticos, a implantação é:",
+"o": [
+"Parcial (superficial) e lenta",
+"Total, com invasão profunda",
+"Igual à humana",
+"Instantânea após a eclosão"
+],
+"e": "O concepto fica na luz uterina e se fixa por aposição e adesão."
+},
+{
+"c": "implantacao",
+"q": "Os cálices endometriais da égua produzem:",
+"o": [
+"eCG (gonadotrofina coriônica equina)",
+"Interferon-tau, sinal de reconhecimento",
+"Ocitocina, para as contrações do parto",
+"Relaxina apenas, no final da gestação"
+],
+"e": "Formados por células do trofoblasto que invadem o endométrio entre os dias ~35 e ~120."
+},
+{
+"c": "implantacao",
+"q": "A membrana fetal que armazena a urina e cujos vasos formam os vasos umbilicais é o:",
+"o": [
+"Alantoide",
+"Âmnio",
+"Saco vitelino",
+"Córion"
+],
+"e": "Fundido ao córion, forma a placenta corioalantoidiana."
+},
+{
+"c": "implantacao",
+"q": "Na placenta endoteliocorial, o córion fica em contato com:",
+"o": [
+"O endotélio dos vasos maternos",
+"O epitélio uterino íntegro da mãe",
+"O sangue materno, sem nenhuma camada",
+"O miométrio, após destruir o endométrio"
+],
+"e": "Cadela e gata: passa uma pequena fração de anticorpos."
+},
+{
+"c": "clivagem",
+"q": "Durante a clivagem, o embrião:",
+"o": [
+"Aumenta o número de células sem aumentar o volume total",
+"Cresce rapidamente em tamanho e volume a cada divisão celular",
+"Perde a zona pelúcida logo na primeira divisão",
+"Forma os três folhetos germinativos definitivos"
+],
+"e": "As células ficam menores a cada divisão."
+},
+{
+"c": "clivagem",
+"q": "A compactação da mórula depende de:",
+"o": [
+"E-caderina e junções de oclusão entre os blastômeros",
+"Interferon-tau secretado pelos blastômeros externos da mórula",
+"Microtúbulos do fuso que puxam os blastômeros",
+"Acrosina residual liberada pelo espermatozoide"
+],
+"e": "Os blastômeros externos se polarizam e se unem, preparando a formação da blastocele."
+},
+{
+"c": "clivagem",
+"q": "A blastocele se forma porque:",
+"o": [
+"As células externas bombeiam Na⁺ e a água entra por osmose",
+"Os blastômeros centrais morrem e deixam um espaço vazio",
+"O útero injeta líquido através da zona pelúcida",
+"O ovócito já tinha uma cavidade cheia de líquido"
+],
+"e": "A Na⁺/K⁺-ATPase basolateral das células externas acumula Na⁺, e a água entra por osmose através de aquaporinas."
+},
+{
+"c": "clivagem",
+"q": "O trofoblasto vai formar:",
+"o": [
+"O córion e a parte fetal da placenta",
+"O embrião propriamente dito e o âmnio",
+"O sistema nervoso central e a crista neural",
+"O intestino primitivo e suas glândulas"
+],
+"e": "O trofoblasto forma o córion e a parte fetal da placenta; a massa celular interna forma o embrião."
+},
+{
+"c": "clivagem",
+"q": "A massa celular interna se divide inicialmente em:",
+"o": [
+"Epiblasto e hipoblasto",
+"Ectoderma e mesoderma",
+"Córion e âmnio",
+"Trofoblasto e citotrofoblasto"
+],
+"e": "O hipoblasto forma o saco vitelino; o epiblasto, os três folhetos."
+},
+{
+"c": "clivagem",
+"q": "Na vaca, o embrião chega ao útero por volta dos:",
+"o": [
+"Dias 4–5",
+"Dias 1–2",
+"Dias 15–17",
+"Dias 30–35"
+],
+"e": "Coleta para transferência é feita por volta do dia 7."
+},
+{
+"c": "clivagem",
+"q": "A ativação do genoma embrionário no bovino ocorre em torno de:",
+"o": [
+"8 a 16 células",
+"2 células",
+"Blastocisto eclodido",
+"Gastrulação"
+],
+"e": "Antes disso o embrião usa mRNAs maternos armazenados no ovócito."
+},
+{
+"c": "clivagem",
+"q": "A eclosão é:",
+"o": [
+"A saída do blastocisto da zona pelúcida",
+"A saída do ovócito do folículo",
+"A entrada do espermatozoide no ovócito",
+"A fixação ao útero"
+],
+"e": "Só depois da eclosão o embrião pode se alongar e se fixar."
+},
+{
+"c": "clivagem",
+"q": "Na égua, ovócitos não fecundados ficam retidos no oviduto porque:",
+"o": [
+"Só o embrião produz PGE2, que permite a passagem pelo istmo",
+"O ovócito não fecundado é grande demais para passar pelo istmo",
+"O oviduto da égua é fechado até a fecundação ocorrer",
+"A égua ovula apenas na fossa e não no oviduto"
+],
+"e": "É uma seleção que só deixa embriões chegarem ao útero."
+},
+{
+"c": "clivagem",
+"q": "A clivagem nos mamíferos é:",
+"o": [
+"Holoblástica, lenta e assíncrona",
+"Meroblástica discoidal",
+"Superficial",
+"Sincrônica e rápida como em anfíbios"
+],
+"e": "Nas aves, com muito vitelo, é meroblástica discoidal."
+},
+{
+"c": "gastrulacao",
+"q": "A estrutura que define os eixos do embrião e por onde as células migram na gastrulação é:",
+"o": [
+"A linha primitiva",
+"A notocorda",
+"O tubo neural",
+"O somito"
+],
+"e": "O nó primitivo fica na ponta cranial."
+},
+{
+"c": "gastrulacao",
+"q": "O sistema nervoso deriva do:",
+"o": [
+"Ectoderma (neuroectoderma)",
+"Mesoderma paraxial (somitos)",
+"Endoderma do intestino primitivo",
+"Trofoblasto do blastocisto"
+],
+"e": "O neuroectoderma origina encéfalo, medula e retina."
+},
+{
+"c": "gastrulacao",
+"q": "O epitélio do tubo digestório e o fígado derivam do:",
+"o": [
+"Endoderma",
+"Ectoderma",
+"Mesoderma",
+"Crista neural"
+],
+"e": "O músculo liso da parede é mesodérmico."
+},
+{
+"c": "gastrulacao",
+"q": "Rins, gônadas, coração e ossos derivam do:",
+"o": [
+"Mesoderma",
+"Ectoderma",
+"Endoderma",
+"Hipoblasto"
+],
+"e": "Rins e gônadas do mesoderma intermediário; ossos dos somitos e da placa lateral."
+},
+{
+"c": "gastrulacao",
+"q": "A glândula mamária deriva do:",
+"o": [
+"Ectoderma superficial",
+"Endoderma",
+"Mesoderma intermediário",
+"Crista neural"
+],
+"e": "É uma glândula cutânea modificada."
+},
+{
+"c": "gastrulacao",
+"q": "Melanócitos e a medula da adrenal derivam da:",
+"o": [
+"Crista neural",
+"Notocorda",
+"Mesoderma paraxial",
+"Endoderma"
+],
+"e": "A crista neural é chamada de quarto folheto."
+},
+{
+"c": "gastrulacao",
+"q": "No adulto, a notocorda persiste como:",
+"o": [
+"Núcleo pulposo dos discos intervertebrais",
+"Medula espinhal e canal central",
+"Corpo das vértebras e arcos neurais",
+"Ligamento nucal e ligamento supraespinhal"
+],
+"e": "A notocorda induz a formação da placa neural."
+},
+{
+"c": "gastrulacao",
+"q": "O esclerótomo dos somitos forma:",
+"o": [
+"Vértebras e costelas",
+"Músculos do tronco",
+"Derme do dorso",
+"Rins"
+],
+"e": "Miótomo = músculos; dermátomo = derme."
+},
+{
+"c": "gastrulacao",
+"q": "O período de maior sensibilidade a teratógenos é o:",
+"o": [
+"Período embrionário (organogênese)",
+"Período de pré-implantação (fase de ovo)",
+"Último terço da gestação (período fetal)",
+"Período pós-natal, até o desmame"
+],
+"e": "Antes da implantação, o efeito costuma ser 'tudo ou nada'."
+},
+{
+"c": "gastrulacao",
+"q": "Infecção de vaca gestante pelo BVDV entre ~40 e ~125 dias pode gerar:",
+"o": [
+"Bezerro persistentemente infectado e imunotolerante",
+"Bezerro imune ao vírus e protegido por toda a vida",
+"Gestação gemelar por divisão do embrião infectado",
+"Bezerra freemartin com cariótipo XX/XY"
+],
+"e": "O feto reconhece o vírus como próprio e o elimina por toda a vida."
+},
+{
+"c": "gastrulacao",
+"q": "Ovelhas que ingerem Veratrum californicum por volta do dia 14 de gestação podem gerar cordeiros com:",
+"o": [
+"Ciclopia",
+"Hemofilia",
+"Freemartinismo",
+"Triploidia"
+],
+"e": "A ciclopamina bloqueia a via Sonic hedgehog."
+},
+{
+"c": "gastrulacao",
+"q": "A falha no fechamento caudal do tubo neural causa:",
+"o": [
+"Espinha bífida",
+"Anencefalia",
+"Hidronefrose",
+"Palatosquise"
+],
+"e": "A falha cranial causa anencefalia."
+},
 {
 "c": "acidos",
 "q": "Quais são os três componentes de um nucleotídeo?",
@@ -49,8 +2150,8 @@ window.LIVRO.Q.push(...[
 "q": "A maior estabilidade química do DNA em relação ao RNA se deve principalmente:",
 "o": [
 "à ausência da hidroxila no carbono 2′ da desoxirribose",
-"à presença de uracila no lugar da timina",
-"ao maior número de ligações N-glicosídicas",
+"à presença de uracila no lugar da timina em sua sequência",
+"ao maior número de ligações N-glicosídicas entre as fitas",
 "à ligação das bases ao carbono 5′ do açúcar"
 ],
 "e": "Sem o OH 2′, o DNA resiste à hidrólise; a hidroxila 2′ da ribose torna o RNA mais suscetível à quebra."
@@ -59,10 +2160,10 @@ window.LIVRO.Q.push(...[
 "c": "acidos",
 "q": "A ligação fosfodiéster, que forma o esqueleto de cada fita de DNA, une:",
 "o": [
-"o fosfato ligado ao carbono 5′ de um nucleotídeo ao carbono 3′ do açúcar do nucleotídeo vizinho",
+"o fosfato do carbono 5′ de um nucleotídeo ao carbono 3′ do vizinho",
 "a base de um nucleotídeo à base complementar da fita oposta",
 "a base nitrogenada ao carbono 1′ do açúcar do mesmo nucleotídeo",
-"o carbono 2′ de um açúcar ao carbono 5′ do açúcar da outra fita"
+"o carbono 2′ de um açúcar ao carbono 5′ de um açúcar da outra fita"
 ],
 "e": "A ligação fosfodiéster (covalente) liga o fosfato preso ao carbono 5′ de um nucleotídeo à hidroxila do carbono 3′ do açúcar do nucleotídeo adjacente, formando o 'corrimão' açúcar-fosfato de cada fita."
 },
@@ -180,7 +2281,7 @@ window.LIVRO.Q.push(...[
 "c": "acidos",
 "q": "Qual a importância biológica da complementaridade entre as fitas de DNA?",
 "o": [
-"Conhecendo uma fita, pode-se deduzir a outra, o que permite replicação, transcrição e PCR",
+"Uma fita permite deduzir a outra, base da replicação e da PCR",
 "Garante que as duas fitas tenham sequências idênticas, lidas no mesmo sentido",
 "Impede que as fitas se separem, protegendo o DNA da ação de enzimas",
 "Faz com que cada fita contenha apenas purinas ou apenas pirimidinas"
@@ -191,7 +2292,7 @@ window.LIVRO.Q.push(...[
 "c": "acidos",
 "q": "Na compactação do DNA, o nível conhecido como 'colar de contas' corresponde a:",
 "o": [
-"nucleossomos ao longo do DNA, formando uma fibra de cerca de 11 nm",
+"nucleossomos ao longo do DNA, numa fibra de cerca de 11 nm",
 "a fibra de 30 nm aproximada pela histona H1",
 "as alças de cromatina presas ao arcabouço proteico",
 "o cromossomo metafásico condensado pelas condensinas"
@@ -290,7 +2391,7 @@ window.LIVRO.Q.push(...[
 "c": "acidos",
 "q": "Sobre a regulação epigenética, é correto afirmar que:",
 "o": [
-"a acetilação das histonas abre a cromatina e favorece a expressão de genes",
+"a acetilação das histonas abre a cromatina e favorece a expressão",
 "a acetilação das histonas compacta a cromatina e silencia genes",
 "a metilação do DNA ocorre em adeninas e sempre ativa genes",
 "as marcas epigenéticas alteram a sequência de bases do DNA"
@@ -356,10 +2457,10 @@ window.LIVRO.Q.push(...[
 "c": "acidos",
 "q": "O muar, resultante do cruzamento de égua com jumento, é quase sempre estéril porque:",
 "o": [
-"tem 63 cromossomos, que não conseguem parear corretamente na meiose",
-"tem 64 cromossomos, todos acrocêntricos como os do bovino",
+"tem 63 cromossomos, que não pareiam corretamente na meiose",
+"tem 64 cromossomos, todos acrocêntricos, iguais aos do bovino",
 "herda o X inativo da égua e não forma corpúsculo de Barr",
-"não possui telomerase nas células germinativas"
+"não possui telomerase ativa nas células germinativas"
 ],
 "e": "Com 32 cromossomos da égua (2n = 64) e 31 do jumento (2n = 62), o muar tem 63 cromossomos não homólogos que falham no pareamento meiótico."
 },
@@ -423,9 +2524,9 @@ window.LIVRO.Q.push(...[
 "q": "A homeostase tecidual corresponde ao equilíbrio entre:",
 "o": [
 "proliferação celular e morte celular por apoptose",
-"fase S e fase M",
-"síntese e degradação de ciclinas",
-"mitose e meiose"
+"fase S e fase M nas células em divisão",
+"síntese e degradação de ciclinas no ciclo",
+"mitose nas células somáticas e meiose nas gônadas"
 ],
 "e": "O número de células de um tecido se mantém quando a produção por divisão compensa a perda por apoptose."
 },
@@ -445,8 +2546,8 @@ window.LIVRO.Q.push(...[
 "q": "Após uma hepatectomia parcial em um cão, o fígado regenera porque os hepatócitos:",
 "o": [
 "são células estáveis, que saem de G0 e voltam ao ciclo sob estímulo",
-"são células lábeis, em divisão contínua",
-"são células permanentes que aumentam de tamanho",
+"são células lábeis, em divisão contínua durante toda a vida do animal",
+"são células permanentes que apenas aumentam de tamanho",
 "dependem de células-tronco da medula óssea para se renovar"
 ],
 "e": "Células estáveis ficam em G0, mas reentram no ciclo quando estimuladas, como na regeneração hepática."
@@ -478,9 +2579,9 @@ window.LIVRO.Q.push(...[
 "q": "Além da replicação do DNA, qual evento caracteriza a fase S?",
 "o": [
 "Síntese de histonas e início da duplicação do centrossomo",
-"Condensação máxima dos cromossomos",
-"Fragmentação do envoltório nuclear",
-"Formação do anel contrátil"
+"Condensação máxima dos cromossomos pelas condensinas",
+"Fragmentação do envoltório nuclear pela fosforilação das laminas",
+"Formação do anel contrátil de actina e miosina"
 ],
 "e": "Na fase S são produzidas as histonas para empacotar o DNA novo, e o centrossomo começa a se duplicar."
 },
@@ -489,9 +2590,9 @@ window.LIVRO.Q.push(...[
 "q": "Na maioria das células, a entrada na fase S representa:",
 "o": [
 "um ponto de não retorno, a partir do qual a célula completa o ciclo",
-"o momento de saída para G0",
-"o início da citocinese",
-"a fase em que a célula avalia os fatores de crescimento"
+"o momento de saída para G0, quando a célula deixa de se dividir de vez",
+"o início da citocinese, com a formação do anel contrátil",
+"a fase em que a célula avalia os fatores de crescimento do meio"
 ],
 "e": "Uma vez iniciada a replicação, a célula em geral segue até a divisão."
 },
@@ -500,9 +2601,9 @@ window.LIVRO.Q.push(...[
 "q": "Sobre a interfase, é correto afirmar que:",
 "o": [
 "ocupa cerca de 95% do ciclo e é quando a célula duplica seu conteúdo",
-"é um período de repouso metabólico entre duas mitoses",
-"corresponde apenas à fase S",
-"é ausente em células lábeis"
+"é um período de repouso metabólico entre duas mitoses sucessivas",
+"corresponde apenas à fase S, quando o DNA é replicado",
+"é ausente em células lábeis, que se dividem continuamente"
 ],
 "e": "G1, S e G2 formam a interfase, fase de intensa atividade de síntese, e não de repouso."
 },
@@ -532,12 +2633,12 @@ window.LIVRO.Q.push(...[
 "c": "ciclo",
 "q": "Qual conjunto de eventos caracteriza a prófase?",
 "o": [
-"Condensação da cromatina pelas condensinas, desaparecimento do nucléolo e organização do fuso",
+"Condensação da cromatina, desaparecimento do nucléolo e organização do fuso",
 "Ruptura do envoltório nuclear e captura dos cromossomos pelos cinetocoros",
-"Alinhamento dos cromossomos na placa equatorial",
-"Separação das cromátides-irmãs e migração para os polos"
+"Alinhamento dos cromossomos na placa equatorial, presos aos dois polos",
+"Separação das cromátides-irmãs e sua migração para os polos opostos"
 ],
-"e": "Na prófase os cromossomos se condensam e ficam visíveis, o nucléolo some e os centrossomos migram para organizar o fuso."
+"e": "Na prófase as condensinas compactam a cromatina e os cromossomos ficam visíveis, o nucléolo some e os centrossomos migram para organizar o fuso."
 },
 {
 "c": "ciclo",
@@ -577,9 +2678,9 @@ window.LIVRO.Q.push(...[
 "q": "Na anáfase, o movimento dos cromossomos-filhos para os polos resulta de:",
 "o": [
 "encurtamento dos microtúbulos do cinetocoro e afastamento dos polos",
-"contração do anel de actina e miosina",
-"reconstrução do envoltório nuclear",
-"condensação adicional pelas condensinas"
+"contração do anel de actina e miosina na região equatorial",
+"reconstrução do envoltório nuclear ao redor dos cromossomos",
+"condensação adicional dos cromossomos pelas condensinas"
 ],
 "e": "Os microtúbulos ligados aos cinetocoros encurtam, puxando os cromossomos, enquanto os polos se afastam."
 },
@@ -587,10 +2688,10 @@ window.LIVRO.Q.push(...[
 "c": "ciclo",
 "q": "Qual evento é típico da telófase?",
 "o": [
-"Descondensação dos cromossomos e reconstrução do envoltório nuclear e do nucléolo",
-"Alinhamento dos cromossomos na placa equatorial",
-"Corte das coesinas pela separase",
-"Captura dos cromossomos pelos microtúbulos"
+"Descondensação dos cromossomos e reconstrução do envoltório nuclear",
+"Alinhamento dos cromossomos na placa equatorial pelo fuso mitótico",
+"Corte das coesinas pela separase, liberando as cromátides-irmãs",
+"Captura dos cromossomos pelos microtúbulos ligados aos cinetocoros"
 ],
 "e": "Na telófase os cromossomos chegam aos polos, descondensam-se, e o envoltório e o nucléolo se refazem; o fuso se desfaz."
 },
@@ -610,9 +2711,9 @@ window.LIVRO.Q.push(...[
 "q": "Considerando o teor de DNA de uma célula diploide ao longo do ciclo, é correto afirmar que:",
 "o": [
 "é 2C em G1, sobe para 4C na fase S e volta a 2C após a divisão",
-"é 4C em G1 e cai para 2C na fase S",
-"permanece 2C durante todo o ciclo",
-"é 4C em G1, 8C em G2 e 4C após a divisão"
+"é 4C em G1, cai para 2C na fase S e volta a 4C em G2 e na mitose",
+"permanece 2C durante todo o ciclo, inclusive na fase S",
+"é 4C em G1, 8C em G2 e volta a 4C após a divisão"
 ],
 "e": "A replicação na fase S dobra o DNA de 2C para 4C; o valor se mantém em G2 e na mitose e volta a 2C em cada célula-filha."
 },
@@ -631,10 +2732,10 @@ window.LIVRO.Q.push(...[
 "c": "ciclo",
 "q": "O ritmo do ciclo celular é dado pela oscilação das ciclinas, cujos níveis caem principalmente porque:",
 "o": [
-"são destruídas de forma programada pelo complexo APC/C e pelo proteassomo",
-"são exportadas para fora da célula",
-"se ligam definitivamente ao DNA",
-"são convertidas em Cdks"
+"são destruídas de forma programada pelo APC/C e pelo proteassomo",
+"são exportadas para fora da célula por exocitose ao fim de cada fase",
+"se ligam definitivamente ao DNA e deixam de ser detectadas",
+"são convertidas em Cdks pela fosforilação de seus resíduos"
 ],
 "e": "A síntese e a degradação programada das ciclinas (via APC/C e proteassomo) ligam e desligam os complexos Cdk."
 },
@@ -642,10 +2743,10 @@ window.LIVRO.Q.push(...[
 "c": "ciclo",
 "q": "Em G1, o complexo ciclina D + Cdk4/6 promove a entrada no ciclo porque:",
 "o": [
-"fosforila a proteína Rb, que libera o fator E2F para ativar os genes da fase S",
-"corta as coesinas, permitindo a separação das cromátides",
-"fosforila as laminas, desmontando o envoltório nuclear",
-"ativa a p53, que induz o inibidor p21"
+"fosforila a Rb, que libera o fator E2F para ativar os genes da fase S",
+"corta as coesinas, permitindo a separação das cromátides-irmãs",
+"fosforila as laminas, desmontando o envoltório nuclear da célula",
+"ativa a p53, que induz o inibidor p21 e libera a entrada em S"
 ],
 "e": "A Rb hipofosforilada retém o E2F; ao ser fosforilada, libera o E2F, que liga os genes necessários à replicação."
 },
@@ -654,9 +2755,9 @@ window.LIVRO.Q.push(...[
 "q": "Qual é o papel da S-Cdk (ciclina A + Cdk2)?",
 "o": [
 "Ativar a replicação nas origens e impedir que o DNA seja replicado duas vezes",
-"Responder aos fatores de crescimento no início de G1",
-"Fosforilar condensinas para condensar os cromossomos",
-"Ativar a separase na anáfase"
+"Responder aos fatores de crescimento no início de G1 e fosforilar a Rb",
+"Fosforilar condensinas para condensar os cromossomos no início da mitose",
+"Ativar a separase na anáfase, cortando as coesinas entre as cromátides"
 ],
 "e": "A S-Cdk dispara a replicação e garante que cada origem seja usada uma única vez por ciclo."
 },
@@ -676,9 +2777,9 @@ window.LIVRO.Q.push(...[
 "q": "No ponto de checagem de G1, quando há dano no DNA, a p53 interrompe o ciclo principalmente por:",
 "o": [
 "induzir a síntese do inibidor de Cdk p21",
-"fosforilar a proteína Rb",
-"ativar a separase",
-"degradar a ciclina B"
+"fosforilar a proteína Rb e liberar o E2F",
+"ativar a separase e cortar as coesinas",
+"degradar a ciclina B pelo proteassomo"
 ],
 "e": "A p53 acumulada induz p21, que inibe os complexos Cdk e mantém a célula em G1 até o reparo."
 },
@@ -698,9 +2799,9 @@ window.LIVRO.Q.push(...[
 "q": "Uma célula com o ponto de checagem do fuso inativado inicia a anáfase com um cromossomo ainda sem ligação ao fuso. A consequência esperada é:",
 "o": [
 "células-filhas aneuploides, com cromossomo a mais ou a menos",
-"células-filhas poliploides com o dobro de conjuntos",
-"bloqueio permanente da célula em G1",
-"replicação repetida do DNA na fase S"
+"células-filhas poliploides, com o dobro de conjuntos cromossômicos",
+"bloqueio permanente da célula em G1, sem completar a divisão",
+"replicação repetida do DNA na fase S antes de nova mitose"
 ],
 "e": "O ponto de checagem do fuso impede a anáfase enquanto houver cinetocoro livre; sem ele, a distribuição dos cromossomos fica desigual."
 },
@@ -708,12 +2809,12 @@ window.LIVRO.Q.push(...[
 "c": "ciclo",
 "q": "Por que, em geral, basta um alelo mutado de um proto-oncogene, mas são necessários os dois alelos alterados de um supressor de tumor para favorecer o câncer?",
 "o": [
-"O oncogene é um acelerador sempre ligado, enquanto o freio do supressor funciona com um alelo normal",
-"Os supressores de tumor ficam no cromossomo X",
-"Os proto-oncogenes só se expressam em homozigose",
-"Os supressores de tumor não são afetados por mutações"
+"O oncogene é um acelerador ligado; o freio do supressor funciona com um alelo normal",
+"Os supressores de tumor ficam no cromossomo X, presente em dose única nos animais machos",
+"Os proto-oncogenes só se expressam em homozigose, e os supressores em heterozigose",
+"Os supressores de tumor raramente sofrem mutações, por isso exigem as duas cópias"
 ],
-"e": "Um oncogene age de forma dominante (ganho de função); a perda do freio exige inativar as duas cópias do supressor."
+"e": "Um oncogene age de forma dominante (ganho de função), como um acelerador sempre ligado; já o supressor é um freio que ainda funciona com um alelo normal, e sua perda exige inativar as duas cópias."
 },
 {
 "c": "ciclo",
@@ -731,9 +2832,9 @@ window.LIVRO.Q.push(...[
 "q": "O câncer é mais frequente em cães e gatos idosos porque:",
 "o": [
 "resulta do acúmulo de várias mutações ao longo do tempo",
-"os animais idosos não possuem p53",
+"os animais idosos deixam de produzir a proteína p53",
 "as células de animais idosos ficam todas em G0",
-"a apoptose aumenta com a idade"
+"a apoptose aumenta com a idade e seleciona células tumorais"
 ],
 "e": "Várias mutações em proto-oncogenes e supressores precisam se somar, o que leva tempo."
 },
@@ -752,10 +2853,10 @@ window.LIVRO.Q.push(...[
 "c": "ciclo",
 "q": "Um Poodle em quimioterapia perde pelo, enquanto a perda é pouco notada em raças de pelagem de crescimento limitado. A explicação é que:",
 "o": [
-"o folículo piloso em crescimento contínuo é um tecido lábil, sensível a fármacos antiproliferativos",
-"o Poodle não possui p53 nas células da pele",
-"os quimioterápicos agem só em células em G0",
-"a pelagem do Poodle é formada por células permanentes"
+"o folículo em crescimento contínuo é tecido lábil, sensível a antiproliferativos",
+"o Poodle não possui p53 nas células da pele, o que as torna mais vulneráveis",
+"os quimioterápicos agem só em células em G0, abundantes no folículo do Poodle",
+"a pelagem do Poodle é formada por células permanentes, que não se regeneram"
 ],
 "e": "Os efeitos colaterais da quimioterapia atingem os tecidos que mais se dividem, como medula, intestino e folículos em crescimento contínuo."
 },
@@ -774,10 +2875,10 @@ window.LIVRO.Q.push(...[
 "c": "ciclo",
 "q": "Gatas infectadas pelo parvovírus felino durante a gestação podem gerar filhotes com hipoplasia cerebelar. Isso ocorre porque o vírus:",
 "o": [
-"só se multiplica em células na fase S, abundantes no cerebelo em desenvolvimento",
-"só infecta neurônios maduros em G0",
-"bloqueia a síntese de ciclina B nos neurônios adultos",
-"destrói seletivamente células em telófase"
+"só se multiplica em células na fase S, abundantes no cerebelo em formação",
+"só infecta neurônios maduros em G0, que predominam no cerebelo fetal",
+"bloqueia a síntese de ciclina B nos neurônios adultos do cerebelo",
+"destrói seletivamente as células em telófase no sistema nervoso"
 ],
 "e": "O parvovírus depende de células em fase S; por isso ataca tecidos em intensa proliferação, como criptas, medula e cerebelo fetal."
 },
@@ -785,12 +2886,12 @@ window.LIVRO.Q.push(...[
 "c": "ciclo",
 "q": "Qual característica distingue a apoptose da necrose?",
 "o": [
-"Na apoptose a célula encolhe e é fagocitada sem inflamação; na necrose incha, rompe e causa inflamação",
+"Na apoptose a célula encolhe e é fagocitada sem inflamação; na necrose, não",
 "Na apoptose a célula incha e rompe; na necrose ela encolhe e se fragmenta",
-"A apoptose é sempre acidental e a necrose é programada",
-"Só a necrose envolve a ativação de caspases"
+"A apoptose é sempre acidental e a necrose é programada pela célula",
+"Só a necrose envolve a ativação de caspases e a participação da mitocôndria"
 ],
-"e": "A apoptose é morte programada e 'limpa', via caspases e mitocôndria; a necrose é acidental e inflamatória."
+"e": "Na apoptose a célula encolhe e é fagocitada sem inflamação; na necrose ela incha, rompe e causa inflamação. A apoptose é morte programada e 'limpa', via caspases e mitocôndria; a necrose é acidental e inflamatória."
 },
 {
 "c": "ciclo",
@@ -873,21 +2974,21 @@ window.LIVRO.Q.push(...[
 "c": "citoesqueleto",
 "q": "Como um neutrófilo emite pseudópodes para se deslocar até um foco infeccioso?",
 "o": [
-"Pela polimerização de actina na borda, que empurra a membrana para frente",
-"Pelo batimento de cílios coordenados na superfície",
+"Pela polimerização de actina na borda de avanço da célula",
+"Pelo batimento coordenado de cílios na superfície celular",
 "Pela contração de filamentos intermediários de vimentina",
 "Pelo deslizamento de pares de microtúbulos do axonema"
 ],
-"e": "Lamelipódios, filopódios e pseudópodes resultam da polimerização de actina na borda de avanço."
+"e": "Lamelipódios, filopódios e pseudópodes resultam da polimerização de actina na borda de avanço, que empurra a membrana para frente."
 },
 {
 "c": "citoesqueleto",
 "q": "No ciclo de contração muscular, qual evento depende da ligação de um novo ATP à miosina?",
 "o": [
 "O desligamento da cabeça da miosina da actina",
-"A ligação inicial da miosina à actina",
-"A entrada de cálcio no retículo",
-"A formação do filamento de actina"
+"A ligação inicial da cabeça da miosina à actina",
+"A entrada de cálcio no retículo sarcoplasmático",
+"A formação do filamento fino de actina"
 ],
 "e": "A miosina se solta da actina quando recebe novo ATP; sem ATP permanece ligada."
 },
@@ -895,12 +2996,12 @@ window.LIVRO.Q.push(...[
 "c": "citoesqueleto",
 "q": "O rigor mortis, relevante na inspeção de carcaças, é explicado por:",
 "o": [
-"Esgotamento do ATP, que impede a miosina de se soltar da actina",
+"Falta de ATP, que impede a miosina de soltar a actina",
 "Despolimerização total dos microtúbulos após a morte",
 "Excesso de ATP, que mantém o golpe de força contínuo",
 "Degradação dos filamentos intermediários de desmina"
 ],
-"e": "Sem ATP, as pontes actina–miosina não se desfazem e o músculo fica rígido."
+"e": "Com o esgotamento do ATP, as pontes actina–miosina não se desfazem e o músculo fica rígido."
 },
 {
 "c": "citoesqueleto",
@@ -939,10 +3040,10 @@ window.LIVRO.Q.push(...[
 "c": "citoesqueleto",
 "q": "Na instabilidade dinâmica, o que desencadeia a catástrofe (despolimerização rápida) de um microtúbulo?",
 "o": [
-"A perda da capa de tubulina-GTP na extremidade mais, após hidrólise do GTP",
+"A perda da capa de tubulina-GTP na extremidade mais",
 "O acúmulo excessivo de tubulina-GTP na extremidade mais",
-"A ligação da cinesina à extremidade menos",
-"A incorporação de actina-ADP ao microtúbulo"
+"A ligação da cinesina à extremidade menos do microtúbulo",
+"A incorporação de actina-ADP à parede do microtúbulo"
 ],
 "e": "Enquanto há capa de tubulina-GTP o microtúbulo cresce; quando o GTP vira GDP, os protofilamentos se curvam e ele despolimeriza."
 },
@@ -950,12 +3051,12 @@ window.LIVRO.Q.push(...[
 "c": "citoesqueleto",
 "q": "Qual a importância biológica da instabilidade dinâmica dos microtúbulos na mitose?",
 "o": [
-"Permite que os microtúbulos explorem o citoplasma e encontrem os cinetocoros",
+"Permite que os microtúbulos encontrem os cinetocoros",
 "Garante que o fuso nunca se desmonte durante a divisão",
-"Impede a duplicação do centrossomo",
+"Impede a duplicação do centrossomo antes da prófase",
 "Mantém os cromossomos ligados à lâmina nuclear"
 ],
-"e": "Ciclos de crescimento e encolhimento (catástrofe e resgate) permitem a captura dos cinetocoros."
+"e": "Ciclos de crescimento e encolhimento (catástrofe e resgate) permitem que os microtúbulos explorem o citoplasma e capturem os cinetocoros."
 },
 {
 "c": "citoesqueleto",
@@ -972,21 +3073,21 @@ window.LIVRO.Q.push(...[
 "c": "citoesqueleto",
 "q": "Para montar um cariótipo, o laboratório adiciona colchicina à cultura de linfócitos. Qual o objetivo?",
 "o": [
-"Parar as células em metáfase, quando os cromossomos estão mais condensados",
-"Estimular a duplicação do centrossomo",
-"Corar os cromossomos para identificação",
-"Romper a membrana nuclear na interfase"
+"Parar as células em metáfase, com cromossomos condensados",
+"Estimular a duplicação do centrossomo e a divisão celular",
+"Corar os cromossomos para identificação das bandas",
+"Romper a membrana nuclear das células na interfase"
 ],
-"e": "A colchicina impede a montagem do fuso e acumula células em metáfase, ideais para o cariótipo."
+"e": "A colchicina impede a montagem do fuso e acumula células em metáfase, quando os cromossomos estão mais condensados, ideais para o cariótipo."
 },
 {
 "c": "citoesqueleto",
 "q": "Por que o albendazol mata nematódeos sem causar toxicidade relevante ao hospedeiro na dose usual?",
 "o": [
-"Liga-se à tubulina do parasita com afinidade muito maior que à do hospedeiro",
+"Tem afinidade muito maior pela tubulina do parasita",
 "Atua sobre a parede de peptidoglicano do parasita",
-"Destrói os filamentos de queratina do verme",
-"Inibe a dineína ciliar, ausente no hospedeiro"
+"Destrói os filamentos de queratina da cutícula do verme",
+"Inibe a dineína ciliar, que está ausente no hospedeiro"
 ],
 "e": "Os benzimidazóis têm afinidade muito maior pela tubulina do parasita, explorando uma diferença molecular."
 },
@@ -1016,12 +3117,12 @@ window.LIVRO.Q.push(...[
 "c": "citoesqueleto",
 "q": "Por que o período de incubação da raiva é maior quando a mordedura ocorre em um membro distal do que na face?",
 "o": [
-"O vírus sobe por transporte axonal retrógrado, e a distância até o sistema nervoso central é maior",
+"O vírus sobe por transporte axonal retrógrado, e a distância é maior",
 "O vírus é transportado pela cinesina, que é mais lenta nos membros",
-"O vírus precisa atravessar filamentos intermediários mais espessos nos membros",
+"O vírus atravessa filamentos intermediários mais espessos nos membros",
 "Na face o vírus se multiplica nos cílios respiratórios"
 ],
-"e": "O vírus da raiva usa o transporte retrógrado pela dineína; quanto maior a distância, maior a incubação."
+"e": "O vírus da raiva usa o transporte axonal retrógrado pela dineína; quanto maior a distância até o sistema nervoso central, maior a incubação."
 },
 {
 "c": "citoesqueleto",
@@ -1060,42 +3161,42 @@ window.LIVRO.Q.push(...[
 "c": "citoesqueleto",
 "q": "Qual a estrutura do corpúsculo basal (cinetossomo) de onde nascem cílios e flagelos?",
 "o": [
-"9 trincas de microtúbulos e nenhum central (9 + 0), como um centríolo",
-"9 pares periféricos e 2 centrais (9 + 2)",
-"13 protofilamentos em cilindro único",
-"9 pares de filamentos de actina"
+"9 trincas de microtúbulos, sem par central (9 + 0)",
+"9 pares periféricos e 2 microtúbulos centrais (9 + 2)",
+"13 protofilamentos formando um cilindro único",
+"9 pares de filamentos de actina em torno de um eixo"
 ],
-"e": "O corpúsculo basal tem a estrutura de um centríolo; o axonema é que tem o padrão 9 + 2."
+"e": "O corpúsculo basal tem a estrutura de um centríolo (9 trincas, 9 + 0); o axonema é que tem o padrão 9 + 2."
 },
 {
 "c": "citoesqueleto",
 "q": "Como o deslizamento dos pares de microtúbulos do axonema é convertido em curvatura do cílio?",
 "o": [
-"Os pares estão presos na base, então o deslizamento promovido pela dineína força o axonema a se dobrar",
-"A cinesina empurra o par central para fora da membrana",
-"A actina cortical se contrai e dobra o cílio",
+"Como os pares estão presos na base, o deslizamento vira dobra",
+"A cinesina empurra o par central para fora da membrana ciliar",
+"A actina cortical se contrai e dobra o cílio a partir da base",
 "Os microtúbulos despolimerizam de um só lado do cílio"
 ],
-"e": "Braços de dineína fazem os pares deslizarem; como estão ancorados na base, o movimento vira flexão."
+"e": "Braços de dineína fazem os pares deslizarem; como estão ancorados na base, o deslizamento força o axonema a se dobrar."
 },
 {
 "c": "citoesqueleto",
 "q": "Qual a diferença funcional entre cílios e flagelos destacada no capítulo?",
 "o": [
-"Cílios são curtos e numerosos e movem líquidos sobre a superfície; flagelos são longos e poucos e movem a célula",
-"Cílios têm axonema 9 + 0 e flagelos 9 + 2",
-"Cílios usam cinesina e flagelos usam miosina",
-"Cílios existem apenas em bactérias e flagelos apenas em eucariontes"
+"Cílios, curtos e numerosos, movem líquidos; flagelos movem a célula",
+"Cílios têm axonema 9 + 0 e flagelos têm axonema 9 + 2",
+"Cílios usam cinesina para bater e flagelos usam miosina",
+"Cílios existem apenas em bactérias e flagelos só em eucariontes"
 ],
-"e": "Ambos têm axonema 9 + 2; cílios batem coordenadamente movendo muco ou o ovócito, flagelos impulsionam o espermatozoide."
+"e": "Ambos têm axonema 9 + 2; cílios são curtos e numerosos e batem coordenadamente movendo muco ou o ovócito sobre a superfície; flagelos são longos e poucos e impulsionam a célula, como o espermatozoide."
 },
 {
 "c": "citoesqueleto",
 "q": "Qual função dos cílios é essencial para a reprodução na fêmea?",
 "o": [
 "Transportar o ovócito e o embrião ao longo do oviduto",
-"Formar o anel contrátil na ovulação",
-"Produzir a zona pelúcida",
+"Formar o anel contrátil que rompe o folículo na ovulação",
+"Produzir a zona pelúcida ao redor do ovócito",
 "Sustentar a parede do útero contra a tração"
 ],
 "e": "Os cílios do oviduto batem de forma coordenada e movem o ovócito e o embrião."
@@ -1104,10 +3205,10 @@ window.LIVRO.Q.push(...[
 "c": "citoesqueleto",
 "q": "Por que a peça intermediária do espermatozoide é rica em mitocôndrias?",
 "o": [
-"Para fornecer o ATP consumido pela dineína no batimento flagelar",
-"Para produzir os microtúbulos do axonema",
-"Para armazenar as enzimas do acrossomo",
-"Para doar o DNA mitocondrial ao embrião"
+"Para fornecer o ATP usado pela dineína no batimento",
+"Para produzir os microtúbulos do axonema flagelar",
+"Para armazenar as enzimas do acrossomo até a fecundação",
+"Para doar o DNA mitocondrial paterno ao embrião"
 ],
 "e": "O flagelo depende de ATP para os braços de dineína; as mitocôndrias da peça intermediária o fornecem."
 },
@@ -1149,9 +3250,9 @@ window.LIVRO.Q.push(...[
 "q": "Um tumor pouco diferenciado em um cão é positivo para vimentina e negativo para queratina, desmina e GFAP na imuno-histoquímica. Qual a origem mais provável?",
 "o": [
 "Mesenquimal não muscular (sarcoma, como o fibrossarcoma)",
-"Epitelial (carcinoma)",
+"Epitelial (carcinoma, como o carcinoma espinocelular)",
 "Muscular (leiomiossarcoma ou rabdomiossarcoma)",
-"Glial (astrocitoma)"
+"Glial (astrocitoma ou outro tumor de astrócitos)"
 ],
 "e": "Vimentina marca células mesenquimais e sarcomas; a negatividade para queratina afasta carcinoma, para desmina afasta tumor muscular e para GFAP afasta tumor de astrócitos."
 },
@@ -1192,7 +3293,7 @@ window.LIVRO.Q.push(...[
 "c": "citoesqueleto",
 "q": "Na forma de epidermólise bolhosa causada por mutações em queratinas, por que a pele forma bolhas ao menor atrito?",
 "o": [
-"As células da epiderme ficam sem uma rede de filamentos capaz de resistir à tração",
+"As células ficam sem uma rede de filamentos resistente à tração",
 "As microvilosidades da epiderme deixam de ser sustentadas por actina",
 "Os cílios da epiderme param de remover as secreções da superfície",
 "Os centrossomos da epiderme deixam de nuclear os microtúbulos"
@@ -1237,9 +3338,9 @@ window.LIVRO.Q.push(...[
 "q": "Durante a clivagem, a zona pelúcida tem a função de:",
 "o": [
 "Impedir a aderência ao oviduto e manter os blastômeros unidos",
-"Nutrir o embrião com glicoproteínas",
-"Produzir o sinal de reconhecimento materno",
-"Formar o córion do futuro concepto"
+"Nutrir o embrião com glicoproteínas absorvidas diretamente da zona",
+"Produzir o sinal de reconhecimento materno da gestação",
+"Formar o córion do futuro concepto após a eclosão"
 ],
 "e": "A zona pelúcida impede que o embrião grude no epitélio do oviduto e mantém os blastômeros juntos."
 },
@@ -1325,9 +3426,9 @@ window.LIVRO.Q.push(...[
 "q": "Num laboratório de produção in vitro, muitos embriões bovinos param de se desenvolver com 8 a 16 células. A explicação mais provável é:",
 "o": [
 "Falha na transição materno-zigótica (bloqueio de desenvolvimento)",
-"Ausência de compactação por excesso de E-caderina",
+"Ausência de compactação por excesso de E-caderina nos blastômeros",
 "Eclosão prematura antes da formação da blastocele",
-"Falta de reconhecimento materno pelo útero"
+"Falta de reconhecimento materno pelo útero da doadora"
 ],
 "e": "Esse é o estágio da ativação do genoma no bovino; muitos embriões in vitro param exatamente aí."
 },
@@ -1336,9 +3437,9 @@ window.LIVRO.Q.push(...[
 "q": "Durante a compactação, os blastômeros:",
 "o": [
 "Achatam-se uns contra os outros e adquirem polaridade",
-"Separam-se e passam a flutuar na blastocele",
-"Fundem-se em um sincício multinucleado",
-"Perdem a E-caderina e passam a migrar"
+"Separam-se e passam a flutuar livremente na blastocele",
+"Fundem-se em um sincício multinucleado sem membranas",
+"Perdem a E-caderina e passam a migrar de forma isolada"
 ],
 "e": "Na compactação, por volta de 8 a 32 células, os blastômeros se achatam, ficam pouco distinguíveis e polarizados."
 },
@@ -1368,10 +3469,10 @@ window.LIVRO.Q.push(...[
 "c": "clivagem",
 "q": "Por que as junções de oclusão entre as células externas são indispensáveis para formar a blastocele?",
 "o": [
-"Vedam o espaço entre as células, impedindo o vazamento do líquido acumulado",
-"Bombeiam Na+ ativamente para dentro do embrião",
-"Transportam água através da membrana como canais",
-"Ancoram o citoesqueleto à zona pelúcida"
+"Vedam o espaço entre as células, impedindo o vazamento do líquido",
+"Bombeiam Na+ ativamente do meio externo para dentro do embrião",
+"Transportam água através da membrana, funcionando como canais",
+"Ancoram o citoesqueleto dos blastômeros à zona pelúcida"
 ],
 "e": "Sem a vedação das junções de oclusão, o líquido bombeado escaparia e a cavidade não se formaria."
 },
@@ -1435,9 +3536,9 @@ window.LIVRO.Q.push(...[
 "q": "Num blastocisto expandido, observa-se em relação à zona pelúcida que ela:",
 "o": [
 "Fica mais fina pela expansão do embrião",
-"Fica mais espessa e endurecida",
-"Já foi totalmente digerida",
-"Funde-se ao trofoblasto"
+"Fica mais espessa e endurecida pela reação zonal",
+"Já foi totalmente digerida pelas enzimas uterinas",
+"Funde-se ao trofoblasto para formar o córion"
 ],
 "e": "O acúmulo de líquido expande o blastocisto e a zona pelúcida se afina, precedendo a eclosão."
 },
@@ -1446,9 +3547,9 @@ window.LIVRO.Q.push(...[
 "q": "Quais mecanismos permitem a eclosão do blastocisto?",
 "o": [
 "Contrações do embrião e proteases do trofoblasto e do útero",
-"Ação da acrosina residual dos espermatozoides",
+"Ação da acrosina residual dos espermatozoides na zona",
 "Reação cortical tardia dos grânulos do ovócito",
-"Fagocitose da zona pelo epitélio do oviduto"
+"Fagocitose da zona pelo epitélio ciliado do oviduto"
 ],
 "e": "Contrações do blastocisto e enzimas proteolíticas do trofoblasto e do útero abrem uma fenda na zona."
 },
@@ -1456,10 +3557,10 @@ window.LIVRO.Q.push(...[
 "c": "clivagem",
 "q": "Por que a eclosão é obrigatória antes do alongamento e da fixação do concepto?",
 "o": [
-"A zona pelúcida impede o crescimento em superfície e o contato com o endométrio",
-"A zona pelúcida produz a PGF2α que destruiria o corpo lúteo",
+"A zona impede o crescimento em superfície e a adesão ao útero",
+"A zona pelúcida produz a PGF2α que destruiria o corpo lúteo materno",
 "A eclosão é necessária para ativar o genoma embrionário",
-"A zona impede a formação da blastocele"
+"A zona pelúcida impede a formação e a expansão da blastocele"
 ],
 "e": "Enquanto envolto pela zona, o embrião não pode crescer em superfície nem aderir ao endométrio."
 },
@@ -1468,9 +3569,9 @@ window.LIVRO.Q.push(...[
 "q": "Após a eclosão, o embrião equino fica envolto por:",
 "o": [
 "Uma cápsula de glicoproteínas que o mantém esférico",
-"Uma nova zona pelúcida secretada pelo útero",
-"Uma camada de células do cumulus",
-"Uma membrana de fibrina materna"
+"Uma nova zona pelúcida secretada pelo endométrio",
+"Uma camada de células do cumulus oophorus",
+"Uma membrana de fibrina materna que o fixa ao útero"
 ],
 "e": "A cápsula equina mantém a forma esférica da vesícula e permite sua migração pelo útero."
 },
@@ -1523,9 +3624,9 @@ window.LIVRO.Q.push(...[
 "q": "Na égua, o embrião chega ao útero:",
 "o": [
 "Por volta do dia 6, já próximo ao estágio de blastocisto",
-"Por volta do dia 2, com 4 células",
-"Por volta do dia 10, já eclodido",
-"Por volta do dia 16, quando se fixa"
+"Por volta do dia 2, ainda com 4 células",
+"Por volta do dia 10, já eclodido e envolto pela cápsula glicoproteica",
+"Por volta do dia 16, quando se fixa ao endométrio"
 ],
 "e": "O embrião equino passa ao útero por volta do dia 6, com blastocisto nos dias 6–7."
 },
@@ -1677,9 +3778,9 @@ window.LIVRO.Q.push(...[
 "q": "Qual a principal consequência da perda de colesterol da membrana plasmática durante a capacitação?",
 "o": [
 "A membrana fica mais fluida e instável, apta à reação acrossômica",
-"A membrana fica mais rígida, protegendo o acrossomo",
-"O espermatozoide perde a motilidade flagelar",
-"O núcleo espermático se descondensa precocemente"
+"A membrana fica mais rígida e estável, protegendo o acrossomo",
+"O espermatozoide perde a motilidade flagelar progressiva",
+"O núcleo espermático se descondensa precocemente no útero"
 ],
 "e": "Com menos colesterol, a membrana fica mais fluida e instável, condição para a ligação à zona e a reação acrossômica."
 },
@@ -1688,8 +3789,8 @@ window.LIVRO.Q.push(...[
 "q": "A hiperativação do espermatozoide, adquirida na capacitação, caracteriza-se por:",
 "o": [
 "Batimento flagelar mais amplo e vigoroso, dependente de cálcio",
-"Movimento progressivo retilíneo e de baixa amplitude",
-"Parada do flagelo para permitir a fusão de membranas",
+"Movimento progressivo retilíneo, rápido e de baixa amplitude",
+"Parada do flagelo para permitir a fusão das membranas",
 "Perda da peça intermediária e de suas mitocôndrias"
 ],
 "e": "A interação cálcio–axonema torna o batimento amplo e vigoroso, ajudando o espermatozoide a soltar-se do reservatório e atravessar a zona."
@@ -1699,9 +3800,9 @@ window.LIVRO.Q.push(...[
 "q": "Qual das alterações abaixo NÃO faz parte da capacitação espermática?",
 "o": [
 "Fusão da membrana plasmática com a membrana acrossômica externa",
-"Remoção de proteínas do plasma seminal da superfície",
+"Remoção de proteínas do plasma seminal da superfície da membrana",
 "Entrada de Ca2+ e aumento do AMPc intracelular",
-"Aquisição de motilidade hiperativada"
+"Aquisição de motilidade hiperativada do flagelo"
 ],
 "e": "A fusão da membrana plasmática com a acrossômica externa é a reação acrossômica, que ocorre depois, junto à zona pelúcida."
 },
@@ -1808,9 +3909,9 @@ window.LIVRO.Q.push(...[
 "c": "fecundacao",
 "q": "A fosfolipase C zeta trazida pelo espermatozoide ativa o ovócito porque:",
 "o": [
-"Gera IP3, que libera Ca2+ do retículo endoplasmático em oscilações",
+"Gera IP3, que libera Ca2+ do retículo endoplasmático em ondas",
 "Degrada a ciclina B diretamente, encerrando a metáfase II",
-"Cliva a ZP2, endurecendo a zona pelúcida",
+"Cliva a ZP2 da zona pelúcida, endurecendo-a contra outros espermatozoides",
 "Reduz as pontes dissulfeto das protaminas espermáticas"
 ],
 "e": "A PLCζ produz IP3, que abre canais do RE e gera ondas repetidas de Ca2+ no ovócito."
@@ -1842,9 +3943,9 @@ window.LIVRO.Q.push(...[
 "q": "Na reação zonal, a zona pelúcida deixa de aceitar espermatozoides porque:",
 "o": [
 "Enzimas dos grânulos corticais clivam ZP2 e alteram os receptores",
-"A hialuronidase espermática dissolve a zona após a fusão",
-"O cumulus secreta uma nova camada sobre a zona",
-"O ovócito reabsorve as glicoproteínas da zona"
+"A hialuronidase espermática dissolve a zona após a fusão das membranas",
+"O cumulus oophorus secreta uma nova camada sobre a zona",
+"O ovócito reabsorve as glicoproteínas da zona pelúcida"
 ],
 "e": "As enzimas liberadas pelos grânulos corticais modificam a ZP (clivagem de ZP2), endurecendo-a."
 },
@@ -1875,9 +3976,9 @@ window.LIVRO.Q.push(...[
 "q": "Uma vaca inseminada muito tarde, com o ovócito já envelhecido no oviduto, tem maior risco de:",
 "o": [
 "Polispermia, por resposta deficiente ao bloqueio",
-"Gestação gemelar monozigótica",
-"Falha na capacitação dos espermatozoides",
-"Ausência de reação acrossômica"
+"Gestação gemelar monozigótica por divisão do zigoto",
+"Falha na capacitação dos espermatozoides no oviduto",
+"Ausência de reação acrossômica junto à zona pelúcida"
 ],
 "e": "Ovócitos envelhecidos respondem mal ao bloqueio da polispermia, favorecendo zigotos triploides inviáveis."
 },
@@ -1886,9 +3987,9 @@ window.LIVRO.Q.push(...[
 "q": "A descondensação do núcleo espermático dentro do ovócito depende de:",
 "o": [
 "Glutationa, que desfaz as pontes dissulfeto das protaminas",
-"Acrosina, que digere as histonas espermáticas",
-"Ciclina B, que condensa a cromatina paterna",
-"Hialuronidase, que remove o envoltório nuclear"
+"Acrosina, que digere as histonas do núcleo espermático",
+"Ciclina B, que condensa a cromatina paterna no ovócito",
+"Hialuronidase, que remove o envoltório nuclear espermático"
 ],
 "e": "A glutationa do ovócito reduz as pontes dissulfeto das protaminas, que são substituídas por histonas maternas."
 },
@@ -1918,10 +4019,10 @@ window.LIVRO.Q.push(...[
 "c": "fecundacao",
 "q": "O pró-núcleo feminino é formado:",
 "o": [
-"Pelos cromossomos que ficam no ovócito após a saída do 2º corpúsculo polar",
-"Pelos cromossomos do 1º corpúsculo polar reincorporados",
+"Pelos cromossomos que ficam no ovócito após o 2º corpúsculo polar",
+"Pelos cromossomos do 1º corpúsculo polar reincorporados ao ovócito",
 "Pela fusão do núcleo do ovócito com o 2º corpúsculo polar",
-"Antes da ovulação, ao fim da meiose I"
+"Antes da ovulação, ao fim da meiose I, no folículo"
 ],
 "e": "Terminada a meiose II e expulso o 2º corpúsculo polar, o conjunto haploide restante forma o pró-núcleo feminino."
 },
@@ -1974,9 +4075,9 @@ window.LIVRO.Q.push(...[
 "q": "A ICSI é especialmente utilizada em equinos porque:",
 "o": [
 "A fecundação in vitro convencional funciona mal nessa espécie",
-"A égua não ovula ovócitos em metáfase II",
-"O espermatozoide equino não possui acrossomo",
-"A égua não possui zona pelúcida"
+"A égua não ovula ovócitos em metáfase II, e sim primários",
+"O espermatozoide equino não possui acrossomo funcional",
+"A égua não possui zona pelúcida ao redor do ovócito ovulado"
 ],
 "e": "Na ICSI o espermatozoide é injetado no ovócito, contornando capacitação, zona e fusão, etapas que falham na FIV equina convencional."
 },
@@ -2017,10 +4118,10 @@ window.LIVRO.Q.push(...[
 "c": "gametogenese",
 "q": "Na espermatocitogênese, as espermatogônias:",
 "o": [
-"Multiplicam-se por mitose, e parte delas permanece como reserva de células-tronco",
-"Fazem meiose I e originam espermátides",
-"Transformam-se diretamente em espermatozoides sem divisão",
-"Param em prófase I até a puberdade"
+"Multiplicam-se por mitose, e parte permanece como células-tronco",
+"Fazem meiose I e originam diretamente as espermátides haploides",
+"Transformam-se diretamente em espermatozoides, sem divisão",
+"Param em prófase I desde a vida fetal até a puberdade"
 ],
 "e": "As espermatogônias 2n se dividem por mitose; algumas mantêm o estoque de células-tronco e outras se diferenciam em espermatócitos primários."
 },
@@ -2062,9 +4163,9 @@ window.LIVRO.Q.push(...[
 "q": "A troca de histonas por protaminas durante a espermiogênese tem como consequência:",
 "o": [
 "Compactação máxima da cromatina no núcleo do espermatozoide",
-"Formação do axonema do flagelo",
-"Ativação da transcrição dos genes paternos",
-"Liberação do espermatozoide na luz do túbulo"
+"Formação do axonema do flagelo a partir do centríolo distal",
+"Ativação da transcrição dos genes paternos no núcleo",
+"Liberação do espermatozoide da célula de Sertoli para a luz do túbulo"
 ],
 "e": "As protaminas compactam o DNA muito mais que as histonas, deixando o núcleo condensado e alongado."
 },
@@ -2083,12 +4184,12 @@ window.LIVRO.Q.push(...[
 "c": "gametogenese",
 "q": "Na peça intermediária do espermatozoide concentram-se:",
 "o": [
-"Mitocôndrias, que fornecem energia para o batimento do flagelo",
+"Mitocôndrias, que fornecem energia para o flagelo",
 "Vesículas acrossômicas com enzimas hidrolíticas",
-"O núcleo condensado com protaminas",
+"O núcleo condensado com protaminas e o centríolo",
 "Grânulos de glicogênio derivados do corpo residual"
 ],
-"e": "As mitocôndrias se dispõem em hélice na peça intermediária e produzem o ATP usado pelo flagelo."
+"e": "As mitocôndrias se dispõem em hélice na peça intermediária e produzem o ATP usado no batimento do flagelo."
 },
 {
 "c": "gametogenese",
@@ -2106,9 +4207,9 @@ window.LIVRO.Q.push(...[
 "q": "O termo espermiação refere-se:",
 "o": [
 "À liberação do espermatozoide na luz do túbulo seminífero",
-"À transformação da espermátide em espermatozoide",
-"À ejaculação do sêmen",
-"À maturação do espermatozoide no epidídimo"
+"À transformação da espermátide em espermatozoide sem divisão",
+"À ejaculação do sêmen pela uretra durante a monta",
+"À maturação do espermatozoide no trânsito pelo epidídimo"
 ],
 "e": "Espermiação é a etapa final da espermiogênese, quando o espermatozoide se solta da célula de Sertoli para a luz do túbulo."
 },
@@ -2116,10 +4217,10 @@ window.LIVRO.Q.push(...[
 "c": "gametogenese",
 "q": "Por que a barreira hematotesticular formada pelas células de Sertoli é necessária?",
 "o": [
-"Porque as células meióticas e pós-meióticas são estranhas ao sistema imune e seriam atacadas",
-"Porque impede a entrada de testosterona nos túbulos",
-"Porque impede a saída dos espermatozoides antes da puberdade",
-"Porque bloqueia a ação do FSH sobre as espermatogônias"
+"Porque as células meióticas seriam reconhecidas como estranhas e atacadas",
+"Porque impede a entrada de testosterona no interior dos túbulos seminíferos",
+"Porque impede a saída dos espermatozoides para o epidídimo antes da puberdade",
+"Porque bloqueia a ação do FSH sobre as espermatogônias basais"
 ],
 "e": "As junções oclusivas entre células de Sertoli isolam as células germinativas que expressam antígenos novos, evitando reação autoimune."
 },
@@ -2149,12 +4250,12 @@ window.LIVRO.Q.push(...[
 "c": "gametogenese",
 "q": "Ao sair do testículo, o espermatozoide:",
 "o": [
-"Ainda é imóvel e sem capacidade fecundante, adquirindo motilidade no epidídimo",
-"Já é móvel e capaz de fecundar imediatamente",
+"Ainda é imóvel e só adquire motilidade no epidídimo",
+"Já é móvel e capaz de fecundar imediatamente após a ejaculação",
 "Precisa voltar ao túbulo seminífero para completar a meiose II",
 "É armazenado na cabeça do epidídimo por meses sem alterações"
 ],
-"e": "A motilidade é adquirida durante o trânsito pela cabeça, corpo e cauda do epidídimo, onde os espermatozoides ficam armazenados."
+"e": "Ao sair do testículo o espermatozoide é imóvel e sem capacidade fecundante; a motilidade é adquirida durante o trânsito pela cabeça, corpo e cauda do epidídimo, onde ficam armazenados."
 },
 {
 "c": "gametogenese",
@@ -2182,10 +4283,10 @@ window.LIVRO.Q.push(...[
 "c": "gametogenese",
 "q": "Um cão com criptorquidismo bilateral tende a ser infértil porque:",
 "o": [
-"Os testículos retidos no abdome ficam acima da temperatura adequada à espermatogênese",
-"As células de Leydig deixam de existir no testículo retido",
-"Os espermatozoides não conseguem atravessar o epidídimo",
-"O testículo abdominal não recebe LH"
+"Os testículos retidos ficam quentes demais para a espermatogênese",
+"As células de Leydig deixam de existir no testículo retido no abdome",
+"Os espermatozoides não conseguem atravessar o epidídimo retido",
+"O testículo abdominal não recebe estímulo do LH hipofisário"
 ],
 "e": "A espermatogênese exige 2 a 6 °C abaixo da temperatura corporal; no abdome ela falha. O criptorquidismo também tem componente hereditário."
 },
@@ -2259,10 +4360,10 @@ window.LIVRO.Q.push(...[
 "c": "gametogenese",
 "q": "O folículo secundário (pré-antral) se diferencia do primário por apresentar:",
 "o": [
-"Várias camadas de células da granulosa e o surgimento da teca",
-"Antro com líquido folicular",
-"Cumulus oophorus",
-"Corpo lúteo em formação"
+"Várias camadas de granulosa e o surgimento da teca",
+"Antro com líquido folicular e cumulus oophorus",
+"Uma única camada de células foliculares achatadas",
+"Corpo lúteo em formação a partir da granulosa"
 ],
 "e": "No folículo secundário a granulosa se torna estratificada e a teca aparece; o antro só surge no terciário."
 },
@@ -2282,9 +4383,9 @@ window.LIVRO.Q.push(...[
 "q": "O folículo pré-ovulatório (de Graaf) caracteriza-se por:",
 "o": [
 "Ser dominante, produzir muito estrógeno e responder ao pico de LH",
-"Produzir progesterona alta e manter a gestação",
-"Conter ovócito em metáfase II desde a vida fetal",
-"Ter uma única camada de células achatadas"
+"Produzir progesterona em alta concentração e manter a gestação inicial",
+"Conter ovócito em metáfase II desde a vida fetal da fêmea",
+"Ter uma única camada de células foliculares achatadas"
 ],
 "e": "O folículo dominante secreta grandes quantidades de estrógeno, que desencadeia o pico de LH responsável pela ovulação."
 },
@@ -2292,12 +4393,12 @@ window.LIVRO.Q.push(...[
 "c": "gametogenese",
 "q": "Na vaca, o pico de LH age sobre o ovócito do folículo pré-ovulatório fazendo-o:",
 "o": [
-"Completar a meiose I, formando o ovócito secundário e o 1º corpúsculo polar",
+"Completar a meiose I, formando o ovócito secundário",
 "Completar a meiose II, formando o 2º corpúsculo polar",
-"Iniciar a meiose a partir da ovogônia",
-"Retomar a mitose para aumentar o estoque"
+"Iniciar a meiose a partir da ovogônia ainda em repouso",
+"Retomar a mitose para aumentar o estoque de ovócitos"
 ],
-"e": "O LH retira o ovócito do bloqueio em prófase I; ele termina a meiose I e para de novo em metáfase II."
+"e": "O LH retira o ovócito do bloqueio em prófase I; ele termina a meiose I, forma o ovócito secundário e o 1º corpúsculo polar e para de novo em metáfase II."
 },
 {
 "c": "gametogenese",
@@ -2314,12 +4415,12 @@ window.LIVRO.Q.push(...[
 "c": "gametogenese",
 "q": "Por que o momento da cobertura na cadela é calculado pela progesterona sérica?",
 "o": [
-"Porque ela ovula ovócitos primários, que levam 2 a 3 dias no oviduto até poderem ser fecundados",
-"Porque ela tem ovulação induzida pelo coito",
-"Porque ela ovula pela fossa de ovulação",
-"Porque o estro dura apenas algumas horas"
+"Porque ela ovula ovócitos primários, que ainda maturam no oviduto",
+"Porque ela tem ovulação induzida pelo coito, como a gata e a coelha",
+"Porque ela ovula pela fossa de ovulação, como a égua",
+"Porque o estro da cadela dura apenas algumas horas"
 ],
-"e": "Como o ovócito canino ovulado ainda precisa completar a maturação, é preciso estimar a ovulação pela progesterona para cobrir no momento certo."
+"e": "O ovócito canino ovulado ainda é primário e leva 2 a 3 dias no oviduto até poder ser fecundado; por isso a ovulação é estimada pela progesterona para cobrir no momento certo."
 },
 {
 "c": "gametogenese",
@@ -2358,8 +4459,8 @@ window.LIVRO.Q.push(...[
 "c": "gametogenese",
 "q": "Qual diferença entre espermatogênese e ovogênese está correta?",
 "o": [
-"Na ovogênese a divisão do citoplasma é desigual e o ovócito guarda quase todo o citoplasma",
-"A espermatogênese começa na vida fetal e a ovogênese na puberdade",
+"Na ovogênese a citocinese é desigual e o ovócito guarda o citoplasma",
+"A espermatogênese começa na vida fetal e a ovogênese, na puberdade",
 "A condensação nuclear por protaminas ocorre só na ovogênese",
 "A ovogênese é contínua e a espermatogênese ocorre em ondas a cada ciclo"
 ],
@@ -2435,10 +4536,10 @@ window.LIVRO.Q.push(...[
 "c": "gametogenese",
 "q": "Uma cadela não gestante, avaliada dois meses após o cio, ainda apresenta progesterona elevada. Isso é:",
 "o": [
-"Normal, pois a cadela tem diestro longo de cerca de dois meses mesmo sem gestação",
-"Sinal de cisto folicular",
-"Indicativo de ovulação induzida",
-"Prova de que houve gestação com reabsorção"
+"Normal, pois a cadela tem diestro longo mesmo sem gestação",
+"Sinal de cisto folicular ovariano produtor de estrógeno",
+"Indicativo de ovulação induzida pelo coito sem fecundação",
+"Prova de que houve gestação seguida de reabsorção embrionária"
 ],
 "e": "A cadela é monoéstrica e mantém o corpo lúteo ativo por cerca de dois meses mesmo sem gestar."
 },
@@ -2447,9 +4548,9 @@ window.LIVRO.Q.push(...[
 "q": "Vacas leiteiras em balanço energético negativo no pós-parto ficam em anestro porque:",
 "o": [
 "A liberação de LH cai e os folículos não chegam a ovular",
-"O corpo lúteo persiste por falta de PGF2α",
-"A ovulação passa a depender do coito",
-"O estoque de ovócitos se esgota"
+"O corpo lúteo persiste por falta de PGF2α do útero",
+"A ovulação passa a depender do estímulo do coito",
+"O estoque de ovócitos dos ovários se esgota precocemente"
 ],
 "e": "A energia desviada para o leite reduz a secreção de LH; os folículos crescem mas não ovulam."
 },
@@ -2458,9 +4559,9 @@ window.LIVRO.Q.push(...[
 "q": "A formação de cistos foliculares ovarianos está associada principalmente a:",
 "o": [
 "Falha do pico de LH, de modo que o folículo não ovula e persiste",
-"Excesso de PGF2α uterina",
-"Atresia acelerada dos folículos primordiais",
-"Fecundação de ovócitos imaturos"
+"Excesso de PGF2α uterina, que destrói o folículo dominante antes da ovulação",
+"Atresia acelerada dos folículos primordiais do ovário",
+"Fecundação de ovócitos imaturos ainda dentro do folículo"
 ],
 "e": "Sem o pico de LH, o folículo pré-ovulatório não se rompe e persiste como cisto, podendo causar ninfomania ou anestro."
 },
@@ -2468,10 +4569,10 @@ window.LIVRO.Q.push(...[
 "c": "gametogenese",
 "q": "Uma vaca com endometrite não retorna ao cio. O mecanismo mais provável é:",
 "o": [
-"O útero inflamado não produz PGF2α adequadamente, e o corpo lúteo persiste",
-"A inflamação destrói os folículos primordiais",
-"O útero passa a secretar LH em excesso",
-"A endometrite bloqueia a meiose dos espermatozoides"
+"O útero inflamado não libera PGF2α, e o corpo lúteo persiste",
+"A inflamação uterina destrói os folículos primordiais do ovário",
+"O útero inflamado passa a secretar LH em excesso na circulação",
+"A endometrite bloqueia a meiose dos espermatozoides depositados"
 ],
 "e": "Sem luteólise, a progesterona do corpo lúteo persistente impede novo ciclo."
 },
@@ -2524,9 +4625,9 @@ window.LIVRO.Q.push(...[
 "q": "As primeiras células do epiblasto que entram pela linha primitiva:",
 "o": [
 "Substituem o hipoblasto e formam o endoderma definitivo",
-"Formam o mesoderma paraxial",
+"Formam o mesoderma paraxial que originará os somitos",
 "Permanecem na superfície e formam o ectoderma",
-"Formam a crista neural"
+"Formam a crista neural nas bordas das pregas neurais"
 ],
 "e": "As primeiras células que ingressam deslocam o hipoblasto e formam o endoderma definitivo; as seguintes formam o mesoderma."
 },
@@ -2557,9 +4658,9 @@ window.LIVRO.Q.push(...[
 "q": "O miótomo dos somitos origina:",
 "o": [
 "Os músculos do tronco e dos membros",
-"As vértebras e as costelas",
-"A derme do dorso",
-"Os rins definitivos"
+"As vértebras e as costelas do esqueleto axial",
+"A derme do dorso e do pescoço",
+"Os rins definitivos (metanefro)"
 ],
 "e": "Miótomo forma músculos do tronco e membros; esclerótomo, vértebras e costelas; dermátomo, derme do dorso."
 },
@@ -2690,8 +4791,8 @@ window.LIVRO.Q.push(...[
 "o": [
 "Do meio para as extremidades, fechando os neuróporos por último",
 "Da extremidade cranial para a caudal, de uma só vez",
-"Da extremidade caudal para a cranial, sem neuróporos",
-"Simultaneamente em todo o comprimento"
+"Da extremidade caudal para a cranial, sem deixar neuróporos",
+"Simultaneamente em todo o comprimento do tubo neural"
 ],
 "e": "A fusão começa na região média e avança para as extremidades; os neuróporos cranial e caudal fecham por último."
 },
@@ -2711,9 +4812,9 @@ window.LIVRO.Q.push(...[
 "q": "As células da crista neural originam-se:",
 "o": [
 "Das bordas das pregas neurais",
-"Do nó primitivo",
-"Do mesoderma paraxial",
-"Do hipoblasto"
+"Do nó primitivo da linha primitiva",
+"Do mesoderma paraxial dos somitos",
+"Do hipoblasto do disco embrionário"
 ],
 "e": "A crista neural surge nas bordas das pregas neurais e migra por todo o corpo."
 },
@@ -2799,9 +4900,9 @@ window.LIVRO.Q.push(...[
 "q": "Uma agressão ao embrião no período de pré-implantação costuma ter efeito do tipo:",
 "o": [
 "Tudo ou nada: morte embrionária ou nenhum efeito",
-"Malformações graves de múltiplos órgãos",
-"Retardo de crescimento intrauterino",
-"Defeitos funcionais do sistema nervoso"
+"Malformações graves de múltiplos órgãos em formação",
+"Retardo de crescimento intrauterino e baixo peso",
+"Defeitos funcionais do sistema nervoso central"
 ],
 "e": "Na fase de ovo, as agressões geralmente matam o embrião ou não deixam sequela (tudo ou nada)."
 },
@@ -2821,9 +4922,9 @@ window.LIVRO.Q.push(...[
 "q": "Agressões durante o período fetal resultam tipicamente em:",
 "o": [
 "Retardo de crescimento, defeitos funcionais e aborto",
-"Morte embrionária do tipo tudo ou nada",
-"Ciclopia e falhas de gastrulação",
-"Ausência de formação dos folhetos"
+"Morte embrionária do tipo tudo ou nada, sem sequelas",
+"Ciclopia e falhas graves de gastrulação no embrião",
+"Ausência de formação dos folhetos germinativos"
 ],
 "e": "No período fetal os órgãos já estão formados; agressões causam retardo de crescimento, defeitos funcionais e do SNC ou aborto."
 },
@@ -2832,9 +4933,9 @@ window.LIVRO.Q.push(...[
 "q": "No bovino, a imunotolerância a um agente infeccioso pode surgir quando a infecção ocorre:",
 "o": [
 "No início do período fetal, antes de ~120–125 dias",
-"Apenas no período de pré-implantação",
-"Somente no último mês de gestação",
-"Somente após o nascimento"
+"Apenas no período de pré-implantação, na fase de ovo",
+"Somente no último mês de gestação, com o feto maduro",
+"Somente após o nascimento, antes da ingestão de colostro"
 ],
 "e": "Antes da maturação imune (~120–125 dias), o feto pode reconhecer o agente como próprio."
 },
@@ -2843,9 +4944,9 @@ window.LIVRO.Q.push(...[
 "q": "Infecção de vaca gestante pelo BVDV entre ~100 e ~150 dias tende a causar no bezerro:",
 "o": [
 "Hipoplasia cerebelar, catarata e hidranencefalia",
-"Imunotolerância e infecção persistente",
-"Ciclopia por bloqueio de Sonic hedgehog",
-"Bócio congênito"
+"Imunotolerância e infecção persistente por toda a vida",
+"Ciclopia por bloqueio da via Sonic hedgehog",
+"Bócio congênito por deficiência de iodo"
 ],
 "e": "Nessa janela o BVDV causa lesões do SNC e olhos, como hipoplasia cerebelar e catarata."
 },
@@ -2865,9 +4966,9 @@ window.LIVRO.Q.push(...[
 "q": "Filhotes de gato com tremores e ataxia por hipoplasia cerebelar sugerem infecção, no fim da gestação ou neonatal, por:",
 "o": [
 "Vírus da panleucopenia felina",
-"Vírus da língua azul",
-"Vírus Akabane",
-"BVDV"
+"Vírus da língua azul dos ruminantes",
+"Vírus Akabane, transmitido por insetos",
+"BVDV, o vírus da diarreia viral bovina"
 ],
 "e": "A panleucopenia felina no fim da gestação ou no período neonatal causa hipoplasia cerebelar."
 },
@@ -2908,10 +5009,10 @@ window.LIVRO.Q.push(...[
 "c": "gastrulacao",
 "q": "Corticoides em altas doses durante a gestação podem causar:",
 "o": [
-"Palatosquise e, no terço final, indução de parto ou aborto",
-"Ciclopia e artrogripose",
-"Hipoplasia cerebelar e catarata",
-"Síndrome do potro branco letal"
+"Palatosquise e, no terço final, parto induzido ou aborto",
+"Ciclopia e artrogripose por bloqueio de Sonic hedgehog",
+"Hipoplasia cerebelar e catarata nos neonatos",
+"Síndrome do potro branco letal com aganglionose"
 ],
 "e": "Doses altas de corticoides causam palatosquise e, no terço final, podem induzir parto ou aborto."
 },
@@ -2953,9 +5054,9 @@ window.LIVRO.Q.push(...[
 "q": "Entre os fatores que determinam o efeito de um teratógeno, o mais decisivo é:",
 "o": [
 "O momento da gestação em que ocorre a exposição",
-"A raça da mãe",
-"O número de fetos na gestação",
-"A paridade da mãe"
+"A raça da mãe e o tamanho da ninhada esperada",
+"O número de fetos presentes na gestação",
+"A paridade da mãe e o número de partos anteriores"
 ],
 "e": "O efeito depende do agente, da dose e do genótipo, mas sobretudo do momento da exposição."
 },
@@ -2974,7 +5075,7 @@ window.LIVRO.Q.push(...[
 "c": "genes",
 "q": "Qual é a estratégia de controle adequada para uma doença multifatorial como a displasia coxofemoral canina?",
 "o": [
-"Seleção de reprodutores baseada em avaliação radiográfica e em valores genéticos",
+"Seleção de reprodutores por radiografia e valores genéticos",
 "Teste de DNA para um único alelo recessivo e descarte dos portadores",
 "Cariotipagem de todos os filhotes ao nascimento",
 "Cruzamento apenas entre animais aparentados para fixar o fenótipo"
@@ -3007,10 +5108,10 @@ window.LIVRO.Q.push(...[
 "c": "genes",
 "q": "Por que as aneuploidias de cromossomos sexuais aparecem com mais frequência na clínica de reprodução animal do que as de autossomos?",
 "o": [
-"Porque as de autossomos geralmente matam o embrião, enquanto as dos sexuais são compatíveis com a vida",
-"Porque a não disjunção só ocorre nos cromossomos sexuais",
+"Porque as autossômicas geralmente matam o embrião, e as sexuais não",
+"Porque a não disjunção ocorre apenas nos cromossomos sexuais",
 "Porque as de autossomos não alteram o fenótipo e passam despercebidas",
-"Porque os cromossomos sexuais não sofrem meiose"
+"Porque os cromossomos sexuais não passam pela meiose"
 ],
 "e": "Animais com aneuploidia autossômica raramente chegam a nascer; já os com alterações do X ou Y sobrevivem e se apresentam como casos de infertilidade."
 },
@@ -3018,10 +5119,10 @@ window.LIVRO.Q.push(...[
 "c": "genes",
 "q": "No freemartinismo bovino, o mecanismo que leva à masculinização da bezerra é:",
 "o": [
-"Fusão das placentas com troca de sangue, hormônios e células entre os gêmeos",
-"Não disjunção do X na ovogênese da vaca",
-"Mutação no gene SRY da bezerra",
-"Translocação robertsoniana herdada do touro"
+"Fusão das placentas, com troca de sangue e células entre os gêmeos",
+"Não disjunção do cromossomo X na ovogênese da vaca",
+"Mutação no gene SRY da bezerra durante a gestação",
+"Translocação robertsoniana herdada do touro e transmitida à fêmea"
 ],
 "e": "As anastomoses placentárias no início da gestação permitem que hormônios e células do gêmeo macho cheguem à fêmea, gerando uma quimera XX/XY."
 },
@@ -3030,9 +5131,9 @@ window.LIVRO.Q.push(...[
 "q": "Uma bezerra nascida gêmea de um macho deve ser avaliada para freemartinismo. Qual exame confirma o diagnóstico?",
 "o": [
 "Cariótipo ou PCR para detectar o cromossomo Y",
-"Dosagem de fator VIII",
-"Teste de DNA para a integrina CD18",
-"Radiografia da coluna vertebral"
+"Dosagem do fator VIII da coagulação no plasma",
+"Teste de DNA para a mutação da integrina CD18",
+"Radiografia da coluna vertebral e da pelve"
 ],
 "e": "A freemartin é quimera XX/XY; o achado de células com Y, por cariótipo ou PCR, confirma o quadro."
 },
@@ -3106,9 +5207,9 @@ window.LIVRO.Q.push(...[
 "c": "genes",
 "q": "O cavalo tem 2n = 64 e o jumento 2n = 62. Quantos cromossomos tem o muar e por que ele é estéril?",
 "o": [
-"63; os cromossomos de origens diferentes não pareiam corretamente na meiose",
-"63; o muar não produz hormônios sexuais",
-"126; a soma dos genomas impede a mitose",
+"63; os cromossomos de cavalo e jumento não pareiam na meiose",
+"63; o muar não produz hormônios sexuais suficientes",
+"126; a soma dos dois genomas impede a mitose",
 "62; o genoma do jumento é dominante e elimina o do cavalo"
 ],
 "e": "O muar recebe 32 cromossomos do cavalo e 31 do jumento (63); a falha no pareamento meiótico impede a formação de gametas viáveis."
@@ -3117,12 +5218,12 @@ window.LIVRO.Q.push(...[
 "c": "genes",
 "q": "Um Collie desenvolve intoxicação neurológica grave após dose usual de ivermectina. A base molecular mais provável é:",
 "o": [
-"Deleção no gene MDR1 (ABCB1), que inativa a bomba de efluxo da barreira hematoencefálica",
-"Mutação no canal de sódio muscular",
-"Mutação no receptor de rianodina (RYR1)",
-"Deficiência do fator VIII da coagulação"
+"Deleção no gene MDR1, que inativa uma bomba de efluxo",
+"Mutação no canal de sódio do músculo esquelético",
+"Mutação no receptor de rianodina (RYR1) do músculo",
+"Deficiência do fator VIII da coagulação sanguínea"
 ],
-"e": "A deleção de 4 pb no MDR1 deixa a glicoproteína de efluxo sem função, e o fármaco se acumula no sistema nervoso central."
+"e": "A deleção de 4 pb no MDR1 (ABCB1) deixa sem função a glicoproteína de efluxo da barreira hematoencefálica, e o fármaco se acumula no sistema nervoso central."
 },
 {
 "c": "genes",
@@ -3139,10 +5240,10 @@ window.LIVRO.Q.push(...[
 "c": "genes",
 "q": "A HYPP do Quarto de Milha, ligada à linhagem do garanhão Impressive, resulta de:",
 "o": [
-"Mutação de sentido trocado no canal de sódio do músculo esquelético",
-"Deleção no gene da bomba de efluxo",
-"Mutação na integrina CD18 dos neutrófilos",
-"Mutação no gene GYS1 da glicogênio sintase"
+"Mutação de sentido trocado no canal de sódio muscular",
+"Deleção no gene MDR1 da bomba de efluxo de fármacos",
+"Mutação na integrina CD18 dos neutrófilos circulantes",
+"Mutação no gene GYS1 da glicogênio sintase muscular"
 ],
 "e": "A troca de um aminoácido no canal de sódio muscular causa episódios de tremor e paralisia."
 },
@@ -3150,10 +5251,10 @@ window.LIVRO.Q.push(...[
 "c": "genes",
 "q": "Bezerros Holandeses com BLAD têm infecções de repetição porque:",
 "o": [
-"A mutação na integrina CD18 impede que os neutrófilos saiam dos vasos",
-"Não produzem anticorpos por falha nos linfócitos B",
-"Têm deficiência de fator VIII e sangram nos tecidos",
-"Os neutrófilos são destruídos no baço logo após a produção"
+"A mutação na integrina CD18 impede os neutrófilos de sair dos vasos",
+"Não produzem anticorpos por falha na maturação dos linfócitos B na medula",
+"Têm deficiência de fator VIII e sangram nos tecidos infectados",
+"Os neutrófilos são destruídos no baço logo após a sua produção"
 ],
 "e": "Sem a integrina CD18 funcional, os neutrófilos não aderem ao endotélio nem migram para os tecidos infectados."
 },
@@ -3173,9 +5274,9 @@ window.LIVRO.Q.push(...[
 "q": "Suínos Pietrain homozigotos para a mutação do RYR1 têm importância econômica porque:",
 "o": [
 "Estão sujeitos à hipertermia maligna e produzem carne PSE",
-"Desenvolvem cegueira progressiva precoce",
-"Apresentam infecções respiratórias de repetição",
-"Não respondem à vacinação contra circovírus"
+"Desenvolvem cegueira progressiva precoce por atrofia de retina",
+"Apresentam infecções respiratórias de repetição no desmame",
+"Não respondem à vacinação contra o circovírus suíno"
 ],
 "e": "A mutação no receptor de rianodina causa hipertermia maligna sob estresse e carne pálida, mole e exsudativa (PSE)."
 },
@@ -3183,10 +5284,10 @@ window.LIVRO.Q.push(...[
 "c": "genes",
 "q": "A miopatia por acúmulo de polissacarídeos tipo 1 (PSSM1) em cavalos Quarto de Milha e de tração é:",
 "o": [
-"Autossômica dominante, ligada ao gene GYS1, e causa miosite de esforço",
+"Autossômica dominante, ligada ao GYS1, com miosite de esforço",
 "Autossômica recessiva, ligada ao RYR1, e causa carne PSE",
-"Recessiva ligada ao X, por deficiência de fator VIII",
-"Mitocondrial, transmitida apenas pela mãe"
+"Recessiva ligada ao X, por deficiência do fator VIII",
+"Mitocondrial, transmitida apenas pela mãe aos potros"
 ],
 "e": "A PSSM1 decorre de mutação dominante no GYS1 e se manifesta como miosite associada ao exercício."
 },
@@ -3206,9 +5307,9 @@ window.LIVRO.Q.push(...[
 "q": "O que caracteriza uma molécula de DNA recombinante?",
 "o": [
 "União, em laboratório, de trechos de DNA de origens diferentes",
-"DNA que sofreu crossing-over durante a meiose",
-"DNA mitocondrial transmitido pela mãe",
-"Qualquer DNA replicado por PCR"
+"DNA que sofreu crossing-over entre cromossomos homólogos durante a meiose",
+"DNA mitocondrial transmitido exclusivamente pela mãe",
+"Qualquer DNA que tenha sido replicado por PCR"
 ],
 "e": "DNA recombinante é construído in vitro pela junção de fragmentos de fontes distintas, como um gene animal inserido num plasmídeo bacteriano."
 },
@@ -3216,12 +5317,12 @@ window.LIVRO.Q.push(...[
 "c": "genes",
 "q": "Qual é a função das enzimas de restrição na tecnologia do DNA recombinante?",
 "o": [
-"Cortar o DNA em sequências específicas, geralmente deixando pontas coesivas",
-"Unir covalentemente fragmentos de DNA",
-"Converter mRNA em DNA complementar",
-"Separar fragmentos de DNA por tamanho"
+"Cortar o DNA em sequências específicas de bases",
+"Unir covalentemente fragmentos de DNA de origens distintas",
+"Converter o mRNA em DNA complementar para a clonagem",
+"Separar os fragmentos de DNA de acordo com o tamanho"
 ],
-"e": "As enzimas de restrição reconhecem sequências específicas e cortam o DNA, muitas vezes gerando extremidades coesivas que facilitam a união."
+"e": "As enzimas de restrição reconhecem sequências específicas e cortam o DNA, muitas vezes deixando pontas coesivas que facilitam a união."
 },
 {
 "c": "genes",
@@ -3238,10 +5339,10 @@ window.LIVRO.Q.push(...[
 "c": "genes",
 "q": "Na clonagem de um gene em bactéria, o plasmídeo tem o papel de:",
 "o": [
-"Vetor que leva o gene para a célula hospedeira, onde é replicado e expresso",
-"Enzima que corta o DNA no ponto desejado",
-"Molécula guia que dirige a edição do genoma",
-"Gel que separa os fragmentos de DNA"
+"Vetor que leva o gene à célula hospedeira, onde é replicado",
+"Enzima que corta o DNA no ponto desejado da sequência",
+"Molécula guia que dirige a edição do genoma bacteriano",
+"Gel que separa os fragmentos de DNA conforme o tamanho"
 ],
 "e": "Plasmídeos são pequenos DNAs circulares bacterianos usados como vetores para introduzir e manter o gene de interesse no hospedeiro."
 },
@@ -3283,9 +5384,9 @@ window.LIVRO.Q.push(...[
 "q": "Em relação à PCR convencional, a PCR em tempo real tem a vantagem de:",
 "o": [
 "Quantificar o agente durante a amplificação, além de detectá-lo",
-"Dispensar a etapa de extração de ácido nucleico",
-"Sequenciar o genoma completo do patógeno",
-"Detectar anticorpos do hospedeiro contra o agente"
+"Dispensar a etapa de extração de ácido nucleico da amostra",
+"Sequenciar o genoma completo do patógeno em uma só reação",
+"Detectar anticorpos do hospedeiro contra o agente infeccioso"
 ],
 "e": "A PCR em tempo real acompanha a amplificação ciclo a ciclo e permite quantificar o agente, como parvovírus ou FeLV."
 },
@@ -3293,10 +5394,10 @@ window.LIVRO.Q.push(...[
 "c": "genes",
 "q": "A seleção genômica em bovinos leiteiros representa um avanço em relação ao teste de progênie porque:",
 "o": [
-"Estima o valor genético do bezerro ao nascer com painéis de milhares de SNPs, sem esperar as filhas",
-"Substitui a inseminação artificial pela clonagem",
-"Identifica apenas doenças monogênicas recessivas",
-"Mede diretamente a produção de leite do touro"
+"Estima o valor genético do bezerro ao nascer, sem esperar as filhas",
+"Substitui a inseminação artificial pela clonagem dos melhores touros",
+"Identifica apenas doenças monogênicas recessivas nos touros",
+"Mede diretamente a produção de leite do próprio touro jovem"
 ],
 "e": "Painéis com dezenas de milhares de marcadores SNP permitem estimar o mérito genético precocemente, encurtando o intervalo entre gerações."
 },
@@ -3304,10 +5405,10 @@ window.LIVRO.Q.push(...[
 "c": "genes",
 "q": "Na criação de animais de raça, testes de DNA são usados rotineiramente para:",
 "o": [
-"Confirmar paternidade para registro e identificar portadores antes do acasalamento",
-"Induzir a superovulação de doadoras",
-"Produzir quimosina para a indústria de laticínios",
-"Corrigir mutações no embrião antes da transferência"
+"Confirmar paternidade e identificar portadores antes do acasalamento",
+"Induzir a superovulação de vacas doadoras de embriões",
+"Produzir quimosina recombinante para a indústria de laticínios",
+"Corrigir mutações no embrião antes da transferência para a receptora"
 ],
 "e": "Exames de paternidade, identificação de portadores e sexagem de embriões e aves são aplicações diretas dos testes genéticos."
 },
@@ -3316,9 +5417,9 @@ window.LIVRO.Q.push(...[
 "q": "A vacina recombinante contra cinomose que usa canaripox é um exemplo de:",
 "o": [
 "Vacina vetorial, em que outro vírus carrega o gene do antígeno",
-"Vacina de vírus vivo atenuado convencional",
-"Soro hiperimune obtido em equinos",
-"Vacina de DNA plasmidial injetado"
+"Vacina de vírus vivo atenuado, obtida por passagens sucessivas em cultivo",
+"Soro hiperimune obtido de equinos previamente imunizados",
+"Vacina de DNA plasmidial injetado diretamente no músculo"
 ],
 "e": "Nas vacinas vetoriais, um vírus inofensivo para o hospedeiro, como o canaripox, transporta e expressa genes do agente alvo."
 },
@@ -3338,9 +5439,9 @@ window.LIVRO.Q.push(...[
 "q": "Gonadotrofinas recombinantes têm aplicação veterinária principalmente em:",
 "o": [
 "Protocolos de superovulação de doadoras de embriões",
-"Tratamento de hemofilia em cães",
-"Diagnóstico de parvovirose",
-"Controle da hipertermia maligna em suínos"
+"Tratamento de hemofilia A em cães de raças predispostas",
+"Diagnóstico laboratorial de parvovirose canina",
+"Controle da hipertermia maligna em suínos sensíveis"
 ],
 "e": "Gonadotrofinas estimulam o crescimento de vários folículos e são usadas na superovulação para produção de embriões."
 },
@@ -3382,9 +5483,9 @@ window.LIVRO.Q.push(...[
 "q": "Qual é a principal aplicação da clonagem animal na produção e na conservação?",
 "o": [
 "Preservar a genética de animais de alto valor e de raças ameaçadas",
-"Gerar variabilidade genética em rebanhos endogâmicos",
-"Corrigir doenças monogênicas recessivas",
-"Produzir animais híbridos férteis entre espécies"
+"Gerar variabilidade genética nova em rebanhos muito endogâmicos e fechados",
+"Corrigir doenças monogênicas recessivas no próprio clone",
+"Produzir animais híbridos férteis entre espécies diferentes"
 ],
 "e": "O clone reproduz o genótipo do doador, o que permite conservar genética valiosa ou rara, mas não cria variabilidade nova."
 },
@@ -3524,10 +5625,10 @@ window.LIVRO.Q.push(...[
 "c": "heranca",
 "q": "Por que acasalamentos consanguíneos aumentam a frequência de doenças autossômicas recessivas?",
 "o": [
-"Parentes têm maior chance de portar o mesmo alelo deletério herdado de um ancestral comum",
+"Parentes têm mais chance de portar o mesmo alelo de um ancestral comum",
 "A consanguinidade aumenta a taxa de mutação nas células germinativas",
 "Alelos recessivos tornam-se dominantes em animais endogâmicos",
-"A consanguinidade impede a recombinação na meiose"
+"A consanguinidade impede a recombinação entre homólogos na meiose"
 ],
 "e": "Parentes compartilham alelos de ancestrais comuns, o que eleva a chance de um filho receber duas cópias do mesmo alelo recessivo e ser homozigoto."
 },
@@ -3535,10 +5636,10 @@ window.LIVRO.Q.push(...[
 "c": "heranca",
 "q": "A disseminação mundial dos alelos de BLAD e CVM na raça Holandesa é explicada principalmente:",
 "o": [
-"Pelo uso intenso de poucos touros de alto valor genético por inseminação artificial",
-"Por mutações novas e independentes em cada país",
-"Pela vantagem seletiva dos homozigotos afetados",
-"Pela transmissão ligada ao X a partir das vacas"
+"Pelo uso intenso de poucos touros portadores por inseminação artificial",
+"Por mutações novas e independentes surgidas em cada país",
+"Pela vantagem seletiva dos homozigotos afetados no rebanho",
+"Pela transmissão ligada ao X a partir das vacas portadoras de elite"
 ],
 "e": "Poucos touros portadores usados em larga escala por IA espalharam o alelo recessivo, o que levou as centrais a testar e divulgar o status dos touros."
 },
@@ -3568,10 +5669,10 @@ window.LIVRO.Q.push(...[
 "c": "heranca",
 "q": "Por que uma doença recessiva ligada ao X, como a distrofia muscular de Duchenne no Golden Retriever, não passa de pai para filho macho?",
 "o": [
-"Porque o pai transmite ao filho macho o cromossomo Y, e não o X",
-"Porque o alelo mutante é inativado na espermatogênese",
-"Porque os machos afetados são sempre estéreis",
-"Porque o filho recebe dois cromossomos X da mãe"
+"Porque o pai transmite ao filho macho o Y, e não o X",
+"Porque o alelo mutante é inativado durante a espermatogênese",
+"Porque os machos afetados são sempre estéreis e não procriam",
+"Porque o filho macho recebe os dois cromossomos X da mãe"
 ],
 "e": "O filho macho herda o Y do pai e o X da mãe; portanto, um alelo no X paterno nunca chega a ele."
 },
@@ -3601,10 +5702,10 @@ window.LIVRO.Q.push(...[
 "c": "heranca",
 "q": "Na herança holândrica (ligada ao Y), o padrão esperado no heredograma é:",
 "o": [
-"Somente machos afetados, com transmissão do pai a todos os filhos machos",
-"Machos e fêmeas afetados, com transmissão vertical",
-"Mais fêmeas afetadas, com transmissão do pai a todas as filhas",
-"Machos afetados filhos de mães portadoras"
+"Só machos afetados, passando do pai a todos os filhos machos",
+"Machos e fêmeas afetados, com transmissão vertical contínua",
+"Mais fêmeas afetadas, passando do pai a todas as filhas",
+"Machos afetados, sempre filhos de mães portadoras sadias"
 ],
 "e": "Genes da região exclusiva do Y, como o SRY, aparecem só em machos e passam de pai para todos os filhos machos."
 },
@@ -3612,12 +5713,12 @@ window.LIVRO.Q.push(...[
 "c": "heranca",
 "q": "Sobre as regiões dos cromossomos X e Y, é correto afirmar que:",
 "o": [
-"Pequenas regiões homólogas pareiam na meiose, e genes da porção exclusiva do X são ditos ligados ao X",
-"X e Y são homólogos em toda a extensão e pareiam completamente na meiose",
+"X e Y pareiam só por pequenas regiões homólogas na meiose",
+"X e Y são homólogos em toda a extensão e pareiam completamente",
 "A porção exclusiva do Y contém a maior parte dos genes ligados ao X",
-"Genes ligados ao X localizam-se apenas nas regiões homólogas ao Y"
+"Genes ligados ao X ficam apenas nas regiões homólogas ao Y"
 ],
-"e": "X e Y compartilham só pequenas regiões homólogas; os genes das grandes regiões heterólogas do X ou do Y definem a herança ligada a cada um."
+"e": "X e Y compartilham só pequenas regiões homólogas, que pareiam na meiose; genes da porção exclusiva do X são ditos ligados ao X, e os da porção exclusiva do Y, holândricos."
 },
 {
 "c": "heranca",
@@ -3657,9 +5758,9 @@ window.LIVRO.Q.push(...[
 "q": "No cruzamento entre dois bovinos Shorthorn ruões (R¹R²), a prole esperada é:",
 "o": [
 "1 vermelho : 2 ruões : 1 branco",
-"3 ruões : 1 branco",
-"Todos ruões",
-"1 vermelho : 1 branco"
+"3 ruões : 1 branco, por dominância",
+"Todos ruões, como os genitores",
+"1 vermelho : 1 branco, sem ruões"
 ],
 "e": "R¹R² × R¹R² gera 1 R¹R¹ : 2 R¹R² : 1 R²R²; como o heterozigoto tem fenótipo próprio, a proporção fenotípica é 1 : 2 : 1."
 },
@@ -3678,10 +5779,10 @@ window.LIVRO.Q.push(...[
 "c": "heranca",
 "q": "Sobre alelos múltiplos, como os do locus Agouti em cães, é correto afirmar que:",
 "o": [
-"Existem mais de dois alelos na população, mas cada indivíduo diploide tem no máximo dois",
+"Há mais de dois alelos na população, mas cada indivíduo tem só dois",
 "Cada indivíduo pode carregar três ou mais alelos do mesmo locus",
-"São genes diferentes que determinam a mesma característica",
-"Ocorrem apenas em cromossomos sexuais"
+"São genes diferentes, em vários loci, que determinam a mesma característica",
+"Ocorrem apenas em cromossomos sexuais, nunca em autossomos"
 ],
 "e": "A multiplicidade é da população; cada animal diploide tem apenas duas cópias do locus."
 },
@@ -3711,21 +5812,21 @@ window.LIVRO.Q.push(...[
 "c": "heranca",
 "q": "Por que não se recomenda cruzar dois cães merle, como dois Border Collies merle?",
 "o": [
-"Um quarto dos filhotes será duplo merle (MM), com alta frequência de surdez, microftalmia e cegueira",
-"Todos os filhotes serão duplo merle e estéreis",
-"Os filhotes não terão o padrão merle por epistasia",
-"O cruzamento gera apenas fêmeas, pois o merle é letal no macho"
+"Um quarto dos filhotes será duplo merle, com surdez e defeitos oculares",
+"Todos os filhotes serão duplo merle e, por isso, estéreis",
+"Os filhotes perderão o padrão merle por epistasia recessiva",
+"O cruzamento gera apenas fêmeas, pois o merle é letal em machos homozigotos"
 ],
-"e": "Mm × Mm gera 1/4 MM; o duplo merle concentra defeitos oculares e auditivos, por isso o cruzamento merle × merle é evitado."
+"e": "Mm × Mm gera 1/4 MM; o duplo merle concentra surdez, microftalmia e cegueira, por isso o cruzamento merle × merle é evitado."
 },
 {
 "c": "heranca",
 "q": "O overo letal em equinos é caracterizado por:",
 "o": [
-"Potros brancos com aganglionose intestinal que morrem de cólica em poucos dias",
+"Potros brancos com aganglionose intestinal e cólica fatal",
 "Potros tordilhos que perdem a pigmentação e desenvolvem melanoma",
-"Abortos precoces sem nenhum potro nascido vivo",
-"Potros com ausência de cauda e defeitos de coluna"
+"Abortos precoces, sem nenhum potro homozigoto nascido vivo",
+"Potros com ausência de cauda e graves defeitos de coluna"
 ],
 "e": "O homozigoto nasce branco e sem gânglios entéricos no intestino, evoluindo para cólica fatal em poucos dias."
 },
@@ -3745,9 +5846,9 @@ window.LIVRO.Q.push(...[
 "q": "Dois Labradores chocolate (bbEe) são acasalados. Sobre a ninhada, é correto afirmar que:",
 "o": [
 "Pode ter filhotes chocolate e amarelos, mas nunca pretos",
-"Pode ter filhotes pretos, chocolate e amarelos",
-"Só pode ter filhotes chocolate",
-"Terá proporção 9 : 3 : 4"
+"Pode ter filhotes pretos, chocolate e amarelos em igual número",
+"Só pode ter filhotes chocolate, iguais aos pais",
+"Terá proporção de 9 pretos : 3 chocolate : 4 amarelos"
 ],
 "e": "Ambos são bb, então não há alelo B para formar preto; filhotes ee serão amarelos (1/4) e os E_ chocolate (3/4)."
 },
@@ -3756,9 +5857,9 @@ window.LIVRO.Q.push(...[
 "q": "No Labrador, um cão de genótipo BBee tem pelagem:",
 "o": [
 "Amarela, porque ee impede o depósito de pigmento no pelo",
-"Preta, porque B é dominante sobre b",
-"Chocolate, por dominância incompleta entre B e e",
-"Malhada de preto e amarelo, por codominância"
+"Preta, porque o alelo B é dominante sobre o alelo b",
+"Chocolate, por dominância incompleta entre os alelos B e e",
+"Malhada de preto e amarelo, por codominância entre B e e"
 ],
 "e": "O gene E é epistático: todo cão ee é amarelo, independentemente do genótipo no locus B."
 },
@@ -3810,9 +5911,9 @@ window.LIVRO.Q.push(...[
 "c": "heranca",
 "q": "Por que touros leiteiros são avaliados geneticamente pela produção de suas filhas (teste de progênie)?",
 "o": [
-"Porque produção de leite é limitada ao sexo: o touro tem e transmite os genes, mas não os expressa",
+"Porque é limitada ao sexo: o touro transmite os genes, mas não os expressa",
 "Porque os genes da produção de leite estão no cromossomo Y",
-"Porque o touro não transmite genes autossômicos às filhas",
+"Porque o touro não transmite genes autossômicos às suas filhas",
 "Porque a produção de leite é ligada ao X e só as filhas recebem esse X"
 ],
 "e": "Genes autossômicos de produção leiteira só se expressam nas fêmeas; o mérito do touro é estimado pelo desempenho das filhas."
@@ -3832,12 +5933,12 @@ window.LIVRO.Q.push(...[
 "c": "implantacao",
 "q": "Como o interferon-tau protege o corpo lúteo nos ruminantes?",
 "o": [
-"Impede o endométrio de expressar receptores de ocitocina, bloqueando os pulsos de PGF2α",
+"Impede a expressão endometrial de receptores de ocitocina",
 "Estimula diretamente a síntese de progesterona pelas células luteínicas",
 "Desvia a PGF2α para a luz uterina, longe do ovário",
 "Neutraliza a PGF2α já presente na circulação venosa uterina"
 ],
-"e": "O interferon-tau é antiluteolítico: sem receptores de ocitocina no endométrio, não há pulsos de PGF2α."
+"e": "O interferon-tau é antiluteolítico: impede o endométrio de expressar receptores de ocitocina e, assim, bloqueia os pulsos de PGF2α."
 },
 {
 "c": "implantacao",
@@ -3854,10 +5955,10 @@ window.LIVRO.Q.push(...[
 "c": "implantacao",
 "q": "Na porca, o estrógeno do concepto evita a luteólise porque:",
 "o": [
-"Desvia a secreção de PGF2α para a luz do útero, em vez da circulação",
-"Bloqueia os receptores de ocitocina do endométrio",
-"Destrói a PGF2α nos pulmões antes de chegar ao ovário",
-"Estimula a formação de cálices endometriais secretores"
+"Desvia a secreção de PGF2α para a luz do útero, longe do ovário",
+"Bloqueia a expressão de receptores de ocitocina do endométrio",
+"Destrói a PGF2α nos pulmões antes que ela chegue ao ovário",
+"Estimula a formação de cálices endometriais secretores de eCG"
 ],
 "e": "O estrógeno faz a PGF2α ser secretada de forma exócrina, para o lúmen uterino, longe do corpo lúteo."
 },
@@ -3921,9 +6022,9 @@ window.LIVRO.Q.push(...[
 "q": "Uma vaca inseminada retorna ao cio somente aos 35 dias, de forma irregular. A hipótese mais provável é:",
 "o": [
 "Morte embrionária após o reconhecimento materno da gestação",
-"Falha de fecundação por inseminação tardia",
-"Ausência de ovulação no cio da inseminação",
-"Polispermia com zigoto triploide"
+"Falha de fecundação por inseminação tardia em relação ao cio",
+"Ausência de ovulação no cio em que foi feita a inseminação",
+"Polispermia com formação de zigoto triploide inviável"
 ],
 "e": "A perda após o dia ~16, quando o corpo lúteo já foi resgatado, causa retorno ao cio tardio e irregular."
 },
@@ -3997,12 +6098,12 @@ window.LIVRO.Q.push(...[
 "c": "implantacao",
 "q": "Qual é a principal função do intenso alongamento do concepto em ruminantes e suínos?",
 "o": [
-"Aumentar a superfície de troca e de produção do sinal de reconhecimento",
-"Permitir que o concepto invada profundamente o endométrio",
-"Reduzir o consumo de histotrofo pelo embrião",
-"Facilitar a migração do concepto entre os cornos"
+"Aumentar a superfície de troca e de produção do sinal materno",
+"Permitir que o concepto invada profundamente o endométrio materno",
+"Reduzir o consumo de histotrofo pelo embrião em crescimento",
+"Facilitar a migração do concepto entre os cornos uterinos"
 ],
-"e": "O alongamento amplia a área de contato com o endométrio, para trocas e para produção do sinal antiluteolítico."
+"e": "O alongamento amplia a área de contato com o endométrio, para trocas e para produção do sinal antiluteolítico de reconhecimento."
 },
 {
 "c": "implantacao",
@@ -4064,9 +6165,9 @@ window.LIVRO.Q.push(...[
 "q": "Qual das associações entre espécie e forma da placenta está correta?",
 "o": [
 "Égua: difusa, com microcotilédones",
-"Porca: cotiledonária",
-"Gata: discoide",
-"Cabra: zonária"
+"Porca: cotiledonária, com placentomas",
+"Gata: discoide, como a de primatas",
+"Cabra: zonária, com hematomas marginais"
 ],
 "e": "A égua tem placenta difusa com microcotilédones; porca é difusa, gata zonária e cabra cotiledonária."
 },
@@ -4085,10 +6186,10 @@ window.LIVRO.Q.push(...[
 "c": "implantacao",
 "q": "Nos ruminantes, a placenta é chamada sinepiteliocorial porque:",
 "o": [
-"O epitélio uterino é modificado pela fusão com células binucleadas do trofoblasto",
+"O epitélio uterino se funde a células binucleadas do trofoblasto",
 "O epitélio uterino é totalmente destruído, expondo o endotélio",
-"O córion fica banhado diretamente pelo sangue materno",
-"Não há contato entre córion e endométrio"
+"O córion fica banhado diretamente pelo sangue materno nos lagos",
+"Não há contato direto entre o córion e o endométrio materno"
 ],
 "e": "As células binucleadas do trofoblasto se fundem ao epitélio endometrial, que fica modificado, mas as três camadas maternas persistem."
 },
@@ -4173,10 +6274,10 @@ window.LIVRO.Q.push(...[
 "c": "implantacao",
 "q": "A secreção verde-escura observada normalmente no parto da cadela deve-se:",
 "o": [
-"À biliverdina dos hematomas da borda da placenta zonária",
-"À infecção bacteriana das membranas fetais",
-"Ao mecônio eliminado pelos filhotes",
-"À degeneração dos placentomas"
+"À biliverdina dos hematomas marginais da placenta zonária",
+"À infecção bacteriana das membranas fetais durante o parto",
+"Ao mecônio eliminado pelos filhotes em sofrimento fetal",
+"À degeneração dos placentomas cotiledonários da cadela"
 ],
 "e": "A placenta zonária da cadela tem hematomas marginais ricos em biliverdina, que tingem a secreção de verde."
 },
@@ -4262,9 +6363,9 @@ window.LIVRO.Q.push(...[
 "q": "Qual das moléculas abaixo NÃO conseguiria passar de uma célula à vizinha por junções comunicantes?",
 "o": [
 "Uma proteína de 60 kDa",
-"O AMPc",
-"Íons Ca2+",
-"Glicose"
+"Uma molécula de glicose",
+"Íons de cálcio (Ca2+)",
+"O nucleotídeo AMPc"
 ],
 "e": "Os canais formados pelos conéxons só deixam passar íons e moléculas pequenas (menores que cerca de 1 kDa); proteínas são grandes demais."
 },
@@ -4580,12 +6681,12 @@ window.LIVRO.Q.push(...[
 "c": "meiose",
 "q": "Por que a redução da ploidia na meiose é essencial para as espécies de reprodução sexuada?",
 "o": [
-"Porque a fecundação une dois gametas, e só gametas haploides mantêm o número cromossômico estável entre gerações",
+"Porque só gametas haploides mantêm o número cromossômico estável",
 "Porque células haploides se dividem mais rápido que as diploides",
 "Porque impede que ocorra crossing-over após a fecundação",
-"Porque elimina os alelos recessivos deletérios dos gametas"
+"Porque elimina dos gametas os alelos recessivos deletérios"
 ],
-"e": "Com gametas n, a fecundação n + n restaura 2n; sem a redução, o número de cromossomos dobraria a cada geração."
+"e": "A fecundação une dois gametas: com gametas n, a fecundação n + n restaura 2n; sem a redução, o número de cromossomos dobraria a cada geração."
 },
 {
 "c": "meiose",
@@ -4602,10 +6703,10 @@ window.LIVRO.Q.push(...[
 "c": "meiose",
 "q": "Um espermatócito secundário de cão, recém-formado ao fim da meiose I, é:",
 "o": [
-"Haploide, com cada cromossomo ainda formado por duas cromátides",
-"Diploide, com cromossomos de uma cromátide",
+"Haploide, com cromossomos ainda de duas cromátides",
+"Diploide, com cromossomos de uma única cromátide",
 "Haploide, com cromossomos de uma única cromátide",
-"Diploide, com cromossomos de duas cromátides"
+"Diploide, com cromossomos ainda de duas cromátides"
 ],
 "e": "A meiose I separa homólogos, gerando células n; as cromátides-irmãs só se separam na meiose II."
 },
@@ -4613,12 +6714,12 @@ window.LIVRO.Q.push(...[
 "c": "meiose",
 "q": "A meiose II é chamada equacional porque:",
 "o": [
-"Separa cromátides-irmãs como numa mitose, mantendo o número de cromossomos n",
-"Reduz o número de cromossomos de 2n para n",
-"É precedida de nova replicação do DNA",
-"Promove o pareamento dos homólogos"
+"Separa cromátides-irmãs, mantendo o número n de cromossomos",
+"Reduz o número de cromossomos de 2n para n, como a meiose I",
+"É precedida de nova replicação do DNA na intercinese",
+"Promove o pareamento e a permuta entre os homólogos"
 ],
-"e": "Na meiose II o número de cromossomos não muda (n → n); apenas as cromátides-irmãs são distribuídas às células-filhas."
+"e": "Na meiose II o número de cromossomos não muda (n → n); as cromátides-irmãs são separadas como numa mitose."
 },
 {
 "c": "meiose",
@@ -4712,12 +6813,12 @@ window.LIVRO.Q.push(...[
 "c": "meiose",
 "q": "Qual evento caracteriza a diacinese?",
 "o": [
-"Condensação máxima, terminalização dos quiasmas e desaparecimento do envoltório nuclear e do nucléolo",
-"Início da condensação dos cromossomos como fios longos",
-"Formação do complexo sinaptonêmico",
-"Separação das cromátides-irmãs"
+"Condensação máxima, terminalização dos quiasmas e fim do nucléolo",
+"Início da condensação dos cromossomos como fios longos e finos",
+"Formação do complexo sinaptonêmico entre os homólogos",
+"Separação das cromátides-irmãs e migração aos polos"
 ],
-"e": "A diacinese encerra a prófase I: os cromossomos estão no máximo de condensação, os quiasmas deslizam para as pontas e o fuso se forma."
+"e": "A diacinese encerra a prófase I: os cromossomos estão no máximo de condensação, os quiasmas deslizam para as pontas, o envoltório nuclear e o nucléolo desaparecem e o fuso se forma."
 },
 {
 "c": "meiose",
@@ -4745,10 +6846,10 @@ window.LIVRO.Q.push(...[
 "c": "meiose",
 "q": "Na anáfase I, o que se separa e migra para polos opostos?",
 "o": [
-"Os cromossomos homólogos, com as cromátides-irmãs ainda unidas",
-"As cromátides-irmãs de cada cromossomo",
-"Os quiasmas e o complexo sinaptonêmico",
-"Os cromossomos não homólogos, dois a dois"
+"Os homólogos, com as cromátides-irmãs ainda unidas",
+"As cromátides-irmãs de cada cromossomo, já separadas",
+"Os quiasmas e o complexo sinaptonêmico, em bloco",
+"Os cromossomos não homólogos, dois a dois, ao acaso"
 ],
 "e": "Na anáfase I os homólogos de cada bivalente vão para polos opostos; as cromátides-irmãs permanecem juntas até a anáfase II."
 },
@@ -4756,10 +6857,10 @@ window.LIVRO.Q.push(...[
 "c": "meiose",
 "q": "Em que momento da meiose ocorre a segregação independente dos cromossomos?",
 "o": [
-"Na metáfase e anáfase I, pela orientação aleatória de cada par de homólogos",
-"No paquíteno, pela troca de segmentos",
-"Na anáfase II, pela separação das cromátides",
-"Na intercinese, pela replicação do DNA"
+"Na metáfase e anáfase I, pela orientação aleatória dos pares",
+"No paquíteno, pela troca de segmentos entre cromossomos homólogos",
+"Na anáfase II, pela separação das cromátides-irmãs",
+"Na intercinese, pela nova replicação do DNA nuclear"
 ],
 "e": "A orientação de cada bivalente na placa é independente da dos demais, e isso define quais homólogos vão juntos para cada polo na anáfase I."
 },
@@ -4811,10 +6912,10 @@ window.LIVRO.Q.push(...[
 "c": "meiose",
 "q": "Por que o número real de gametas diferentes que um touro pode produzir é muito maior que 2^30?",
 "o": [
-"Porque o crossing-over cria novas combinações de alelos dentro de cada cromossomo",
-"Porque a intercinese inclui nova replicação do DNA",
+"Porque o crossing-over cria novas combinações dentro de cada cromossomo",
+"Porque a intercinese inclui uma nova replicação do DNA",
 "Porque a meiose II também reduz o número de cromossomos",
-"Porque cada gameta recebe cromossomos dos dois genitores"
+"Porque cada gameta recebe cromossomos dos dois genitores ao mesmo tempo"
 ],
 "e": "O cálculo 2^n considera só a segregação independente; a permuta mistura segmentos paternos e maternos e multiplica as possibilidades."
 },
@@ -4844,12 +6945,12 @@ window.LIVRO.Q.push(...[
 "c": "meiose",
 "q": "Qual afirmação compara corretamente mitose e meiose?",
 "o": [
-"A mitose ocorre em células somáticas para crescimento e reparo; a meiose, na linhagem germinativa para formar gametas",
-"A mitose gera quatro células haploides e a meiose, duas diploides",
+"Mitose serve ao crescimento e reparo; meiose forma gametas",
+"Mitose gera quatro células haploides; meiose, duas diploides",
 "O crossing-over é frequente na mitose e raro na meiose",
-"Na metáfase mitótica, os homólogos se alinham aos pares na placa"
+"Na metáfase mitótica, os homólogos se alinham aos pares"
 ],
-"e": "Mitose mantém o número cromossômico e serve ao crescimento e reposição; meiose ocorre no testículo e no ovário e produz gametas variáveis."
+"e": "A mitose ocorre em células somáticas e mantém o número cromossômico, servindo ao crescimento e à reposição; a meiose ocorre na linhagem germinativa (testículo e ovário) e produz gametas variáveis."
 },
 {
 "c": "meiose",
@@ -4867,8 +6968,8 @@ window.LIVRO.Q.push(...[
 "q": "A não disjunção de um par de cromátides-irmãs em apenas uma das células na anáfase II produz:",
 "o": [
 "Dois gametas normais, um com n + 1 e um com n − 1",
-"Quatro gametas anormais",
-"Quatro gametas normais",
+"Quatro gametas anormais, dois com n + 1 e dois com n − 1",
+"Quatro gametas normais, pois o erro é corrigido",
 "Dois gametas com n + 2 e dois com n − 2"
 ],
 "e": "A célula que dividiu corretamente gera dois gametas n; a que errou gera um n + 1 e um n − 1."
@@ -4888,9 +6989,9 @@ window.LIVRO.Q.push(...[
 "c": "meiose",
 "q": "Uma vaca repete cio após inseminação porque o embrião morreu precocemente por aneuploidia autossômica. Esse cenário é mais frequente em:",
 "o": [
-"Fêmeas mais velhas, cujos ovócitos ficaram parados em prófase I por anos",
-"Fêmeas jovens, por excesso de crossing-over",
-"Machos jovens, por falta de intercinese",
+"Fêmeas mais velhas, com ovócitos parados em prófase I por anos",
+"Fêmeas jovens, por excesso de crossing-over na prófase I",
+"Machos jovens, por falta de intercinese na espermatogênese",
 "Fêmeas de qualquer idade, sem relação com o tempo de bloqueio"
 ],
 "e": "Com a idade, a coesão entre os cromossomos dos ovócitos bloqueados se enfraquece, aumentando a não disjunção e a perda embrionária."
@@ -4899,12 +7000,12 @@ window.LIVRO.Q.push(...[
 "c": "meiose",
 "q": "Por que o risco de não disjunção nos ovócitos aumenta com a idade da fêmea?",
 "o": [
-"Porque a coesão entre os cromossomos enfraquece durante os anos de bloqueio em prófase I",
+"Porque a coesão cromossômica enfraquece nos anos de bloqueio",
 "Porque a fêmea passa a produzir novos ovócitos com mutações",
 "Porque o complexo sinaptonêmico se forma de novo a cada ciclo",
-"Porque a segregação independente deixa de ocorrer"
+"Porque a segregação independente deixa de ocorrer nos ovócitos"
 ],
-"e": "Os ovócitos ficam parados em prófase I desde a vida fetal; com o tempo, a coesão que mantém os homólogos unidos se perde e a segregação falha."
+"e": "Os ovócitos ficam parados em prófase I desde a vida fetal; com os anos, a coesão que mantém os cromossomos unidos se perde e a segregação falha."
 },
 {
 "c": "meiose",
@@ -4934,8 +7035,8 @@ window.LIVRO.Q.push(...[
 "o": [
 "Duas linhas escuras separadas por uma clara, com 6 a 10 nm",
 "Uma única linha escura com cerca de 1 µm",
-"Três linhas claras paralelas com 50 a 100 nm",
-"Uma faixa granulosa uniforme com cerca de 0,5 µm"
+"Três linhas claras paralelas, com 50 a 100 nm no total",
+"Uma faixa granulosa e uniforme, com cerca de 0,5 µm de espessura"
 ],
 "e": "A membrana mede 6 a 10 nm e aparece como trilaminar (escura–clara–escura), visível só ao microscópio eletrônico."
 },
@@ -4954,12 +7055,12 @@ window.LIVRO.Q.push(...[
 "c": "membrana",
 "q": "Por que uma membrana rompida tende a se fechar espontaneamente?",
 "o": [
-"Porque os fosfolipídios anfipáticos se reorganizam espontaneamente, escondendo as caudas apolares da água",
+"Porque os fosfolipídios se reorganizam, escondendo as caudas da água",
 "Porque proteínas periféricas costuram a ruptura com gasto de ATP",
-"Porque o glicocálice polimeriza sobre o orifício e o veda",
+"Porque o glicocálice polimeriza sobre o orifício e o veda por completo",
 "Porque o colesterol se converte em fosfolipídio no local da lesão"
 ],
-"e": "O caráter anfipático leva os fosfolipídios a se organizarem em bicamada espontaneamente, escondendo as caudas apolares da água."
+"e": "O caráter anfipático leva os fosfolipídios a se reorganizarem em bicamada espontaneamente, escondendo as caudas apolares da água."
 },
 {
 "c": "membrana",
@@ -5020,12 +7121,12 @@ window.LIVRO.Q.push(...[
 "c": "membrana",
 "q": "O colesterol é descrito como tampão de fluidez porque:",
 "o": [
-"Enrijece a membrana em temperatura alta e impede que ela se solidifique em temperatura baixa",
-"Aumenta a fluidez em qualquer temperatura",
-"Torna a membrana sempre rígida, independentemente da temperatura",
-"Remove ácidos graxos insaturados da bicamada"
+"Enrijece no calor e impede a solidificação no frio",
+"Aumenta a fluidez da bicamada em qualquer temperatura",
+"Torna a membrana sempre rígida, seja qual for a temperatura",
+"Remove os ácidos graxos insaturados da bicamada"
 ],
-"e": "Intercalado entre os fosfolipídios, o colesterol estabiliza a fluidez frente às variações térmicas."
+"e": "Intercalado entre os fosfolipídios, o colesterol enrijece a membrana em temperatura alta e impede que ela se solidifique em temperatura baixa, estabilizando a fluidez frente às variações térmicas."
 },
 {
 "c": "membrana",
@@ -5108,10 +7209,10 @@ window.LIVRO.Q.push(...[
 "c": "membrana",
 "q": "Nas organelas do sistema de endomembranas, os carboidratos de glicoproteínas e glicolipídios ficam voltados para:",
 "o": [
-"O lúmen da organela, que equivale topologicamente ao meio externo",
-"O citosol",
-"O espaço entre as duas monocamadas",
-"A face nuclear do envoltório"
+"O lúmen da organela, equivalente ao meio externo",
+"O citosol, onde ocorre o reconhecimento celular",
+"O espaço entre as duas monocamadas da bicamada",
+"A face nuclear do envoltório, junto à cromatina"
 ],
 "e": "O lúmen corresponde topologicamente ao exterior, por isso os açúcares ficam ali, como na face externa da membrana plasmática."
 },
@@ -5130,10 +7231,10 @@ window.LIVRO.Q.push(...[
 "c": "membrana",
 "q": "Um gato do tipo B recebe, sem tipagem prévia, sangue de um doador do tipo A. O que se espera?",
 "o": [
-"Reação transfusional grave já na primeira transfusão, pelos anticorpos naturais fortes anti-A",
+"Reação grave já na primeira transfusão, por anticorpos anti-A naturais",
 "Nenhuma reação na primeira transfusão, pois gatos não têm anticorpos naturais",
-"Reação apenas se o doador for cão",
-"Aumento imediato da sobrevida das hemácias do receptor"
+"Reação apenas a partir da segunda transfusão, após sensibilização",
+"Aumento imediato da sobrevida das hemácias do próprio receptor"
 ],
 "e": "Gatos tipo B têm anticorpos naturais fortes contra o tipo A; a primeira transfusão incompatível pode ser fatal."
 },
@@ -5141,12 +7242,12 @@ window.LIVRO.Q.push(...[
 "c": "membrana",
 "q": "Qual é o mecanismo da isoeritrólise neonatal em potros?",
 "o": [
-"Anticorpos do colostro contra o tipo sanguíneo do potro destroem suas hemácias",
+"Anticorpos do colostro destroem as hemácias do potro",
 "Anticorpos do potro atacam as hemácias da égua durante a mamada",
 "Falta de glicocálice nas hemácias do potro causa lise osmótica",
-"Transferência de bactérias pelo colostro provoca hemólise"
+"Bactérias transferidas pelo colostro provocam hemólise"
 ],
-"e": "A mãe produz anticorpos contra antígenos de membrana das hemácias do filhote, que os absorve pelo colostro."
+"e": "A mãe produz anticorpos contra antígenos de membrana das hemácias do filhote (seu tipo sanguíneo), que os absorve pelo colostro e tem as hemácias destruídas."
 },
 {
 "c": "membrana",
@@ -5174,32 +7275,32 @@ window.LIVRO.Q.push(...[
 "c": "membrana",
 "q": "Ao aumentar progressivamente a concentração de glicose fora de uma hemácia, a velocidade de entrada pelo GLUT atinge um platô. Isso se explica porque:",
 "o": [
-"O carreador satura quando todos os sítios de ligação estão ocupados",
-"A bicamada se torna impermeável em concentrações altas",
-"A glicose passa a gastar ATP para entrar",
-"A osmose inverte o sentido do transporte"
+"O carreador satura quando todos os sítios estão ocupados",
+"A bicamada se torna impermeável em concentrações altas de glicose",
+"A glicose passa a gastar ATP para continuar entrando",
+"A osmose inverte o sentido do transporte de glicose"
 ],
-"e": "A difusão facilitada por carreador depende de ligação e mudança de forma da proteína, por isso apresenta saturação."
+"e": "A difusão facilitada por carreador depende de ligação e mudança de forma da proteína; quando todos os sítios de ligação estão ocupados, há saturação."
 },
 {
 "c": "membrana",
 "q": "Qual a diferença essencial entre um canal e um carreador na difusão facilitada?",
 "o": [
-"O canal forma um poro aquoso; o carreador liga o soluto e muda de forma",
-"O canal gasta ATP e o carreador não",
-"O carreador transporta contra o gradiente e o canal a favor",
-"O canal transporta apenas glicose e o carreador apenas íons"
+"O canal é um poro aquoso; o carreador muda de forma",
+"O canal gasta ATP para abrir; o carreador funciona sem energia",
+"O carreador vai contra o gradiente; o canal vai a favor",
+"O canal leva só glicose; o carreador leva apenas íons"
 ],
-"e": "Ambos são passivos; o canal é um poro, o carreador sofre mudança conformacional e pode saturar."
+"e": "Ambos são passivos; o canal forma um poro aquoso, enquanto o carreador liga o soluto e sofre mudança conformacional, podendo saturar."
 },
 {
 "c": "membrana",
 "q": "Por que a Na+/K+-ATPase torna o interior da célula mais negativo?",
 "o": [
 "Porque retira 3 cargas positivas e introduz apenas 2 a cada ciclo",
-"Porque introduz íons cloreto junto com o potássio",
-"Porque bombeia elétrons para fora da célula",
-"Porque transporta proteínas negativas para dentro"
+"Porque introduz íons cloreto junto com o potássio a cada ciclo",
+"Porque bombeia elétrons para fora da célula a cada hidrólise de ATP",
+"Porque transporta proteínas negativas para dentro do citosol"
 ],
 "e": "Saem 3 Na+ e entram 2 K+, uma carga positiva líquida a menos no interior por ciclo: a bomba é eletrogênica."
 },
@@ -5262,21 +7363,21 @@ window.LIVRO.Q.push(...[
 "c": "membrana",
 "q": "A digoxina aumenta a força de contração cardíaca em cães porque:",
 "o": [
-"Inibe parcialmente a Na+/K+-ATPase, o que eleva o Ca2+ intracelular",
-"Ativa diretamente a bomba de H+ do miocárdio",
-"Abre aquaporinas e aumenta o volume das fibras",
+"Inibe a Na+/K+-ATPase, elevando o Ca2+ intracelular",
+"Ativa diretamente a bomba de H+ das fibras do miocárdio",
+"Abre aquaporinas e aumenta o volume das fibras cardíacas",
 "Bloqueia os canais de cálcio e reduz o Ca2+ intracelular"
 ],
-"e": "Com menos gradiente de Na+, o trocador Na+/Ca2+ retira menos cálcio, que se acumula e reforça a contração."
+"e": "A digoxina inibe parcialmente a Na+/K+-ATPase. Com menos gradiente de Na+, o trocador Na+/Ca2+ retira menos cálcio, que se acumula e reforça a contração."
 },
 {
 "c": "membrana",
 "q": "A captação de colesterol na forma de LDL e de ferro ligado à transferrina ocorre por:",
 "o": [
-"Pinocitose regulada por receptor, com vesículas revestidas de clatrina",
-"Fagocitose mediada por opsoninas",
-"Difusão simples pela bicamada",
-"Transporte ativo primário por ATPase"
+"Pinocitose mediada por receptor, em vesículas de clatrina",
+"Fagocitose mediada por opsoninas e pseudópodes",
+"Difusão simples através da bicamada lipídica",
+"Transporte ativo primário por ATPases da membrana plasmática"
 ],
 "e": "LDL e transferrina ligam-se a receptores e entram em vesículas revestidas de clatrina."
 },
@@ -5284,10 +7385,10 @@ window.LIVRO.Q.push(...[
 "c": "membrana",
 "q": "Qual é o papel das opsoninas na fagocitose?",
 "o": [
-"Recobrir a bactéria, como anticorpos e complemento, facilitando seu reconhecimento pelo fagócito",
-"Digerir a bactéria dentro do fagossomo",
-"Formar os pseudópodes do macrófago",
-"Bombear prótons para acidificar o fagossomo"
+"Recobrir a bactéria e facilitar seu reconhecimento pelo fagócito",
+"Digerir a bactéria dentro do fagossomo com enzimas hidrolíticas",
+"Formar os pseudópodes do macrófago por polimerização de actina",
+"Bombear prótons para acidificar o interior do fagossomo"
 ],
 "e": "Opsoninas (anticorpos e complemento) “temperam” a partícula e facilitam o englobamento por macrófagos e neutrófilos."
 },
@@ -5306,32 +7407,32 @@ window.LIVRO.Q.push(...[
 "c": "membrana",
 "q": "Por que bezerros, potros e leitões dependem do colostro para obter anticorpos?",
 "o": [
-"Porque a placenta dessas espécies não deixa passar anticorpos, e o filhote nasce sem imunoglobulinas",
-"Porque o intestino desses animais digere todos os anticorpos produzidos pelo feto",
-"Porque esses filhotes não têm linfócitos ao nascer",
-"Porque a placenta destrói os anticorpos fetais"
+"Porque a placenta dessas espécies não deixa passar anticorpos",
+"Porque o intestino desses animais digere os anticorpos do feto",
+"Porque esses filhotes nascem sem linfócitos e sem timo funcional",
+"Porque a placenta dessas espécies destrói os anticorpos fetais"
 ],
-"e": "A placenta de ruminantes, equinos e suínos não transfere imunoglobulinas; a imunidade passiva vem do colostro."
+"e": "A placenta de ruminantes, equinos e suínos não transfere imunoglobulinas, e o filhote nasce sem elas; a imunidade passiva vem do colostro."
 },
 {
 "c": "membrana",
 "q": "Um bezerro mamou o primeiro colostro apenas com 36 horas de vida. Qual a consequência provável?",
 "o": [
-"Falha de transferência de imunidade passiva, pois o intestino já parou de absorver imunoglobulinas intactas",
+"Falha de transferência de imunidade passiva por intestino já fechado",
 "Absorção normal, pois a transcitose ocorre durante toda a vida",
-"Hemólise pela entrada de anticorpos maternos",
-"Aumento da absorção, pois o intestino está mais maduro"
+"Hemólise intensa causada pela entrada de anticorpos maternos",
+"Absorção aumentada, pois o intestino já está mais maduro"
 ],
-"e": "A absorção por pinocitose e transcitose ocorre nas primeiras 24 horas; depois o intestino “fecha”."
+"e": "A absorção de imunoglobulinas intactas por pinocitose e transcitose ocorre nas primeiras 24 horas; depois o intestino “fecha” e há falha de transferência de imunidade passiva."
 },
 {
 "c": "membrana",
 "q": "Qual afirmação sobre o transporte ativo está correta?",
 "o": [
-"O que o define é mover a substância contra o gradiente, usando energia direta ou indiretamente",
-"Todo transporte que usa proteína é ativo",
+"Define-se por mover a substância contra o gradiente, com energia",
+"Todo transporte que usa proteína de membrana é necessariamente ativo",
 "Ele nunca depende de outra proteína para manter o gradiente",
-"Ocorre apenas com moléculas apolares"
+"Ocorre apenas com moléculas apolares e de baixo peso"
 ],
 "e": "Difusão facilitada também usa proteína e é passiva; ativo é ir contra o gradiente, gastando ATP direta (primário) ou indiretamente (secundário)."
 },
@@ -5373,9 +7474,9 @@ window.LIVRO.Q.push(...[
 "q": "Um alelo recessivo se caracteriza por:",
 "o": [
 "só se expressar no fenótipo quando em homozigose",
-"nunca ser transmitido aos descendentes",
-"se expressar mesmo em dose única",
-"ser sempre causador de doença"
+"nunca ser transmitido aos descendentes do portador",
+"se expressar no fenótipo mesmo em dose única",
+"ser sempre causador de doença quando presente"
 ],
 "e": "O recessivo fica mascarado pelo dominante no heterozigoto e só aparece em homozigose (aa)."
 },
@@ -5383,12 +7484,12 @@ window.LIVRO.Q.push(...[
 "c": "mendel",
 "q": "Segundo o capítulo, um gene é:",
 "o": [
-"um trecho de DNA que codifica um produto funcional e controla uma característica",
+"um trecho de DNA que codifica um produto funcional",
 "um cromossomo inteiro com todas as suas proteínas",
-"a característica observável de um indivíduo",
-"a posição de uma característica no núcleo"
+"a característica observável de um indivíduo adulto",
+"a posição fixa de uma característica no núcleo celular"
 ],
-"e": "O gene é um segmento de DNA com informação para um produto funcional; suas variantes são os alelos."
+"e": "O gene é um segmento de DNA com informação para um produto funcional, que controla uma característica; suas variantes são os alelos."
 },
 {
 "c": "mendel",
@@ -5405,10 +7506,10 @@ window.LIVRO.Q.push(...[
 "c": "mendel",
 "q": "A 1ª lei de Mendel, ou lei da segregação, afirma que:",
 "o": [
-"os dois fatores de um par se separam na formação dos gametas, e cada gameta recebe só um",
-"genes de cromossomos diferentes se distribuem independentemente",
-"o fenótipo resulta do genótipo somado ao ambiente",
-"os alelos dominantes são sempre mais frequentes na população"
+"os fatores de cada par se separam nos gametas, que recebem só um",
+"genes de cromossomos diferentes se distribuem de modo independente",
+"o fenótipo resulta do genótipo somado à influência do ambiente",
+"os alelos dominantes são sempre os mais frequentes na população"
 ],
 "e": "É o princípio da 'pureza dos gametas': cada gameta carrega apenas um alelo de cada gene."
 },
@@ -5427,9 +7528,9 @@ window.LIVRO.Q.push(...[
 "c": "mendel",
 "q": "Na F2 do monoibridismo de Mendel (Rr × Rr), o que acontece com a característica recessiva?",
 "o": [
-"Reaparece em cerca de 1/4 dos descendentes, depois de não aparecer na F1",
-"Desaparece definitivamente, pois foi diluída na F1",
-"Aparece em metade dos descendentes",
+"Reaparece em cerca de 1/4 dos descendentes, após sumir na F1",
+"Desaparece definitivamente, pois foi diluída na geração F1",
+"Aparece em cerca de 3/4 dos descendentes, por dominância",
 "Aparece em todos os descendentes, mas de forma atenuada"
 ],
 "e": "O alelo recessivo permanece intacto no heterozigoto e volta a se manifestar nos rr da F2 (3 lisas : 1 rugosa)."
@@ -5570,10 +7671,10 @@ window.LIVRO.Q.push(...[
 "c": "mendel",
 "q": "Na construção de mapas genéticos, a frequência de recombinação entre dois genes ligados é usada porque:",
 "o": [
-"quanto mais distantes estão no cromossomo, maior a chance de permutação entre eles",
-"genes mais próximos se recombinam com mais frequência",
+"quanto mais distantes no cromossomo, maior a chance de permuta entre eles",
+"genes mais próximos no mesmo cromossomo se recombinam com mais frequência",
 "a recombinação só ocorre entre genes de cromossomos diferentes",
-"ela indica quantos alelos cada gene possui"
+"ela indica quantos alelos diferentes cada gene possui na população"
 ],
 "e": "A permutação ocorre ao longo do cromossomo; genes mais afastados têm maior probabilidade de serem separados por ela."
 },
@@ -5659,9 +7760,9 @@ window.LIVRO.Q.push(...[
 "q": "Um touro portador (Aa) de uma doença recessiva é usado em vacas não portadoras (AA). Qual o resultado esperado?",
 "o": [
 "Nenhum bezerro doente e cerca de 50% portadores",
-"25% de bezerros doentes",
-"50% de bezerros doentes",
-"Todos os bezerros portadores"
+"Cerca de 25% de bezerros doentes e 50% portadores",
+"Cerca de 50% de bezerros doentes e 50% normais",
+"Nenhum bezerro doente e todos os bezerros portadores"
 ],
 "e": "Aa × AA gera 1/2 AA e 1/2 Aa; não há aa, mas metade dos filhos dissemina o alelo recessivo."
 },
@@ -5681,9 +7782,9 @@ window.LIVRO.Q.push(...[
 "q": "Atualmente, para saber se um touro é portador de um alelo recessivo indesejável, o método mais rápido citado no capítulo é:",
 "o": [
 "teste genético por PCR em amostra de pelo, sangue ou sêmen",
-"cruzamento-teste com vacas homozigotas recessivas",
-"análise do fenótipo do próprio touro",
-"contagem de cromossomos no cariótipo"
+"cruzamento-teste com vacas homozigotas recessivas do rebanho",
+"análise do fenótipo do próprio touro e de seus pais",
+"contagem dos cromossomos no cariótipo de linfócitos"
 ],
 "e": "Testes de DNA identificam portadores em poucos dias, sem esperar a progênie do cruzamento-teste."
 },
@@ -5702,12 +7803,12 @@ window.LIVRO.Q.push(...[
 "c": "mendel",
 "q": "Herdabilidade, base do melhoramento genético animal, é:",
 "o": [
-"a fração da variação fenotípica de uma característica que se deve aos genes",
+"a fração da variação fenotípica que se deve aos genes",
 "a probabilidade de um alelo dominante ser transmitido",
-"o número de genes que controlam uma característica",
-"a proporção de filhos recessivos em um cruzamento-teste"
+"o número de genes que controlam uma mesma característica",
+"a proporção de filhos recessivos num cruzamento-teste"
 ],
-"e": "Quanto maior a herdabilidade, maior a parte da variação explicada pela genética e mais eficiente a seleção."
+"e": "Herdabilidade é a fração da variação fenotípica de uma característica atribuída aos genes; quanto maior, mais eficiente a seleção."
 },
 {
 "c": "mendel",
@@ -5834,10 +7935,10 @@ window.LIVRO.Q.push(...[
 "c": "mutacao",
 "q": "Uma inserção de um nucleotídeo provoca mudança de fase de leitura. Em qual posição ela tende a causar o MENOR prejuízo à proteína?",
 "o": [
-"Próximo ao final da região codificadora, pouco antes do códon de parada",
-"Logo após o códon de início",
-"No meio da região codificadora",
-"Em qualquer posição, pois o efeito é sempre igual"
+"Perto do final da região codificadora, antes do códon de parada",
+"Logo após o códon de início, no começo da região codificadora",
+"No meio da região codificadora, longe das duas extremidades",
+"Em qualquer posição, pois o efeito sobre a proteína é sempre igual"
 ],
 "e": "A mudança de fase altera os aminoácidos dali para frente; perto do final, poucos aminoácidos são afetados."
 },
@@ -5901,9 +8002,9 @@ window.LIVRO.Q.push(...[
 "q": "A despurinação é um dano espontâneo frequente no DNA que consiste em:",
 "o": [
 "perda de uma base A ou G, que se solta do açúcar",
-"troca de uma purina por uma pirimidina",
-"união covalente de duas timinas vizinhas",
-"quebra das duas fitas do DNA"
+"troca de uma purina por uma pirimidina na mesma fita",
+"união covalente de duas timinas vizinhas pela luz UV",
+"quebra das duas fitas do DNA no mesmo ponto"
 ],
 "e": "A ligação entre a purina e a desoxirribose se rompe, deixando um sítio sem base; ocorre milhares de vezes por célula por dia."
 },
@@ -5945,9 +8046,9 @@ window.LIVRO.Q.push(...[
 "q": "A junção de pontas não homólogas, usada para reparar quebras de fita dupla, caracteriza-se por:",
 "o": [
 "ser rápida, mas poder perder nucleotídeos no ponto de junção",
-"usar a cromátide-irmã como molde e não deixar erros",
-"remover um trecho de cerca de 30 nucleotídeos",
-"atuar apenas na fita recém-sintetizada"
+"usar a cromátide-irmã como molde e não deixar erros na sequência",
+"remover um trecho de cerca de 30 nucleotídeos ao redor da lesão",
+"atuar apenas na fita recém-sintetizada, reconhecida por metilação"
 ],
 "e": "Ela une as pontas diretamente, sem molde; por isso é rápida, mas sujeita a erros."
 },
@@ -5978,9 +8079,9 @@ window.LIVRO.Q.push(...[
 "q": "O chamado 'câncer de olho' de bovinos Hereford, de cara branca, é um exemplo de:",
 "o": [
 "carcinoma de células escamosas induzido pela radiação UV",
-"tumor hereditário por mutação germinativa em p53",
-"neoplasia causada por aflatoxina",
-"tumor causado por translocação robertsoniana"
+"tumor hereditário por mutação germinativa no gene p53 da raça",
+"neoplasia causada por aflatoxina presente na ração",
+"tumor causado por translocação robertsoniana 1/29"
 ],
 "e": "A falta de pigmento ao redor do olho expõe o tecido à radiação UV, que forma dímeros de timina."
 },
@@ -6000,9 +8101,9 @@ window.LIVRO.Q.push(...[
 "q": "Quimioterápicos alquilantes, como ciclofosfamida e clorambucil, lesam com frequência a medula óssea e o intestino porque:",
 "o": [
 "danificam o DNA, e esses tecidos têm células que se dividem muito",
-"agem só em células sem p53",
-"inibem especificamente a tradução nos enterócitos",
-"bloqueiam o reparo de mau pareamento só nesses tecidos"
+"agem só em células sem p53, mais comuns nesses dois tecidos",
+"inibem especificamente a tradução nos enterócitos e mieloblastos",
+"bloqueiam o reparo de mau pareamento apenas nesses tecidos"
 ],
 "e": "O dano ao DNA atinge sobretudo células em proliferação intensa, como as da medula e das criptas intestinais."
 },
@@ -6054,21 +8155,21 @@ window.LIVRO.Q.push(...[
 "c": "mutacao",
 "q": "Qual princípio é comum a todos os sistemas de reparo do DNA?",
 "o": [
-"Usar a fita complementar ou a cromátide-irmã como molde para restaurar a sequência",
-"Destruir a célula sempre que houver qualquer lesão",
-"Trocar a base danificada por uma uracila",
-"Atuar apenas durante a mitose"
+"Usar a fita complementar ou a cromátide-irmã como molde",
+"Destruir a célula sempre que houver qualquer lesão no DNA",
+"Trocar a base danificada por uma uracila, mais estável",
+"Atuar apenas durante a mitose, com os cromossomos condensados"
 ],
-"e": "A informação redundante da dupla hélice (ou da cromátide-irmã) indica qual era a sequência correta."
+"e": "A informação redundante da dupla hélice (ou da cromátide-irmã) serve de molde e indica qual era a sequência correta a restaurar."
 },
 {
 "c": "mutacao",
 "q": "Mutações nos genes BRCA1 e BRCA2, associadas a tumores mamários em cadelas, comprometem diretamente:",
 "o": [
 "o reparo de quebras de fita dupla por recombinação homóloga",
-"a revisão 3′→5′ da DNA polimerase",
-"a remoção de dímeros de timina",
-"a síntese de histonas na fase S"
+"a revisão 3′→5′ da DNA polimerase durante a replicação",
+"a remoção de dímeros de timina por excisão de nucleotídeos",
+"a síntese de histonas na fase S para o DNA recém-formado"
 ],
 "e": "BRCA1 e BRCA2 participam da recombinação homóloga; sua perda leva ao acúmulo de mutações."
 },
@@ -6077,9 +8178,9 @@ window.LIVRO.Q.push(...[
 "q": "Os retrovírus são citados como agentes mutagênicos porque:",
 "o": [
 "inserem seu material genético no genoma da célula hospedeira",
-"formam dímeros de pirimidina",
-"desaminam bases nitrogenadas",
-"impedem a separação dos cromossomos na meiose"
+"formam dímeros de pirimidina ao absorver a luz ultravioleta",
+"desaminam bases nitrogenadas, convertendo citosina em uracila",
+"impedem a separação dos cromossomos homólogos na meiose"
 ],
 "e": "A integração do DNA viral no genoma pode interromper genes ou alterar sua regulação."
 },
@@ -6087,10 +8188,10 @@ window.LIVRO.Q.push(...[
 "c": "mutacao",
 "q": "Para o melhoramento genético animal, a importância da mutação está em:",
 "o": [
-"ser a fonte primária da variabilidade genética que a seleção aproveita",
-"eliminar alelos recessivos indesejáveis dos rebanhos",
+"ser a fonte primária da variabilidade que a seleção aproveita",
+"eliminar alelos recessivos indesejáveis dos rebanhos comerciais",
 "garantir que os descendentes sejam idênticos aos pais",
-"corrigir os erros de replicação"
+"corrigir os erros de replicação acumulados nas gerações"
 ],
 "e": "Sem mutação não surgiriam novos alelos; ela fornece a matéria-prima sobre a qual atuam a seleção natural e a artificial."
 },
@@ -6132,9 +8233,9 @@ window.LIVRO.Q.push(...[
 "q": "A lâmina nuclear, que sustenta o envoltório e se desmonta na mitose, é formada por:",
 "o": [
 "Filamentos intermediários de lamina",
-"Microtúbulos de tubulina",
-"Filamentos de actina",
-"Cisternas do RE liso"
+"Microtúbulos de tubulina polimerizada",
+"Filamentos de actina e miosina",
+"Cisternas achatadas do RE liso"
 ],
 "e": "A lâmina nuclear é uma rede de laminas, filamentos intermediários que revestem a face interna do envoltório."
 },
@@ -6164,10 +8265,10 @@ window.LIVRO.Q.push(...[
 "c": "organelas",
 "q": "O que determina se um ribossomo ficará livre no citosol ou preso ao RE?",
 "o": [
-"A presença de um sinal na proteína em síntese, que leva o ribossomo ao RE",
+"Um sinal na proteína em síntese, que leva o ribossomo ao RE",
 "O tipo de ribossomo, já que os do RE são 70S e os livres 80S",
 "A quantidade de RNA ribossômico na subunidade menor",
-"A posição do ribossomo em relação ao núcleo"
+"A posição do ribossomo em relação ao envoltório nuclear"
 ],
 "e": "As duas populações de ribossomos são idênticas; o peptídeo sinal da proteína nascente direciona o ribossomo ao RE."
 },
@@ -6197,21 +8298,21 @@ window.LIVRO.Q.push(...[
 "c": "organelas",
 "q": "Qual é o papel da partícula de reconhecimento de sinal (SRP)?",
 "o": [
-"Reconhecer o peptídeo sinal da proteína nascente e levar o ribossomo ao receptor do RE",
-"Marcar proteínas mal dobradas com ubiquitina",
+"Reconhecer o peptídeo sinal e levar o ribossomo ao RE",
+"Marcar proteínas mal dobradas do RE com ubiquitina",
 "Adicionar manose-6-fosfato às enzimas lisossomais",
-"Transportar RNA maduro pelos poros nucleares"
+"Transportar RNA maduro pelos poros do envoltório nuclear"
 ],
-"e": "A SRP liga-se ao peptídeo sinal e conduz o complexo ribossomo–proteína ao RE, onde ocorre a translocação."
+"e": "A SRP liga-se ao peptídeo sinal da proteína nascente e conduz o complexo ribossomo–proteína ao receptor do RE, onde ocorre a translocação."
 },
 {
 "c": "organelas",
 "q": "Qual a função da chaperona BiP no lúmen do RE?",
 "o": [
-"Impedir dobramentos incorretos das proteínas recém-sintetizadas",
-"Cortar o peptídeo sinal",
+"Evitar dobramentos incorretos das proteínas nascentes",
+"Cortar o peptídeo sinal das proteínas que entram no RE",
 "Transferir o bloco de 14 açúcares para asparaginas",
-"Bombear Ca2+ do citosol para o lúmen"
+"Bombear Ca2+ do citosol para o lúmen do retículo"
 ],
 "e": "BiP, da família hsp70, auxilia o dobramento correto das proteínas no RE."
 },
@@ -6230,10 +8331,10 @@ window.LIVRO.Q.push(...[
 "c": "organelas",
 "q": "O que acontece com uma proteína que não consegue se dobrar corretamente no RE?",
 "o": [
-"É devolvida ao citosol, recebe ubiquitina e é destruída no proteassomo",
-"É enviada ao Golgi e secretada normalmente",
-"Permanece indefinidamente no lúmen sem consequência",
-"É enviada ao núcleo para ser corrigida"
+"É devolvida ao citosol, ubiquitinada e destruída no proteassomo",
+"É enviada ao Golgi e secretada normalmente pela célula",
+"Permanece indefinidamente no lúmen, sem nenhuma consequência",
+"É enviada ao núcleo para ser corrigida por chaperonas"
 ],
 "e": "O controle de qualidade do RE faz retrotranslocação, ubiquitinação e degradação no proteassomo."
 },
@@ -6241,10 +8342,10 @@ window.LIVRO.Q.push(...[
 "c": "organelas",
 "q": "Vacas de alta produção no início da lactação podem apresentar estresse do RE. Qual é a resposta celular descrita?",
 "o": [
-"Freio da tradução, aumento da produção de chaperonas e, se não houver solução, apoptose",
+"Freio da tradução, mais chaperonas e, se persistir, apoptose",
 "Aumento da tradução para compensar as proteínas perdidas",
 "Fusão do RE com as mitocôndrias para gerar mais ATP",
-"Eliminação do RE rugoso por exocitose"
+"Eliminação do RE rugoso danificado por exocitose para o leite"
 ],
 "e": "A resposta a proteínas mal dobradas reduz a carga de síntese, aumenta chaperonas e, em último caso, induz apoptose."
 },
@@ -6263,32 +8364,32 @@ window.LIVRO.Q.push(...[
 "c": "organelas",
 "q": "Um cão epiléptico em uso prolongado de fenobarbital passa a precisar de doses maiores para o mesmo efeito. Qual a explicação celular?",
 "o": [
-"Proliferação do REL hepático e das enzimas P450, que aceleram o metabolismo do próprio fármaco",
-"Redução do número de mitocôndrias nos neurônios",
-"Destruição dos lisossomos hepáticos pelo fármaco",
+"Proliferação do REL hepático e indução das enzimas P450",
+"Redução do número de mitocôndrias nos neurônios do córtex",
+"Destruição dos lisossomos hepáticos pelo próprio fármaco",
 "Bloqueio da exocitose do fármaco pelos hepatócitos"
 ],
-"e": "O fenobarbital induz o REL e o citocromo P450, aumentando a biotransformação e elevando enzimas hepáticas."
+"e": "O fenobarbital induz o REL e o citocromo P450, que aceleram o metabolismo do próprio fármaco, aumentando a biotransformação e elevando enzimas hepáticas."
 },
 {
 "c": "organelas",
 "q": "Por que o paracetamol não deve ser usado em gatos?",
 "o": [
-"Porque o gato tem deficiência de glicuronidação, uma via de conjugação hepática",
-"Porque o gato não possui REL no fígado",
-"Porque o paracetamol destrói os peroxissomos felinos",
-"Porque os gatos não têm citocromo P450"
+"Porque o gato tem deficiência de glicuronidação hepática",
+"Porque o gato não possui retículo endoplasmático liso no fígado",
+"Porque o paracetamol destrói os peroxissomos dos felinos",
+"Porque os gatos não têm nenhuma enzima do citocromo P450"
 ],
-"e": "A deficiência de glicuronidação torna o gato muito sensível ao paracetamol."
+"e": "A deficiência de glicuronidação, uma via de conjugação hepática, torna o gato muito sensível ao paracetamol."
 },
 {
 "c": "organelas",
 "q": "A hipertermia maligna dos suínos, associada à carne PSE, decorre de mutação em:",
 "o": [
 "Canal de Ca2+ do retículo sarcoplasmático (gene RYR1)",
-"Enzima lisossomal manosidase",
-"Catalase peroxissomal",
-"Receptor de manose-6-fosfato do Golgi"
+"Enzima lisossomal alfa-manosidase das fibras musculares",
+"Catalase peroxissomal do músculo esquelético",
+"Receptor de manose-6-fosfato da rede trans do Golgi"
 ],
 "e": "O canal RYR1 defeituoso deixa vazar Ca2+, o músculo contrai sem parar e aquece."
 },
@@ -6297,9 +8398,9 @@ window.LIVRO.Q.push(...[
 "q": "No hepatócito, qual enzima do REL permite liberar glicose para o sangue na glicogenólise?",
 "o": [
 "Glicose-6-fosfatase",
-"Catalase",
-"Manosidase",
-"ATP-sintase"
+"Glicogênio sintase",
+"Catalase peroxissomal",
+"Hexoquinase"
 ],
 "e": "A glicose-6-fosfatase do REL remove o fosfato e libera glicose livre para a circulação."
 },
@@ -6318,21 +8419,21 @@ window.LIVRO.Q.push(...[
 "c": "organelas",
 "q": "Qual afirmação sobre a polaridade do dictiossomo está correta?",
 "o": [
-"A face trans é côncava, voltada para a membrana plasmática, e despacha vesículas",
+"A face trans é côncava e despacha vesículas",
 "A face cis é côncava e despacha vesículas de secreção",
-"A face trans recebe vesículas vindas do RE",
-"As cisternas médias recebem vesículas diretamente do núcleo"
+"A face trans é convexa e recebe vesículas vindas do RE",
+"As cisternas médias recebem vesículas do núcleo"
 ],
-"e": "A face cis (convexa) recebe vesículas do RE; a face trans (côncava) envia vesículas para a membrana ou endossomos."
+"e": "A face cis (convexa) recebe vesículas do RE; a face trans (côncava), voltada para a membrana plasmática, envia vesículas para a membrana ou endossomos."
 },
 {
 "c": "organelas",
 "q": "Por que o complexo de Golgi é muito desenvolvido nos condroblastos?",
 "o": [
-"Porque realiza a sulfatação dos proteoglicanos da matriz cartilaginosa",
+"Porque sulfata os proteoglicanos da matriz cartilaginosa",
 "Porque sintetiza o colágeno a partir de aminoácidos livres",
-"Porque produz ATP para a divisão celular",
-"Porque armazena cálcio para a mineralização"
+"Porque produz o ATP necessário para a divisão celular",
+"Porque armazena cálcio para a mineralização da matriz"
 ],
 "e": "A sulfatação de proteoglicanos ocorre no Golgi, e a cartilagem é rica nessas moléculas."
 },
@@ -6395,12 +8496,12 @@ window.LIVRO.Q.push(...[
 "c": "organelas",
 "q": "Por que as enzimas lisossomais se soltam do receptor de manose-6-fosfato no endossomo tardio?",
 "o": [
-"A acidez do lúmen, gerada pela bomba de H+, desfaz a ligação, e o receptor volta ao Golgi",
-"As enzimas são clivadas pela ubiquitina",
-"O receptor é digerido junto com a carga",
-"As SNAREs separam enzima e receptor no citosol"
+"A acidez do lúmen desfaz a ligação, e o receptor volta ao Golgi",
+"As enzimas são clivadas pela ubiquitina e liberadas no lúmen",
+"O receptor é digerido junto com a carga dentro do endossomo",
+"As SNAREs separam enzima e receptor no citosol, fora da vesícula"
 ],
-"e": "Com o pH ácido as enzimas se desligam do receptor, que é reciclado para o Golgi."
+"e": "A bomba de H+ acidifica o lúmen; com o pH ácido as enzimas se desligam do receptor, que é reciclado para o Golgi."
 },
 {
 "c": "organelas",
@@ -6418,9 +8519,9 @@ window.LIVRO.Q.push(...[
 "q": "A lipofuscina, comum em neurônios e cardiomiócitos de animais idosos, corresponde a:",
 "o": [
 "Corpos residuais com material não digerido pelos lisossomos",
-"Gotas de glicogênio no REL",
-"Mitocôndrias em divisão",
-"Grânulos de secreção do Golgi"
+"Gotas de glicogênio acumuladas no REL das células",
+"Mitocôndrias em divisão, com cristas pigmentadas",
+"Grânulos de secreção do Golgi que não foram liberados da célula"
 ],
 "e": "O que os lisossomos não digerem permanece como corpo residual, a lipofuscina ou pigmento do envelhecimento."
 },
@@ -6428,10 +8529,10 @@ window.LIVRO.Q.push(...[
 "c": "organelas",
 "q": "Qual é a diferença entre heterofagia e autofagia?",
 "o": [
-"Heterofagia digere material vindo de fora; autofagia digere componentes da própria célula",
-"Heterofagia ocorre no peroxissomo; autofagia no lisossomo",
-"Heterofagia é feita só por hemácias; autofagia só por neutrófilos",
-"Heterofagia usa enzimas neutras; autofagia usa enzimas alcalinas"
+"Heterofagia digere material externo; autofagia, o da própria célula",
+"Heterofagia ocorre no peroxissomo; autofagia, no lisossomo",
+"Heterofagia é feita só por hemácias; autofagia, só por neutrófilos",
+"Heterofagia usa enzimas neutras; autofagia, enzimas alcalinas"
 ],
 "e": "Na heterofagia, material endocitado (como bactérias) é digerido; na autofagia, organelas velhas envolvidas por membrana."
 },
@@ -6450,21 +8551,21 @@ window.LIVRO.Q.push(...[
 "c": "organelas",
 "q": "Caprinos que ingerem Sida carpinifolia no Sul do Brasil desenvolvem doença neurológica progressiva. Qual o mecanismo?",
 "o": [
-"A planta inibe a manosidase, provocando doença de depósito lisossomal adquirida",
-"A planta destrói o DNA mitocondrial",
-"A planta bloqueia a SRP e impede a síntese de proteínas de secreção",
-"A planta induz a proliferação de peroxissomos"
+"Inibe a manosidase, gerando doença de depósito lisossomal",
+"Destrói o DNA mitocondrial dos neurônios do tronco encefálico",
+"Bloqueia a SRP e impede a síntese de proteínas de secreção",
+"Induz proliferação de peroxissomos nas células da glia"
 ],
-"e": "A inibição da manosidase acumula substrato nos lisossomos, imitando a manosidose hereditária."
+"e": "A planta inibe a manosidase e provoca uma doença de depósito lisossomal adquirida: o substrato se acumula nos lisossomos, imitando a manosidose hereditária."
 },
 {
 "c": "organelas",
 "q": "A manosidose hereditária em bovinos Angus é exemplo de:",
 "o": [
 "Doença de depósito lisossomal por falta de uma enzima lisossomal",
-"Doença mitocondrial de herança materna",
-"Defeito do canal RYR1",
-"Deficiência de catalase peroxissomal"
+"Doença mitocondrial de herança exclusivamente materna",
+"Defeito do canal de cálcio RYR1 do retículo sarcoplasmático",
+"Deficiência hereditária de catalase peroxissomal"
 ],
 "e": "Falta uma hidrolase lisossomal; o substrato acumula e a célula incha, com sinais neurológicos."
 },
@@ -6484,9 +8585,9 @@ window.LIVRO.Q.push(...[
 "q": "A produção de calor na gordura marrom de recém-nascidos depende de qual proteína mitocondrial?",
 "o": [
 "UCP1, proteína desacopladora",
-"Citocromo c",
-"Catalase",
-"Cardiolipina"
+"Citocromo c, da cadeia respiratória",
+"Catalase, enzima peroxissomal",
+"Cardiolipina da membrana interna"
 ],
 "e": "A UCP1 desacopla a cadeia respiratória da síntese de ATP, liberando a energia como calor."
 },
@@ -6516,12 +8617,12 @@ window.LIVRO.Q.push(...[
 "c": "organelas",
 "q": "Por que o DNA mitocondrial é útil para estudar as linhagens maternas taurinas e zebuínas do gado brasileiro?",
 "o": [
-"Porque as mitocôndrias do espermatozoide são destruídas no ovócito e o DNA mitocondrial vem só da mãe",
+"Porque o DNA mitocondrial é herdado somente da mãe",
 "Porque o DNA mitocondrial se recombina a cada geração",
-"Porque o DNA mitocondrial está no cromossomo Y",
+"Porque o DNA mitocondrial fica no cromossomo Y",
 "Porque cada mitocôndria tem DNA de ambos os pais"
 ],
-"e": "As mitocôndrias paternas são marcadas com ubiquitina e destruídas; a herança mitocondrial é materna."
+"e": "As mitocôndrias do espermatozoide são marcadas com ubiquitina e destruídas no ovócito; por isso a herança mitocondrial é materna."
 },
 {
 "c": "organelas",
@@ -6539,9 +8640,9 @@ window.LIVRO.Q.push(...[
 "q": "Qual destas funções é atribuída aos peroxissomos?",
 "o": [
 "Iniciar a β-oxidação de ácidos graxos de cadeia muito longa",
-"Realizar a glicosilação terminal de proteínas",
-"Sintetizar subunidades ribossômicas",
-"Montar o fuso mitótico"
+"Realizar a glicosilação terminal de proteínas de secreção",
+"Sintetizar as subunidades ribossômicas maior e menor",
+"Montar o fuso mitótico a partir dos centríolos"
 ],
 "e": "A mitocôndria não consegue iniciar a oxidação de ácidos graxos de cadeia muito longa; o peroxissomo o faz."
 },
@@ -6560,9 +8661,9 @@ window.LIVRO.Q.push(...[
 "c": "organelas",
 "q": "Como se formam os peroxissomos?",
 "o": [
-"Por brotamento de vesículas do RE e por fissão dos peroxissomos já existentes",
+"Por brotamento do RE e por fissão de peroxissomos existentes",
 "Por brotamento de vesículas da face trans do Golgi",
-"Por endossimbiose recente com bactérias aeróbias",
+"Por endossimbiose recente com bactérias aeróbias de vida livre",
 "A partir do nucléolo, como as subunidades ribossômicas"
 ],
 "e": "Vesículas precursoras brotam do RE, recebem proteínas do citosol, crescem e se dividem por fissão."
@@ -6638,9 +8739,9 @@ window.LIVRO.Q.push(...[
 "q": "Qual componente químico é exclusivo da parede bacteriana e explica, em parte, a toxicidade seletiva dos fármacos que atuam nela?",
 "o": [
 "Peptídeos com D-aminoácidos unindo cadeias de NAG e NAM",
-"Celulose em microfibrilas",
-"Quitina ligada a glucanas",
-"Colesterol intercalado com fosfolipídios"
+"Celulose organizada em microfibrilas paralelas e rígidas",
+"Quitina ligada a glucanas por pontes de hidrogênio",
+"Colesterol intercalado com fosfolipídios da bicamada"
 ],
 "e": "O peptidoglicano alterna NAG e NAM unidos por pontes peptídicas com D-aminoácidos, que as proteínas animais não utilizam."
 },
@@ -6648,12 +8749,12 @@ window.LIVRO.Q.push(...[
 "c": "procariontes",
 "q": "Uma bactéria tratada com lisozima em meio de água destilada perde a parede. O resultado esperado é:",
 "o": [
-"Lise osmótica, pois a água entra no citoplasma concentrado e nada contém a expansão",
-"Murchamento celular por saída de água para o meio",
-"Formação imediata de endósporo resistente",
-"Nenhuma alteração, pois a membrana plasmática resiste sozinha à pressão"
+"Lise osmótica, pela entrada de água no citoplasma concentrado",
+"Murchamento celular, pela saída de água do citoplasma para o meio",
+"Formação imediata de endósporo resistente à pressão osmótica",
+"Nenhuma alteração, pois a membrana resiste sozinha à pressão"
 ],
-"e": "A parede impede que a célula estoure; sem ela, num meio hipotônico, a entrada de água por osmose causa lise."
+"e": "A parede impede que a célula estoure; sem ela, num meio hipotônico, a água entra por osmose no citoplasma concentrado, nada contém a expansão e ocorre lise."
 },
 {
 "c": "procariontes",
@@ -6670,21 +8771,21 @@ window.LIVRO.Q.push(...[
 "c": "procariontes",
 "q": "Na coloração de Gram, qual é a função do lugol?",
 "o": [
-"Atuar como mordente, formando com o cristal violeta um complexo grande que fica preso no peptidoglicano",
-"Descorar as bactérias gram-negativas",
-"Corar de rosa as bactérias que perderam o roxo",
-"Fixar o esfregaço pelo calor"
+"Atuar como mordente, formando complexo com o cristal violeta",
+"Descorar as gram-negativas, removendo o cristal violeta da parede",
+"Corar de rosa as bactérias que perderam o roxo no descoramento",
+"Fixar o esfregaço na lâmina, substituindo a passagem pela chama"
 ],
-"e": "O iodo do lugol é o mordente; o álcool/acetona descora e a safranina é o contracorante."
+"e": "O iodo do lugol é o mordente: forma com o cristal violeta um complexo grande que fica preso no peptidoglicano. O álcool/acetona descora e a safranina é o contracorante."
 },
 {
 "c": "procariontes",
 "q": "Se um técnico esquecer a etapa de álcool-acetona na coloração de Gram, como aparecerão as bactérias gram-negativas?",
 "o": [
 "Roxas, pois o complexo cristal violeta–iodo não será removido",
-"Rosa, como de costume",
-"Incolores, pois nenhum corante se fixa",
-"Verdes, pela reação da safranina com o iodo"
+"Rosa, como de costume, pois a safranina cora a parede fina",
+"Incolores, pois nenhum dos corantes se fixa na parede fina",
+"Verdes, pela reação da safranina com o iodo que ficou retido"
 ],
 "e": "É o descorante que remove o complexo da parede fina; sem ele, todas as bactérias permanecem roxas e o resultado é um falso gram-positivo."
 },
@@ -6725,23 +8826,23 @@ window.LIVRO.Q.push(...[
 "c": "procariontes",
 "q": "Um equino com infecção gram-negativa grave piora logo após receber um antimicrobiano bactericida potente. Qual explicação o capítulo sustenta?",
 "o": [
-"A morte rápida de muitas bactérias libera grande quantidade de lipídeo A na circulação",
-"O antimicrobiano induz as bactérias a produzirem cápsula",
-"O fármaco destrói os ribossomos 80S do próprio animal",
-"As bactérias mortas passam a formar endósporos tóxicos"
+"A morte rápida das bactérias libera muito lipídeo A no sangue",
+"O antimicrobiano induz as bactérias sobreviventes a produzirem cápsula",
+"O fármaco destrói os ribossomos 80S das células do próprio animal",
+"As bactérias mortas passam a formar endósporos tóxicos no sangue"
 ],
-"e": "A endotoxina é liberada quando a bactéria morre; matar muitas de uma vez pode aumentar transitoriamente a endotoxemia."
+"e": "A endotoxina (lipídeo A) é liberada quando a bactéria morre; matar muitas de uma vez pode aumentar transitoriamente a endotoxemia."
 },
 {
 "c": "procariontes",
 "q": "Alterações nas porinas de bactérias gram-negativas têm qual consequência clínica?",
 "o": [
-"Podem reduzir a entrada de antimicrobianos hidrofílicos, gerando resistência",
-"Aumentam a espessura do peptidoglicano",
-"Tornam a bactéria gram-positiva no Gram",
-"Impedem a formação de LPS"
+"Podem reduzir a entrada de antimicrobianos hidrofílicos",
+"Aumentam a espessura do peptidoglicano na parede celular",
+"Tornam a bactéria gram-positiva na coloração de Gram",
+"Impedem a síntese de LPS na membrana externa"
 ],
-"e": "Porinas são canais da membrana externa para pequenas moléculas hidrofílicas; mudanças nelas são mecanismo de resistência."
+"e": "Porinas são canais da membrana externa para pequenas moléculas hidrofílicas; mudanças nelas reduzem a entrada de fármacos e são mecanismo de resistência."
 },
 {
 "c": "procariontes",
@@ -6781,9 +8882,9 @@ window.LIVRO.Q.push(...[
 "q": "Em algumas arqueas, lipídios de membrana formam uma monocamada. Qual vantagem isso confere?",
 "o": [
 "Maior estabilidade da membrana em altas temperaturas",
-"Maior sensibilidade à lisozima",
-"Capacidade de realizar fagocitose",
-"Formação de parede de peptidoglicano"
+"Maior sensibilidade da membrana à ação da lisozima",
+"Capacidade de realizar fagocitose de partículas grandes",
+"Formação de parede espessa de peptidoglicano"
 ],
 "e": "As caudas lipídicas de lados opostos se unem, estabilizando a membrana em ambientes quentes."
 },
@@ -6792,9 +8893,9 @@ window.LIVRO.Q.push(...[
 "q": "O flagelo bacteriano gira como uma hélice. Qual é a fonte de energia direta do seu motor?",
 "o": [
 "O fluxo de prótons através da membrana, no corpo basal",
-"A hidrólise de GTP pela flagelina",
-"A contração de filamentos de actina",
-"A polimerização e despolimerização de tubulina"
+"A hidrólise de GTP pela flagelina ao longo do filamento",
+"A contração de filamentos de actina ancorados na parede",
+"A polimerização e despolimerização contínua de tubulina"
 ],
 "e": "O corpo basal funciona como motor rotativo movido pelo fluxo de prótons; o flagelo bacteriano não tem actina nem tubulina."
 },
@@ -6813,12 +8914,12 @@ window.LIVRO.Q.push(...[
 "c": "procariontes",
 "q": "As vacinas contra colibacilose neonatal aplicadas em porcas prenhes contêm antígenos fimbriais (F4/K88, F5/K99). Qual é o mecanismo de proteção dos leitões?",
 "o": [
-"Anticorpos maternos transferidos pelo colostro impedem a adesão da E. coli ao intestino",
-"Os leitões produzem anticorpos ainda no útero contra o LPS",
+"Anticorpos do colostro impedem a adesão da E. coli à mucosa",
+"Os leitões produzem anticorpos contra o LPS ainda no útero",
 "Os anticorpos destroem o peptidoglicano das bactérias no intestino",
 "A vacina elimina os plasmídeos de resistência da E. coli"
 ],
-"e": "As fímbrias prendem a E. coli à mucosa; anticorpos anti-fímbrias do colostro bloqueiam essa adesão."
+"e": "As fímbrias prendem a E. coli à mucosa intestinal; anticorpos maternos anti-fímbrias, transferidos pelo colostro, bloqueiam essa adesão."
 },
 {
 "c": "procariontes",
@@ -6846,32 +8947,32 @@ window.LIVRO.Q.push(...[
 "c": "procariontes",
 "q": "No experimento de Griffith, camundongos morreram após receber pneumococos rugosos vivos misturados com lisos mortos pelo calor. A interpretação correta é:",
 "o": [
-"Algum material dos lisos mortos transformou os rugosos, que passaram a produzir cápsula",
+"Material dos lisos mortos transformou os rugosos em capsulados",
 "As bactérias lisas mortas pelo calor voltaram à vida no camundongo",
 "As rugosas já eram letais, mas não tinham sido testadas isoladamente",
-"O calor transformou a cápsula em endotoxina letal"
+"O calor transformou a cápsula dos lisos em endotoxina letal"
 ],
-"e": "O princípio transformante, depois identificado como DNA por Avery, MacLeod e McCarty, conferiu cápsula e virulência aos rugosos."
+"e": "Algum material dos lisos mortos transformou os rugosos, que passaram a produzir cápsula. Esse princípio transformante, depois identificado como DNA por Avery, MacLeod e McCarty, conferiu cápsula e virulência."
 },
 {
 "c": "procariontes",
 "q": "Em relação à cápsula do Bacillus anthracis, é correto afirmar que:",
 "o": [
-"É de natureza polipeptídica (ácido poli-D-glutâmico), e não polissacarídica",
-"É formada por peptidoglicano espesso com ácidos teicoicos",
-"É uma membrana externa com LPS",
+"É polipeptídica, de ácido poli-D-glutâmico",
+"É de peptidoglicano espesso com ácidos teicoicos",
+"É uma membrana externa rica em LPS",
 "É composta por ácidos micólicos cerosos"
 ],
-"e": "A maioria das cápsulas é polissacarídica, mas a do B. anthracis é de ácido poli-D-glutâmico."
+"e": "A maioria das cápsulas é polissacarídica, mas a do B. anthracis é polipeptídica, de ácido poli-D-glutâmico."
 },
 {
 "c": "procariontes",
 "q": "Como a cápsula aparece na coloração negativa com tinta da China?",
 "o": [
 "Como halo claro ao redor da bactéria, contra fundo escuro",
-"Como camada roxa intensa sobre a parede",
-"Como grânulos escuros dentro do citoplasma",
-"Como filamentos longos saindo da célula"
+"Como camada roxa intensa depositada sobre a parede",
+"Como grânulos escuros espalhados dentro do citoplasma",
+"Como filamentos longos e escuros saindo da célula"
 ],
 "e": "A tinta não penetra a cápsula, que se destaca como halo claro; colônias capsuladas costumam ser mucoides."
 },
@@ -6879,12 +8980,12 @@ window.LIVRO.Q.push(...[
 "c": "procariontes",
 "q": "O ribossomo bacteriano é 70S, formado por subunidades 30S e 50S. Por que 30 + 50 não resulta em 80?",
 "o": [
-"Porque S (Svedberg) mede velocidade de sedimentação, que depende de massa e forma e não é aditiva",
+"Porque S (Svedberg) mede sedimentação, que não é aditiva",
 "Porque parte do RNA ribossômico é perdida ao unir as subunidades",
 "Porque o S representa o número de proteínas, que diminui na montagem",
 "Porque a subunidade 30S se fragmenta durante a tradução"
 ],
-"e": "A unidade Svedberg expressa sedimentação, que não se soma linearmente."
+"e": "A unidade Svedberg expressa velocidade de sedimentação, que depende de massa e forma e não se soma linearmente."
 },
 {
 "c": "procariontes",
@@ -6901,12 +9002,12 @@ window.LIVRO.Q.push(...[
 "c": "procariontes",
 "q": "Qual afirmação sobre o cromossomo de Escherichia coli está de acordo com o capítulo?",
 "o": [
-"É uma molécula de DNA dupla-fita circular e superenovelada, com cerca de 4 milhões de pares de bases",
+"É uma molécula de DNA dupla-fita, circular e superenovelada",
 "É formado por vários cromossomos lineares enrolados em histonas",
-"Fica dentro de um núcleo com envoltório duplo",
+"Fica dentro de um núcleo delimitado por envoltório duplo",
 "Contém apenas genes não essenciais, que podem ser perdidos"
 ],
-"e": "O cromossomo bacteriano fica no nucleoide, é circular, superenovelado e contém os genes essenciais."
+"e": "O cromossomo bacteriano fica no nucleoide, é circular, superenovelado, tem cerca de 4 milhões de pares de bases em E. coli e contém os genes essenciais."
 },
 {
 "c": "procariontes",
@@ -6923,12 +9024,12 @@ window.LIVRO.Q.push(...[
 "c": "procariontes",
 "q": "Por que não se recomenda necropsiar em campo aberto um bovino morto por carbúnculo hemático?",
 "o": [
-"O contato com o ar induz a esporulação do Bacillus anthracis, que contamina o solo por décadas",
-"O ar oxida a cápsula e torna a bactéria gram-negativa",
+"O ar induz a esporulação do B. anthracis, que persiste no solo",
+"O ar oxida a cápsula e torna o B. anthracis gram-negativo",
 "O LPS da bactéria se dispersa no ar e causa endotoxemia nos técnicos",
-"A carcaça aberta perde os plasmídeos de virulência"
+"A carcaça aberta perde os plasmídeos de virulência da bactéria"
 ],
-"e": "Os endósporos resistem a calor, desinfetantes e décadas no solo, mantendo o foco da doença."
+"e": "O contato com o ar induz a esporulação do Bacillus anthracis; os endósporos resistem a calor, desinfetantes e décadas no solo, mantendo o foco da doença."
 },
 {
 "c": "procariontes",
@@ -6967,10 +9068,10 @@ window.LIVRO.Q.push(...[
 "c": "procariontes",
 "q": "Sulfonamidas e trimetoprima têm toxicidade seletiva porque:",
 "o": [
-"A bactéria precisa sintetizar o ácido fólico, enquanto o animal o obtém da dieta",
-"O animal não possui DNA girase",
-"A bactéria não possui membrana plasmática",
-"As células animais não utilizam folato"
+"A bactéria sintetiza o ácido fólico; o animal o obtém da dieta",
+"Os fármacos inibem a DNA girase, enzima ausente nas células animais",
+"A bactéria não possui membrana plasmática, e o fármaco entra livremente",
+"As células animais não utilizam folato em nenhuma via metabólica"
 ],
 "e": "Esses fármacos bloqueiam etapas da via do folato bacteriano: a bactéria precisa sintetizar o ácido fólico, enquanto o animal não o sintetiza e o recebe pronto da dieta (além disso, a trimetoprima tem afinidade muito maior pela enzima bacteriana)."
 },
@@ -6979,9 +9080,9 @@ window.LIVRO.Q.push(...[
 "q": "Qual classe de antimicrobiano tem como alvo a membrana externa/plasmática bacteriana?",
 "o": [
 "Polimixinas, como a colistina",
-"Cefalosporinas",
-"Macrolídeos",
-"Sulfonamidas"
+"Cefalosporinas, como o ceftiofur",
+"Macrolídeos, como a eritromicina",
+"Sulfonamidas, como a sulfadiazina"
 ],
 "e": "As polimixinas exploram a composição lipídica diferente das membranas bacterianas."
 },
@@ -7023,9 +9124,9 @@ window.LIVRO.Q.push(...[
 "q": "Como o capítulo divide o citoplasma da célula eucariótica animal?",
 "o": [
 "Em sistema de endomembranas e citosol",
-"Em nucleoide e periplasma",
-"Em cápsula e parede",
-"Em núcleo e nucléolo"
+"Em nucleoide e espaço periplasmático",
+"Em cápsula, parede e membrana",
+"Em núcleo, nucléolo e carioteca"
 ],
 "e": "O citoplasma tem o sistema de endomembranas (RE, Golgi, endossomos, lisossomos) e o citosol, a parte solúvel."
 },
@@ -7033,12 +9134,12 @@ window.LIVRO.Q.push(...[
 "c": "procariontes",
 "q": "O uso indiscriminado de antimicrobianos na produção animal preocupa no contexto de Saúde Única principalmente porque:",
 "o": [
-"Seleciona bactérias com genes R em plasmídeos que podem passar por conjugação a patógenos humanos",
-"Converte bactérias gram-negativas em gram-positivas",
-"Elimina permanentemente os ribossomos 70S do ambiente",
+"Seleciona plasmídeos de resistência que passam a patógenos humanos",
+"Converte bactérias gram-negativas em gram-positivas resistentes",
+"Elimina permanentemente os ribossomos 70S do ambiente agrícola",
 "Faz as bactérias perderem a parede e se tornarem micoplasmas"
 ],
-"e": "Plasmídeos com genes de resistência se espalham horizontalmente por conjugação, inclusive para bactérias que infectam pessoas."
+"e": "Seleciona bactérias com genes R em plasmídeos, que se espalham horizontalmente por conjugação, inclusive para bactérias que infectam pessoas."
 },
 {
 "c": "replicacao",
@@ -7088,9 +9189,9 @@ window.LIVRO.Q.push(...[
 "c": "replicacao",
 "q": "Por que os cromossomos eucarióticos precisam de milhares de origens de replicação?",
 "o": [
-"Porque a polimerase eucariótica é lenta e, com uma só origem, a fase S levaria semanas",
+"Porque a polimerase é lenta e, com uma só origem, a fase S levaria semanas",
 "Porque cada origem só consegue replicar uma das duas fitas do DNA",
-"Porque a helicase eucariótica abre o DNA em apenas uma direção",
+"Porque a helicase eucariótica abre o DNA em apenas uma direção a partir da origem",
 "Porque cada origem é usada várias vezes no mesmo ciclo celular"
 ],
 "e": "Com cerca de 50 nucleotídeos por segundo e cromossomos de dezenas de milhões de pares de bases, só muitos replicons simultâneos permitem completar a fase S em horas."
@@ -7143,8 +9244,8 @@ window.LIVRO.Q.push(...[
 "c": "replicacao",
 "q": "Por que existe uma fita descontínua na replicação?",
 "o": [
-"Porque as fitas-molde são antiparalelas e a polimerase só sintetiza no sentido 5′→3′",
-"Porque a helicase abre o DNA de modo intermitente, em pequenos trechos",
+"Porque as fitas-molde são antiparalelas e a polimerase só sintetiza 5′→3′",
+"Porque a helicase abre o DNA de modo intermitente, em trechos de poucas centenas de bases",
 "Porque a ligase só consegue unir fragmentos de 100 a 200 nucleotídeos",
 "Porque a primase sintetiza primers apenas em uma das fitas-molde"
 ],
@@ -7155,9 +9256,9 @@ window.LIVRO.Q.push(...[
 "q": "Qual é a função das proteínas ligantes de fita simples (SSB) na forquilha?",
 "o": [
 "Cobrir a fita aberta para que ela não volte a parear nem forme grampos",
-"Romper as pontes de hidrogênio entre as bases das duas fitas",
-"Sintetizar o primer de RNA que inicia cada fragmento",
-"Prender a DNA polimerase ao molde, formando um anel"
+"Romper as pontes de hidrogênio entre as bases das duas fitas parentais",
+"Sintetizar o primer de RNA que inicia cada fragmento de Okazaki",
+"Prender a DNA polimerase ao molde, formando um anel deslizante"
 ],
 "e": "As SSB estabilizam o DNA de fita simples exposto pela helicase, mantendo-o estendido e disponível como molde."
 },
@@ -7232,9 +9333,9 @@ window.LIVRO.Q.push(...[
 "q": "Após a síntese dos fragmentos de Okazaki, quais enzimas retiram os primers de RNA e preenchem o espaço com DNA?",
 "o": [
 "Nuclease (RNase H) e polimerase de reparo",
-"Helicase e proteínas SSB",
-"Primase e topoisomerase I",
-"Telomerase e DNA ligase"
+"Helicase e proteínas ligantes de fita simples",
+"Primase e topoisomerase I da forquilha",
+"Telomerase e DNA ligase dependente de ATP"
 ],
 "e": "A RNase H e outras nucleases removem o RNA dos primers, e uma polimerase preenche a lacuna com DNA antes da ação da ligase."
 },
@@ -7265,9 +9366,9 @@ window.LIVRO.Q.push(...[
 "q": "A DNA polimerase erra cerca de 1 vez a cada 100 mil nucleotídeos. Após a revisão e o reparo de mau pareamento, a taxa de erro final cai para cerca de:",
 "o": [
 "1 em 1 bilhão a 10 bilhões de nucleotídeos",
-"1 em 10 milhões de nucleotídeos",
+"1 em 10 milhões a 100 milhões de nucleotídeos",
 "1 em 1 milhão de nucleotídeos",
-"1 em 10 mil nucleotídeos"
+"1 em 100 mil, igual à taxa sem revisão"
 ],
 "e": "A revisão reduz o erro para cerca de 1 em 10^7 e o reparo de mau pareamento, para cerca de 1 em 10^9 a 10^10."
 },
@@ -7286,8 +9387,8 @@ window.LIVRO.Q.push(...[
 "c": "replicacao",
 "q": "O 'problema das pontas' dos cromossomos lineares ocorre porque:",
 "o": [
-"na extremidade da fita descontínua, o último primer removido não pode ser substituído por DNA",
-"na extremidade da fita contínua, a helicase não consegue abrir a dupla hélice",
+"o último primer da fita descontínua, ao ser removido, não pode ser reposto por DNA",
+"na extremidade da fita contínua, a helicase não consegue abrir a dupla hélice até o fim",
 "a ligase não consegue unir o último fragmento ao telômero do cromossomo",
 "as topoisomerases cortam o DNA nas extremidades a cada ciclo celular"
 ],
@@ -7309,9 +9410,9 @@ window.LIVRO.Q.push(...[
 "q": "Em células somáticas comuns, o encurtamento progressivo dos telômeros a cada divisão tem como consequência:",
 "o": [
 "limitar o número de divisões, levando à senescência",
-"aumentar a fidelidade da DNA polimerase",
-"impedir a formação de fragmentos de Okazaki",
-"acelerar a fase S nas células mais velhas"
+"aumentar a fidelidade da DNA polimerase a cada divisão",
+"impedir a formação de fragmentos de Okazaki na fita descontínua",
+"acelerar a fase S nas células mais velhas do tecido"
 ],
 "e": "Sem telomerase, os telômeros encurtam a cada replicação até um limite que interrompe as divisões (senescência)."
 },
@@ -7331,9 +9432,9 @@ window.LIVRO.Q.push(...[
 "q": "Por que a PCR utiliza a Taq polimerase em vez de uma DNA polimerase de mamífero?",
 "o": [
 "Porque ela resiste às altas temperaturas usadas para separar as fitas",
-"Porque ela não precisa de primers para iniciar a síntese",
-"Porque ela sintetiza DNA no sentido 3′→5′",
-"Porque ela usa RNA como molde em vez de DNA"
+"Porque ela não precisa de primers para iniciar a síntese da nova fita",
+"Porque ela sintetiza DNA no sentido 3′→5′, o que acelera cada ciclo",
+"Porque ela usa RNA como molde em vez de DNA, dispensando a desnaturação"
 ],
 "e": "A Taq vem de bactéria termófila e resiste ao calor repetido de cada ciclo, sem precisar ser reposta."
 },
@@ -7386,9 +9487,9 @@ window.LIVRO.Q.push(...[
 "q": "O aciclovir, usado contra o herpesvírus felino, atua sobre a replicação viral porque:",
 "o": [
 "é um análogo de nucleotídeo que, incorporado, encerra a cadeia de DNA viral",
-"inibe a helicase viral e impede a abertura da forquilha",
-"bloqueia a topoisomerase bacteriana que o vírus utiliza",
-"degrada os primers de RNA sintetizados pela primase viral"
+"inibe a helicase viral e impede a abertura da forquilha de replicação",
+"bloqueia a topoisomerase bacteriana que o vírus utiliza para se replicar",
+"degrada os primers de RNA sintetizados pela primase do próprio vírus"
 ],
 "e": "O aciclovir, fosforilado na célula infectada, é incorporado pela DNA polimerase viral; por não ter a hidroxila 3′ necessária para a ligação seguinte, interrompe a síntese do DNA viral."
 },
@@ -7451,9 +9552,9 @@ window.LIVRO.Q.push(...[
 "c": "traducao",
 "q": "Dizer que o código genético é lido 'sem vírgulas e sem sobreposição' implica que:",
 "o": [
-"a fase de leitura é definida pelo códon de início e segue em trincas consecutivas",
-"cada nucleotídeo participa de três códons vizinhos",
-"existem nucleotídeos espaçadores entre os códons",
+"a fase de leitura é definida pelo códon de início, em trincas seguidas",
+"cada nucleotídeo participa de três códons vizinhos ao mesmo tempo",
+"existem nucleotídeos espaçadores entre os códons de cada gene",
 "o ribossomo pode iniciar a leitura em qualquer base do mRNA"
 ],
 "e": "A partir do AUG, o mRNA é lido em trincas seguidas, sem pular bases nem reutilizá-las; por isso inserções e deleções deslocam a fase."
@@ -7484,10 +9585,10 @@ window.LIVRO.Q.push(...[
 "c": "traducao",
 "q": "Em qual região do tRNA o aminoácido é ligado?",
 "o": [
-"Na extremidade 3′, que termina na sequência CCA",
-"Na alça do anticódon",
-"Na extremidade 5′ fosforilada",
-"Na alça D"
+"Na extremidade 3′, que termina em CCA",
+"Na alça do anticódon, oposta à haste",
+"Na extremidade 5′ fosforilada da molécula",
+"Na alça D, junto ao braço variável"
 ],
 "e": "O aminoácido se liga à haste aceptora, na ponta 3′ terminada em CCA; o anticódon fica na alça oposta."
 },
@@ -7495,12 +9596,12 @@ window.LIVRO.Q.push(...[
 "c": "traducao",
 "q": "Por que as aminoacil-tRNA sintetases são consideradas o verdadeiro 'dicionário' da tradução?",
 "o": [
-"Porque unem cada aminoácido ao tRNA correspondente, e o ribossomo não confere o aminoácido, só o pareamento códon-anticódon",
-"Porque leem o mRNA e escolhem o códon de início",
-"Porque catalisam a ligação peptídica entre aminoácidos vizinhos",
-"Porque transportam o mRNA do núcleo ao citoplasma"
+"Porque unem cada aminoácido ao seu tRNA, e o ribossomo não confere o aminoácido",
+"Porque leem o mRNA e escolhem o códon de início da tradução",
+"Porque catalisam a ligação peptídica entre aminoácidos vizinhos no ribossomo",
+"Porque transportam o mRNA do núcleo ao citoplasma pelos poros nucleares"
 ],
-"e": "Se a sintetase ligar o aminoácido errado ao tRNA, o ribossomo o incorpora sem perceber, pois só verifica o pareamento códon-anticódon."
+"e": "O ribossomo só verifica o pareamento códon-anticódon; se a sintetase ligar o aminoácido errado ao tRNA, ele é incorporado sem que o ribossomo perceba."
 },
 {
 "c": "traducao",
@@ -7517,9 +9618,9 @@ window.LIVRO.Q.push(...[
 "c": "traducao",
 "q": "A oscilação (wobble) no pareamento códon-anticódon explica:",
 "o": [
-"por que cerca de 40 tRNAs bastam para ler os 61 códons de aminoácidos",
-"por que existem três códons de parada",
-"por que o AUG é sempre o códon de início",
+"por que cerca de 40 tRNAs bastam para ler os 61 códons",
+"por que existem três códons de parada no código genético",
+"por que o AUG é sempre o códon de início da tradução",
 "por que a proteína cresce do N para o C-terminal"
 ],
 "e": "O pareamento entre a 3ª base do códon e a 1ª do anticódon é menos rígido, permitindo que um tRNA reconheça mais de um códon."
@@ -7583,7 +9684,7 @@ window.LIVRO.Q.push(...[
 "c": "traducao",
 "q": "Qual é a sequência correta de eventos em um ciclo de alongamento?",
 "o": [
-"Entrada do aminoacil-tRNA no sítio A, ligação peptídica, translocação de um códon",
+"Entrada do aminoacil-tRNA no sítio A, ligação peptídica, translocação",
 "Translocação, ligação peptídica, entrada do aminoacil-tRNA no sítio P",
 "Ligação peptídica, entrada do aminoacil-tRNA no sítio E, translocação",
 "Entrada do aminoacil-tRNA no sítio P, translocação, ligação peptídica"
@@ -7594,10 +9695,10 @@ window.LIVRO.Q.push(...[
 "c": "traducao",
 "q": "Imediatamente após a translocação no alongamento, onde estão os tRNAs?",
 "o": [
-"O tRNA com a cadeia no sítio P, o tRNA vazio no sítio E e o sítio A livre",
-"O tRNA com a cadeia no sítio A, o tRNA vazio no P e o E livre",
+"O tRNA com a cadeia no P, o tRNA vazio no E e o sítio A livre",
+"O tRNA com a cadeia no A, o tRNA vazio no P e o sítio E livre",
 "Os dois tRNAs no sítio P e o A ocupado pelo fator de liberação",
-"O tRNA com a cadeia no sítio E, pronto para sair"
+"O tRNA com a cadeia no sítio E, pronto para sair do ribossomo"
 ],
 "e": "A translocação move o ribossomo um códon: o tRNA peptidil passa ao P, o vazio vai ao E e sai, e o A fica livre para o próximo."
 },
@@ -7605,9 +9706,9 @@ window.LIVRO.Q.push(...[
 "c": "traducao",
 "q": "Na terminação da tradução, quando um códon de parada chega ao sítio A:",
 "o": [
-"um fator de liberação entra no sítio A e faz a enzima adicionar água, liberando a cadeia",
-"um tRNA de parada pareia com o códon e traz um aminoácido final",
-"o ribossomo continua até o fim do mRNA e só então solta a cadeia",
+"um fator de liberação entra no sítio A e a cadeia é solta por hidrólise",
+"um tRNA de parada pareia com o códon e traz um último aminoácido à cadeia",
+"o ribossomo continua até o fim do mRNA e só então solta a cadeia pronta",
 "a subunidade menor degrada o mRNA e a cadeia permanece presa ao tRNA"
 ],
 "e": "Nenhum tRNA reconhece os códons de parada; o fator de liberação provoca a hidrólise da ligação com o tRNA e as subunidades se separam."
@@ -7628,9 +9729,9 @@ window.LIVRO.Q.push(...[
 "q": "Quantas ligações fosfato de alta energia são consumidas, em média, para formar cada ligação peptídica?",
 "o": [
 "4: 2 na ativação do aminoácido e 2 de GTP no alongamento",
-"2: ambas de ATP na ativação do aminoácido",
-"1: apenas o GTP da translocação",
-"6: 2 de ATP e 4 de GTP"
+"2: ambas de ATP, gastas na ativação do aminoácido",
+"1: apenas o GTP gasto na translocação do ribossomo",
+"6: 2 de ATP na ativação e 4 de GTP no alongamento"
 ],
 "e": "A ativação gasta o equivalente a 2 ligações (ATP→AMP) e o alongamento gasta 2 GTPs, tornando a síntese proteica o processo mais caro da célula."
 },
@@ -7682,10 +9783,10 @@ window.LIVRO.Q.push(...[
 "c": "traducao",
 "q": "Qual afirmação sobre o polissomo está correta?",
 "o": [
-"Permite que várias cópias da mesma proteína sejam sintetizadas ao mesmo tempo a partir de um único mRNA",
-"É um ribossomo com várias subunidades maiores acopladas",
+"Permite sintetizar várias cópias da mesma proteína a partir de um mRNA",
+"É um ribossomo com várias subunidades maiores acopladas ao mesmo mRNA",
 "Lê vários mRNAs diferentes ao mesmo tempo em um único ribossomo",
-"Só ocorre em bactérias, que não têm núcleo"
+"Só ocorre em bactérias, que não têm núcleo nem retículo endoplasmático"
 ],
 "e": "Vários ribossomos percorrem o mesmo mRNA simultaneamente, cada um produzindo uma cadeia, o que aumenta a eficiência da síntese."
 },
@@ -7694,9 +9795,9 @@ window.LIVRO.Q.push(...[
 "q": "A insulina é sintetizada como pró-insulina, que só se torna ativa depois de:",
 "o": [
 "cortes proteolíticos, uma modificação pós-traducional",
-"ser glicosilada no núcleo",
-"ter seu mRNA editado no citosol",
-"receber um segundo códon de início"
+"ser glicosilada no núcleo das células beta",
+"ter seu mRNA editado no citosol após a tradução",
+"receber um segundo códon de início no retículo"
 ],
 "e": "Muitas proteínas nascem como precursores inativos e são ativadas por clivagem, como a pró-insulina."
 },
@@ -7705,9 +9806,9 @@ window.LIVRO.Q.push(...[
 "q": "As chaperonas, como hsp70 e hsp60, atuam após a tradução:",
 "o": [
 "auxiliando o dobramento correto das proteínas recém-sintetizadas",
-"marcando proteínas defeituosas com ubiquitina",
-"removendo a metionina inicial",
-"formando pontes dissulfeto no citosol"
+"marcando proteínas defeituosas com ubiquitina para o proteassomo",
+"removendo a metionina inicial da cadeia recém-formada",
+"formando pontes dissulfeto entre cisteínas no citosol"
 ],
 "e": "As chaperonas ajudam a cadeia a atingir a conformação correta e evitam agregação; proteínas que falham são enviadas ao proteassomo."
 },
@@ -7727,9 +9828,9 @@ window.LIVRO.Q.push(...[
 "q": "Em quais compartimentos ocorre a glicosilação das proteínas destinadas à secreção?",
 "o": [
 "Retículo endoplasmático e complexo de Golgi",
-"Núcleo e nucléolo",
-"Citosol e proteassomo",
-"Mitocôndria e peroxissomo"
+"Núcleo e nucléolo, antes da exportação do mRNA",
+"Citosol e proteassomo, logo após a tradução",
+"Mitocôndria e peroxissomo, por importação"
 ],
 "e": "A glicosilação começa no RE e é completada no Golgi, antes da secreção ou da inserção na membrana."
 },
@@ -7748,10 +9849,10 @@ window.LIVRO.Q.push(...[
 "c": "traducao",
 "q": "Os antimicrobianos que atuam no ribossomo bacteriano são relativamente seletivos porque:",
 "o": [
-"o ribossomo bacteriano (70S) difere estruturalmente do ribossomo citosólico animal (80S)",
-"as células animais não realizam tradução no citosol",
-"o código genético bacteriano é diferente do animal",
-"as bactérias não possuem tRNA"
+"o ribossomo bacteriano (70S) difere estruturalmente do animal (80S)",
+"as células animais não realizam tradução no citosol, só no retículo",
+"o código genético bacteriano é diferente do código dos animais",
+"as bactérias não possuem tRNA e leem o mRNA diretamente"
 ],
 "e": "As diferenças entre os ribossomos 70S e 80S permitem atingir a bactéria com menor efeito sobre as células do hospedeiro."
 },
@@ -7793,9 +9894,9 @@ window.LIVRO.Q.push(...[
 "q": "O cloranfenicol foi proibido em animais de produção porque:",
 "o": [
 "resíduos na carne ou no leite podem causar anemia aplástica em humanos",
-"não atinge concentração eficaz em ruminantes",
-"é inativado pelo ribossomo 80S do animal",
-"provoca manchas permanentes nos dentes dos bezerros"
+"não atinge concentração eficaz no rúmen e é destruído pela microbiota",
+"é inativado pelo ribossomo 80S do animal antes de agir na bactéria",
+"provoca manchas permanentes nos dentes dos bezerros em crescimento"
 ],
 "e": "Por agir também na tradução mitocondrial, o cloranfenicol pode lesar a medula óssea, e resíduos em alimentos expõem o consumidor ao risco de anemia aplástica."
 },
@@ -7815,9 +9916,9 @@ window.LIVRO.Q.push(...[
 "q": "Na versão atualizada do dogma central, qual fluxo de informação continua sendo considerado impossível?",
 "o": [
 "Da proteína para o ácido nucleico",
-"Do RNA para o DNA",
-"Do RNA para o RNA",
-"Do DNA para o DNA"
+"Do RNA para o DNA, por transcrição reversa",
+"Do RNA para o RNA, na replicação viral",
+"Do DNA para o DNA, na replicação"
 ],
 "e": "A transcrição reversa e a replicação de RNA foram incorporadas ao dogma, mas a proteína nunca volta a informar a sequência de um ácido nucleico."
 },
@@ -7847,12 +9948,12 @@ window.LIVRO.Q.push(...[
 "c": "transcricao",
 "q": "O arroz tem cerca de 55 mil genes codificadores de proteína, enquanto o bovino tem cerca de 22 mil. O que isso indica?",
 "o": [
-"A complexidade depende de quando, onde e quanto os genes são expressos, não do número de genes",
+"A complexidade depende da regulação da expressão, não do número de genes",
 "Plantas são organismos mais complexos que mamíferos por terem mais genes",
 "O genoma bovino perdeu genes por seleção artificial durante a domesticação",
 "Genes de mamíferos são maiores e por isso existem em menor número"
 ],
-"e": "O número de genes não mede complexidade; o que importa é a regulação da expressão e o splicing alternativo, que gera várias proteínas por gene."
+"e": "O número de genes não mede complexidade; o que importa é quando, onde e quanto os genes são expressos, além do splicing alternativo, que gera várias proteínas por gene."
 },
 {
 "c": "transcricao",
@@ -7869,10 +9970,10 @@ window.LIVRO.Q.push(...[
 "c": "transcricao",
 "q": "A RNA polimerase I eucariótica é responsável pela transcrição:",
 "o": [
-"dos RNAs ribossômicos grandes (28S, 18S e 5,8S), no nucléolo",
-"de todos os mRNAs que codificam proteínas",
-"dos tRNAs e do rRNA 5S",
-"dos microRNAs e snRNAs do spliceossomo"
+"dos RNAs ribossômicos grandes (28S, 18S e 5,8S)",
+"de todos os mRNAs que codificam proteínas no núcleo",
+"dos tRNAs e do rRNA 5S fora do nucléolo",
+"dos microRNAs e dos snRNAs do spliceossomo"
 ],
 "e": "A polimerase I atua no nucléolo e transcreve o precursor dos rRNAs grandes; a II faz os mRNAs e a III, tRNAs e rRNA 5S."
 },
@@ -7913,7 +10014,7 @@ window.LIVRO.Q.push(...[
 "c": "transcricao",
 "q": "Durante a iniciação da transcrição pela RNA polimerase II, o fator TFIIH:",
 "o": [
-"abre a dupla hélice e fosforila a cauda da polimerase, liberando-a para transcrever",
+"abre a dupla hélice e fosforila a cauda da polimerase",
 "reconhece o TATA box e dobra o DNA para recrutar os demais fatores",
 "adiciona o quepe de 7-metilguanosina ao RNA recém-sintetizado",
 "corta o RNA após o sinal de poliadenilação e libera a polimerase"
@@ -7946,10 +10047,10 @@ window.LIVRO.Q.push(...[
 "c": "transcricao",
 "q": "Nos eucariontes, a terminação da transcrição de um gene de proteína está ligada:",
 "o": [
-"ao sinal de poliadenilação AAUAAA, após o qual o RNA é cortado",
+"ao sinal AAUAAA, após o qual o RNA é cortado",
 "ao códon de término UAA, que desliga a RNA polimerase",
 "ao TATA box presente no fim de cada gene",
-"à chegada da polimerase ao próximo telômero"
+"à chegada da polimerase ao telômero mais próximo"
 ],
 "e": "Depois do sinal AAUAAA, o RNA é clivado e poliadenilado, e a polimerase se solta um pouco mais adiante."
 },
@@ -7968,7 +10069,7 @@ window.LIVRO.Q.push(...[
 "c": "transcricao",
 "q": "A RNA polimerase quase não revisa o que sintetiza e erra mais que a DNA polimerase. Por que isso é tolerável para a célula?",
 "o": [
-"Porque o RNA é uma molécula temporária e muitas cópias são produzidas a partir do gene",
+"Porque o RNA é temporário e muitas cópias são feitas a partir do gene",
 "Porque os erros do RNA são corrigidos depois pelo reparo de mau pareamento",
 "Porque os ribossomos corrigem os erros do mRNA durante a tradução",
 "Porque os erros do RNA são copiados de volta para o DNA e eliminados"
@@ -7980,8 +10081,8 @@ window.LIVRO.Q.push(...[
 "q": "O quepe adicionado à extremidade 5′ do pré-mRNA consiste em:",
 "o": [
 "uma 7-metilguanosina ligada de forma invertida (5′-5′)",
-"uma sequência de cerca de 200 adeninas",
-"uma adenina do íntron ligada em forma de laço",
+"uma sequência de cerca de 200 adeninas na ponta 5′",
+"uma adenina do íntron ligada ao éxon em forma de laço",
 "um primer de RNA com cerca de 10 nucleotídeos"
 ],
 "e": "O quepe é uma guanina metilada ligada por ponte trifosfato 5′-5′, que protege o mRNA e é reconhecida pelo ribossomo."
@@ -8034,10 +10135,10 @@ window.LIVRO.Q.push(...[
 "c": "transcricao",
 "q": "Um gene de 20 éxons gera, no músculo, uma proteína diferente daquela produzida no fígado, sem nenhuma alteração na sequência do DNA. O mecanismo mais provável é:",
 "o": [
-"splicing alternativo do pré-mRNA, incluindo ou excluindo éxons",
-"mutação somática diferente em cada tecido",
+"splicing alternativo do pré-mRNA, variando os éxons mantidos",
+"mutação somática diferente em cada tecido durante o desenvolvimento",
 "uso de fitas-molde diferentes do DNA em cada tecido",
-"troca da RNA polimerase II pela III no músculo"
+"troca da RNA polimerase II pela III no tecido muscular"
 ],
 "e": "O splicing alternativo combina éxons de formas diferentes, gerando proteínas distintas a partir de um mesmo gene em tecidos diferentes."
 },
@@ -8046,9 +10147,9 @@ window.LIVRO.Q.push(...[
 "q": "Uma mutação que altera o sítio de splicing de um gene pode causar doença genética mesmo sem modificar nenhum códon porque:",
 "o": [
 "altera quais sequências são removidas ou mantidas no mRNA maduro",
-"impede que a RNA polimerase reconheça o TATA box",
-"faz o DNA perder a complementaridade entre as fitas",
-"bloqueia a adição de nucleotídeos pela DNA polimerase"
+"impede que a RNA polimerase reconheça o TATA box do promotor",
+"faz o DNA perder a complementaridade entre as duas fitas",
+"bloqueia a adição de nucleotídeos pela DNA polimerase na fase S"
 ],
 "e": "Com o sítio alterado, íntrons podem ser mantidos ou éxons perdidos, produzindo uma proteína anormal ou ausente."
 },
@@ -8089,10 +10190,10 @@ window.LIVRO.Q.push(...[
 "c": "transcricao",
 "q": "MicroRNAs e siRNAs regulam a expressão gênica porque:",
 "o": [
-"silenciam mRNAs específicos, bloqueando sua tradução ou causando sua degradação",
-"ligam-se ao promotor e recrutam a RNA polimerase II",
-"atuam como adaptadores entre códons e aminoácidos",
-"catalisam a ligação peptídica no ribossomo"
+"silenciam mRNAs específicos, bloqueando a tradução ou degradando-os",
+"ligam-se ao promotor e recrutam a RNA polimerase II para o gene",
+"atuam como adaptadores entre os códons e os aminoácidos",
+"catalisam a ligação peptídica no centro do ribossomo"
 ],
 "e": "miRNAs e siRNAs pareiam com mRNAs-alvo e levam ao bloqueio da tradução ou à degradação, regulando a expressão após a transcrição."
 },
@@ -8122,10 +10223,10 @@ window.LIVRO.Q.push(...[
 "c": "transcricao",
 "q": "Os potenciadores são sequências reguladoras que:",
 "o": [
-"ligam fatores de transcrição e podem atuar a milhares de pares de bases do gene",
+"ligam fatores de transcrição e podem agir a milhares de bases do gene",
 "ficam sempre de 25 a 30 nucleotídeos antes do ponto de início",
 "correspondem aos éxons que são unidos durante o splicing",
-"são o sinal de corte para a adição da cauda poli-A"
+"são o sinal de corte para a adição da cauda poli-A no mRNA"
 ],
 "e": "Potenciadores ligam fatores de transcrição específicos e podem estar muito distantes do gene, recrutando ou bloqueando a maquinaria."
 },
@@ -8184,4 +10285,4 @@ window.LIVRO.Q.push(...[
 ],
 "e": "Gene é o segmento de DNA transcrito num RNA funcional, que pode ser mRNA ou RNAs não codificantes como tRNA, rRNA e miRNA."
 }
-]);
+];

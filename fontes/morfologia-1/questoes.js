@@ -1,5 +1,2964 @@
-/* Banco ampliado de questões (sorteio sem repetição). Formato: {c, q, o:[certa, ...erradas], e} */
-window.LIVRO.Q.push(...[
+/* Banco de questões do livro (sorteio sem repetição no app). Formato: {c, q, o:[certa, ...erradas], e} */
+window.LIVRO.Q=[
+{
+"c": "esqueleto",
+"q": "O osso peniano do cão pertence a qual divisão do esqueleto?",
+"o": [
+"Visceral (esplâncnico)",
+"Axial",
+"Apendicular",
+"Cíngulo pélvico"
+],
+"e": "Ossos que se formam dentro de vísceras e não se articulam com o resto do esqueleto são viscerais: osso peniano, osso do coração (bovino), osso rostral (suíno)."
+},
+{
+"c": "esqueleto",
+"q": "No adulto, a medula óssea amarela fica principalmente:",
+"o": [
+"Na cavidade medular da diáfise dos ossos longos",
+"Nas epífises, entre as trabéculas do osso esponjoso",
+"No periósteo que reveste a superfície da diáfise",
+"No disco epifisário, entre a epífise e a metáfise"
+],
+"e": "A amarela (gordura) ocupa a cavidade medular da diáfise; a vermelha fica no esponjoso das epífises."
+},
+{
+"c": "esqueleto",
+"q": "Carpo e tarso são classificados como ossos:",
+"o": [
+"Curtos",
+"Planos",
+"Longos",
+"Irregulares"
+],
+"e": "Dimensões semelhantes nas três direções; função de difundir a concussão. (Sesamoides têm categoria própria na apostila.)"
+},
+{
+"c": "esqueleto",
+"q": "A escápula é um exemplo de osso:",
+"o": [
+"Plano",
+"Curto",
+"Longo",
+"Irregular"
+],
+"e": "Expandida em duas direções, serve de inserção muscular."
+},
+{
+"c": "esqueleto",
+"q": "“Região próxima ao côndilo onde se inserem os ligamentos colaterais” define:",
+"o": [
+"Epicôndilo",
+"Tuberosidade",
+"Fóvea",
+"Tróclea"
+],
+"e": "Epicôndilo = ao lado do côndilo, para os colaterais."
+},
+{
+"c": "esqueleto",
+"q": "A artéria nutrícia entra no osso pelo:",
+"o": [
+"Forame nutrício",
+"Canal de Havers",
+"Forame magno",
+"Sulco intertubercular"
+],
+"e": "Cada osso tem seu forame nutrício. Os ossos recebem cerca de 10% do débito cardíaco."
+},
+{
+"c": "esqueleto",
+"q": "Qual estrutura é capaz de formar tecido ósseo e é essencial para consolidar fraturas?",
+"o": [
+"Periósteo",
+"Cartilagem articular",
+"Medula amarela",
+"Ligamento colateral"
+],
+"e": "Membrana fibrosa de alta celularidade, com células osteoprogenitoras na camada interna."
+},
+{
+"c": "esqueleto",
+"q": "Fórmula vertebral dos carnívoros:",
+"o": [
+"C7 T13 L7 S3 Ca20–23",
+"C7 T18 L6 S5 Ca15–21",
+"C7 T13 L6 S5 Ca18–20",
+"C7 T14–15 L6–7 S4 Ca20–23"
+],
+"e": "Carnívoro: 13-7-3. Equino tem 18 torácicas; bovino L6 S5; suíno T14–15."
+},
+{
+"c": "esqueleto",
+"q": "Quantas vértebras torácicas tem o equino?",
+"o": [
+"18",
+"13",
+"14",
+"15"
+],
+"e": "O cavalo é o campeão: 18 torácicas e 18 pares de costelas."
+},
+{
+"c": "esqueleto",
+"q": "Um Pug tem crânio:",
+"o": [
+"Braquicefálico",
+"Dolicocefálico",
+"Mesocefálico",
+"Pneumático"
+],
+"e": "Curto e largo. Dolicocefálico = Collie, Borzoi; mesocefálico = Pastor Alemão."
+},
+{
+"c": "esqueleto",
+"q": "A camada mais profunda da cartilagem articular é:",
+"o": [
+"Calcificada",
+"Recoberta por pericôndrio",
+"Formada por fibrocartilagem",
+"Vascularizada"
+],
+"e": "Segundo a conferência: lisa, não uniforme e calcificada na camada mais profunda."
+},
+{
+"c": "osseo",
+"q": "Qual célula sintetiza a parte orgânica da matriz óssea (osteoide)?",
+"o": [
+"Osteoblasto",
+"Osteócito",
+"Osteoclasto",
+"Condrócito"
+],
+"e": "Colágeno tipo I, proteoglicanas e glicoproteínas. Fica na superfície, como epitélio simples."
+},
+{
+"c": "osseo",
+"q": "Célula gigante, multinucleada, dentro da lacuna de Howship:",
+"o": [
+"Osteoclasto",
+"Osteoblasto",
+"Osteócito",
+"Célula osteoprogenitora"
+],
+"e": "6 a 50 núcleos; reabsorve a matriz."
+},
+{
+"c": "osseo",
+"q": "O osteoclasto se origina de:",
+"o": [
+"Monócitos do sangue",
+"Células osteoprogenitoras",
+"Condroblastos",
+"Osteócitos"
+],
+"e": "Fusão de monócitos. Por isso não é da mesma linhagem do osteoblasto."
+},
+{
+"c": "osseo",
+"q": "A função do osteócito é:",
+"o": [
+"Manutenção da matriz óssea",
+"Reabsorver o osso",
+"Produzir calcitonina",
+"Defesa imunológica"
+],
+"e": "Preso na lacuna, comunica-se pelos canalículos e mantém a matriz."
+},
+{
+"c": "osseo",
+"q": "O principal componente inorgânico da matriz óssea é:",
+"o": [
+"Hidroxiapatita",
+"Colágeno tipo I",
+"Proteoglicanos",
+"Condroitina"
+],
+"e": "Cristais de fosfato de cálcio [Ca₁₀(PO₄)₆(OH)₂], com bicarbonato, citrato, Mg, Na, K."
+},
+{
+"c": "osseo",
+"q": "A rigidez do osso é dada principalmente:",
+"o": [
+"Pela fase mineral (inorgânica)",
+"Pelo colágeno tipo I da matriz",
+"Pelo periósteo que envolve o osso",
+"Pela medula óssea da cavidade"
+],
+"e": "Mineral = rigidez; colágeno = elasticidade."
+},
+{
+"c": "osseo",
+"q": "Os canais que correm ao longo do eixo do osso, no centro dos ósteons, são:",
+"o": [
+"Canais de Havers",
+"Canais de Volkmann",
+"Canalículos",
+"Lacunas de Howship"
+],
+"e": "Volkmann são transversais (perfurantes) e ligam os de Havers."
+},
+{
+"c": "osseo",
+"q": "O periósteo e o endósteo são, respectivamente, tecido conjuntivo:",
+"o": [
+"Denso e frouxo",
+"Frouxo e denso",
+"Denso e denso",
+"Cartilaginoso e frouxo"
+],
+"e": "Periósteo = TCD; endósteo = TC frouxo."
+},
+{
+"c": "osseo",
+"q": "Os ossos chatos do crânio se formam por ossificação:",
+"o": [
+"Intramembranosa",
+"Endocondral",
+"Sincondral",
+"Pericondral"
+],
+"e": "Frontal, parietal, parte do occipital, maxila e mandíbula."
+},
+{
+"c": "osseo",
+"q": "O crescimento do osso longo em comprimento acontece:",
+"o": [
+"No disco epifisário, por ossificação endocondral",
+"No periósteo, por ossificação intramembranosa",
+"No canal medular",
+"Nos canais de Volkmann"
+],
+"e": "A placa de cartilagem hialina entre epífise e diáfise."
+},
+{
+"c": "osseo",
+"q": "No disco epifisário, a zona em que os condrócitos aumentam muito de volume é a:",
+"o": [
+"Hipertrófica",
+"Seriada",
+"De repouso",
+"De ossificação"
+],
+"e": "Repouso → seriada → hipertrófica → calcificada → ossificação."
+},
+{
+"c": "osseo",
+"q": "Sobre o tecido ósseo primário, é correto:",
+"o": [
+"Aparece na reparação de fraturas e é temporário",
+"Tem lamelas concêntricas em sistemas de Havers",
+"É mais mineralizado que o secundário",
+"Tem menos osteócitos que o secundário"
+],
+"e": "Fibras desorganizadas, pouco mineral, mais osteócitos; depois é substituído pelo secundário."
+},
+{
+"c": "osseo",
+"q": "Primeiro evento após uma fratura:",
+"o": [
+"Formação de hematoma e inflamação",
+"Formação imediata do calo ósseo",
+"Remodelação das extremidades ósseas",
+"Deposição de osso lamelar novo"
+],
+"e": "Hematoma (tampão) → calo → osso novo → remodelação."
+},
+{
+"c": "osseo",
+"q": "Na osteoporose:",
+"o": [
+"A atividade dos osteoclastos supera a dos osteoblastos",
+"A atividade dos osteoblastos supera a dos osteoclastos",
+"Os osteócitos se multiplicam",
+"O periósteo deixa de existir"
+],
+"e": "Reabsorve-se mais do que se forma."
+},
+{
+"c": "osseo",
+"q": "As células osteoprogenitoras:",
+"o": [
+"São achatadas e se dividem originando osteoblastos",
+"São multinucleadas e reabsorvem a matriz óssea",
+"Ficam presas em lacunas dentro da matriz calcificada",
+"Produzem paratormônio quando o cálcio sanguíneo cai"
+],
+"e": "Reserva de células ósseas, no periósteo e endósteo."
+},
+{
+"c": "osseo",
+"q": "Um osso descalcificado em laboratório:",
+"o": [
+"Fica flexível, mas mantém a forma",
+"Fica quebradiço e esfarela",
+"Perde o colágeno",
+"Ganha hidroxiapatita"
+],
+"e": "Sem mineral, sobra o colágeno: flexível."
+},
+{
+"c": "tireoide",
+"q": "A calcitonina é produzida por:",
+"o": [
+"Células parafoliculares da tireoide",
+"Células principais da paratireoide",
+"Células foliculares da tireoide",
+"Osteoclastos"
+],
+"e": "Diminui o cálcio no sangue, inibindo o osteoclasto."
+},
+{
+"c": "tireoide",
+"q": "O paratormônio (PTH):",
+"o": [
+"Aumenta o cálcio no sangue estimulando a reabsorção óssea",
+"Diminui o cálcio no sangue estimulando a deposição de osso novo",
+"É produzido pelas células parafoliculares da tireoide",
+"É armazenado no coloide dos folículos tireoidianos"
+],
+"e": "Produzido pelas células principais da paratireoide quando o cálcio está baixo."
+},
+{
+"c": "tireoide",
+"q": "O coloide do folículo tireoidiano:",
+"o": [
+"É acidófilo (rosa) e armazena T3/T4",
+"É basófilo (azul) e produz PTH",
+"Fica fora do folículo, no interstício",
+"É produzido pelas células C (parafoliculares) da tireoide"
+],
+"e": "Produzido pelas células foliculares."
+},
+{
+"c": "tireoide",
+"q": "A paratireoide é chamada de glândula:",
+"o": [
+"Cordonal",
+"Folicular",
+"Acinosa",
+"Tubular"
+],
+"e": "Células em cordões, “colar de pérolas”; basófila."
+},
+{
+"c": "cartilagem",
+"q": "A cartilagem do pavilhão da orelha é:",
+"o": [
+"Elástica",
+"Hialina",
+"Fibrosa",
+"Calcificada"
+],
+"e": "Também epiglote e tuba auditiva."
+},
+{
+"c": "cartilagem",
+"q": "A cartilagem da traqueia é:",
+"o": [
+"Hialina",
+"Elástica",
+"Fibrosa",
+"Óssea"
+],
+"e": "O tipo mais comum."
+},
+{
+"c": "cartilagem",
+"q": "O disco intervertebral é formado por cartilagem:",
+"o": [
+"Fibrosa",
+"Hialina",
+"Elástica",
+"Articular"
+],
+"e": "Também meniscos e sínfise púbica."
+},
+{
+"c": "cartilagem",
+"q": "Qual cartilagem NÃO possui pericôndrio?",
+"o": [
+"Fibrosa",
+"Elástica",
+"Hialina da traqueia",
+"Hialina da laringe"
+],
+"e": "A fibrosa não tem; a hialina articular também não."
+},
+{
+"c": "cartilagem",
+"q": "Grupo isógeno é:",
+"o": [
+"Um conjunto de condrócitos originados de uma única célula",
+"A camada interna (condrogênica) do pericôndrio fibroso",
+"Um feixe de fibras elásticas da cartilagem elástica",
+"Um tipo de matriz interterritorial entre as lacunas"
+],
+"e": "Resultado de mitoses dentro da matriz."
+},
+{
+"c": "cartilagem",
+"q": "O pericôndrio é classificado como:",
+"o": [
+"Tecido conjuntivo denso",
+"Tecido conjuntivo frouxo",
+"Tecido epitelial",
+"Tecido cartilaginoso fibroso"
+],
+"e": "Camada externa fibrosa e interna condrogênica."
+},
+{
+"c": "cartilagem",
+"q": "O colágeno característico da cartilagem hialina é o tipo:",
+"o": [
+"II",
+"I",
+"III",
+"IV"
+],
+"e": "A fibrosa é a que tem colágeno tipo I abundante."
+},
+{
+"c": "articulacoes",
+"q": "A sutura interfrontal é do tipo:",
+"o": [
+"Serrada",
+"Plana",
+"Escamosa",
+"Gonfose"
+],
+"e": "Bordas denteadas. Internasal = plana; frontolacrimal = escamosa."
+},
+{
+"c": "articulacoes",
+"q": "A sutura frontolacrimal, com bordas encaixadas em bisel, é:",
+"o": [
+"Escamosa",
+"Serrada",
+"Plana",
+"Sindesmose"
+],
+"e": "Escamosa = bisel."
+},
+{
+"c": "articulacoes",
+"q": "A união entre a raiz do dente e o alvéolo é uma:",
+"o": [
+"Gonfose",
+"Sindesmose",
+"Sincondrose",
+"Sínfise"
+],
+"e": "Fibrosa; não é articulação verdadeira porque o dente não é parte do esqueleto."
+},
+{
+"c": "articulacoes",
+"q": "A sínfise pélvica é uma articulação:",
+"o": [
+"Cartilaginosa, com cartilagem fibrosa",
+"Fibrosa do tipo sutura",
+"Sinovial plana",
+"Cartilaginosa, com cartilagem hialina"
+],
+"e": "Sínfise = fibrocartilagem; sincondrose = hialina."
+},
+{
+"c": "articulacoes",
+"q": "O disco epifisário, visto como articulação, é uma:",
+"o": [
+"Sincondrose",
+"Sínfise",
+"Sindesmose",
+"Diartrose"
+],
+"e": "Temporária, cartilagem hialina."
+},
+{
+"c": "articulacoes",
+"q": "Quem produz o líquido sinovial?",
+"o": [
+"A membrana sinovial (camada interna da cápsula)",
+"A camada fibrosa (externa) da cápsula articular",
+"A cartilagem articular que recobre os ossos",
+"Os meniscos fibrocartilaginosos da articulação"
+],
+"e": "É um dialisado do plasma."
+},
+{
+"c": "articulacoes",
+"q": "Ligamentos unem:",
+"o": [
+"Osso a osso",
+"Músculo a osso",
+"Músculo a músculo",
+"Cartilagem a músculo"
+],
+"e": "Tendão une músculo a osso."
+},
+{
+"c": "articulacoes",
+"q": "A articulação atlantoaxial é do tipo:",
+"o": [
+"Trocóide (pivô)",
+"Gínglimo",
+"Esferóide",
+"Plana"
+],
+"e": "A articulação do “NÃO”."
+},
+{
+"c": "articulacoes",
+"q": "A articulação coxofemoral é:",
+"o": [
+"Esferóide e triaxial",
+"Gínglimo e monoaxial",
+"Plana e biaxial",
+"Trocóide e monoaxial"
+],
+"e": "Bola e soquete: maior amplitude."
+},
+{
+"c": "articulacoes",
+"q": "O cotovelo é exemplo de:",
+"o": [
+"Gínglimo (dobradiça)",
+"Trocóide (pivô)",
+"Esferóide (bola e soquete)",
+"Artródia (plana)"
+],
+"e": "Flexão e extensão."
+},
+{
+"c": "articulacoes",
+"q": "A estabilidade craniocaudal do joelho é dada pelos ligamentos:",
+"o": [
+"Cruzados",
+"Colaterais",
+"Patelares",
+"Meniscotibiais"
+],
+"e": "Colaterais dão a estabilidade lateral."
+},
+{
+"c": "articulacoes",
+"q": "Afastar a extremidade do plano mediano é:",
+"o": [
+"Abdução",
+"Adução",
+"Flexão",
+"Extensão"
+],
+"e": "Adução aproxima."
+},
+{
+"c": "articulacoes",
+"q": "A ATM é citada como exemplo de articulação:",
+"o": [
+"Biaxial",
+"Monoaxial",
+"Triaxial",
+"Fibrosa"
+],
+"e": "Flexão, extensão, adução e abdução."
+},
+{
+"c": "cranio",
+"q": "O forame magno pertence ao osso:",
+"o": [
+"Occipital",
+"Esfenoide",
+"Temporal",
+"Parietal"
+],
+"e": "Por ele passa a medula espinhal."
+},
+{
+"c": "cranio",
+"q": "A bula timpânica pertence ao osso:",
+"o": [
+"Temporal",
+"Occipital",
+"Esfenoide",
+"Zigomático"
+],
+"e": "Parte timpânica do temporal."
+},
+{
+"c": "cranio",
+"q": "Quem divide as coanas?",
+"o": [
+"Vômer",
+"Etmoide",
+"Palatino",
+"Nasal"
+],
+"e": "Parte ventral do septo nasal."
+},
+{
+"c": "cranio",
+"q": "As conchas nasais são __ e os meatos nasais são __.",
+"o": [
+"ossos (etmoide); espaços",
+"espaços; ossos",
+"cartilagens; ossos",
+"ossos (vômer); cartilagens"
+],
+"e": "Conchas = ossos; meatos = espaços."
+},
+{
+"c": "cranio",
+"q": "A fossa hipofisária fica no:",
+"o": [
+"Esfenoide",
+"Etmoide",
+"Frontal",
+"Occipital"
+],
+"e": "Aloja a hipófise."
+},
+{
+"c": "cranio",
+"q": "O forame mentoniano fica:",
+"o": [
+"Na face lateral do corpo da mandíbula",
+"Na face medial do ramo da mandíbula",
+"Na maxila",
+"No frontal"
+],
+"e": "O forame mandibular é que fica na face medial do ramo."
+},
+{
+"c": "cranio",
+"q": "A crista facial do equino começa na __ e continua no __.",
+"o": [
+"maxila; zigomático",
+"frontal; temporal",
+"nasal; lacrimal",
+"incisivo; maxila"
+],
+"e": "Relevo horizontal acima dos molares."
+},
+{
+"c": "coluna",
+"q": "O dente (processo odontoide) pertence:",
+"o": [
+"Ao áxis",
+"Ao atlas",
+"À primeira torácica",
+"Ao sacro"
+],
+"e": "O atlas tem a fóvea do dente."
+},
+{
+"c": "coluna",
+"q": "Forame alar e forame vertebral lateral são típicos:",
+"o": [
+"Do atlas",
+"Do áxis",
+"Das lombares",
+"Do sacro"
+],
+"e": "C1."
+},
+{
+"c": "coluna",
+"q": "Fóveas costais cranial e caudal no corpo vertebral identificam vértebras:",
+"o": [
+"Torácicas",
+"Cervicais",
+"Lombares",
+"Caudais"
+],
+"e": "Articulam com a cabeça da costela."
+},
+{
+"c": "coluna",
+"q": "Processos transversos longos e achatados são marca das vértebras:",
+"o": [
+"Lombares",
+"Torácicas",
+"Cervicais",
+"Caudais"
+],
+"e": "Parecem asas."
+},
+{
+"c": "coluna",
+"q": "O tubérculo da costela se articula com:",
+"o": [
+"O processo transverso da vértebra torácica",
+"O corpo da vértebra torácica correspondente",
+"A borda lateral do esterno",
+"O processo espinhoso da vértebra torácica"
+],
+"e": "A cabeça vai no corpo (fóveas costais)."
+},
+{
+"c": "coluna",
+"q": "As três partes do esterno, de cranial para caudal:",
+"o": [
+"Manúbrio, corpo, processo xifoide",
+"Corpo, manúbrio, processo xifoide",
+"Processo xifoide, corpo, manúbrio",
+"Manúbrio, processo xifoide, corpo"
+],
+"e": "Formado por esternebras."
+},
+{
+"c": "cranio",
+"q": "A única articulação realmente móvel do crânio é entre:",
+"o": [
+"Mandíbula e temporal",
+"Frontal e parietal",
+"Occipital e atlas",
+"Nasal e incisivo"
+],
+"e": "ATM. As demais são suturas."
+},
+{
+"c": "toracico",
+"q": "O acrômio é uma estrutura da:",
+"o": [
+"Escápula",
+"Ulna",
+"Úmero",
+"Pelve"
+],
+"e": "Extremidade distal da espinha da escápula."
+},
+{
+"c": "toracico",
+"q": "O tubérculo intermédio do úmero é característico do:",
+"o": [
+"Equino",
+"Cão",
+"Gato",
+"Suíno"
+],
+"e": "Por isso o equino tem dois sulcos intertuberculares."
+},
+{
+"c": "toracico",
+"q": "O processo ancôneo pertence à __ e encaixa na __.",
+"o": [
+"ulna; fossa do olécrano",
+"rádio; fossa radial",
+"ulna; fossa radial",
+"úmero; incisura troclear"
+],
+"e": "No topo da incisura troclear."
+},
+{
+"c": "toracico",
+"q": "O processo estiloide lateral pertence:",
+"o": [
+"À ulna",
+"Ao rádio",
+"Ao úmero",
+"Ao carpo ulnar"
+],
+"e": "O medial é do rádio."
+},
+{
+"c": "toracico",
+"q": "O carpo acessório está na:",
+"o": [
+"Fileira proximal do carpo",
+"Fileira distal do carpo",
+"Fileira proximal do tarso",
+"Metacarpo"
+],
+"e": "Junto com radial, intermédio e ulnar."
+},
+{
+"c": "toracico",
+"q": "No equino, o metacarpo principal é o:",
+"o": [
+"III",
+"II",
+"IV",
+"III e IV fundidos"
+],
+"e": "II e IV são rudimentares. Fundidos III e IV = bovino."
+},
+{
+"c": "toracico",
+"q": "Em qual espécie a ulna vai só até o meio do antebraço?",
+"o": [
+"Equino",
+"Bovino",
+"Cão",
+"Gato"
+],
+"e": "Bovino e carnívoros têm ulna completa."
+},
+{
+"c": "toracico",
+"q": "A fossa do olécrano fica na face __ do úmero.",
+"o": [
+"caudal",
+"cranial",
+"medial",
+"lateral"
+],
+"e": "A fossa radial é cranial."
+},
+{
+"c": "pelvico",
+"q": "O terceiro trocânter é marcante no fêmur do:",
+"o": [
+"Equino",
+"Cão",
+"Bovino",
+"Gato"
+],
+"e": "Fica na diáfise, lateral."
+},
+{
+"c": "pelvico",
+"q": "A tuberosidade isquiática pertence ao:",
+"o": [
+"Ísquio",
+"Ílio",
+"Púbis",
+"Sacro"
+],
+"e": "É a “ponta da nádega”."
+},
+{
+"c": "pelvico",
+"q": "A tuberosidade coxal (ponta do quadril) pertence ao:",
+"o": [
+"Ílio",
+"Ísquio",
+"Púbis",
+"Fêmur"
+],
+"e": "Lateral; a sacral é medial."
+},
+{
+"c": "pelvico",
+"q": "No cão, o maléolo lateral é:",
+"o": [
+"Fibular",
+"Tibial",
+"Ausente",
+"Do calcâneo"
+],
+"e": "Equino e bovino: tibial. Cão e suíno: fibular."
+},
+{
+"c": "pelvico",
+"q": "Calcâneo e tálus formam a __ fileira do tarso.",
+"o": [
+"1ª (proximal)",
+"2ª",
+"3ª",
+"fileira acessória"
+],
+"e": "2ª = central; 3ª = 1º a 4º tarsianos."
+},
+{
+"c": "pelvico",
+"q": "Na fóvea da cabeça do fêmur se prende:",
+"o": [
+"O ligamento da cabeça do fêmur",
+"O ligamento cruzado cranial",
+"O tendão patelar",
+"O músculo glúteo"
+],
+"e": "Liga a cabeça ao acetábulo."
+},
+{
+"c": "pelvico",
+"q": "O acetábulo é formado por:",
+"o": [
+"Ílio, ísquio e púbis",
+"Ílio e sacro",
+"Ísquio e fêmur",
+"Púbis e sacro"
+],
+"e": "Ponto de encontro dos três ossos do coxal."
+},
+{
+"c": "pelvico",
+"q": "A patela desliza sobre:",
+"o": [
+"A tróclea do fêmur",
+"Os côndilos do fêmur",
+"O platô tibial",
+"A fossa intercondilar"
+],
+"e": "Côndilos articulam com a tíbia."
+},
+{
+"c": "pelvico",
+"q": "A borda do púbis pode ser avaliada em grandes animais por:",
+"o": [
+"Palpação retal",
+"Auscultação",
+"Percussão do flanco",
+"Inspeção visual"
+],
+"e": "Fica por dentro da cavidade pélvica."
+},
+{
+"c": "posicao",
+"q": "Na cabeça, o termo para “em direção ao focinho” é:",
+"o": [
+"Rostral",
+"Cranial",
+"Dorsal",
+"Proximal"
+],
+"e": "A cabeça já é o extremo cranial do corpo; dentro dela usa-se rostral (focinho) e caudal."
+},
+{
+"c": "posicao",
+"q": "O plano que divide o animal em antímeros direito e esquerdo é o:",
+"o": [
+"Sagital mediano",
+"Dorsal",
+"Transversal",
+"Sagital paramediano"
+],
+"e": "Planos sagitais paralelos a ele não dividem em metades iguais."
+},
+{
+"c": "posicao",
+"q": "A face de trás do metatarso é chamada de:",
+"o": [
+"Plantar",
+"Palmar",
+"Caudal",
+"Ventral"
+],
+"e": "Palmar é só no membro torácico (do carpo para baixo)."
+},
+{
+"c": "posicao",
+"q": "Do carpo para baixo, a face da frente do membro é chamada de:",
+"o": [
+"Dorsal",
+"Cranial",
+"Rostral",
+"Ventral"
+],
+"e": "Acima do carpo/tarso usa-se cranial e caudal; abaixo, dorsal e palmar/plantar."
+},
+{
+"c": "posicao",
+"q": "Em ruminantes, a face do dedo voltada para o eixo entre o 3º e o 4º dedos é a face:",
+"o": [
+"Axial",
+"Abaxial",
+"Medial",
+"Palmar"
+],
+"e": "A face oposta, voltada para fora, é a abaxial."
+},
+{
+"c": "posicao",
+"q": "Os termos “superior” e “inferior” são usados em anatomia veterinária apenas para:",
+"o": [
+"Lábios e pálpebras",
+"Membros e dedos",
+"Vértebras e costelas",
+"Tronco e pescoço"
+],
+"e": "No resto do corpo usam-se dorsal, ventral, cranial, caudal."
+},
+{
+"c": "posicao",
+"q": "O plano paralelo ao dorso, que separa uma parte dorsal de uma ventral, é o plano:",
+"o": [
+"Dorsal (frontal)",
+"Sagital",
+"Transversal",
+"Mediano"
+],
+"e": "O transversal corta perpendicularmente ao eixo longo, “em fatias”."
+},
+{
+"c": "posicao",
+"q": "No membro, a estrutura mais próxima do tronco é:",
+"o": [
+"Proximal",
+"Distal",
+"Medial",
+"Rostral"
+],
+"e": "Distal é a mais afastada, em direção ao casco ou à unha."
+},
+{
+"c": "posicao",
+"q": "Na posição anatômica, o quadrúpede está:",
+"o": [
+"Em estação, com os quatro membros apoiados e a cabeça erguida",
+"Deitado em decúbito dorsal, com os membros estendidos",
+"Em decúbito lateral direito, com a cabeça apoiada",
+"Sentado sobre os membros pélvicos, com o tronco erguido"
+],
+"e": "Posição de alerta: membros estendidos, pescoço erguido, olhar no horizonte."
+},
+{
+"c": "posicao",
+"q": "“Medial” significa:",
+"o": [
+"Mais perto do plano mediano",
+"Mais longe do plano mediano",
+"Em direção ao dorso",
+"Em direção à cauda"
+],
+"e": "Lateral é o oposto: mais longe do plano mediano."
+},
+{
+"c": "esqueleto",
+"q": "Costelas e fíbula são longas, mas sem cavidade medular. Elas são ossos:",
+"o": [
+"Alongados",
+"Longos",
+"Planos",
+"Irregulares"
+],
+"e": "Classificação da apostila: alongados são longos e achatados, sem canal medular."
+},
+{
+"c": "esqueleto",
+"q": "Ossos com cavidades cheias de ar, revestidas por mucosa, são chamados:",
+"o": [
+"Pneumáticos",
+"Sesamoides",
+"Alongados",
+"Curtos"
+],
+"e": "Ex.: frontal, maxila, esfenoide, etmoide, temporal e palatino (seios paranasais)."
+},
+{
+"c": "esqueleto",
+"q": "A patela é um exemplo de osso:",
+"o": [
+"Sesamoide",
+"Curto",
+"Plano",
+"Irregular"
+],
+"e": "Sesamoides ficam dentro de tendões e funcionam como roldana."
+},
+{
+"c": "esqueleto",
+"q": "Segundo a apostila, qual destas espécies tem mais ossos?",
+"o": [
+"Suíno (223)",
+"Bovino (188)",
+"Equino (189)",
+"Humano (206)"
+],
+"e": "Cão tem 215. O número varia com a idade e com o critério de contagem."
+},
+{
+"c": "esqueleto",
+"q": "Como o membro torácico se prende ao tronco?",
+"o": [
+"Só por músculos, sem articulação óssea",
+"Por uma articulação sinovial com as costelas",
+"Pela clavícula, em todas as espécies",
+"Por uma sínfise com o esterno"
+],
+"e": "A escápula fica presa por músculos (sinsarcose); o pélvico se prende ao sacro por osso."
+},
+{
+"c": "esqueleto",
+"q": "Tubérculo, tuberosidade e trocânter são saliências que servem para:",
+"o": [
+"Inserção de tendões e ligamentos",
+"Articulação com outro osso",
+"Passagem de vasos",
+"Alojar a medula óssea"
+],
+"e": "Côndilo, cabeça e tróclea é que são saliências articulares."
+},
+{
+"c": "esqueleto",
+"q": "São exemplos de ossos longo, plano, curto e irregular, nesta ordem:",
+"o": [
+"Fêmur, escápula, carpo, vértebra",
+"Escápula, fêmur, carpo, vértebra",
+"Vértebra, fêmur, escápula, carpo",
+"Carpo, vértebra, fêmur, escápula"
+],
+"e": "Questão da apostila: longo = fêmur; plano = escápula; curto = carpos; irregular = vértebras."
+},
+{
+"c": "esqueleto",
+"q": "Sobre os ossos longos, é INCORRETO afirmar:",
+"o": [
+"Apenas os ossos longos possuem medula óssea",
+"Comprimento maior que largura e espessura",
+"Úmero, rádio, fêmur e tíbia são exemplos",
+"Possuem osso compacto e esponjoso"
+],
+"e": "Ossos curtos, planos e irregulares também têm medula no osso esponjoso."
+},
+{
+"c": "osseo",
+"q": "Na remodelação, a fase em que os osteoclastos saem e os osteoblastos chegam à cavidade é a:",
+"o": [
+"Reversão",
+"Reabsorção",
+"Formação",
+"Repouso"
+],
+"e": "Repouso → reabsorção → reversão → formação."
+},
+{
+"c": "osseo",
+"q": "O primeiro evento da ossificação endocondral no molde de cartilagem é:",
+"o": [
+"Condrócitos do centro hipertrofiam e a cartilagem calcifica",
+"Surgem os centros secundários de ossificação nas epífises",
+"Forma-se a linha epifisária entre a epífise e a diáfise",
+"Aparece a medula amarela na cavidade medular primitiva"
+],
+"e": "Logo depois forma-se o colar ósseo e os vasos invadem (centro primário)."
+},
+{
+"c": "osseo",
+"q": "Os centros secundários de ossificação aparecem nas:",
+"o": [
+"Epífises",
+"Diáfises",
+"Cavidades medulares",
+"Membranas sinoviais"
+],
+"e": "O centro primário é diafisário."
+},
+{
+"c": "osseo",
+"q": "Na radiografia de um filhote, uma faixa escura entre epífise e diáfise geralmente é:",
+"o": [
+"O disco epifisário, um achado normal",
+"Uma fratura transversal da metáfise",
+"Uma área de osteoporose localizada",
+"Um canal de Havers anormalmente dilatado"
+],
+"e": "Conhecer a anatomia evita confundir o disco de crescimento com fratura."
+},
+{
+"c": "osseo",
+"q": "Quando o crescimento termina, o disco epifisário se transforma em:",
+"o": [
+"Linha epifisária",
+"Cartilagem articular",
+"Canal medular",
+"Periósteo"
+],
+"e": "A cartilagem é substituída por osso e sobra só uma linha."
+},
+{
+"c": "osseo",
+"q": "O osteoide é:",
+"o": [
+"Matriz óssea recém-formada, ainda não mineralizada",
+"Matriz óssea já calcificada, rica em hidroxiapatita",
+"Uma célula gigante multinucleada que reabsorve osso",
+"O tecido adiposo que forma a medula amarela"
+],
+"e": "Fica entre os osteoblastos e a matriz mineralizada."
+},
+{
+"c": "tireoide",
+"q": "Quando o cálcio do sangue cai, qual célula óssea aumenta sua atividade?",
+"o": [
+"Osteoclasto",
+"Osteoblasto",
+"Célula parafolicular",
+"Condrócito"
+],
+"e": "O PTH estimula a reabsorção para liberar cálcio da matriz."
+},
+{
+"c": "tireoide",
+"q": "Os hormônios T3 e T4 são produzidos pelas:",
+"o": [
+"Células foliculares da tireoide",
+"Células parafoliculares",
+"Células principais da paratireoide",
+"Células do coloide"
+],
+"e": "Ficam armazenados no coloide."
+},
+{
+"c": "tireoide",
+"q": "A calcitonina reduz o cálcio sanguíneo principalmente:",
+"o": [
+"Inibindo os osteoclastos",
+"Estimulando os osteoclastos",
+"Aumentando o PTH",
+"Dissolvendo o coloide"
+],
+"e": "Com menos reabsorção, o cálcio fica guardado no osso."
+},
+{
+"c": "cartilagem",
+"q": "A cartilagem da epiglote é:",
+"o": [
+"Elástica",
+"Hialina",
+"Fibrosa",
+"Calcificada"
+],
+"e": "Também o pavilhão auricular e a tuba auditiva."
+},
+{
+"c": "cartilagem",
+"q": "Os meniscos do joelho são formados por cartilagem:",
+"o": [
+"Fibrosa",
+"Hialina",
+"Elástica",
+"Articular"
+],
+"e": "Fibrocartilagem aguenta pressão e tração."
+},
+{
+"c": "cartilagem",
+"q": "A cartilagem articular é hialina, mas NÃO tem:",
+"o": [
+"Pericôndrio",
+"Condrócitos",
+"Colágeno tipo II",
+"Matriz extracelular"
+],
+"e": "Ela se nutre pelo líquido sinovial."
+},
+{
+"c": "cartilagem",
+"q": "A matriz territorial é:",
+"o": [
+"A faixa mais basófila em volta do grupo isógeno",
+"A camada fibrosa externa do pericôndrio",
+"O espaço preenchido por cartilagem entre dois ossos",
+"A cavidade articular revestida pela sinovial"
+],
+"e": "A interterritorial é a matriz mais clara entre os grupos."
+},
+{
+"c": "articulacoes",
+"q": "Diminuir o ângulo entre dois ossos é:",
+"o": [
+"Flexão",
+"Extensão",
+"Abdução",
+"Rotação"
+],
+"e": "Extensão aumenta o ângulo."
+},
+{
+"c": "articulacoes",
+"q": "A articulação atlanto-occipital faz o movimento do:",
+"o": [
+"“Sim” (flexão e extensão da cabeça)",
+"“Não” (rotação da cabeça)",
+"Circundução completa da cabeça sobre o atlas",
+"Deslizamento lateral da cabeça"
+],
+"e": "O “não” é da atlantoaxial (trocóide)."
+},
+{
+"c": "articulacoes",
+"q": "A união entre rádio e ulna por ligamento interósseo é uma:",
+"o": [
+"Sindesmose",
+"Sutura",
+"Gonfose",
+"Sincondrose"
+],
+"e": "Ossos à distância unidos por ligamento ou membrana."
+},
+{
+"c": "articulacoes",
+"q": "As articulações entre os ossos do carpo são do tipo:",
+"o": [
+"Plana (artródia)",
+"Gínglimo",
+"Trocóide",
+"Esferóide"
+],
+"e": "Superfícies planas que deslizam."
+},
+{
+"c": "articulacoes",
+"q": "A camada externa da cápsula articular é formada por:",
+"o": [
+"Tecido fibroso",
+"Membrana sinovial",
+"Cartilagem hialina",
+"Tecido adiposo"
+],
+"e": "A interna é a membrana sinovial, que produz o líquido."
+},
+{
+"c": "cranio",
+"q": "Crânio com processo cornual e sem dentes incisivos superiores é de:",
+"o": [
+"Bovino",
+"Equino",
+"Cão",
+"Suíno"
+],
+"e": "No lugar dos incisivos superiores há o pulvino dental."
+},
+{
+"c": "cranio",
+"q": "Órbita “aberta”, fechada atrás só por um ligamento, é típica do:",
+"o": [
+"Cão",
+"Equino",
+"Bovino",
+"Ovino"
+],
+"e": "Nos herbívoros a órbita é fechada por osso."
+},
+{
+"c": "cranio",
+"q": "Nos herbívoros, o que fecha a órbita por trás é o:",
+"o": [
+"Processo zigomático do frontal",
+"Processo coronoide da mandíbula",
+"Processo jugular do occipital",
+"Processo cornual do osso frontal"
+],
+"e": "Ele desce até encontrar o arco zigomático."
+},
+{
+"c": "cranio",
+"q": "A sutura entre os dois ossos frontais é a:",
+"o": [
+"Interfrontal",
+"Internasal",
+"Coronal",
+"Frontolacrimal"
+],
+"e": "É do tipo serrada."
+},
+{
+"c": "cranio",
+"q": "A sutura coronal une:",
+"o": [
+"Frontal e parietal",
+"Nasal e frontal",
+"Os dois parietais",
+"Occipital e parietal"
+],
+"e": "Também chamada frontoparietal."
+},
+{
+"c": "cranio",
+"q": "Na descorna de um bovino adulto, pode ser exposto o:",
+"o": [
+"Seio frontal",
+"Seio maxilar",
+"Meato nasal ventral",
+"Forame magno"
+],
+"e": "O seio frontal se estende para dentro do processo cornual."
+},
+{
+"c": "cranio",
+"q": "No equino, as raízes dos últimos molares superiores ficam dentro do:",
+"o": [
+"Seio maxilar",
+"Seio frontal",
+"Canal interincisivo",
+"Meato acústico"
+],
+"e": "Por isso infecção dentária vira sinusite."
+},
+{
+"c": "cranio",
+"q": "O forame mandibular fica:",
+"o": [
+"Na face medial do ramo da mandíbula",
+"Na face lateral do corpo da mandíbula",
+"Na base do processo coronoide",
+"Na face lingual da sínfise mandibular"
+],
+"e": "O mentual (mentoniano) é que fica na face lateral do corpo."
+},
+{
+"c": "cranio",
+"q": "No equino, o pulso é aferido na artéria facial, na:",
+"o": [
+"Incisura dos vasos faciais da mandíbula",
+"Fossa temporal, acima do arco zigomático",
+"Crista facial, logo abaixo do olho",
+"Base da bula timpânica, atrás da mandíbula"
+],
+"e": "Na borda ventral do corpo da mandíbula."
+},
+{
+"c": "cranio",
+"q": "A sínfise mandibular se ossifica cedo, formando peça única, no:",
+"o": [
+"Equino e suíno",
+"Cão e gato",
+"Bovino e ovino",
+"Gato e bovino"
+],
+"e": "Em carnívoros e ruminantes ela fica fibrocartilaginosa."
+},
+{
+"c": "cranio",
+"q": "O processo lingual pertence ao:",
+"o": [
+"Basi-hioide",
+"Estilo-hioide",
+"Epi-hioide",
+"Temporal"
+],
+"e": "Presente em equino e bovino; entra na raiz da língua."
+},
+{
+"c": "cranio",
+"q": "O osso que forma o teto da cavidade nasal é o:",
+"o": [
+"Nasal",
+"Vômer",
+"Etmoide",
+"Palatino"
+],
+"e": "O vômer forma a parte ventral do septo."
+},
+{
+"c": "cranio",
+"q": "O canal interincisivo pertence ao osso:",
+"o": [
+"Incisivo",
+"Maxilar",
+"Palatino",
+"Nasal"
+],
+"e": "Visto na face ventral, atrás dos dentes incisivos."
+},
+{
+"c": "cranio",
+"q": "O processo coronoide da mandíbula serve para:",
+"o": [
+"Inserção do músculo temporal",
+"Articular com o temporal",
+"Passagem do nervo alveolar",
+"Alojar os molares"
+],
+"e": "Quem articula é o processo condilar."
+},
+{
+"c": "cranio",
+"q": "O aparelho hioide é classificado como esqueleto:",
+"o": [
+"Visceral",
+"Axial",
+"Apendicular",
+"Cíngulo"
+],
+"e": "Não se articula com o esqueleto do tronco."
+},
+{
+"c": "coluna",
+"q": "O atlas dos ruminantes NÃO tem:",
+"o": [
+"Forame transverso",
+"Forame alar",
+"Forame vertebral lateral",
+"Asas"
+],
+"e": "O processo transverso típico está ausente."
+},
+{
+"c": "coluna",
+"q": "No cão, no lugar do forame alar do atlas existe a:",
+"o": [
+"Incisura alar",
+"Fóvea do dente",
+"Fossa do atlas",
+"Crista ventral"
+],
+"e": "Um entalhe aberto na borda da asa."
+},
+{
+"c": "coluna",
+"q": "O forame intervertebral é formado por:",
+"o": [
+"Incisuras vertebrais de duas vértebras vizinhas",
+"O forame transverso das vértebras cervicais",
+"O canal sacral, entre as vértebras sacrais",
+"O espaço interarcual entre dois arcos vizinhos"
+],
+"e": "Por ele sai o nervo espinhal."
+},
+{
+"c": "coluna",
+"q": "O processo mamilar aparece nas vértebras:",
+"o": [
+"Torácicas caudais e lombares",
+"Cervicais craniais e médias",
+"Sacrais, sobre a crista mediana",
+"Caudais finais, sem arco vertebral"
+],
+"e": "Fica sobre o processo articular cranial."
+},
+{
+"c": "coluna",
+"q": "A 7ª vértebra cervical geralmente:",
+"o": [
+"Não tem forame transverso e tem fóvea costal caudal",
+"Tem dente que se projeta cranialmente no forame do atlas",
+"Tem forame alar na base da asa, como o atlas",
+"Não tem processo espinhoso nem arco dorsal completo"
+],
+"e": "A fóvea recebe a cabeça da 1ª costela."
+},
+{
+"c": "coluna",
+"q": "No cão, a vértebra anticlinal (processo espinhoso vertical) costuma ser a:",
+"o": [
+"T11",
+"C7",
+"L1",
+"T1"
+],
+"e": "Referência na radiografia da coluna."
+},
+{
+"c": "coluna",
+"q": "A crista sacral mediana é formada pela fusão dos:",
+"o": [
+"Processos espinhosos",
+"Processos transversos",
+"Processos articulares",
+"Corpos vertebrais"
+],
+"e": "Intermédia = articulares; lateral = transversos."
+},
+{
+"c": "coluna",
+"q": "Processos hemais aparecem nas:",
+"o": [
+"Primeiras vértebras caudais de ruminantes e carnívoros",
+"Últimas vértebras cervicais do equino e do suíno doméstico",
+"Vértebras lombares do suíno e do bovino adulto",
+"Vértebras torácicas caudais do cão e do gato doméstico"
+],
+"e": "Protegem os vasos coccígeos medianos."
+},
+{
+"c": "coluna",
+"q": "A anestesia epidural no cão é feita no espaço:",
+"o": [
+"Lombossacro",
+"Atlanto-occipital",
+"Entre T13 e L1",
+"Intercostal"
+],
+"e": "Espaço interarcual entre L7 e o sacro."
+},
+{
+"c": "coluna",
+"q": "Costelas asternais são as que:",
+"o": [
+"Unem sua cartilagem à da costela anterior (arco costal)",
+"Se articulam diretamente com o esterno por sua cartilagem",
+"Não têm cartilagem costal em nenhuma fase da vida",
+"Se articulam com o sacro, fechando a cavidade pélvica"
+],
+"e": "As costelas asternais unem sua cartilagem à da costela anterior, formando o arco costal; as esternais tocam o esterno; as flutuantes não se ligam a nada."
+},
+{
+"c": "coluna",
+"q": "O equino tem quantos pares de costelas esternais?",
+"o": [
+"8",
+"10",
+"13",
+"18"
+],
+"e": "18 pares no total: 8 esternais e 10 asternais."
+},
+{
+"c": "coluna",
+"q": "O sulco costal fica:",
+"o": [
+"Na borda caudal do corpo da costela",
+"Na cabeça da costela, junto à vértebra",
+"No tubérculo, junto ao processo transverso",
+"Na cartilagem costal, junto ao esterno"
+],
+"e": "Por ele passam os vasos e nervos intercostais."
+},
+{
+"c": "coluna",
+"q": "Articulações sinoviais entre os processos transversos das últimas lombares são exclusivas do:",
+"o": [
+"Equino",
+"Cão",
+"Bovino",
+"Suíno"
+],
+"e": "Articulações intertransversais, também com a asa do sacro."
+},
+{
+"c": "coluna",
+"q": "O atlas se articula cranialmente com:",
+"o": [
+"Os côndilos do occipital",
+"O dente do áxis",
+"A bula timpânica",
+"O processo jugular"
+],
+"e": "Caudalmente, com o áxis."
+},
+{
+"c": "coluna",
+"q": "O cão tem quantas esternébras?",
+"o": [
+"8",
+"5",
+"7",
+"13"
+],
+"e": "Cilíndricas, unidas por cartilagem."
+},
+{
+"c": "toracico",
+"q": "O acrômio está AUSENTE em:",
+"o": [
+"Equino e suíno",
+"Cão e gato",
+"Bovino e ovino",
+"Gato e bovino"
+],
+"e": "Acrômio só em carnívoros e ruminantes."
+},
+{
+"c": "toracico",
+"q": "O processo supra-hamato da escápula é característico do:",
+"o": [
+"Gato",
+"Cão",
+"Equino",
+"Bovino"
+],
+"e": "O cão tem só o processo hamato."
+},
+{
+"c": "toracico",
+"q": "O forame supratroclear do úmero é característico do:",
+"o": [
+"Cão",
+"Equino",
+"Bovino",
+"Suíno"
+],
+"e": "Comunica a fossa radial com a fossa do olécrano."
+},
+{
+"c": "toracico",
+"q": "Na fileira distal do carpo do bovino há:",
+"o": [
+"Cárpicos II+III fundidos e IV",
+"Cárpicos I, II, III e IV separados",
+"Intermediorradial e ulnar",
+"Apenas o cárpico III"
+],
+"e": "Total de 6 ossos no carpo bovino."
+},
+{
+"c": "toracico",
+"q": "Os “ossos esplintes” do cavalo são:",
+"o": [
+"Os metacárpicos II e IV rudimentares",
+"Os sesamoides proximais do boleto",
+"A falange média e a cartilagem ungular",
+"O osso carpo acessório e o ulnar do carpo"
+],
+"e": "Ficam ao lado do metacárpico III, sem dedo."
+},
+{
+"c": "toracico",
+"q": "O nome popular da falange média do equino é:",
+"o": [
+"Coroa",
+"Quartela",
+"Casco",
+"Canela"
+],
+"e": "Quartela = proximal; casco = distal; canela = metacarpo III."
+},
+{
+"c": "toracico",
+"q": "O sesamoide distal do equino é chamado de:",
+"o": [
+"Osso navicular",
+"Fabela",
+"Patela",
+"Osso esplinte"
+],
+"e": "Fica na face palmar, entre a falange média e a distal."
+},
+{
+"c": "toracico",
+"q": "A tuberosidade flexora é estrutura da:",
+"o": [
+"Falange média",
+"Falange distal",
+"Escápula",
+"Ulna"
+],
+"e": "Na face palmar da falange média."
+},
+{
+"c": "toracico",
+"q": "O antebraço do bovino tem quantos espaços interósseos?",
+"o": [
+"Dois (proximal e distal)",
+"Um, ao longo de todo o antebraço",
+"Nenhum, pois rádio e ulna se fundem",
+"Três (proximal, médio e distal)"
+],
+"e": "Rádio e ulna se fundem no meio."
+},
+{
+"c": "toracico",
+"q": "No metacarpo do bovino, os sulcos longitudinais dorsal e palmar indicam:",
+"o": [
+"A fusão dos metacárpicos III e IV",
+"A passagem do nervo radial",
+"O limite do carpo",
+"Um osso rudimentar V"
+],
+"e": "O osso único nasceu de dois."
+},
+{
+"c": "toracico",
+"q": "A face serrátil da escápula fica na face:",
+"o": [
+"Medial (costal)",
+"Lateral, junto à espinha",
+"Distal, na cavidade glenoide",
+"Cranial, na borda do colo"
+],
+"e": "Prende o músculo serrátil ventral."
+},
+{
+"c": "toracico",
+"q": "O carpo do equino tem:",
+"o": [
+"7 a 8 ossos",
+"5 ossos",
+"6 ossos",
+"10 ossos"
+],
+"e": "O cárpico I é inconstante."
+},
+{
+"c": "toracico",
+"q": "O tubérculo supraglenoidal aponta para qual direção?",
+"o": [
+"Cranial",
+"Caudal",
+"Dorsal",
+"Medial"
+],
+"e": "Origem do músculo bíceps braquial; ajuda a dizer o lado da escápula."
+},
+{
+"c": "pelvico",
+"q": "Os três ossos do coxal se fundem no:",
+"o": [
+"Acetábulo",
+"Forame obturado",
+"Arco isquiático",
+"Promontório"
+],
+"e": "Cada um tem seu centro de ossificação."
+},
+{
+"c": "pelvico",
+"q": "A tuberosidade isquiática “trituberosa” é típica do:",
+"o": [
+"Bovino",
+"Equino",
+"Cão",
+"Gato"
+],
+"e": "Três saliências na ponta da nádega."
+},
+{
+"c": "pelvico",
+"q": "O diâmetro conjugado da pelve vai do:",
+"o": [
+"Promontório sacral à borda cranial da sínfise púbica",
+"Acetábulo direito ao acetábulo esquerdo, no plano transversal",
+"Arco isquiático à última vértebra sacral",
+"Tuberosidade coxal ao trocânter maior do fêmur"
+],
+"e": "Importante na avaliação obstétrica."
+},
+{
+"c": "pelvico",
+"q": "Fabelas são sesamoides encontrados:",
+"o": [
+"Atrás dos côndilos do fêmur de cães e gatos",
+"No tendão do bíceps braquial do equino e do bovino",
+"Na cápsula da articulação temporomandibular",
+"Dentro do ligamento patelar do equino"
+],
+"e": "Ficam dentro do músculo gastrocnêmio."
+},
+{
+"c": "pelvico",
+"q": "O tarso do equino tem:",
+"o": [
+"6 ossos (I e II fundidos)",
+"5 ossos (I, II e III fundidos)",
+"7 ossos, todos separados",
+"8 ossos (com dois centrais)"
+],
+"e": "Tálus, calcâneo, central, I+II, III, IV."
+},
+{
+"c": "pelvico",
+"q": "O osso centroquartal é a fusão do tarso central com o tarsal IV e existe no:",
+"o": [
+"Bovino",
+"Equino",
+"Cão",
+"Suíno"
+],
+"e": "O bovino tem 5 ossos no tarso."
+},
+{
+"c": "pelvico",
+"q": "O tálus com duas trócleas (proximal e distal) identifica:",
+"o": [
+"Ruminantes",
+"Equino",
+"Cão",
+"Gato"
+],
+"e": "Movimento extra no jarrete do boi."
+},
+{
+"c": "pelvico",
+"q": "O osso maleolar dos ruminantes corresponde à:",
+"o": [
+"Extremidade distal da fíbula",
+"Patela",
+"Cabeça do fêmur",
+"Tuberosidade do calcâneo"
+],
+"e": "Faz o papel do maléolo lateral."
+},
+{
+"c": "pelvico",
+"q": "A fossa trocantérica do fêmur fica na face:",
+"o": [
+"Caudal",
+"Cranial",
+"Lateral",
+"Medial"
+],
+"e": "Entre o trocânter maior e o colo."
+},
+{
+"c": "pelvico",
+"q": "Na patela, a parte proximal é a __ e a distal é o __.",
+"o": [
+"base; ápice",
+"ápice; base",
+"cabeça; colo",
+"côndilo; tróclea"
+],
+"e": "Base em cima, ápice embaixo."
+},
+{
+"c": "pelvico",
+"q": "Na tuberosidade do calcâneo se insere o:",
+"o": [
+"Tendão calcâneo comum",
+"Ligamento patelar",
+"Ligamento cruzado",
+"Músculo glúteo"
+],
+"e": "É a “ponta do jarrete”."
+},
+{
+"c": "pelvico",
+"q": "O pecten é uma estrutura do:",
+"o": [
+"Púbis",
+"Ílio",
+"Ísquio",
+"Sacro"
+],
+"e": "Borda cranial do púbis."
+},
+{
+"c": "pelvico",
+"q": "A face auricular do ílio se articula com:",
+"o": [
+"O sacro",
+"O fêmur",
+"A última costela",
+"O púbis do outro lado"
+],
+"e": "Articulação sacroilíaca."
+},
+{
+"c": "especies",
+"q": "Um fêmur com terceiro trocânter evidente é de:",
+"o": [
+"Equino",
+"Bovino",
+"Cão",
+"Suíno"
+],
+"e": "Marca registrada do cavalo."
+},
+{
+"c": "especies",
+"q": "Um metacarpo único formado por dois ossos fundidos, com sulco no meio, é de:",
+"o": [
+"Bovino",
+"Equino",
+"Cão",
+"Suíno"
+],
+"e": "Ruminantes fundem III e IV."
+},
+{
+"c": "especies",
+"q": "Escápula com acrômio e processo hamato, sem túber da espinha, é de:",
+"o": [
+"Cão",
+"Equino",
+"Suíno",
+"Bovino"
+],
+"e": "O gato também tem o supra-hamato."
+},
+{
+"c": "especies",
+"q": "Ulna que termina no meio do rádio, fundida a ele, é de:",
+"o": [
+"Equino",
+"Bovino",
+"Cão",
+"Suíno"
+],
+"e": "Nas outras espécies a ulna é completa."
+},
+{
+"c": "especies",
+"q": "Qual destes animais tem a fíbula completa?",
+"o": [
+"Cão",
+"Equino",
+"Bovino",
+"Ovino"
+],
+"e": "Também gato e suíno."
+},
+{
+"c": "especies",
+"q": "18 pares de costelas indicam:",
+"o": [
+"Equino",
+"Bovino",
+"Cão",
+"Suíno"
+],
+"e": "18 torácicas."
+},
+{
+"c": "especies",
+"q": "Carpo com 8 ossos (4 em cada fileira) é de:",
+"o": [
+"Suíno",
+"Cão",
+"Bovino",
+"Equino"
+],
+"e": "Cão tem 7, bovino 6, equino 7–8."
+},
+{
+"c": "especies",
+"q": "Úmero com tubérculo intermédio e dois sulcos intertuberculares é de:",
+"o": [
+"Equino",
+"Bovino",
+"Cão",
+"Gato"
+],
+"e": "Exclusivo do cavalo."
+},
+{
+"c": "especies",
+"q": "Atlas sem forame transverso é de:",
+"o": [
+"Bovino",
+"Equino",
+"Cão",
+"Gato"
+],
+"e": "Ruminantes não têm o forame transverso no atlas."
+},
+{
+"c": "especies",
+"q": "O osso rostral, no focinho, é encontrado no:",
+"o": [
+"Suíno",
+"Equino",
+"Cão",
+"Bovino"
+],
+"e": "Esqueleto visceral; ajuda a fuçar."
+},
+{
+"c": "especies",
+"q": "O cão é um animal:",
+"o": [
+"Digitígrado",
+"Ungulígrado",
+"Plantígrado",
+"Ungulado"
+],
+"e": "Apoia os dedos inteiros no chão."
+},
+{
+"c": "especies",
+"q": "Um sacro com 3 vértebras fundidas indica:",
+"o": [
+"Cão ou gato",
+"Equino",
+"Bovino",
+"Suíno"
+],
+"e": "Equino e bovino: 5; suíno: 4."
+},
+{
+"c": "especies",
+"q": "Escápula sem acrômio e com túber da espinha enorme, curvado caudalmente, é de:",
+"o": [
+"Suíno",
+"Equino",
+"Cão",
+"Bovino"
+],
+"e": "O equino também não tem acrômio, mas o túber é menor e a cartilagem é grande."
+},
+{
+"c": "especies",
+"q": "Animais ungulados são os que:",
+"o": [
+"Caminham sobre dígitos revestidos por casco",
+"Caminham sobre toda a planta do pé (plantígrados)",
+"Têm cinco dedos apoiados no solo, com coxins",
+"Não têm falanges nos dedos funcionais"
+],
+"e": "Questão da apostila: cão e gato não são ungulados."
+},
+{
+"c": "tecidos",
+"q": "Qual tecido é avascular e se apoia numa lâmina basal?",
+"o": [
+"Epitelial",
+"Conjuntivo denso",
+"Muscular liso",
+"Nervoso"
+],
+"e": "O epitélio se nutre por difusão a partir do conjuntivo subjacente."
+},
+{
+"c": "tecidos",
+"q": "O epitélio da bexiga, que se achata quando o órgão se enche, é:",
+"o": [
+"De transição (urotélio)",
+"Simples cúbico",
+"Estratificado pavimentoso queratinizado",
+"Pseudoestratificado ciliado"
+],
+"e": "Células superficiais em “guarda-chuva”. Também em ureteres e pelve renal."
+},
+{
+"c": "tecidos",
+"q": "O epitélio da traqueia é:",
+"o": [
+"Pseudoestratificado cilíndrico ciliado, com caliciformes",
+"Simples pavimentoso com microvilosidades na superfície",
+"Estratificado pavimentoso queratinizado, como na pele",
+"De transição, com células em guarda-chuva"
+],
+"e": "É o epitélio respiratório (com células caliciformes): núcleos em alturas diferentes, mas todas as células tocam a lâmina basal."
+},
+{
+"c": "tecidos",
+"q": "A glândula sebácea tem secreção:",
+"o": [
+"Holócrina",
+"Merócrina",
+"Apócrina",
+"Endócrina"
+],
+"e": "A célula inteira se desintegra e vira o sebo."
+},
+{
+"c": "tecidos",
+"q": "O tendão é formado por tecido conjuntivo:",
+"o": [
+"Denso modelado",
+"Denso não modelado",
+"Frouxo",
+"Reticular"
+],
+"e": "Feixes de colágeno I paralelos, na direção da tração."
+},
+{
+"c": "tecidos",
+"q": "Na HE, o núcleo fica roxo porque:",
+"o": [
+"Os ácidos nucleicos atraem a hematoxilina, corante básico",
+"A eosina é um corante básico e cora intensamente o DNA",
+"O núcleo é rico em proteínas básicas que atraem a eosina",
+"O núcleo não cora e parece roxo apenas por contraste"
+],
+"e": "Os ácidos nucleicos (DNA e RNA) são ácidos e atraem a hematoxilina, que é básica: estruturas ácidas = basófilas."
+},
+{
+"c": "tecidos",
+"q": "O citoplasma do plasmócito é basófilo porque é rico em:",
+"o": [
+"Retículo endoplasmático rugoso (RNA dos ribossomos)",
+"Mitocôndrias, que se coram pela hematoxilina",
+"Glicogênio, que reage intensamente com a hematoxilina",
+"Gotículas de lipídios ácidos no citosol"
+],
+"e": "Ribossomos têm RNA (ácido) → atraem a hematoxilina. Mitocôndrias deixam o citoplasma acidófilo."
+},
+{
+"c": "tecidos",
+"q": "Os grânulos dos mastócitos corados com azul de toluidina ficam roxo-avermelhados. Isso é:",
+"o": [
+"Metacromasia",
+"Acidofilia",
+"Argirofilia",
+"Autofluorescência"
+],
+"e": "O corante básico muda de cor ao se ligar à heparina, muito ácida e agrupada."
+},
+{
+"c": "tecidos",
+"q": "Para evidenciar fibras reticulares, usa-se:",
+"o": [
+"Impregnação pela prata",
+"Hematoxilina e eosina",
+"Sudan",
+"Ziehl-Neelsen"
+],
+"e": "Fibras reticulares são argirófilas: ficam negras."
+},
+{
+"c": "tecidos",
+"q": "O fixador de rotina para histopatologia é:",
+"o": [
+"Formol a 10% tamponado",
+"Álcool absoluto",
+"Xilol",
+"Parafina"
+],
+"e": "Usado em volume cerca de 10 vezes maior que o da peça."
+},
+{
+"c": "tecidos",
+"q": "A espessura usual de um corte histológico em parafina é:",
+"o": [
+"3 a 5 µm",
+"1 a 2 mm",
+"50 a 100 µm",
+"0,1 nm"
+],
+"e": "Cortes finos permitem que a luz atravesse o tecido."
+},
+{
+"c": "posicao",
+"q": "A repetição de segmentos semelhantes ao longo do eixo do corpo, como vértebras e nervos espinhais, é chamada:",
+"o": [
+"Metameria",
+"Antimeria",
+"Paquimeria",
+"Estratificação"
+],
+"e": "Os metâmeros vêm dos somitos do embrião."
+},
+{
+"c": "posicao",
+"q": "O canal vertebral com a medula forma o tubo dorsal do tronco. Esse princípio é a:",
+"o": [
+"Paquimeria",
+"Metameria",
+"Antimeria",
+"Estratificação"
+],
+"e": "Paquímero dorsal (neural) e ventral (visceral)."
+},
+{
+"c": "exterior",
+"q": "O “joelho” do cavalo, na linguagem popular, corresponde anatomicamente ao:",
+"o": [
+"Carpo",
+"Joelho (articulação femorotibiopatelar)",
+"Tarso",
+"Cotovelo"
+],
+"e": "O joelho anatômico do equino é chamado de soldra."
+},
+{
+"c": "exterior",
+"q": "O jarrete é a região do:",
+"o": [
+"Tarso",
+"Carpo",
+"Joelho",
+"Boleto"
+],
+"e": "A ponta do jarrete é a tuberosidade do calcâneo."
+},
+{
+"c": "exterior",
+"q": "O boleto corresponde à articulação:",
+"o": [
+"Metacarpofalângica (ou metatarsofalângica)",
+"Interfalângica distal, dentro do estojo do casco",
+"Antebraquiocárpica (ou tarsocrural)",
+"Femorotibiopatelar (ou umerorradioulnar)"
+],
+"e": "Base: extremidade distal do MC III, falange proximal e sesamoides proximais."
+},
+{
+"c": "exterior",
+"q": "A cernelha tem como base óssea:",
+"o": [
+"Processos espinhosos das torácicas craniais",
+"Asa do ílio e tuberosidades sacrais da garupa",
+"Processos transversos das vértebras lombares",
+"Processos espinhosos das vértebras cervicais caudais"
+],
+"e": "Processos espinhosos das primeiras vértebras torácicas; ponto de medida da altura do equino."
+},
+{
+"c": "exterior",
+"q": "A ruminotomia e a cesariana em bovinos costumam ser feitas pela:",
+"o": [
+"Fossa paralombar esquerda (flanco)",
+"Linha alba cranial, perto do umbigo",
+"Região axilar direita, atrás do cotovelo",
+"Região pré-escapular esquerda"
+],
+"e": "O flanco não tem base óssea: fica entre a última costela, os processos transversos lombares e a tuberosidade coxal."
+},
+{
+"c": "exterior",
+"q": "O codilho é a região do:",
+"o": [
+"Olécrano (cotovelo)",
+"Carpo (joelho do cavalo)",
+"Calcâneo (ponta do jarrete)",
+"Acrômio (ponta da espádua)"
+],
+"e": "Atrás do codilho, à esquerda, se ausculta o coração."
+},
+{
+"c": "exterior",
+"q": "A veia mais usada para coleta de sangue em grandes animais corre no:",
+"o": [
+"Sulco jugular",
+"Flanco",
+"Sulco intertubercular",
+"Espaço intercostal"
+],
+"e": "Veia jugular externa."
+},
+{
+"c": "pele",
+"q": "A camada de pele onde se fazem as injeções subcutâneas é a:",
+"o": [
+"Hipoderme",
+"Epiderme",
+"Derme papilar",
+"Estrato córneo"
+],
+"e": "Conjuntivo frouxo e adiposo sob a derme."
+},
+{
+"c": "pele",
+"q": "O estrato lúcido aparece em:",
+"o": [
+"Coxins e focinho (pele espessa)",
+"Toda a pele com pelos",
+"Apenas na pele de equinos",
+"Na derme reticular"
+],
+"e": "Ausente na pele fina com pelos."
+},
+{
+"c": "pele",
+"q": "As “espinhas” do estrato espinhoso correspondem a:",
+"o": [
+"Desmossomos entre os queratinócitos",
+"Microvilosidades da superfície apical",
+"Cílios dos queratinócitos basais",
+"Grânulos de querato-hialina do citoplasma"
+],
+"e": "No pênfigo, autoanticorpos atacam os desmossomos."
+},
+{
+"c": "pele",
+"q": "O melanócito deriva de:",
+"o": [
+"Crista neural",
+"Mesoderma",
+"Endoderma",
+"Células de Langerhans"
+],
+"e": "Transfere melanina aos queratinócitos e ao pelo."
+},
+{
+"c": "pele",
+"q": "Folículos compostos (vários pelos por abertura) são típicos de:",
+"o": [
+"Cão e gato",
+"Equino",
+"Bovino",
+"Equino e bovino"
+],
+"e": "Equinos e bovinos têm folículos simples."
+},
+{
+"c": "pele",
+"q": "Em cães e gatos, as glândulas sudoríparas écrinas ficam:",
+"o": [
+"Nos coxins",
+"Em toda a pele",
+"Apenas na axila",
+"No conduto auditivo"
+],
+"e": "Por isso perdem calor principalmente pela respiração ofegante."
+},
+{
+"c": "pele",
+"q": "O equino sua muito porque tem glândulas:",
+"o": [
+"Sudoríparas apócrinas muito desenvolvidas",
+"Sebáceas holócrinas abundantes em todo o corpo",
+"Écrinas espalhadas por toda a superfície da pele",
+"Sudoríparas merócrinas restritas à região inguinal"
+],
+"e": "O suor rico em proteína forma espuma."
+},
+{
+"c": "pele",
+"q": "Na laminite equina, o que falha é:",
+"o": [
+"A união laminar entre parede do casco e falange distal",
+"A queratinização da ranilha e dos talões do casco",
+"A produção de perioplo na banda coronária",
+"A articulação entre falange média e osso navicular"
+],
+"e": "Falha a união entre as lâminas da parede do casco e a falange distal; a falange pode rotacionar e perfurar a sola."
+},
+{
+"c": "pele",
+"q": "O processo cornual dos bovinos é:",
+"o": [
+"Osso do frontal, oco e comunicado com o seio frontal",
+"Cartilagem elástica revestida por estojo córneo",
+"Derme espessada e queratinizada, sem osso",
+"Um osso independente do crânio, trocado todo ano"
+],
+"e": "Por isso a descorna de adultos abre o seio frontal; galhada (cervídeos) é que é trocada."
+},
+{
+"c": "pele",
+"q": "A única glândula cutânea importante das aves é a:",
+"o": [
+"Uropigial",
+"Sudorípara apócrina",
+"Mamária",
+"Sebácea holócrina distribuída"
+],
+"e": "Fica na base da cauda e impermeabiliza as penas."
+},
+{
+"c": "mamaria",
+"q": "Quantas mamas tem a cadela?",
+"o": [
+"10 (5 pares)",
+"8 (4 pares)",
+"4 (2 pares)",
+"12 a 16"
+],
+"e": "2 torácicas, 2 abdominais e 1 inguinal de cada lado."
+},
+{
+"c": "mamaria",
+"q": "Na égua, cada teto tem:",
+"o": [
+"2 óstios papilares",
+"1 óstio",
+"8 a 14 óstios",
+"Nenhum óstio funcional"
+],
+"e": "Cada teto drena dois complexos glandulares."
+},
+{
+"c": "mamaria",
+"q": "A principal barreira contra a entrada de bactérias no úbere é:",
+"o": [
+"O ducto papilar com esfíncter e tampão de queratina",
+"A cisterna da glândula, com sua prega anular",
+"O ligamento suspensório medial, de tecido elástico",
+"Os linfonodos mamários, na face caudal do úbere"
+],
+"e": "Por isso o pós-dipping logo após a ordenha."
+},
+{
+"c": "mamaria",
+"q": "A “veia do leite” da vaca é a:",
+"o": [
+"Veia epigástrica superficial cranial",
+"Veia jugular externa, no sulco jugular",
+"Veia pudenda interna, na região perineal",
+"Veia safena medial do membro pélvico"
+],
+"e": "É a veia subcutânea abdominal; não deve ser usada para aplicações."
+},
+{
+"c": "mamaria",
+"q": "A artéria principal do úbere é a:",
+"o": [
+"Pudenda externa",
+"Ilíaca interna",
+"Femoral",
+"Torácica interna"
+],
+"e": "Passa pelo canal inguinal."
+},
+{
+"c": "mamaria",
+"q": "A gordura do leite é secretada por via:",
+"o": [
+"Apócrina",
+"Holócrina",
+"Merócrina",
+"Endócrina"
+],
+"e": "Proteínas e lactose saem por via merócrina."
+},
+{
+"c": "mamaria",
+"q": "A ocitocina provoca a ejeção do leite porque contrai as:",
+"o": [
+"Células mioepiteliais",
+"Células alveolares",
+"Fibras do ligamento suspensório",
+"Paredes da cisterna do teto"
+],
+"e": "Liberada pela neuro-hipófise após o estímulo do teto."
+},
+{
+"c": "mamaria",
+"q": "O leite de um quarto do úbere bovino:",
+"o": [
+"Não passa para os outros quartos",
+"Passa livremente para o quarto do mesmo lado",
+"Mistura-se na cisterna comum",
+"Drena para o quarto oposto"
+],
+"e": "Os quartos são independentes; a mastite pode atingir um só."
+},
+{
+"c": "mamaria",
+"q": "O ligamento que sustenta o úbere e separa as metades direita e esquerda, rico em fibras elásticas, é o:",
+"o": [
+"Suspensório medial",
+"Suspensório lateral",
+"Pré-púbico",
+"Inguinal"
+],
+"e": "Com a idade ele cede e o úbere “cai”."
+},
+{
+"c": "snc",
+"q": "A célula da glia que forma a mielina no SNC é o:",
+"o": [
+"Oligodendrócito",
+"Astrócito",
+"Célula de Schwann",
+"Micróglia"
+],
+"e": "Um oligodendrócito mieliniza vários axônios; Schwann mieliniza um segmento de um axônio no SNP."
+},
+{
+"c": "snc",
+"q": "Os corpúsculos de Nissl são:",
+"o": [
+"RER e polirribossomos do pericário",
+"Grânulos de mielina armazenados no pericário",
+"Mitocôndrias agrupadas no axônio",
+"Lisossomos da micróglia ativada"
+],
+"e": "São RER e polirribossomos do corpo do neurônio, por isso basófilos; faltam no cone de implantação e no axônio."
+},
+{
+"c": "snc",
+"q": "O neurônio do gânglio espinhal é:",
+"o": [
+"Pseudounipolar",
+"Multipolar",
+"Bipolar",
+"Anaxônico"
+],
+"e": "Prolongamento único que se divide em T."
+},
+{
+"c": "snc",
+"q": "Na medula espinhal, a substância cinzenta fica:",
+"o": [
+"No centro, em forma de H",
+"Na periferia, como córtex",
+"Apenas nos funículos",
+"Espalhada em núcleos no cerebelo"
+],
+"e": "No encéfalo é o contrário: córtex cinzento por fora."
+},
+{
+"c": "snc",
+"q": "A barreira hematoencefálica tem participação dos pés vasculares de:",
+"o": [
+"Astrócitos",
+"Oligodendrócitos",
+"Células ependimárias",
+"Células satélites"
+],
+"e": "Junto com as junções de oclusão do endotélio."
+},
+{
+"c": "snc",
+"q": "O líquido cerebrospinal circula no espaço:",
+"o": [
+"Subaracnóideo",
+"Epidural",
+"Subdural",
+"Perineural"
+],
+"e": "Coleta na cisterna magna ou lombar."
+},
+{
+"c": "snc",
+"q": "A anestesia epidural é feita no espaço entre:",
+"o": [
+"A dura-máter e o canal vertebral",
+"A aracnoide e a pia-máter",
+"A pia-máter e a medula",
+"O epineuro e o perineuro"
+],
+"e": "O espaço epidural só existe no canal vertebral."
+},
+{
+"c": "snc",
+"q": "A parte do encéfalo que coordena movimento e equilíbrio, afetada na panleucopenia felina intrauterina, é o:",
+"o": [
+"Cerebelo",
+"Hipotálamo",
+"Bulbo",
+"Corpo caloso"
+],
+"e": "Hipoplasia cerebelar: ataxia e tremores de intenção."
+},
+{
+"c": "snc",
+"q": "A célula que reveste os ventrículos e o canal central é a:",
+"o": [
+"Ependimária",
+"Micróglia",
+"Astrócito fibroso",
+"Célula de Purkinje"
+],
+"e": "No plexo corioide participa da produção de LCR."
+},
+{
+"c": "snc",
+"q": "A intumescência lombossacral dá origem ao:",
+"o": [
+"Plexo lombossacral",
+"Plexo braquial",
+"Nervo vago",
+"Nervo frênico"
+],
+"e": "A intumescência cervical origina o plexo braquial."
+},
+{
+"c": "snp",
+"q": "O envoltório conjuntivo de cada fascículo nervoso, que forma a barreira hematoneural, é o:",
+"o": [
+"Perineuro",
+"Epineuro",
+"Endoneuro",
+"Neurilema"
+],
+"e": "Epineuro envolve o nervo; endoneuro, cada fibra."
+},
+{
+"c": "snp",
+"q": "O gânglio espinhal fica na:",
+"o": [
+"Raiz dorsal",
+"Raiz ventral",
+"Ramo ventral",
+"Cadeia simpática"
+],
+"e": "Contém os neurônios sensitivos."
+},
+{
+"c": "snp",
+"q": "O nervo que inerva os músculos da mastigação é o:",
+"o": [
+"Trigêmeo (V)",
+"Facial (VII)",
+"Hipoglosso (XII)",
+"Vago (X)"
+],
+"e": "Ramo mandibular. A paralisia deixa a mandíbula caída."
+},
+{
+"c": "snp",
+"q": "Orelha e lábio caídos de um lado e incapacidade de fechar as pálpebras indicam lesão do nervo:",
+"o": [
+"Facial (VII)",
+"Trigêmeo (V)",
+"Oculomotor (III)",
+"Acessório (XI)"
+],
+"e": "Nervo da expressão facial."
+},
+{
+"c": "snp",
+"q": "A “paralisia laríngea” do cavalo roncador envolve um ramo do nervo:",
+"o": [
+"Vago (laríngeo recorrente esquerdo)",
+"Hipoglosso (ramo lingual esquerdo)",
+"Glossofaríngeo (ramo faríngeo)",
+"Facial (ramo bucal dorsal esquerdo)"
+],
+"e": "O ramo esquerdo tem trajeto mais longo, ao redor do arco aórtico."
+},
+{
+"c": "snp",
+"q": "Na paralisia do nervo radial, o animal:",
+"o": [
+"Não estende o cotovelo e apoia o dorso dos dedos",
+"Não flexiona o joelho e arrasta o membro pélvico",
+"Abre os membros pélvicos ao andar no piso liso",
+"Perde o reflexo patelar e a sensibilidade da coxa"
+],
+"e": "O radial inerva os extensores do cotovelo, carpo e dedos: o animal não sustenta o peso e apoia o dorso dos dedos."
+},
+{
+"c": "snp",
+"q": "A vaca que após um parto distócico abre os membros pélvicos no piso liso tem lesão do nervo:",
+"o": [
+"Obturador",
+"Femoral",
+"Radial",
+"Supraescapular"
+],
+"e": "Inerva os adutores; é comprimido pelo bezerro grande contra a pelve."
+},
+{
+"c": "snp",
+"q": "“Sweeny” no equino é a atrofia por lesão do nervo:",
+"o": [
+"Supraescapular",
+"Axilar",
+"Ulnar",
+"Fibular"
+],
+"e": "Atrofia dos músculos supra e infraespinhal."
+},
+{
+"c": "snp",
+"q": "O apoio sobre o dorso do casco ou dos dedos no membro pélvico sugere lesão do nervo:",
+"o": [
+"Fibular",
+"Tibial",
+"Femoral",
+"Obturador"
+],
+"e": "Inerva extensores dos dedos."
+},
+{
+"c": "snp",
+"q": "O sistema simpático tem origem nos segmentos:",
+"o": [
+"Toracolombares (T1–L3)",
+"Cranianos e sacrais",
+"Apenas cervicais",
+"Apenas sacrais"
+],
+"e": "O parassimpático é craniossacral."
+},
+{
+"c": "snp",
+"q": "O principal nervo parassimpático é o:",
+"o": [
+"Vago (X)",
+"Trigêmeo (V)",
+"Frênico",
+"Isquiático"
+],
+"e": "Vai até o cólon."
+},
+{
+"c": "snp",
+"q": "Miose, ptose, enoftalmia e protrusão da terceira pálpebra caracterizam:",
+"o": [
+"Síndrome de Horner",
+"Paralisia do facial",
+"Paralisia do trigêmeo",
+"Lesão do oculomotor"
+],
+"e": "Perda do simpático para o olho."
+},
+{
+"c": "musculo",
+"q": "Músculos peniformes, comparados aos de fibras paralelas, têm:",
+"o": [
+"Mais força e menor amplitude",
+"Mais amplitude e menos força",
+"Mesma força e amplitude",
+"Fibras mais longas"
+],
+"e": "Muitas fibras curtas e oblíquas por área."
+},
+{
+"c": "musculo",
+"q": "O tendão é formado por tecido:",
+"o": [
+"Conjuntivo denso modelado",
+"Muscular liso",
+"Conjuntivo frouxo",
+"Cartilaginoso hialino"
+],
+"e": "Pouco vascularizado: cicatriza devagar."
+},
+{
+"c": "musculo",
+"q": "A aponeurose é:",
+"o": [
+"Um tendão em forma de lâmina larga",
+"Um envoltório de cada fibra",
+"Uma bolsa sinovial",
+"Um osso sesamoide"
+],
+"e": "Ex.: músculos abdominais e linha alba."
+},
+{
+"c": "musculo",
+"q": "A bolsa sinovial é:",
+"o": [
+"Saco sinovial entre um tendão (ou a pele) e um osso",
+"Envoltório conjuntivo que reveste todo o músculo",
+"Fáscia espessada que cobre a articulação",
+"Tendão intermédio entre dois ventres musculares"
+],
+"e": "É um saco com líquido sinovial entre um tendão (ou pele) e uma saliência óssea. Inflamação: bursite (ex.: higroma do cotovelo)."
+},
+{
+"c": "musculo",
+"q": "O músculo que se opõe ao movimento do agonista é o:",
+"o": [
+"Antagonista",
+"Sinergista",
+"Fixador",
+"Tensor"
+],
+"e": "Ele relaxa para permitir o movimento."
+},
+{
+"c": "musculo",
+"q": "No carpo e nos dedos, os músculos extensores ficam na face:",
+"o": [
+"Dorsal",
+"Palmar",
+"Medial",
+"Caudal"
+],
+"e": "Os flexores ficam na face palmar."
+},
+{
+"c": "musculo",
+"q": "O tronco dos domésticos fica “suspenso” entre os membros torácicos principalmente pelos músculos:",
+"o": [
+"Serrátil ventral e peitorais",
+"Glúteos médio e profundo",
+"Intercostais externos e internos",
+"Reto do abdome e oblíquos"
+],
+"e": "Não há clavícula funcional: sinsarcose."
+},
+{
+"c": "musculo",
+"q": "O aparelho de sustentação permite que o cavalo:",
+"o": [
+"Durma em pé gastando pouca energia",
+"Galope mais rápido em distâncias curtas",
+"Feche a mandíbula com mais força",
+"Respire pelo flanco durante o esforço"
+],
+"e": "Tendões, ligamentos e músculos tendinosos travam as articulações."
+},
+{
+"c": "musculo",
+"q": "O tendão calcâneo comum é formado principalmente pelos músculos:",
+"o": [
+"Gastrocnêmio e flexor digital superficial",
+"Quadríceps femoral, sartório e grácil",
+"Bíceps braquial e braquial do antebraço",
+"Glúteo médio, glúteo profundo e piriforme"
+],
+"e": "Ruptura: jarrete caído."
+},
+{
+"c": "miohisto",
+"q": "Fibras com estrias e núcleos periféricos múltiplos são de músculo:",
+"o": [
+"Estriado esquelético",
+"Estriado cardíaco",
+"Liso",
+"Liso multiunitário"
+],
+"e": "É um sincício de mioblastos fundidos."
+},
+{
+"c": "miohisto",
+"q": "Os discos intercalares são característicos do músculo:",
+"o": [
+"Cardíaco",
+"Esquelético",
+"Liso",
+"Esquelético de fibras tipo I"
+],
+"e": "Unem as células e permitem a contração sincronizada."
+},
+{
+"c": "miohisto",
+"q": "Na contração, a banda que NÃO muda de comprimento é a:",
+"o": [
+"Banda A",
+"Banda I",
+"Zona H",
+"Distância entre linhas Z"
+],
+"e": "A banda A corresponde ao comprimento da miosina."
+},
+{
+"c": "miohisto",
+"q": "O envoltório conjuntivo de cada fascículo muscular é o:",
+"o": [
+"Perimísio",
+"Epimísio",
+"Endomísio",
+"Sarcolema"
+],
+"e": "Epimísio envolve o músculo; endomísio, cada fibra."
+},
+{
+"c": "miohisto",
+"q": "O cálcio para a contração do músculo esquelético vem principalmente do:",
+"o": [
+"Retículo sarcoplasmático",
+"Núcleo da fibra muscular",
+"Mitocôndrias da fibra",
+"Lisossomos do sarcoplasma"
+],
+"e": "Liberado após a despolarização chegar pelos túbulos T."
+},
+{
+"c": "miohisto",
+"q": "Rigor mortis acontece porque:",
+"o": [
+"Sem ATP, as pontes de miosina não se desligam da actina",
+"O cálcio é todo recaptado pelo retículo sarcoplasmático",
+"A actina se despolimeriza e trava os sarcômeros",
+"A miosina é digerida por enzimas lisossômicas"
+],
+"e": "O músculo fica travado até a autólise."
+},
+{
+"c": "miohisto",
+"q": "A regeneração do músculo esquelético depende das:",
+"o": [
+"Células satélites",
+"Células de Purkinje",
+"Células mioepiteliais",
+"Fibroblastos apenas"
+],
+"e": "O cardíaco praticamente não regenera."
+},
+{
+"c": "miohisto",
+"q": "A doença do músculo branco em bezerros e cordeiros é causada por deficiência de:",
+"o": [
+"Selênio e vitamina E",
+"Cálcio e fósforo",
+"Iodo",
+"Vitamina A"
+],
+"e": "Necrose e mineralização de fibras esqueléticas e cardíacas."
+},
+{
+"c": "miohisto",
+"q": "A urina escura do cavalo com rabdomiólise de esforço se deve a:",
+"o": [
+"Mioglobinúria",
+"Bilirrubinúria",
+"Hematúria por cálculo",
+"Hemoglobinúria por babesiose"
+],
+"e": "Mioglobina liberada pelas fibras necrosadas."
+},
+{
+"c": "miohisto",
+"q": "O músculo liso não tem estrias porque:",
+"o": [
+"Actina e miosina não formam sarcômeros alinhados",
+"Não tem actina, apenas filamentos de miosina",
+"Não tem miosina, apenas filamentos de actina",
+"Tem núcleos periféricos que ocultam as estrias"
+],
+"e": "Os filamentos prendem-se a corpos densos, sem formar sarcômeros alinhados; a contração é lenta e sustentada."
+},
+{
+"c": "miohisto",
+"q": "O bovino “culard” (Azul Belga) tem mutação no gene da:",
+"o": [
+"Miostatina",
+"Distrofina",
+"Mioglobina",
+"Rianodina"
+],
+"e": "Mais fibras musculares; partos difíceis."
+},
 {
 "c": "articulacoes",
 "q": "A classificação fisiológica das articulações baseia-se em:",
@@ -16,9 +2975,9 @@ window.LIVRO.Q.push(...[
 "q": "Uma anfiartrose é caracterizada por:",
 "o": [
 "União por cartilagem, com movimento discreto em balanço",
-"União por tecido fibroso, sem movimento",
+"União por tecido fibroso, sem nenhum movimento",
 "Cavidade com líquido sinovial e movimento amplo",
-"União apenas por músculos, sem contato ósseo"
+"União apenas por músculos e fáscias, sem contato entre ossos"
 ],
 "e": "Anfiartroses (cartilaginosas) permitem só um pequeno balanço; sinartroses são fibrosas e diartroses são sinoviais."
 },
@@ -137,9 +3096,9 @@ window.LIVRO.Q.push(...[
 "q": "Qual é a função principal da cartilagem articular numa articulação sinovial?",
 "o": [
 "Reduzir o atrito e absorver impactos entre as superfícies",
-"Produzir o líquido sinovial",
-"Unir firmemente um osso ao outro",
-"Fixar o tendão do músculo ao osso"
+"Produzir o líquido sinovial que lubrifica a articulação",
+"Unir firmemente um osso ao outro, como um ligamento",
+"Fixar o tendão do músculo ao osso subjacente"
 ],
 "e": "A cartilagem hialina articular é lisa e deformável: diminui o atrito e amortece cargas."
 },
@@ -147,23 +3106,23 @@ window.LIVRO.Q.push(...[
 "c": "articulacoes",
 "q": "A punção do líquido sinovial (artrocentese) é feita com finalidade:",
 "o": [
-"Diagnóstica, pois o aspecto do líquido reflete o estado da articulação",
-"De retirar cartilagem articular para biópsia",
-"De medir a densidade óssea da epífise",
-"De avaliar a função da tireoide"
+"Diagnóstica, pois o líquido reflete o estado da articulação",
+"De retirar fragmentos de cartilagem articular para biópsia",
+"De medir a densidade óssea da epífise adjacente à cápsula",
+"De avaliar a função da tireoide pelo iodo do líquido"
 ],
-"e": "O líquido sinovial normal é transparente e viscoso; alterações de cor, viscosidade e celularidade indicam doença articular."
+"e": "A artrocentese é diagnóstica: o líquido sinovial normal é transparente e viscoso; alterações de cor, viscosidade e celularidade indicam doença articular."
 },
 {
 "c": "articulacoes",
 "q": "Os meniscos do joelho são estruturas:",
 "o": [
-"Fibrocartilaginosas em forma de C que ajustam os côndilos do fêmur à tíbia",
-"Ósseas sesamoides que alteram a direção do tendão",
-"Hialinas que recobrem as superfícies articulares",
-"Ligamentares que unem a patela à tíbia"
+"Fibrocartilaginosas em C que ajustam o fêmur à tíbia",
+"Ósseas sesamoides que alteram a direção do tendão do quadríceps",
+"Hialinas que recobrem as superfícies articulares do fêmur e da tíbia",
+"Ligamentares que unem a patela à tuberosidade da tíbia"
 ],
-"e": "Os meniscos medial e lateral são fibrocartilagens em C que aumentam a congruência entre fêmur e tíbia."
+"e": "Os meniscos medial e lateral são fibrocartilagens em forma de C que ajustam os côndilos do fêmur à tíbia, aumentando a congruência entre eles."
 },
 {
 "c": "articulacoes",
@@ -181,9 +3140,9 @@ window.LIVRO.Q.push(...[
 "q": "O chamado “ligamento patelar” é, a rigor, a continuação de qual estrutura?",
 "o": [
 "Do tendão do músculo quadríceps femoral após a patela",
-"Do ligamento colateral medial",
-"Do ligamento cruzado caudal",
-"Do menisco lateral"
+"Do ligamento colateral medial do joelho",
+"Do ligamento cruzado caudal da articulação femorotibial",
+"Do menisco lateral, que se prolonga até a tíbia"
 ],
 "e": "A patela é sesamoide no tendão do quadríceps; o segmento entre patela e tuberosidade da tíbia é a continuação desse tendão."
 },
@@ -214,9 +3173,9 @@ window.LIVRO.Q.push(...[
 "q": "No teste de gaveta de um cão com ruptura do ligamento cruzado cranial, o achado esperado é:",
 "o": [
 "Deslocamento cranial anormal da tíbia em relação ao fêmur",
-"Deslocamento lateral da patela",
-"Aumento do ângulo de flexão do quadril",
-"Rotação da cabeça do fêmur no acetábulo"
+"Deslocamento lateral anormal da patela para fora da tróclea femoral",
+"Aumento do ângulo de flexão da articulação do quadril",
+"Rotação da cabeça do fêmur dentro do acetábulo"
 ],
 "e": "O cruzado cranial impede o avanço cranial da tíbia; sem ele, a tíbia desliza cranialmente (sinal de gaveta positivo)."
 },
@@ -258,9 +3217,9 @@ window.LIVRO.Q.push(...[
 "q": "A maioria das articulações dos membros dos animais domésticos é:",
 "o": [
 "Monoaxial, permitindo basicamente flexão e extensão",
-"Triaxial, permitindo todos os movimentos",
+"Triaxial, permitindo todos os movimentos em qualquer plano",
 "Biaxial, com adução e abdução predominantes",
-"Imóvel, do tipo sinartrose"
+"Imóvel, do tipo sinartrose fibrosa"
 ],
 "e": "Nos domésticos, a maioria das articulações dos membros atua como dobradiça, no plano sagital."
 },
@@ -335,9 +3294,9 @@ window.LIVRO.Q.push(...[
 "q": "Como os condrócitos de uma cartilagem com pericôndrio recebem nutrientes, já que o tecido não tem vasos?",
 "o": [
 "Por difusão através da matriz, a partir dos vasos do pericôndrio",
-"Por capilares que entram em cada lacuna",
-"Por canais de Havers que atravessam a matriz",
-"Por ductos que trazem líquido do periósteo"
+"Por capilares que penetram na matriz e entram em cada lacuna",
+"Por canais de Havers que atravessam a matriz longitudinalmente",
+"Por ductos que trazem líquido do periósteo até os condrócitos"
 ],
 "e": "A cartilagem é avascular; os nutrientes difundem-se pela matriz hidratada a partir dos vasos do pericôndrio."
 },
@@ -357,9 +3316,9 @@ window.LIVRO.Q.push(...[
 "q": "O condrócito é definido como:",
 "o": [
 "Condroblasto aprisionado na matriz que produziu, alojado numa lacuna",
-"Célula do pericôndrio fibroso que produz fibras elásticas",
-"Célula multinucleada que reabsorve a matriz cartilaginosa",
-"Célula que reveste a cavidade medular"
+"Célula da camada fibrosa do pericôndrio que produz fibras elásticas",
+"Célula multinucleada que reabsorve a matriz cartilaginosa calcificada",
+"Célula que reveste a cavidade medular dos ossos longos"
 ],
 "e": "Ao ficar cercado pela matriz que secretou, o condroblasto passa a condrócito, que mantém o tecido."
 },
@@ -389,32 +3348,32 @@ window.LIVRO.Q.push(...[
 "c": "cartilagem",
 "q": "O crescimento aposicional da cartilagem ocorre por:",
 "o": [
-"Diferenciação de células do pericôndrio em condroblastos, que depositam matriz na superfície",
-"Mitose dos condrócitos dentro das lacunas, expandindo o tecido por dentro",
-"Invasão vascular da matriz e deposição de osso",
-"Fusão de grupos isógenos vizinhos"
+"Condroblastos do pericôndrio que depositam matriz na superfície",
+"Mitose dos condrócitos dentro das lacunas, expandindo o tecido",
+"Invasão vascular da matriz seguida de deposição de osso",
+"Fusão de grupos isógenos vizinhos no interior da matriz"
 ],
-"e": "No crescimento aposicional, camadas novas são acrescentadas na superfície a partir do pericôndrio."
+"e": "No crescimento aposicional, células do pericôndrio diferenciam-se em condroblastos, que depositam camadas novas de matriz na superfície."
 },
 {
 "c": "cartilagem",
 "q": "O crescimento intersticial da cartilagem caracteriza-se por:",
 "o": [
-"Divisão mitótica dos condrócitos dentro da matriz, formando grupos isógenos",
-"Deposição de matriz pelos condroblastos do pericôndrio",
-"Substituição da cartilagem por tecido ósseo",
-"Entrada de fibroblastos vindos do tecido conjuntivo frouxo"
+"Mitose dos condrócitos na matriz, formando grupos isógenos",
+"Deposição de matriz pelos condroblastos da camada interna do pericôndrio",
+"Substituição gradual da cartilagem por tecido ósseo trabecular",
+"Entrada de fibroblastos vindos do tecido conjuntivo frouxo vizinho"
 ],
-"e": "Os grupos isógenos são a marca do crescimento intersticial, típico da cartilagem jovem e do disco epifisário."
+"e": "No crescimento intersticial, os condrócitos se dividem dentro da matriz; os grupos isógenos são sua marca, típica da cartilagem jovem e do disco epifisário."
 },
 {
 "c": "cartilagem",
 "q": "Na lâmina de cartilagem hialina, a matriz interterritorial corresponde a:",
 "o": [
 "Região mais clara, situada entre os grupos isógenos",
-"Faixa escura colada ao grupo isógeno",
-"Camada fibrosa do pericôndrio",
-"Lacuna vazia deixada pelo condrócito"
+"Faixa escura e basófila colada ao grupo isógeno",
+"Camada fibrosa e rosada do pericôndrio",
+"Lacuna vazia deixada pelo condrócito retraído"
 ],
 "e": "A matriz territorial, mais basófila, envolve o grupo isógeno; a interterritorial é a área mais clara entre os grupos."
 },
@@ -422,12 +3381,12 @@ window.LIVRO.Q.push(...[
 "c": "cartilagem",
 "q": "A basofilia da matriz da cartilagem hialina deve-se principalmente a:",
 "o": [
-"Glicosaminoglicanos sulfatados, como o condroitim sulfato, dos proteoglicanos",
-"Fibras elásticas abundantes",
-"Feixes espessos de colágeno tipo I",
-"Cristais de hidroxiapatita"
+"Glicosaminoglicanos sulfatados dos proteoglicanos",
+"Fibras elásticas abundantes coradas pela hematoxilina",
+"Feixes espessos de colágeno tipo I entre as lacunas",
+"Cristais de hidroxiapatita depositados na matriz"
 ],
-"e": "Os grupos sulfato e carboxila dos glicosaminoglicanos dão carga negativa e afinidade pela hematoxilina."
+"e": "Os grupos sulfato e carboxila dos glicosaminoglicanos (como o condroitim sulfato) dos proteoglicanos dão carga negativa e afinidade pela hematoxilina."
 },
 {
 "c": "cartilagem",
@@ -444,12 +3403,12 @@ window.LIVRO.Q.push(...[
 "c": "cartilagem",
 "q": "Por que as fibrilas de colágeno da cartilagem hialina não são visíveis ao microscópio de luz em HE?",
 "o": [
-"Porque são fibrilas finas de colágeno tipo II, com índice de refração semelhante ao da matriz",
-"Porque o colágeno é dissolvido no processamento histológico",
-"Porque a cartilagem hialina não contém colágeno",
-"Porque são encobertas pelas fibras elásticas"
+"Porque são fibrilas finas de colágeno II, de refração igual à da matriz",
+"Porque o colágeno é dissolvido durante o processamento histológico",
+"Porque a cartilagem hialina não contém colágeno, só proteoglicanos",
+"Porque são encobertas pelas fibras elásticas abundantes da matriz"
 ],
-"e": "O colágeno tipo II forma fibrilas delgadas, mascaradas pela substância fundamental, o que dá à matriz aspecto homogêneo."
+"e": "O colágeno tipo II forma fibrilas delgadas, com índice de refração semelhante ao da substância fundamental, que as mascara e dá à matriz aspecto homogêneo."
 },
 {
 "c": "cartilagem",
@@ -521,12 +3480,12 @@ window.LIVRO.Q.push(...[
 "c": "cartilagem",
 "q": "Em uma anotação consta “cartilagem elástica: colágeno tipo I”. A correção adequada é:",
 "o": [
-"Colágeno tipo II mais fibras elásticas; o colágeno I em destaque é da fibrosa",
+"Colágeno tipo II mais fibras elásticas",
 "Colágeno tipo III mais fibras reticulares",
 "Apenas fibras elásticas, sem nenhum colágeno",
 "Colágeno tipo I mais fibras elásticas, como está escrito"
 ],
-"e": "Só a fibrocartilagem tem colágeno tipo I abundante; a elástica tem colágeno II e fibras elásticas."
+"e": "Só a fibrocartilagem tem colágeno tipo I abundante; a elástica tem colágeno tipo II e fibras elásticas. O colágeno I anotado pertence à cartilagem fibrosa."
 },
 {
 "c": "cartilagem",
@@ -555,9 +3514,9 @@ window.LIVRO.Q.push(...[
 "q": "Em HE, a matriz da cartilagem fibrosa tende a ser:",
 "o": [
 "Acidófila, pelo predomínio de colágeno tipo I",
-"Intensamente basófila e homogênea",
-"Totalmente incolor",
-"Preta, pelas fibras elásticas"
+"Intensamente basófila e homogênea, como a hialina",
+"Totalmente incolor, por falta de proteoglicanos",
+"Preta, pela abundância de fibras elásticas"
 ],
 "e": "Os feixes de colágeno tipo I tornam a matriz da fibrocartilagem mais acidófila que a da hialina."
 },
@@ -599,9 +3558,9 @@ window.LIVRO.Q.push(...[
 "q": "Ao comparar lâminas de pavilhão auricular e de disco intervertebral, qual achado está presente apenas na primeira e ajuda a separá-las?",
 "o": [
 "Pericôndrio com condroblastos achatados na borda",
-"Condrócitos dentro de lacunas",
-"Matriz extracelular abundante",
-"Ausência de vasos sanguíneos na matriz"
+"Condrócitos alojados dentro de lacunas na matriz",
+"Matriz extracelular abundante entre as células",
+"Ausência de vasos sanguíneos no interior da matriz"
 ],
 "e": "A cartilagem elástica tem pericôndrio e condroblastos periféricos; a fibrocartilagem não tem pericôndrio. Lacunas, matriz abundante e avascularidade são comuns às duas."
 },
@@ -621,9 +3580,9 @@ window.LIVRO.Q.push(...[
 "q": "Na estação da lâmina de disco intervertebral, o roteiro pede apenas condrócitos e matriz. A ausência de condroblastos se explica porque:",
 "o": [
 "A fibrocartilagem não tem pericôndrio, fonte dos condroblastos",
-"Os condroblastos foram destruídos pela fixação",
-"Os condroblastos ficam só no centro da peça",
-"A coloração HE não cora condroblastos"
+"Os condroblastos foram destruídos pela fixação em formol",
+"Os condroblastos ficam apenas no centro da peça, fora do corte",
+"A coloração HE não cora o citoplasma dos condroblastos"
 ],
 "e": "Sem pericôndrio não há camada condrogênica; por isso a fibrosa não mostra condroblastos periféricos."
 },
@@ -643,9 +3602,9 @@ window.LIVRO.Q.push(...[
 "q": "Na lâmina de traqueia corada em HE, o pericôndrio aparece como:",
 "o": [
 "Faixa rosa de tecido conjuntivo denso na borda da cartilagem",
-"Faixa azulada e lisa no centro da peça",
-"Grupos de células arredondadas em lacunas",
-"Fibras escuras e ramificadas entre as células"
+"Faixa azulada, lisa e homogênea no centro da peça",
+"Grupos de células arredondadas alojadas em lacunas",
+"Fibras escuras e ramificadas entre as células da matriz"
 ],
 "e": "O pericôndrio (TC denso) cora em rosa na periferia; a matriz hialina é azulada e homogênea."
 },
@@ -654,9 +3613,9 @@ window.LIVRO.Q.push(...[
 "q": "A cartilagem fibrosa é frequentemente descrita como um tecido de transição entre:",
 "o": [
 "Tecido conjuntivo denso e cartilagem hialina",
-"Tecido ósseo e tecido adiposo",
-"Cartilagem elástica e epitélio",
-"Tecido muscular liso e tendão"
+"Tecido ósseo compacto e tecido adiposo",
+"Cartilagem elástica e epitélio de revestimento",
+"Tecido muscular liso e tecido tendíneo"
 ],
 "e": "A fibrocartilagem combina feixes de colágeno tipo I, como no conjuntivo denso, com condrócitos e matriz cartilaginosa."
 },
@@ -677,8 +3636,8 @@ window.LIVRO.Q.push(...[
 "o": [
 "Pela sequência dos forames vertebrais de todas as vértebras",
 "Pela soma dos forames intervertebrais de cada lado",
-"Pela união dos forames transversos das cervicais",
-"Pelos espaços interarcuais entre vértebras vizinhas"
+"Pela união dos forames transversos das vértebras cervicais",
+"Pelos espaços interarcuais entre todas as vértebras vizinhas"
 ],
 "e": "Cada vértebra tem um forame vertebral; alinhados em sequência, eles formam o canal vertebral."
 },
@@ -719,12 +3678,12 @@ window.LIVRO.Q.push(...[
 "c": "coluna",
 "q": "No equino, a altura do animal é medida na cernelha, que é formada principalmente:",
 "o": [
-"Pelos processos espinhosos das primeiras torácicas (cerca de T3 a T8)",
-"Pelos processos transversos das últimas cervicais",
-"Pela crista sacral mediana",
-"Pelo processo espinhoso do áxis"
+"Pelos processos espinhosos das primeiras vértebras torácicas",
+"Pelos processos transversos das últimas vértebras cervicais",
+"Pela crista sacral mediana e pelas tuberosidades do coxal",
+"Pelo processo espinhoso alto e longo do áxis"
 ],
-"e": "Os processos espinhosos mais altos da coluna, nas primeiras torácicas, formam a cernelha, ponto de medida da altura do cavalo."
+"e": "Os processos espinhosos mais altos da coluna, nas primeiras torácicas (cerca de T3 a T8), formam a cernelha, ponto de medida da altura do cavalo."
 },
 {
 "c": "coluna",
@@ -808,9 +3767,9 @@ window.LIVRO.Q.push(...[
 "q": "O promontório sacral, marco usado na medida do diâmetro da pelve, corresponde à:",
 "o": [
 "Borda cranioventral do corpo da primeira vértebra sacral",
-"Extremidade caudal da crista sacral mediana",
-"Face auricular da asa do sacro",
-"Borda dorsal do forame sacral dorsal"
+"Extremidade caudal da crista sacral mediana do sacro",
+"Face auricular da asa do sacro, junto ao ílio",
+"Borda dorsal do primeiro forame sacral dorsal"
 ],
 "e": "O promontório é a borda cranioventral do corpo de S1, referência para o diâmetro conjugado da pelve."
 },
@@ -1083,9 +4042,9 @@ window.LIVRO.Q.push(...[
 "q": "Em qual região da mandíbula do cavalo se apoia o bocal do bridão?",
 "o": [
 "Borda interalveolar (diastema)",
-"Processo coronoide",
-"Ângulo da mandíbula",
-"Incisura mandibular"
+"Processo coronoide da mandíbula",
+"Ângulo caudal da mandíbula",
+"Incisura mandibular, junto à ATM"
 ],
 "e": "A borda interalveolar é o espaço sem dentes entre incisivos/caninos e pré-molares, onde o bridão se apoia."
 },
@@ -1688,9 +4647,9 @@ window.LIVRO.Q.push(...[
 "q": "Durante a necropsia de um bovino adulto, encontra-se uma pequena peça óssea na base da valva aórtica. Ela corresponde a:",
 "o": [
 "Osso do coração, componente do esqueleto visceral",
-"Sesamoide do esqueleto apendicular",
-"Fragmento de costela do esqueleto axial",
-"Cartilagem articular calcificada"
+"Sesamoide do esqueleto apendicular, preso a um tendão",
+"Fragmento de costela do esqueleto axial deslocado",
+"Cartilagem costal calcificada desprendida do esterno"
 ],
 "e": "O osso do coração dos bovinos desenvolve-se dentro de uma víscera e não se articula com o restante do esqueleto: é esqueleto visceral (esplâncnico)."
 },
@@ -1710,9 +4669,9 @@ window.LIVRO.Q.push(...[
 "q": "Sobre a clavícula nos mamíferos domésticos, é correto afirmar que ela é:",
 "o": [
 "Rudimentar no gato, vestigial ou ausente no cão e ausente nos ungulados",
-"Bem desenvolvida no equino e articulada ao esterno",
-"Ausente no gato e presente como osso completo no bovino",
-"Presente e funcional em todos os carnívoros, como no homem"
+"Bem desenvolvida no equino, articulada ao esterno e ao acrômio da escápula",
+"Ausente no gato e no cão, mas presente como osso completo no bovino",
+"Presente e funcional em todos os carnívoros, articulada como no homem"
 ],
 "e": "Nos domésticos o cíngulo escapular se reduz praticamente à escápula; a clavícula só persiste como rudimento nos carnívoros e falta nos ungulados."
 },
@@ -1732,9 +4691,9 @@ window.LIVRO.Q.push(...[
 "q": "A pelve óssea, que prende o membro pélvico ao tronco, é formada por:",
 "o": [
 "Coxal (ílio, ísquio e púbis), sacro e primeiras vértebras caudais",
-"Escápula, clavícula e coracoide",
-"Fêmur, patela e primeiras vértebras lombares",
-"Últimas vértebras lombares e últimos pares de costelas"
+"Escápula, clavícula e coracoide, unidos ao esterno por sincondrose",
+"Fêmur, patela e primeiras vértebras lombares, unidos por ligamentos",
+"Últimas vértebras lombares e últimos pares de costelas asternais"
 ],
 "e": "O cíngulo pélvico propriamente dito é o coxal (ílio, ísquio e púbis); junto com o sacro e as primeiras vértebras caudais forma a pelve óssea, presa à coluna pela articulação sacroilíaca."
 },
@@ -1742,10 +4701,10 @@ window.LIVRO.Q.push(...[
 "c": "esqueleto",
 "q": "Por que o membro pélvico, ao contrário do torácico, é ligado ao tronco por uma articulação óssea?",
 "o": [
-"Porque é o principal propulsor e a articulação sacroilíaca transmite essa força ao tronco",
-"Porque recebe a maior parte do impacto do apoio, que precisa ser amortecido",
-"Porque não existem músculos capazes de fixar o membro pélvico ao tronco",
-"Porque o coxal é um osso visceral e precisa de fixação firme"
+"Porque é o principal propulsor e a sacroilíaca transmite essa força ao tronco",
+"Porque recebe a maior parte do impacto do apoio, que precisa ser amortecido pelo osso",
+"Porque não existem músculos fortes o bastante para fixar o membro pélvico ao tronco",
+"Porque o coxal é um osso visceral e precisa de fixação firme à coluna vertebral"
 ],
 "e": "O membro pélvico impulsiona o animal, e a ligação coxal–sacro transmite essa força; o torácico, preso por sinsarcose, amortece o impacto."
 },
@@ -1819,12 +4778,12 @@ window.LIVRO.Q.push(...[
 "c": "esqueleto",
 "q": "A função mecânica de um osso sesamoide, como a patela ou o navicular do equino, é:",
 "o": [
-"Mudar a direção de um tendão e reduzir o atrito sobre ele, como uma roldana",
-"Unir dois ossos distantes por meio de uma membrana",
-"Abrigar medula óssea vermelha para a hematopoiese",
-"Servir de molde cartilaginoso para a ossificação"
+"Mudar a direção de um tendão e reduzir o atrito sobre ele",
+"Unir dois ossos distantes por meio de uma membrana interóssea",
+"Abrigar medula óssea vermelha para a hematopoiese no adulto",
+"Servir de molde cartilaginoso para a ossificação dos ossos vizinhos"
 ],
-"e": "Os sesamoides ficam dentro de tendões ou ligamentos e funcionam como roldanas, alterando a direção da força e protegendo o tendão."
+"e": "Os sesamoides ficam dentro de tendões ou ligamentos e funcionam como roldanas, alterando a direção da força e reduzindo o atrito, o que protege o tendão."
 },
 {
 "c": "esqueleto",
@@ -1918,12 +4877,12 @@ window.LIVRO.Q.push(...[
 "c": "esqueleto",
 "q": "Em relação ao número de vértebras cervicais nos mamíferos domésticos, é correto afirmar que:",
 "o": [
-"São sete em todas as espécies, independentemente do comprimento do pescoço",
+"São sete em todas as espécies domésticas",
 "Variam de seis a nove conforme o comprimento do pescoço",
 "O equino tem nove, por ter o pescoço mais longo",
 "Os carnívoros têm cinco, compensadas por mais lombares"
 ],
-"e": "O número de cervicais é constante (7) entre os domésticos; o pescoço longo do equino resulta de vértebras mais longas, não mais numerosas."
+"e": "O número de cervicais é constante (7) entre os domésticos, independentemente do comprimento do pescoço; o pescoço longo do equino resulta de vértebras mais longas, não mais numerosas."
 },
 {
 "c": "esqueleto",
@@ -1995,10 +4954,10 @@ window.LIVRO.Q.push(...[
 "c": "esqueleto",
 "q": "Por que o número total de ossos de uma mesma espécie varia entre as fontes?",
 "o": [
-"Porque ossos separados no jovem se fundem no adulto e os autores usam critérios de contagem distintos",
-"Porque o número de vértebras cervicais varia entre indivíduos",
-"Porque os sesamoides só se formam após fraturas",
-"Porque o esqueleto visceral é contado apenas nos herbívoros"
+"Porque ossos do jovem se fundem no adulto e os critérios de contagem variam",
+"Porque o número de vértebras cervicais varia muito entre indivíduos da raça",
+"Porque os sesamoides só se formam após fraturas cicatrizadas no adulto",
+"Porque o esqueleto visceral é contado apenas nos herbívoros e nos suínos"
 ],
 "e": "A contagem depende da idade (fusão de centros de ossificação) e do critério de cada autor, por isso os valores são aproximados."
 },
@@ -2139,9 +5098,9 @@ window.LIVRO.Q.push(...[
 "q": "A canela do equino, no membro torácico, corresponde a:",
 "o": [
 "Metacarpo III e metacarpos rudimentares II e IV",
-"Rádio e ulna",
-"Falange proximal",
-"Ossos do carpo"
+"Rádio e ulna, na porção distal do antebraço",
+"Falange proximal e sesamoides proximais",
+"Ossos das fileiras proximal e distal do carpo"
 ],
 "e": "A região metacárpica (canela) tem o MC III como osso principal e os rudimentares II e IV."
 },
@@ -2315,9 +5274,9 @@ window.LIVRO.Q.push(...[
 "q": "Um potro apresenta aumento de volume quente e doloroso entre os ramos da mandíbula, com febre e secreção nasal. A suspeita é de:",
 "o": [
 "Garrotilho, com abscesso nos linfonodos mandibulares",
-"Laminite com rotação da falange distal",
-"Timpanismo com dilatação do flanco",
-"Tromboflebite da veia jugular externa"
+"Laminite aguda com rotação da falange distal",
+"Timpanismo gasoso com dilatação do flanco esquerdo",
+"Tromboflebite séptica da veia jugular externa"
 ],
 "e": "O garrotilho (Streptococcus equi) causa abscedação dos linfonodos mandibulares no equino."
 },
@@ -2336,12 +5295,12 @@ window.LIVRO.Q.push(...[
 "c": "exterior",
 "q": "No escore de condição corporal de vacas leiteiras (escala de 1 a 5), avalia-se a cobertura de gordura sobre:",
 "o": [
-"Tuberosidades coxal e isquiática e processos transversos lombares",
-"Escápula, úmero e olécrano",
-"Costelas, esterno e cartilagens costais",
+"Ponta do quadril, ísquio e processos transversos lombares",
+"Escápula, úmero e olécrano do membro torácico",
+"Cernelha, processos espinhosos cervicais e barbela",
 "Patela, calcâneo e osso acessório do carpo"
 ],
-"e": "Esses pontos ósseos palpáveis da garupa e do lombo definem a nota de condição corporal."
+"e": "Tuberosidades coxal (ponta do quadril) e isquiática e processos transversos lombares: esses pontos ósseos palpáveis da garupa e do lombo definem a nota de condição corporal."
 },
 {
 "c": "exterior",
@@ -2435,12 +5394,12 @@ window.LIVRO.Q.push(...[
 "c": "mamaria",
 "q": "A porca possui, em geral:",
 "o": [
-"12 a 16 mamas, da região torácica à inguinal, com 2 óstios por teto",
+"12 a 16 mamas, com 2 óstios por teto",
 "4 mamas inguinais com 1 óstio por teto",
-"8 mamas torácicas e abdominais com 4 a 7 óstios por teto",
+"8 mamas abdominais com 4 a 7 óstios por teto",
 "10 mamas com 8 a 14 óstios por teto"
 ],
-"e": "A porca tem 6 a 8 pares de mamas ao longo de todo o ventre, com 2 (às vezes 3) óstios por teto."
+"e": "A porca tem 6 a 8 pares de mamas ao longo de todo o ventre (da região torácica à inguinal), com 2 (às vezes 3) óstios por teto."
 },
 {
 "c": "mamaria",
@@ -2534,10 +5493,10 @@ window.LIVRO.Q.push(...[
 "c": "mamaria",
 "q": "O ducto papilar é revestido por epitélio estratificado queratinizado. Qual a importância disso?",
 "o": [
-"O tampão de queratina tem ação antimicrobiana e veda o canal",
-"A queratina produz o colostro",
-"A queratina é a fonte da gordura do leite",
-"O epitélio queratinizado secreta ocitocina"
+"A queratina veda o canal e tem ação antimicrobiana",
+"A queratina descamada é o principal componente do colostro",
+"A queratina fornece a maior parte da gordura do leite",
+"O epitélio queratinizado secreta ocitocina na ordenha"
 ],
 "e": "A queratina do ducto papilar forma um tampão físico e químico contra bactérias."
 },
@@ -2556,10 +5515,10 @@ window.LIVRO.Q.push(...[
 "c": "mamaria",
 "q": "Por que se recomenda oferecer alimento às vacas logo após a ordenha?",
 "o": [
-"Para que fiquem em pé enquanto o esfíncter do teto, ainda aberto, se fecha",
-"Para estimular nova liberação de ocitocina",
-"Para aumentar o fluxo na veia do leite",
-"Para impedir a formação do tampão de queratina"
+"Para que fiquem em pé até o esfíncter do teto se fechar",
+"Para estimular nova liberação de ocitocina e de leite",
+"Para aumentar o fluxo sanguíneo na veia do leite",
+"Para impedir a formação do tampão de queratina no teto"
 ],
 "e": "O esfíncter permanece aberto cerca de 30 minutos; em pé, a vaca não expõe os tetos à cama contaminada."
 },
@@ -2578,10 +5537,10 @@ window.LIVRO.Q.push(...[
 "c": "mamaria",
 "q": "Num rebanho com ordenhadeira regulada com vácuo excessivo, observa-se hiperqueratose na ponta dos tetos. A consequência esperada é:",
 "o": [
-"Aumento da incidência de mastite por fechamento deficiente do teto",
-"Redução das células somáticas no leite",
-"Hipertrofia do ligamento suspensório medial",
-"Bloqueio da liberação de ocitocina"
+"Mais mastite, por fechamento deficiente do ducto papilar",
+"Redução da contagem de células somáticas no leite",
+"Hipertrofia do ligamento suspensório medial do úbere",
+"Bloqueio da liberação de ocitocina pela neuro-hipófise"
 ],
 "e": "A hiperqueratose prejudica o fechamento do ducto papilar e facilita a entrada de bactérias."
 },
@@ -2644,10 +5603,10 @@ window.LIVRO.Q.push(...[
 "c": "mamaria",
 "q": "A “fonte do leite” da vaca é:",
 "o": [
-"O orifício na parede abdominal por onde a veia do leite penetra",
-"O óstio papilar na ponta do teto",
-"A cisterna da glândula",
-"A prega anular entre as cisternas"
+"O orifício por onde a veia do leite entra no abdome",
+"O óstio papilar na ponta do teto, por onde sai o leite",
+"A cisterna da glândula, onde o leite se acumula",
+"A prega anular entre a cisterna da glândula e a do teto"
 ],
 "e": "É o ponto em que a veia epigástrica superficial cranial atravessa a parede para seguir até o tórax."
 },
@@ -2667,9 +5626,9 @@ window.LIVRO.Q.push(...[
 "q": "Na vaca, os linfonodos que drenam o úbere são palpados:",
 "o": [
 "Na face caudal do úbere, acima dos quartos posteriores",
-"Na região pré-escapular",
-"Entre os ramos da mandíbula",
-"Na fossa paralombar esquerda"
+"Na região pré-escapular, cranial ao ombro",
+"Entre os ramos da mandíbula, no espaço intermandibular",
+"Na fossa paralombar esquerda, abaixo dos processos transversos"
 ],
 "e": "Os linfonodos mamários (supramamários) ficam na face caudal, dorsal aos quartos posteriores."
 },
@@ -2732,10 +5691,10 @@ window.LIVRO.Q.push(...[
 "c": "mamaria",
 "q": "As imunoglobulinas do colostro chegam ao leite por:",
 "o": [
-"Transcitose a partir do sangue, pelo epitélio alveolar",
-"Síntese no RER das células alveolares",
+"Transcitose do sangue através do epitélio alveolar",
+"Síntese no RER das próprias células alveolares da mama",
 "Secreção holócrina das células mioepiteliais",
-"Difusão a partir do ducto papilar"
+"Difusão retrógrada a partir do ducto papilar"
 ],
 "e": "As imunoglobulinas são captadas do sangue por receptores e atravessam o epitélio nas últimas semanas de gestação."
 },
@@ -2908,8 +5867,8 @@ window.LIVRO.Q.push(...[
 "c": "miohisto",
 "q": "Após um infarto do miocárdio, a região necrosada é reparada por:",
 "o": [
-"Cicatriz fibrosa, pois a regeneração do miocárdio é praticamente nula",
-"Mitose dos cardiomiócitos remanescentes",
+"Cicatriz fibrosa, pois o miocárdio quase não regenera",
+"Mitose intensa dos cardiomiócitos remanescentes",
 "Células satélites que formam novos cardiomiócitos",
 "Fusão de mioblastos, como no músculo esquelético"
 ],
@@ -2952,10 +5911,10 @@ window.LIVRO.Q.push(...[
 "c": "miohisto",
 "q": "O músculo cardíaco é considerado involuntário e automático porque:",
 "o": [
-"Contrai por um marca-passo próprio, apenas modulado pelo sistema autônomo",
+"Tem marca-passo próprio, só modulado pelo autônomo",
 "Depende de um nervo motor somático para cada contração",
-"Só contrai sob estímulo hormonal",
-"Contrai apenas quando estirado"
+"Só contrai sob estímulo hormonal da adrenalina",
+"Contrai apenas quando suas fibras são estiradas"
 ],
 "e": "O coração tem atividade de marca-passo intrínseca; o autônomo apenas altera frequência e força."
 },
@@ -2997,9 +5956,9 @@ window.LIVRO.Q.push(...[
 "q": "No músculo esquelético, o retículo endoplasmático liso especializado em armazenar cálcio recebe o nome de:",
 "o": [
 "Retículo sarcoplasmático",
-"Sarcolema",
-"Túbulo T",
-"Corpo denso"
+"Sarcolema da fibra",
+"Túbulo T transverso",
+"Corpo denso citoplasmático"
 ],
 "e": "O retículo sarcoplasmático é o RE liso da fibra muscular, reserva de Ca2+ para a contração."
 },
@@ -3007,21 +5966,21 @@ window.LIVRO.Q.push(...[
 "c": "miohisto",
 "q": "Os túbulos T da fibra muscular esquelética são:",
 "o": [
-"Invaginações do sarcolema que levam a despolarização para o interior da fibra",
+"Invaginações do sarcolema que levam a despolarização",
 "Cisternas do retículo sarcoplasmático que armazenam cálcio",
 "Feixes de filamentos de actina presos à linha Z",
 "Mitocôndrias alinhadas entre as miofibrilas"
 ],
-"e": "Os túbulos T são continuações do sarcolema que conduzem o potencial de ação até as cisternas do retículo."
+"e": "Os túbulos T são continuações do sarcolema que conduzem o potencial de ação para o interior da fibra, até as cisternas do retículo."
 },
 {
 "c": "miohisto",
 "q": "A tríade da fibra muscular esquelética é formada por:",
 "o": [
-"Um túbulo T e duas cisternas do retículo sarcoplasmático",
-"Uma linha Z e duas bandas I",
-"Actina, miosina e tropomiosina",
-"Três miofibrilas adjacentes"
+"Um túbulo T e duas cisternas terminais do retículo",
+"Uma linha Z e duas bandas I adjacentes do sarcômero",
+"Actina, miosina e tropomiosina do filamento fino",
+"Três miofibrilas adjacentes unidas por desmina"
 ],
 "e": "A tríade é a associação de um túbulo T com duas cisternas terminais do retículo sarcoplasmático."
 },
@@ -3073,10 +6032,10 @@ window.LIVRO.Q.push(...[
 "c": "miohisto",
 "q": "A sequência correta no acoplamento excitação–contração do músculo esquelético é:",
 "o": [
-"Acetilcolina na placa → despolarização pelos túbulos T → saída de Ca2+ do retículo → Ca2+ liga-se à troponina",
-"Ca2+ liga-se à troponina → acetilcolina na placa → túbulos T → saída de Ca2+",
-"Saída de Ca2+ do retículo → acetilcolina na placa → troponina → túbulos T",
-"Túbulos T → acetilcolina → troponina → saída de Ca2+ do retículo"
+"Acetilcolina na placa → despolarização dos túbulos T → saída de Ca2+ do retículo → Ca2+ liga-se à troponina",
+"Ca2+ liga-se à troponina → acetilcolina na placa → despolarização dos túbulos T → saída de Ca2+ do retículo",
+"Saída de Ca2+ do retículo → acetilcolina na placa → Ca2+ liga-se à troponina → despolarização dos túbulos T",
+"Despolarização dos túbulos T → acetilcolina na placa → Ca2+ liga-se à troponina → saída de Ca2+ do retículo"
 ],
 "e": "A acetilcolina despolariza o sarcolema, os túbulos T levam o sinal para dentro, o retículo libera Ca2+ e este, ligado à troponina, desloca a tropomiosina."
 },
@@ -3084,10 +6043,10 @@ window.LIVRO.Q.push(...[
 "c": "miohisto",
 "q": "A ligação do Ca2+ à troponina permite a contração porque:",
 "o": [
-"Desloca a tropomiosina, expondo os sítios de ligação da actina",
-"Hidrolisa o ATP da cabeça da miosina",
-"Aproxima diretamente as linhas Z",
-"Abre os canais de acetilcolina do sarcolema"
+"Desloca a tropomiosina e expõe os sítios da actina",
+"Hidrolisa diretamente o ATP da cabeça da miosina",
+"Aproxima diretamente as linhas Z do sarcômero",
+"Abre os canais de acetilcolina da placa motora"
 ],
 "e": "Em repouso a tropomiosina bloqueia a actina; o complexo Ca2+–troponina a afasta e as pontes cruzadas se formam."
 },
@@ -3095,10 +6054,10 @@ window.LIVRO.Q.push(...[
 "c": "miohisto",
 "q": "No músculo esquelético, o ATP é necessário:",
 "o": [
-"Para o ciclo das pontes cruzadas e para bombear Ca2+ de volta ao retículo",
+"Para as pontes cruzadas e para recaptar o Ca2+",
 "Apenas para liberar acetilcolina na placa motora",
-"Apenas para abrir o receptor de rianodina",
-"Somente para formar a linha Z"
+"Apenas para abrir o receptor de rianodina do retículo",
+"Somente para formar e manter a linha Z"
 ],
 "e": "A miosina gasta ATP para puxar a actina e soltar-se dela, e a recaptação do cálcio pelo retículo também consome ATP."
 },
@@ -3106,12 +6065,12 @@ window.LIVRO.Q.push(...[
 "c": "miohisto",
 "q": "Na hipertermia maligna dos suínos, desencadeada por estresse ou halotano, o defeito está:",
 "o": [
-"No receptor de rianodina (RYR1), que libera Ca2+ sem controle",
-"Na acetilcolinesterase da placa motora",
-"No gene da miostatina",
-"Nos discos intercalares do miocárdio"
+"No receptor de rianodina, que libera Ca2+ sem controle",
+"Na acetilcolinesterase, que degrada a acetilcolina",
+"No gene da miostatina, que limita a massa muscular",
+"Nos discos intercalares, que unem os cardiomiócitos"
 ],
-"e": "A mutação do RYR1 faz o retículo liberar cálcio descontroladamente, com contração contínua, calor e carne PSE."
+"e": "A mutação do receptor de rianodina (RYR1) faz o retículo liberar cálcio descontroladamente, com contração contínua, calor e carne PSE."
 },
 {
 "c": "miohisto",
@@ -3139,12 +6098,12 @@ window.LIVRO.Q.push(...[
 "c": "miohisto",
 "q": "Fibras musculares do tipo I (lentas, vermelhas) caracterizam-se por:",
 "o": [
-"Muita mioglobina e mitocôndrias, metabolismo aeróbio e resistência à fadiga",
+"Muita mioglobina e mitocôndrias, e resistência à fadiga",
 "Pouca mioglobina, metabolismo glicolítico e fadiga rápida",
 "Ausência de mitocôndrias e grande reserva de glicogênio",
 "Contração rápida e metabolismo exclusivamente anaeróbio"
 ],
-"e": "As fibras tipo I são oxidativas e resistentes à fadiga, predominando em músculos posturais e em cavalos de enduro."
+"e": "As fibras tipo I são oxidativas (metabolismo aeróbio) e resistentes à fadiga, predominando em músculos posturais e em cavalos de enduro."
 },
 {
 "c": "miohisto",
@@ -3162,9 +6121,9 @@ window.LIVRO.Q.push(...[
 "q": "A arrancada explosiva de um cavalo Quarto de Milha depende principalmente de fibras:",
 "o": [
 "Tipo IIB/IIX, rápidas glicolíticas",
-"Tipo I, lentas oxidativas",
-"Lisas multiunitárias",
-"Cardíacas de condução"
+"Tipo I, lentas e oxidativas, ricas em mioglobina",
+"Lisas multiunitárias da parede vascular",
+"Cardíacas de condução (Purkinje)"
 ],
 "e": "Esforços curtos e muito intensos usam as fibras rápidas glicolíticas, que se fadigam rapidamente."
 },
@@ -3272,9 +6231,9 @@ window.LIVRO.Q.push(...[
 "q": "Um cão com paralisia do nervo radial há dois meses tem o tríceps visivelmente diminuído. Microscopicamente espera-se:",
 "o": [
 "Fibras menores com aumento de conjuntivo e gordura",
-"Fibras maiores com núcleos centrais",
-"Discos intercalares entre as fibras",
-"Mineralização difusa por falta de selênio"
+"Fibras maiores com núcleos centrais e vacúolos",
+"Discos intercalares unindo as fibras esqueléticas",
+"Mineralização difusa por deficiência de selênio"
 ],
 "e": "A atrofia por desnervação reduz o diâmetro das fibras, e o espaço é ocupado por conjuntivo e gordura."
 },
@@ -3293,10 +6252,10 @@ window.LIVRO.Q.push(...[
 "c": "musculo",
 "q": "O ventre de um músculo esquelético corresponde:",
 "o": [
-"À porção carnosa e contrátil, formada pelas fibras musculares",
+"À porção carnosa e contrátil, de fibras musculares",
 "À extremidade de inserção, de conjuntivo denso",
-"Ao envoltório de fáscia profunda",
-"À bolsa sinovial que o separa do osso"
+"Ao envoltório de fáscia profunda que o recobre",
+"À bolsa sinovial que o separa do osso subjacente"
 ],
 "e": "O ventre é a parte vermelha e contrátil; tendão e aponeurose são as partes de ligação."
 },
@@ -3305,9 +6264,9 @@ window.LIVRO.Q.push(...[
 "q": "O nome do músculo digástrico indica que ele possui:",
 "o": [
 "Dois ventres unidos por um tendão intermédio",
-"Duas cabeças de origem separadas",
-"Fibras dispostas de forma bipenada",
-"Inserção em dois ossos diferentes"
+"Duas cabeças de origem separadas e um tendão",
+"Fibras dispostas de forma bipenada no ventre",
+"Inserção em dois ossos diferentes da cabeça"
 ],
 "e": "Digástrico significa dois ventres, ligados por um tendão intermédio; bíceps, tríceps e quadríceps referem-se a cabeças."
 },
@@ -3327,9 +6286,9 @@ window.LIVRO.Q.push(...[
 "q": "Quando um músculo se contrai, em geral:",
 "o": [
 "A inserção, mais móvel, é puxada em direção à origem",
-"A origem é puxada em direção à inserção",
-"Origem e inserção se afastam",
-"O ventre se alonga e o tendão encurta"
+"A origem, mais móvel, é puxada em direção à inserção",
+"Origem e inserção se afastam durante o encurtamento",
+"O ventre se alonga enquanto o tendão encurta"
 ],
 "e": "A origem é o ponto mais fixo (geralmente proximal) e a inserção, o mais móvel (geralmente distal)."
 },
@@ -3359,10 +6318,10 @@ window.LIVRO.Q.push(...[
 "c": "musculo",
 "q": "A bainha sinovial (tendínea) é:",
 "o": [
-"Um saco sinovial que envolve o tendão onde ele desliza sobre o osso",
-"Uma faixa de fáscia espessada que prende os tendões",
-"Um osso desenvolvido dentro de um tendão",
-"Um coxim de gordura entre músculos"
+"Saco sinovial que envolve o tendão onde ele desliza",
+"Faixa de fáscia espessada que prende os tendões",
+"Osso sesamoide desenvolvido dentro de um tendão",
+"Coxim de gordura situado entre músculos vizinhos"
 ],
 "e": "A bainha sinovial envolve o tendão em seu trajeto de deslizamento; sua inflamação é a tenossinovite."
 },
@@ -3371,9 +6330,9 @@ window.LIVRO.Q.push(...[
 "q": "O vessigão tendíneo do equino corresponde a:",
 "o": [
 "Tenossinovite, com distensão de uma bainha sinovial",
-"Ruptura do tendão calcâneo comum",
-"Bursite da cernelha",
-"Fratura do osso navicular"
+"Ruptura parcial do tendão calcâneo comum",
+"Bursite supraespinhosa da cernelha, por trauma da sela",
+"Fratura do osso navicular com artrite do casco"
 ],
 "e": "O vessigão tendíneo é a distensão de uma bainha sinovial (tenossinovite), por exemplo da bainha digital."
 },
@@ -3437,9 +6396,9 @@ window.LIVRO.Q.push(...[
 "q": "Os músculos circulares, como o orbicular do olho e o orbicular da boca, têm ação de:",
 "o": [
 "Esfíncter (constritor)",
-"Extensor",
-"Abdutor",
-"Rotador"
+"Extensor (dilatador)",
+"Abdutor (dilatador lateral)",
+"Rotador (supinador)"
 ],
 "e": "Fibras dispostas em círculo fecham uma abertura, funcionando como esfíncteres."
 },
@@ -3448,9 +6407,9 @@ window.LIVRO.Q.push(...[
 "q": "Um músculo de fibras paralelas longas, comparado a um multipenado de mesmo volume, oferece:",
 "o": [
 "Maior amplitude de movimento e menos força",
-"Maior força e menor amplitude",
-"Mesma força e mesma amplitude",
-"Menor força e menor amplitude"
+"Maior força e menor amplitude de movimento",
+"Mesma força e mesma amplitude de movimento",
+"Menor força e menor amplitude de movimento"
 ],
 "e": "Fibras longas e paralelas encurtam muito, mas há menos fibras por área de secção, portanto menos força."
 },
@@ -3558,9 +6517,9 @@ window.LIVRO.Q.push(...[
 "q": "Bíceps femoral, semitendinoso e semimembranoso são agrupados na região:",
 "o": [
 "Caudal da coxa, os músculos do jarrete",
-"Cranial da coxa, o quadríceps",
-"Medial da coxa, os adutores",
-"Da perna, com o gastrocnêmio"
+"Cranial da coxa, o quadríceps femoral",
+"Medial da coxa, junto aos adutores",
+"Da perna, junto com o gastrocnêmio"
 ],
 "e": "São os músculos caudais da coxa; o isquiático passa entre eles, o que exige cuidado nas injeções."
 },
@@ -3591,8 +6550,8 @@ window.LIVRO.Q.push(...[
 "q": "Na laparotomia pelo flanco de um bovino, o cirurgião atravessa, da superfície para a profundidade, os músculos:",
 "o": [
 "Oblíquo externo, oblíquo interno e transverso do abdome",
-"Reto do abdome, transverso e oblíquo externo",
-"Transverso, oblíquo interno e oblíquo externo",
+"Reto do abdome, transverso do abdome e oblíquo externo",
+"Transverso do abdome, oblíquo interno e oblíquo externo",
 "Cutâneo do tronco, reto do abdome e diafragma"
 ],
 "e": "A parede lateral tem três camadas planas: oblíquo externo, oblíquo interno e transverso do abdome, nessa ordem."
@@ -3601,10 +6560,10 @@ window.LIVRO.Q.push(...[
 "c": "musculo",
 "q": "Em cães, a laparotomia mais utilizada é pela linha média, que corresponde à:",
 "o": [
-"Linha alba, união das aponeuroses dos músculos abdominais",
-"Margem do músculo reto do abdome",
-"Inserção do diafragma",
-"Fáscia toracolombar"
+"Linha alba, união das aponeuroses abdominais",
+"Margem lateral do músculo reto do abdome",
+"Inserção costal do diafragma na linha média",
+"Fáscia toracolombar da região dorsal"
 ],
 "e": "A linha alba é formada pelas aponeuroses dos músculos abdominais e é pouco vascularizada, sendo o acesso padrão no cão."
 },
@@ -3657,8 +6616,8 @@ window.LIVRO.Q.push(...[
 "q": "No equino, os ligamentos acessórios (“freios”) dos flexores digitais superficial e profundo atuam para:",
 "o": [
 "Impedir que o boleto e o carpo cedam com o peso",
-"Estender o cotovelo durante o passo",
-"Travar a patela sobre a tróclea",
+"Estender o cotovelo durante a fase de apoio do passo",
+"Travar a patela sobre a crista medial da tróclea",
 "Flexionar o jarrete junto com o joelho"
 ],
 "e": "Os freios ligam os tendões flexores ao esqueleto, sustentando passivamente o boleto e o carpo."
@@ -3756,9 +6715,9 @@ window.LIVRO.Q.push(...[
 "q": "Os osteócitos comunicam-se entre si e com a superfície óssea por meio de:",
 "o": [
 "Prolongamentos citoplasmáticos dentro de canalículos",
-"Canais de Volkmann que atravessam as lamelas",
-"Lacunas de Howship abertas para a medula",
-"Fibras de Sharpey ancoradas no periósteo"
+"Canais de Volkmann que atravessam transversalmente as lamelas",
+"Lacunas de Howship abertas diretamente para a medula",
+"Fibras de Sharpey ancoradas na camada fibrosa do periósteo"
 ],
 "e": "Cada osteócito ocupa uma lacuna e emite prolongamentos que correm em canalículos, onde fazem junções com os vizinhos."
 },
@@ -3821,21 +6780,21 @@ window.LIVRO.Q.push(...[
 "c": "osseo",
 "q": "Qual afirmativa sobre as frações da matriz óssea está correta?",
 "o": [
-"A inorgânica (≈ 65–70%) predomina e dá rigidez; a orgânica dá elasticidade",
-"A orgânica (≈ 65–70%) predomina e dá rigidez",
-"As duas frações estão em proporções iguais",
-"A orgânica dá rigidez e a inorgânica dá flexibilidade"
+"A inorgânica predomina e dá rigidez; a orgânica, elasticidade",
+"A orgânica predomina (≈ 65–70%) e é a responsável pela rigidez",
+"As duas frações estão em proporções iguais e se equilibram",
+"A orgânica dá rigidez e a inorgânica dá flexibilidade ao osso"
 ],
-"e": "O mineral (hidroxiapatita) é maioria e confere dureza; o colágeno confere flexibilidade."
+"e": "A fração inorgânica (≈ 65–70%, hidroxiapatita) é maioria e confere dureza; a orgânica (colágeno) confere elasticidade."
 },
 {
 "c": "osseo",
 "q": "Além de cálcio e fosfato, são íons associados à hidroxiapatita na matriz óssea:",
 "o": [
 "Bicarbonato, citrato, magnésio, sódio e potássio",
-"Ferro, cobre e zinco ligados ao colágeno",
-"Cloreto e iodo provenientes da tireoide",
-"Apenas fluoreto, sem outros íons"
+"Ferro, cobre e zinco ligados ao colágeno tipo I",
+"Cloreto e iodo provenientes dos hormônios da tireoide",
+"Apenas fluoreto, sem nenhum outro íon associado"
 ],
 "e": "A fase mineral contém íons associados como bicarbonato, citrato, magnésio, sódio e potássio."
 },
@@ -3865,21 +6824,21 @@ window.LIVRO.Q.push(...[
 "c": "osseo",
 "q": "As fibras de Sharpey são:",
 "o": [
-"Fibras colágenas do periósteo que penetram na matriz e ancoram tendões e músculos",
-"Prolongamentos dos osteócitos nos canalículos",
-"Feixes nervosos que correm nos canais de Havers",
-"Fibras elásticas do endósteo"
+"Fibras colágenas do periósteo que penetram na matriz óssea",
+"Prolongamentos dos osteócitos que correm nos canalículos",
+"Feixes nervosos que correm dentro dos canais de Havers",
+"Fibras elásticas do endósteo que revestem a cavidade medular"
 ],
-"e": "Fibras de Sharpey são feixes colágenos que fixam o periósteo (e as inserções musculares e tendíneas) ao osso."
+"e": "Fibras de Sharpey são feixes colágenos do periósteo que penetram na matriz e fixam o periósteo (e as inserções musculares e tendíneas) ao osso."
 },
 {
 "c": "osseo",
 "q": "No adulto, o tecido ósseo primário (não lamelar) persiste principalmente em:",
 "o": [
 "Suturas do crânio, alvéolos dentários e algumas inserções de tendões",
-"Diáfises dos ossos longos",
-"Todo o osso compacto",
-"Trabéculas do osso esponjoso das vértebras"
+"Diáfises dos ossos longos, sobretudo na camada subperiosteal",
+"Todo o osso compacto, inclusive nos sistemas de Havers",
+"Trabéculas do osso esponjoso das vértebras e das costelas"
 ],
 "e": "O osso primário é temporário, mas persiste no adulto em suturas, alvéolos dentários e algumas inserções tendíneas."
 },
@@ -3898,12 +6857,12 @@ window.LIVRO.Q.push(...[
 "c": "osseo",
 "q": "Os canais de Volkmann diferem dos canais de Havers por:",
 "o": [
-"Correrem transversalmente e ligarem os canais de Havers entre si, ao periósteo e à medula",
-"Correrem paralelos ao eixo do osso no centro dos ósteons",
-"Não conterem vasos sanguíneos",
-"Serem envolvidos por lamelas concêntricas próprias"
+"Correrem transversalmente, ligando os canais de Havers entre si",
+"Correrem paralelos ao eixo do osso, no centro dos ósteons",
+"Não conterem vasos sanguíneos, apenas fibras nervosas",
+"Serem envolvidos por lamelas concêntricas próprias e espessas"
 ],
-"e": "Havers é longitudinal e central no ósteon; Volkmann é transversal e perfurante, conectando os sistemas."
+"e": "Havers é longitudinal e central no ósteon; Volkmann é transversal e perfurante, ligando os canais de Havers entre si, ao periósteo e à medula."
 },
 {
 "c": "osseo",
@@ -3942,12 +6901,12 @@ window.LIVRO.Q.push(...[
 "c": "osseo",
 "q": "Na ossificação intramembranosa, a sequência correta é:",
 "o": [
-"Células mesenquimais → osteoblastos produzem osteoide → mineralização e osteócitos",
+"Mesênquima → osteoblastos secretam osteoide → mineralização",
 "Condrócitos hipertrofiam → vasos invadem → centro de ossificação",
 "Osteoclastos escavam → osteoblastos preenchem → repouso",
 "Osteócitos se dividem → formam osteoblastos → formam mesênquima"
 ],
-"e": "No molde conjuntivo, as mesenquimais viram osteoblastos, que secretam osteoide; este calcifica e aprisiona os osteoblastos, agora osteócitos."
+"e": "No molde conjuntivo, as células mesenquimais viram osteoblastos, que secretam osteoide; este calcifica e aprisiona os osteoblastos, agora osteócitos."
 },
 {
 "c": "osseo",
@@ -3976,9 +6935,9 @@ window.LIVRO.Q.push(...[
 "q": "Filhote com fratura que atravessa o disco epifisário do rádio distal. A principal preocupação anatômica é:",
 "o": [
 "Interrupção do crescimento em comprimento daquele osso",
-"Perda da medula óssea amarela da diáfise",
-"Necrose imediata da cartilagem articular",
-"Impossibilidade de formar calo ósseo"
+"Perda da medula óssea amarela de toda a diáfise",
+"Necrose imediata da cartilagem articular adjacente",
+"Impossibilidade de formar calo ósseo no local da lesão"
 ],
 "e": "Fraturas fisárias lesam a placa de crescimento e podem encerrar precocemente o crescimento longitudinal, gerando encurtamento ou desvio."
 },
@@ -3987,9 +6946,9 @@ window.LIVRO.Q.push(...[
 "q": "No disco epifisário, a zona em que os condrócitos se organizam em pilhas (colunas) é a:",
 "o": [
 "Zona seriada (de proliferação)",
-"Zona de repouso",
-"Zona hipertrófica",
-"Zona de ossificação"
+"Zona de repouso (de reserva)",
+"Zona de hipertrofia celular",
+"Zona de ossificação (de invasão vascular)"
 ],
 "e": "Na zona seriada os condrócitos se dividem e se empilham; em seguida hipertrofiam, a matriz calcifica e ocorre a ossificação."
 },
@@ -4008,12 +6967,12 @@ window.LIVRO.Q.push(...[
 "c": "osseo",
 "q": "Por que a suplementação de cálcio sem orientação em filhotes de raças grandes é desaconselhada?",
 "o": [
-"O excesso de cálcio perturba a ossificação endocondral no disco epifisário e causa deformidades",
+"O excesso de cálcio perturba a ossificação endocondral e causa deformidades",
 "O cálcio extra inibe a formação de colágeno tipo I e torna o osso flexível",
-"O excesso de cálcio converte a medula vermelha em amarela",
+"O excesso de cálcio converte a medula vermelha em amarela nos ossos longos",
 "O cálcio suplementar impede a formação de osteoclastos e causa osteoporose"
 ],
-"e": "Excesso de cálcio na dieta de filhotes de raças grandes interfere na ossificação endocondral e leva a deformidades de crescimento."
+"e": "Excesso de cálcio na dieta de filhotes de raças grandes interfere na ossificação endocondral no disco epifisário e leva a deformidades de crescimento."
 },
 {
 "c": "osseo",
@@ -4041,12 +7000,12 @@ window.LIVRO.Q.push(...[
 "c": "osseo",
 "q": "Qual a sequência correta do reparo de uma fratura?",
 "o": [
-"Hematoma e inflamação → calo → osso primário → remodelação para osso secundário",
+"Hematoma → calo → osso primário → remodelação",
 "Calo → hematoma → remodelação → osso primário",
 "Osso secundário → calo → hematoma → osso primário",
 "Remodelação → inflamação → calo → hematoma"
 ],
-"e": "Primeiro o coágulo e a inflamação; depois o calo; então osso primário; por fim a remodelação o substitui por osso lamelar."
+"e": "Primeiro o coágulo (hematoma) e a inflamação; depois o calo; então osso primário; por fim a remodelação o substitui por osso secundário (lamelar)."
 },
 {
 "c": "osseo",
@@ -4294,10 +7253,10 @@ window.LIVRO.Q.push(...[
 "c": "pele",
 "q": "A lã dos ovinos é formada por:",
 "o": [
-"Fibras secundárias finas, onduladas e recobertas por lanolina",
-"Pelos primários grossos de crescimento sazonal",
-"Pelos táteis com seio venoso",
-"Escamas córneas queratinizadas"
+"Fibras secundárias finas e onduladas, com lanolina",
+"Pelos primários grossos e retos, de crescimento sazonal",
+"Pelos táteis com seio sanguíneo e muita inervação",
+"Escamas córneas queratinizadas que crescem sem folículo"
 ],
 "e": "A lã é composta de fibras secundárias de crescimento contínuo, recobertas pela lanolina, secreção sebácea."
 },
@@ -4328,9 +7287,9 @@ window.LIVRO.Q.push(...[
 "q": "Uma cadela apresenta queda difusa e intensa de pelos cerca de dois meses após um parto difícil. A explicação mais provável é:",
 "o": [
 "Eflúvio telógeno desencadeado pelo estresse",
-"Hipertrofia das glândulas sebáceas",
-"Destruição dos melanócitos",
-"Formação de folículos compostos"
+"Hipertrofia das glândulas sebáceas pós-parto",
+"Destruição autoimune dos melanócitos",
+"Formação excessiva de folículos compostos"
 ],
 "e": "Doença grave ou parto sincronizam folículos no telógeno, causando queda maciça posterior."
 },
@@ -4503,10 +7462,10 @@ window.LIVRO.Q.push(...[
 "c": "pele",
 "q": "Num equino com laminite grave, a radiografia pode mostrar qual alteração característica?",
 "o": [
-"Rotação da falange distal, que pode perfurar a sola",
-"Fratura dos sesamoides proximais",
-"Calcificação da ranilha",
-"Luxação da articulação do boleto"
+"Rotação da falange distal em direção à sola",
+"Fratura dos sesamoides proximais do boleto",
+"Calcificação da ranilha e do coxim digital",
+"Luxação da articulação metacarpofalângica"
 ],
 "e": "Sem a suspensão laminar, a falange distal rotaciona dentro do estojo córneo e pode atravessar a sola."
 },
@@ -4547,12 +7506,12 @@ window.LIVRO.Q.push(...[
 "c": "pele",
 "q": "Por que a onicectomia em gatos é um procedimento muito mais radical que o simples corte de unhas?",
 "o": [
-"Porque remove a falange distal inteira junto com a garra",
+"Porque amputa a falange distal junto com a garra",
 "Porque remove apenas o estrato córneo da garra",
-"Porque secciona os tendões flexores dos dedos",
-"Porque retira o coxim digital"
+"Porque secciona os tendões flexores digitais profundos",
+"Porque retira o coxim digital e o metacarpiano"
 ],
-"e": "A garra envolve o processo ungueal da falange distal; removê-la implica amputar essa falange."
+"e": "A garra envolve o processo ungueal da falange distal; removê-la implica amputar a falange distal inteira."
 },
 {
 "c": "pele",
@@ -4569,12 +7528,12 @@ window.LIVRO.Q.push(...[
 "c": "pele",
 "q": "Por que a descorna deve ser feita no bezerro, até cerca de 2 meses de idade?",
 "o": [
-"Porque no adulto o processo cornual é oco e comunicado com o seio frontal",
-"Porque o estojo córneo do bezerro é feito de osso",
-"Porque o nervo cornual só existe no animal adulto",
-"Porque o corno do adulto não é vascularizado"
+"Porque no adulto o corno se comunica com o seio frontal",
+"Porque o estojo córneo do bezerro ainda é feito de osso",
+"Porque o nervo cornual só se desenvolve no animal adulto",
+"Porque o corno do adulto não é vascularizado nem inervado"
 ],
-"e": "No adulto a remoção abre o seio frontal, com risco de sinusite; no bezerro remove-se apenas o botão cornual."
+"e": "No adulto o processo cornual é oco e comunicado com o seio frontal: a remoção abre o seio, com risco de sinusite; no bezerro remove-se apenas o botão cornual."
 },
 {
 "c": "pele",
@@ -4701,10 +7660,10 @@ window.LIVRO.Q.push(...[
 "c": "pelvico",
 "q": "Em novilhas de primeira cria, a pelvimetria por palpação retal tem como objetivo principal:",
 "o": [
-"Prever o risco de distocia pela medida dos diâmetros pélvicos",
-"Avaliar o escore de condição corporal",
-"Diagnosticar fratura da tuberosidade coxal",
-"Localizar o espaço para anestesia epidural"
+"Prever o risco de distocia pelos diâmetros pélvicos",
+"Avaliar o escore de condição corporal pela garupa",
+"Diagnosticar fratura da tuberosidade coxal ou do ísquio",
+"Localizar o espaço sacrococcígeo para anestesia epidural"
 ],
 "e": "Os diâmetros da pelve determinam se o feto passa pelo canal do parto; medi-los ajuda a prever distocia."
 },
@@ -4811,9 +7770,9 @@ window.LIVRO.Q.push(...[
 "c": "pelvico",
 "q": "A patela é classificada como:",
 "o": [
-"O maior sesamoide do corpo, dentro do tendão do quadríceps",
-"Um osso curto da fileira proximal do tarso",
-"Uma epífise destacada da tíbia",
+"O maior sesamoide, no tendão do quadríceps femoral",
+"Um osso curto da fileira proximal do tarso, como o tálus",
+"Uma epífise destacada da extremidade proximal da tíbia",
 "Um osso plano que integra o cíngulo pélvico"
 ],
 "e": "A patela é o maior osso sesamoide, situada no tendão do quadríceps, funcionando como roldana na extensão do joelho."
@@ -4823,9 +7782,9 @@ window.LIVRO.Q.push(...[
 "q": "Qual é a principal função mecânica da patela?",
 "o": [
 "Aumentar o torque do quadríceps na extensão do joelho",
-"Fixar os ligamentos cruzados",
-"Limitar a flexão do quadril",
-"Transmitir peso diretamente à fíbula"
+"Fixar os ligamentos cruzados à eminência intercondilar",
+"Limitar a flexão do quadril durante o apoio",
+"Transmitir o peso do fêmur diretamente à fíbula"
 ],
 "e": "A patela atua como roldana, aumentando o braço de alavanca do quadríceps femoral na extensão do joelho."
 },
@@ -4855,10 +7814,10 @@ window.LIVRO.Q.push(...[
 "c": "pelvico",
 "q": "No equino, o maléolo lateral do tarso:",
 "o": [
-"Pertence à tíbia, pois a extremidade distal da fíbula se funde a ela",
-"É um osso maleolar separado",
+"Pertence à tíbia, à qual a fíbula distal se fundiu",
+"É um osso maleolar separado, como nos ruminantes",
 "É formado pela extremidade distal de uma fíbula completa",
-"Está ausente"
+"Está ausente, pois a fíbula termina no terço proximal"
 ],
 "e": "No equino a fíbula é incompleta e sua extremidade distal se funde à tíbia, formando o maléolo lateral."
 },
@@ -4987,12 +7946,12 @@ window.LIVRO.Q.push(...[
 "c": "posicao",
 "q": "Um cão está em decúbito dorsal na mesa de cirurgia. Para descrever a localização de uma massa abdominal, os termos de direção devem:",
 "o": [
-"Continuar referidos à posição anatômica, como se o animal estivesse em pé",
-"Ser invertidos, pois o ventre agora está voltado para cima",
+"Continuar referidos à posição anatômica",
+"Ser invertidos, pois o ventre está voltado para cima",
 "Ser substituídos por superior e inferior",
 "Ser referidos à posição do cirurgião"
 ],
-"e": "Os termos de direção sempre partem da posição anatômica, independentemente de como o animal esteja posicionado."
+"e": "Os termos de direção sempre partem da posição anatômica, como se o animal estivesse em pé, independentemente de como ele esteja posicionado."
 },
 {
 "c": "posicao",
@@ -5153,9 +8112,9 @@ window.LIVRO.Q.push(...[
 "q": "No tronco, “dorsal” indica direção às costas. Na mão e no pé, “dorsal” indica:",
 "o": [
 "A face da frente, oposta à palmar ou plantar",
-"A face voltada para o plano mediano",
-"A face voltada para o solo",
-"A face de trás do membro"
+"A face voltada para o plano mediano do corpo",
+"A face voltada para o solo durante o apoio",
+"A face de trás do membro, oposta à cranial"
 ],
 "e": "É a pegadinha do termo: abaixo do carpo e do tarso, dorsal é a face da frente."
 },
@@ -5241,9 +8200,9 @@ window.LIVRO.Q.push(...[
 "q": "Pelo princípio da paquimeria, o tubo ventral (visceral) do tronco contém:",
 "o": [
 "As cavidades torácica, abdominal e pélvica com suas vísceras",
-"O canal vertebral e a medula espinhal",
-"As vértebras, costelas e músculos intercostais",
-"A pele, a tela subcutânea e as fáscias"
+"O canal vertebral com a medula espinhal e as meninges",
+"As vértebras, as costelas e os músculos intercostais",
+"A pele, a tela subcutânea e as fáscias superficiais"
 ],
 "e": "O paquímero ventral é visceral; o dorsal, neural, é o canal vertebral com a medula."
 },
@@ -5317,10 +8276,10 @@ window.LIVRO.Q.push(...[
 "c": "snc",
 "q": "O cone de implantação de um neurônio é a região:",
 "o": [
-"Do pericário onde nasce o axônio, desprovida de corpúsculos de Nissl",
-"Terminal do axônio onde ficam as vesículas sinápticas",
+"Do pericário onde nasce o axônio, sem corpúsculos de Nissl",
+"Terminal do axônio, onde se acumulam as vesículas sinápticas",
 "Dos dendritos que contém as espinhas dendríticas",
-"Do núcleo onde fica o nucléolo evidente"
+"Do núcleo, onde fica o nucléolo grande e evidente"
 ],
 "e": "O axônio nasce no cone de implantação, que não tem corpúsculos de Nissl, o que o distingue dos dendritos na lâmina."
 },
@@ -5383,7 +8342,7 @@ window.LIVRO.Q.push(...[
 "c": "snc",
 "q": "Uma diferença essencial entre o oligodendrócito e a célula de Schwann é que:",
 "o": [
-"O oligodendrócito mieliniza vários axônios; a Schwann, um segmento de um só axônio",
+"O oligodendrócito mieliniza vários axônios; a Schwann, só um",
 "O oligodendrócito está no SNP e a célula de Schwann no SNC",
 "Só a célula de Schwann produz mielina rica em lipídios",
 "O oligodendrócito guia a regeneração do nervo periférico"
@@ -5439,9 +8398,9 @@ window.LIVRO.Q.push(...[
 "q": "Num corte de nervo corado por HE, cada axônio aparece circundado por uma rede clara e vazia. Isso ocorre porque:",
 "o": [
 "Os lipídios da mielina se dissolvem no processamento",
-"O endoneuro não se cora pela eosina",
-"Há edema do espaço subaracnóideo",
-"As células de Schwann sofreram necrose"
+"O endoneuro não se cora pela eosina nem pela hematoxilina",
+"Há edema do espaço subaracnóideo ao redor das fibras",
+"As células de Schwann sofreram necrose durante a fixação"
 ],
 "e": "A mielina, rica em lipídios, se dissolve na HE; para vê-la usa-se Luxol fast blue ou ósmio."
 },
@@ -5471,10 +8430,10 @@ window.LIVRO.Q.push(...[
 "c": "snc",
 "q": "Na sinapse química, a chegada do impulso ao botão terminal provoca liberação do neurotransmissor porque:",
 "o": [
-"Abre canais de Ca2+, e o cálcio que entra leva à exocitose das vesículas",
+"Abre canais de Ca2+, e o cálcio induz a exocitose",
 "Abre canais de K+, que empurram as vesículas para a fenda",
-"Ativa diretamente os receptores da célula pós-sináptica",
-"Dissolve a membrana pós-sináptica"
+"Ativa diretamente os receptores da membrana pós-sináptica",
+"Dissolve a membrana pós-sináptica junto à fenda"
 ],
 "e": "A entrada de Ca2+ no botão terminal desencadeia a liberação das vesículas com neurotransmissor na fenda sináptica."
 },
@@ -5482,10 +8441,10 @@ window.LIVRO.Q.push(...[
 "c": "snc",
 "q": "O neurópilo da substância cinzenta corresponde a:",
 "o": [
-"Rede de prolongamentos neuronais e gliais, com capilares, entre os pericários",
-"Feixes de axônios mielinizados que formam os tratos",
-"Revestimento ependimário do canal central",
-"Camada de pia-máter que penetra nos sulcos"
+"Rede de prolongamentos neuronais e gliais entre os pericários",
+"Feixes de axônios mielinizados que formam os tratos ascendentes",
+"Revestimento ependimário do canal central da medula",
+"Camada de pia-máter que penetra nos sulcos do córtex"
 ],
 "e": "O neurópilo é a rede de prolongamentos neuronais e gliais, com capilares, que preenche a substância cinzenta."
 },
@@ -5493,10 +8452,10 @@ window.LIVRO.Q.push(...[
 "c": "snc",
 "q": "No encéfalo, os núcleos (como os núcleos da base) são:",
 "o": [
-"Agrupamentos de substância cinzenta situados dentro da substância branca",
+"Agrupamentos de substância cinzenta dentro da branca",
 "Feixes de axônios mielinizados que cruzam a linha média",
 "Cavidades revestidas de epêndima e cheias de líquido",
-"Áreas de substância branca dentro do córtex"
+"Áreas de substância branca dentro do córtex cerebral"
 ],
 "e": "A substância cinzenta se organiza em córtex (superficial) ou em núcleos, que são ilhas dentro da substância branca."
 },
@@ -5504,10 +8463,10 @@ window.LIVRO.Q.push(...[
 "c": "snc",
 "q": "O corpo caloso é um exemplo de:",
 "o": [
-"Comissura de substância branca que liga os hemisférios",
-"Núcleo de substância cinzenta do diencéfalo",
-"Camada do córtex cerebelar",
-"Plexo corioide do terceiro ventrículo"
+"Comissura de substância branca entre os hemisférios",
+"Núcleo de substância cinzenta situado no diencéfalo",
+"Camada de células de Purkinje do córtex cerebelar",
+"Plexo corioide que forra o teto do terceiro ventrículo"
 ],
 "e": "O corpo caloso é formado por axônios mielinizados que cruzam entre os dois hemisférios cerebrais."
 },
@@ -5603,12 +8562,12 @@ window.LIVRO.Q.push(...[
 "c": "snc",
 "q": "A intumescência cervical da medula espinhal (C6–T2) existe porque ali:",
 "o": [
-"Originam-se os nervos do plexo braquial para o membro torácico",
+"Originam-se os nervos do plexo braquial",
 "Termina a medula, formando o cone medular",
 "Fica o centro simpático toracolombar",
 "Há a cisterna magna para coleta de LCR"
 ],
-"e": "As intumescências são dilatações dos segmentos que inervam os membros: a cervical dá origem ao plexo braquial."
+"e": "As intumescências são dilatações dos segmentos que inervam os membros: a cervical dá origem ao plexo braquial, para o membro torácico."
 },
 {
 "c": "snc",
@@ -5625,10 +8584,10 @@ window.LIVRO.Q.push(...[
 "c": "snc",
 "q": "A cauda equina corresponde:",
 "o": [
-"Às raízes nervosas que seguem caudalmente após o término da medula",
-"À porção caudal do cerebelo, o vérmis",
-"Aos músculos da cauda do equino",
-"Ao último segmento coccígeo da coluna"
+"Às raízes nervosas caudais ao término da medula",
+"À porção caudal do cerebelo, chamada vérmis",
+"Aos músculos que movimentam a cauda do equino",
+"Ao último segmento coccígeo da coluna vertebral"
 ],
 "e": "Como a medula cresce menos que a coluna, as raízes dos segmentos caudais descem pelo canal vertebral e formam a cauda equina."
 },
@@ -5648,9 +8607,9 @@ window.LIVRO.Q.push(...[
 "q": "Os neurônios pré-ganglionares simpáticos ficam no:",
 "o": [
 "Corno lateral da substância cinzenta, de T1 a L3",
-"Corno dorsal, ao longo de toda a medula",
-"Corno ventral das intumescências",
-"Funículo lateral da substância branca"
+"Corno dorsal, ao longo de toda a medula espinhal",
+"Corno ventral das intumescências cervical e lombar",
+"Funículo lateral da substância branca torácica"
 ],
 "e": "O corno lateral, presente de T1 a L3, contém os neurônios autônomos simpáticos."
 },
@@ -5680,10 +8639,10 @@ window.LIVRO.Q.push(...[
 "c": "snc",
 "q": "Um Dachshund com hérnia de disco entre T3 e L3 está paraparético. Ao testar o reflexo patelar, espera-se que ele esteja:",
 "o": [
-"Normal ou aumentado, por lesão de neurônio motor superior",
-"Ausente, por lesão de neurônio motor inferior",
-"Ausente apenas no membro torácico",
-"Diminuído, por lesão do nervo femoral"
+"Normal ou aumentado, padrão de neurônio motor superior",
+"Ausente, por lesão de neurônio motor inferior em L4–L6",
+"Ausente nos pélvicos e aumentado nos torácicos",
+"Diminuído, por compressão do nervo femoral na hérnia"
 ],
 "e": "A lesão fica cranial ao segmento que origina o reflexo patelar (L4–L6), então ele fica normal ou aumentado (neurônio motor superior)."
 },
@@ -5834,10 +8793,10 @@ window.LIVRO.Q.push(...[
 "c": "snp",
 "q": "A raiz ventral do nervo espinhal contém principalmente:",
 "o": [
-"Axônios de motoneurônios do corno ventral e fibras autônomas",
+"Axônios motores do corno ventral e fibras autônomas",
 "Neurônios pseudounipolares do gânglio espinhal",
-"Fibras sensitivas vindas da pele",
-"Os corpos dos neurônios motores"
+"Fibras sensitivas vindas da pele e das vísceras",
+"Os corpos dos neurônios motores somáticos"
 ],
 "e": "A raiz ventral é motora (com fibras autônomas em certos segmentos); a raiz dorsal é sensitiva e tem o gânglio."
 },
@@ -5845,9 +8804,9 @@ window.LIVRO.Q.push(...[
 "c": "snp",
 "q": "O nervo espinhal propriamente dito é classificado como misto porque:",
 "o": [
-"Une a raiz dorsal sensitiva e a raiz ventral motora no forame intervertebral",
-"Contém fibras do SNC e do SNP",
-"Tem fibras mielínicas e amielínicas",
+"Une a raiz dorsal sensitiva e a raiz ventral motora",
+"Contém fibras do SNC e do SNP no mesmo feixe",
+"Tem fibras mielínicas e amielínicas misturadas",
 "Inerva músculo liso e músculo esquelético ao mesmo tempo"
 ],
 "e": "As duas raízes se unem no forame intervertebral, formando um nervo com fibras sensitivas e motoras."
@@ -5867,7 +8826,7 @@ window.LIVRO.Q.push(...[
 "c": "snp",
 "q": "O cão tem 7 vértebras cervicais, mas 8 pares de nervos cervicais. Isso ocorre porque:",
 "o": [
-"O primeiro nervo cervical emerge cranialmente ao atlas, e o oitavo, entre C7 e T1",
+"O C1 sai cranialmente ao atlas, e o C8, entre C7 e T1",
 "O oitavo nervo cervical sai pelo forame transverso do áxis",
 "O nervo de C2 se divide em dois logo após o forame intervertebral",
 "Um nervo craniano, o acessório, é contado como cervical"
@@ -6055,9 +9014,9 @@ window.LIVRO.Q.push(...[
 "q": "No cão, o plexo braquial é formado pelos ramos ventrais dos nervos espinhais:",
 "o": [
 "C6, C7, C8, T1 e T2",
-"C1 a C5",
-"T1 a T5",
-"C3, C4 e C5"
+"C1, C2, C3, C4 e C5",
+"T1, T2, T3, T4 e T5",
+"C2, C3, C4 e C5"
 ],
 "e": "O plexo braquial vem dos ramos ventrais de C6 a T2 (no cão, principalmente C6–T1, com pequena contribuição de T2), à altura da intumescência cervical."
 },
@@ -6110,9 +9069,9 @@ window.LIVRO.Q.push(...[
 "q": "O plexo lombossacral é formado pelos ramos ventrais de:",
 "o": [
 "L4 a S2 (com variação entre espécies)",
-"C6 a T2",
-"T10 a L2",
-"S3 aos nervos caudais"
+"C6 a T2 (intumescência cervical)",
+"T10 a L2 (com variação entre espécies)",
+"S3 aos primeiros nervos caudais"
 ],
 "e": "O plexo lombossacral, origem dos nervos do membro pélvico, vem de L4 a S2."
 },
@@ -6252,12 +9211,12 @@ window.LIVRO.Q.push(...[
 "c": "tecidos",
 "q": "O que distingue o tecido conjuntivo dos outros três tecidos fundamentais?",
 "o": [
-"Matriz extracelular abundante, com células esparsas de vários tipos",
+"Matriz extracelular abundante, com células esparsas",
 "Células justapostas, polarizadas e unidas por junções",
 "Células alongadas repletas de actina e miosina",
-"Células com prolongamentos e quase nenhuma matriz"
+"Células com prolongamentos longos e quase nenhuma matriz"
 ],
-"e": "O conjuntivo é definido pela matriz (fibras + substância fundamental) abundante; os demais tecidos têm pouca matriz."
+"e": "O conjuntivo é definido pela matriz (fibras + substância fundamental) abundante, com células esparsas de vários tipos; os demais tecidos têm pouca matriz."
 },
 {
 "c": "tecidos",
@@ -6285,9 +9244,9 @@ window.LIVRO.Q.push(...[
 "c": "tecidos",
 "q": "O epitélio de revestimento é classificado com base em:",
 "o": [
-"Número de camadas e forma das células da camada mais superficial",
+"Número de camadas e forma das células superficiais",
 "Forma das células da camada basal e tipo de junção",
-"Presença de cílios e de células caliciformes",
+"Presença de cílios, microvilos e células caliciformes",
 "Espessura da lâmina basal e tipo de glândula associada"
 ],
 "e": "Conta-se o número de camadas e observa-se a forma das células superficiais (pavimentosa, cúbica ou cilíndrica)."
@@ -6351,12 +9310,12 @@ window.LIVRO.Q.push(...[
 "c": "tecidos",
 "q": "Qual característica distingue uma glândula endócrina de uma exócrina?",
 "o": [
-"Perde a ligação com a superfície e lança a secreção no sangue",
+"Perde o ducto e lança a secreção no sangue",
 "Mantém um ducto que lança a secreção numa superfície",
-"Secreta sempre pelo modo holócrino",
+"Secreta sempre pelo modo holócrino, com morte celular",
 "É formada por tecido conjuntivo, e não por epitélio"
 ],
-"e": "Glândulas endócrinas perdem o ducto e secretam no sangue; as exócrinas mantêm ducto e lançam a secreção numa superfície."
+"e": "Glândulas endócrinas perdem a ligação (ducto) com a superfície e secretam no sangue; as exócrinas mantêm ducto e lançam a secreção numa superfície."
 },
 {
 "c": "tecidos",
@@ -6406,12 +9365,12 @@ window.LIVRO.Q.push(...[
 "c": "tecidos",
 "q": "A substância fundamental amorfa do tecido conjuntivo é composta principalmente por:",
 "o": [
-"Glicosaminoglicanos, proteoglicanos e glicoproteínas de adesão",
-"Colágeno tipo I e elastina",
-"Queratina e lipídios de barreira",
-"Actina, miosina e tropomiosina"
+"Glicosaminoglicanos, proteoglicanos e glicoproteínas",
+"Colágeno tipo I, elastina e fibras reticulares densas",
+"Queratina, lipídios de barreira e ceramidas",
+"Actina, miosina, tropomiosina e troponina"
 ],
-"e": "A substância fundamental é o gel de GAGs, proteoglicanos e glicoproteínas de adesão onde as fibras ficam mergulhadas."
+"e": "A substância fundamental é o gel de GAGs, proteoglicanos e glicoproteínas de adesão (como fibronectina e laminina) onde as fibras ficam mergulhadas."
 },
 {
 "c": "tecidos",
@@ -6549,10 +9508,10 @@ window.LIVRO.Q.push(...[
 "c": "tecidos",
 "q": "Por que o citoplasma da maioria das células, as hemácias e as fibras colágenas ficam rosados na HE?",
 "o": [
-"Suas proteínas com carga positiva ligam-se à eosina, corante ácido",
-"Seus ácidos nucleicos ligam-se à hematoxilina",
-"Seus glicosaminoglicanos sulfatados causam metacromasia",
-"Seus lipídios retêm o xilol durante a montagem"
+"Suas proteínas catiônicas ligam-se à eosina, corante ácido",
+"Seus ácidos nucleicos ligam-se à hematoxilina, corante básico",
+"Seus glicosaminoglicanos sulfatados causam metacromasia rósea",
+"Seus lipídios retêm o xilol e refratam a luz durante a montagem"
 ],
 "e": "Estruturas básicas (proteínas com carga +) atraem a eosina, aniônica, e são acidófilas."
 },
@@ -6582,21 +9541,21 @@ window.LIVRO.Q.push(...[
 "c": "tecidos",
 "q": "Na HE, os adipócitos aparecem como anéis com núcleo periférico (“anel de sinete”) e o espaço central vazio porque:",
 "o": [
-"Os lipídios são dissolvidos pelos solventes durante o processamento",
-"A gordura cora intensamente pela hematoxilina",
-"A eosina não penetra em células grandes",
-"O formol transforma triglicerídeos em água"
+"Os lipídios são dissolvidos pelo álcool e pelo xilol",
+"A gordura se liga à hematoxilina e fica translúcida",
+"A eosina não penetra em células grandes como o adipócito",
+"O formol transforma os triglicerídeos em água e glicerol"
 ],
-"e": "Álcool e xilol extraem os lipídios, deixando o vacúolo vazio; o mesmo ocorre com o glicogênio no hepatócito “rendado”."
+"e": "Os solventes do processamento (álcool e xilol) extraem os lipídios, deixando o vacúolo vazio; o mesmo ocorre com o glicogênio no hepatócito “rendado”."
 },
 {
 "c": "tecidos",
 "q": "Para confirmar lipidose hepática numa vaca no pós-parto com Sudan ou Oil Red O, o corte deve ser feito em material congelado porque:",
 "o": [
-"A inclusão em parafina usa álcool e xilol, que removem os lipídios",
-"O formol impede qualquer coloração de gorduras",
-"O corte congelado é mais fino que o de parafina",
-"O Sudan só se liga a tecido não fixado"
+"Álcool e xilol da inclusão em parafina removem os lipídios",
+"O formol impede qualquer coloração de gorduras no tecido",
+"O corte congelado é mais fino e nítido que o de parafina",
+"O Sudan só se liga a tecido não fixado e ainda vivo"
 ],
 "e": "A desidratação e a diafanização dissolvem as gorduras; o corte congelado preserva os lipídios para os corantes lipossolúveis."
 },
@@ -6616,9 +9575,9 @@ window.LIVRO.Q.push(...[
 "q": "Na etapa de diafanização (clarificação), usa-se xilol porque ele:",
 "o": [
 "É miscível tanto com o álcool quanto com a parafina",
-"Fixa as proteínas e interrompe a autólise",
-"Cora seletivamente os núcleos",
-"Endurece o tecido para o corte no micrótomo"
+"Fixa as proteínas e interrompe a autólise do tecido",
+"Cora seletivamente os núcleos e a cromatina",
+"Endurece o tecido para o corte no micrótomo rotativo"
 ],
 "e": "O xilol faz a ponte entre o álcool da desidratação e a parafina, que não se misturam diretamente."
 },
@@ -6703,23 +9662,23 @@ window.LIVRO.Q.push(...[
 "c": "tecidos",
 "q": "Ao examinar uma lâmina desconhecida ao microscópio, o procedimento correto é:",
 "o": [
-"Começar no menor aumento para ver a arquitetura e depois subir para 40×",
+"Começar no menor aumento e só depois subir para 40×",
 "Começar no maior aumento para identificar logo as células",
-"Usar apenas a objetiva de imersão desde o início",
-"Examinar só as bordas do corte em aumento médio"
+"Usar apenas a objetiva de imersão desde o início do exame",
+"Examinar só as bordas do corte, em aumento médio de 20×"
 ],
-"e": "O menor aumento (4× ou 10×) mostra a organização geral e localiza o tecido antes do detalhe celular."
+"e": "O menor aumento (4× ou 10×) mostra a arquitetura e a organização geral e localiza o tecido antes do detalhe celular."
 },
 {
 "c": "tireoide",
 "q": "A tireoide é chamada de glândula folicular porque:",
 "o": [
-"Suas unidades são esferas ocas (folículos) que armazenam o produto de secreção",
-"Suas células se dispõem em cordões contínuos",
+"Suas unidades são esferas ocas que armazenam a secreção",
+"Suas células se dispõem em cordões contínuos entre capilares",
 "Seus ductos excretores terminam em ácinos ramificados",
-"Cada célula se isola dentro de uma lacuna"
+"Cada célula se isola dentro de uma lacuna na matriz"
 ],
-"e": "A unidade funcional é o folículo tireoidiano, esfera oca revestida por epitélio e preenchida por coloide."
+"e": "A unidade funcional é o folículo tireoidiano, esfera oca revestida por epitélio e preenchida por coloide, onde fica armazenado o produto de secreção."
 },
 {
 "c": "tireoide",
@@ -6780,10 +9739,10 @@ window.LIVRO.Q.push(...[
 "c": "tireoide",
 "q": "Qual das características abaixo é própria da tireoide e a distingue das demais glândulas endócrinas?",
 "o": [
-"Armazena grande quantidade de produto de secreção fora das células, no coloide",
-"Não possui capilares sanguíneos",
-"Libera seus hormônios por ductos excretores",
-"É formada por células dispostas em cordões"
+"Armazena muita secreção fora das células, no coloide",
+"Não possui capilares sanguíneos entre os folículos",
+"Libera seus hormônios por ductos excretores próprios",
+"É formada por células dispostas em cordões e ninhos"
 ],
 "e": "A tireoide é a única glândula endócrina que estoca seu produto extracelularmente em grande quantidade (no coloide folicular)."
 },
@@ -6802,12 +9761,12 @@ window.LIVRO.Q.push(...[
 "c": "tireoide",
 "q": "Uma tireoide estimulada intensamente pelo TSH mostra, ao microscópio:",
 "o": [
-"Epitélio folicular alto (cilíndrico) e coloide reduzido, com vacúolos de reabsorção",
-"Epitélio pavimentoso e coloide abundante e homogêneo",
-"Substituição dos folículos por tecido adiposo",
-"Aumento das células principais em cordões"
+"Epitélio alto e coloide reduzido, com vacúolos de reabsorção",
+"Epitélio pavimentoso e coloide abundante, denso e homogêneo",
+"Substituição dos folículos por tecido adiposo e fibroso",
+"Aumento das células principais dispostas em cordões"
 ],
-"e": "Sob estímulo, as células foliculares ficam altas e reabsorvem coloide ativamente, reduzindo seu volume."
+"e": "Sob estímulo do TSH, as células foliculares ficam altas (cilíndricas) e reabsorvem coloide ativamente, reduzindo seu volume e formando vacúolos de reabsorção."
 },
 {
 "c": "tireoide",
@@ -6847,9 +9806,9 @@ window.LIVRO.Q.push(...[
 "q": "As células parafoliculares (células C) são reconhecidas na lâmina como:",
 "o": [
 "Células claras e maiores, isoladas ou em grupos entre os folículos",
-"Células cúbicas que formam a parede do folículo",
-"Células pequenas e basófilas dispostas em cordões",
-"Células gigantes multinucleadas"
+"Células cúbicas que formam a parede do folículo e tocam o coloide",
+"Células pequenas e basófilas dispostas em cordões anastomosados",
+"Células gigantes multinucleadas situadas no interior do coloide"
 ],
 "e": "As células C têm citoplasma claro, são maiores que as foliculares e ficam entre os folículos ou na base do epitélio, sem contato com o coloide."
 },
@@ -6857,23 +9816,23 @@ window.LIVRO.Q.push(...[
 "c": "tireoide",
 "q": "Embriologicamente, as células parafoliculares derivam:",
 "o": [
-"Do corpo ultimobranquial, com contribuição de células da crista neural",
-"Do endoderma do assoalho da faringe, como as foliculares",
-"Do mesoderma que forma o esqueleto",
-"Do ectoderma da cavidade oral, como a adeno-hipófise"
+"Do corpo ultimobranquial, com origem na crista neural",
+"Do endoderma do assoalho da faringe, como as células foliculares",
+"Do mesoderma paraxial que forma o esqueleto axial do pescoço",
+"Do ectoderma do teto da cavidade oral, como a adeno-hipófise"
 ],
-"e": "As células C chegam à tireoide a partir do corpo ultimobranquial (bolsas faríngeas caudais), com origem na crista neural."
+"e": "As células C chegam à tireoide a partir do corpo ultimobranquial (bolsas faríngeas caudais), com contribuição de células da crista neural."
 },
 {
 "c": "tireoide",
 "q": "O primórdio da tireoide (parte folicular) se forma a partir de:",
 "o": [
-"Um divertículo do endoderma do assoalho da faringe, na base da língua",
-"Das terceiras bolsas faríngeas, junto ao timo",
-"Do ectoderma do teto da boca",
-"Do mesoderma da notocorda"
+"Um divertículo endodérmico do assoalho da faringe",
+"Das terceiras bolsas faríngeas, junto ao primórdio do timo",
+"Do ectoderma do teto da boca, como a adeno-hipófise",
+"Do mesoderma que envolve a notocorda"
 ],
-"e": "A tireoide surge como evaginação endodérmica do assoalho faríngeo (forame cego) e desce pelo ducto tireoglosso até o pescoço."
+"e": "A tireoide surge como divertículo endodérmico do assoalho faríngeo, na base da língua (forame cego), e desce pelo ducto tireoglosso até o pescoço."
 },
 {
 "c": "tireoide",
@@ -6990,9 +9949,9 @@ window.LIVRO.Q.push(...[
 "q": "Além de agir no osso, o PTH eleva a calcemia porque, no rim:",
 "o": [
 "Aumenta a reabsorção de cálcio e estimula a ativação da vitamina D",
-"Aumenta a excreção de cálcio na urina",
-"Reduz a excreção de fosfato e inibe a vitamina D",
-"Converte a calcitonina em sua forma ativa"
+"Aumenta a excreção de cálcio na urina e inibe a vitamina D",
+"Reduz a excreção de fosfato e inibe a ativação da vitamina D",
+"Converte a calcitonina em sua forma ativa no túbulo renal"
 ],
 "e": "O PTH aumenta a reabsorção tubular de cálcio, a excreção de fosfato e a formação de calcitriol, que eleva a absorção intestinal de cálcio."
 },
@@ -7000,12 +9959,12 @@ window.LIVRO.Q.push(...[
 "c": "tireoide",
 "q": "Como o PTH estimula a reabsorção óssea, segundo a histofisiologia clássica?",
 "o": [
-"Atua sobre receptores dos osteoblastos, que liberam fatores ativadores de osteoclastos",
-"Liga-se diretamente ao colágeno e o dissolve",
+"Age nos osteoblastos, que então ativam os osteoclastos",
+"Liga-se diretamente ao colágeno da matriz e o dissolve",
 "Transforma osteócitos em osteoclastos dentro das lacunas",
 "Inibe as células parafoliculares, que deixam de produzir T4"
 ],
-"e": "Os receptores de PTH estão nos osteoblastos; estes sinalizam para a diferenciação e ativação dos osteoclastos."
+"e": "Os receptores de PTH estão nos osteoblastos; estes liberam fatores que promovem a diferenciação e a ativação dos osteoclastos."
 },
 {
 "c": "tireoide",
@@ -7033,12 +9992,12 @@ window.LIVRO.Q.push(...[
 "c": "tireoide",
 "q": "Equino alimentado por longo período com dieta rica em farelo de trigo (muito fósforo e pouco cálcio) desenvolve aumento de volume dos ossos da face. O mecanismo envolvido é:",
 "o": [
-"Hiperparatireoidismo secundário nutricional, com reabsorção óssea e osteodistrofia fibrosa",
+"Hiperparatireoidismo secundário nutricional e osteodistrofia fibrosa",
 "Excesso de calcitonina com deposição exagerada de cálcio nos ossos",
-"Hipotireoidismo com acúmulo de coloide nos ossos",
-"Hipoparatireoidismo com formação de osso primário"
+"Hipotireoidismo com acúmulo de coloide nos ossos da face",
+"Hipoparatireoidismo primário com formação de osso primário"
 ],
-"e": "O desequilíbrio Ca:P eleva cronicamente o PTH; os osteoclastos reabsorvem osso, substituído por tecido fibroso (“cara inchada”)."
+"e": "O desequilíbrio Ca:P eleva cronicamente o PTH (hiperparatireoidismo secundário nutricional); os osteoclastos reabsorvem osso, substituído por tecido fibroso (osteodistrofia fibrosa, “cara inchada”)."
 },
 {
 "c": "tireoide",
@@ -7055,12 +10014,12 @@ window.LIVRO.Q.push(...[
 "c": "tireoide",
 "q": "A calcitonina age sobre o osso principalmente porque:",
 "o": [
-"Os osteoclastos possuem receptores para calcitonina, que inibe sua atividade",
-"Os osteócitos convertem calcitonina em hidroxiapatita",
-"Ela estimula a fusão de monócitos em osteoclastos",
+"Os osteoclastos têm receptores para ela, que os inibe",
+"Os osteócitos convertem a calcitonina em hidroxiapatita",
+"Ela estimula a fusão de monócitos em novos osteoclastos",
 "Ela aumenta a produção de PTH pelas células principais"
 ],
-"e": "Os osteoclastos têm receptores de calcitonina; ela reduz sua atividade reabsortiva e, com isso, baixa a calcemia."
+"e": "Os osteoclastos possuem receptores de calcitonina; ela reduz sua atividade reabsortiva e, com isso, baixa a calcemia."
 },
 {
 "c": "tireoide",
@@ -7308,10 +10267,10 @@ window.LIVRO.Q.push(...[
 "c": "toracico",
 "q": "No bovino, os dedos acessórios (II e V), conhecidos como unhas acessórias:",
 "o": [
-"Têm ossos pequenos sem articulação com o restante do esqueleto",
+"Têm ossículos que não se articulam com o esqueleto",
 "Articulam-se diretamente com o metacarpo III+IV",
-"São formados apenas por cartilagem",
-"Correspondem aos sesamoides proximais"
+"São formados apenas por cartilagem hialina, sem osso",
+"Correspondem aos sesamoides proximais do boleto"
 ],
 "e": "As unhas acessórias contêm ossículos que não se articulam com o resto do esqueleto."
 },
@@ -7330,10 +10289,10 @@ window.LIVRO.Q.push(...[
 "c": "toracico",
 "q": "Um cavalo jovem em treinamento apresenta aumento de volume duro na face medial da canela, entre o metacarpo III e o II. A condição e sua causa anatômica são:",
 "o": [
-"Sobrecana, por sobrecarga do ligamento interósseo entre os metacarpos",
-"Esparavão, por artrose do carpo",
-"Síndrome do navicular, por lesão do sesamoide distal",
-"Laminite, por inflamação das lâminas do casco"
+"Sobrecana, por sobrecarga do ligamento interósseo metacárpico",
+"Esparavão, por artrose das articulações distais do carpo",
+"Síndrome do navicular, por lesão do sesamoide distal do casco",
+"Laminite, por inflamação das lâminas dérmicas do casco"
 ],
 "e": "As sobrecanas são exostoses entre o metacarpo III e os rudimentares, onde o ligamento interósseo sofre com o treino."
 },
@@ -7414,4 +10373,4 @@ window.LIVRO.Q.push(...[
 ],
 "e": "O cão tem 5 dedos na mão; o I é o ergô, que não toca o solo."
 }
-]);
+];
