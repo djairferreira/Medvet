@@ -1,0 +1,6 @@
+/* capítulo transporte */
+.tr-sl{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:8px 16px;margin:6px 0 10px;font-family:var(--f-display);font-size:.92rem}
+.tr-sl label{display:block}
+.tr-sl input[type=range]{width:100%;accent-color:var(--eosin);margin-top:4px}
+#trqBtns .tbtn.ok{background:var(--ok-soft);border-color:var(--ok);color:var(--ink)}
+#trqBtns .tbtn.no{background:var(--bad-soft);border-color:var(--bad);color:var(--ink)}

@@ -1,0 +1,233 @@
+
+<section class="chapter" id="transporte">
+  <div class="ch-head">
+    <div class="ch-num">01</div>
+    <div><span class="eyebrow">Unidade I · 01 Transporte de membrana · 01.01 Tipos de transportes</span><h2>Transporte através da membrana</h2></div>
+    <div class="ch-meta"><button class="done-btn" data-done="transporte" aria-pressed="false">Marcar como estudado</button><span class="chip">~60 min</span></div>
+  </div>
+  <div class="col">
+    <p class="oneliner">Toda célula vive de manter o dentro diferente do fora. A bicamada lipídica impede a mistura; canais, carreadores, bombas e vesículas decidem o que entra e o que sai, a que velocidade e a que custo de ATP.</p>
+    <div class="goals rv"><h4>Objetivos</h4><ul>
+      <li>Relacionar a estrutura da bicamada com a sua permeabilidade e explicar por que o líquido intracelular (LIC) e o extracelular (LEC) têm composições tão diferentes.</li>
+      <li>Aplicar a lei de Fick e distinguir difusão simples de difusão facilitada (canais e carreadores), incluindo a cinética de saturação.</li>
+      <li>Descrever o ciclo da Na⁺/K⁺-ATPase, a Ca²⁺-ATPase e a H⁺/K⁺-ATPase gástrica, e como o gradiente de Na⁺ move os transportadores ativos secundários (SGLT, NHE, NCX).</li>
+      <li>Explicar endocitose, exocitose e transcitose, com destaque para a absorção das imunoglobulinas do colostro pelo neonato.</li>
+      <li>Montar o transporte epitelial no intestino e no rim e usá-lo para entender a terapia de reidratação oral, a diarreia secretora, os digitálicos e o omeprazol.</li></ul></div>
+
+    <h3><span class="tag">1.1</span>Uma barreira que separa dois mundos</h3>
+    <p>A membrana plasmática é uma <strong>bicamada de fosfolipídios</strong> com cerca de 5 a 8 nm de espessura, na qual se inserem colesterol, glicolipídios e proteínas. Os fosfolipídios são <strong>anfipáticos</strong>: a cabeça (glicerol, fosfato e um grupo polar como colina) fica voltada para a água; as duas caudas de ácido graxo se escondem no centro. Esse miolo hidrofóbico é o que faz da membrana uma barreira: para atravessá-lo, uma molécula precisa abandonar a camada de água que a envolve e “dissolver-se” em um ambiente oleoso.</p>
+    <figure class="fig"><img src="img/tr-membrana.jpg" loading="lazy" alt="Esquema tridimensional da membrana plasmática com bicamada de fosfolipídios, proteínas transmembrana e periféricas, colesterol e cadeias de carboidratos de glicoproteínas e glicolipídios"><figcaption><b>Mosaico fluido.</b> As proteínas integrais (transmembrana) formam canais, carreadores e bombas; as periféricas ficam presas a uma das faces e atuam sobretudo como enzimas. Os carboidratos de glicoproteínas e glicolipídios formam o glicocálice, voltado para o meio extracelular.</figcaption></figure>
+    <p>As <strong>proteínas integrais</strong> atravessam a bicamada e são as únicas capazes de transportar substâncias hidrossolúveis: formam <strong>canais</strong> (poros aquosos) ou funcionam como <strong>carreadores</strong> e <strong>bombas</strong>. As <strong>proteínas periféricas</strong> se ligam às integrais ou às cabeças dos fosfolipídios e funcionam quase exclusivamente como enzimas ou como âncoras do citoesqueleto. O <strong>glicocálice</strong> protege a superfície, participa do reconhecimento entre células e da adesão, e contém os antígenos de grupo sanguíneo.</p>
+    <h4>Quem atravessa a bicamada sozinho</h4>
+    <p>A permeabilidade de uma bicamada pura depende de duas propriedades da molécula: o <strong>tamanho</strong> e, sobretudo, a <strong>lipossolubilidade</strong> (o quanto ela prefere óleo a água, medido pelo coeficiente de partição).</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Grupo</th><th>Exemplos</th><th>Passa pela bicamada?</th></tr></thead>
+      <tbody>
+        <tr><td><b>Gases e moléculas pequenas apolares</b></td><td>O₂, CO₂, N₂, anestésicos inalatórios (isoflurano), esteroides</td><td>Sim, rapidamente</td></tr>
+        <tr><td><b>Pequenas polares sem carga</b></td><td>Água, ureia, etanol, glicerol</td><td>Sim, mas devagar (a água ganha muito com as aquaporinas)</td></tr>
+        <tr><td><b>Grandes polares sem carga</b></td><td>Glicose, frutose, aminoácidos</td><td>Praticamente não; precisam de carreador</td></tr>
+        <tr><td><b>Íons</b></td><td>Na⁺, K⁺, Ca²⁺, Cl⁻, H⁺, HCO₃⁻</td><td>Não: a carga e a camada de hidratação os prendem na água; só por canais e transportadores</td></tr>
+        <tr><td><b>Macromoléculas</b></td><td>Proteínas, imunoglobulinas, partículas</td><td>Não; só por vesículas (endocitose, exocitose)</td></tr>
+      </tbody></table></div>
+    <h4>LEC e LIC: composições opostas, mesma osmolalidade</h4>
+    <p>Cerca de dois terços da água corporal estão dentro das células (LIC) e um terço fora (LEC: plasma, interstício). A composição dos dois é muito diferente: o LEC é rico em <strong>Na⁺, Cl⁻ e HCO₃⁻</strong>; o LIC é rico em <strong>K⁺, Mg²⁺, fosfatos orgânicos e proteínas</strong>. O Ca²⁺ livre no citosol fica em torno de <strong>0,0001 mmol/L (100 nmol/L)</strong>, cerca de 10.000 vezes menos que no LEC. Mesmo assim, a <strong>osmolalidade total é igual</strong> nos dois lados (cerca de 290 mOsm/kg), porque a água atravessa a membrana livremente e se redistribui até igualar a concentração de partículas.</p>
+    <div class="duo">
+      <figure class="fig"><img src="img/tr-lec-lic.jpg" loading="lazy" alt="Célula mostrando as concentrações de sódio, potássio, cálcio e cloreto fora e dentro, com canais e bombas na membrana"><figcaption><b>Dentro × fora.</b> Na⁺ ≈ 145 mEq/L fora e 12 dentro; K⁺ ≈ 4 fora e 120 dentro; Ca²⁺ 2,5 fora e 0,001 dentro; Cl⁻ ≈ 114 fora e poucos dentro. Bombas e canais na membrana sustentam essas diferenças.</figcaption></figure>
+      <div class="tbl"><table>
+        <thead><tr><th>Íon</th><th>LEC (mEq/L)</th><th>LIC (mEq/L)</th></tr></thead>
+        <tbody>
+          <tr><td>Na⁺</td><td>142</td><td>10</td></tr>
+          <tr><td>K⁺</td><td>4,5</td><td>150</td></tr>
+          <tr><td>Mg²⁺</td><td>2</td><td>40</td></tr>
+          <tr><td>Cl⁻</td><td>102</td><td>~5</td></tr>
+          <tr><td>HCO₃⁻</td><td>27</td><td>10</td></tr>
+          <tr><td>Fosfatos</td><td>2</td><td>120</td></tr>
+          <tr><td>Proteínas</td><td>16</td><td>40</td></tr>
+          <tr><td>pH</td><td>7,4</td><td>7,1</td></tr>
+        </tbody></table></div>
+    </div>
+    <div class="note mem"><b>Memorize</b><p>“<b>Sódio fora, potássio dentro</b>; cálcio quase todo fora (ou guardado no retículo).” Essas assimetrias não são um equilíbrio: são um <b>estado estacionário</b> mantido com gasto contínuo de ATP. Se as bombas param (hipóxia, intoxicação), os gradientes se dissipam, a célula incha e morre.</p></div>
+
+    <h3><span class="tag">1.2</span>O mapa dos transportes e o gradiente eletroquímico</h3>
+    <p>Todo transporte responde a uma pergunta: a substância está indo <strong>a favor</strong> ou <strong>contra</strong> o seu gradiente? Se for a favor, o movimento é espontâneo (<strong>passivo</strong>) e só precisa de um caminho. Se for contra, alguém tem de pagar a conta com energia (<strong>ativo</strong>).</p>
+    <figure class="fig"><img src="img/tr-tipos.jpg" loading="lazy" alt="Esquema comparando difusão simples, difusão mediada por canal, difusão mediada por carreador e transporte ativo com gasto de energia"><figcaption><b>Os caminhos através da bicamada.</b> No transporte passivo a substância desce o gradiente de concentração, pela bicamada (difusão simples) ou por proteínas de canal e carreadoras. No transporte ativo a proteína carreadora usa energia para levar a substância contra o gradiente.</figcaption></figure>
+    <div class="tbl min"><table>
+      <thead><tr><th>Tipo</th><th>Passivo/ativo</th><th>Proteína</th><th>Energia</th><th>Satura?</th><th>Exemplo</th></tr></thead>
+      <tbody>
+        <tr><td><b>Difusão simples</b></td><td>Passivo</td><td>Não</td><td>Não</td><td>Não</td><td>O₂ e CO₂ nos alvéolos</td></tr>
+        <tr><td><b>Difusão facilitada por canal</b></td><td>Passivo</td><td>Canal</td><td>Não</td><td>Pouco</td><td>Canais de K⁺, aquaporinas</td></tr>
+        <tr><td><b>Difusão facilitada por carreador</b></td><td>Passivo</td><td>Uniporte</td><td>Não</td><td>Sim</td><td>GLUT4 no músculo</td></tr>
+        <tr><td><b>Ativo primário</b></td><td>Ativo</td><td>Bomba (ATPase)</td><td>Direta (ATP)</td><td>Sim</td><td>Na⁺/K⁺-ATPase</td></tr>
+        <tr><td><b>Ativo secundário: cotransporte (simporte)</b></td><td>Ativo*</td><td>Carreador</td><td>Indireta (gradiente de Na⁺)</td><td>Sim</td><td>SGLT1: Na⁺ + glicose</td></tr>
+        <tr><td><b>Ativo secundário: contratransporte (antiporte)</b></td><td>Ativo*</td><td>Trocador</td><td>Indireta (gradiente de Na⁺)</td><td>Sim</td><td>Na⁺/H⁺, 3Na⁺/Ca²⁺</td></tr>
+        <tr><td><b>Vesicular</b></td><td>Ativo</td><td>Clatrina, SNAREs, citoesqueleto</td><td>ATP e GTP</td><td>—</td><td>Fagocitose, exocitose</td></tr>
+      </tbody></table></div>
+    <p class="mono" style="font-size:.85rem;color:var(--muted)">* No ativo secundário, o Na⁺ desce o seu gradiente; o outro soluto sobe o dele.</p>
+    <p>Para moléculas sem carga, a força motriz é só a diferença de concentração. Para <strong>íons</strong>, entra também o <strong>potencial elétrico da membrana</strong>: o interior da célula em repouso é negativo (cerca de −70 a −90 mV), o que atrai cátions e repele ânions. A soma das duas forças é o <strong>gradiente eletroquímico</strong>. Para o Na⁺ as duas forças apontam para dentro (mais concentrado fora e atraído pelo interior negativo), por isso abrir canais de Na⁺ provoca uma entrada explosiva de carga, que é a base do potencial de ação. Para o K⁺, a concentração empurra para fora e a carga puxa para dentro; o equilíbrio fica perto de −90 mV (potencial de equilíbrio de Nernst).</p>
+    <div class="note trap"><b>Pegadinha</b><p>“Passivo” não significa “sem proteína”: a difusão facilitada é passiva e usa canal ou carreador. E “ativo secundário” não usa ATP <b>na própria proteína</b>: a energia vem do gradiente de Na⁺ criado antes pela Na⁺/K⁺-ATPase. Se a bomba for bloqueada, o secundário para também, mas só depois que o gradiente se dissipa.</p></div>
+
+    <h3><span class="tag">1.3</span>Difusão simples e a lei de Fick</h3>
+    <p>Na difusão simples a molécula atravessa a bicamada por conta própria, impulsionada apenas pelo movimento térmico aleatório. O resultado líquido é sempre do lado mais concentrado para o menos concentrado, até que as concentrações se igualem. A velocidade é descrita pela <strong>lei de Fick</strong>:</p>
+    <p style="text-align:center;font-family:var(--f-mono);font-size:1.05rem">J = P · A · (C₁ − C₂)  &nbsp; com &nbsp; P = (K · D) / Δx</p>
+    <ul>
+      <li><b>J</b>: fluxo (quantidade por tempo). <b>A</b>: área da membrana. <b>C₁ − C₂</b>: diferença de concentração.</li>
+      <li><b>P</b>: coeficiente de permeabilidade, que reúne <b>K</b> (coeficiente de partição óleo/água: lipossolubilidade), <b>D</b> (coeficiente de difusão: cai com o tamanho da molécula e com a viscosidade) e <b>Δx</b> (espessura da barreira).</li>
+    </ul>
+    <p>Três consequências práticas: o fluxo é <strong>diretamente proporcional ao gradiente</strong> (dobrar a diferença de concentração dobra o fluxo, sem teto); ele <strong>não satura</strong>, porque não há proteína a ser ocupada; e é <strong>muito sensível à espessura e à área</strong> da barreira.</p>
+    <div class="cards">
+      <div class="card"><span class="role">Pulmão</span><h5>Membrana alvéolo-capilar</h5><p>Área enorme e espessura de menos de 1 µm: ideal para O₂ e CO₂. No edema pulmonar ou na fibrose, Δx aumenta e a troca cai, sobretudo para o O₂, que é menos solúvel que o CO₂.</p></div>
+      <div class="card"><span class="role">Anestesia</span><h5>Gases anestésicos</h5><p>Isoflurano e sevoflurano são muito lipossolúveis: difundem do alvéolo para o sangue e do sangue para o cérebro em segundos. A potência acompanha a lipossolubilidade.</p></div>
+      <div class="card"><span class="role">Farmacologia</span><h5>Forma não ionizada</h5><p>Ácidos e bases fracos só atravessam bem a bicamada na forma <b>sem carga</b>. O pH de cada compartimento define quanto do fármaco está ionizado.</p></div>
+    </div>
+    <div class="note clin"><b>Aprisionamento iônico (ion trapping)</b><p>Uma base fraca (por exemplo, eritromicina, trimetoprima, alcaloides vegetais) cruza a membrana na forma neutra e, ao chegar a um meio mais ácido, ganha um próton e fica “presa”, porque a forma carregada não volta pela bicamada. Por isso bases fracas se acumulam no <b>leite</b> (pH ≈ 6,6–6,8, mais ácido que o plasma), no <b>conteúdo ruminal</b> e na urina ácida dos carnívoros. Essa é a razão dos <b>períodos de carência do leite</b> após certos antibióticos e o princípio da alcalinização da urina para acelerar a excreção de ácidos fracos (como salicilatos e fenobarbital) em intoxicações.</p></div>
+    <p>A água também atravessa a bicamada por difusão, apesar de ser polar, porque é muito pequena; mas a maior parte da água que cruza membranas de rim, glândulas e hemácias usa as <strong>aquaporinas</strong>, canais seletivos para água (próxima seção e capítulo 2).</p>
+
+    <h3><span class="tag">1.4</span>Difusão facilitada: canais e carreadores</h3>
+    <p>Moléculas polares e íons precisam de uma proteína que lhes dê passagem. Continua sendo transporte passivo: só acontece a favor do gradiente eletroquímico e cessa quando ele se anula. Há dois tipos de proteína, com comportamentos bem diferentes.</p>
+    <h4>Canais: poros com porteiro</h4>
+    <p>Um canal é um <strong>poro aquoso</strong> que, quando aberto, deixa passar milhões de íons por segundo (10⁷–10⁸ íons/s). Ele é <strong>seletivo</strong>: o “filtro de seletividade” do canal de K⁺, por exemplo, tem oxigênios de carbonila posicionados exatamente para substituir a água de hidratação do K⁺, mas não a do Na⁺, que é menor. A maioria dos canais tem uma <strong>comporta</strong> (portão) que abre e fecha conforme um sinal:</p>
+    <div class="duo">
+      <figure class="fig"><img src="img/tr-comporta.jpg" loading="lazy" alt="Analogia de um canal com comporta: um barco passa entre dois oceanos quando o portão se abre"><figcaption><b>Canal com comporta.</b> Como uma eclusa: com o portão fechado nada passa; quando ele abre, a passagem é contínua de um lado ao outro, a favor do “desnível”.</figcaption></figure>
+      <div class="cards">
+        <div class="card"><span class="role">Voltagem</span><h5>Dependentes de voltagem</h5><p>Abrem com a despolarização: canais de Na⁺ e K⁺ do potencial de ação, canais de Ca²⁺ do músculo e da sinapse.</p></div>
+        <div class="card"><span class="role">Ligante</span><h5>Dependentes de ligante</h5><p>Abrem quando uma molécula se liga: receptor nicotínico da acetilcolina na placa motora, receptor GABA-A (canal de Cl⁻).</p></div>
+        <div class="card"><span class="role">Mecânicos</span><h5>Sensíveis a estiramento</h5><p>Abrem com deformação: células ciliadas do ouvido, mecanorreceptores, barorreceptores.</p></div>
+      </div>
+    </div>
+    <h4>Carreadores: uma porta giratória</h4>
+    <p>O carreador não forma um poro contínuo. Ele <strong>liga</strong> o soluto de um lado, <strong>muda de conformação</strong> e o <strong>libera</strong> do outro lado (modelo de “acesso alternado”). Como cada ciclo leva tempo, o carreador é muito mais lento que um canal (10² a 10⁴ moléculas/s) e apresenta três propriedades típicas de enzima:</p>
+    <ul>
+      <li><strong>Saturação</strong>: há um número finito de carreadores; quando todos estão ocupados, a velocidade atinge o máximo (<b>V<sub>máx</sub></b>, ou transporte máximo, <b>T<sub>m</sub></b>, no rim).</li>
+      <li><strong>Especificidade</strong>: o GLUT transporta D-glicose, mas não L-glicose.</li>
+      <li><strong>Competição e inibição</strong>: substâncias parecidas disputam o mesmo sítio (galactose compete com glicose no SGLT1).</li>
+    </ul>
+    <p>A curva fluxo × concentração segue a forma de <strong>Michaelis-Menten</strong>: J = V<sub>máx</sub> · C / (K<sub>m</sub> + C). O <b>K<sub>m</sub></b> é a concentração que produz metade da velocidade máxima; quanto menor o K<sub>m</sub>, maior a afinidade. Em concentrações baixas, a difusão facilitada é muito mais rápida que a simples; em concentrações altas, ela “bate no teto”, enquanto a difusão simples continua subindo em linha reta.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Transportador de glicose</th><th>Onde</th><th>Particularidade</th></tr></thead>
+      <tbody>
+        <tr><td><b>GLUT1</b></td><td>Hemácias, barreira hematoencefálica, placenta</td><td>Km baixo (~1–2 mM): captação constante, independente de insulina</td></tr>
+        <tr><td><b>GLUT2</b></td><td>Fígado, células β do pâncreas, face basolateral do enterócito e do túbulo renal</td><td>Km alto (~15–20 mM): o fluxo acompanha a glicemia; funciona como “sensor” de glicose</td></tr>
+        <tr><td><b>GLUT3</b></td><td>Neurônios</td><td>Km muito baixo: garante glicose ao cérebro mesmo na hipoglicemia</td></tr>
+        <tr><td><b>GLUT4</b></td><td>Músculo esquelético, coração, tecido adiposo</td><td><b>Dependente de insulina</b>: fica em vesículas e é levado à membrana quando a insulina se liga ao receptor (e também pelo exercício)</td></tr>
+        <tr><td><b>GLUT5</b></td><td>Face apical do enterócito</td><td>Transporta frutose</td></tr>
+      </tbody></table></div>
+
+    <section class="labbox rv" aria-labelledby="trkTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="trkTitle">Difusão simples × carreador: quem satura?</h4></div></header>
+      <div class="ctrl" id="trkBtns" role="group" aria-label="Condição do carreador">
+        <button class="tbtn" type="button" data-k="base" aria-pressed="true">Músculo em repouso</button><button class="tbtn" type="button" data-k="ins">Com insulina (+GLUT4)</button><button class="tbtn" type="button" data-k="comp">Com inibidor competitivo</button>
+      </div>
+      <div class="tr-sl">
+        <label>Concentração de glicose fora da célula: <b id="trkCv">5 mM</b><input type="range" id="trkC" min="0" max="30" step="0.5" value="5"></label>
+        <label>Permeabilidade da bicamada (difusão simples): <b id="trkPv">baixa</b><input type="range" id="trkP" min="1" max="10" step="1" value="2"></label>
+      </div>
+      <div class="svgwrap"><svg id="trkSvg" viewBox="0 0 600 330" role="img" aria-label="Gráfico da velocidade de transporte em função da concentração para difusão simples e facilitada"></svg></div>
+      <div class="readout" id="trkOut" aria-live="polite"></div>
+    </section>
+
+    <div class="note deep"><b>Aquaporinas</b><p>São canais que deixam passar <b>só água</b> (cerca de 3 bilhões de moléculas por segundo por canal), barrando até o H⁺. A AQP1 está nas hemácias e no túbulo proximal; a <b>AQP2</b>, no ducto coletor renal, é inserida na membrana sob comando do <b>hormônio antidiurético</b>, que assim decide quanta água o rim recupera (capítulo 2). Mutações no receptor V2 ou na AQP2 causam diabetes insípido nefrogênico, já descrito em cães.</p></div>
+
+    <h3><span class="tag">1.5</span>Transporte ativo primário: as bombas</h3>
+    <p>No transporte ativo primário, a própria proteína hidrolisa ATP e usa essa energia para mover íons <strong>contra</strong> o gradiente eletroquímico. As bombas mais importantes pertencem à família das <strong>ATPases do tipo P</strong>, assim chamadas porque se autofosforilam em um resíduo de aspartato a cada ciclo.</p>
+    <h4>Na⁺/K⁺-ATPase: a bomba de todas as células</h4>
+    <p>Formada por uma subunidade <strong>α</strong> (catalítica, com os sítios de Na⁺, K⁺, ATP e o sítio de ligação dos digitálicos, voltado para fora) e uma subunidade <strong>β</strong> (glicoproteína que ajuda no endereçamento à membrana). A cada ATP hidrolisado ela expulsa <strong>3 Na⁺</strong> e coloca <strong>2 K⁺</strong> para dentro. O ciclo alterna duas conformações:</p>
+    <ol class="steps">
+      <li><b>E1, aberta para dentro</b><span>Alta afinidade por Na⁺: três Na⁺ do citosol se ligam.</span></li>
+      <li><b>Fosforilação</b><span>O ATP transfere um fosfato para um aspartato da subunidade α; o Na⁺ fica “ocluído”.</span></li>
+      <li><b>E2-P, aberta para fora</b><span>A mudança de forma reduz a afinidade por Na⁺, que é liberado no LEC.</span></li>
+      <li><b>Ligação do K⁺</b><span>Na forma E2 a afinidade por K⁺ é alta: dois K⁺ extracelulares se ligam.</span></li>
+      <li><b>Desfosforilação</b><span>O fosfato sai, o K⁺ fica ocluído e a proteína volta a E1, liberando o K⁺ no citosol.</span></li>
+    </ol>
+    <p>Como sai uma carga positiva a mais do que entra, a bomba é <strong>eletrogênica</strong> e contribui diretamente com alguns milivolts para a negatividade interna. Suas funções vão muito além disso:</p>
+    <div class="cards">
+      <div class="card"><span class="role">Função 1</span><h5>Gradientes de Na⁺ e K⁺</h5><p>Base do potencial de repouso e do potencial de ação em nervos e músculos.</p></div>
+      <div class="card"><span class="role">Função 2</span><h5>Controle do volume celular</h5><p>Expulsar Na⁺ equivale a expulsar água. Sem a bomba, as proteínas e os ânions fixos do citosol atraem água e a célula incha até romper (edema celular da hipóxia).</p></div>
+      <div class="card"><span class="role">Função 3</span><h5>Energia para o ativo secundário</h5><p>O gradiente de Na⁺ é a “bateria” que move SGLT, trocadores Na⁺/H⁺ e Na⁺/Ca²⁺, cotransportadores de aminoácidos e de fosfato.</p></div>
+    </div>
+    <p>O custo é alto: a Na⁺/K⁺-ATPase consome cerca de <strong>20 a 30% do ATP</strong> de um animal em repouso e até dois terços do ATP gasto pelo tecido nervoso. No rim, que reabsorve quase todo o Na⁺ filtrado, ela é o principal consumidor de oxigênio.</p>
+
+    <section class="labbox rv" aria-labelledby="trnkTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="trnkTitle">O ciclo da Na⁺/K⁺-ATPase, passo a passo</h4></div>
+        <div class="ctrl" style="margin:0"><button class="tbtn" type="button" id="trnkPrev">← Anterior</button><button class="btn" type="button" id="trnkNext">Próxima etapa →</button></div></header>
+      <div class="svgwrap"><svg id="trnkSvg" viewBox="0 0 600 340" role="img" aria-label="Bomba de sódio e potássio na membrana, com íons e ATP em cada etapa do ciclo"></svg></div>
+      <div class="readout" id="trnkOut" aria-live="polite"></div>
+    </section>
+
+    <div class="note clin"><b>Digitálicos e plantas cardiotóxicas</b><p>A <b>digoxina</b> se liga à subunidade α pelo lado de fora e trava a bomba na forma E2-P. O Na⁺ intracelular sobe um pouco, o trocador 3Na⁺/Ca²⁺ perde força para expulsar Ca²⁺, mais Ca²⁺ é estocado no retículo sarcoplasmático e cada contração fica mais forte (<b>efeito inotrópico positivo</b>). Em cães é usada na insuficiência cardíaca com fibrilação atrial, mas a margem de segurança é estreita: <b>hipocalemia potencializa a intoxicação</b>, porque o K⁺ compete com o digitálico pelo mesmo sítio. Os mesmos glicosídeos cardiotóxicos existem em plantas: a <b>espirradeira</b> (<i>Nerium oleander</i>) e o <b>kalanchoe</b> (bufadienolídeos) intoxicam bovinos, equinos, cães e gatos, causando arritmias, bloqueios e hipercalemia.</p></div>
+    <h4>Ca²⁺-ATPases: mantendo o cálcio lá embaixo</h4>
+    <p>O Ca²⁺ é um sinal intracelular poderoso justamente porque sua concentração em repouso é ínfima. Duas bombas garantem isso: a <strong>PMCA</strong> (na membrana plasmática), que expulsa Ca²⁺ para o LEC, e a <strong>SERCA</strong> (na membrana do retículo endoplasmático e sarcoplasmático), que bombeia 2 Ca²⁺ por ATP para dentro do retículo. No músculo, é a SERCA que retira o Ca²⁺ do citosol e permite o <b>relaxamento</b>: por isso o rigor mortis aparece quando o ATP acaba. A PMCA tem alta afinidade e baixa capacidade; o trocador Na⁺/Ca²⁺ (secundário) tem baixa afinidade e alta capacidade.</p>
+    <div class="note deep"><b>Hipertermia maligna</b><p>Em <b>suínos</b> com mutação no receptor de rianodina (gene <i>RYR1</i>, a “síndrome do estresse suíno”), anestésicos halogenados ou estresse liberam Ca²⁺ do retículo de forma descontrolada. A SERCA trabalha no limite tentando recaptá-lo, o consumo de ATP e a produção de calor e lactato disparam, e surgem rigidez, hipertermia e carne PSE (pálida, mole e exsudativa) no abate. Também ocorre, mais raramente, em cães e equinos.</p></div>
+    <h4>H⁺/K⁺-ATPase: a bomba de ácido do estômago</h4>
+    <p>Nas <strong>células parietais</strong> das glândulas gástricas (no abomaso dos ruminantes), a H⁺/K⁺-ATPase troca 1 H⁺ do citosol por 1 K⁺ do lúmen a cada ATP, produzindo um suco com pH entre 1 e 2, ou seja, H⁺ cerca de um milhão de vezes mais concentrado que no plasma. O K⁺ volta ao lúmen por canais, e o Cl⁻ sai junto por canais apicais, formando HCl. Para cada H⁺ secretado, um HCO₃⁻ vai para o sangue pela face basolateral (trocador Cl⁻/HCO₃⁻): é a <b>“maré alcalina”</b> pós-prandial.</p>
+    <div class="note clin"><b>Omeprazol e úlcera gástrica em equinos</b><p>O <b>omeprazol</b> é um pró-fármaco: só é ativado no ambiente ácido do canalículo da célula parietal, onde se liga covalentemente à H⁺/K⁺-ATPase e a inibe de forma irreversível. A secreção só volta quando a célula sintetiza novas bombas, por isso uma dose diária basta. É o tratamento de eleição da <b>síndrome da úlcera gástrica equina</b>, muito comum em cavalos de corrida e de esporte (jejum, exercício intenso e dietas ricas em concentrado). Em ruminantes, a alcalose metabólica hipoclorêmica do <b>deslocamento de abomaso</b> nasce dessa mesma bomba: o HCl continua sendo secretado, mas fica sequestrado no abomaso e não chega ao intestino para ser reabsorvido.</p></div>
+    <div class="note clin"><b>Outra família de bombas: os transportadores ABC e a ivermectina</b><p>A <b>glicoproteína P</b> (MDR1, gene <i>ABCB1</i>) é uma bomba que usa ATP para expulsar fármacos das células. Na barreira hematoencefálica ela impede que a ivermectina chegue ao cérebro. Cães <b>Collie</b>, Pastor-australiano, Pastor-de-shetland e mestiços podem ter a mutação <b>MDR1 (ABCB1-1Δ)</b>, que gera uma proteína não funcional: doses de ivermectina seguras para outros cães causam ataxia, midríase, tremores, coma e morte. O mesmo vale para loperamida e alguns quimioterápicos. A CFTR (seção 1.8) é da mesma família ABC, mas funciona como canal de Cl⁻.</p></div>
+
+    <h3><span class="tag">1.6</span>Transporte ativo secundário: pegando carona no sódio</h3>
+    <p>O gradiente de Na⁺ guarda energia como uma represa guarda água. O transporte ativo secundário usa a “queda” do Na⁺ para dentro da célula para empurrar outro soluto contra o seu gradiente. A proteína não toca em ATP; quem pagou a conta foi a Na⁺/K⁺-ATPase.</p>
+    <div class="flow">
+      <div class="lane up"><h5>Simporte (cotransporte): mesmo sentido</h5><ol>
+        <li><b>SGLT1</b> (intestino, túbulo proximal final): 2 Na⁺ + 1 glicose (ou galactose). Concentra glicose dentro do enterócito.</li>
+        <li><b>SGLT2</b> (túbulo proximal inicial): 1 Na⁺ + 1 glicose, alta capacidade; reabsorve cerca de 90% da glicose filtrada.</li>
+        <li><b>Na⁺-aminoácidos</b> (vários sistemas) e <b>Na⁺-fosfato</b> no intestino e no rim.</li>
+        <li><b>NKCC</b> (Na⁺-K⁺-2Cl⁻): alça de Henle (alvo da furosemida) e face basolateral das células secretoras.</li>
+      </ol></div>
+      <div class="lane down"><h5>Antiporte (contratransporte): sentidos opostos</h5><ol>
+        <li><b>Trocador Na⁺/H⁺ (NHE)</b>: 1 Na⁺ entra, 1 H⁺ sai. Regula o pH intracelular e, no túbulo proximal (NHE3), secreta H⁺ e reabsorve Na⁺ e HCO₃⁻.</li>
+        <li><b>Trocador Na⁺/Ca²⁺ (NCX)</b>: 3 Na⁺ entram, 1 Ca²⁺ sai. Grande capacidade de retirar Ca²⁺ do miocárdio após cada batimento.</li>
+        <li><b>Trocador Cl⁻/HCO₃⁻</b> (banda 3 da hemácia): troca de cloretos que permite transportar CO₂ como bicarbonato.</li>
+      </ol></div>
+    </div>
+    <figure class="fig"><img src="img/tr-sglt.jpg" loading="lazy" alt="Quatro quadros mostrando o simporte sódio-glicose: ligação do sódio, ligação da glicose, mudança de conformação e liberação no citosol"><figcaption><b>Como o SGLT funciona.</b> (a) Fora há muito Na⁺ e pouca glicose. (b) A ligação do Na⁺ cria o sítio para a glicose. (c) A ligação da glicose muda a conformação do carreador. (d) O Na⁺ é liberado no citosol, onde sua concentração é baixa, e isso libera também a glicose, mesmo que lá dentro já haja muita.</figcaption></figure>
+    <p>O acoplamento é estequiométrico: o SGLT1 usa 2 Na⁺ por glicose e por isso consegue concentrar a glicose dentro da célula muito mais do que o SGLT2, que usa só 1. Quanto mais íons de Na⁺ acoplados, maior o gradiente que o soluto pode vencer.</p>
+    <div class="note trap"><b>Pegadinha</b><p>Bloquear a Na⁺/K⁺-ATPase com ouabaína <b>para</b> a absorção de glicose pelo SGLT1, embora o SGLT1 não use ATP. E retirar o Na⁺ do lúmen intestinal também a interrompe. Já a saída da glicose para o sangue, pela face basolateral, é difusão facilitada pelo GLUT2: não depende de Na⁺ nem de ATP.</p></div>
+
+    <h3><span class="tag">1.7</span>Transporte vesicular: endocitose, exocitose e transcitose</h3>
+    <p>Macromoléculas e partículas não atravessam a bicamada nem cabem em transportadores. Elas são embrulhadas em pedaços de membrana. Esses processos gastam ATP (polimerização de actina, motores moleculares) e GTP (dinamina, proteínas Rab).</p>
+    <div class="cards">
+      <div class="card"><span class="role">Endocitose</span><h5>Fagocitose</h5><p>“Comer” partículas grandes (&gt; 0,5 µm): bactérias, células mortas, restos. Feita por <b>neutrófilos e macrófagos</b>, que emitem pseudópodes com actina, englobam a partícula e fundem o fagossomo com lisossomos. É facilitada pela <b>opsonização</b> (IgG e complemento cobrindo o micro-organismo).</p></div>
+      <div class="card"><span class="role">Endocitose</span><h5>Pinocitose</h5><p>“Beber”: invaginações pequenas que capturam LEC com os solutos dissolvidos, de forma inespecífica e contínua. Inclui a macropinocitose e as <b>cavéolas</b> (ricas em colesterol e caveolina), abundantes no endotélio.</p></div>
+      <div class="card"><span class="role">Endocitose</span><h5>Mediada por receptor</h5><p>O ligante se prende a receptores que se concentram em <b>fossetas revestidas de clatrina</b>; a dinamina estrangula a vesícula. Seletiva e eficiente: captação de <b>LDL</b> (colesterol), <b>transferrina</b> (ferro), vitamina B₁₂, hormônios. Alguns vírus entram por essa porta.</p></div>
+      <div class="card"><span class="role">Exocitose</span><h5>Constitutiva e regulada</h5><p>Vesículas do Golgi fundem-se à membrana graças às proteínas <b>SNARE</b>. A exocitose <b>regulada</b> espera um sinal, quase sempre aumento de Ca²⁺: neurotransmissores, insulina, enzimas pancreáticas, histamina dos mastócitos, gotas de gordura e caseína do leite.</p></div>
+    </div>
+    <div class="note clin"><b>Botulismo</b><p>As toxinas de <i>Clostridium botulinum</i> são proteases que cortam as proteínas SNARE dos terminais motores. Sem fusão de vesículas, a acetilcolina não é liberada e surge <b>paralisia flácida</b>. No Brasil, o botulismo bovino está ligado à osteofagia (ingestão de ossos de carcaças por animais com deficiência de fósforo), a cama de frango e silagem contaminadas; em aves aquáticas e em cães também ocorre. O tétano age na mesma maquinaria, mas em interneurônios inibitórios, causando paralisia espástica.</p></div>
+    <h4>Transcitose: atravessar a célula inteira</h4>
+    <p>Na transcitose a vesícula captura material de um lado da célula epitelial ou endotelial, atravessa o citoplasma e o libera do outro lado. É assim que as <strong>imunoglobulinas do colostro</strong> chegam ao sangue do recém-nascido.</p>
+    <p>Em ruminantes (placenta sindesmocorial), equinos e suínos (epiteliocorial), as várias camadas de tecido entre o sangue materno e o fetal impedem a passagem de anticorpos: o neonato nasce praticamente <strong>sem imunoglobulinas</strong> (agamaglobulinêmico). Em cães e gatos (endoteliocorial) passam apenas 5 a 10%. Nas primeiras horas de vida, os enterócitos do intestino delgado do neonato capturam proteínas do lúmen por pinocitose em grande escala, de forma <strong>inespecífica</strong>, e as entregam à linfa e ao sangue. Essa permeabilidade diminui rapidamente e termina por volta de <strong>24 horas</strong> (o “fechamento intestinal”), quando os enterócitos fetais são substituídos por enterócitos maduros. Ajudam a absorção a baixa atividade proteolítica do intestino do neonato e os inibidores de tripsina do próprio colostro.</p>
+    <div class="note clin"><b>Falha de transferência de imunidade passiva</b><p>Se o neonato não mama colostro de boa qualidade, em quantidade suficiente e cedo o bastante, fica vulnerável a diarreias, pneumonias e septicemias. Na prática: bezerros devem receber colostro equivalente a cerca de <b>10% do peso vivo</b> (aproximadamente 4 L para um bezerro holandês) nas primeiras 2 a 6 horas, e o ideal é a IgG sérica acima de 10 g/L entre 24 e 48 h (avaliável pela proteína total sérica por refratometria). Em potros, IgG abaixo de 400 mg/dL indica falha e entre 400 e 800 mg/dL, falha parcial. Quanto mais tarde a primeira mamada, menor a absorção, porque o fechamento intestinal já começou.</p></div>
+    <div class="note deep"><b>FcRn: transcitose seletiva</b><p>Além da captação inespecífica do neonato, existe a transcitose <b>mediada por receptor</b>. O receptor Fc neonatal (<b>FcRn</b>) liga a IgG em pH ácido dentro das vesículas e a libera em pH neutro do outro lado. Em roedores ele transporta IgG do leite no intestino; em primatas, pela placenta hemocorial; em todos os mamíferos, protege a IgG da degradação, prolongando sua meia-vida no plasma. Na glândula mamária de ruminantes, a IgG1 do sangue é transcitada para o colostro nas semanas antes do parto.</p></div>
+
+    <h3><span class="tag">1.8</span>Transporte epitelial: intestino, rim e aplicações clínicas</h3>
+    <p>Epitélios transportam substâncias de um compartimento para outro (do lúmen intestinal para o sangue, do filtrado renal para o sangue) porque são <strong>polarizados</strong>: a membrana <b>apical</b> (voltada para o lúmen) e a <b>basolateral</b> (voltada para o interstício e o sangue) têm transportadores diferentes, e as <strong>junções oclusivas</strong> separam as duas faces e controlam a passagem pelo espaço entre as células (via paracelular).</p>
+    <figure class="fig"><img src="img/tr-intestino.jpg" loading="lazy" alt="Enterócito com simporte sódio-glicose na membrana apical, transportador de glicose e bomba de sódio e potássio na membrana basolateral"><figcaption><b>Absorção de glicose no enterócito.</b> (1) A glicose entra pela face apical com o Na⁺, pelo SGLT1. (2) O simporte usa a energia do gradiente de Na⁺ para concentrar a glicose na célula. (3) Na face basolateral, a Na⁺/K⁺-ATPase expulsa o Na⁺ e mantém o gradiente, enquanto a glicose sai por difusão facilitada (GLUT2).</figcaption></figure>
+    <ol class="steps">
+      <li><b>Lúmen → célula (apical)</b><span>SGLT1 traz Na⁺ e glicose ou galactose; GLUT5 traz frutose por difusão facilitada; cotransportadores trazem aminoácidos e dipeptídeos com Na⁺ ou H⁺.</span></li>
+      <li><b>Célula → sangue (basolateral)</b><span>GLUT2 libera os monossacarídeos; a Na⁺/K⁺-ATPase devolve o Na⁺ ao interstício.</span></li>
+      <li><b>A água vai junto</b><span>O acúmulo de Na⁺ e glicose no espaço lateral entre as células cria um pequeno gradiente osmótico; a água segue por aquaporinas e pelas junções. Absorver soluto é a única forma de absorver água.</span></li>
+    </ol>
+    <p>O <strong>túbulo contorcido proximal</strong> do rim usa a mesma lógica, em escala gigantesca: reabsorve cerca de 65% do Na⁺ e da água filtrados e praticamente <strong>100% da glicose e dos aminoácidos</strong>. Como os SGLT saturam, existe um <strong>transporte máximo</strong>: se a glicemia ultrapassar o <strong>limiar renal</strong>, o excesso aparece na urina. Esse limiar é de cerca de 180–220 mg/dL no cão e mais alto no gato (cerca de 250–300 mg/dL); em bovinos, em torno de 100–140 mg/dL.</p>
+    <div class="note clin"><b>Glicosúria: saber interpretar</b><p>Um cão com glicosúria e hiperglicemia persistente sugere <b>diabetes mellitus</b>: o T<sub>m</sub> foi superado. Gatos estressados podem ter hiperglicemia de estresse acima do limiar e glicosúria transitória, o que confunde o diagnóstico (a frutosamina ajuda). Glicosúria com glicemia <b>normal</b> indica defeito no próprio túbulo: a <b>síndrome de Fanconi</b>, hereditária no Basenji ou adquirida (por exemplo, com petiscos de carne seca contaminados), em que glicose, aminoácidos, fosfato e bicarbonato escapam juntos.</p></div>
+    <h4>Secreção de cloreto e a diarreia secretora</h4>
+    <p>Nas criptas intestinais, as células fazem o caminho inverso: o <b>NKCC1</b> basolateral carrega a célula com Cl⁻ e o canal <strong>CFTR</strong>, na face apical, deixa o Cl⁻ sair para o lúmen; Na⁺ e água seguem pela via paracelular. A CFTR é aberta por fosforilação dependente de <b>AMPc</b> (proteína quinase A) e também de GMPc.</p>
+    <div class="cards">
+      <div class="card"><span class="role">Cólera</span><h5>Toxina colérica</h5><p>Ribosila a proteína G<sub>s</sub> e a deixa permanentemente ativa: a adenilato ciclase produz AMPc sem parar, a CFTR fica aberta e o intestino secreta litros de líquido rico em Cl⁻ e Na⁺.</p></div>
+      <div class="card"><span class="role">Neonatos</span><h5><i>E. coli</i> enterotoxigênica</h5><p>Principal causa de diarreia em <b>bezerros nos primeiros 4 dias</b> e em leitões. Adere ao epitélio por fímbrias (F5/K99, F4/K88) e produz a toxina termolábil (LT, que age como a colérica, via AMPc) e/ou a termoestável (STa, que ativa a guanilato ciclase, via GMPc). O epitélio fica intacto: não há lesão, só secreção.</p></div>
+      <div class="card"><span class="role">Genética</span><h5>Fibrose cística</h5><p>Mutações da CFTR (em humanos, a ΔF508 é a mais comum) reduzem a secreção de Cl⁻ e de água: o muco fica espesso no pulmão, no pâncreas e no intestino. Não é doença espontânea relevante em animais domésticos, mas <b>suínos e furões</b> com CFTR inativada são modelos experimentais, pois reproduzem a doença humana melhor que os camundongos.</p></div>
+    </div>
+    <div class="note clin"><b>Terapia de reidratação oral (TRO) em bezerros</b><p>Na diarreia secretora, a CFTR está aberta, mas o <b>SGLT1 continua funcionando</b>. Uma solução oral com <b>Na⁺ e glicose</b> em proporção adequada aproveita o simporte: cada glicose absorvida traz Na⁺ e, atrás deles, água, mesmo enquanto o intestino secreta. Bons eletrólitos orais para bezerros têm Na⁺ entre 90 e 130 mmol/L, glicose (e às vezes glicina ou alanina, que também entram com Na⁺), K⁺ e um <b>agente alcalinizante</b> (acetato ou propionato, preferíveis ao bicarbonato, que atrapalha a coagulação do leite no abomaso) para corrigir a acidose metabólica. O bezerro deve continuar mamando leite, oferecido em horários separados da solução. Bezerros que não se levantam, sem reflexo de sucção ou com desidratação acima de 8% precisam de fluidoterapia intravenosa (capítulo 2).</p></div>
+
+    <section class="labbox rv" aria-labelledby="trqTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="trqTitle">Que transporte é este?</h4></div>
+        <div class="ctrl" style="margin:0"><span class="chip" id="trqScore">0 / 0</span></div></header>
+      <div class="readout" id="trqCase" style="font-size:1.05rem"></div>
+      <div class="ctrl" id="trqBtns" role="group" aria-label="Tipos de transporte">
+        <button class="tbtn" type="button" data-k="simples">Difusão simples</button><button class="tbtn" type="button" data-k="canal">Facilitada por canal</button><button class="tbtn" type="button" data-k="carreador">Facilitada por carreador</button><button class="tbtn" type="button" data-k="primario">Ativo primário</button><button class="tbtn" type="button" data-k="simporte">Secundário: simporte</button><button class="tbtn" type="button" data-k="antiporte">Secundário: antiporte</button><button class="tbtn" type="button" data-k="vesicular">Vesicular</button>
+      </div>
+      <div class="readout" id="trqOut" aria-live="polite">Escolha o tipo de transporte que descreve a situação acima.</div>
+      <div class="ctrl"><button class="btn" type="button" id="trqNext">Próximo caso →</button></div>
+    </section>
+
+    <div class="note mem"><b>Resumo em uma frase por mecanismo</b><p><b>Simples</b>: bicamada, sem proteína, proporcional ao gradiente. <b>Canal</b>: poro com comporta, rapidíssimo. <b>Carreador</b>: muda de forma, satura, é específico. <b>Primário</b>: ATPase empurra contra o gradiente. <b>Secundário</b>: o Na⁺ desce e arrasta (simporte) ou troca (antiporte) outro soluto. <b>Vesicular</b>: membrana embrulha macromoléculas.</p></div>
+
+    <div class="quiz" data-quiz="transporte"></div>
+  </div>
+</section>

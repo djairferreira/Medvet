@@ -1,0 +1,207 @@
+
+<section class="chapter" id="potencial">
+  <div class="ch-head">
+    <div class="ch-num">14</div>
+    <div><span class="eyebrow">Unidade VII · 07.01 Potencial de repouso e potencial de ação</span><h2>Potencial de repouso e potencial de ação</h2></div>
+    <div class="ch-meta"><button class="done-btn" data-done="potencial" aria-pressed="false">Marcar como estudado</button><span class="chip">~60 min</span></div>
+  </div>
+  <div class="col">
+    <p class="oneliner">Toda célula viva é uma pequena bateria: a bomba de Na⁺/K⁺ separa íons, os canais de vazamento de K⁺ transformam essa separação em voltagem, e os canais de Na⁺ dependentes de voltagem usam essa voltagem para disparar um sinal elétrico que corre pelo axônio sem perder força.</p>
+    <div class="goals rv"><h4>Objetivos</h4><ul>
+      <li>Explicar de onde vem o potencial de repouso: gradientes iônicos, permeabilidade seletiva e bomba de Na⁺/K⁺.</li>
+      <li>Calcular potenciais de equilíbrio com a equação de Nernst e entender a lógica da equação de Goldman.</li>
+      <li>Diferenciar potencial graduado de potencial de ação e descrever cada fase do potencial de ação com os canais envolvidos.</li>
+      <li>Relacionar períodos refratários, limiar, lei do tudo ou nada e codificação por frequência.</li>
+      <li>Comparar condução contínua e saltatória e o efeito do diâmetro e da mielina na velocidade.</li>
+      <li>Aplicar esses conceitos à clínica: anestésicos locais, hipercalemia do gato obstruído, hipocalcemia, toxinas e doenças desmielinizantes.</li></ul></div>
+
+    <h3><span class="tag">14.1</span>A célula como bateria: cargas separadas pela membrana</h3>
+    <p>O neurônio é a unidade funcional do sistema nervoso. Ele recebe sinais nos <strong>dendritos</strong> e no <strong>corpo celular</strong>, integra esses sinais no <strong>cone de implantação</strong> (segmento inicial do axônio) e, se o resultado for suficiente, dispara um sinal que corre pelo <strong>axônio</strong> até os terminais, onde será passado a outra célula na sinapse (cap. 15). Os neurônios <strong>sensoriais (aferentes)</strong> levam informação dos receptores ao SNC; os <strong>interneurônios</strong> integram; os <strong>motores (eferentes)</strong> levam a resposta aos músculos e glândulas.</p>
+    <figure class="fig"><img src="img/pa-neuronio.jpg" loading="lazy" alt="Neurônio com corpo celular, núcleo, dendritos, axônio e bainha de mielina; seta indica o sentido do impulso nervoso"><figcaption><b>O neurônio.</b> O impulso nervoso nasce perto do corpo celular e segue pelo axônio, envolto pela bainha de mielina, até os terminais.</figcaption></figure>
+    <p>Se medirmos a voltagem entre o interior e o exterior de uma célula em repouso com um microeletrodo, encontramos um valor <strong>negativo</strong>: cerca de <strong>−70 mV</strong> no neurônio, <strong>−90 mV</strong> na fibra muscular esquelética e no miócito cardíaco ventricular, cerca de <strong>−50 a −60 mV</strong> no músculo liso. Esse é o <strong>potencial de repouso da membrana</strong> (V<sub>m</sub>). Por convenção, o lado de fora é o zero.</p>
+    <figure class="fig"><img src="img/pa-cargas.jpg" loading="lazy" alt="Célula circular cercada de sinais positivos e negativos; cargas positivas acumuladas na face externa da membrana e negativas na face interna"><figcaption><b>Onde ficam as cargas.</b> No grosso do líquido intracelular e extracelular, cargas positivas e negativas se equilibram. A diferença de potencial existe só numa camada finíssima junto à membrana: excesso de cátions na face externa e de ânions na face interna.</figcaption></figure>
+    <div class="note trap"><b>Pegadinha</b><p>A célula <b>não</b> é “negativa por dentro” no sentido de ter muito mais ânions que cátions no citosol. O excesso de cargas é minúsculo (uma fração de cerca de 1 em 100 mil íons) e fica colado à membrana, que funciona como um <b>capacitor</b>. Por isso um único potencial de ação muda a voltagem em 100 mV sem alterar de forma mensurável as concentrações de Na⁺ e K⁺.</p></div>
+
+    <h3><span class="tag">14.2</span>Gradientes iônicos e a equação de Nernst</h3>
+    <p>Dois ingredientes criam o potencial de repouso: <strong>gradientes de concentração</strong> (mantidos pela bomba de Na⁺/K⁺) e <strong>permeabilidade seletiva</strong> (canais que deixam passar um íon e não outro). Os valores típicos em um mamífero:</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Íon</th><th>Extracelular (mM)</th><th>Intracelular (mM)</th><th>Potencial de equilíbrio (37 °C)</th></tr></thead>
+      <tbody>
+        <tr><td><b>Na⁺</b></td><td>140 a 145</td><td>10 a 15</td><td>cerca de <b>+60 a +65 mV</b></td></tr>
+        <tr><td><b>K⁺</b></td><td>3,5 a 5</td><td>140 a 150</td><td>cerca de <b>−90 a −95 mV</b></td></tr>
+        <tr><td><b>Cl⁻</b></td><td>100 a 115</td><td>5 a 10 (neurônio maduro)</td><td>cerca de <b>−70 a −80 mV</b></td></tr>
+        <tr><td><b>Ca²⁺ ionizado</b></td><td>1,1 a 1,3</td><td>0,0001 (100 nM)</td><td>cerca de <b>+120 a +130 mV</b></td></tr>
+      </tbody></table></div>
+    <p>Imagine uma membrana permeável <b>apenas ao K⁺</b>. O K⁺ sai a favor do seu gradiente de concentração, levando carga positiva e deixando para trás ânions que não atravessam (proteínas e fosfatos orgânicos). O interior fica negativo, e essa negatividade passa a <b>puxar o K⁺ de volta</b>. Em algum momento, a força elétrica que puxa para dentro iguala a força química que empurra para fora: o fluxo líquido para. A voltagem em que isso acontece é o <strong>potencial de equilíbrio</strong> (ou de Nernst) daquele íon.</p>
+    <div class="note mem"><b>Equação de Nernst</b><p>E<sub>íon</sub> = (61,5 / z) × log ([íon]<sub>fora</sub> / [íon]<sub>dentro</sub>) a 37 °C, com resultado em mV e z = carga do íon (+1, −1, +2).<br>
+    <b>K⁺:</b> 61,5 × log (4/140) = 61,5 × (−1,54) ≈ <b>−95 mV</b>.<br>
+    <b>Na⁺:</b> 61,5 × log (145/12) = 61,5 × 1,08 ≈ <b>+67 mV</b>.<br>
+    <b>Ca²⁺:</b> (61,5/2) × log (1,2/0,0001) = 30,75 × 4,08 ≈ <b>+125 mV</b>.<br>
+    Regra prática: cada <b>10 vezes</b> de diferença de concentração vale cerca de <b>60 mV</b> para um íon monovalente.</p></div>
+    <p>O potencial de equilíbrio é a voltagem que o íon “quer” impor à membrana. Quanto mais longe o V<sub>m</sub> estiver do E de um íon, maior a <strong>força eletromotriz</strong> (V<sub>m</sub> − E<sub>íon</sub>) que o empurra. Em repouso (−70 mV), o Na⁺ está a 135 mV do seu equilíbrio: há uma enorme força puxando Na⁺ para dentro, contida só porque quase não há canais de Na⁺ abertos. O K⁺ está a apenas cerca de 20 mV do seu equilíbrio, por isso vaza para fora devagar.</p>
+
+    <h3><span class="tag">14.3</span>Goldman, canais de vazamento e bomba de Na⁺/K⁺</h3>
+    <p>A membrana real é permeável a vários íons ao mesmo tempo. A <strong>equação de Goldman-Hodgkin-Katz</strong> calcula o V<sub>m</sub> como uma média dos potenciais de equilíbrio <b>ponderada pela permeabilidade</b> de cada íon:</p>
+    <p class="mono" style="text-align:center">V<sub>m</sub> = 61,5 × log [ (P<sub>K</sub>[K⁺]<sub>e</sub> + P<sub>Na</sub>[Na⁺]<sub>e</sub> + P<sub>Cl</sub>[Cl⁻]<sub>i</sub>) / (P<sub>K</sub>[K⁺]<sub>i</sub> + P<sub>Na</sub>[Na⁺]<sub>i</sub> + P<sub>Cl</sub>[Cl⁻]<sub>e</sub>) ]</p>
+    <p>Em repouso, a membrana do neurônio é cerca de <strong>25 a 50 vezes mais permeável ao K⁺</strong> do que ao Na⁺, graças aos <strong>canais de vazamento de K⁺</strong> (canais de dois poros, K2P, e retificadores de entrada, Kir), que ficam abertos o tempo todo. Por isso o V<sub>m</sub> fica perto do E<sub>K</sub>, mas um pouco menos negativo, porque o pequeno vazamento de Na⁺ para dentro o puxa em direção ao E<sub>Na</sub>. Com P<sub>K</sub> : P<sub>Na</sub> : P<sub>Cl</sub> = 1 : 0,04 : 0,45 e as concentrações da tabela, a conta dá cerca de <b>−69 mV</b>.</p>
+    <div class="cards">
+      <div class="card"><span class="role">Ingrediente 1</span><h5>Gradientes</h5><p>Muito K⁺ dentro, muito Na⁺ e Cl⁻ fora. Quem os mantém é a bomba de Na⁺/K⁺ (e, para o Cl⁻ nos neurônios, o cotransportador KCC2).</p></div>
+      <div class="card"><span class="role">Ingrediente 2</span><h5>Permeabilidade dominante ao K⁺</h5><p>Os canais de vazamento de K⁺ fazem do K⁺ o “dono” do potencial de repouso. Mexer no K⁺ extracelular mexe diretamente no V<sub>m</sub>.</p></div>
+      <div class="card"><span class="role">Ingrediente 3</span><h5>Ânions fixos</h5><p>Proteínas e fosfatos orgânicos aprisionados no citosol não atravessam a membrana e “seguram” a carga negativa interna.</p></div>
+    </div>
+    <p>A <strong>Na⁺/K⁺-ATPase</strong> (cap. 1) leva <b>3 Na⁺ para fora e 2 K⁺ para dentro</b> por ATP. Por tirar uma carga positiva a mais a cada ciclo, ela é <strong>eletrogênica</strong> e contribui diretamente com alguns milivolts (cerca de −3 a −5 mV) ao potencial de repouso. Mas o papel principal é <b>indireto</b>: ela cria e mantém os gradientes. Se a bomba for bloqueada, o V<sub>m</sub> não desaparece na hora; ele vai caindo ao longo de minutos a horas, à medida que os gradientes se dissipam. A bomba consome boa parte do ATP do tecido nervoso, por isso o encéfalo depende tanto de glicose e oxigênio.</p>
+    <div class="note clin"><b>Na clínica: o que a hipóxia faz com o neurônio</b><p>Na isquemia cerebral, no choque ou na parada cardiorrespiratória, falta ATP, a bomba para, o K⁺ se acumula fora e o Na⁺ entra. A célula despolariza, incha (água acompanha o Na⁺, edema citotóxico) e libera glutamato em excesso, que piora a lesão (excitotoxicidade, cap. 15). É também o que acontece na <b>hipoglicemia grave</b> de filhotes de raças toy e de leitões neonatos: convulsões e coma por falta de combustível para a bomba.</p></div>
+
+    <section class="labbox rv" aria-labelledby="gokTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="gokTitle">Calculadora de Nernst e Goldman</h4></div></header>
+      <div class="ctrl" id="gokBtns" role="group" aria-label="Situações clínicas prontas">
+        <button class="tbtn" type="button" data-k="normal" aria-pressed="true">Normal</button>
+        <button class="tbtn" type="button" data-k="hiper">Gato obstruído (K⁺ 9)</button>
+        <button class="tbtn" type="button" data-k="hipo">Hipocalemia (K⁺ 2,2)</button>
+        <button class="tbtn" type="button" data-k="isq">Isquemia (bomba parada)</button>
+      </div>
+      <div class="potencial-ctl">
+        <label>K⁺ extracelular: <b id="gokKoV">4</b> mM<input type="range" id="gokKo" min="1.5" max="12" step="0.1" value="4"></label>
+        <label>Na⁺ intracelular: <b id="gokNaiV">12</b> mM<input type="range" id="gokNai" min="5" max="60" step="1" value="12"></label>
+        <label>Permeabilidade P<sub>Na</sub>/P<sub>K</sub>: <b id="gokPV">0,04</b><input type="range" id="gokP" min="0.01" max="20" step="0.01" value="0.04"></label>
+      </div>
+      <div class="svgwrap"><svg id="gokSvg" viewBox="0 0 600 300" role="img" aria-label="Escala de voltagem com potenciais de equilíbrio do potássio e do sódio e o potencial de membrana calculado"></svg></div>
+      <div class="readout" id="gokOut" aria-live="polite"></div>
+    </section>
+
+    <h3><span class="tag">14.4</span>Potenciais graduados: os sinais de curta distância</h3>
+    <p>Quando um neurotransmissor abre canais em um dendrito, ou quando um receptor sensorial é estimulado, a membrana sofre uma pequena variação local de voltagem: um <strong>potencial graduado</strong>. Se a variação torna o interior menos negativo, é uma <strong>despolarização</strong>; se o torna mais negativo, uma <strong>hiperpolarização</strong>. Nas sinapses, eles recebem os nomes de <b>PEPS</b> (potencial excitatório pós-sináptico) e <b>PIPS</b> (inibitório).</p>
+    <div class="figrow">
+      <figure class="fig"><img src="img/pa-grafico.jpg" loading="lazy" alt="Gráfico do potencial de membrana com repouso em torno de −70 mV, uma despolarização e uma hiperpolarização"><figcaption><b>Despolarizar e hiperpolarizar.</b> A partir do repouso, a membrana pode ficar menos negativa (despolariza) ou mais negativa (hiperpolariza).</figcaption></figure>
+      <figure class="fig"><img src="img/pa-graduado.jpg" loading="lazy" alt="Corpo celular com canal de sódio aberto por neurotransmissor e gráfico mostrando a queda do potencial com a distância"><figcaption><b>Potencial graduado decai com a distância.</b> O Na⁺ entra por um canal aberto pelo neurotransmissor; a corrente se espalha pela célula, mas vaza pela membrana e perde força em poucos milímetros.</figcaption></figure>
+    </div>
+    <div class="tbl"><table>
+      <thead><tr><th>Característica</th><th>Potencial graduado</th><th>Potencial de ação</th></tr></thead>
+      <tbody>
+        <tr><td><b>Amplitude</b></td><td>Proporcional ao estímulo (de frações de mV a dezenas de mV)</td><td>Fixa (cerca de 100 mV); <b>tudo ou nada</b></td></tr>
+        <tr><td><b>Sinal</b></td><td>Despolarizante ou hiperpolarizante</td><td>Sempre despolarizante, com inversão de polaridade</td></tr>
+        <tr><td><b>Propagação</b></td><td>Passiva (eletrotônica), decai com a distância</td><td>Regenerada a cada trecho; não decai</td></tr>
+        <tr><td><b>Somação</b></td><td>Sim, espacial e temporal</td><td>Não soma; há período refratário</td></tr>
+        <tr><td><b>Onde</b></td><td>Dendritos, corpo celular, receptores sensoriais, placa motora</td><td>Cone de implantação, axônio, fibra muscular</td></tr>
+        <tr><td><b>Canais</b></td><td>Dependentes de ligante, mecânicos, térmicos</td><td>Dependentes de voltagem (Na⁺ e K⁺)</td></tr>
+      </tbody></table></div>
+    <p>O decaimento do potencial graduado depende da <strong>constante de espaço</strong> (λ): quanto maior a resistência da membrana (menos vazamento) e menor a resistência interna (axônio mais grosso), mais longe a corrente chega. É por isso que a mielina (que aumenta a resistência da membrana) e o diâmetro grande aceleram a condução, como veremos em 14.7.</p>
+
+    <h3><span class="tag">14.5</span>O potencial de ação, fase a fase</h3>
+    <p>No <strong>cone de implantação</strong> há uma densidade muito alta de canais de Na⁺ dependentes de voltagem, e por isso é ali que o limiar é mais baixo. Se a soma dos potenciais graduados levar a membrana até o <strong>limiar</strong> (cerca de <b>−55 mV</b>, ou 15 mV acima do repouso), dispara-se o <strong>potencial de ação</strong>.</p>
+    <figure class="fig"><img src="img/pa-curva.jpg" loading="lazy" alt="Curva do potencial de ação: repouso em −70 mV, soma de potenciais pós-sinápticos até o limiar em −50 mV, pico em +25 mV e hiperpolarização"><figcaption><b>Anatomia do potencial de ação.</b> A soma de PPS leva a membrana ao limiar; segue-se a subida rápida até cerca de +30 mV, a repolarização e uma hiperpolarização breve antes do retorno ao repouso. Tudo dura 1 a 2 ms no neurônio.</figcaption></figure>
+    <ol class="steps">
+      <li><b>Repouso (−70 mV)</b><span>Canais de Na⁺ dependentes de voltagem <b>fechados mas prontos</b> (comporta de ativação <i>m</i> fechada, comporta de inativação <i>h</i> aberta). Canais de K⁺ dependentes de voltagem fechados. Só os canais de vazamento de K⁺ trabalham.</span></li>
+      <li><b>Despolarização até o limiar</b><span>Um estímulo despolariza a membrana. Alguns canais de Na⁺ abrem; o Na⁺ entra e despolariza mais, o que abre mais canais. No limiar, a entrada de Na⁺ supera a saída de K⁺ e o processo se torna <b>autorregenerativo</b> (retroalimentação positiva, o “ciclo de Hodgkin”).</span></li>
+      <li><b>Fase ascendente e ultrapassagem</b><span>Em cerca de 0,5 ms a permeabilidade ao Na⁺ aumenta centenas de vezes. O V<sub>m</sub> corre em direção ao E<sub>Na</sub> e <b>inverte a polaridade</b> (ultrapassagem, <i>overshoot</i>), chegando a +30 a +40 mV. Não alcança +65 mV porque os canais de Na⁺ logo se inativam e os de K⁺ começam a abrir.</span></li>
+      <li><b>Repolarização</b><span>Duas coisas ao mesmo tempo: as comportas <i>h</i> fecham e <b>inativam</b> os canais de Na⁺; e os <b>canais de K⁺ dependentes de voltagem</b> (retificador retardado, comporta <i>n</i>), que abrem devagar, deixam o K⁺ sair em grande quantidade. O V<sub>m</sub> volta a ficar negativo.</span></li>
+      <li><b>Hiperpolarização pós-potencial</b><span>Os canais de K⁺ demoram a fechar; durante alguns milissegundos a permeabilidade ao K⁺ fica maior que no repouso e o V<sub>m</sub> se aproxima do E<sub>K</sub> (−80 a −90 mV).</span></li>
+      <li><b>Retorno ao repouso</b><span>Os canais de K⁺ fecham, as comportas <i>h</i> reabrem (canais de Na⁺ voltam ao estado “fechado mas pronto”). A bomba de Na⁺/K⁺ <b>não</b> é necessária para cada potencial de ação; ela trabalha em segundo plano repondo os poucos íons trocados.</span></li>
+    </ol>
+    <figure class="fig"><img src="img/pa-impulso.jpg" loading="lazy" alt="Quatro quadros da membrana: repouso, despolarização com entrada de sódio, repolarização com saída de potássio e retorno ao repouso pela bomba"><figcaption><b>Os íons em cada fase.</b> Repouso; despolarização (Na⁺ entra por canais de Na⁺); repolarização (K⁺ sai por canais de K⁺); retorno ao repouso, com a bomba de Na⁺/K⁺ restabelecendo os gradientes ao longo do tempo.</figcaption></figure>
+    <h4>As comportas do canal de Na⁺</h4>
+    <div class="cards">
+      <div class="card"><span class="role">Estado 1</span><h5>Fechado (repouso)</h5><p><i>m</i> fechada, <i>h</i> aberta. Não conduz, mas pode abrir se despolarizado. O sensor de voltagem é o segmento S4, rico em argininas e lisinas, que se desloca no campo elétrico.</p></div>
+      <div class="card"><span class="role">Estado 2</span><h5>Aberto (ativado)</h5><p><i>m</i> abre em menos de 1 ms com a despolarização; <i>h</i> ainda aberta. Na⁺ entra. Dura só cerca de 1 ms.</p></div>
+      <div class="card"><span class="role">Estado 3</span><h5>Inativado</h5><p><i>h</i> fecha (uma alça intracelular tampa o poro como uma bola presa a uma corrente). <b>Não reabre</b> com nova despolarização até a membrana repolarizar e <i>h</i> reabrir.</p></div>
+    </div>
+    <div class="note deep"><b>Por que a inativação importa tanto</b><p>A inativação é o que faz o potencial de ação acabar, o que cria o período refratário e o que impede o impulso de voltar para trás no axônio. Também explica a <b>acomodação</b>: uma despolarização <b>lenta e sustentada</b> inativa os canais de Na⁺ antes que eles possam abrir em conjunto, e a célula deixa de disparar mesmo passando do limiar. É o mecanismo da perda de excitabilidade na hipercalemia grave.</p></div>
+
+    <section class="labbox rv" aria-labelledby="paTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="paTitle">Simulador do potencial de ação</h4></div>
+        <div class="ctrl" style="margin:0"><button class="btn" type="button" id="paGo">⚡ Estimular</button></div></header>
+      <div class="potencial-ctl">
+        <label>Intensidade do estímulo: <b id="paIV">8</b> µA/cm²<input type="range" id="paI" min="0" max="30" step="0.5" value="8"></label>
+        <label>K⁺ extracelular: <b id="paKV">4,0</b> mM<input type="range" id="paK" min="2" max="10" step="0.1" value="4"></label>
+        <label>Bloqueio dos canais de Na⁺ (lidocaína/TTX): <b id="paBV">0</b>%<input type="range" id="paB" min="0" max="100" step="5" value="0"></label>
+        <label>2º estímulo após: <b id="paDV">desligado</b><input type="range" id="paD" min="0" max="15" step="0.5" value="0"></label>
+      </div>
+      <div class="svgwrap"><svg id="paSvg" viewBox="0 0 600 350" role="img" aria-label="Curva de voltagem ao longo do tempo e estado dos canais de sódio e potássio"></svg></div>
+      <div class="readout" id="paOut" aria-live="polite"></div>
+    </section>
+    <p>O simulador usa as equações de <strong>Hodgkin e Huxley</strong> (1952), deduzidas no axônio gigante da lula, e por isso o repouso fica em torno de −65 mV. Experimente: estímulo fraco (abaixo de cerca de 2 µA/cm²) produz só um potencial graduado; acima do limiar o potencial de ação tem sempre o mesmo tamanho. Ligue o 2º estímulo com intervalo de 2 ms e depois de 10 ms para ver os períodos refratários.</p>
+
+    <h3><span class="tag">14.6</span>Limiar, tudo ou nada, refratariedade e codificação</h3>
+    <p><strong>Lei do tudo ou nada.</strong> Abaixo do limiar, a saída de K⁺ vence e a membrana volta ao repouso. Acima dele, a retroalimentação positiva do Na⁺ assume o controle e o potencial de ação acontece completo, com a mesma amplitude, não importa se o estímulo foi um pouco ou muito acima do limiar. O potencial de ação é como o disparo de uma arma: apertar o gatilho com mais força não faz a bala sair mais rápido.</p>
+    <div class="flow">
+      <div class="lane up"><h5>Período refratário absoluto</h5><ol>
+        <li>Do início do potencial de ação até cerca de 1/3 da repolarização (cerca de 1 ms no neurônio).</li>
+        <li>Os canais de Na⁺ estão abertos ou <b>inativados</b>.</li>
+        <li><b>Nenhum</b> estímulo, por mais forte, gera novo potencial de ação.</li>
+        <li>Limita a frequência máxima (em torno de 500 a 1.000 por segundo nas fibras mais rápidas).</li></ol></div>
+      <div class="lane down"><h5>Período refratário relativo</h5><ol>
+        <li>Do fim do absoluto até o fim da hiperpolarização.</li>
+        <li>Parte dos canais de Na⁺ já se recuperou, mas os de K⁺ ainda estão abertos.</li>
+        <li>Um estímulo <b>mais forte que o normal</b> consegue disparar.</li>
+        <li>O potencial de ação gerado tende a ser menor.</li></ol></div>
+    </div>
+    <p><strong>Codificação por frequência.</strong> Se a amplitude não varia, como o sistema nervoso distingue um toque leve de uma pancada? Pela <b>frequência</b> de disparos: um estímulo mais intenso mantém o cone de implantação despolarizado por mais tempo e mais acima do limiar, e o neurônio dispara assim que sai do período refratário relativo. Soma-se a isso o <b>recrutamento</b>: estímulos fortes ativam mais neurônios, inclusive os de limiar mais alto. O receptor sensorial gera um potencial graduado (potencial de receptor) proporcional ao estímulo, e o axônio o converte em código de frequência.</p>
+    <div class="note trap"><b>Pegadinha</b><p>“Estímulo mais forte gera potencial de ação maior” está <b>errado</b>. Gera potenciais de ação <b>mais frequentes</b> e recruta <b>mais fibras</b>. Outra: a hiperpolarização pós-potencial deve-se aos canais de K⁺ lentos, <b>não</b> à bomba de Na⁺/K⁺.</p></div>
+
+    <h3><span class="tag">14.7</span>Propagação: contínua, saltatória e a velocidade</h3>
+    <p>A entrada de Na⁺ em um ponto do axônio cria <strong>correntes locais</strong> que despolarizam o trecho vizinho até o limiar, e ali nasce um novo potencial de ação. O impulso é <b>regenerado</b> a cada trecho, por isso chega ao fim do axônio com a mesma amplitude, seja ele de 1 mm ou de 1,5 m (como os axônios do nervo isquiático de um cavalo). O trecho que acabou de disparar está refratário, por isso o impulso segue <b>num só sentido</b>, do cone de implantação para os terminais (condução <b>ortodrômica</b>).</p>
+    <div class="flow">
+      <div class="lane up"><h5>Condução contínua (fibra amielínica)</h5><ol>
+        <li>Canais de Na⁺ distribuídos por toda a membrana.</li>
+        <li>Cada pedaço de membrana precisa disparar, um após o outro.</li>
+        <li>Lenta: 0,5 a 2 m/s nas fibras C.</li>
+        <li>Gasta mais energia (mais íons trocados por centímetro).</li></ol></div>
+      <div class="lane down"><h5>Condução saltatória (fibra mielínica)</h5><ol>
+        <li>A mielina isola o internodo; canais de Na⁺ concentrados nos <b>nodos de Ranvier</b> (milhares por µm²).</li>
+        <li>O potencial de ação “salta” de nodo em nodo.</li>
+        <li>Rápida: até 70 a 120 m/s nas fibras Aα.</li>
+        <li>Econômica: só os nodos trocam íons.</li></ol></div>
+    </div>
+    <p>A <strong>mielina</strong> é formada pelas <strong>células de Schwann</strong> no sistema nervoso periférico (cada uma envolve um internodo de um único axônio) e pelos <strong>oligodendrócitos</strong> no SNC (cada um mieliniza vários axônios). É cerca de 70 a 80% lipídio (esfingomielina, galactocerebrosídeos, colesterol), o que a torna um ótimo isolante: aumenta a resistência e diminui a capacitância da membrana, e a corrente local alcança o próximo nodo quase sem perder força.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Fibra</th><th>Diâmetro (µm)</th><th>Mielina</th><th>Velocidade (m/s)</th><th>Exemplos</th></tr></thead>
+      <tbody>
+        <tr><td><b>Aα</b></td><td>12 a 20</td><td>Sim, espessa</td><td>70 a 120</td><td>Motoneurônio alfa, fusos musculares (propriocepção)</td></tr>
+        <tr><td><b>Aβ</b></td><td>6 a 12</td><td>Sim</td><td>30 a 70</td><td>Tato, pressão</td></tr>
+        <tr><td><b>Aγ</b></td><td>3 a 6</td><td>Sim</td><td>15 a 30</td><td>Motor para fusos musculares</td></tr>
+        <tr><td><b>Aδ</b></td><td>2 a 5</td><td>Sim, fina</td><td>12 a 30</td><td>Dor rápida, frio</td></tr>
+        <tr><td><b>B</b></td><td>1 a 3</td><td>Sim, fina</td><td>3 a 15</td><td>Pré-ganglionares autonômicas (cap. 16)</td></tr>
+        <tr><td><b>C</b></td><td>0,3 a 1,3</td><td>Não</td><td>0,5 a 2</td><td>Dor lenta, calor, pós-ganglionares autonômicas</td></tr>
+      </tbody></table></div>
+    <div class="note mem"><b>Memorize</b><p>Velocidade aumenta com o <b>diâmetro</b> (menor resistência interna) e com a <b>mielina</b> (menor vazamento). Na fibra mielínica, a velocidade é aproximadamente proporcional ao diâmetro (cerca de 6 m/s por µm); na amielínica, à raiz quadrada do diâmetro. Os invertebrados, sem mielina, aumentaram o diâmetro: o axônio gigante da lula chega a 1 mm.</p></div>
+
+    <section class="labbox rv" aria-labelledby="cdzTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="cdzTitle">Corrida de impulsos: três axônios</h4></div>
+        <div class="ctrl" style="margin:0"><button class="btn" type="button" id="cdzGo">▶ Disparar</button></div></header>
+      <div class="ctrl" id="cdzBtns" role="group" aria-label="Escolha o axônio em destaque">
+        <button class="tbtn" type="button" data-k="amie" aria-pressed="true">Amielínico (fibra C)</button>
+        <button class="tbtn" type="button" data-k="mie">Mielínico (fibra A)</button>
+        <button class="tbtn" type="button" data-k="desm">Desmielinizado</button>
+      </div>
+      <div class="svgwrap"><svg id="cdzSvg" viewBox="0 0 600 300" role="img" aria-label="Três axônios com o impulso nervoso avançando em velocidades diferentes"></svg></div>
+      <div class="readout" id="cdzOut" aria-live="polite"></div>
+    </section>
+
+    <h3><span class="tag">14.8</span>Na clínica: quando a excitabilidade falha</h3>
+    <div class="note clin"><b>Anestésicos locais: lidocaína, bupivacaína</b><p>São bases fracas (pKa cerca de 7,8 a 8,1). A forma <b>não ionizada</b> atravessa a membrana; dentro do axônio, a forma <b>ionizada</b> entra pelo lado de dentro do canal de Na⁺ e bloqueia o poro, de preferência nos canais <b>abertos ou inativados</b> (bloqueio dependente de uso: fibras que disparam muito são bloqueadas antes). Fibras finas (C e Aδ, dor) são bloqueadas antes das grossas (motoras), por isso o animal perde a dor antes de perder a força. Usos: bloqueios de nervos para claudicação em equinos, anestesia epidural em bovinos, bloqueio do nervo cornual na descorna, infiltração para suturas.<br>
+    Dois detalhes práticos: em <b>tecido inflamado ou abscesso</b> (pH ácido), mais fármaco fica ionizado do lado de fora, atravessa menos a membrana e o bloqueio falha; e a <b>adrenalina</b> associada causa vasoconstrição, retarda a absorção e prolonga o efeito. Os <b>gatos</b> são bem mais sensíveis à toxicidade sistêmica (tremores, convulsões, depressão cardiovascular), e a lidocaína intravenosa também é usada como <b>antiarrítmico</b> (arritmias ventriculares, por exemplo na dilatação-vólvulo gástrica do cão).</p></div>
+    <div class="note clin"><b>Hipercalemia: o gato com obstrução uretral</b><p>O gato macho com obstrução uretral (tampão uretral, urólito) não elimina K⁺, e o K⁺ sérico pode passar de 8 a 10 mEq/L. Pela equação de Goldman, o potencial de repouso fica <b>menos negativo</b>. À primeira vista isso aproxima a membrana do limiar, mas a despolarização sustentada <b>inativa os canais de Na⁺</b> (acomodação): o miocárdio fica <b>menos excitável</b> e conduz mais devagar. Resultado: <b>bradicardia</b> (achado alarmante num gato estressado, que deveria estar taquicárdico), onda T apiculada, desaparecimento da onda P, QRS alargado, ritmo sinoventricular e, no extremo, fibrilação ou assistolia.<br>
+    Tratamento de emergência: <b>gluconato de cálcio a 10%</b> IV lento (não baixa o K⁺, mas eleva o limiar e restabelece a diferença entre repouso e limiar, protegendo o coração por 20 a 30 minutos); <b>insulina regular com glicose</b> ou bicarbonato (levam K⁺ para dentro das células); fluidoterapia e, principalmente, <b>desobstrução</b>. O mesmo raciocínio vale para o hipoadrenocorticismo (doença de Addison) do cão e para a ruptura de bexiga em potros.</p></div>
+    <div class="note clin"><b>Hipocalemia: fraqueza</b><p>Com K⁺ baixo, o E<sub>K</sub> e o potencial de repouso ficam <b>mais negativos</b> (hiperpolarização): a distância até o limiar aumenta e o músculo fica fraco. Exemplos: <b>polimiopatia hipocalêmica do gato</b> (ventroflexão do pescoço, comum na doença renal crônica e no hiperaldosteronismo); <b>vacas leiteiras anoréxicas</b> tratadas repetidamente com isoflupredona, que ficam em decúbito; perdas por diarreia e por diuréticos.</p></div>
+    <div class="note clin"><b>Hipocalcemia e tetania</b><p>O Ca²⁺ extracelular se liga às cargas negativas da face externa da membrana e dos canais de Na⁺, “estabilizando” as comportas. Com Ca²⁺ baixo, os canais de Na⁺ abrem com despolarizações menores: o <b>limiar cai</b> e nervos e músculos disparam espontaneamente. É a <b>tetania</b>: tremores, rigidez, convulsões, hipertermia. Exemplo clássico: <b>eclâmpsia (tetania puerperal) da cadela</b>, sobretudo de raças pequenas com ninhadas grandes, 1 a 4 semanas após o parto; também a tetania da égua em lactação e a hipocalcemia do <b>hipoparatireoidismo</b>. A hipercalcemia faz o oposto: eleva o limiar e deprime a excitabilidade.</p></div>
+    <div class="note trap"><b>Pegadinha: a vaca com febre do leite não fica tetânica</b><p>A <b>hipocalcemia puerperal da vaca</b> causa <b>paresia flácida</b> (vaca caída, cabeça voltada para o flanco), e não tetania. Na vaca, o efeito dominante é a falta de Ca²⁺ para a <b>liberação de acetilcolina</b> na junção neuromuscular e para a contração muscular (cap. 12), que supera o aumento da excitabilidade do nervo. A tetania nos ruminantes costuma vir da <b>hipomagnesemia</b> (tetania das pastagens).</p></div>
+    <div class="note clin"><b>Toxinas que agem em canais de Na⁺</b><p><b>Bloqueiam o poro:</b> a <b>tetrodotoxina</b> (TTX), do baiacu, e a <b>saxitoxina</b>, de dinoflagelados da maré vermelha que contaminam mariscos e mexilhões. Agem pelo lado de fora do canal e causam parestesia, paralisia flácida e morte por paralisia respiratória.<br>
+    <b>Mantêm o canal aberto</b> (retardam a inativação): os inseticidas <b>piretroides</b>. A <b>permetrina</b> de produtos para cães, aplicada por engano em gatos (que a metabolizam mal por baixa glicuronidação), causa tremores, hiperexcitabilidade e convulsões. A toxina do <b>escorpião-amarelo</b> (<i>Tityus serrulatus</i>) também prolonga a abertura dos canais de Na⁺ e provoca descarga maciça de acetilcolina e catecolaminas em cães picados.</p></div>
+    <div class="note clin"><b>Mutação de canal de Na⁺: HYPP em cavalos Quarto de Milha</b><p>A <b>paralisia periódica hipercalêmica</b> (HYPP) é causada por uma mutação no gene <i>SCN4A</i>, do canal de Na⁺ do músculo esquelético, herdada da linhagem do garanhão Impressive. Os canais mutantes <b>falham em inativar</b> quando o K⁺ sobe (após alimentos ricos em K⁺, como alfafa e melaço): o músculo fica despolarizado, tem fasciculações e depois fraqueza ou paralisia, às vezes com ruído respiratório. Herança <b>autossômica dominante</b>; há teste genético.</p></div>
+    <div class="note clin"><b>Desmielinização</b><p>Sem mielina, a corrente local se perde pelo internodo e o impulso fica <b>lento</b> ou <b>bloqueado</b> (o internodo tem poucos canais de Na⁺ para regenerar o sinal). Exemplos: <b>polirradiculoneurite</b> do cão (paralisia flácida ascendente, desmielinização das raízes ventrais), lesões desmielinizantes da <b>cinomose</b> no SNC, a <b>doença de Marek</b> das aves (infiltração e desmielinização de nervos periféricos, com paralisia de pernas e asas), o <b>tremor congênito dos leitões</b> (hipomielinogênese) e neuropatias por <b>intoxicações</b> e hipotireoidismo. Os axônios <b>longos</b> também sofrem mais com axonopatias: a <b>hemiplegia laríngea</b> do cavalo (“cavalo roncador”) acomete o nervo laríngeo recorrente esquerdo, um dos mais longos do corpo.</p></div>
+    <div class="tbl"><table>
+      <thead><tr><th>Situação</th><th>O que muda</th><th>Efeito na excitabilidade</th></tr></thead>
+      <tbody>
+        <tr><td><b>Hipercalemia</b></td><td>Repouso menos negativo; canais de Na⁺ inativados</td><td>Aumenta no início, depois <b>cai</b> (bradicardia, arritmias)</td></tr>
+        <tr><td><b>Hipocalemia</b></td><td>Repouso mais negativo</td><td><b>Cai</b> (fraqueza muscular)</td></tr>
+        <tr><td><b>Hipocalcemia</b></td><td>Limiar mais negativo</td><td><b>Aumenta</b> (tetania, convulsões)</td></tr>
+        <tr><td><b>Hipercalcemia</b></td><td>Limiar menos negativo</td><td><b>Cai</b> (fraqueza, letargia)</td></tr>
+        <tr><td><b>Lidocaína, TTX, saxitoxina</b></td><td>Canais de Na⁺ bloqueados</td><td>Bloqueio da condução</td></tr>
+        <tr><td><b>Piretroides, toxina de escorpião</b></td><td>Inativação retardada</td><td>Disparos repetitivos, tremores</td></tr>
+      </tbody></table></div>
+
+    <div class="note lab"><b>Na prática</b><p>Os mesmos princípios estão por trás de exames do dia a dia: o <b>eletrocardiograma</b> registra a soma dos potenciais de ação do miocárdio; a <b>eletromiografia</b> e a medida de <b>velocidade de condução nervosa</b> ajudam a distinguir doenças desmielinizantes (velocidade muito baixa) de axonais (amplitude baixa); e o <b>K⁺ sérico</b> é um dos primeiros exames pedidos em qualquer animal com bradicardia ou fraqueza. Lembre que o potencial de ação cardíaco tem um <b>platô</b> de Ca²⁺ que o faz durar 200 a 300 ms, e o período refratário longo impede o tétano do coração.</p></div>
+
+    <div class="quiz" data-quiz="potencial"></div>
+  </div>
+</section>
