@@ -11,7 +11,16 @@ read=lambda p: open(p,encoding='utf-8').read()
 body=''.join(read(os.path.join(src,'partes',f)) for f in sorted(os.listdir(os.path.join(src,'partes'))) if f.endswith('.html'))
 js_dados=''.join(read(os.path.join(src,f)) for f in ['dados-novos.js','dados.js','questoes.js','roteiro.js'] if os.path.exists(os.path.join(src,f)))
 js_w=read(os.path.join(src,'widgets.js')) if os.path.exists(os.path.join(src,'widgets.js')) else ''
-css=read(os.path.join(ROOT,'_base','estilo.css'))+(read(os.path.join(src,'estilo.css')) if os.path.exists(os.path.join(src,'estilo.css')) else ''); app=read(os.path.join(ROOT,'_base','app.js'))
+def pasta_arqs(sub,ext):
+    d=os.path.join(src,sub)
+    return [os.path.join(d,f) for f in sorted(os.listdir(d)) if f.endswith(ext)] if os.path.isdir(d) else []
+# capítulos modulares: labs/*.js, css/*.css, q/*.json (questões), fc/*.json (cartões)
+js_w+=''.join('\n/* '+os.path.basename(f)+' */\n(function(){\n'+read(f)+'\n})();\n' for f in pasta_arqs('labs','.js'))
+_q=[x for f in pasta_arqs('q','.json') for x in json.load(open(f,encoding='utf-8'))]
+_fc=[x for f in pasta_arqs('fc','.json') for x in json.load(open(f,encoding='utf-8'))]
+if _q: js_dados+='\nwindow.LIVRO.Q=window.LIVRO.Q.concat('+json.dumps(_q,ensure_ascii=False)+');'
+if _fc: js_dados+='\nwindow.LIVRO.FC=window.LIVRO.FC.concat('+json.dumps(_fc,ensure_ascii=False)+');'
+css=read(os.path.join(ROOT,'_base','estilo.css'))+(read(os.path.join(src,'estilo.css')) if os.path.exists(os.path.join(src,'estilo.css')) else '')+''.join(read(f) for f in pasta_arqs('css','.css')); app=read(os.path.join(ROOT,'_base','app.js'))
 # contagens reais
 info=json.loads(subprocess.check_output(['node','-e','global.window={};eval(require("fs").readFileSync(0,"utf8"));const L=window.LIVRO;console.log(JSON.stringify({q:L.Q.length,m:Object.keys(L.MATCH).length,o:Object.keys(L.ORDER).length,caps:L.caps.length}))'],input=js_dados.encode()))
 nfig=len(set(re.findall(r'src="(img/[^"]+)"',body)) | set(re.findall(r'"(?:img|key)": ?"(img/[^"]+)"',js_dados)))
@@ -66,6 +75,6 @@ html=f'''<!doctype html>
 </body>
 </html>
 '''
-out=os.path.join(os.path.dirname(ROOT),'livros',pasta+'.html')
+out=os.environ.get('OUT') or os.path.join(os.path.dirname(ROOT),'livros',pasta+'.html')
 open(out,'w',encoding='utf-8').write(html)
 print(out, '%.1f MB'%(len(html)/1e6), 'figuras',nfig,'labs',nlab,'questões',info['q'])

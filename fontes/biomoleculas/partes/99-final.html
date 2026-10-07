@@ -1,0 +1,38 @@
+
+<section class="chapter" id="flash">
+  <div class="ch-head"><div class="ch-num">★</div><div><span class="eyebrow">Revisão ativa</span><h2>Cartões de revisão</h2></div></div>
+  <div class="col">
+    <p>Leia a pergunta, responda em voz alta e só então vire o cartão. Use “Errei” para mandar o cartão para o fim da fila.</p>
+    <div class="fc-wrap">
+      <div class="fc-controls">
+        <label for="fcFilter" class="mono" style="font-size:.8rem;color:var(--muted)">Capítulo</label>
+        <select id="fcFilter"><option value="all">Todos</option></select>
+        <button class="tbtn" type="button" id="fcShuffle">Embaralhar</button>
+      </div>
+      <div class="fc" id="fc" tabindex="0" role="button" aria-label="Virar cartão">
+        <div class="fc-in"><div class="fc-face fc-front"><small id="fcTag">Pergunta</small><div id="fcQ"></div><small>toque para virar</small></div><div class="fc-face fc-back"><small>Resposta</small><div id="fcA"></div></div></div>
+      </div>
+      <div class="fc-nav"><button class="btn ghost" type="button" id="fcPrev">← Anterior</button><span class="count" id="fcCount"></span><div style="display:flex;gap:8px"><button class="btn pink" type="button" id="fcWrong">Errei</button><button class="btn" type="button" id="fcRight">Acertei →</button></div></div>
+    </div>
+  </div>
+</section>
+
+<section class="chapter" id="simulado">
+  <div class="ch-head"><div class="ch-num">★</div><div><span class="eyebrow">25 questões sorteadas, ao menos uma de cada capítulo</span><h2>Simulado com nota</h2></div></div>
+  <div class="col">
+    <p>As questões são sorteadas do banco inteiro, com pelo menos uma de cada capítulo. Responda tudo e clique em <b>Corrigir</b>: só então aparecem as respostas e a nota. Cada simulado sorteia outras questões e outra ordem de alternativas.</p>
+    <div style="display:flex;gap:10px;flex-wrap:wrap"><button class="btn" type="button" id="simStart" data-n="25">Começar novo simulado</button></div>
+    <div id="simBox"></div>
+  </div>
+</section>
+
+
+
+<footer class="book-foot">
+  <img src="{{LOGO480}}" alt="Logo Vet do Futuro">
+  <div><h4>Vet do Futuro</h4><p>Resumos feitos para quem quer o 10, não o 7. Siga para receber os próximos livros da série.</p><a class="ig" href="https://www.instagram.com/vetdofuturoo/" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor"/></svg>@vetdofuturoo</a></div>
+<p class="copy-line">© {{ANO}} Vet do Futuro. Todos os direitos reservados. Conteúdo criado pela Vet do Futuro. É proibida a reprodução, cópia, revenda ou distribuição, total ou parcial, sem autorização por escrito.</p>
+</footer>
+</main>
+</div>
+<button class="icon-btn totop" id="toTop" type="button" aria-label="Voltar ao topo"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg></button>

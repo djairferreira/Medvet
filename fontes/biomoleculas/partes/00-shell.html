@@ -1,0 +1,79 @@
+<div class="readbar" id="readbar" aria-hidden="true"><i></i></div>
+<header class="topbar">
+  <button class="tb-menu" id="menuBtn" type="button" aria-label="Abrir o índice" aria-controls="side" aria-expanded="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg><span>Índice</span></button>
+  <span class="tb-title"><button class="logo-btn" type="button" data-ig aria-label="Vet do Futuro no Instagram"><img class="tb-logo" src="{{LOGO96}}" alt=""></button><span class="tb-name"><span class="tb-long">Biomoléculas</span><span class="tb-short">Biomoléculas</span></span></span>
+  <span class="tb-prog" id="topProg">0%</span>
+</header>
+<div class="scrim" id="scrim" aria-hidden="true"></div>
+
+<div class="shell">
+<nav class="side" id="side" aria-label="Índice do livro">
+  <div class="side-head">
+    <div class="brand"><button class="logo-btn" type="button" data-ig aria-label="Vet do Futuro no Instagram"><img class="brand-mark" src="{{LOGO96}}" alt="Logo Vet do Futuro"></button><div><b>Biomoléculas</b><span>Resumos Vet do Futuro</span></div></div>
+    <button class="icon-btn close" id="closeBtn" type="button" aria-label="Fechar índice"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg></button>
+  </div>
+  <div class="prog">
+    <svg width="46" height="46" viewBox="0 0 46 46" aria-hidden="true"><circle cx="23" cy="23" r="19" fill="none" stroke="var(--line)" stroke-width="5"/><circle id="ring" cx="23" cy="23" r="19" fill="none" stroke="var(--hema)" stroke-width="5" stroke-linecap="round" stroke-dasharray="119.4" stroke-dashoffset="119.4" transform="rotate(-90 23 23)"/></svg>
+    <div><small>Capítulos estudados</small><strong id="progTxt">0 de {{NCAP}}</strong></div>
+  </div>
+  <ol class="toc">
+    <li class="unit">Unidade I · Transporte de membrana</li>
+    <li><a href="#transporte"><span class="n">01</span><span>Transporte através da membrana</span><span class="chk" data-c="transporte"></span></a></li>
+    <li><a href="#osmose"><span class="n">02</span><span>Pressão osmótica e hidrostática</span><span class="chk" data-c="osmose"></span></a></li>
+    <li class="unit">Unidade II · Metabolismo dos carboidratos</li>
+    <li><a href="#carboidratos"><span class="n">03</span><span>Carboidratos: estrutura e funções</span><span class="chk" data-c="carboidratos"></span></a></li>
+    <li><a href="#glicolise"><span class="n">04</span><span>Glicólise e metabolismo anaeróbico</span><span class="chk" data-c="glicolise"></span></a></li>
+    <li><a href="#aerobico"><span class="n">05</span><span>Krebs e cadeia respiratória</span><span class="chk" data-c="aerobico"></span></a></li>
+    <li><a href="#glicogenio"><span class="n">06</span><span>Glicogênio, gliconeogênese e hormônios</span><span class="chk" data-c="glicogenio"></span></a></li>
+    <li class="unit">Unidade III · Metabolismo dos lipídios</li>
+    <li><a href="#lipidios"><span class="n">07</span><span>Lipídios: tipos e transporte no sangue</span><span class="chk" data-c="lipidios"></span></a></li>
+    <li><a href="#betaox"><span class="n">08</span><span>Beta-oxidação, cetose e síntese</span><span class="chk" data-c="betaox"></span></a></li>
+    <li class="unit">Unidade IV · Metabolismo das proteínas</li>
+    <li><a href="#proteinas"><span class="n">09</span><span>Aminoácidos e proteínas</span><span class="chk" data-c="proteinas"></span></a></li>
+    <li><a href="#ureia"><span class="n">10</span><span>Aminoácidos, ciclo da ureia e hormônios</span><span class="chk" data-c="ureia"></span></a></li>
+    <li class="unit">Unidade V · Fisiologia óssea</li>
+    <li><a href="#osso"><span class="n">11</span><span>Cálcio, matriz e células ósseas</span><span class="chk" data-c="osso"></span></a></li>
+    <li class="unit">Unidade VI · Contração muscular</li>
+    <li><a href="#contracao"><span class="n">12</span><span>Músculo esquelético e placa motora</span><span class="chk" data-c="contracao"></span></a></li>
+    <li><a href="#liso"><span class="n">13</span><span>Músculo liso</span><span class="chk" data-c="liso"></span></a></li>
+    <li class="unit">Unidade VII · Potencial de ação e sinapse</li>
+    <li><a href="#potencial"><span class="n">14</span><span>Potencial de repouso e de ação</span><span class="chk" data-c="potencial"></span></a></li>
+    <li><a href="#sinapse"><span class="n">15</span><span>Sinapses e neurotransmissores</span><span class="chk" data-c="sinapse"></span></a></li>
+    <li><a href="#sna"><span class="n">16</span><span>Sistema nervoso autônomo e somático</span><span class="chk" data-c="sna"></span></a></li>
+    <li class="unit">Unidade VIII · Respiração e temperatura</li>
+    <li><a href="#respiracao"><span class="n">17</span><span>Fisiologia respiratória</span><span class="chk" data-c="respiracao"></span></a></li>
+    <li><a href="#termo"><span class="n">18</span><span>Termorregulação e febre</span><span class="chk" data-c="termo"></span></a></li>
+    <li class="unit">Complementar · Reprodução</li>
+    <li><a href="#reproducao"><span class="n">19</span><span>Fisiologia da reprodução</span><span class="chk" data-c="reproducao"></span></a></li>
+    <li class="sep" aria-hidden="true"></li>
+    <li><a href="#flash"><span class="n">★</span><span>Cartões de revisão</span><span></span></a></li>
+    <li><a href="#simulado"><span class="n">★</span><span>Simulado com nota</span><span></span></a></li>
+  </ol>
+  <p class="side-foot">Toque em qualquer imagem para ampliar. Seu progresso fica salvo neste navegador.</p>
+  <p class="copy">© {{ANO}} Vet do Futuro.<br>Todos os direitos reservados.</p>
+</nav>
+
+<main class="main" id="topo">
+
+<header class="cover">
+  <div>
+    <div class="brandbar"><button class="logo-btn" type="button" data-ig aria-label="Vet do Futuro no Instagram"><img src="{{LOGO96}}" alt="Logo Vet do Futuro"></button><div><b>Vet do Futuro</b><span>Resumos para Medicina Veterinária</span></div></div>
+    <span class="eyebrow">Bioquímica · Fisiologia veterinária</span>
+    <h1>Da <em>molécula</em> ao animal que respira, se move e se reproduz.</h1>
+    <p class="lede">As oito unidades do plano de ensino de Biomoléculas, do transporte de membrana à termorregulação, mais o sistema nervoso autônomo e a fisiologia da reprodução do cronograma. Cada via metabólica e cada mecanismo fisiológico explicados passo a passo e ligados ao que o médico-veterinário vê na clínica e na produção.</p>
+    <div class="stats" aria-label="O livro em números">
+      <div class="stat"><b data-count="{{NCAP}}">{{NCAP}}</b><span>capítulos</span></div>
+      <div class="stat"><b data-count="{{NFIG}}">{{NFIG}}</b><span>figuras</span></div>
+      <div class="stat"><b data-count="{{NLAB}}">{{NLAB}}</b><span>laboratórios interativos</span></div>
+      <div class="stat"><b data-count="{{NQ}}">{{NQ}}</b><span>questões</span></div>
+    </div>
+  </div>
+  <div class="cover-wrap"><figure class="cover-img"><img src="img/capa.jpg" alt="Figura de capa" style="object-fit:cover"></figure></div>
+</header>
+<section class="howto" aria-label="Como estudar">
+  <div><b>1 · Leia com calma</b><p>Cada capítulo explica o mecanismo, não só o nome. A frase em destaque no início resume a ideia central.</p></div>
+  <div><b>2 · Mexa nos laboratórios</b><p>Os quadros com moldura são interativos: siga a glicose pela célula, dispare um potencial de ação, contraia um sarcômero.</p></div>
+  <div><b>3 · Ligue à profissão</b><p>Quadros verdes mostram onde o conteúdo aparece na clínica, na nutrição e na produção.</p></div>
+  <div><b>4 · Teste-se</b><p>Questões no fim de cada capítulo e simulado com nota. Marque o capítulo como estudado no final dele.</p></div>
+</section>
+<p class="src-note">Conteúdo criado pela <b>Vet do Futuro</b> (<button class="link-btn" type="button" data-ig>@vetdofuturoo</button>). Todos os direitos reservados. Organizado pelas unidades do plano de ensino de Biomoléculas, com base nas conferências da disciplina e aprofundado com a bibliografia: <i>Cunningham, Tratado de Fisiologia Veterinária</i> (Klein); <i>Dukes, Fisiologia dos Animais Domésticos</i> (Reece); <i>Bioquímica Básica</i> (Marzzoco e Torres); <i>Bioquímica Ilustrada de Harper</i>; <i>Princípios de Fisiologia Animal</i> (Moyes e Schulte); <i>Biologia Celular e Molecular</i> (Lodish); <i>Anatomia e Fisiologia dos Animais de Fazenda</i> (Frandson). Figuras dos materiais de aula.</p>
