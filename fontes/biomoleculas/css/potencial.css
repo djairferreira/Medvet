@@ -1,0 +1,9 @@
+/* Capítulo 14 · potencial */
+.potencial-ctl{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:8px 18px;margin:6px 0 12px}
+.potencial-ctl label{display:flex;flex-direction:column;gap:4px;font-size:.92rem;color:var(--ink)}
+.potencial-ctl label b{font-family:var(--f-mono);font-weight:500;color:var(--hema)}
+.potencial-ctl input[type=range]{width:100%;accent-color:var(--hema);min-height:28px}
+.potencial-kv{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:6px;margin-top:8px}
+.potencial-kv span{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:4px 8px;font-size:.88rem}
+.potencial-kv span b{font-family:var(--f-mono);font-weight:500}
+#paSvg,#cdzSvg,#gokSvg{touch-action:pan-y}

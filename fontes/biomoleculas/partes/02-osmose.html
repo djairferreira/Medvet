@@ -1,0 +1,230 @@
+
+<section class="chapter" id="osmose">
+  <div class="ch-head">
+    <div class="ch-num">02</div>
+    <div><span class="eyebrow">Unidade I · 01 Transporte de membrana · 01.02 Pressão osmótica e hidrostática</span><h2>Pressão osmótica, pressão hidrostática e equilíbrio hídrico</h2></div>
+    <div class="ch-meta"><button class="done-btn" data-done="osmose" aria-pressed="false">Marcar como estudado</button><span class="chip">~60 min</span></div>
+  </div>
+  <div class="col">
+    <p class="oneliner">A água nunca é bombeada: ela segue os solutos. Entre a célula e o interstício quem manda é a osmose; entre o capilar e o interstício, o cabo de guerra entre pressão hidrostática e pressão oncótica. Entender esse jogo é entender edema, desidratação e fluidoterapia.</p>
+    <div class="goals rv"><h4>Objetivos</h4><ul>
+      <li>Descrever os compartimentos de água corporal e como variam com a espécie, a idade e o estado corporal.</li>
+      <li>Definir osmose, pressão osmótica (van't Hoff), osmolaridade, osmolalidade e tonicidade, e distinguir osmóis efetivos de inefetivos.</li>
+      <li>Prever o comportamento de uma hemácia em soluções iso, hipo e hipertônicas.</li>
+      <li>Aplicar as forças de Starling para explicar a filtração e a reabsorção capilar e os quatro mecanismos de edema.</li>
+      <li>Avaliar clinicamente a desidratação, escolher o tipo de fluido e calcular o volume de reposição.</li>
+      <li>Explicar como ADH, aquaporinas, aldosterona e sede mantêm o equilíbrio hídrico.</li></ul></div>
+
+    <h3><span class="tag">2.1</span>Onde está a água do corpo</h3>
+    <p>A <strong>água corporal total (ACT)</strong> representa cerca de <strong>60% do peso vivo</strong> de um animal adulto magro. Ela se distribui em dois grandes compartimentos separados pela membrana plasmática:</p>
+    <div class="duo">
+      <div>
+        <ul>
+          <li><b>Líquido intracelular (LIC)</b>: cerca de <b>2/3 da ACT</b>, ou 40% do peso vivo.</li>
+          <li><b>Líquido extracelular (LEC)</b>: cerca de <b>1/3 da ACT</b>, ou 20% do peso vivo, subdividido em:
+            <ul>
+              <li><b>Intersticial</b> (inclui linfa): cerca de 3/4 do LEC, ~15% do peso;</li>
+              <li><b>Plasma</b>: cerca de 1/4 do LEC, ~5% do peso (o volume sanguíneo total, com as hemácias, fica entre 6 e 9% do peso, conforme a espécie);</li>
+              <li><b>Transcelular</b>: líquidos separados por epitélio, como liquor, sinovial, humor aquoso, urina e o <b>conteúdo do trato gastrintestinal</b>.</li>
+            </ul></li>
+        </ul>
+        <p>O capilar separa plasma de interstício; a membrana celular separa interstício de LIC. Cada barreira deixa passar coisas diferentes, e é isso que define quem controla o movimento de água em cada uma.</p>
+      </div>
+      <figure class="fig"><img src="img/os-agua.jpg" loading="lazy" alt="Gota com silhuetas de feto, criança e adultos mostrando a porcentagem de água corporal em cada idade"><figcaption><b>Água e idade.</b> O feto chega a 90–95% de água; o recém-nascido, 65–75%; o adulto, 55–60%; o idoso e o obeso, menos (40–55%).</figcaption></figure>
+    </div>
+    <div class="tbl"><table>
+      <thead><tr><th>Situação</th><th>Água corporal total</th><th>Por quê</th></tr></thead>
+      <tbody>
+        <tr><td><b>Neonatos (bezerro, potro, filhote)</b></td><td>70–80% do peso; LEC até 40–45% do peso</td><td>Menos gordura e LEC proporcionalmente maior: perdem água rápido e desidratam com facilidade na diarreia</td></tr>
+        <tr><td><b>Adulto magro</b></td><td>~60%</td><td>Referência para os cálculos</td></tr>
+        <tr><td><b>Animal obeso ou idoso</b></td><td>45–55%</td><td>O tecido adiposo tem pouca água (10–20%), enquanto o músculo tem ~75%</td></tr>
+        <tr><td><b>Ruminantes</b></td><td>Similar no corpo, mas com grande reservatório transcelular</td><td>O rúmen e o retículo podem conter 10 a 20% do peso vivo em líquido, que funciona como reserva na desidratação leve e sequestra água na acidose ruminal</td></tr>
+        <tr><td><b>Equinos</b></td><td>~60–65%</td><td>O intestino grosso (ceco e cólon) também guarda um grande volume de líquido, que pode ser perdido em diarreias e cólicas</td></tr>
+      </tbody></table></div>
+    <div class="note clin"><b>Água sequestrada não é água disponível</b><p>Na <b>acidose ruminal</b> (sobrecarga de grãos), o ácido lático eleva a osmolalidade do conteúdo ruminal e puxa água do sangue para dentro do rúmen: o animal fica desidratado com o rúmen cheio de líquido. O mesmo ocorre no <b>deslocamento de abomaso</b>, no vólvulo e na obstrução intestinal de equinos, em que litros de líquido se acumulam na alça distendida (o “terceiro espaço”). O volume circulante cai, mesmo sem perda externa visível.</p></div>
+
+    <h3><span class="tag">2.2</span>Osmose e pressão osmótica</h3>
+    <p><strong>Osmose</strong> é o movimento espontâneo de água através de uma membrana <strong>semipermeável</strong> (permeável à água, mas não ao soluto) do lado com <strong>menor concentração de partículas</strong> para o lado com <strong>maior concentração de partículas</strong>. Visto pelo lado da água: ela vai de onde está mais “concentrada” (mais água livre) para onde está mais diluída por solutos.</p>
+    <figure class="fig"><img src="img/os-osmose.jpg" loading="lazy" alt="Dois recipientes divididos por membrana semipermeável: com o tempo, o nível do lado com solução de glicose sobe e o lado com água pura desce"><figcaption><b>Osmose.</b> A membrana deixa passar a água, mas não a glicose. A água migra para o lado da solução até que a coluna de líquido mais alta (pressão hidrostática) contrabalance a tendência osmótica. Essa pressão que impede o fluxo é a pressão osmótica da solução.</figcaption></figure>
+    <p>A <strong>pressão osmótica (π)</strong> é a pressão que seria necessária para impedir a entrada de água na solução. Para soluções diluídas, ela segue a <strong>equação de van't Hoff</strong>:</p>
+    <p style="text-align:center;font-family:var(--f-mono);font-size:1.05rem">π = i · C · R · T &nbsp;&nbsp;(ou π = σ · i · C · R · T)</p>
+    <ul>
+      <li><b>i</b>: número de partículas em que o soluto se dissocia (glicose 1; NaCl ≈ 2, na prática ~1,85 pelo coeficiente osmótico; CaCl₂ ≈ 3).</li>
+      <li><b>C</b>: concentração molar. <b>R</b>: constante dos gases. <b>T</b>: temperatura absoluta.</li>
+      <li><b>σ</b> (coeficiente de reflexão): de 0 a 1, diz quanto a membrana “reflete” o soluto. σ = 1: soluto impermeante, exerce toda a sua pressão osmótica. σ = 0: soluto atravessa livremente e não exerce pressão osmótica efetiva (por exemplo, a ureia na membrana celular).</li>
+    </ul>
+    <p>A 37 °C, cada <strong>1 mOsm/L gera cerca de 19,3 mmHg</strong>. O plasma, com cerca de 300 mOsm/L, teria uma pressão osmótica total de cerca de <strong>5.800 mmHg</strong> se estivesse separado de água pura por uma membrana perfeita. Por isso basta uma diferença de poucos mOsm entre LIC e LEC para mover muita água.</p>
+    <h4>Osmolaridade × osmolalidade</h4>
+    <div class="cards">
+      <div class="card"><span class="role">Por volume</span><h5>Osmolaridade</h5><p>Osmoles por <b>litro de solução</b> (mOsm/L). É a usada nos rótulos dos frascos de soro. Depende levemente da temperatura e do volume ocupado pelos solutos.</p></div>
+      <div class="card"><span class="role">Por massa</span><h5>Osmolalidade</h5><p>Osmoles por <b>quilograma de água</b> (mOsm/kg). É o que o <b>osmômetro</b> do laboratório mede (pelo abaixamento do ponto de congelamento). Nos líquidos corporais diluídos, os dois valores são praticamente iguais.</p></div>
+    </div>
+    <p>Valores de referência aproximados da osmolalidade plasmática: <b>cão</b> 290–310 mOsm/kg, <b>gato</b> 290–330, <b>bovino</b> 270–300, <b>equino</b> 270–300. Na falta de osmômetro, ela pode ser <b>calculada</b> (com valores em mg/dL para glicose e ureia):</p>
+    <p style="text-align:center;font-family:var(--f-mono);font-size:1rem">Osm calc ≈ 2 × (Na⁺ + K⁺) + glicose/18 + BUN/2,8</p>
+    <p>O Na⁺ (e seus ânions acompanhantes) responde por quase toda a osmolalidade do LEC; por isso a <b>natremia é o melhor indicador do estado osmótico</b> do animal.</p>
+    <div class="note clin"><b>Gap osmolar e etilenoglicol</b><p>A diferença entre a osmolalidade <b>medida</b> e a <b>calculada</b> (gap osmolar) normalmente é menor que 10–15 mOsm/kg. Um gap grande indica um soluto não medido no plasma. O exemplo clássico é a <b>intoxicação por etilenoglicol</b> (anticongelante de radiador, de sabor adocicado) em cães e gatos: nas primeiras horas o gap dispara, antes mesmo da insuficiência renal aguda causada pelos cristais de oxalato de cálcio. Identificar cedo permite usar o antídoto (fomepizol ou etanol) a tempo.</p></div>
+
+    <h3><span class="tag">2.3</span>Tonicidade: o que a célula realmente sente</h3>
+    <p><strong>Osmolalidade</strong> conta todas as partículas. <strong>Tonicidade</strong> conta só as que <strong>não atravessam a membrana celular</strong> (osmóis efetivos) e, portanto, define se a célula ganha ou perde água. Na⁺, Cl⁻, glicose (na ausência de insulina) e manitol são osmóis efetivos; <b>ureia, etanol e glicerol</b> atravessam a membrana e são inefetivos.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Solução</th><th>Em relação à célula</th><th>O que acontece</th></tr></thead>
+      <tbody>
+        <tr><td><b>Isotônica</b> (NaCl 0,9%, ~308 mOsm/L)</td><td>Mesma concentração de osmóis efetivos</td><td>Sem movimento líquido de água; volume celular estável</td></tr>
+        <tr><td><b>Hipotônica</b> (NaCl 0,45%, água destilada)</td><td>Menos osmóis efetivos fora</td><td>Água <b>entra</b>; a célula incha e pode romper (<b>hemólise</b>, nas hemácias)</td></tr>
+        <tr><td><b>Hipertônica</b> (NaCl 3%, 7,5%)</td><td>Mais osmóis efetivos fora</td><td>Água <b>sai</b>; a célula murcha (<b>crenação</b>; hemácias em forma de equinócito)</td></tr>
+      </tbody></table></div>
+    <div class="figrow">
+      <figure class="fig"><img src="img/os-hipotonica.jpg" loading="lazy" alt="Célula em solução hipotônica com mais partículas dentro que fora"><figcaption><b>Meio hipotônico.</b> Há mais partículas não permeantes (P) dentro da célula do que fora: a água entra e a célula incha.</figcaption></figure>
+      <figure class="fig"><img src="img/os-hemacia.jpg" loading="lazy" alt="Hemácia colocada em LEC hipotônico, isotônico e hipertônico: incha e se rompe, fica em equilíbrio ou murcha"><figcaption><b>Hemácia em três meios.</b> No hipotônico entra água e a célula se rompe; no isotônico há equilíbrio; no hipertônico sai água e a célula murcha.</figcaption></figure>
+    </div>
+    <div class="note trap"><b>Pegadinha: isosmótico não é isotônico</b><p>Uma solução de <b>ureia a 300 mOsm/L</b> é isosmótica ao plasma, mas é <b>hipotônica</b>: a ureia entra na hemácia, a água vai atrás e a célula sofre hemólise. Do mesmo modo, a <b>glicose a 5%</b> (~278 mOsm/L) é isosmótica no frasco, mas, depois que a glicose é captada e metabolizada pelas células, sobra apenas <b>água livre</b>: no organismo ela se comporta como fluido hipotônico. Por isso glicose 5% não serve para expandir volume.</p></div>
+
+    <section class="labbox rv" aria-labelledby="oshTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="oshTitle">A hemácia em diferentes soluções</h4></div></header>
+      <div class="ctrl" id="oshBtns" role="group" aria-label="Solução onde a hemácia é colocada">
+        <button class="tbtn" type="button" data-k="iso" aria-pressed="true">NaCl 0,9%</button><button class="tbtn" type="button" data-k="h045">NaCl 0,45%</button><button class="tbtn" type="button" data-k="agua">Água destilada</button><button class="tbtn" type="button" data-k="h3">NaCl 3%</button><button class="tbtn" type="button" data-k="h75">NaCl 7,5%</button><button class="tbtn" type="button" data-k="ureia">Ureia 300 mOsm/L</button><button class="tbtn" type="button" data-k="glic">Glicose 5%</button>
+      </div>
+      <div class="duo">
+        <div class="svgwrap"><svg id="oshSvg" viewBox="0 0 600 360" role="img" aria-label="Hemácia mudando de forma conforme a solução, com setas de água entrando ou saindo"></svg></div>
+        <div class="readout" id="oshOut" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <div class="note clin"><b>Intoxicação por água em bezerros</b><p>Bezerros de 2 a 6 meses que ficam sem água (bebedouro quebrado, água congelada) e depois bebem de uma vez grandes volumes absorvem rapidamente muita água livre. O plasma fica hipotônico, as hemácias incham e sofrem hemólise intravascular (<b>hemoglobinúria</b>, urina vermelha), e o cérebro desenvolve edema, com sinais neurológicos e convulsões. A prevenção é reintroduzir a água aos poucos. Os <b>camelídeos</b>, ao contrário, têm hemácias ovais e muito resistentes à lise osmótica, o que lhes permite beber dezenas de litros de uma vez após longos períodos sem água.</p></div>
+    <div class="note lab"><b>Teste de fragilidade osmótica</b><p>Colocando hemácias em uma série de soluções de NaCl de concentração decrescente (de 0,9% a 0,1%), observa-se em que concentração a hemólise começa (normalmente por volta de 0,45–0,50%) e em que concentração ela é completa (~0,30–0,35%). A fragilidade aumenta na anemia hemolítica imunomediada (esferócitos) e em algumas doenças hereditárias; hemácias de diferentes espécies também diferem (as de caprinos e ovinos tendem a ser mais frágeis que as de cães).</p></div>
+
+    <h3><span class="tag">2.4</span>O capilar: forças de Starling</h3>
+    <p>A parede capilar é permeável à água e a todos os pequenos solutos (Na⁺, Cl⁻, glicose, ureia). Por isso, entre plasma e interstício, esses solutos <b>não</b> geram pressão osmótica efetiva: estão praticamente na mesma concentração dos dois lados. O que o capilar retém são as <strong>proteínas plasmáticas</strong>, e a pressão osmótica gerada por elas é a <strong>pressão oncótica</strong> ou <strong>coloidosmótica</strong> (π).</p>
+    <p>O movimento de líquido através do capilar é descrito pela <strong>equação de Starling</strong>:</p>
+    <p style="text-align:center;font-family:var(--f-mono);font-size:1.05rem">Jv = Kf · [ (Pc − Pi) − σ · (πc − πi) ]</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Força</th><th>Valor típico</th><th>Efeito</th></tr></thead>
+      <tbody>
+        <tr><td><b>Pc</b> – pressão hidrostática capilar</td><td>~30–35 mmHg (lado arterial) a ~10–15 mmHg (lado venoso)</td><td>Empurra líquido para <b>fora</b></td></tr>
+        <tr><td><b>Pi</b> – pressão hidrostática intersticial</td><td>~ −3 a 0 mmHg</td><td>Negativa: também favorece a saída</td></tr>
+        <tr><td><b>πc</b> – pressão oncótica do plasma</td><td>~25–28 mmHg</td><td>Puxa líquido para <b>dentro</b></td></tr>
+        <tr><td><b>πi</b> – pressão oncótica intersticial</td><td>~5–8 mmHg</td><td>Puxa líquido para fora</td></tr>
+        <tr><td><b>Kf</b> e <b>σ</b></td><td>Variam com o tecido</td><td>Kf: condutividade hidráulica × área; σ das proteínas ≈ 0,9 na maioria dos capilares</td></tr>
+      </tbody></table></div>
+    <p>No modelo clássico, no início do capilar a pressão hidrostática vence e há <b>filtração</b>; ao longo do vaso Pc cai, e no final a pressão oncótica vence e há <b>reabsorção</b>. O pequeno excesso filtrado (cerca de 10% do total) volta ao sangue pelos <strong>vasos linfáticos</strong>. A linfa é, portanto, a válvula de segurança contra o edema.</p>
+    <div class="note deep"><b>O modelo revisado (glicocálice endotelial)</b><p>Medidas mais recentes mostram que a pressão oncótica que importa não é a do interstício como um todo, mas a da fina camada logo abaixo do <b>glicocálice endotelial</b>, quase livre de proteínas. Nesse modelo, a maioria dos capilares filtra em toda a sua extensão (pouca ou nenhuma reabsorção no estado estável), e o retorno ao sangue depende quase todo da linfa. O raciocínio clínico com as quatro forças continua válido; muda apenas a ideia de que o lado venoso “reabsorve” muito.</p></div>
+    <h4>Quem gera a pressão oncótica</h4>
+    <p>A <strong>albumina</strong> responde por cerca de <strong>75–80%</strong> da pressão oncótica plasmática, apesar de ser só ~50–60% das proteínas: é pequena (~66 kDa), numerosa (mais moléculas por grama) e tem muitas cargas negativas, que retêm cátions ao seu redor (<b>efeito Gibbs-Donnan</b>) e aumentam ainda mais o número de partículas osmoticamente ativas. As globulinas, maiores e menos numerosas, contribuem pouco. Albumina normal: cão 2,5–4,0 g/dL; gato 2,5–3,9; bovino 3,0–3,6; equino 2,6–3,7 g/dL.</p>
+    <div class="cards">
+      <div class="card"><span class="role">Glomérulo</span><h5>Filtração ao longo de todo o capilar</h5><p>Pc alta (~45–60 mmHg) e mantida pela arteríola eferente: filtra o tempo todo. A pressão oncótica sobe ao longo do capilar e freia a filtração.</p></div>
+      <div class="card"><span class="role">Pulmão</span><h5>Pressão baixa, alvéolo seco</h5><p>Pc ~7–10 mmHg: a pressão oncótica predomina e o alvéolo fica seco. Na insuficiência cardíaca esquerda, Pc sobe e surge <b>edema pulmonar</b>.</p></div>
+      <div class="card"><span class="role">Fígado</span><h5>Sinusoides permeáveis</h5><p>σ para proteínas é baixo: a linfa hepática é rica em proteínas. Hipertensão portal produz ascite rica em proteína.</p></div>
+    </div>
+
+    <section class="labbox rv" aria-labelledby="ossTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="ossTitle">Forças de Starling: filtração × reabsorção</h4></div></header>
+      <div class="ctrl" id="ossBtns" role="group" aria-label="Situações clínicas prontas">
+        <button class="tbtn" type="button" data-k="normal" aria-pressed="true">Normal</button><button class="tbtn" type="button" data-k="icc">Insuficiência cardíaca</button><button class="tbtn" type="button" data-k="hipo">Hipoalbuminemia</button><button class="tbtn" type="button" data-k="infl">Inflamação</button><button class="tbtn" type="button" data-k="linfa">Obstrução linfática</button>
+      </div>
+      <div class="os-sl">
+        <label>Pressão capilar arterial: <b id="ossPav"></b><input type="range" id="ossPa" min="15" max="60" step="1"></label>
+        <label>Pressão capilar venosa: <b id="ossPvv"></b><input type="range" id="ossPv" min="5" max="40" step="1"></label>
+        <label>Albumina plasmática: <b id="ossAlbv"></b><input type="range" id="ossAlb" min="0.8" max="4.5" step="0.1"></label>
+        <label>Permeabilidade às proteínas: <b id="ossPermv"></b><input type="range" id="ossPerm" min="0" max="10" step="1"></label>
+        <label>Drenagem linfática: <b id="ossLv"></b><input type="range" id="ossL" min="0" max="10" step="1"></label>
+      </div>
+      <div class="svgwrap"><svg id="ossSvg" viewBox="0 0 600 340" role="img" aria-label="Capilar do lado arterial ao venoso com setas de filtração e reabsorção e um medidor de edema"></svg></div>
+      <div class="readout" id="ossOut" aria-live="polite"></div>
+    </section>
+
+    <h3><span class="tag">2.5</span>Edema: quando o interstício transborda</h3>
+    <p><strong>Edema</strong> é o acúmulo excessivo de líquido no interstício (ou em cavidades: ascite, hidrotórax, hidropericárdio). Ele aparece quando a filtração supera a capacidade de drenagem linfática. Todo edema cabe em um de quatro mecanismos, que saem diretamente da equação de Starling:</p>
+    <div class="tbl min"><table>
+      <thead><tr><th>Mecanismo</th><th>Força alterada</th><th>Exemplos veterinários</th><th>Tipo de líquido</th></tr></thead>
+      <tbody>
+        <tr><td><b>Aumento da pressão hidrostática</b></td><td>Pc ↑</td><td>Insuficiência cardíaca congestiva: esquerda → edema pulmonar (cão com degeneração mixomatosa da mitral); direita → ascite (cão), <b>edema de barbela e peito</b> (bovino com reticulopericardite traumática ou “doença das alturas”); hipertensão portal; compressão venosa</td><td>Transudato modificado</td></tr>
+        <tr><td><b>Queda da pressão oncótica</b></td><td>πc ↓ (albumina &lt; ~1,5 g/dL)</td><td>Enteropatia com perda de proteína, nefropatia com perda de proteína (glomerulopatias), insuficiência hepática, desnutrição grave, <b>hemoncose em ovinos e caprinos</b> (edema submandibular, a “papeira”), fasciolose</td><td>Transudato puro (pobre em proteína e células)</td></tr>
+        <tr><td><b>Aumento da permeabilidade</b></td><td>Kf ↑ e σ ↓ (πi ↑)</td><td>Inflamação, queimaduras, sepse e endotoxemia, vasculites, picada de serpente ou de abelha, reações alérgicas (edema facial), <b>doença do edema</b> dos leitões (toxina Stx2e de <i>E. coli</i>)</td><td>Exsudato (rico em proteína e células)</td></tr>
+        <tr><td><b>Obstrução linfática</b></td><td>Drenagem ↓ (πi ↑ com o tempo)</td><td>Neoplasias e linfadenomegalia, cirurgias com retirada de linfonodos, linfedema congênito, quilotórax</td><td>Rico em proteína; edema firme, crônico</td></tr>
+      </tbody></table></div>
+    <div class="note clin"><b>Edema que se vê no exame físico</b><p>O edema subcutâneo depende da gravidade: acumula-se nas partes baixas (membros, barbela, abdome ventral, prepúcio, região submandibular nos animais que pastam de cabeça baixa). Ao comprimir com o dedo, fica a marca (<b>sinal de Godet</b> ou cacifo). O <b>edema mamário e ventral</b> das vacas no pré-parto é parcialmente fisiológico (aumento do fluxo sanguíneo e compressão venosa pelo útero gravídico), mas, quando é excessivo, predispõe a mastite e lesões de ligamento suspensor.</p></div>
+    <div class="note trap"><b>Pegadinha</b><p>Hipoalbuminemia causa edema <b>generalizado</b>, porque afeta todos os capilares; obstrução venosa ou linfática causa edema <b>localizado</b> na região drenada. E na desidratação a proteína plasmática total <b>sobe</b> (hemoconcentração), o que pode mascarar uma hipoalbuminemia verdadeira: reavalie após a reidratação.</p></div>
+
+    <h3><span class="tag">2.6</span>Regulação do equilíbrio hídrico: ADH, aldosterona e sede</h3>
+    <p>O organismo regula duas grandezas diferentes, com sensores diferentes: a <strong>osmolalidade</strong> (controle da água) e o <strong>volume do LEC</strong> (controle do Na⁺ total).</p>
+    <div class="flow">
+      <div class="lane up"><h5>Osmolalidade ↑ (falta de água)</h5><ol>
+        <li><b>Osmorreceptores</b> do hipotálamo anterior (órgão vasculoso da lâmina terminal) percebem aumentos de apenas 1–2%.</li>
+        <li>Os núcleos supraóptico e paraventricular liberam <b>ADH (vasopressina)</b> pela neuro-hipófise e o animal sente <b>sede</b>.</li>
+        <li>No ducto coletor, o ADH liga-se ao receptor <b>V2</b> → AMPc → proteína quinase A → vesículas com <b>aquaporina 2</b> são inseridas na membrana apical.</li>
+        <li>A água é reabsorvida pelo interstício medular hiperosmótico (AQP3 e AQP4 basolaterais): <b>urina concentrada</b>, pouco volume.</li>
+      </ol></div>
+      <div class="lane down"><h5>Volume ↓ (perda de Na⁺ e água)</h5><ol>
+        <li><b>Barorreceptores</b> (carótida, aorta, átrios) e a arteríola aferente renal percebem a queda de pressão e de volume.</li>
+        <li>As células justaglomerulares liberam <b>renina</b> → angiotensina II (vasoconstrição, sede, ADH) → <b>aldosterona</b> no córtex adrenal.</li>
+        <li>A aldosterona aumenta ENaC, Na⁺/K⁺-ATPase e canais de K⁺ no néfron distal: <b>reabsorve Na⁺ e excreta K⁺</b>; a água acompanha o Na⁺.</li>
+        <li>Com volume excessivo, os átrios liberam <b>peptídeo natriurético atrial</b>, que faz o oposto.</li>
+      </ol></div>
+    </div>
+    <p>Hipovolemia grave estimula o ADH mesmo que a osmolalidade esteja normal: o corpo prioriza o volume circulante, ainda que à custa de alguma hiponatremia.</p>
+    <div class="note clin"><b>Poliúria e polidipsia</b><p>Quando um cão bebe e urina muito, a pergunta é em que ponto o eixo falhou. No <b>diabetes insípido central</b> falta ADH (trauma, neoplasia hipofisária) e a urina melhora com desmopressina; no <b>nefrogênico</b> o rim não responde ao ADH (congênito, hipercalcemia, piometra pela endotoxina de <i>E. coli</i>, hiperadrenocorticismo). Na <b>polidipsia psicogênica</b> o animal bebe demais e o ADH está apropriadamente baixo. A <b>densidade urinária</b> ajuda: cães sadios podem concentrar a urina acima de 1,030 (até 1,050–1,060), gatos acima de 1,035 (até 1,080), bovinos e equinos acima de 1,025; urina persistentemente entre 1,008 e 1,012 (isostenúria) sugere perda da capacidade de concentrar e diluir.</p></div>
+    <div class="note deep"><b>Hipoadrenocorticismo (doença de Addison)</b><p>Sem aldosterona, o cão perde Na⁺ e retém K⁺: hiponatremia, hipercalemia (relação Na:K &lt; 27:1), hipovolemia, bradicardia pela hipercalemia e crise de choque. É uma emergência tratada com NaCl 0,9% (que repõe o Na⁺ e dilui o K⁺) e mineralocorticoides.</p></div>
+
+    <h3><span class="tag">2.7</span>Desidratação: avaliação clínica</h3>
+    <p>A desidratação é classificada pelo que se perdeu em relação à água:</p>
+    <div class="cards">
+      <div class="card"><span class="role">Mais comum</span><h5>Isotônica</h5><p>Perde-se água e sal na mesma proporção (diarreia, vômito, hemorragia). O Na⁺ plasmático fica normal; o déficit é todo do LEC.</p></div>
+      <div class="card"><span class="role">Falta de água</span><h5>Hipertônica</h5><p>Perde-se mais água que sal (privação de água, ofegação intensa, diabetes insípido). O Na⁺ sobe e a água sai das células: sinais neurológicos.</p></div>
+      <div class="card"><span class="role">Sal perdido</span><h5>Hipotônica</h5><p>Perde-se mais sal que água, ou repõe-se só água (diarreia tratada com água pura, Addison). O Na⁺ cai, a água entra nas células, e o LEC fica ainda mais contraído.</p></div>
+    </div>
+    <div class="tbl min"><table>
+      <thead><tr><th>Desidratação (% do peso)</th><th>Sinais clínicos</th></tr></thead>
+      <tbody>
+        <tr><td><b>&lt; 5%</b></td><td>Não detectável no exame físico; só pela história (vômitos, diarreia, não bebe)</td></tr>
+        <tr><td><b>5–6%</b></td><td>Mucosas levemente secas ou pegajosas; turgor cutâneo discretamente reduzido</td></tr>
+        <tr><td><b>6–8%</b></td><td>Turgor cutâneo claramente diminuído (prega demora a voltar); <b>TPC 2–3 s</b>; leve retração do globo ocular</td></tr>
+        <tr><td><b>8–10%</b></td><td>Prega persistente; olhos afundados na órbita; mucosas secas; TPC &gt; 3 s; extremidades frias</td></tr>
+        <tr><td><b>10–12%</b></td><td>Sinais de choque hipovolêmico: pulso fraco e rápido, taquicardia, depressão, decúbito</td></tr>
+        <tr><td><b>&gt; 12–15%</b></td><td>Choque grave, risco de morte iminente</td></tr>
+      </tbody></table></div>
+    <ul>
+      <li><b>Turgor cutâneo</b>: em pequenos animais, prega na pele do dorso ou do pescoço; em bovinos, na pálpebra superior ou no pescoço; em equinos, na ponta do ombro. Animais idosos e magros têm a pele menos elástica (superestima); obesos, o contrário (subestima).</li>
+      <li><b>Tempo de preenchimento capilar (TPC)</b>: pressione a gengiva até empalidecer e conte o tempo para a cor voltar; normal &lt; 2 s. Reflete a perfusão periférica.</li>
+      <li><b>Retração do globo ocular</b>: em <b>bezerros</b>, junto com o tempo de retorno da prega do pescoço, é o melhor indicador clínico; quanto maior o espaço entre o globo e a pálpebra inferior, maior o déficit.</li>
+      <li><b>Laboratório</b>: hematócrito e proteína total aumentados (hemoconcentração), densidade urinária alta (se os rins estão sadios), ureia e creatinina aumentadas (azotemia pré-renal), lactato aumentado na hipoperfusão.</li>
+    </ul>
+
+    <h3><span class="tag">2.8</span>Fluidoterapia: o fluido certo, no compartimento certo</h3>
+    <p>Cada fluido se distribui nos compartimentos de acordo com o que consegue atravessar. Esta é a chave para escolher.</p>
+    <div class="tbl min"><table>
+      <thead><tr><th>Fluido</th><th>Composição e osmolaridade</th><th>Para onde vai</th><th>Usos e cuidados</th></tr></thead>
+      <tbody>
+        <tr><td><b>NaCl 0,9%</b> (soro fisiológico)</td><td>Na⁺ 154, Cl⁻ 154 mmol/L; ~308 mOsm/L</td><td>Todo o LEC: ~1/4 fica no plasma após 1 h, ~3/4 vai ao interstício</td><td>Isotônica; acidificante (excesso de Cl⁻). Boa na alcalose hipoclorêmica (deslocamento de abomaso, vômito gástrico) e no Addison</td></tr>
+        <tr><td><b>Ringer com lactato</b></td><td>Na⁺ 130, K⁺ 4, Ca²⁺ 3, Cl⁻ 109, lactato 28; ~273 mOsm/L</td><td>Todo o LEC</td><td>Cristaloide “balanceado”; o lactato é metabolizado pelo fígado a HCO₃⁻ (alcalinizante). Boa escolha geral na diarreia com acidose</td></tr>
+        <tr><td><b>Glicose 5%</b></td><td>50 g/L; ~278 mOsm/L, sem eletrólitos</td><td>Após metabolizada, água livre distribuída em toda a ACT: só ~1/12 fica no plasma</td><td>Repor água livre (hipernatremia), não volume; nunca em bolus no choque</td></tr>
+        <tr><td><b>NaCl 7,5%</b> (hipertônica)</td><td>~2.400 mOsm/L</td><td>Puxa água do interstício e das células para o plasma: expande o volume plasmático em 3 a 4 vezes o volume infundido</td><td><b>4–5 mL/kg IV em 4–5 min</b> em bovinos e equinos com choque ou desidratação grave. Efeito transitório (30–60 min): deve ser seguida de água por via oral (bovino adulto: 20 L ou mais, à vontade ou por sonda ruminal) ou de cristaloide isotônico</td></tr>
+        <tr><td><b>Coloides</b> (plasma, albumina, hidroxietilamido)</td><td>Moléculas grandes que ficam no vaso (σ alto)</td><td>Predominantemente no plasma</td><td>Aumentam a pressão oncótica: hipoalbuminemia grave, choque. Plasma também fornece imunoglobulinas (falha de transferência passiva em potros). Cuidado quando a permeabilidade está aumentada (sepse): o coloide pode extravasar</td></tr>
+      </tbody></table></div>
+    <h4>Quanto infundir</h4>
+    <ol class="steps">
+      <li><b>Déficit (reidratação)</b><span>Volume (L) = peso (kg) × % de desidratação / 100. Ex.: bezerro de 40 kg com 8% → 3,2 L.</span></li>
+      <li><b>Manutenção</b><span>Cerca de 40–60 mL/kg/dia em cães, gatos e ruminantes adultos (em neonatos, 80–100 mL/kg/dia, pois o metabolismo e as perdas são proporcionalmente maiores). Equinos adultos: ~50–60 mL/kg/dia.</span></li>
+      <li><b>Perdas contínuas</b><span>Estimar o volume de diarreia, vômito ou poliúria e somar ao cálculo do dia.</span></li>
+      <li><b>Reavaliar</b><span>Peso, turgor, TPC, frequência cardíaca, produção de urina, hematócrito e proteína total, lactato. A fórmula é um ponto de partida, não uma receita.</span></li>
+    </ol>
+
+    <section class="labbox rv" aria-labelledby="osfTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="osfTitle">Para onde vai o fluido? Calculadora de reposição</h4></div></header>
+      <div class="ctrl" id="osfBtns" role="group" aria-label="Tipo de fluido">
+        <button class="tbtn" type="button" data-k="nacl" aria-pressed="true">NaCl 0,9% / Ringer</button><button class="tbtn" type="button" data-k="glic">Glicose 5%</button><button class="tbtn" type="button" data-k="hip">NaCl 7,5%</button><button class="tbtn" type="button" data-k="col">Coloide</button>
+      </div>
+      <div class="os-sl">
+        <label>Espécie <select id="osfSp"><option value="bez">Bezerro (40 kg)</option><option value="cao" selected>Cão (20 kg)</option><option value="gato">Gato (4 kg)</option><option value="vaca">Vaca (550 kg)</option><option value="cav">Cavalo (450 kg)</option></select></label>
+        <label>Desidratação estimada: <b id="osfDv"></b><input type="range" id="osfD" min="0" max="12" step="1" value="8"></label>
+        <label>Volume infundido (bolus): <b id="osfVv"></b><input type="range" id="osfV" min="0" max="100" step="1" value="40"></label>
+      </div>
+      <div class="svgwrap"><svg id="osfSvg" viewBox="0 0 600 300" role="img" aria-label="Barras mostrando quanto do fluido infundido fica no plasma, no interstício e nas células"></svg></div>
+      <div class="readout" id="osfOut" aria-live="polite"></div>
+    </section>
+
+    <div class="note clin"><b>Por que a hipertônica funciona em grandes animais</b><p>Uma vaca de 550 kg com 10% de desidratação precisa de 55 L: inviável por via intravenosa no campo. Com <b>2 a 3 L de NaCl 7,5%</b> em poucos minutos, a água do interstício e das células migra para o plasma, o débito cardíaco e a pressão melhoram, e a sede é estimulada. Em seguida, o rúmen recebe 20 a 40 L de água (ou solução eletrolítica) e funciona como um enorme “soro” absorvido aos poucos. A hipertônica é contraindicada se o animal estiver com hipernatremia ou desidratação hipertônica, e não substitui a reposição do déficit.</p></div>
+    <div class="note trap"><b>Pegadinha</b><p>Infundir 1 L de NaCl 0,9% <b>não</b> aumenta o volume plasmático em 1 L: após cerca de uma hora, apenas ~250 mL ficam no vaso. Na hipovolemia grave, cristaloides isotônicos são dados em bolus (por exemplo, 10–20 mL/kg em cães) e repetidos conforme a resposta, justamente por isso. E corrigir uma hipernatremia crônica rápido demais com fluido hipotônico causa <b>edema cerebral</b>, porque os neurônios haviam acumulado osmólitos para se proteger.</p></div>
+
+    <div class="quiz" data-quiz="osmose"></div>
+  </div>
+</section>
