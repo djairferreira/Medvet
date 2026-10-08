@@ -1,0 +1,5 @@
+/* capítulo osmose */
+.os-sl{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:8px 16px;margin:6px 0 10px;font-family:var(--f-display);font-size:.92rem}
+.os-sl label{display:block}
+.os-sl input[type=range]{width:100%;accent-color:var(--sky);margin-top:4px}
+.os-sl select{display:block;width:100%;margin-top:4px;padding:6px 8px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--ink);font:inherit}
