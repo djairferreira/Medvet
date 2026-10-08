@@ -1,0 +1,3 @@
+/* cap. 7 lipídios: cores "reais" de tubo de sangue (iguais nos dois temas) */
+#lmtSvg{--lip-milk:#F4F1EA;--lip-plasma:#EDC65A;--lip-blood:#7A1428;--lip-glass:#9AA5A0}
+#lpdSvg .lpd-band{transition:opacity .3s}

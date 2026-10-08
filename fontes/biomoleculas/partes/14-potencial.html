@@ -59,6 +59,7 @@
         <button class="tbtn" type="button" data-k="hiper">Gato obstruído (K⁺ 9)</button>
         <button class="tbtn" type="button" data-k="hipo">Hipocalemia (K⁺ 2,2)</button>
         <button class="tbtn" type="button" data-k="isq">Isquemia (bomba parada)</button>
+        <button class="tbtn" type="button" data-k="pico">Pico do potencial de ação</button>
       </div>
       <div class="potencial-ctl">
         <label>K⁺ extracelular: <b id="gokKoV">4</b> mM<input type="range" id="gokKo" min="1.5" max="12" step="0.1" value="4"></label>
@@ -111,7 +112,7 @@
       <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="paTitle">Simulador do potencial de ação</h4></div>
         <div class="ctrl" style="margin:0"><button class="btn" type="button" id="paGo">⚡ Estimular</button></div></header>
       <div class="potencial-ctl">
-        <label>Intensidade do estímulo: <b id="paIV">8</b> µA/cm²<input type="range" id="paI" min="0" max="30" step="0.5" value="8"></label>
+        <label>Intensidade do estímulo: <b id="paIV">25</b> µA/cm²<input type="range" id="paI" min="0" max="60" step="1" value="25"></label>
         <label>K⁺ extracelular: <b id="paKV">4,0</b> mM<input type="range" id="paK" min="2" max="10" step="0.1" value="4"></label>
         <label>Bloqueio dos canais de Na⁺ (lidocaína/TTX): <b id="paBV">0</b>%<input type="range" id="paB" min="0" max="100" step="5" value="0"></label>
         <label>2º estímulo após: <b id="paDV">desligado</b><input type="range" id="paD" min="0" max="15" step="0.5" value="0"></label>
@@ -119,7 +120,7 @@
       <div class="svgwrap"><svg id="paSvg" viewBox="0 0 600 350" role="img" aria-label="Curva de voltagem ao longo do tempo e estado dos canais de sódio e potássio"></svg></div>
       <div class="readout" id="paOut" aria-live="polite"></div>
     </section>
-    <p>O simulador usa as equações de <strong>Hodgkin e Huxley</strong> (1952), deduzidas no axônio gigante da lula, e por isso o repouso fica em torno de −65 mV. Experimente: estímulo fraco (abaixo de cerca de 2 µA/cm²) produz só um potencial graduado; acima do limiar o potencial de ação tem sempre o mesmo tamanho. Ligue o 2º estímulo com intervalo de 2 ms e depois de 10 ms para ver os períodos refratários.</p>
+    <p>O simulador usa as equações de <strong>Hodgkin e Huxley</strong> (1952), deduzidas no axônio gigante da lula, e por isso o repouso fica em torno de −65 mV. Experimente: estímulo fraco (abaixo de cerca de 12 µA/cm² neste modelo) produz só um potencial graduado; acima do limiar o potencial de ação tem sempre o mesmo tamanho. Ligue o 2º estímulo com intervalo de 2 ms e depois de 8 ms para ver os períodos refratários.</p>
 
     <h3><span class="tag">14.6</span>Limiar, tudo ou nada, refratariedade e codificação</h3>
     <p><strong>Lei do tudo ou nada.</strong> Abaixo do limiar, a saída de K⁺ vence e a membrana volta ao repouso. Acima dele, a retroalimentação positiva do Na⁺ assume o controle e o potencial de ação acontece completo, com a mesma amplitude, não importa se o estímulo foi um pouco ou muito acima do limiar. O potencial de ação é como o disparo de uma arma: apertar o gatilho com mais força não faz a bala sair mais rápido.</p>

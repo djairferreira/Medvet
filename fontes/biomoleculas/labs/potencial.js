@@ -17,7 +17,7 @@ const sg=(v,d=0)=>(v>0?'+':'')+fmt(v,d);
     E('rect',{x:X(-55),y:132,width:X(90)-X(-55),height:36,rx:6,fill:'var(--amber-soft)'},s);
     E('line',{x1:X(-110),y1:150,x2:X(90),y2:150,stroke:'var(--ink)','stroke-width':2},s);
     for(let v=-100;v<=80;v+=20){E('line',{x1:X(v),y1:142,x2:X(v),y2:158,stroke:'var(--muted)','stroke-width':1.5},s);
-      if(v%40===-20||v===-100||v===60)T(s,X(v),186,(v>0?'+':v<0?'−':'')+Math.abs(v),{fs:18,w:500,fill:'var(--muted)'})}
+      if(v%40===-20||v===-100||v===60)T(s,X(v),178,(v>0?'+':v<0?'−':'')+Math.abs(v),{fs:18,w:500,fill:'var(--muted)'})}
     T(s,X(-55),40,'limiar',{fs:18,fill:'var(--amber)'});
     E('line',{x1:X(-55),y1:46,x2:X(-55),y2:150,stroke:'var(--amber)','stroke-width':2,'stroke-dasharray':'5 5'},s);
     const mk=(v,col,lab,yl)=>{const x=Math.max(X(-110),Math.min(X(90),X(v)));
@@ -25,9 +25,9 @@ const sg=(v,d=0)=>(v>0?'+':'')+fmt(v,d);
       T(s,x,yl,lab,{fs:18,fill:col})};
     mk(EK,'var(--sky)','E K⁺ '+sg(EK),96);
     mk(ENa,'var(--eosin)','E Na⁺ '+sg(ENa),70);
-    const xv=X(Vm);E('path',{d:`M${xv} 154 l-14 28 h28 z`,fill:'var(--hema)'},s);
-    T(s,Math.max(90,Math.min(510,xv)),236,'Vm = '+sg(Vm)+' mV',{fs:26,w:800,fill:'var(--hema)'});
-    T(s,300,280,'mV · lado de fora = 0',{fs:18,w:500,fill:'var(--muted)'});
+    const xv=X(Vm);E('path',{d:`M${xv} 196 l-13 26 h26 z`,fill:'var(--hema)'},s);E('line',{x1:xv,y1:152,x2:xv,y2:196,stroke:'var(--hema)','stroke-width':2},s);
+    T(s,Math.max(90,Math.min(510,xv)),252,'Vm = '+sg(Vm)+' mV',{fs:26,w:800,fill:'var(--hema)'});
+    T(s,300,288,'mV · lado de fora = 0',{fs:18,w:500,fill:'var(--muted)'});
     const dist=-55-Vm;
     let msg;
     if(p>1)msg='Com a permeabilidade ao Na⁺ muito maior que a ao K⁺ (como no <b>pico do potencial de ação</b>), o V<sub>m</sub> corre para perto do E<sub>Na</sub>. A membrana segue sempre o íon a que é mais permeável.';
@@ -38,7 +38,6 @@ const sg=(v,d=0)=>(v>0?'+':'')+fmt(v,d);
     out.innerHTML=msg+`<div class="potencial-kv"><span>E<sub>K</sub> <b>${sg(EK)} mV</b></span><span>E<sub>Na</sub> <b>${sg(ENa)} mV</b></span><span>V<sub>m</sub> <b>${sg(Vm)} mV</b></span><span>Força sobre Na⁺ <b>${fmt(Vm-ENa,0)} mV</b></span></div>`};
   [Ko,Nai,P].forEach(i=>i.addEventListener('input',()=>{press($('#gokBtns'),null);draw()}));
   choices('#gokBtns',k=>{const v=presets[k];if(!v)return;Ko.value=v[0];Nai.value=v[1];P.value=v[2];draw()});
-  const g=$('#gokBtns');if(g&&!g.querySelector('[data-k="pico"]')){const b=document.createElement('button');b.className='tbtn';b.type='button';b.dataset.k='pico';b.setAttribute('aria-pressed','false');b.textContent='Pico do potencial de ação';g.appendChild(b)}
 })();
 
 /* ============ 2. Simulador do potencial de ação (Hodgkin-Huxley) ============ */
@@ -97,7 +96,6 @@ const sg=(v,d=0)=>(v>0?'+':'')+fmt(v,d);
       E('line',{x1:190+34,y1:316,x2:bx,y2:by,stroke:'var(--ink)','stroke-width':2},g);
       E('circle',{cx:bx,cy:by,r:8,fill:'var(--ink)'},g);
       if(naState==='aberto'){E('path',{d:'M190 240 v62 m-8 -10 l8 10 l8 -10',fill:'none',stroke:cNa,'stroke-width':3},g)}
-      T(g,300,300,'',{});
     });
     chan(layer.k,430,'Canal de K⁺',cK,g=>{
       const op=Math.min(1,pK*4);
@@ -141,7 +139,7 @@ const sg=(v,d=0)=>(v>0?'+':'')+fmt(v,d);
     const len=layer.path.getTotalLength?layer.path.getTotalLength():0;
     layer.path.style.strokeDasharray=len;layer.path.style.strokeDashoffset=len;
     const dur=3200,t0=performance.now();
-    const fr=now=>{const f=Math.min(1,(now-t0)/dur);const i=Math.round(f*(data.r.length-1));
+    const fr=now=>{const f=Math.max(0,Math.min(1,(now-t0)/dur));const i=Math.round(f*(data.r.length-1));
       // revela o traçado até o tempo atual
       const xx=X(data.r[i].t);clipRect.setAttribute('width',Math.max(0,xx));show(i);
       if(f<1)anim=requestAnimationFrame(fr)};
@@ -151,7 +149,6 @@ const sg=(v,d=0)=>(v>0?'+':'')+fmt(v,d);
     anim=requestAnimationFrame(fr)}
   const lab=()=>{$('#paIV').textContent=fmt(+inI.value,1);$('#paKV').textContent=fmt(+inK.value,1);$('#paBV').textContent=inB.value;
     $('#paDV').textContent=+inD.value>0?fmt(+inD.value,1)+' ms':'desligado'};
-  inI.max=60;inI.step=1;if(+inI.value===8)inI.value=25;
   [inI,inK,inB,inD].forEach(i=>{i.addEventListener('input',lab);i.addEventListener('change',run)});
   go.addEventListener('click',run);
   // inspecionar com o dedo/mouse
@@ -190,7 +187,7 @@ const sg=(v,d=0)=>(v>0?'+':'')+fmt(v,d);
     const slow=nodes[4]+(tt-tj)*35;const stop=nodes[6]-10;return Math.min(slow,stop)}
   const play=()=>{cancelAnimationFrame(anim);
     if(reduce){draw(0.9);return}
-    const t0=performance.now();const fr=now=>{const tt=(now-t0)/1000;draw(tt);if(tt<5.2)anim=requestAnimationFrame(fr)};anim=requestAnimationFrame(fr)};
+    const t0=performance.now();const fr=now=>{const tt=Math.max(0,(now-t0)/1000);draw(tt);if(tt<5.2)anim=requestAnimationFrame(fr)};anim=requestAnimationFrame(fr)};
   choices('#cdzBtns',k=>{sel=k;const d=info[k];out.innerHTML=`<b>${d[0]}</b> · velocidade típica ${d[1]}.<br>${d[2]}`;if(reduce)draw(0.9);else play()});
   const b=$('#cdzGo');if(b)b.addEventListener('click',play);
 })();

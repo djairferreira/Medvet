@@ -1,0 +1,673 @@
+[
+{
+"c": "respiracao",
+"q": "Na inspiração em repouso, o ar entra nos pulmões porque:",
+"o": [
+"a pressão alveolar fica abaixo da atmosférica",
+"a pressão pleural se torna positiva",
+"os intercostais internos fecham as costelas",
+"a retração elástica do pulmão aumenta o tórax"
+],
+"e": "A contração do diafragma aumenta o tórax, a pressão alveolar cai abaixo da atmosférica e o ar entra a favor do gradiente."
+},
+{
+"c": "respiracao",
+"q": "Em repouso, a pressão no espaço pleural de um cão saudável é:",
+"o": [
+"subatmosférica, em torno de −5 cmH2O",
+"igual à pressão atmosférica durante todo o ciclo",
+"positiva durante toda a respiração tranquila",
+"igual à pressão alveolar no fim da inspiração"
+],
+"e": "A tendência oposta de pulmão (retrair) e parede (expandir) torna a pressão pleural negativa."
+},
+{
+"c": "respiracao",
+"q": "Um cão atropelado com pneumotórax tem colapso pulmonar porque:",
+"o": [
+"a pressão pleural se iguala à atmosférica",
+"o surfactante é destruído pelo ar",
+"o diafragma deixa de contrair",
+"a complacência pulmonar fica infinita"
+],
+"e": "Sem a pressão pleural negativa, a retração elástica colapsa o pulmão."
+},
+{
+"c": "respiracao",
+"q": "Complacência pulmonar é definida como:",
+"o": [
+"variação de volume por variação de pressão",
+"variação de pressão por variação de fluxo",
+"volume de ar no fim da expiração",
+"resistência ao fluxo nas vias aéreas"
+],
+"e": "C = ΔV/ΔP; pulmão complacente enche com pouca pressão."
+},
+{
+"c": "respiracao",
+"q": "O surfactante pulmonar é produzido por:",
+"o": [
+"pneumócitos tipo II",
+"pneumócitos tipo I",
+"macrófagos alveolares",
+"células caliciformes"
+],
+"e": "Os pneumócitos tipo II produzem e armazenam surfactante em corpos lamelares."
+},
+{
+"c": "respiracao",
+"q": "Qual é o principal componente lipídico do surfactante?",
+"o": [
+"dipalmitoilfosfatidilcolina",
+"colesterol livre e ésteres de colesterol",
+"triacilglicerol de cadeia média",
+"esfingomielina de cadeia longa"
+],
+"e": "A dipalmitoilfosfatidilcolina reduz a tensão superficial."
+},
+{
+"c": "respiracao",
+"q": "Pela lei de Laplace, sem surfactante os alvéolos pequenos tenderiam a:",
+"o": [
+"esvaziar-se dentro dos alvéolos maiores",
+"expandir-se mais que os grandes",
+"ficar com pressão menor que os grandes",
+"encher-se de ar mais facilmente"
+],
+"e": "P = 2T/r: com mesma tensão, raio menor gera pressão maior e o alvéolo colapsa."
+},
+{
+"c": "respiracao",
+"q": "Um potro prematuro com gemido expiratório, cianose e pulmões pouco complacentes provavelmente tem:",
+"o": [
+"deficiência de surfactante",
+"excesso de 2,3-DPG",
+"alcalose metabólica",
+"hemorragia pulmonar por exercício"
+],
+"e": "O surfactante amadurece no fim da gestação sob estímulo do cortisol fetal."
+},
+{
+"c": "respiracao",
+"q": "O sinal que acelera a maturação do surfactante no fim da gestação é:",
+"o": [
+"o cortisol fetal",
+"a progesterona materna",
+"a ocitocina",
+"a relaxina"
+],
+"e": "Os glicocorticoides fetais induzem a maturação pulmonar e também o parto."
+},
+{
+"c": "respiracao",
+"q": "Pela lei de Poiseuille, reduzir à metade o raio de uma via aérea aumenta a resistência cerca de:",
+"o": [
+"16 vezes",
+"2 vezes (dobro)",
+"4 vezes (ao quadrado)",
+"8 vezes (ao cubo)"
+],
+"e": "R é proporcional a 1/r⁴; (1/2)⁴ = 1/16."
+},
+{
+"c": "respiracao",
+"q": "Um cão com VC 300 mL, espaço morto 100 mL e 20 movimentos/min tem ventilação alveolar de:",
+"o": [
+"4 L/min",
+"6 L/min",
+"2 L/min",
+"8 L/min"
+],
+"e": "(300 − 100) × 20 = 4.000 mL/min."
+},
+{
+"c": "respiracao",
+"q": "Se o mesmo cão passar a respirar 60 vezes/min com VC de 100 mL (espaço morto 100 mL), a ventilação alveolar será:",
+"o": [
+"praticamente zero",
+"12 L/min (o dobro)",
+"6 L/min (inalterada)",
+"4 L/min (como antes)"
+],
+"e": "Todo o volume corrente ventila só o espaço morto."
+},
+{
+"c": "respiracao",
+"q": "O ofego do cão permite perder calor sem grande alcalose porque:",
+"o": [
+"ventila principalmente o espaço morto",
+"aumenta o volume corrente",
+"reduz a frequência respiratória",
+"bloqueia a anidrase carbônica"
+],
+"e": "Respirações rápidas e superficiais evaporam água sem aumentar muito a ventilação alveolar."
+},
+{
+"c": "respiracao",
+"q": "Bovinos e equinos têm fração de espaço morto relativamente grande principalmente devido a:",
+"o": [
+"pescoço e traqueia longos",
+"alvéolos muito pequenos",
+"ausência de surfactante",
+"baixa frequência cardíaca"
+],
+"e": "As vias de condução longas aumentam o espaço morto anatômico."
+},
+{
+"c": "respiracao",
+"q": "A capacidade residual funcional corresponde a:",
+"o": [
+"reserva expiratória mais volume residual",
+"volume corrente mais reserva inspiratória",
+"volume que entra a cada respiração",
+"capacidade vital menos volume residual"
+],
+"e": "É o ar que fica no pulmão ao final de uma expiração normal."
+},
+{
+"c": "respiracao",
+"q": "Ao nível do mar, a PO2 do ar inspirado já umidificado é de cerca de:",
+"o": [
+"150 mmHg",
+"100 mmHg",
+"760 mmHg",
+"40 mmHg"
+],
+"e": "(760 − 47) × 0,21 ≈ 150 mmHg."
+},
+{
+"c": "respiracao",
+"q": "A PO2 típica do sangue venoso misto é de cerca de:",
+"o": [
+"40 mmHg",
+"100 mmHg",
+"150 mmHg",
+"10 mmHg"
+],
+"e": "Em repouso o sangue venoso tem PO2 ~40 mmHg e ainda ~75% de saturação."
+},
+{
+"c": "respiracao",
+"q": "Segundo a lei de Fick, a difusão de um gás pela barreira alvéolo-capilar diminui quando:",
+"o": [
+"a espessura da barreira aumenta",
+"a área de troca aumenta",
+"o gradiente de pressão aumenta",
+"a solubilidade do gás aumenta"
+],
+"e": "A difusão é inversamente proporcional à espessura."
+},
+{
+"c": "respiracao",
+"q": "Doenças que espessam a barreira alvéolo-capilar causam hipoxemia antes de hipercapnia porque:",
+"o": [
+"o CO2 difunde muito mais rápido que o O2",
+"o O2 é mais solúvel que o CO2",
+"o CO2 não atravessa a barreira",
+"a hemoglobina não transporta CO2"
+],
+"e": "O CO2 é cerca de 20 vezes mais difusível."
+},
+{
+"c": "respiracao",
+"q": "Uma região pulmonar perfundida mas sem ventilação (pneumonia lobar) representa:",
+"o": [
+"shunt, com V/Q próximo de zero",
+"espaço morto, com V/Q infinito",
+"V/Q ideal",
+"hipoventilação global"
+],
+"e": "Sangue passa sem trocar e sai venoso."
+},
+{
+"c": "respiracao",
+"q": "A hipoxemia por shunt verdadeiro caracteriza-se por:",
+"o": [
+"responder pouco ao oxigênio a 100%",
+"corrigir-se totalmente com O2",
+"cursar sempre com PaCO2 muito baixa",
+"ocorrer só no exercício"
+],
+"e": "O sangue do shunt não entra em contato com o gás enriquecido."
+},
+{
+"c": "respiracao",
+"q": "A 'doença do peito' (brisket disease) de bovinos em altitude resulta de:",
+"o": [
+"vasoconstrição pulmonar hipóxica e hipertensão pulmonar",
+"deficiência congênita de surfactante pulmonar",
+"intoxicação crônica por nitrato de forrageiras",
+"hemorragia pulmonar induzida pelo esforço físico"
+],
+"e": "A hipóxia contrai as arteríolas pulmonares e leva o ventrículo direito à falência."
+},
+{
+"c": "respiracao",
+"q": "Cada grama de hemoglobina totalmente saturada transporta cerca de:",
+"o": [
+"1,34 mL de O2",
+"0,003 mL de O2",
+"13,4 mL de O2",
+"0,34 mL de O2"
+],
+"e": "Valor usado no cálculo do conteúdo arterial de O2."
+},
+{
+"c": "respiracao",
+"q": "Um cão anêmico com PaO2 normal terá:",
+"o": [
+"conteúdo arterial de O2 reduzido",
+"saturação arterial muito baixa",
+"PaO2 abaixo de 60 mmHg",
+"mucosas cianóticas obrigatoriamente"
+],
+"e": "Menos Hb significa menos O2 transportado, mesmo com saturação normal."
+},
+{
+"c": "respiracao",
+"q": "A forma sigmoide da curva de dissociação da hemoglobina deve-se à:",
+"o": [
+"cooperatividade entre as subunidades",
+"presença de um único grupo heme por molécula",
+"ligação do CO2 diretamente ao ferro do heme",
+"oxidação do ferro ferroso a férrico no pulmão"
+],
+"e": "A ligação de um O2 facilita a dos seguintes (transição T → R)."
+},
+{
+"c": "respiracao",
+"q": "Um aumento da P50 indica:",
+"o": [
+"menor afinidade e curva desviada à direita",
+"maior afinidade e curva à esquerda",
+"curva inalterada",
+"maior capacidade de transporte"
+],
+"e": "P50 maior = é preciso mais PO2 para saturar 50%."
+},
+{
+"c": "respiracao",
+"q": "No músculo em exercício, a hemoglobina libera mais O2 principalmente porque:",
+"o": [
+"acidez, CO2 e calor desviam a curva à direita",
+"o 2,3-DPG desaparece da hemácia durante o esforço",
+"a mioglobina cede seu O2 à hemoglobina circulante",
+"a PO2 tecidual aumenta com a contração muscular"
+],
+"e": "Efeito Bohr e temperatura reduzem a afinidade onde o metabolismo é alto."
+},
+{
+"c": "respiracao",
+"q": "Qual destes fatores desloca a curva da hemoglobina para a ESQUERDA?",
+"o": [
+"alcalose",
+"febre",
+"aumento de 2,3-DPG",
+"hipercapnia"
+],
+"e": "Alcalose aumenta a afinidade pelo O2."
+},
+{
+"c": "respiracao",
+"q": "O 2,3-DPG reduz a afinidade da Hb pelo O2 porque:",
+"o": [
+"estabiliza a forma T da desoxi-hemoglobina",
+"oxida o ferro do heme a Fe3+ na hemácia",
+"compete com o O2 pelo mesmo sítio no ferro",
+"aumenta o pH intracelular da hemácia"
+],
+"e": "Liga-se à cavidade central entre as cadeias β da desoxi-Hb."
+},
+{
+"c": "respiracao",
+"q": "Em quais espécies a hemoglobina é pouco sensível ao 2,3-DPG, que é baixo na hemácia?",
+"o": [
+"gato e ruminantes",
+"cão e equino de esporte",
+"suíno e humano adulto",
+"cão e suíno em crescimento"
+],
+"e": "Gatos e ruminantes têm Hb de afinidade intrinsecamente baixa."
+},
+{
+"c": "respiracao",
+"q": "Nas aves, o modulador alostérico equivalente ao 2,3-DPG é:",
+"o": [
+"inositol pentafosfato",
+"ATP mitocondrial",
+"ácido lático",
+"bicarbonato"
+],
+"e": "O IP5 regula a afinidade da Hb das aves."
+},
+{
+"c": "respiracao",
+"q": "Logo após a transfusão de sangue estocado por várias semanas, as hemácias transfundidas:",
+"o": [
+"seguram o O2 com mais força",
+"liberam O2 com mais facilidade",
+"não transportam O2",
+"têm curva desviada à direita"
+],
+"e": "O sangue estocado perde 2,3-DPG; a curva vai para a esquerda."
+},
+{
+"c": "respiracao",
+"q": "A mioglobina difere da hemoglobina por:",
+"o": [
+"curva hiperbólica e P50 muito baixa",
+"ter quatro hemes cooperativos",
+"P50 maior que a da Hb",
+"transportar CO2 como carbamino"
+],
+"e": "Monomérica, sem cooperatividade, P50 de 2–3 mmHg."
+},
+{
+"c": "respiracao",
+"q": "Nos ruminantes, a maior afinidade do sangue fetal pelo O2 se deve a:",
+"o": [
+"hemoglobina fetal estruturalmente distinta",
+"excesso de 2,3-DPG nas hemácias fetais",
+"ausência de hemoglobina no sangue do feto",
+"PO2 fetal mais alta que a do sangue materno"
+],
+"e": "Ruminantes têm HbF; em equinos e cães o feto tem menos 2,3-DPG."
+},
+{
+"c": "respiracao",
+"q": "A maior parte do CO2 é transportada no sangue como:",
+"o": [
+"bicarbonato",
+"CO2 dissolvido",
+"carboxi-hemoglobina",
+"ácido carbônico livre"
+],
+"e": "Cerca de 60–70% como HCO3−."
+},
+{
+"c": "respiracao",
+"q": "A enzima que acelera a hidratação do CO2 dentro da hemácia é:",
+"o": [
+"anidrase carbônica",
+"citocromo c oxidase",
+"metemoglobina redutase",
+"lactato desidrogenase"
+],
+"e": "Converte CO2 + H2O em H2CO3 rapidamente."
+},
+{
+"c": "respiracao",
+"q": "O 'desvio de cloreto' (Hamburger) nos capilares sistêmicos consiste em:",
+"o": [
+"saída de HCO3− da hemácia em troca de Cl−",
+"entrada de HCO3− na hemácia junto com Na+",
+"saída de Cl− da hemácia para o plasma",
+"troca de Na+ por K+ pela bomba de sódio"
+],
+"e": "A proteína banda 3 troca bicarbonato por cloreto."
+},
+{
+"c": "respiracao",
+"q": "O efeito Haldane descreve que:",
+"o": [
+"a Hb desoxigenada carrega mais CO2 e H+",
+"o CO2 reduz a afinidade da Hb pelo O2",
+"a temperatura desvia a curva",
+"o CO se liga ao heme"
+],
+"e": "A oxigenação no pulmão expulsa CO2 e H+ da Hb."
+},
+{
+"c": "respiracao",
+"q": "Um cão sob anestesia inalatória profunda, com PaCO2 de 70 mmHg e pH 7,20, tem:",
+"o": [
+"acidose respiratória",
+"alcalose respiratória",
+"acidose metabólica pura",
+"alcalose metabólica"
+],
+"e": "Hipoventilação retém CO2 e reduz o pH."
+},
+{
+"c": "respiracao",
+"q": "A compensação de uma alcalose respiratória crônica é feita por:",
+"o": [
+"excreção renal de bicarbonato",
+"retenção renal de bicarbonato",
+"hipoventilação",
+"aumento da produção de lactato"
+],
+"e": "O rim elimina HCO3− para trazer o pH de volta."
+},
+{
+"c": "respiracao",
+"q": "Os quimiorreceptores centrais respondem diretamente a:",
+"o": [
+"H+ do líquor gerado pelo CO2",
+"queda da PaO2 no sangue arterial",
+"HCO3− plasmático que atravessa a barreira",
+"concentração de hemoglobina no sangue"
+],
+"e": "O CO2 atravessa a barreira hematoencefálica e forma H+ no líquor."
+},
+{
+"c": "respiracao",
+"q": "Os únicos receptores que respondem à hipoxemia estimulando a ventilação são:",
+"o": [
+"os corpos carotídeos e aórticos",
+"os quimiorreceptores bulbares",
+"os receptores de estiramento",
+"os receptores J"
+],
+"e": "Os quimiorreceptores periféricos disparam com PaO2 < ~60 mmHg."
+},
+{
+"c": "respiracao",
+"q": "O gerador do ritmo respiratório está no:",
+"o": [
+"complexo pré-Bötzinger do bulbo",
+"córtex motor primário do telencéfalo",
+"cerebelo, junto ao núcleo do vago",
+"hipotálamo anterior (área pré-óptica)"
+],
+"e": "Faz parte do grupo respiratório ventral."
+},
+{
+"c": "respiracao",
+"q": "O reflexo de Hering-Breuer:",
+"o": [
+"encerra a inspiração pelo estiramento pulmonar",
+"inicia a tosse ao detectar partículas",
+"estimula a ventilação durante a hipóxia",
+"contrai a musculatura lisa dos brônquios"
+],
+"e": "Receptores de estiramento, via vago, inibem a inspiração."
+},
+{
+"c": "respiracao",
+"q": "Na intoxicação por monóxido de carbono, os quimiorreceptores não são estimulados porque:",
+"o": [
+"a PaO2 permanece normal",
+"o CO bloqueia o bulbo",
+"o pH fica alcalino",
+"o CO2 desaparece do sangue"
+],
+"e": "O O2 dissolvido é normal; só o conteúdo cai."
+},
+{
+"c": "respiracao",
+"q": "Partículas menores que 2 µm que chegam aos alvéolos são removidas principalmente por:",
+"o": [
+"macrófagos alveolares",
+"aparelho mucociliar",
+"espirro",
+"cornetos nasais"
+],
+"e": "Nos alvéolos não há cílios; quem age são os macrófagos."
+},
+{
+"c": "respiracao",
+"q": "Em galpões de frangos, concentrações altas de amônia predispõem a doença respiratória porque:",
+"o": [
+"paralisam os cílios e lesam o epitélio",
+"aumentam a produção de surfactante",
+"estimulam os macrófagos",
+"reduzem a frequência respiratória"
+],
+"e": "A ciliostase compromete a depuração mucociliar."
+},
+{
+"c": "respiracao",
+"q": "No cavalo, macrófagos intravasculares pulmonares ajudam a explicar:",
+"o": [
+"a sensibilidade pulmonar à endotoxemia",
+"a respiração exclusivamente nasal",
+"o acoplamento passo-respiração",
+"a hemorragia por exercício"
+],
+"e": "Eles captam endotoxinas e bactérias do sangue e liberam mediadores."
+},
+{
+"c": "respiracao",
+"q": "No galope, o cavalo apresenta acoplamento locomoção-respiração de:",
+"o": [
+"uma respiração por passada",
+"duas respirações por passada",
+"uma respiração a cada quatro passadas",
+"nenhuma relação fixa"
+],
+"e": "Relação 1:1 no cânter e no galope."
+},
+{
+"c": "respiracao",
+"q": "A hemorragia pulmonar induzida por exercício no cavalo resulta principalmente de:",
+"o": [
+"ruptura de capilares por pressão vascular muito alta",
+"coagulopatia hereditária de raças de corrida",
+"deficiência de surfactante nos alvéolos dorsais",
+"infecção bacteriana crônica das vias aéreas"
+],
+"e": "Falha por estresse da parede capilar nas regiões dorsocaudais."
+},
+{
+"c": "respiracao",
+"q": "O fármaco usado antes de corridas para reduzir a hemorragia pulmonar no cavalo é:",
+"o": [
+"furosemida",
+"atropina",
+"dexametasona",
+"azul de metileno"
+],
+"e": "Reduz as pressões vasculares pulmonares."
+},
+{
+"c": "respiracao",
+"q": "A hipoxemia do cavalo em exercício máximo deve-se em parte a:",
+"o": [
+"tempo de trânsito capilar muito curto",
+"excesso de surfactante nos alvéolos",
+"baixo débito cardíaco durante o galope",
+"alta afinidade da mioglobina muscular"
+],
+"e": "O débito enorme limita o tempo para equilíbrio (limitação por difusão)."
+},
+{
+"c": "respiracao",
+"q": "Nas aves, o ar atravessa os parabrônquios:",
+"o": [
+"sempre de caudal para cranial",
+"de cranial para caudal na inspiração",
+"em vaivém como nos mamíferos",
+"apenas na expiração"
+],
+"e": "Fluxo unidirecional por válvulas aerodinâmicas."
+},
+{
+"c": "respiracao",
+"q": "Quantos ciclos respiratórios são necessários para um lote de ar entrar e sair do sistema respiratório da ave?",
+"o": [
+"dois",
+"um",
+"três",
+"quatro"
+],
+"e": "1ª inspiração/expiração levam aos sacos caudais e ao pulmão; a 2ª, aos craniais e para fora."
+},
+{
+"c": "respiracao",
+"q": "Conter uma ave apertando firmemente o peito é perigoso porque:",
+"o": [
+"impede o movimento do esterno que ventila os sacos aéreos",
+"comprime o diafragma muscular que as aves possuem",
+"bloqueia a traqueia por compressão direta",
+"rompe os parabrônquios, que são muito frágeis"
+],
+"e": "Aves não têm diafragma; dependem do esterno e das costelas."
+},
+{
+"c": "respiracao",
+"q": "A intoxicação por nitrato em bovinos produz sangue de cor:",
+"o": [
+"marrom-chocolate",
+"vermelho-cereja",
+"vermelho-vivo venoso",
+"amarelado"
+],
+"e": "A metemoglobina (Fe3+) é marrom."
+},
+{
+"c": "respiracao",
+"q": "O tratamento específico da metemoglobinemia por nitrito em ruminantes é:",
+"o": [
+"azul de metileno intravenoso",
+"tiossulfato de sódio",
+"oxigênio hiperbárico apenas",
+"vitamina K"
+],
+"e": "Acelera a redução da meta-Hb via NADPH."
+},
+{
+"c": "respiracao",
+"q": "A intoxicação por cianeto distingue-se da por nitrito porque:",
+"o": [
+"o sangue venoso fica vermelho-vivo",
+"o sangue fica marrom-chocolate como no nitrito",
+"há metemoglobina abundante no sangue venoso",
+"a Hb perde a capacidade de ligar O2"
+],
+"e": "O tecido não usa O2 (citocromo oxidase bloqueada)."
+},
+{
+"c": "respiracao",
+"q": "Um gato com mucosas acastanhadas e edema de face após o tutor dar paracetamol tem:",
+"o": [
+"metemoglobinemia",
+"intoxicação por CO",
+"deficiência de surfactante",
+"hipercapnia por obstrução"
+],
+"e": "Gatos glicuronidam mal o paracetamol."
+},
+{
+"c": "respiracao",
+"q": "Em cães braquicefálicos, a intolerância ao calor ocorre porque:",
+"o": [
+"a obstrução alta torna o ofego ineficiente",
+"eles não têm glândulas sudoríparas nas patas",
+"o surfactante é deficiente",
+"a Hb tem P50 muito baixa"
+],
+"e": "Narinas estenóticas e palato longo dificultam o fluxo de ar."
+},
+{
+"c": "respiracao",
+"q": "O oxímetro de pulso comum em um cão resgatado de incêndio pode:",
+"o": [
+"superestimar a oxigenação",
+"subestimar a PaO2",
+"medir carboxi-Hb separadamente",
+"detectar cianeto"
+],
+"e": "Lê a carboxi-Hb como oxi-Hb."
+}
+]

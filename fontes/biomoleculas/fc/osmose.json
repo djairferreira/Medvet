@@ -1,0 +1,72 @@
+[
+[
+"osmose",
+"Compartimentos de água no adulto",
+"ACT ≈ 60% do peso; LIC 2/3 (40%), LEC 1/3 (20%): interstício ~15%, plasma ~5%."
+],
+[
+"osmose",
+"Osmolaridade × osmolalidade",
+"Osmolaridade: mOsm/L de solução. Osmolalidade: mOsm/kg de água (medida pelo osmômetro)."
+],
+[
+"osmose",
+"Equação de van't Hoff",
+"π = σ·i·C·R·T; 1 mOsm/L ≈ 19,3 mmHg a 37 °C."
+],
+[
+"osmose",
+"Osmolalidade calculada",
+"2(Na⁺ + K⁺) + glicose/18 + BUN/2,8 (mg/dL). Gap osmolar alto: etilenoglicol."
+],
+[
+"osmose",
+"Isosmótico × isotônico",
+"Tonicidade conta só osmóis efetivos. Ureia 300 mOsm/L é isosmótica, mas hipotônica: causa hemólise."
+],
+[
+"osmose",
+"Hemácia em hipo e hipertônico",
+"Hipotônico: incha e sofre hemólise. Hipertônico: perde água e sofre crenação."
+],
+[
+"osmose",
+"Equação de Starling",
+"Jv = Kf[(Pc − Pi) − σ(πc − πi)]."
+],
+[
+"osmose",
+"Quem gera a pressão oncótica",
+"Albumina: ~75–80% (pequena, numerosa e com efeito Gibbs-Donnan)."
+],
+[
+"osmose",
+"Quatro mecanismos de edema",
+"Pc ↑ (ICC), πc ↓ (hipoalbuminemia), permeabilidade ↑ (inflamação), drenagem linfática ↓."
+],
+[
+"osmose",
+"ADH e aquaporina 2",
+"Receptor V2 → AMPc → PKA → AQP2 inserida na membrana apical do ducto coletor → reabsorção de água."
+],
+[
+"osmose",
+"Sinais de 6–8% de desidratação",
+"Turgor claramente reduzido, mucosas secas, TPC 2–3 s, leve retração do globo ocular."
+],
+[
+"osmose",
+"Distribuição de 1 L de NaCl 0,9%",
+"~250 mL no plasma e ~750 mL no interstício após cerca de 1 h."
+],
+[
+"osmose",
+"NaCl 7,5% em grandes animais",
+"4–5 mL/kg IV em 4–5 min; expande o plasma 3–4× o volume; seguir com água oral ou cristaloide."
+],
+[
+"osmose",
+"Glicose 5%",
+"Isosmótica no frasco, mas vira água livre: só ~1/12 fica no plasma. Repõe água, não volume."
+]
+]

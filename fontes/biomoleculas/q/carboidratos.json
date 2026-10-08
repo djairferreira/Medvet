@@ -1,0 +1,541 @@
+[
+{
+"c": "carboidratos",
+"q": "Quimicamente, os carboidratos são definidos como:",
+"o": [
+"Poli-hidroxialdeídos ou poli-hidroxicetonas",
+"Ácidos carboxílicos de cadeia longa e insaturada",
+"Polímeros de aminoácidos unidos por amida",
+"Ésteres de glicerol com três ácidos graxos"
+],
+"e": "Carboidratos têm várias hidroxilas e um grupo aldeído ou cetona, ou liberam esses compostos na hidrólise."
+},
+{
+"c": "carboidratos",
+"q": "A frutose é classificada como:",
+"o": [
+"Ceto-hexose",
+"Aldo-hexose",
+"Aldopentose",
+"Cetotriose"
+],
+"e": "Tem 6 carbonos e grupo cetona (C2)."
+},
+{
+"c": "carboidratos",
+"q": "Glicose e galactose diferem apenas na configuração do carbono 4. São, portanto:",
+"o": [
+"Epímeros",
+"Enantiômeros",
+"Anômeros",
+"Isômeros de função"
+],
+"e": "Epímeros diferem em um único carbono quiral; enantiômeros são imagens especulares."
+},
+{
+"c": "carboidratos",
+"q": "O que define se um monossacarídeo pertence à série D ou L?",
+"o": [
+"A hidroxila do carbono quiral mais distante da carbonila",
+"A posição da hidroxila do carbono anomérico",
+"O sentido em que o anel de piranose se fecha",
+"O número total de carbonos quirais presentes na molécula"
+],
+"e": "Usa-se o penúltimo carbono (o quiral mais distante da carbonila) na projeção de Fischer, tomando o gliceraldeído como referência."
+},
+{
+"c": "carboidratos",
+"q": "Na glicose cíclica, a diferença entre as formas α e β está:",
+"o": [
+"Na posição da –OH do carbono anomérico (C1)",
+"Na posição da –OH do carbono 5",
+"No tamanho do anel formado, de 5 ou de 6 átomos",
+"Na presença de grupo fosfato no C6"
+],
+"e": "α: –OH do C1 para baixo do anel; β: para cima. Interconvertem-se por mutarrotação."
+},
+{
+"c": "carboidratos",
+"q": "Qual é o anel formado pela frutose em solução?",
+"o": [
+"Furanose, de cinco átomos",
+"Piranose, de seis átomos",
+"Lactona, de quatro átomos",
+"Anel aromático de seis carbonos"
+],
+"e": "A –OH do C5 ataca o C2 (cetona), formando anel de cinco átomos."
+},
+{
+"c": "carboidratos",
+"q": "A ribose, que compõe o RNA e o ATP, é uma:",
+"o": [
+"Aldopentose",
+"Ceto-hexose",
+"Aldotriose",
+"Cetopentose"
+],
+"e": "Ribose: 5 carbonos e grupo aldeído; no ATP fica como furanose."
+},
+{
+"c": "carboidratos",
+"q": "A ligação glicosídica entre dois monossacarídeos se forma com:",
+"o": [
+"Saída de uma molécula de água",
+"Entrada de uma molécula de água",
+"Gasto direto de um ATP",
+"Liberação de uma molécula de CO₂"
+],
+"e": "É uma condensação (desidratação); a hidrólise digestiva faz o inverso, consumindo água."
+},
+{
+"c": "carboidratos",
+"q": "A lactose é formada por:",
+"o": [
+"Galactose e glicose em β(1→4)",
+"Glicose e glicose em α(1→4)",
+"Glicose e frutose em α1→β2",
+"Galactose e frutose em β(1→6)"
+],
+"e": "Lactose: galactose β(1→4) glicose, hidrolisada pela lactase."
+},
+{
+"c": "carboidratos",
+"q": "Por que a sacarose não é um açúcar redutor?",
+"o": [
+"Os dois carbonos anoméricos estão presos na ligação",
+"Ela não possui nenhum grupo hidroxila livre na molécula",
+"Ela é formada apenas por cetoses",
+"Ela é um polissacarídeo insolúvel em água"
+],
+"e": "Na ligação α1→β2, os carbonos anoméricos da glicose e da frutose ficam bloqueados; não há aldeído livre."
+},
+{
+"c": "carboidratos",
+"q": "A maltose, produto da ação da amilase sobre o amido, é formada por:",
+"o": [
+"Duas glicoses em α(1→4)",
+"Duas glicoses em β(1→4)",
+"Glicose e galactose em α(1→4)",
+"Duas glicoses em α(1→6)"
+],
+"e": "Maltose: glicose α(1→4) glicose. Isomaltose é α(1→6)."
+},
+{
+"c": "carboidratos",
+"q": "Um gato adulto apresenta diarreia após receber leite de vaca. O mecanismo principal é:",
+"o": [
+"Lactose não hidrolisada causando efeito osmótico e fermentação",
+"Alergia à galactose absorvida no intestino delgado do gato",
+"Excesso de gordura do leite inibindo a lipase",
+"Bloqueio do SGLT1 pela caseína do leite"
+],
+"e": "A atividade de lactase cai após o desmame; a lactose chega ao cólon, retém água e é fermentada."
+},
+{
+"c": "carboidratos",
+"q": "Por que o leite de vaca não é bom substituto do leite materno para gatinhos órfãos?",
+"o": [
+"Tem mais lactose e menos proteína e gordura",
+"Não tem lactose, que o filhote precisa",
+"Tem proteína em excesso para o rim do filhote",
+"Contém sacarose, que o filhote não digere"
+],
+"e": "Comparado ao leite de gata, o de vaca é mais rico em lactose e mais pobre em proteína, gordura e energia."
+},
+{
+"c": "carboidratos",
+"q": "Sucedâneo de leite com sacarose para bezerros de poucos dias causa diarreia porque:",
+"o": [
+"O bezerro recém-nascido quase não tem sacarase",
+"A sacarose inibe a lactase do bezerro",
+"A sacarose é fermentada no abomaso",
+"O bezerro ainda não tem transportador intestinal para glicose"
+],
+"e": "No neonato a sacarase é praticamente ausente; amilase e maltase também são baixas nas primeiras semanas."
+},
+{
+"c": "carboidratos",
+"q": "A amilose difere da amilopectina por:",
+"o": [
+"Não ter ramificações α(1→6)",
+"Ser formada por glicoses β",
+"Ter ramificação a cada 8 a 12 glicoses",
+"Ser o componente majoritário do amido"
+],
+"e": "Amilose é linear α(1→4); amilopectina tem ramos α(1→6) e é 70-80% do amido."
+},
+{
+"c": "carboidratos",
+"q": "Em relação à amilopectina, o glicogênio:",
+"o": [
+"É mais ramificado, com ramos a cada 8-12 glicoses",
+"É linear e formado somente por ligações glicosídicas α(1→4)",
+"Tem ligações β(1→4) entre as glicoses",
+"É formado por glicose e frutose alternadas"
+],
+"e": "Ambos têm α(1→4) e α(1→6), mas o glicogênio ramifica muito mais (8-12 contra 24-30 resíduos)."
+},
+{
+"c": "carboidratos",
+"q": "Qual a vantagem funcional de o glicogênio ser muito ramificado?",
+"o": [
+"Ter muitas pontas para síntese e quebra rápidas",
+"Ser insolúvel e ocupar mais espaço na célula",
+"Resistir à ação de qualquer enzima digestiva",
+"Guardar mais energia por grama do que a gordura corporal"
+],
+"e": "Cada ramo gera uma extremidade não redutora onde as enzimas agem simultaneamente."
+},
+{
+"c": "carboidratos",
+"q": "Por que nenhum mamífero digere a celulose com enzimas próprias?",
+"o": [
+"Não produz enzima que quebre β(1→4) entre glicoses",
+"A celulose é formada por aminoaçúcares",
+"A amilase é destruída pelo ácido do estômago",
+"A celulose não contém nenhuma glicose na sua estrutura"
+],
+"e": "A celulose é glicose em β(1→4); vertebrados não têm celulase, só a microbiota."
+},
+{
+"c": "carboidratos",
+"q": "Qual é a enzima que nenhum vertebrado sintetiza?",
+"o": [
+"Celulase",
+"Lactase",
+"Sacarase",
+"Maltase"
+],
+"e": "Celulases vêm de bactérias, fungos e protozoários do rúmen e do intestino grosso."
+},
+{
+"c": "carboidratos",
+"q": "O cão digere a lactose, que tem ligação β(1→4), mas não a celulose, também β(1→4). Isso ocorre porque:",
+"o": [
+"A lactase é específica para galactose ligada à glicose",
+"A lactose é absorvida intacta, sem hidrólise",
+"A celulose tem ligações α escondidas no meio da cadeia",
+"A lactase só atua no estômago, em pH ácido"
+],
+"e": "A lactase é β-galactosidase; a ligação β entre duas glicoses exige celulase/β-glicosidase."
+},
+{
+"c": "carboidratos",
+"q": "Qual destes componentes da parede vegetal NÃO é um carboidrato?",
+"o": [
+"Lignina",
+"Pectina",
+"Hemicelulose",
+"Celulose"
+],
+"e": "A lignina é um polímero fenólico que reduz a digestibilidade da forragem."
+},
+{
+"c": "carboidratos",
+"q": "A pectina é formada principalmente por:",
+"o": [
+"Ácido galacturônico",
+"N-acetilglicosamina",
+"Glicose em β(1→4)",
+"Frutose em cadeia"
+],
+"e": "Pectina é rica em ácido galacturônico e muito fermentável (polpa cítrica, polpa de beterraba)."
+},
+{
+"c": "carboidratos",
+"q": "A quitina, do exoesqueleto de artrópodes, é um polímero de:",
+"o": [
+"N-acetilglicosamina em β(1→4)",
+"Glicose em α(1→4) e α(1→6)",
+"Ácido glicurônico e galactosamina",
+"Frutose em ligação β(2→1)"
+],
+"e": "Quitina: N-acetilglicosamina em β(1→4); contém nitrogênio."
+},
+{
+"c": "carboidratos",
+"q": "Qual teste dá cor azul intensa com amido, por causa da hélice de amilose?",
+"o": [
+"Lugol (iodo)",
+"Benedict",
+"Fehling",
+"Fita de glicose-oxidase"
+],
+"e": "O iodo entra na hélice de amilose e dá azul; glicogênio fica castanho-avermelhado."
+},
+{
+"c": "carboidratos",
+"q": "Qual dissacarídeo dá resultado negativo no teste de Benedict?",
+"o": [
+"Sacarose",
+"Lactose",
+"Maltose",
+"Isomaltose"
+],
+"e": "Benedict detecta açúcares redutores; a sacarose não tem carbono anomérico livre."
+},
+{
+"c": "carboidratos",
+"q": "A principal enzima da digestão do amido no monogástrico é:",
+"o": [
+"α-Amilase pancreática",
+"Amilase salivar",
+"Lactase da borda em escova",
+"Pepsina gástrica"
+],
+"e": "A amilase salivar é pequena ou ausente em várias espécies; a pancreática faz o grosso da digestão no duodeno."
+},
+{
+"c": "carboidratos",
+"q": "Os produtos da ação da α-amilase pancreática sobre o amido são:",
+"o": [
+"Maltose, maltotriose e dextrinas-limite",
+"Principalmente glicose livre",
+"Glicose e frutose livres em partes aproximadamente iguais",
+"Celobiose e glicose β"
+],
+"e": "A amilase não quebra α(1→6) nem libera muita glicose livre; as dissacaridases completam o trabalho."
+},
+{
+"c": "carboidratos",
+"q": "Como a glicose entra no enterócito pela membrana apical?",
+"o": [
+"Por SGLT1, cotransportada com Na⁺",
+"Por GLUT5, por difusão facilitada",
+"Por GLUT4, dependente de insulina",
+"Por difusão simples pela bicamada"
+],
+"e": "SGLT1 faz transporte ativo secundário (2 Na⁺ : 1 glicose); GLUT5 transporta frutose."
+},
+{
+"c": "carboidratos",
+"q": "A frutose entra no enterócito por:",
+"o": [
+"GLUT5",
+"SGLT1",
+"GLUT4",
+"Na⁺/K⁺-ATPase"
+],
+"e": "GLUT5, por difusão facilitada; a saída basolateral das três hexoses é por GLUT2."
+},
+{
+"c": "carboidratos",
+"q": "O soro de reidratação oral leva glicose e sódio juntos porque:",
+"o": [
+"O SGLT1 absorve os dois juntos, e a água acompanha",
+"A glicose neutraliza diretamente a acidose causada pela diarreia",
+"O sódio estimula a liberação de insulina",
+"A glicose inibe a secreção de cloreto"
+],
+"e": "O cotransporte Na⁺-glicose funciona mesmo em diarreias secretoras e arrasta água por osmose."
+},
+{
+"c": "carboidratos",
+"q": "No rúmen, a glicose liberada da celulose:",
+"o": [
+"É fermentada pelos microrganismos a AGV",
+"É absorvida pela parede do rúmen",
+"Passa intacta para o intestino delgado",
+"É convertida em glicogênio pelas bactérias"
+],
+"e": "Sem O₂, os microrganismos usam a glicose e excretam acetato, propionato, butirato, CO₂ e metano."
+},
+{
+"c": "carboidratos",
+"q": "Qual ácido graxo volátil é o principal precursor da glicose no ruminante?",
+"o": [
+"Propionato",
+"Acetato",
+"Butirato",
+"Valerato"
+],
+"e": "O propionato vai ao fígado e entra na gliconeogênese; acetato e butirato não formam glicose líquida."
+},
+{
+"c": "carboidratos",
+"q": "Em dieta rica em forragem, o AGV produzido em maior proporção é o:",
+"o": [
+"Acetato",
+"Propionato",
+"Butirato",
+"Lactato"
+],
+"e": "Acetato fica em torno de 65-70%; ele é o precursor da gordura do leite."
+},
+{
+"c": "carboidratos",
+"q": "A glicemia de bovinos adultos é mais baixa que a de cães porque:",
+"o": [
+"O ruminante absorve pouca glicose e vive de gliconeogênese",
+"O ruminante não possui o hormônio insulina",
+"O rúmen absorve glicose em excesso e a armazena como glicogênio",
+"O fígado bovino não faz gliconeogênese"
+],
+"e": "Quase todo carboidrato vira AGV no rúmen; a glicose vem principalmente do propionato no fígado."
+},
+{
+"c": "carboidratos",
+"q": "No bezerro lactente, o leite chega ao abomaso sem passar pelo rúmen graças:",
+"o": [
+"Ao reflexo da goteira esofágica",
+"À contração do omaso",
+"À ausência de rúmen no recém-nascido",
+"À ação da renina no retículo"
+],
+"e": "A sucção dispara o fechamento da goteira esofágica, e o bezerro digere a lactose como monogástrico."
+},
+{
+"c": "carboidratos",
+"q": "Um cavalo invade o depósito de ração e come muito milho. O risco principal nas 24-72 h seguintes é:",
+"o": [
+"Fermentação lática no ceco e laminite",
+"Hipoglicemia por excesso de insulina",
+"Acidose lática no estômago glandular",
+"Obstrução esofágica por fibra"
+],
+"e": "O amido que escapa do delgado é fermentado a lactato no ceco; endotoxinas e aminas vasoativas levam a cólica e laminite."
+},
+{
+"c": "carboidratos",
+"q": "Onde ocorre a fermentação da fibra no equino?",
+"o": [
+"No ceco e no cólon",
+"No estômago aglandular",
+"No intestino delgado proximal",
+"No rúmen rudimentar"
+],
+"e": "O equino é fermentador pós-gástrico: ceco e cólon funcionam como câmara de fermentação."
+},
+{
+"c": "carboidratos",
+"q": "Qual característica NÃO se aplica ao metabolismo de carboidratos do gato?",
+"o": [
+"Amilase salivar abundante",
+"Gliconeogênese contínua a partir de aminoácidos",
+"Atividade hepática de glicoquinase muito baixa",
+"Amilase pancreática baixa"
+],
+"e": "O gato não tem amilase salivar; os outros itens são características do carnívoro estrito."
+},
+{
+"c": "carboidratos",
+"q": "Por que os cães digerem amido melhor que os lobos?",
+"o": [
+"Ganharam cópias extras do gene da amilase pancreática",
+"Desenvolveram celulase intestinal ao longo da domesticação",
+"Passaram a produzir amilase no estômago",
+"Absorvem amido intacto pelo GLUT2"
+],
+"e": "Cães têm mais cópias do gene AMY2B, uma adaptação à convivência com humanos agricultores."
+},
+{
+"c": "carboidratos",
+"q": "O xilitol é perigoso para cães porque:",
+"o": [
+"Causa liberação maciça de insulina e hipoglicemia",
+"É fermentado no cólon e causa acidose",
+"Inibe a amilase pancreática por completo",
+"Bloqueia o SGLT1 e causa diarreia osmótica"
+],
+"e": "No cão, o xilitol estimula muito a insulina (hipoglicemia rápida) e, em doses maiores, causa necrose hepática."
+},
+{
+"c": "carboidratos",
+"q": "Os grupos sanguíneos A e B do gato são definidos por:",
+"o": [
+"Tipos de ácido siálico nos glicolipídios da hemácia",
+"Diferenças na sequência da hemoglobina",
+"Presença ou ausência de grânulos de glicogênio na hemácia",
+"Tipos de GLUT na membrana da hemácia"
+],
+"e": "N-glicolil-neuramínico (A) e N-acetil-neuramínico (B); são carboidratos do glicocálice."
+},
+{
+"c": "carboidratos",
+"q": "O glicocálice é formado principalmente por:",
+"o": [
+"Oligossacarídeos ligados a proteínas e lipídios",
+"Colesterol e fosfolipídios da face interna",
+"Filamentos de actina sob a membrana",
+"Glicogênio depositado fora da célula"
+],
+"e": "Glicoproteínas e glicolipídios formam a camada de açúcares que funciona no reconhecimento celular."
+},
+{
+"c": "carboidratos",
+"q": "Qual é a função dos glicosaminoglicanos, como o ácido hialurônico?",
+"o": [
+"Estrutural, na matriz da cartilagem e no líquido sinovial",
+"Reserva de energia de liberação rápida no fígado e no músculo",
+"Transporte de glicose através da membrana",
+"Componente da parede celular das plantas"
+],
+"e": "GAGs dão hidratação e resistência à compressão na cartilagem e lubrificam articulações."
+},
+{
+"c": "carboidratos",
+"q": "O butirato produzido pela fermentação da fibra no cólon é importante porque:",
+"o": [
+"É o combustível preferido dos colonócitos",
+"Forma glicose diretamente no cólon",
+"É o principal precursor da lactose",
+"Neutraliza o ácido gástrico no duodeno"
+],
+"e": "Fibras fermentáveis geram butirato, que nutre a mucosa do cólon (efeito prebiótico)."
+},
+{
+"c": "carboidratos",
+"q": "A fibra em detergente ácido (FDA) mede:",
+"o": [
+"Celulose e lignina",
+"Celulose, hemicelulose e lignina",
+"Apenas amido resistente",
+"Pectina e açúcares solúveis"
+],
+"e": "FDN inclui hemicelulose; FDA mede celulose + lignina e se relaciona inversamente à digestibilidade."
+},
+{
+"c": "carboidratos",
+"q": "A extrusão das rações aumenta a digestibilidade do amido porque:",
+"o": [
+"Gelatiniza os grânulos e expõe as cadeias às amilases",
+"Converte parte do amido em celulose, que é mais solúvel em água",
+"Transforma o amido em frutose livre",
+"Remove as ramificações α(1→6) do amido"
+],
+"e": "Calor e umidade desfazem a estrutura semicristalina do grânulo."
+},
+{
+"c": "carboidratos",
+"q": "Qual afirmação sobre α/β e D/L está correta?",
+"o": [
+"α/β muda por mutarrotação; D/L não muda em solução",
+"D/L muda por mutarrotação; α/β é fixo",
+"α e β são sinônimos de D e L",
+"Só as formas lineares, nunca as cíclicas, têm configuração D ou L"
+],
+"e": "A mutarrotação interconverte anômeros pela forma aberta; a configuração D/L do penúltimo carbono não se altera."
+},
+{
+"c": "carboidratos",
+"q": "Na fermentação ruminal, parte da energia dos carboidratos é perdida como:",
+"o": [
+"Metano eliminado na eructação",
+"Glicose eliminada na urina",
+"Lactose secretada na saliva",
+"Glicogênio eliminado nas fezes"
+],
+"e": "Metano e CO₂ são produtos da fermentação; o metano representa perda de energia."
+},
+{
+"c": "carboidratos",
+"q": "Para prevenir laminite por amido em equinos, recomenda-se:",
+"o": [
+"Várias refeições pequenas, abaixo de ~1 g de amido/kg",
+"Uma única refeição diária grande de concentrado energético",
+"Substituir todo o feno por grão moído",
+"Jejum de volumoso antes do concentrado"
+],
+"e": "Refeições pequenas mantêm o amido dentro da capacidade do delgado e evitam o transbordo para o ceco."
+}
+]

@@ -1,0 +1,5 @@
+/* capítulo glicogenio */
+.gg-org{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.gg-org > div{background:var(--panel);border:1px solid var(--line);border-radius:var(--r-sm);padding:8px 10px;font-size:.92rem;line-height:1.4}
+.gg-org > div b{display:block;color:var(--hema);margin-bottom:2px}
+@media (max-width:640px){.gg-org{grid-template-columns:minmax(0,1fr)}}

@@ -40,12 +40,12 @@ const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
     renal:{ca:1.12,pth:.95,cal:.08,renK:.35,t:'<b>Gato com doença renal crônica.</b> O rim doente retém fosfato e produz pouco calcitriol (barra quase vazia), então o intestino absorve pouco cálcio e a paratireoide perde o freio do calcitriol. O PTH fica altíssimo e retira cálcio do osso. Dieta pobre em fósforo e quelantes de fosfato.'},
     rato:{ca:1.75,pth:.02,cal:1,bone:.5,t:'<b>Cão que comeu isca com colecalciferol.</b> Excesso de vitamina D vira calcitriol em excesso: o intestino absorve cálcio e fosfato ao máximo e o osso libera cálcio. PTH suprimido e calcitonina alta, mas não conseguem compensar. O produto Ca × P alto mineraliza rins e vasos: insuficiência renal aguda.'},
     solanum:{ca:1.55,pth:.02,cal:1,bone:.15,t:'<b>Bovino em pasto com <i>Solanum malacoxylon</i>.</b> A planta já traz calcitriol pronto, que não depende da 1α-hidroxilase e escapa do controle renal. Absorção intestinal alta e persistente, PTH desligado, calcitonina alta. Ao longo de meses: calcinose de aorta, tendões e pulmões, o “espichamento”.'}};
-  const arrow=(x,y1,y2,f,lab)=>{/* f>0: tecido → sangue (sobe); f<0: sangue → tecido */
+  const arrow=(x,y1,y2,f,lab,left)=>{/* f>0: tecido → sangue (sobe); f<0: sangue → tecido */
     const m=Math.abs(f),w=2+m*12,c=f>0?'var(--eosin)':'var(--sky)';if(m<.06){T(s,x,(y1+y2)/2+6,'≈ 0',{fs:18,fill:'var(--muted)'});return}
     const a=f>0?y2:y1,b=f>0?y1:y2,dir=f>0?-1:1;
     E('line',{x1:x,y1:a,x2:x,y2:b-dir*14,stroke:c,'stroke-width':w,'stroke-linecap':'round'},s);
     E('path',{d:`M${x-10-w/2},${b-dir*16} L${x+10+w/2},${b-dir*16} L${x},${b+dir*2} Z`,fill:c},s);
-    T(s,x+24+w/2,(y1+y2)/2+7,lab,{a:'start',fs:18,fill:c});
+    T(s,left?x-20-w/2:x+20+w/2,(y1+y2)/2+7,lab,{a:left?'end':'start',fs:18,fill:c});
     if(!reduce){for(let k=0;k<3;k++){const d=E('circle',{r:4,cx:x,cy:a,fill:'var(--panel)'},s);
       const an=E('animate',{attributeName:'cy',from:a,to:b,dur:(2.6-m*1.6).toFixed(2)+'s',begin:(k*0.7).toFixed(1)+'s',repeatCount:'indefinite'},d)}}};
   const meter=(x,lab,v,c)=>{T(s,x,30,lab,{fs:20});E('rect',{x:x-75,y:42,width:150,height:22,rx:11,fill:'var(--paper)',stroke:'var(--line)'},s);
@@ -66,7 +66,7 @@ const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
     let bone=.7*pth+.35*cal-.75*ct-.2;if(C.bone!=null)bone=C.bone;bone*=C.boneK||1;
     let gut=.1+.8*cal;gut*=C.gutK||1;
     let ren=.85*pth-.6*ct;ren*=C.renK||1;
-    const y1=200,y2=304;arrow(100,y1,y2,clamp(bone,-1,1),bone>0?'libera':'deposita');arrow(300,y1,y2,clamp(ren,-1,1),ren>0?'retém':'perde');arrow(500,y1,y2,clamp(gut,0,1),'absorve');
+    const y1=200,y2=304;arrow(100,y1,y2,clamp(bone,-1,1),bone>0?'libera':'deposita');arrow(300,y1,y2,clamp(ren,-1,1),ren>0?'retém':'perde');arrow(500,y1,y2,clamp(gut,0,1),'absorve',1);
     [[100,'Osso'],[300,'Rim'],[500,'Intestino']].forEach(([x,l])=>{E('rect',{x:x-80,y:308,width:160,height:52,rx:12,fill:'var(--bone)',stroke:'var(--bone-2)'},s);T(s,x,342,l,{fs:22,w:800,fill:'var(--bone-ink)'})});
     T(s,300,392,'vermelho: para o sangue · azul: sai do sangue',{fs:18,fill:'var(--muted)',w:500});
     let txt=C.t;if(!txt){txt=c<1.1?'<b>Hipocalcemia.</b> O sensor de cálcio da paratireoide deixa de ser ativado e o PTH sobe em segundos. O PTH tira cálcio do osso (via RANKL dos osteoblastos), faz o rim reter cálcio e perder fosfato e manda o rim produzir calcitriol, que aumenta a absorção intestinal. A calcitonina cai.'

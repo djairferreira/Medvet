@@ -1,0 +1,7 @@
+/* capítulo ureia */
+.ur-sl{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:8px 16px;margin:6px 0 10px;font-family:var(--f-display);font-size:.92rem;font-weight:600}
+.ur-sl label{display:block}
+.ur-sl output{font-family:var(--f-mono);font-weight:500;color:var(--eosin)}
+.ur-sl input[type=range]{width:100%;accent-color:var(--hema);margin-top:4px}
+.ur-sl .ur-chk{display:flex;align-items:center;gap:8px;font-weight:500}
+.ur-sl .ur-chk input{width:20px;height:20px;accent-color:var(--hema)}

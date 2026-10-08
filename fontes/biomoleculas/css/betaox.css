@@ -1,0 +1,5 @@
+/* cap. 8 β-oxidação */
+.bev-ctl{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(240px,100%),1fr));gap:8px 18px;margin:6px 0 4px}
+.bev-ctl label{display:flex;flex-direction:column;gap:4px;font-family:var(--f-display);font-size:.92rem}
+.bev-ctl input[type=range]{width:100%;accent-color:var(--hema)}
+#boxStats .stat b{font-size:1.35rem}

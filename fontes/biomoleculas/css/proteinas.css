@@ -1,0 +1,8 @@
+/* capítulo proteínas */
+.pr-sl{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:8px 16px;margin:6px 0 10px;font-family:var(--f-display);font-size:.92rem;font-weight:600}
+.pr-sl label{display:block}
+.pr-sl output{font-family:var(--f-mono);font-weight:500;color:var(--eosin)}
+.pr-sl input[type=range]{width:100%;accent-color:var(--hema);margin-top:4px}
+.pr-grp{display:inline-block;margin:2px 4px 2px 0;padding:2px 8px;border-radius:999px;border:1px solid var(--line);font-family:var(--f-mono);font-size:.85rem}
+.pr-grp.pos{background:var(--sky-soft);border-color:var(--sky)}
+.pr-grp.neg{background:var(--eosin-soft);border-color:var(--eosin)}

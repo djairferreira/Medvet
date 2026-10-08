@@ -1,0 +1,585 @@
+[
+{
+"c": "osmose",
+"q": "Em um cão adulto magro de 20 kg, a água corporal total é de aproximadamente:",
+"o": [
+"12 L",
+"6 L",
+"4 L",
+"16 L"
+],
+"e": "ACT ≈ 60% do peso vivo: 0,6 × 20 = 12 L."
+},
+{
+"c": "osmose",
+"q": "Que fração da água corporal total está no compartimento intracelular?",
+"o": [
+"Cerca de 2/3",
+"Cerca de 1/3",
+"Cerca de 1/4",
+"Cerca de 1/12"
+],
+"e": "O LIC corresponde a ~40% do peso vivo, o LEC a ~20%."
+},
+{
+"c": "osmose",
+"q": "O plasma corresponde a aproximadamente que porcentagem do peso vivo?",
+"o": [
+"5%",
+"20%",
+"15%",
+"40%"
+],
+"e": "O plasma é ~1/4 do LEC; o interstício, ~3/4 (cerca de 15% do peso)."
+},
+{
+"c": "osmose",
+"q": "Por que bezerros neonatos desidratam com mais facilidade que bovinos adultos?",
+"o": [
+"Têm LEC proporcionalmente maior",
+"Têm menos água corporal total",
+"Não possuem aquaporinas renais",
+"Têm pressão oncótica muito alta"
+],
+"e": "Neonatos têm 70–80% de água e LEC de até 40–45% do peso, perdido rapidamente na diarreia."
+},
+{
+"c": "osmose",
+"q": "Um animal obeso tem porcentagem de água corporal menor porque:",
+"o": [
+"O tecido adiposo contém pouca água",
+"A gordura retém muito Na⁺",
+"O músculo perde aquaporinas",
+"A obesidade reduz o ADH"
+],
+"e": "O tecido adiposo tem 10–20% de água, contra ~75% no músculo."
+},
+{
+"c": "osmose",
+"q": "Na acidose ruminal, o animal desidrata mesmo com o rúmen cheio de líquido porque:",
+"o": [
+"O conteúdo hiperosmótico puxa água do sangue",
+"O rúmen bombeia água ativamente para fora",
+"A papila ruminal secreta albumina",
+"O lactato bloqueia a sede"
+],
+"e": "O ácido lático eleva a osmolalidade ruminal e sequestra água no 'terceiro espaço'."
+},
+{
+"c": "osmose",
+"q": "Osmose é definida como:",
+"o": [
+"Movimento de água por membrana semipermeável",
+"Movimento de soluto a favor do gradiente",
+"Transporte de água por bomba de ATP",
+"Filtração de plasma pela pressão arterial"
+],
+"e": "A água vai do meio com menos partículas para o meio com mais partículas."
+},
+{
+"c": "osmose",
+"q": "Na equação de van't Hoff, o fator i para o NaCl é idealmente:",
+"o": [
+"2",
+"1",
+"3",
+"0,5"
+],
+"e": "O NaCl dissocia-se em Na⁺ e Cl⁻ (na prática, ~1,85 pelo coeficiente osmótico)."
+},
+{
+"c": "osmose",
+"q": "A 37 °C, cada 1 mOsm/L de diferença gera cerca de:",
+"o": [
+"19,3 mmHg",
+"1 mmHg",
+"193 mmHg",
+"0,19 mmHg"
+],
+"e": "Por isso pequenas diferenças osmóticas movem grandes volumes de água."
+},
+{
+"c": "osmose",
+"q": "Um coeficiente de reflexão (σ) igual a zero significa que o soluto:",
+"o": [
+"Atravessa livremente a membrana",
+"É totalmente impermeante",
+"Exerce a pressão osmótica máxima",
+"Liga-se às proteínas plasmáticas"
+],
+"e": "Com σ = 0 o soluto não gera pressão osmótica efetiva."
+},
+{
+"c": "osmose",
+"q": "A osmolalidade é expressa em:",
+"o": [
+"mOsm por kg de água",
+"mOsm por litro de solução",
+"mmol por litro de plasma",
+"mEq por litro de solução"
+],
+"e": "É a grandeza medida pelo osmômetro (abaixamento do ponto de congelamento)."
+},
+{
+"c": "osmose",
+"q": "Qual soluto mais contribui para a osmolalidade do LEC?",
+"o": [
+"Na⁺ e seus ânions",
+"Glicose",
+"Ureia",
+"Albumina"
+],
+"e": "Por isso a natremia é o principal indicador do estado osmótico."
+},
+{
+"c": "osmose",
+"q": "Na fórmula da osmolalidade calculada, qual termo multiplica a soma Na⁺ + K⁺?",
+"o": [
+"2",
+"1,5",
+"18",
+"2,8"
+],
+"e": "Osm ≈ 2(Na⁺ + K⁺) + glicose/18 + BUN/2,8, com valores em mg/dL."
+},
+{
+"c": "osmose",
+"q": "Gato com gap osmolar muito aumentado, poucas horas após ingerir líquido adocicado na garagem. Suspeita principal:",
+"o": [
+"Etilenoglicol",
+"Ivermectina",
+"Chocolate",
+"Paracetamol"
+],
+"e": "O anticongelante eleva o gap antes da insuficiência renal por oxalato de cálcio."
+},
+{
+"c": "osmose",
+"q": "Tonicidade depende de:",
+"o": [
+"Osmóis efetivos, que não cruzam a membrana",
+"Todas as partículas da solução",
+"Somente das proteínas plasmáticas",
+"Somente da pressão hidrostática"
+],
+"e": "Solutos permeantes, como a ureia, não alteram o volume celular de forma sustentada."
+},
+{
+"c": "osmose",
+"q": "Uma solução de ureia a 300 mOsm/L, em relação à hemácia, é:",
+"o": [
+"Isosmótica, mas hipotônica",
+"Isosmótica e isotônica",
+"Hiperosmótica e hipertônica",
+"Hiposmótica e isotônica"
+],
+"e": "A ureia entra na célula, a água a segue e a hemácia sofre hemólise."
+},
+{
+"c": "osmose",
+"q": "Hemácias colocadas em água destilada sofrem:",
+"o": [
+"Hemólise",
+"Crenação",
+"Nenhuma alteração",
+"Aglutinação"
+],
+"e": "A água entra até romper a membrana."
+},
+{
+"c": "osmose",
+"q": "Hemácias em NaCl 3% apresentam:",
+"o": [
+"Crenação",
+"Hemólise",
+"Esferocitose",
+"Volume inalterado"
+],
+"e": "No meio hipertônico a água sai e a célula murcha com espículas."
+},
+{
+"c": "osmose",
+"q": "Qual solução é isotônica ao plasma?",
+"o": [
+"NaCl 0,9%",
+"NaCl 0,45%",
+"NaCl 7,5%",
+"Água destilada"
+],
+"e": "Cerca de 308 mOsm/L de osmóis efetivos."
+},
+{
+"c": "osmose",
+"q": "Por que a glicose 5% não serve para expandir volume no choque?",
+"o": [
+"Vira água livre e vai para as células",
+"É hipertônica e causa crenação",
+"Contém potássio em excesso",
+"Fica retida no plasma por horas"
+],
+"e": "Após metabolizada, distribui-se pela ACT; só ~1/12 fica no plasma."
+},
+{
+"c": "osmose",
+"q": "Bezerros que bebem grande volume de água após privação podem apresentar urina vermelha devido a:",
+"o": [
+"Hemólise por plasma hipotônico",
+"Lesão renal por oxalato",
+"Mioglobinúria por exercício",
+"Hematúria por cistite"
+],
+"e": "É a intoxicação por água: hemácias incham e se rompem."
+},
+{
+"c": "osmose",
+"q": "No teste de fragilidade osmótica, a hemólise das hemácias normais começa por volta de:",
+"o": [
+"NaCl 0,45–0,50%",
+"NaCl 0,9%",
+"NaCl 1,5%",
+"NaCl 0,1%"
+],
+"e": "Hemácias mais frágeis rompem-se em concentrações mais altas."
+},
+{
+"c": "osmose",
+"q": "A pressão oncótica do plasma é gerada principalmente por:",
+"o": [
+"Albumina",
+"Globulinas",
+"Fibrinogênio",
+"Glicose"
+],
+"e": "A albumina responde por ~75–80% da pressão coloidosmótica."
+},
+{
+"c": "osmose",
+"q": "Por que Na⁺ e Cl⁻ não geram pressão osmótica efetiva entre plasma e interstício?",
+"o": [
+"Atravessam livremente a parede capilar",
+"Estão em concentração muito baixa",
+"São ligados à albumina",
+"São bombeados pelo endotélio"
+],
+"e": "Só as proteínas, retidas pelo capilar, geram força osmótica ali."
+},
+{
+"c": "osmose",
+"q": "Na equação de Starling, qual força favorece a reabsorção de líquido para o capilar?",
+"o": [
+"Pressão oncótica plasmática",
+"Pressão hidrostática capilar",
+"Pressão oncótica intersticial",
+"Pressão intersticial negativa"
+],
+"e": "πc puxa água para dentro do vaso."
+},
+{
+"c": "osmose",
+"q": "No modelo clássico, no lado venoso do capilar predomina:",
+"o": [
+"Reabsorção",
+"Filtração",
+"Secreção ativa",
+"Equilíbrio absoluto"
+],
+"e": "Pc cai ao longo do vaso e a pressão oncótica passa a vencer."
+},
+{
+"c": "osmose",
+"q": "O excesso de líquido filtrado nos capilares retorna ao sangue principalmente por:",
+"o": [
+"Vasos linfáticos",
+"Aquaporinas endoteliais",
+"Transporte ativo",
+"Pinocitose venosa"
+],
+"e": "A linfa é a válvula de segurança contra o edema."
+},
+{
+"c": "osmose",
+"q": "Por que os alvéolos pulmonares normalmente permanecem secos?",
+"o": [
+"A pressão capilar pulmonar é baixa",
+"O epitélio alveolar bombeia albumina",
+"Os capilares pulmonares são impermeáveis",
+"Não há vasos linfáticos no pulmão"
+],
+"e": "Pc de 7–10 mmHg é menor que a pressão oncótica."
+},
+{
+"c": "osmose",
+"q": "Um cão com degeneração mixomatosa da mitral e insuficiência cardíaca esquerda tende a desenvolver:",
+"o": [
+"Edema pulmonar",
+"Ascite isolada",
+"Edema de barbela",
+"Edema submandibular"
+],
+"e": "A pressão venosa pulmonar sobe e eleva a Pc nos capilares pulmonares."
+},
+{
+"c": "osmose",
+"q": "Edema de barbela em vaca com reticulopericardite traumática resulta principalmente de:",
+"o": [
+"Aumento da pressão hidrostática",
+"Queda da pressão oncótica",
+"Obstrução linfática",
+"Aumento da permeabilidade"
+],
+"e": "A insuficiência cardíaca direita eleva a pressão venosa sistêmica."
+},
+{
+"c": "osmose",
+"q": "Ovelhas com hemoncose grave apresentam 'papeira' (edema submandibular) por:",
+"o": [
+"Hipoalbuminemia",
+"Hipertensão portal",
+"Obstrução linfática",
+"Aumento da Pc"
+],
+"e": "A perda de sangue e proteína reduz a pressão oncótica plasmática."
+},
+{
+"c": "osmose",
+"q": "Qual mecanismo de edema produz um exsudato rico em proteína e células?",
+"o": [
+"Aumento da permeabilidade",
+"Queda da pressão oncótica",
+"Aumento da pressão venosa",
+"Hiperidratação iatrogênica"
+],
+"e": "Na inflamação o endotélio abre fendas e as proteínas extravasam."
+},
+{
+"c": "osmose",
+"q": "A doença do edema dos leitões é causada por:",
+"o": [
+"Toxina Stx2e de E. coli",
+"Hipoalbuminemia por verminose",
+"Obstrução linfática congênita",
+"Excesso de sódio na ração"
+],
+"e": "A toxina lesa o endotélio e aumenta a permeabilidade vascular."
+},
+{
+"c": "osmose",
+"q": "Qual destes é um transudato pobre em proteína?",
+"o": [
+"Ascite por hipoalbuminemia",
+"Edema de uma picada de abelha",
+"Derrame de uma peritonite",
+"Edema de linfadenomegalia"
+],
+"e": "Na queda de πc o líquido filtrado tem pouca proteína."
+},
+{
+"c": "osmose",
+"q": "Qual afirmação sobre edema é INCORRETA?",
+"o": [
+"Hipoalbuminemia causa edema só localizado",
+"Obstrução venosa causa edema regional",
+"O sinal de Godet indica edema depressível",
+"A linfa protege contra edema"
+],
+"e": "A hipoalbuminemia afeta todos os capilares: o edema é generalizado."
+},
+{
+"c": "osmose",
+"q": "O ADH aumenta a reabsorção de água no ducto coletor porque:",
+"o": [
+"Insere aquaporina 2 na membrana apical",
+"Ativa a Na⁺/K⁺-ATPase basolateral",
+"Abre canais de K⁺ no lúmen",
+"Aumenta o fluxo sanguíneo medular"
+],
+"e": "Receptor V2 → AMPc → PKA → vesículas com AQP2 fundem-se à membrana."
+},
+{
+"c": "osmose",
+"q": "Os osmorreceptores que controlam o ADH respondem a variações da osmolalidade de:",
+"o": [
+"1–2%",
+"10–15%",
+"25%",
+"50%"
+],
+"e": "São sensores muito sensíveis no hipotálamo anterior."
+},
+{
+"c": "osmose",
+"q": "A aldosterona atua no néfron distal promovendo:",
+"o": [
+"Reabsorção de Na⁺ e excreção de K⁺",
+"Reabsorção de K⁺ e excreção de Na⁺",
+"Inserção de aquaporina 2",
+"Secreção de glicose"
+],
+"e": "Aumenta ENaC, Na⁺/K⁺-ATPase e canais de K⁺."
+},
+{
+"c": "osmose",
+"q": "Cão com hiponatremia, hipercalemia e relação Na:K abaixo de 27:1. Suspeita:",
+"o": [
+"Hipoadrenocorticismo",
+"Diabetes insípido central",
+"Hiperadrenocorticismo",
+"Intoxicação por sal"
+],
+"e": "Falta de aldosterona: perde Na⁺, retém K⁺."
+},
+{
+"c": "osmose",
+"q": "No diabetes insípido nefrogênico:",
+"o": [
+"O rim não responde ao ADH",
+"Falta secreção de ADH",
+"Há excesso de aldosterona",
+"A glicosúria causa poliúria"
+],
+"e": "A desmopressina não corrige a poliúria."
+},
+{
+"c": "osmose",
+"q": "Uma densidade urinária persistente de 1,010 em um cão desidratado indica:",
+"o": [
+"Perda da capacidade de concentrar",
+"Resposta renal normal à desidratação",
+"Excesso de ADH circulante",
+"Intoxicação por água"
+],
+"e": "Isostenúria em animal desidratado sugere falha renal ou no eixo ADH."
+},
+{
+"c": "osmose",
+"q": "Cão com mucosas secas, turgor claramente diminuído e TPC de 2–3 s. Desidratação estimada:",
+"o": [
+"6–8%",
+"Menos de 5%",
+"10–12%",
+"Mais de 15%"
+],
+"e": "Sinais intermediários; acima de 10% surgem sinais de choque."
+},
+{
+"c": "osmose",
+"q": "Em bezerros, qual é um dos melhores indicadores clínicos do grau de desidratação?",
+"o": [
+"Retração do globo ocular",
+"Cor da urina",
+"Frequência respiratória",
+"Temperatura retal"
+],
+"e": "Junto com o retorno da prega cervical."
+},
+{
+"c": "osmose",
+"q": "Na desidratação, a proteína plasmática total geralmente:",
+"o": [
+"Aumenta",
+"Diminui",
+"Não se altera",
+"Zera"
+],
+"e": "Há hemoconcentração, o que pode mascarar hipoalbuminemia."
+},
+{
+"c": "osmose",
+"q": "A desidratação por privação de água é tipicamente:",
+"o": [
+"Hipertônica",
+"Hipotônica",
+"Isotônica",
+"Iso-oncótica"
+],
+"e": "Perde-se mais água que sal: o Na⁺ plasmático sobe."
+},
+{
+"c": "osmose",
+"q": "Um bezerro de 40 kg com 8% de desidratação tem déficit de aproximadamente:",
+"o": [
+"3,2 L",
+"8 L",
+"0,32 L",
+"32 L"
+],
+"e": "Déficit = 40 × 0,08 = 3,2 L."
+},
+{
+"c": "osmose",
+"q": "Após 1 h de infusão de 1 L de NaCl 0,9%, quanto permanece no plasma?",
+"o": [
+"Cerca de 250 mL",
+"Cerca de 1 L",
+"Cerca de 80 mL",
+"Cerca de 750 mL"
+],
+"e": "O cristaloide isotônico distribui-se em todo o LEC (1/4 plasma, 3/4 interstício)."
+},
+{
+"c": "osmose",
+"q": "A dose usual de NaCl 7,5% em bovinos e equinos é de:",
+"o": [
+"4–5 mL/kg em minutos",
+"40–50 mL/kg em 1 h",
+"1 mL/kg/dia",
+"20 mL/kg em bolus"
+],
+"e": "Deve ser seguida de água oral ou cristaloide isotônico."
+},
+{
+"c": "osmose",
+"q": "A solução hipertônica de NaCl 7,5% expande o volume plasmático porque:",
+"o": [
+"Puxa água do interstício e das células",
+"Fica retida pelo glicocálice",
+"Contém coloides de alto peso",
+"Estimula a síntese de albumina"
+],
+"e": "A osmolaridade de ~2.400 mOsm/L atrai água para o vaso."
+},
+{
+"c": "osmose",
+"q": "O Ringer com lactato é alcalinizante porque:",
+"o": [
+"O lactato vira bicarbonato no fígado",
+"Contém bicarbonato de sódio",
+"Tem mais Cl⁻ que o plasma",
+"Contém potássio"
+],
+"e": "O lactato é metabolizado gerando HCO₃⁻."
+},
+{
+"c": "osmose",
+"q": "Para uma vaca com deslocamento de abomaso e alcalose hipoclorêmica, o fluido mais indicado é:",
+"o": [
+"NaCl 0,9% (com KCl)",
+"Ringer com lactato",
+"Bicarbonato de sódio",
+"Glicose 5%"
+],
+"e": "Repõe o Cl⁻ e não alcaliniza mais."
+},
+{
+"c": "osmose",
+"q": "Os coloides permanecem no espaço intravascular porque:",
+"o": [
+"São moléculas grandes, com σ alto",
+"São rapidamente metabolizados",
+"Atravessam a membrana celular",
+"Têm osmolaridade de 2.400 mOsm/L"
+],
+"e": "Na sepse, porém, a permeabilidade alta permite seu extravasamento."
+},
+{
+"c": "osmose",
+"q": "Corrigir rapidamente uma hipernatremia crônica com fluido hipotônico pode causar:",
+"o": [
+"Edema cerebral",
+"Crenação neuronal",
+"Edema pulmonar",
+"Hipercalemia"
+],
+"e": "Os neurônios acumularam osmólitos; a água entra em excesso."
+}
+]

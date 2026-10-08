@@ -1,0 +1,67 @@
+[
+[
+"transporte",
+"Lei de Fick (difusão simples)",
+"J = P·A·ΔC; P = K·D/Δx. Proporcional ao gradiente e à área, inversamente à espessura; não satura."
+],
+[
+"transporte",
+"Três propriedades de um carreador",
+"Saturação (Vmáx/Tm), especificidade e competição/inibição."
+],
+[
+"transporte",
+"Insulina × GLUT4",
+"A insulina leva vesículas com GLUT4 à membrana do músculo e do adipócito: aumenta a Vmáx, não o Km."
+],
+[
+"transporte",
+"Estequiometria da Na⁺/K⁺-ATPase",
+"3 Na⁺ para fora, 2 K⁺ para dentro, 1 ATP; eletrogênica."
+],
+[
+"transporte",
+"Mecanismo da digoxina",
+"Inibe a Na⁺/K⁺-ATPase → Na⁺ interno ↑ → NCX expulsa menos Ca²⁺ → mais Ca²⁺ no retículo → inotropismo positivo. Hipocalemia potencializa a toxicidade."
+],
+[
+"transporte",
+"SERCA × PMCA",
+"SERCA: bombeia Ca²⁺ para o retículo (relaxamento muscular). PMCA: expulsa Ca²⁺ para o LEC."
+],
+[
+"transporte",
+"Omeprazol",
+"Pró-fármaco ativado no ácido; inibe irreversivelmente a H⁺/K⁺-ATPase da célula parietal. Úlcera gástrica equina."
+],
+[
+"transporte",
+"Simporte × antiporte",
+"Simporte: Na⁺ e soluto no mesmo sentido (SGLT1, NKCC). Antiporte: sentidos opostos (Na⁺/H⁺, 3Na⁺/Ca²⁺)."
+],
+[
+"transporte",
+"SGLT1",
+"Simporte apical do enterócito: 2 Na⁺ + 1 glicose (ou galactose). Base da terapia de reidratação oral."
+],
+[
+"transporte",
+"Colostro e transcitose",
+"Enterócitos do neonato absorvem IgG por pinocitose/transcitose até o fechamento intestinal (~24 h). Ruminantes, equinos e suínos nascem sem Ig."
+],
+[
+"transporte",
+"MDR1 em Collies",
+"Mutação ABCB1-1Δ: glicoproteína P não funcional na barreira hematoencefálica → neurotoxicidade por ivermectina e loperamida."
+],
+[
+"transporte",
+"Toxina colérica / LT da ETEC",
+"Ativa Gs → AMPc ↑ → CFTR aberto → secreção de Cl⁻ e água (diarreia secretora). STa age via GMPc."
+],
+[
+"transporte",
+"Toxina botulínica",
+"Cliva proteínas SNARE → bloqueia a exocitose de acetilcolina → paralisia flácida."
+]
+]

@@ -1,0 +1,205 @@
+
+<section class="chapter" id="glicolise">
+  <div class="ch-head">
+    <div class="ch-num">04</div>
+    <div><span class="eyebrow">Unidade II · 02.03 Glicólise e metabolismo anaeróbico · Transporte de glicose (GLUTs)</span><h2>Glicólise e metabolismo anaeróbico</h2></div>
+    <div class="ch-meta"><button class="done-btn" data-done="glicolise" aria-pressed="false">Marcar como estudado</button><span class="chip">~75 min</span></div>
+  </div>
+  <div class="col">
+    <p class="oneliner">A glicólise quebra uma glicose (6 carbonos) em duas moléculas de piruvato (3 carbonos) no citosol, em dez reações, e rende 2 ATP e 2 NADH. Funciona com ou sem oxigênio. Sem oxigênio, a célula só continua fazendo ATP se transformar o piruvato em lactato para devolver o NAD⁺.</p>
+    <div class="goals rv"><h4>Objetivos</h4><ul>
+      <li>Explicar como a glicose entra nas células (GLUT1 a GLUT5, SGLT) e por que a fosforilação a prende no citosol.</li>
+      <li>Descrever as dez reações da glicólise, com enzimas, gasto e produção de ATP e formação de NADH.</li>
+      <li>Identificar as três enzimas reguladoras (hexoquinase/glicoquinase, PFK-1, piruvato quinase) e seus moduladores.</li>
+      <li>Relacionar os destinos do piruvato ao oxigênio disponível; explicar a fermentação lática e o ciclo de Cori.</li>
+      <li>Aplicar a glicólise à clínica: hiperlactatemia, acidose lática ruminal, deficiências enzimáticas em cães, tubo de fluoreto.</li>
+      <li>Explicar a via das pentoses (NADPH e ribose) e a hemólise oxidativa por cebola, paracetamol e outros agentes.</li></ul></div>
+
+    <h3><span class="tag">4.1</span>A glicose precisa entrar: transportadores GLUT</h3>
+    <p>A glicose é polar e não atravessa a bicamada lipídica sozinha. Ela entra nas células por <strong>transportadores de difusão facilitada</strong>, a família <b>GLUT</b>, sempre a favor do gradiente de concentração e sem gasto de energia. Nos epitélios que precisam absorver glicose contra o gradiente (intestino delgado e túbulo proximal renal), atuam os cotransportadores <b>SGLT</b>, movidos pelo gradiente de Na⁺ (cap. 1 e cap. 3). Cada tecido tem os GLUTs adequados à sua função:</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Transportador</th><th>Onde</th><th>Afinidade (K<sub>m</sub>)</th><th>Função</th></tr></thead>
+      <tbody>
+        <tr><td><b>GLUT1</b></td><td>Hemácias, barreira hematoencefálica, placenta, a maioria dos tecidos</td><td>Alta (≈ 1-2 mM)</td><td>Captação basal e constante, mesmo em glicemia baixa</td></tr>
+        <tr><td><b>GLUT2</b></td><td>Fígado, células β do pâncreas, face basolateral do enterócito e do túbulo renal</td><td>Baixa (≈ 15-20 mM)</td><td>Bidirecional; a entrada acompanha a glicemia. Funciona como “sensor” de glicose no fígado e no pâncreas</td></tr>
+        <tr><td><b>GLUT3</b></td><td>Neurônios</td><td>Muito alta (≈ 1 mM)</td><td>Garante glicose ao cérebro mesmo em hipoglicemia leve</td></tr>
+        <tr><td><b>GLUT4</b></td><td>Músculo esquelético e cardíaco, tecido adiposo</td><td>Média (≈ 5 mM)</td><td><b>Dependente de insulina</b>: fica em vesículas e vai para a membrana quando a insulina age (e também com a contração muscular)</td></tr>
+        <tr><td><b>GLUT5</b></td><td>Borda em escova do enterócito, espermatozoides</td><td>—</td><td>Transporta <b>frutose</b></td></tr>
+        <tr><td><b>SGLT1 / SGLT2</b></td><td>Intestino / túbulo proximal</td><td>—</td><td>Cotransporte com Na⁺ (ativo secundário): absorção e reabsorção</td></tr>
+      </tbody></table></div>
+    <p>Assim que entra, a glicose é <strong>fosforilada</strong> a glicose-6-fosfato (primeira reação da glicólise). A molécula fosforilada tem carga negativa, não é reconhecida pelos GLUTs e fica <b>presa</b> no citosol. Isso também mantém a glicose livre baixa dentro da célula, de modo que o gradiente continua favorecendo a entrada.</p>
+    <div class="note clin"><b>Na clínica: limiar renal e diabetes</b><p>O SGLT2 do túbulo proximal reabsorve toda a glicose filtrada até um limite. Acima do <b>limiar renal</b>, a glicose sobra na urina (<b>glicosúria</b>) e leva água junto (poliúria e polidipsia). O limiar é de cerca de 180 a 220 mg/dL no cão, de 250 a 290 mg/dL no gato e bem mais baixo nos bovinos (≈ 100 a 140 mg/dL). No diabetes mellitus, a falta de insulina deixa o GLUT4 dentro das vesículas: músculo e tecido adiposo não captam glicose, a glicemia sobe e o animal emagrece mesmo comendo muito. Os inibidores de SGLT2 (como a velagliflozina) já são usados no tratamento do diabetes felino.</p></div>
+    <figure class="fig"><img src="img/gl-visao.jpg" loading="lazy" alt="Visão geral da respiração celular: glicólise no citosol, ciclo de Krebs e fosforilação oxidativa na mitocôndria"><figcaption><b>Onde fica a glicólise.</b> A glicose dos alimentos é quebrada até piruvato no <b>citosol</b> (1. Glicólise). Com oxigênio, o piruvato entra na mitocôndria e é oxidado no ciclo de Krebs e na fosforilação oxidativa (cap. 5), com liberação de CO<sub>2</sub> e água.</figcaption></figure>
+
+    <h3><span class="tag">4.2</span>Fase de investimento: reações 1 a 5</h3>
+    <p>A glicólise (do grego <i>glykys</i>, doce, e <i>lysis</i>, quebra) acontece no <strong>citosol</strong> de todas as células do organismo. É a via mais antiga e universal do metabolismo energético: funciona em bactérias, leveduras, plantas e animais, com ou sem oxigênio. As dez reações se dividem em duas fases. Na primeira, a célula <b>gasta 2 ATP</b> para ativar a glicose e quebrá-la em duas trioses-fosfato.</p>
+    <figure class="fig"><img src="img/gl-fase1.jpg" loading="lazy" alt="Reações 1 a 5 da glicólise, de glicose até gliceraldeído-3-fosfato e di-hidroxiacetona-fosfato"><figcaption><b>Fase de investimento.</b> Hexoquinase e fosfofrutoquinase (em vermelho) gastam um ATP cada. A aldolase quebra a frutose-1,6-bisfosfato em duas trioses, e a triose-fosfato isomerase converte a di-hidroxiacetona-fosfato em gliceraldeído-3-fosfato.</figcaption></figure>
+    <ol class="steps">
+      <li><b>1. Hexoquinase: glicose → glicose-6-fosfato</b><span>Transfere o fosfato terminal do ATP para o C6 da glicose (exige Mg²⁺). <b>Gasta 1 ATP</b>. Reação <b>irreversível</b> nas condições da célula. Prende a glicose no citosol. No fígado e no pâncreas, a enzima é a isoforma <b>glicoquinase</b> (hexoquinase IV).</span></li>
+      <li><b>2. Fosfoglicose isomerase: glicose-6-fosfato ⇄ frutose-6-fosfato</b><span>Converte a aldose em cetose, deixando o C1 livre para receber outro fosfato. Reversível.</span></li>
+      <li><b>3. Fosfofrutoquinase-1 (PFK-1): frutose-6-fosfato → frutose-1,6-bisfosfato</b><span>Segundo fosfato, agora no C1. <b>Gasta 1 ATP</b>. <b>Irreversível</b> e principal ponto de controle: é o <b>passo comprometido</b> da glicólise, porque a frutose-1,6-bisfosfato não tem outro destino senão seguir pela via.</span></li>
+      <li><b>4. Aldolase: frutose-1,6-bisfosfato ⇄ di-hidroxiacetona-fosfato + gliceraldeído-3-fosfato</b><span>Quebra a hexose em <b>duas trioses-fosfato</b>, cada uma com um fosfato. É a “lise” da glicólise.</span></li>
+      <li><b>5. Triose-fosfato isomerase: di-hidroxiacetona-fosfato ⇄ gliceraldeído-3-fosfato</b><span>Só o gliceraldeído-3-fosfato (G3P) segue pela via; a isomerase converte a di-hidroxiacetona-fosfato (DHAP) nele. A partir daqui, <b>tudo acontece em dobro</b>: são 2 G3P por glicose. A DHAP também é a ponte com o glicerol e os triglicerídeos (cap. 7).</span></li>
+    </ol>
+
+    <h3><span class="tag">4.3</span>Fase de pagamento: reações 6 a 10</h3>
+    <p>Na segunda fase, cada gliceraldeído-3-fosfato é <b>oxidado</b> e a energia da oxidação é guardada em ATP e NADH. Como são duas trioses por glicose, cada número abaixo vale <b>×2</b>.</p>
+    <figure class="fig"><img src="img/gl-fase2.jpg" loading="lazy" alt="Reações 6 a 10 da glicólise, de gliceraldeído-3-fosfato até piruvato"><figcaption><b>Fase de pagamento.</b> A gliceraldeído-3-fosfato desidrogenase forma NADH; a fosfoglicerato-cinase e a piruvato quinase formam ATP por fosforilação no nível do substrato.</figcaption></figure>
+    <ol class="steps">
+      <li><b>6. Gliceraldeído-3-fosfato desidrogenase (GAPDH): G3P + NAD⁺ + Pi ⇄ 1,3-bisfosfoglicerato + NADH + H⁺</b><span>A única <b>oxidação</b> da glicólise. O aldeído é oxidado, os elétrons vão para o <b>NAD⁺</b> (forma <b>NADH</b>) e a energia liberada prende um <b>fosfato inorgânico</b> (não vem do ATP) numa ligação de alta energia (acil-fosfato). <b>2 NADH por glicose.</b></span></li>
+      <li><b>7. Fosfoglicerato-cinase: 1,3-bisfosfoglicerato + ADP ⇄ 3-fosfoglicerato + ATP</b><span>O fosfato de alta energia passa para o ADP: <b>fosforilação no nível do substrato</b>. <b>2 ATP por glicose</b>; aqui o investimento é “devolvido” e o saldo fica zero.</span></li>
+      <li><b>8. Fosfoglicerato mutase: 3-fosfoglicerato ⇄ 2-fosfoglicerato</b><span>O fosfato muda do C3 para o C2, preparando a próxima reação.</span></li>
+      <li><b>9. Enolase: 2-fosfoglicerato ⇄ fosfoenolpiruvato + H<sub>2</sub>O</b><span>Retira uma molécula de água e cria o <b>fosfoenolpiruvato (PEP)</b>, um dos compostos de maior energia de transferência de fosfato da célula. Exige Mg²⁺ e é <b>inibida pelo fluoreto</b>.</span></li>
+      <li><b>10. Piruvato quinase: fosfoenolpiruvato + ADP → piruvato + ATP</b><span>Segunda fosforilação no nível do substrato. <b>2 ATP por glicose</b>. <b>Irreversível</b> e regulada.</span></li>
+    </ol>
+    <section class="labbox rv" aria-labelledby="glstTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="glstTitle">A glicólise reação a reação</h4></div>
+        <div class="ctrl" style="margin:0"><button class="tbtn" type="button" id="glstPrev" aria-label="Etapa anterior">←</button><button class="tbtn" type="button" id="glstNext">Próxima etapa →</button></div></header>
+      <div class="svgwrap"><svg id="glstSvg" viewBox="0 0 600 340" role="img" aria-label="Reação atual da glicólise, esqueleto de carbonos e contadores de ATP e NADH"></svg></div>
+      <div class="readout" id="glstOut" aria-live="polite"></div>
+    </section>
+    <div class="tbl min"><table>
+      <thead><tr><th>Nº</th><th>Enzima</th><th>Produto</th><th>ATP / NADH (por glicose)</th><th>Reversível?</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>Hexoquinase / glicoquinase</td><td>Glicose-6-fosfato</td><td>−1 ATP</td><td><b>Não</b> (regulada)</td></tr>
+        <tr><td>2</td><td>Fosfoglicose isomerase</td><td>Frutose-6-fosfato</td><td>—</td><td>Sim</td></tr>
+        <tr><td>3</td><td>Fosfofrutoquinase-1</td><td>Frutose-1,6-bisfosfato</td><td>−1 ATP</td><td><b>Não</b> (principal controle)</td></tr>
+        <tr><td>4</td><td>Aldolase</td><td>DHAP + G3P</td><td>—</td><td>Sim</td></tr>
+        <tr><td>5</td><td>Triose-fosfato isomerase</td><td>G3P (2 por glicose)</td><td>—</td><td>Sim</td></tr>
+        <tr><td>6</td><td>G3P desidrogenase</td><td>1,3-bisfosfoglicerato</td><td>+2 NADH</td><td>Sim</td></tr>
+        <tr><td>7</td><td>Fosfoglicerato-cinase</td><td>3-fosfoglicerato</td><td>+2 ATP</td><td>Sim</td></tr>
+        <tr><td>8</td><td>Fosfoglicerato mutase</td><td>2-fosfoglicerato</td><td>—</td><td>Sim</td></tr>
+        <tr><td>9</td><td>Enolase</td><td>Fosfoenolpiruvato</td><td>— (sai H<sub>2</sub>O)</td><td>Sim</td></tr>
+        <tr><td>10</td><td>Piruvato quinase</td><td>Piruvato</td><td>+2 ATP</td><td><b>Não</b> (regulada)</td></tr>
+      </tbody></table></div>
+    <div class="note mem"><b>Saldo da glicólise</b><p>Glicose + 2 NAD⁺ + 2 ADP + 2 Pi → 2 piruvato + 2 NADH + 2 H⁺ + 2 ATP + 2 H<sub>2</sub>O. São <b>4 ATP formados − 2 ATP gastos = 2 ATP líquidos</b> e <b>2 NADH</b>. Nenhum CO<sub>2</sub> é liberado e nenhum O<sub>2</sub> é consumido: os 6 carbonos da glicose continuam todos nos 2 piruvatos.</p></div>
+    <div class="note trap"><b>Pegadinha</b><p>“A glicólise produz 4 ATP” está incompleto: produz 4, mas gasta 2, e o <b>saldo é 2</b>. Outra armadilha: os ATP da glicólise vêm de <b>fosforilação no nível do substrato</b> (reações 7 e 10), não da cadeia respiratória. Por isso a glicólise funciona sem oxigênio.</p></div>
+    <div class="note lab"><b>Na prática: o tubo de tampa cinza</b><p>As hemácias e os leucócitos continuam consumindo glicose pela glicólise depois da coleta: num tubo comum, sem separar o soro, a glicose cai de 5 a 10% por hora em temperatura ambiente, e o animal parece hipoglicêmico. O tubo de <b>fluoreto de sódio</b> (tampa cinza) <b>inibe a enolase</b> e bloqueia a glicólise das células, preservando a glicose (e o lactato) da amostra. Alternativa: centrifugar e separar o plasma em até 30 minutos.</p></div>
+    <div class="note clin"><b>Na clínica: arsênico</b><p>O <b>arsenato</b> (pentavalente) se parece com o fosfato e entra no lugar dele na reação 6. O produto, 1-arseno-3-fosfoglicerato, se desfaz espontaneamente em 3-fosfoglicerato, e a reação 7 é “pulada”: a glicólise continua, mas <b>sem formar ATP</b>. Já o <b>arsenito</b> (trivalente) bloqueia enzimas com ácido lipoico, como a piruvato desidrogenase (cap. 5). Bovinos que lambem restos de banhos carrapaticidas antigos ou de madeira tratada com arseniato apresentam gastroenterite grave e choque.</p></div>
+
+    <h3><span class="tag">4.4</span>Regulação: as três reações irreversíveis</h3>
+    <p>Das dez reações, três têm variação de energia livre muito negativa e funcionam como “válvulas de mão única”: as catalisadas pela <b>hexoquinase</b>, pela <b>PFK-1</b> e pela <b>piruvato quinase</b>. São elas que a célula regula, e são elas que a gliconeogênese precisa contornar com outras enzimas (cap. 6).</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Enzima</th><th>Ativadores</th><th>Inibidores</th><th>Sentido fisiológico</th></tr></thead>
+      <tbody>
+        <tr><td><b>Hexoquinase</b> (I a III)</td><td>—</td><td>Glicose-6-fosfato (o próprio produto)</td><td>Se a G6P acumula, a célula não precisa de mais glicose</td></tr>
+        <tr><td><b>Glicoquinase</b> (fígado, célula β)</td><td>Glicose alta; insulina aumenta sua síntese</td><td>Proteína reguladora (frutose-6-fosfato) que a prende no núcleo em jejum</td><td>K<sub>m</sub> alto (≈ 8-10 mM) e não inibida pela G6P: só trabalha muito depois da refeição, quando há glicose sobrando para guardar</td></tr>
+        <tr><td><b>PFK-1</b></td><td>AMP, ADP, <b>frutose-2,6-bisfosfato</b></td><td><b>ATP</b> em excesso, <b>citrato</b>, H⁺ (pH baixo)</td><td>Acelera quando falta energia; freia quando há ATP e citrato (Krebs abastecido) ou acidose</td></tr>
+        <tr><td><b>Piruvato quinase</b></td><td>Frutose-1,6-bisfosfato (ativação “por antecipação”)</td><td>ATP, alanina, acetil-CoA; no fígado, fosforilação pelo glucagon</td><td>No jejum, o fígado desliga a glicólise para fazer gliconeogênese</td></tr>
+      </tbody></table></div>
+    <p>A <b>frutose-2,6-bisfosfato</b> (não confundir com a 1,6-bisfosfato da via) é o elo com os hormônios: a <b>insulina</b> aumenta sua concentração no fígado e acelera a glicólise; o <b>glucagon</b> a diminui, freia a glicólise e libera a gliconeogênese. Os detalhes desse controle hormonal estão no cap. 6.</p>
+    <div class="cards">
+      <div class="card"><span class="role">Músculo</span><h5>Hexoquinase</h5><p>K<sub>m</sub> muito baixo (&lt; 0,1 mM): saturada mesmo em glicemia normal. O músculo usa a glicose que precisa, quando precisa, e o freio é o acúmulo de G6P.</p></div>
+      <div class="card"><span class="role">Fígado</span><h5>Glicoquinase</h5><p>Trabalha em proporção à glicemia do sangue portal. Depois da refeição, captura o excesso para fazer glicogênio e gordura; em jejum, quase para e deixa a glicose para os outros tecidos.</p></div>
+      <div class="card"><span class="role">Gato</span><h5>Quase sem glicoquinase</h5><p>O fígado felino tem atividade de glicoquinase muito baixa. Depois de uma refeição rica em carboidrato, o gato demora mais a baixar a glicemia: um dos motivos pelos quais dietas com muito carboidrato não são indicadas para ele.</p></div>
+    </div>
+    <div class="note clin"><b>Na clínica: deficiências hereditárias em cães e gatos</b><ul>
+      <li><b>Deficiência de piruvato quinase</b> (Basenji, Beagle, West Highland White Terrier, Cairn Terrier; gatos Abissínio e Somali): a hemácia, que depende só da glicólise, fica sem ATP, perde a forma e é destruída. Causa <b>anemia hemolítica crônica</b> regenerativa; em cães evolui com mielofibrose e osteosclerose.</li>
+      <li><b>Deficiência de fosfofrutoquinase muscular</b> (English Springer Spaniel, Cocker Spaniel, Whippet): crises de <b>hemólise com hemoglobinúria</b> depois de exercício intenso, latidos ou calor, quando a hiperventilação causa alcalose e as hemácias, já fragilizadas, se rompem. Também causa intolerância ao exercício e cãibras. Manejo: evitar excitação, exercício extenuante e ambientes quentes.</li>
+      <li>Há testes genéticos para as duas, usados na seleção de reprodutores.</li></ul></div>
+
+    <h3><span class="tag">4.5</span>Destinos do piruvato e fermentação lática</h3>
+    <p>O piruvato é uma encruzilhada. O caminho depende do tecido, do oxigênio e do estado nutricional:</p>
+    <div class="cards">
+      <div class="card"><span class="role">Com O<sub>2</sub> e mitocôndria</span><h5>Acetil-CoA</h5><p>A piruvato desidrogenase, na mitocôndria, converte o piruvato em acetil-CoA + CO<sub>2</sub>, que entra no ciclo de Krebs. Rende cerca de 30 a 32 ATP por glicose no total (cap. 5).</p></div>
+      <div class="card"><span class="role">Sem O<sub>2</sub> suficiente</span><h5>Lactato</h5><p>A <b>lactato desidrogenase (LDH)</b> reduz o piruvato a lactato, usando o NADH e devolvendo o <b>NAD⁺</b>.</p></div>
+      <div class="card"><span class="role">Transaminação</span><h5>Alanina</h5><p>A alanina aminotransferase (ALT) passa um grupo amino para o piruvato. O músculo envia alanina ao fígado (ciclo glicose-alanina, cap. 10).</p></div>
+      <div class="card"><span class="role">Jejum (fígado, rim)</span><h5>Oxaloacetato</h5><p>A piruvato carboxilase forma oxaloacetato, primeiro passo da gliconeogênese (cap. 6).</p></div>
+    </div>
+    <h4>Por que fazer lactato?</h4>
+    <p>A célula tem pouco NAD⁺, e a reação 6 consome NAD⁺ a cada triose. Com oxigênio, o NADH devolve seus elétrons à cadeia respiratória e o NAD⁺ é regenerado na mitocôndria. Sem oxigênio (ou sem mitocôndria), o NAD⁺ acabaria em segundos e a glicólise pararia na reação 6. A <b>fermentação lática</b> resolve isso: a LDH usa o NADH para reduzir o piruvato, e o NAD⁺ volta para a GAPDH. O lactato em si não rende energia; ele é o “preço” para manter os 2 ATP da glicólise.</p>
+    <figure class="fig"><img src="img/gl-anaerobica.jpg" loading="lazy" alt="Glicólise anaeróbica: glicose forma dois ácidos pirúvicos com 2 NADH e 2 ATP, e cada piruvato é reduzido a ácido lático"><figcaption><b>Glicólise anaeróbica.</b> Os 2 NADH formados na quebra da glicose (no esquema, “NADH<sub>2</sub>” equivale a NADH + H⁺) são usados para reduzir os 2 piruvatos a lactato, regenerando o NAD⁺. Saldo: 2 ATP por glicose.</figcaption></figure>
+    <div class="tbl"><table>
+      <thead><tr><th></th><th>Glicólise anaeróbica (até lactato)</th><th>Glicólise aeróbica + mitocôndria</th></tr></thead>
+      <tbody>
+        <tr><td>Produto final</td><td>2 lactato</td><td>6 CO<sub>2</sub> + 6 H<sub>2</sub>O</td></tr>
+        <tr><td>ATP por glicose</td><td><b>2</b></td><td><b>≈ 30-32</b> (livros antigos e a conferência: 36-38)</td></tr>
+        <tr><td>Velocidade</td><td>Muito rápida</td><td>Mais lenta, limitada pela oferta de O<sub>2</sub></td></tr>
+        <tr><td>Onde predomina</td><td>Hemácias, músculo em esforço máximo, retina, medula renal, tecidos hipóxicos</td><td>Cérebro, coração, músculo em repouso e exercício moderado, fígado</td></tr>
+      </tbody></table></div>
+    <section class="labbox rv" aria-labelledby="gloxTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="gloxTitle">Com ou sem oxigênio?</h4></div></header>
+      <div class="ctrl" id="gloxBtns" role="group" aria-label="Tipo de célula"><button class="tbtn" type="button" data-k="mus" aria-pressed="true">Fibra muscular</button><button class="tbtn" type="button" data-k="hem">Hemácia</button></div>
+      <div class="ctrl"><label>Oferta de O₂ à mitocôndria: <b id="gloxVal">100%</b> <input type="range" id="gloxO2" min="0" max="100" step="5" value="100" aria-label="Oferta de oxigênio"></label></div>
+      <div class="svgwrap"><svg id="gloxSvg" viewBox="0 0 600 300" role="img" aria-label="Destino do piruvato e rendimento de ATP conforme o oxigênio"></svg></div>
+      <div class="readout" id="gloxOut" aria-live="polite"></div>
+    </section>
+    <h4>Lactato no exercício e o ciclo de Cori</h4>
+    <p>No esforço máximo (galope de corrida, cão de trenó no arranque, fuga), as fibras musculares rápidas (tipo IIb/IIx) produzem ATP pela glicólise muito mais depressa do que o oxigênio chega à mitocôndria. O lactato sai da fibra e vai para o sangue. Em cavalos de corrida, o lactato sanguíneo passa de menos de 1 mmol/L em repouso para 20 a 30 mmol/L depois de uma corrida. O lactato <b>não é lixo</b>: o coração e as fibras oxidativas o usam como combustível (reconvertem em piruvato), e o <b>fígado</b> o transforma de volta em glicose.</p>
+    <ol class="steps">
+      <li><b>Músculo</b><span>Glicose (ou glicogênio) → 2 lactato + 2 ATP.</span></li>
+      <li><b>Sangue</b><span>O lactato vai ao fígado.</span></li>
+      <li><b>Fígado</b><span>Gliconeogênese: 2 lactato → glicose, <b>gastando 6 ATP</b> (energia vinda da oxidação de ácidos graxos).</span></li>
+      <li><b>Volta ao músculo</b><span>A glicose volta pelo sangue. O ciclo “empresta” trabalho ao fígado: custa mais do que rende (6 − 2), mas permite ao músculo continuar se contraindo.</span></li>
+    </ol>
+    <div class="note trap"><b>Pegadinha</b><p>A acidez do exercício intenso não vem do “ácido lático” como molécula pronta: no pH do sangue ele está quase todo dissociado em <b>lactato</b> + H⁺, e os prótons vêm principalmente da hidrólise acelerada do ATP. Lactato alto é um <b>marcador</b> de metabolismo anaeróbico, e a dor muscular tardia (no dia seguinte) se deve a microlesões, não a lactato acumulado.</p></div>
+    <div class="note clin"><b>Na clínica: lactato como sinal de alarme</b><p>Num animal doente, lactato alto (<b>hiperlactatemia</b>; em cães, acima de cerca de 2,5 mmol/L) indica, na maioria das vezes, que os tecidos estão recebendo pouco oxigênio: <b>choque</b> hipovolêmico ou séptico, anemia grave, torção e isquemia de órgãos. É medido em minutos com lactímetro portátil. Na <b>dilatação-vólvulo gástrico</b> do cão, lactato muito alto na chegada sugere necrose da parede gástrica, e a queda do lactato com fluidoterapia indica boa resposta. Medir o lactato em série vale mais que um valor isolado.</p></div>
+
+    <h3><span class="tag">4.6</span>Acidose lática ruminal</h3>
+    <p>No rúmen não há oxigênio: toda a energia que os microrganismos tiram da glicose vem da glicólise e da fermentação. Em dieta de forragem, a fermentação é lenta e produz AGV; a saliva, rica em bicarbonato e produzida em grande volume durante a ruminação, tampona o pH entre 6 e 7. A situação muda quando o animal ingere <b>muito carboidrato rapidamente fermentável</b> sem adaptação: grão, milho moído, pão, mandioca, melaço, frutas, soro de leite.</p>
+    <ol class="steps">
+      <li><b>Fermentação explosiva</b><span>Com amido sobrando, as bactérias amilolíticas se multiplicam. Os AGV se acumulam e o pH cai abaixo de 5,5.</span></li>
+      <li><b>Virada para lactato</b><span><i>Streptococcus bovis</i> cresce muito depressa e, com pH baixo e excesso de açúcar, passa a fazer <b>fermentação lática</b> (a mesma lógica da LDH: regenerar NAD⁺ rápido). Depois, lactobacilos tolerantes ao ácido dominam e o pH cai abaixo de 5. As bactérias que consomem lactato e as celulolíticas e os protozoários morrem.</span></li>
+      <li><b>Rúmen hiperosmótico</b><span>Lactato e glicose acumulados puxam água do sangue para o rúmen: <b>desidratação</b> grave, rúmen distendido e com conteúdo líquido, atonia ruminal e diarreia.</span></li>
+      <li><b>Acidose sistêmica</b><span>O lactato absorvido, em especial o <b>D-lactato</b>, que o animal metaboliza devagar, causa acidose metabólica: depressão, ataxia, decúbito, choque e morte em casos graves.</span></li>
+      <li><b>Sequelas</b><span>Ruminite química, por onde entram bactérias (<i>Fusobacterium necrophorum</i>) que formam <b>abscessos hepáticos</b>; <b>laminite</b>; polioencefalomalácia; micose ruminal.</span></li>
+    </ol>
+    <div class="note clin"><b>Na produção: aguda × subaguda</b><ul>
+      <li><b>Aguda</b> (pH &lt; 5): após acesso acidental ao depósito de grão ou troca brusca de dieta. Tratamento conforme a gravidade: antiácidos orais (óxido ou hidróxido de magnésio) e transfaunação nos casos leves; <b>fluidoterapia</b> e bicarbonato de sódio intravenoso, lavagem ruminal ou <b>ruminotomia</b> para retirar o conteúdo nos graves.</li>
+      <li><b>Subaguda (SARA)</b> (pH entre ≈ 5,2 e 5,8 por várias horas ao dia): comum em vacas leiteiras de alta produção e em confinamento. Sinais discretos: queda da gordura do leite, fezes amolecidas e com grãos, consumo irregular, laminite subclínica.</li>
+      <li><b>Prevenção</b>: adaptar ao concentrado aos poucos (2 a 4 semanas), fibra efetiva suficiente para ruminar, tamponantes (bicarbonato de sódio) e <b>ionóforos</b> (monensina, lasalocida), que inibem bactérias Gram-positivas como o <i>S. bovis</i>.</li>
+      <li>O mesmo mecanismo, no ceco, explica a <b>sobrecarga de grão em equinos</b> com laminite (cap. 3). Em <b>bezerros</b> com diarreia, a fermentação de leite não digerido no intestino produz D-lactato, que causa depressão e fraqueza além da desidratação.</li></ul></div>
+
+    <h3><span class="tag">4.7</span>A hemácia e a via das pentoses-fosfato</h3>
+    <h4>A hemácia vive só de glicólise</h4>
+    <p>A hemácia madura dos mamíferos não tem núcleo nem mitocôndrias. Todo o seu ATP vem da glicólise anaeróbica, e o produto final é sempre <b>lactato</b>, mesmo nadando em oxigênio. Esse ATP sustenta a Na⁺/K⁺-ATPase e a forma bicôncava; sem ele a célula incha, fica rígida e é retirada pelo baço. Dois desvios da glicólise são próprios da hemácia:</p>
+    <ul>
+      <li><b>Desvio de Rapoport-Luebering</b>: parte do 1,3-bisfosfoglicerato vira <b>2,3-bisfosfoglicerato (2,3-BPG)</b>, que se liga à hemoglobina e diminui sua afinidade pelo O<sub>2</sub>, facilitando a entrega aos tecidos (cap. 17). O custo é deixar de formar o ATP da reação 7. Cães, cavalos e suínos têm muito 2,3-BPG; gatos e ruminantes têm pouco, e a hemoglobina deles já tem baixa afinidade intrínseca.</li>
+      <li><b>NADH da glicólise</b> também alimenta a <b>metemoglobina redutase</b>, que reconverte o ferro oxidado (Fe³⁺, metemoglobina, que não transporta O<sub>2</sub>) a Fe²⁺.</li>
+    </ul>
+    <h4>Via das pentoses-fosfato</h4>
+    <p>Também chamada desvio das hexoses-monofosfato, é um ramo que sai da <b>glicose-6-fosfato</b> no citosol. Não produz ATP; produz duas coisas que a glicólise não faz:</p>
+    <div class="flow">
+      <div class="lane up"><h5>Fase oxidativa (irreversível)</h5><ol><li><b>Glicose-6-fosfato desidrogenase (G6PD)</b>, enzima limitante: G6P → 6-fosfogliconolactona + <b>NADPH</b></li><li>Hidrólise e descarboxilação oxidativa: → ribulose-5-fosfato + CO<sub>2</sub> + <b>NADPH</b></li><li>Saldo: 2 NADPH por G6P</li><li>Regulada pela razão NADP⁺/NADPH: quanto mais NADPH é gasto, mais rápido a via anda</li></ol></div>
+      <div class="lane down"><h5>Fase não oxidativa (reversível)</h5><ol><li>Ribulose-5-P → <b>ribose-5-fosfato</b> (nucleotídeos, DNA, RNA, ATP, coenzimas)</li><li><b>Transcetolase</b> (precisa de tiamina, vitamina B1) e <b>transaldolase</b> rearranjam açúcares de 3 a 7 carbonos</li><li>O excesso volta à glicólise como frutose-6-P e G3P</li></ol></div>
+    </div>
+    <div class="cards">
+      <div class="card"><span class="role">NADPH</span><h5>Defesa antioxidante</h5><p>A glutationa redutase usa NADPH para manter a <b>glutationa reduzida (GSH)</b>, que a glutationa peroxidase (dependente de <b>selênio</b>) usa para destruir H<sub>2</sub>O<sub>2</sub>. Na hemácia, a via das pentoses é a <b>única</b> fonte de NADPH.</p></div>
+      <div class="card"><span class="role">NADPH</span><h5>Biossíntese redutora</h5><p>Síntese de ácidos graxos (fígado, tecido adiposo, <b>glândula mamária</b> em lactação), colesterol e hormônios esteroides (adrenal, gônadas). Esses tecidos têm a via muito ativa.</p></div>
+      <div class="card"><span class="role">NADPH</span><h5>Defesa imune</h5><p>A NADPH oxidase dos neutrófilos e macrófagos gera superóxido para matar bactérias fagocitadas (explosão respiratória).</p></div>
+      <div class="card"><span class="role">Ribose-5-P</span><h5>Nucleotídeos</h5><p>Células que se dividem rápido (medula óssea, mucosa intestinal, tumores) usam a via para fazer DNA e RNA.</p></div>
+    </div>
+    <div class="note lab"><b>Na prática: transcetolase e tiamina</b><p>A atividade da transcetolase das hemácias, medida com e sem adição de tiamina, é um teste clássico de deficiência de vitamina B1. Em ruminantes, a deficiência de tiamina (por tiaminases de bactérias do rúmen em dietas ricas em concentrado, ou plantas como samambaia em equinos) causa <b>polioencefalomalácia</b>, com cegueira, opistótono e convulsões, que responde à tiamina injetável quando tratada cedo.</p></div>
+    <h4>Hemólise oxidativa: quando falta NADPH ou sobra oxidante</h4>
+    <p>Se a carga de oxidantes supera a capacidade de regenerar GSH, os oxidantes atacam a hemoglobina e a membrana. A hemoglobina oxidada se desnatura e precipita em <b>corpúsculos de Heinz</b> (vistos com novo azul de metileno); a membrana lesada forma <b>excentrócitos</b>. O baço retira essas células e o resultado é <b>anemia hemolítica</b>, muitas vezes com <b>metemoglobinemia</b> (sangue cor de chocolate, mucosas acastanhadas ou cianóticas).</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Agente</th><th>Espécie</th><th>Mecanismo e sinais</th></tr></thead>
+      <tbody>
+        <tr><td><b>Cebola, alho, cebolinha, alho-poró</b> (crus, cozidos, desidratados, em pó em comida de gente)</td><td>Cão e principalmente <b>gato</b>; também bovinos e equinos</td><td>Dissulfetos (n-propil-dissulfeto) e tiossulfatos oxidam a hemoglobina. Em cães, cerca de 0,5% do peso corporal em cebola já causa alterações; o gato é mais sensível. Anemia com corpúsculos de Heinz de 1 a 5 dias depois; urina escura</td></tr>
+        <tr><td><b>Paracetamol</b> (acetaminofeno)</td><td><b>Gato</b> (um comprimido pode matar); cão em doses altas</td><td>O gato tem pouca glicuronidação, e o paracetamol vai para a via que forma o metabólito oxidante <b>NAPQI</b>, que esgota a GSH. Metemoglobinemia em horas, edema de face e patas, dispneia, hemólise com Heinz; no cão predomina a lesão hepática. Antídoto: <b>N-acetilcisteína</b> (repõe a GSH), além de oxigênio e vitamina C</td></tr>
+        <tr><td><b>Folhas murchas de bordo-vermelho</b> (<i>Acer rubrum</i>)</td><td>Equinos</td><td>Ácido gálico e derivados oxidantes; metemoglobinemia e hemólise grave</td></tr>
+        <tr><td><b>Brássicas</b> (couve, nabo forrageiro, colza)</td><td>Ruminantes</td><td>S-metilcisteína sulfóxido, convertido no rúmen em dimetil-dissulfeto: anemia com Heinz</td></tr>
+        <tr><td><b>Zinco</b> (moedas, porcas de metal engolidas), <b>cobre</b> acumulado (ovinos)</td><td>Cão; ovinos</td><td>Lesão oxidativa da hemácia; crise hemolítica</td></tr>
+        <tr><td><b>Deficiência de G6PD</b></td><td>Descrita em cavalo (Saddlebred) e raramente em cães</td><td>Sem NADPH, qualquer oxidante causa hemólise; muito comum em seres humanos</td></tr>
+      </tbody></table></div>
+    <div class="note clin"><b>Por que o gato sofre mais</b><p>A hemoglobina felina tem <b>8 grupos sulfidrila</b> reativos por molécula (a de outras espécies tem 2 a 4), que oxidam com facilidade; o baço do gato é menos eficiente em retirar os corpúsculos de Heinz; e o fígado tem pouca glicuronidação para eliminar fármacos fenólicos. Por isso não se usa paracetamol, nem azul de metileno repetido, nem alimentos com cebola ou alho em gatos. No caso clínico do início da conferência, um Poodle diabético recebeu <b>paracetamol 750 mg</b> do tutor: no cão, doses altas também lesam o fígado e as hemácias.</p></div>
+
+    <h3><span class="tag">4.8</span>Outros açúcares que entram na glicólise</h3>
+    <p>A dieta traz frutose (sacarose, frutas, mel) e galactose (lactose). Elas são convertidas em intermediários da glicólise, principalmente no <b>fígado</b>:</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Açúcar</th><th>Caminho</th><th>Entra na glicólise como</th></tr></thead>
+      <tbody>
+        <tr><td><b>Frutose</b> (fígado)</td><td>Frutoquinase → frutose-1-fosfato → aldolase B → DHAP + gliceraldeído; o gliceraldeído é fosforilado (trioquinase)</td><td>DHAP e G3P, <b>depois da PFK-1</b></td></tr>
+        <tr><td><b>Frutose</b> (músculo, tecido adiposo)</td><td>Hexoquinase → frutose-6-fosfato</td><td>Frutose-6-fosfato</td></tr>
+        <tr><td><b>Galactose</b></td><td>Galactoquinase → galactose-1-P → uridiltransferase (troca com UDP-glicose) → glicose-1-P → fosfoglicomutase. A UDP-galactose volta a UDP-glicose pela <b>epimerase</b> (C4)</td><td>Glicose-6-fosfato</td></tr>
+        <tr><td><b>Manose</b></td><td>Hexoquinase → manose-6-P → isomerase</td><td>Frutose-6-fosfato</td></tr>
+        <tr><td><b>Glicerol</b> (dos triglicerídeos)</td><td>Glicerol quinase (fígado) → glicerol-3-P → desidrogenase</td><td>DHAP (cap. 7)</td></tr>
+        <tr><td><b>Glicogênio</b></td><td>Glicogênio fosforilase → glicose-1-P → glicose-6-P, sem gastar ATP (cap. 6)</td><td>Glicose-6-fosfato</td></tr>
+      </tbody></table></div>
+    <div class="note deep"><b>Frutose “fura a fila”</b><p>No fígado, a frutose entra na via <b>depois</b> da PFK-1, o principal ponto de controle. Por isso é metabolizada sem freio: em excesso, gera muito acetil-CoA e glicerol-3-fosfato e favorece a síntese de triglicerídeos (fígado gorduroso) e de ácido úrico. Em equinos, a frutose dos frutanos não age assim, porque é fermentada no ceco antes. O gato tem atividade baixa das enzimas hepáticas que metabolizam frutose, e parte da frutose ingerida aparece na urina.</p></div>
+    <div class="note clin"><b>Na clínica: catarata diabética</b><p>Nos tecidos que captam glicose sem insulina (cristalino, nervos, rim), a glicose em excesso é reduzida a <b>sorbitol</b> pela aldose redutase (usando NADPH). O sorbitol não sai da célula, puxa água e opacifica o cristalino. Cerca de 75 a 80% dos <b>cães diabéticos</b> desenvolvem catarata no primeiro ano de doença, muitas vezes em poucas semanas. Em gatos diabéticos a catarata é rara, porque o cristalino do gato adulto tem pouca atividade de aldose redutase. Pelo mesmo mecanismo, a galactose em excesso forma galactitol, e a <b>galactosemia</b> causa catarata.</p></div>
+    <div class="note mem"><b>Resumo do capítulo</b><p>Glicose entra por GLUT → hexoquinase (−1 ATP) → isomerase → <b>PFK-1</b> (−1 ATP, controle) → aldolase → 2 trioses → GAPDH (+2 NADH) → fosfoglicerato-cinase (+2 ATP) → mutase → enolase (fluoreto inibe) → <b>piruvato quinase</b> (+2 ATP) → 2 piruvato. Saldo: <b>2 ATP + 2 NADH</b>. Sem O<sub>2</sub>: piruvato → lactato para regenerar NAD⁺. Com O<sub>2</sub>: piruvato → acetil-CoA → Krebs (cap. 5). Desvio da G6P para a via das pentoses: NADPH (antioxidante) e ribose.</p></div>
+
+    <div class="quiz" data-quiz="glicolise"></div>
+  </div>
+</section>

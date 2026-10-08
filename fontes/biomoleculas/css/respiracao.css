@@ -1,0 +1,9 @@
+/* capítulo 17 · respiracao */
+.re-sliders{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:6px 16px;margin:6px 0 10px;font-family:var(--f-display);font-size:.92rem}
+.re-sliders label.re-sl{display:block;padding:4px 0}
+.re-sliders output{font-family:var(--f-mono);font-weight:500;color:var(--hema);margin-left:4px}
+.re-sliders input[type=range]{display:block;width:100%;height:24px;accent-color:var(--hema);margin-top:4px}
+.re-kv{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:6px;margin-top:8px}
+.re-kv span{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:4px 8px;font-size:.88rem}
+.re-kv span b{font-family:var(--f-mono);font-weight:500}
+#hbSvg{touch-action:pan-y}

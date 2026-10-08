@@ -39,10 +39,11 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
       T(svg,lx,ly+6,n,{fs:j===2?18:19,a:anc,w:cur?800:600,fill:cur?'var(--eosin)':'var(--ink)'})});
     /* centro: carbonos */
     const cTxt=i===0?'2C + 4C':i===9?'× 2 por glicose':CARB[i-1];
-    T(svg,CX,CY+(i===9?6:10),cTxt,{fs:i===9?22:30,w:800,fill:'var(--hema)'});
-    if(i>=1&&i<=8)T(svg,CX,CY+38,'no intermediário',{fs:18,w:500,fill:'var(--muted)'});
-    /* produtos da etapa (dentro do anel) */
-    const out=SAI[i]||[];if(out.length){const am=-112.5+45*(i-0.5);out.forEach((o,k)=>{const [bx,by]=P(am,R-44-k*30);
+    const out=SAI[i]||[];
+    T(svg,CX,CY+(i===9?6:out.length?-8:10),cTxt,{fs:i===9?22:30,w:800,fill:'var(--hema)'});
+    if(i>=1&&i<=8&&!out.length)T(svg,CX,CY+38,'no intermediário',{fs:18,w:500,fill:'var(--muted)'});
+    /* produtos da etapa (dentro do anel, em linha) */
+    if(out.length){out.forEach((o,k)=>{const bx=CX+(k-(out.length-1)/2)*90,by=CY+30;
       E('rect',{x:bx-40,y:by-14,width:80,height:28,rx:14,fill:'var(--amber-soft)',stroke:'var(--amber)','stroke-width':2},svg);
       const t=T(svg,bx,by+6,'+'+o,{fs:18,w:800,fill:'var(--ink)'});
       if(!reduce){E('animate',{attributeName:'opacity',from:0,to:1,dur:'.5s',fill:'freeze'},t)}})}
@@ -74,6 +75,11 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
     for(let x=6;x<600;x+=14){E('circle',{cx:x,cy:100,r:6,fill:'var(--bone-2)'},s);E('circle',{cx:x,cy:160,r:6,fill:'var(--bone-2)'},s)}
     /* prótons no espaço intermembranas, proporcionais ao gradiente */
     const n=Math.round(3+c.g*26);for(let j=0;j<n;j++){const x=18+((j*97)%560),y=40+((j*37)%44);E('circle',{cx:x,cy:y,r:6,fill:'var(--sky)',opacity:.85},s)}
+    /* via de elétrons */
+    const pth=`M${X.I},204 L${X.I},130 L${X.Q},128 L${X.III},130 L${X.c},82 L${X.IV},130 L${X.IV},204`;
+    const ep=E('path',{d:pth,fill:'none',stroke:c.e>0?'var(--eosin)':'var(--line)','stroke-width':c.e>.5?4:2.5,'stroke-dasharray':'8 7',opacity:c.e>0?.95:.6},s);
+    if(c.blk==='I'){E('path',{d:`M${X.II},204 L${X.II},140 L${X.Q},128`,fill:'none',stroke:'var(--eosin)','stroke-width':3,'stroke-dasharray':'8 7'},s)}
+    if(c.e>0&&!reduce){E('animate',{attributeName:'stroke-dashoffset',from:60,to:0,dur:(1.6-c.e)+'s',repeatCount:'indefinite'},ep)}
     /* complexos */
     const box=(x,w,y1,y2,lab,col,soft)=>{E('rect',{x:x-w/2,y:y1,width:w,height:y2-y1,rx:12,fill:soft,stroke:col,'stroke-width':2.5},s);T(s,x,(y1+y2)/2+8,lab,{fs:22,w:800,fill:col})};
     box(X.I,62,74,186,'I','var(--sky)','var(--sky-soft)');
@@ -88,14 +94,9 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
     E('ellipse',{cx:X.ATP,cy:210,rx:42,ry:22,fill:'var(--eosin-soft)',stroke:'var(--eosin)','stroke-width':2.5},s);
     T(s,X.ATP,216,'F₁',{fs:18,w:800,fill:'var(--eosin)'});T(s,X.ATP,136,'F₀',{fs:18,w:800,fill:'var(--eosin)'});
     /* substratos */
-    T(s,X.I,228,'NADH',{fs:18,w:700});T(s,X.II-6,228,'FADH₂',{fs:18,w:700,a:'end',extra:{dx:0}});
+    T(s,X.I,228,'NADH',{fs:18,w:700});T(s,X.II+15,228,'FADH₂',{fs:18,w:700});
     const o2c=c.blk==='O2'?'var(--bad)':'var(--ink)';T(s,X.IV,226,'O₂ → H₂O',{fs:18,w:700,fill:o2c});
     T(s,592,214,'ATP',{fs:19,w:800,a:'end',fill:c.atp>.2?'var(--ok)':'var(--muted)'});
-    /* via de elétrons */
-    const pth=`M${X.I},204 L${X.I},130 L${X.Q},128 L${X.III},130 L${X.c},82 L${X.IV},130 L${X.IV},204`;
-    const ep=E('path',{d:pth,fill:'none',stroke:c.e>0?'var(--eosin)':'var(--line)','stroke-width':c.e>.5?4:2.5,'stroke-dasharray':'8 7',opacity:c.e>0?.95:.6},s);
-    if(c.blk==='I'){E('path',{d:`M${X.II},204 L${X.II},140 L${X.Q},128`,fill:'none',stroke:'var(--eosin)','stroke-width':3,'stroke-dasharray':'8 7'},s)}
-    if(c.e>0&&!reduce){E('animate',{attributeName:'stroke-dashoffset',from:60,to:0,dur:(1.6-c.e)+'s',repeatCount:'indefinite'},ep)}
     /* bloqueios */
     const xMark=(x,y)=>{E('circle',{cx:x,cy:y,r:20,fill:'var(--bad-soft)',stroke:'var(--bad)','stroke-width':3},s);
       E('path',{d:`M${x-9},${y-9} L${x+9},${y+9} M${x+9},${y-9} L${x-9},${y+9}`,stroke:'var(--bad)','stroke-width':4,fill:'none'},s)};

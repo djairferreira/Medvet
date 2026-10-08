@@ -1,0 +1,552 @@
+[
+{
+"c": "transporte",
+"q": "Qual molécula atravessa a bicamada lipídica pura com maior facilidade?",
+"o": [
+"O₂",
+"Glicose",
+"Na⁺",
+"Albumina"
+],
+"e": "Gases pequenos e apolares dissolvem-se no miolo hidrofóbico e difundem rapidamente."
+},
+{
+"c": "transporte",
+"q": "Por que os íons praticamente não atravessam a bicamada lipídica sem ajuda de proteínas?",
+"o": [
+"A carga e a camada de hidratação os mantêm na água",
+"São grandes demais para qualquer poro lipídico",
+"São repelidos pelo colesterol da monocamada externa",
+"Ligam-se de modo irreversível às cabeças polares"
+],
+"e": "Retirar a água de hidratação de um íon para entrar no ambiente apolar custa muita energia."
+},
+{
+"c": "transporte",
+"q": "Qual íon predomina no líquido intracelular?",
+"o": [
+"K⁺",
+"Na⁺",
+"Cl⁻",
+"Ca²⁺"
+],
+"e": "O K⁺ intracelular fica em torno de 140–150 mEq/L, contra cerca de 4–5 mEq/L no LEC."
+},
+{
+"c": "transporte",
+"q": "A concentração de Ca²⁺ livre no citosol em repouso é, aproximadamente:",
+"o": [
+"10.000 vezes menor que no LEC",
+"Igual à do plasma",
+"10 vezes maior que no LEC",
+"Metade da concentração plasmática"
+],
+"e": "Cerca de 100 nmol/L dentro, contra 1–2,5 mmol/L fora, mantida por PMCA, SERCA e NCX."
+},
+{
+"c": "transporte",
+"q": "Apesar de composições iônicas tão diferentes, LIC e LEC têm:",
+"o": [
+"A mesma osmolalidade",
+"A mesma concentração de Na⁺",
+"O mesmo pH",
+"A mesma concentração de proteínas"
+],
+"e": "A água atravessa livremente a membrana e iguala a concentração total de partículas (~290 mOsm/kg)."
+},
+{
+"c": "transporte",
+"q": "Segundo a lei de Fick, o fluxo por difusão simples é diretamente proporcional a:",
+"o": [
+"ΔC e área da membrana",
+"Espessura da membrana",
+"Peso molecular do soluto",
+"Número de carreadores ocupados"
+],
+"e": "J = P·A·ΔC; a espessura entra no denominador do coeficiente de permeabilidade."
+},
+{
+"c": "transporte",
+"q": "Qual característica distingue a difusão simples da difusão facilitada por carreador?",
+"o": [
+"Não apresenta saturação",
+"Ocorre contra o gradiente",
+"Consome ATP diretamente",
+"É altamente específica"
+],
+"e": "Sem proteína para ser ocupada, o fluxo cresce linearmente com o gradiente, sem teto."
+},
+{
+"c": "transporte",
+"q": "No edema pulmonar, a troca de O₂ cai principalmente porque:",
+"o": [
+"Aumenta a espessura da barreira de difusão",
+"Diminui o gradiente de Na⁺ alveolar",
+"Os carreadores de O₂ ficam saturados",
+"A Na⁺/K⁺-ATPase do pneumócito para"
+],
+"e": "Pela lei de Fick, maior Δx reduz a permeabilidade e o fluxo do gás."
+},
+{
+"c": "transporte",
+"q": "Bases fracas como alguns antibióticos acumulam-se no leite por causa de:",
+"o": [
+"Aprisionamento iônico no pH mais ácido",
+"Transporte ativo pela H⁺/K⁺-ATPase",
+"Endocitose mediada por receptor",
+"Difusão facilitada pelo GLUT1"
+],
+"e": "A forma neutra atravessa, ganha próton no leite (pH ~6,7) e fica retida na forma ionizada."
+},
+{
+"c": "transporte",
+"q": "Um canal iônico difere de um carreador porque:",
+"o": [
+"Forma um poro contínuo, muito mais rápido",
+"Sempre transporta contra o gradiente",
+"Não apresenta nenhuma seletividade iônica",
+"Precisa hidrolisar ATP em cada ciclo"
+],
+"e": "Canais passam 10⁷–10⁸ íons/s; carreadores mudam de conformação a cada ciclo e são mais lentos."
+},
+{
+"c": "transporte",
+"q": "O receptor nicotínico da acetilcolina na placa motora é um exemplo de canal:",
+"o": [
+"Dependente de ligante",
+"Dependente de voltagem",
+"Sensível a estiramento",
+"Sempre aberto (de vazamento)"
+],
+"e": "A ligação da acetilcolina abre o poro, permitindo a entrada de Na⁺."
+},
+{
+"c": "transporte",
+"q": "Na curva de Michaelis-Menten de um carreador, o Km corresponde a:",
+"o": [
+"Concentração que gera metade da Vmáx",
+"Velocidade máxima de transporte",
+"Número total de carreadores",
+"Concentração que satura 100% dos sítios"
+],
+"e": "Km baixo significa alta afinidade."
+},
+{
+"c": "transporte",
+"q": "A insulina aumenta a captação de glicose no músculo porque:",
+"o": [
+"Leva vesículas com GLUT4 à membrana",
+"Reduz o Km de cada GLUT4",
+"Converte o GLUT4 em bomba dependente de ATP",
+"Abre canais de glicose sensíveis à voltagem"
+],
+"e": "Mais carreadores na membrana elevam a Vmáx; a afinidade de cada um não muda."
+},
+{
+"c": "transporte",
+"q": "Um inibidor competitivo do carreador de glicose provoca:",
+"o": [
+"Aumento do Km aparente, Vmáx mantida",
+"Queda da Vmáx com Km inalterado",
+"Queda de Km e de Vmáx",
+"Transformação em difusão simples"
+],
+"e": "O competidor disputa o sítio; com substrato suficiente a Vmáx ainda é atingida."
+},
+{
+"c": "transporte",
+"q": "Qual transportador de glicose está na face basolateral do enterócito?",
+"o": [
+"GLUT2",
+"GLUT4",
+"SGLT1",
+"GLUT5"
+],
+"e": "O GLUT2 libera glicose, galactose e frutose da célula para o sangue por difusão facilitada."
+},
+{
+"c": "transporte",
+"q": "O GLUT5 do enterócito transporta principalmente:",
+"o": [
+"Frutose",
+"Galactose",
+"Glicose com Na⁺",
+"Aminoácidos neutros"
+],
+"e": "É um uniporte de frutose na membrana apical."
+},
+{
+"c": "transporte",
+"q": "Quantos íons a Na⁺/K⁺-ATPase move a cada ATP hidrolisado?",
+"o": [
+"3 Na⁺ para fora e 2 K⁺ para dentro",
+"2 Na⁺ para fora e 3 K⁺ para dentro",
+"1 Na⁺ para fora e 1 K⁺ para dentro",
+"3 Na⁺ para dentro e 2 K⁺ para fora"
+],
+"e": "Estequiometria 3:2, que torna a bomba eletrogênica."
+},
+{
+"c": "transporte",
+"q": "A Na⁺/K⁺-ATPase é chamada de eletrogênica porque:",
+"o": [
+"Exporta uma carga positiva a mais por ciclo",
+"Abre-se apenas com a despolarização",
+"Gera ATP a partir do gradiente de Na⁺",
+"Transporta elétrons do LEC para o citosol"
+],
+"e": "Saem 3 cargas positivas e entram 2: o interior fica um pouco mais negativo."
+},
+{
+"c": "transporte",
+"q": "Na forma E2-P da Na⁺/K⁺-ATPase, a bomba:",
+"o": [
+"Está aberta para fora e liga K⁺",
+"Está aberta para dentro e liga Na⁺",
+"Liga ATP no sítio extracelular",
+"Libera K⁺ no citosol"
+],
+"e": "A fosforilação muda a conformação: baixa afinidade por Na⁺ e alta por K⁺, voltada para o LEC."
+},
+{
+"c": "transporte",
+"q": "A digoxina aumenta a força de contração do miocárdio porque:",
+"o": [
+"Inibe a Na⁺/K⁺-ATPase e eleva o Ca²⁺ do retículo",
+"Estimula diretamente a SERCA do miocárdio",
+"Abre canais de Ca²⁺ do tipo L no sarcolema",
+"Bloqueia o trocador Na⁺/H⁺ dos cardiomiócitos"
+],
+"e": "Na⁺ interno sobe, o NCX expulsa menos Ca²⁺ e o retículo acumula mais Ca²⁺."
+},
+{
+"c": "transporte",
+"q": "Um cão em uso de digoxina tem maior risco de intoxicação quando apresenta:",
+"o": [
+"Hipocalemia",
+"Hipernatremia",
+"Hipercalcemia leve",
+"Hiperglicemia"
+],
+"e": "O K⁺ compete com o digitálico pelo sítio da bomba; pouco K⁺ favorece a ligação do fármaco."
+},
+{
+"c": "transporte",
+"q": "A espirradeira (Nerium oleander) é tóxica para bovinos e equinos porque contém:",
+"o": [
+"Glicosídeos que inibem a Na⁺/K⁺-ATPase",
+"Toxinas que cortam as proteínas SNARE motoras",
+"Inibidores irreversíveis da H⁺/K⁺-ATPase",
+"Bloqueadores potentes do SGLT1 intestinal"
+],
+"e": "Age como os digitálicos: arritmias, bloqueios e hipercalemia."
+},
+{
+"c": "transporte",
+"q": "Qual bomba retira Ca²⁺ do citosol para o retículo sarcoplasmático, permitindo o relaxamento muscular?",
+"o": [
+"SERCA",
+"PMCA",
+"NCX",
+"H⁺/K⁺-ATPase"
+],
+"e": "A Ca²⁺-ATPase do retículo bombeia 2 Ca²⁺ por ATP."
+},
+{
+"c": "transporte",
+"q": "O rigor mortis se instala porque, após a morte:",
+"o": [
+"Falta ATP para a SERCA e a miosina",
+"Sobra Na⁺ no LEC do músculo esquelético",
+"O GLUT4 permanece inserido na membrana",
+"Os canais de Cl⁻ musculares ficam abertos"
+],
+"e": "Sem ATP o Ca²⁺ não é recaptado e as pontes cruzadas não se desfazem."
+},
+{
+"c": "transporte",
+"q": "O omeprazol reduz a acidez gástrica porque:",
+"o": [
+"Inibe irreversivelmente a H⁺/K⁺-ATPase",
+"Bloqueia receptores H₂ da histamina",
+"Neutraliza o HCl já secretado",
+"Inibe o trocador Cl⁻/HCO₃⁻"
+],
+"e": "Pró-fármaco ativado em meio ácido que se liga covalentemente à bomba."
+},
+{
+"c": "transporte",
+"q": "A 'maré alcalina' pós-prandial ocorre porque a célula parietal:",
+"o": [
+"Envia HCO₃⁻ ao sangue a cada H⁺ secretado",
+"Reabsorve o HCl do lúmen do estômago",
+"Secreta bicarbonato para o lúmen gástrico",
+"Inibe a Na⁺/K⁺-ATPase dos túbulos renais"
+],
+"e": "O trocador Cl⁻/HCO₃⁻ basolateral joga bicarbonato no sangue."
+},
+{
+"c": "transporte",
+"q": "Cães da raça Collie com mutação MDR1 (ABCB1-1Δ) intoxicam-se com ivermectina porque:",
+"o": [
+"A glicoproteína P cerebral não funciona",
+"Metabolizam o fármaco mais lentamente no fígado",
+"O fármaco inibe a Na⁺/K⁺-ATPase neuronal",
+"Absorvem muito mais ivermectina no intestino"
+],
+"e": "Sem a bomba de efluxo, o fármaco chega ao SNC."
+},
+{
+"c": "transporte",
+"q": "O transporte ativo secundário obtém energia:",
+"o": [
+"Do gradiente de Na⁺ criado pela Na⁺/K⁺-ATPase",
+"Da hidrólise de ATP na própria proteína",
+"Do gradiente de K⁺ no túbulo",
+"Da hidrólise de GTP por proteínas G"
+],
+"e": "A proteína não usa ATP; quem pagou a conta foi a bomba."
+},
+{
+"c": "transporte",
+"q": "O SGLT1 do intestino transporta:",
+"o": [
+"2 Na⁺ e 1 glicose no mesmo sentido",
+"1 Na⁺ e 1 glicose em sentidos opostos",
+"Glicose e K⁺ com gasto de ATP",
+"Somente frutose, sem Na⁺"
+],
+"e": "Simporte 2:1, que permite concentrar a glicose no enterócito."
+},
+{
+"c": "transporte",
+"q": "O trocador Na⁺/Ca²⁺ do miocárdio é um exemplo de:",
+"o": [
+"Antiporte",
+"Simporte",
+"Uniporte",
+"Bomba do tipo P"
+],
+"e": "3 Na⁺ entram e 1 Ca²⁺ sai: sentidos opostos."
+},
+{
+"c": "transporte",
+"q": "Se a Na⁺/K⁺-ATPase do enterócito for bloqueada com ouabaína, a absorção de glicose pelo SGLT1:",
+"o": [
+"Cessa quando o gradiente de Na⁺ se dissipa",
+"Aumenta, porque sobra ATP na célula",
+"Não se altera, pois o SGLT1 não usa ATP",
+"Passa a ocorrer só pelo GLUT5 apical"
+],
+"e": "Sem a bomba não há gradiente de Na⁺ para mover o simporte."
+},
+{
+"c": "transporte",
+"q": "A furosemida age inibindo qual transportador?",
+"o": [
+"NKCC2 da alça de Henle",
+"SGLT2 do túbulo proximal",
+"Aquaporina 2 do ducto coletor",
+"Na⁺/K⁺-ATPase do túbulo distal"
+],
+"e": "O cotransportador Na⁺-K⁺-2Cl⁻ é o alvo dos diuréticos de alça."
+},
+{
+"c": "transporte",
+"q": "O trocador Na⁺/H⁺ (NHE3) do túbulo proximal participa principalmente de:",
+"o": [
+"Secreção de H⁺ e reabsorção de Na⁺",
+"Reabsorção de glicose",
+"Secreção de K⁺",
+"Reabsorção de água livre"
+],
+"e": "Antiporte que acidifica o filtrado e permite recuperar o HCO₃⁻."
+},
+{
+"c": "transporte",
+"q": "Neutrófilos englobando bactérias opsonizadas realizam:",
+"o": [
+"Fagocitose",
+"Pinocitose",
+"Exocitose",
+"Transcitose"
+],
+"e": "Endocitose de partículas grandes com pseudópodes de actina."
+},
+{
+"c": "transporte",
+"q": "A captação de LDL pelas células ocorre por:",
+"o": [
+"Endocitose mediada por receptor",
+"Difusão simples pela bicamada lipídica",
+"Pinocitose inespecífica por cavéolas",
+"Transporte ativo primário por ATPase"
+],
+"e": "O receptor de LDL concentra-se em fossetas revestidas de clatrina."
+},
+{
+"c": "transporte",
+"q": "A toxina botulínica causa paralisia flácida porque:",
+"o": [
+"Cliva proteínas SNARE e impede a exocitose",
+"Bloqueia a Na⁺/K⁺-ATPase do músculo",
+"Abre canais de Cl⁻ na placa motora",
+"Inibe a SERCA do músculo esquelético"
+],
+"e": "Sem fusão de vesículas, a acetilcolina não é liberada."
+},
+{
+"c": "transporte",
+"q": "Bezerros nascem praticamente sem imunoglobulinas porque:",
+"o": [
+"A placenta sindesmocorial barra os anticorpos",
+"O feto destrói as IgG maternas que recebe",
+"O FcRn placentário bovino é muito ativo",
+"O colostro inibe a síntese fetal de IgG"
+],
+"e": "Muitas camadas separam o sangue materno do fetal em ruminantes."
+},
+{
+"c": "transporte",
+"q": "A absorção de imunoglobulinas do colostro pelo neonato ocorre por:",
+"o": [
+"Pinocitose e transcitose pelos enterócitos",
+"Difusão simples pelas junções oclusivas",
+"Simporte com Na⁺",
+"Difusão facilitada pelo GLUT2"
+],
+"e": "Os enterócitos do neonato captam proteínas e as entregam à linfa."
+},
+{
+"c": "transporte",
+"q": "O 'fechamento intestinal' para a absorção de imunoglobulinas ocorre por volta de:",
+"o": [
+"24 horas de vida",
+"7 dias de vida",
+"2 horas de vida",
+"No desmame"
+],
+"e": "Após ~24 h os enterócitos maduros não absorvem mais macromoléculas intactas."
+},
+{
+"c": "transporte",
+"q": "Qual espécie recebe parte das imunoglobulinas pela placenta (5–10%)?",
+"o": [
+"Cão",
+"Bovino",
+"Equino",
+"Suíno"
+],
+"e": "A placenta endoteliocorial de carnívoros permite pequena transferência."
+},
+{
+"c": "transporte",
+"q": "Na secreção intestinal de cloreto, qual proteína apical deixa o Cl⁻ sair para o lúmen?",
+"o": [
+"CFTR",
+"NKCC1",
+"SGLT1",
+"GLUT2"
+],
+"e": "O NKCC1 basolateral carrega a célula de Cl⁻ e o CFTR apical o libera."
+},
+{
+"c": "transporte",
+"q": "A toxina colérica e a toxina LT da E. coli enterotoxigênica causam diarreia porque:",
+"o": [
+"Elevam o AMPc e mantêm o CFTR aberto",
+"Destroem as vilosidades intestinais",
+"Inibem o SGLT1 do enterócito",
+"Bloqueiam a H⁺/K⁺-ATPase"
+],
+"e": "Gs fica ativa, a adenilato ciclase produz AMPc e o Cl⁻ é secretado."
+},
+{
+"c": "transporte",
+"q": "A terapia de reidratação oral funciona na diarreia por E. coli enterotoxigênica porque:",
+"o": [
+"O SGLT1 continua funcional e arrasta Na⁺ e água",
+"A glicose fecha diretamente o canal CFTR",
+"O bicarbonato neutraliza a enterotoxina",
+"A solução hipotônica bloqueia a secreção"
+],
+"e": "Na diarreia secretora o epitélio está íntegro; glicose e Na⁺ entram juntos."
+},
+{
+"c": "transporte",
+"q": "Nas soluções eletrolíticas orais para bezerros que ainda mamam, prefere-se acetato a bicarbonato porque o bicarbonato:",
+"o": [
+"Atrapalha a coagulação do leite no abomaso",
+"Causa hipercalemia grave nos neonatos",
+"Inibe o SGLT1 dos enterócitos do íleo",
+"Não corrige a acidose metabólica do bezerro"
+],
+"e": "Alcalinizar o abomaso atrapalha a formação do coágulo de caseína."
+},
+{
+"c": "transporte",
+"q": "Glicosúria com glicemia normal em um Basenji sugere:",
+"o": [
+"Síndrome de Fanconi",
+"Diabetes mellitus tipo 1",
+"Hiperglicemia de estresse",
+"Intoxicação por digitálico"
+],
+"e": "O túbulo proximal falha em reabsorver glicose, aminoácidos e fosfato."
+},
+{
+"c": "transporte",
+"q": "A glicosúria do diabetes mellitus aparece quando:",
+"o": [
+"A glicemia supera o Tm tubular",
+"O GLUT4 renal deixa de funcionar",
+"A Na⁺/K⁺-ATPase renal é inibida",
+"O ADH deixa de ser secretado"
+],
+"e": "Os SGLT saturam; acima do limiar renal o excesso vai para a urina."
+},
+{
+"c": "transporte",
+"q": "Qual afirmação sobre aquaporinas é INCORRETA?",
+"o": [
+"Transportam H⁺ junto com a água",
+"A AQP2 é inserida sob ação do ADH",
+"São canais seletivos para água",
+"A AQP1 está presente nas hemácias"
+],
+"e": "As aquaporinas excluem prótons; deixam passar só água."
+},
+{
+"c": "transporte",
+"q": "Qual destes NÃO depende do gradiente de Na⁺?",
+"o": [
+"Saída de glicose pelo GLUT2",
+"Entrada de glicose pelo SGLT1",
+"Troca Na⁺/Ca²⁺ no miocárdio",
+"Secreção de H⁺ pelo NHE3"
+],
+"e": "O GLUT2 é uniporte passivo, independente de Na⁺."
+},
+{
+"c": "transporte",
+"q": "Em suínos com mutação no gene RYR1, a hipertermia maligna resulta de:",
+"o": [
+"Liberação descontrolada de Ca²⁺ do retículo",
+"Inibição da Na⁺/K⁺-ATPase por halotano",
+"Bloqueio do GLUT4 muscular",
+"Falha da H⁺/K⁺-ATPase gástrica"
+],
+"e": "O receptor de rianodina defeituoso libera Ca²⁺; a SERCA gasta ATP e gera calor."
+},
+{
+"c": "transporte",
+"q": "A absorção de água no intestino ocorre porque:",
+"o": [
+"Segue o soluto absorvido, por osmose",
+"É bombeada por uma ATPase de água",
+"Entra por simporte junto com a glicose",
+"Depende de endocitose pelos enterócitos"
+],
+"e": "Não há bomba de água: absorver soluto é a forma de absorver água."
+}
+]

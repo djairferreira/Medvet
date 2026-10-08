@@ -1,0 +1,574 @@
+[
+{
+"c": "glicolise",
+"q": "Em que compartimento celular ocorre a glicólise?",
+"o": [
+"Citosol",
+"Matriz mitocondrial",
+"Membrana interna da mitocôndria",
+"Retículo endoplasmático liso"
+],
+"e": "Todas as dez reações ocorrem no citosol, inclusive em células sem mitocôndrias."
+},
+{
+"c": "glicolise",
+"q": "Qual é o saldo líquido de ATP da glicólise por molécula de glicose?",
+"o": [
+"2 ATP",
+"4 ATP",
+"38 ATP",
+"1 ATP"
+],
+"e": "Formam-se 4 ATP (reações 7 e 10, ×2), mas 2 são gastos nas reações 1 e 3."
+},
+{
+"c": "glicolise",
+"q": "Quantos NADH são formados na glicólise por molécula de glicose?",
+"o": [
+"2",
+"4",
+"1",
+"6"
+],
+"e": "A gliceraldeído-3-fosfato desidrogenase forma 1 NADH por triose; são 2 trioses por glicose."
+},
+{
+"c": "glicolise",
+"q": "Quais reações da glicólise consomem ATP?",
+"o": [
+"Hexoquinase e fosfofrutoquinase-1",
+"Aldolase e enolase",
+"Fosfoglicerato-cinase e piruvato quinase",
+"Triose-fosfato isomerase e mutase"
+],
+"e": "Reações 1 (hexoquinase) e 3 (PFK-1) formam a fase de investimento."
+},
+{
+"c": "glicolise",
+"q": "Quais enzimas formam ATP por fosforilação no nível do substrato?",
+"o": [
+"Fosfoglicerato-cinase e piruvato quinase",
+"Hexoquinase e glicoquinase hepática",
+"Aldolase e triose-fosfato isomerase",
+"G3P desidrogenase e enolase"
+],
+"e": "Reações 7 e 10 transferem fosfato de alta energia diretamente para o ADP."
+},
+{
+"c": "glicolise",
+"q": "A única reação de oxidação da glicólise é catalisada pela:",
+"o": [
+"Gliceraldeído-3-fosfato desidrogenase",
+"Lactato desidrogenase muscular",
+"Fosfofrutoquinase-1 hepática",
+"Piruvato quinase do eritrócito"
+],
+"e": "A GAPDH oxida o G3P, reduz NAD⁺ a NADH e incorpora fosfato inorgânico."
+},
+{
+"c": "glicolise",
+"q": "Qual enzima catalisa o passo comprometido e principal ponto de controle da glicólise?",
+"o": [
+"Fosfofrutoquinase-1",
+"Hexoquinase muscular",
+"Aldolase",
+"Enolase citosólica"
+],
+"e": "A frutose-1,6-bisfosfato formada pela PFK-1 não tem outro destino além da glicólise."
+},
+{
+"c": "glicolise",
+"q": "A aldolase quebra a frutose-1,6-bisfosfato em:",
+"o": [
+"Di-hidroxiacetona-fosfato e gliceraldeído-3-fosfato",
+"Dois piruvatos e duas moléculas de ATP livres",
+"Glicose-6-fosfato e frutose-6-fosfato livres",
+"Fosfoenolpiruvato e 2-fosfoglicerato"
+],
+"e": "Duas trioses-fosfato; a isomerase converte a DHAP em G3P."
+},
+{
+"c": "glicolise",
+"q": "Por que, a partir da reação 6, cada reação é contada em dobro?",
+"o": [
+"Cada glicose origina duas moléculas de G3P",
+"A célula repete a via duas vezes por segundo",
+"Cada enzima tem dois sítios ativos idênticos",
+"O ATP gasto é devolvido em dobro pela aldolase"
+],
+"e": "A aldolase e a isomerase geram 2 G3P por glicose."
+},
+{
+"c": "glicolise",
+"q": "Qual a principal consequência de a glicose ser fosforilada logo ao entrar na célula?",
+"o": [
+"Fica presa no citosol, sem sair pelos GLUTs",
+"Passa a atravessar a membrana por difusão",
+"Torna-se substrato direto da cadeia respiratória",
+"É imediatamente convertida em glicogênio"
+],
+"e": "A glicose-6-fosfato tem carga e não é reconhecida pelos GLUTs."
+},
+{
+"c": "glicolise",
+"q": "Qual transportador de glicose depende de insulina para ir à membrana?",
+"o": [
+"GLUT4",
+"GLUT1",
+"GLUT2",
+"GLUT3"
+],
+"e": "GLUT4 de músculo e tecido adiposo fica em vesículas e é translocado pela insulina (e pela contração)."
+},
+{
+"c": "glicolise",
+"q": "Qual transportador de glicose predomina nos hepatócitos e nas células β do pâncreas?",
+"o": [
+"GLUT2",
+"GLUT4",
+"GLUT5",
+"GLUT3"
+],
+"e": "GLUT2 tem baixa afinidade e permite que a entrada acompanhe a glicemia."
+},
+{
+"c": "glicolise",
+"q": "Qual transportador garante a captação de glicose pela hemácia?",
+"o": [
+"GLUT1",
+"GLUT4",
+"SGLT2",
+"GLUT5"
+],
+"e": "GLUT1 tem alta afinidade e não depende de insulina."
+},
+{
+"c": "glicolise",
+"q": "A glicoquinase hepática difere da hexoquinase muscular por:",
+"o": [
+"Ter Km alto e não ser inibida pela glicose-6-P",
+"Ter Km muito baixo e ser saturada em jejum",
+"Ser inibida fortemente pela glicose-6-P",
+"Funcionar apenas na ausência de insulina"
+],
+"e": "A glicoquinase só trabalha muito com glicemia alta, depois da refeição, e não é freada pelo produto."
+},
+{
+"c": "glicolise",
+"q": "Qual espécie tem atividade de glicoquinase hepática praticamente nula?",
+"o": [
+"Gato",
+"Cão",
+"Suíno",
+"Equino"
+],
+"e": "O gato, carnívoro estrito, depende de hexoquinases e demora a baixar a glicemia após carboidratos."
+},
+{
+"c": "glicolise",
+"q": "Qual composto ATIVA a fosfofrutoquinase-1?",
+"o": [
+"Frutose-2,6-bisfosfato",
+"Citrato abundante",
+"ATP em excesso",
+"Íons H⁺ (pH baixo)"
+],
+"e": "F2,6BP, AMP e ADP ativam; ATP, citrato e acidez inibem."
+},
+{
+"c": "glicolise",
+"q": "Qual composto INIBE a fosfofrutoquinase-1?",
+"o": [
+"Citrato",
+"AMP",
+"ADP",
+"Frutose-2,6-bisfosfato"
+],
+"e": "Citrato indica Krebs abastecido; a célula freia a glicólise."
+},
+{
+"c": "glicolise",
+"q": "A piruvato quinase é ativada por antecipação (feed-forward) por:",
+"o": [
+"Frutose-1,6-bisfosfato",
+"Alanina circulante",
+"Acetil-CoA mitocondrial",
+"ATP em concentração alta"
+],
+"e": "O produto da PFK-1 prepara a última enzima para o fluxo que vem."
+},
+{
+"c": "glicolise",
+"q": "No jejum, o glucagon desliga a piruvato quinase hepática para:",
+"o": [
+"Favorecer a gliconeogênese no fígado",
+"Aumentar a produção de lactato",
+"Acelerar a glicólise no músculo",
+"Estimular a síntese de glicogênio"
+],
+"e": "A fosforilação da PK hepática evita ciclo fútil e deixa o PEP seguir para a gliconeogênese."
+},
+{
+"c": "glicolise",
+"q": "Por que a fermentação lática é necessária quando falta oxigênio?",
+"o": [
+"Regenera o NAD⁺ consumido pela GAPDH",
+"Produz mais ATP que a oxidação do piruvato",
+"Converte o lactato em glicose no músculo",
+"Retira o CO₂ acumulado no citosol"
+],
+"e": "Sem O₂, o NADH não é reoxidado na cadeia; a LDH usa o NADH e devolve NAD⁺."
+},
+{
+"c": "glicolise",
+"q": "A enzima que converte piruvato em lactato é a:",
+"o": [
+"Lactato desidrogenase",
+"Piruvato desidrogenase",
+"Piruvato carboxilase",
+"Alanina aminotransferase"
+],
+"e": "A LDH reduz o piruvato usando NADH."
+},
+{
+"c": "glicolise",
+"q": "Com oxigênio e mitocôndrias, o piruvato é convertido principalmente em:",
+"o": [
+"Acetil-CoA",
+"Lactato",
+"Etanol",
+"Glicerol-3-P"
+],
+"e": "A piruvato desidrogenase forma acetil-CoA + CO₂, que entra no ciclo de Krebs (cap. 5)."
+},
+{
+"c": "glicolise",
+"q": "Quantos ATP, aproximadamente, rende a oxidação completa da glicose segundo os valores atuais?",
+"o": [
+"30 a 32",
+"2",
+"4",
+"60 a 64"
+],
+"e": "Valores clássicos eram 36-38; com as razões P/O atuais, cerca de 30-32."
+},
+{
+"c": "glicolise",
+"q": "Por que a hemácia produz lactato mesmo em sangue bem oxigenado?",
+"o": [
+"Não tem mitocôndrias para oxidar o piruvato",
+"Seu GLUT1 só transporta lactato",
+"A hemoglobina inibe a piruvato desidrogenase",
+"Ela não possui a enzima hexoquinase"
+],
+"e": "Sem mitocôndrias, a hemácia depende só da glicólise anaeróbica."
+},
+{
+"c": "glicolise",
+"q": "No ciclo de Cori, o lactato produzido no músculo é:",
+"o": [
+"Levado ao fígado e reconvertido em glicose",
+"Excretado diretamente pelos rins na urina",
+"Oxidado a CO₂ no próprio músculo",
+"Armazenado como glicogênio na hemácia"
+],
+"e": "O fígado faz gliconeogênese a partir do lactato e devolve glicose ao músculo."
+},
+{
+"c": "glicolise",
+"q": "Qual o custo energético do ciclo de Cori?",
+"o": [
+"Gasta 6 ATP no fígado para recuperar 2 no músculo",
+"Gera lucro de 4 ATP para o organismo",
+"Não tem custo, porque é uma via reversível",
+"Gasta 2 ATP no músculo e gera 6 no fígado"
+],
+"e": "Gliconeogênese a partir de 2 lactatos gasta 6 ATP; a glicólise rende 2."
+},
+{
+"c": "glicolise",
+"q": "O tubo de tampa cinza (fluoreto de sódio) preserva a glicose da amostra porque:",
+"o": [
+"Inibe a enolase e bloqueia a glicólise das células",
+"Inibe a hexoquinase e impede a entrada de glicose",
+"Destrói as hemácias e libera glicose estocada",
+"Converte o lactato da amostra em glicose"
+],
+"e": "O fluoreto inibe a enolase; sem ele, a glicose cai 5-10% por hora em sangue total."
+},
+{
+"c": "glicolise",
+"q": "Uma amostra de sangue de cão ficou 4 horas sem centrifugar em tubo comum. O resultado provável é:",
+"o": [
+"Glicose falsamente baixa",
+"Glicose falsamente alta",
+"Lactato falsamente baixo",
+"Nenhuma alteração da glicose"
+],
+"e": "As células continuam consumindo glicose pela glicólise; o lactato da amostra sobe."
+},
+{
+"c": "glicolise",
+"q": "O arsenato interfere na glicólise porque:",
+"o": [
+"Substitui o fosfato na reação da GAPDH e impede o ATP",
+"Inibe de forma irreversível a hexoquinase muscular",
+"Bloqueia o GLUT1 da membrana da hemácia",
+"Ativa a LDH e desvia todo o piruvato a lactato"
+],
+"e": "O 1-arseno-3-fosfoglicerato se hidrolisa sozinho, e o ATP da reação 7 deixa de ser formado."
+},
+{
+"c": "glicolise",
+"q": "Um Basenji jovem tem anemia hemolítica regenerativa crônica. Qual deficiência glicolítica hereditária é mais provável?",
+"o": [
+"Piruvato quinase",
+"Glicose-6-fosfato desidrogenase",
+"Lactato desidrogenase",
+"Fosfoglicose isomerase"
+],
+"e": "A deficiência de PK é descrita em Basenji, Beagle, Westie e gatos Abissínio/Somali."
+},
+{
+"c": "glicolise",
+"q": "Um English Springer Spaniel tem urina escura após exercício intenso e muito ofegar. Suspeita-se de deficiência de:",
+"o": [
+"Fosfofrutoquinase",
+"Glicoquinase",
+"Hexoquinase I",
+"Aldolase B"
+],
+"e": "Na deficiência de PFK, a alcalose da hiperventilação desencadeia hemólise com hemoglobinúria."
+},
+{
+"c": "glicolise",
+"q": "Em cães, lactato sanguíneo acima de cerca de 2,5 mmol/L em paciente doente indica com mais frequência:",
+"o": [
+"Má perfusão ou hipóxia tecidual",
+"Excesso de carboidrato na ração",
+"Insuficiência pancreática exócrina",
+"Hipoglicemia por insulinoma"
+],
+"e": "Hiperlactatemia é marcador de choque e isquemia; é útil no prognóstico da DVG."
+},
+{
+"c": "glicolise",
+"q": "Na acidose lática ruminal aguda, a bactéria que prolifera rapidamente no início e produz lactato é:",
+"o": [
+"Streptococcus bovis",
+"Fibrobacter succinogenes",
+"Fusobacterium necrophorum",
+"Megasphaera elsdenii"
+],
+"e": "S. bovis cresce com amido abundante; depois os lactobacilos dominam."
+},
+{
+"c": "glicolise",
+"q": "A desidratação grave na acidose ruminal ocorre porque:",
+"o": [
+"O conteúdo ruminal hiperosmótico puxa água do sangue",
+"O lactato bloqueia a absorção de água no cólon distal",
+"A acidose inibe o hormônio antidiurético",
+"O animal deixa de beber água por dor"
+],
+"e": "Lactato e glicose acumulados aumentam a osmolalidade do rúmen."
+},
+{
+"c": "glicolise",
+"q": "Qual medida NÃO ajuda a prevenir a acidose ruminal em confinamento?",
+"o": [
+"Trocar a dieta para alto grão de um dia para o outro",
+"Adaptar ao concentrado aos poucos, em 2 a 4 semanas",
+"Usar ionóforos na dieta, como a monensina sódica",
+"Garantir fibra efetiva para a ruminação"
+],
+"e": "A troca brusca é justamente a causa; as demais medidas previnem."
+},
+{
+"c": "glicolise",
+"q": "Qual sequela da acidose ruminal se deve à entrada de bactérias pela parede do rúmen lesada?",
+"o": [
+"Abscessos hepáticos",
+"Catarata bilateral",
+"Hipoglicemia neonatal",
+"Metemoglobinemia"
+],
+"e": "Fusobacterium necrophorum atravessa a ruminite e chega ao fígado pela veia porta."
+},
+{
+"c": "glicolise",
+"q": "Quais são os produtos da fase oxidativa da via das pentoses-fosfato?",
+"o": [
+"NADPH e ribulose-5-fosfato",
+"NADH, ATP e CO₂",
+"Piruvato e lactato",
+"FADH₂ e acetil-CoA"
+],
+"e": "A G6PD e a 6-fosfogliconato desidrogenase formam 2 NADPH e ribulose-5-P + CO₂."
+},
+{
+"c": "glicolise",
+"q": "A enzima limitante da via das pentoses é a:",
+"o": [
+"Glicose-6-fosfato desidrogenase",
+"Transcetolase (tiamina)",
+"Transaldolase",
+"Fosfofrutoquinase-1 hepática"
+],
+"e": "A G6PD é regulada pela razão NADP⁺/NADPH."
+},
+{
+"c": "glicolise",
+"q": "Na hemácia, o NADPH da via das pentoses é essencial para:",
+"o": [
+"Manter a glutationa reduzida contra oxidantes",
+"Produzir ATP na ausência de mitocôndrias",
+"Sintetizar ácidos graxos da membrana",
+"Formar 2,3-bisfosfoglicerato"
+],
+"e": "A glutationa redutase usa NADPH; a GSH neutraliza peróxidos via glutationa peroxidase (selênio)."
+},
+{
+"c": "glicolise",
+"q": "Um gato recebeu paracetamol do tutor e apresenta mucosas acastanhadas e edema de face. O antídoto indicado é:",
+"o": [
+"N-acetilcisteína",
+"Vitamina K1",
+"Atropina",
+"Gluconato de cálcio"
+],
+"e": "A NAC repõe glutationa; o gato forma muito NAPQI por glicuronidação deficiente."
+},
+{
+"c": "glicolise",
+"q": "Por que o gato é mais sensível que o cão à hemólise oxidativa por cebola?",
+"o": [
+"Sua hemoglobina tem mais grupos sulfidrila reativos",
+"Suas hemácias têm mitocôndrias muito ativas e frágeis",
+"Ele não possui a via das pentoses-fosfato",
+"Ele absorve a cebola pelo estômago"
+],
+"e": "Hb felina tem 8 sulfidrilas reativas, e o baço remove mal os corpúsculos de Heinz."
+},
+{
+"c": "glicolise",
+"q": "Corpúsculos de Heinz em hemácias indicam:",
+"o": [
+"Hemoglobina oxidada e precipitada",
+"Restos de núcleo na hemácia jovem",
+"Parasitas intracelulares de hemácia",
+"Acúmulo de glicogênio no citoplasma"
+],
+"e": "São agregados de hemoglobina desnaturada por oxidantes (cebola, paracetamol, zinco, bordo-vermelho)."
+},
+{
+"c": "glicolise",
+"q": "A transcetolase da via das pentoses depende de qual vitamina?",
+"o": [
+"Tiamina (B1)",
+"Riboflavina (B2)",
+"Cobalamina (B12)",
+"Ácido ascórbico (C)"
+],
+"e": "Usa tiamina pirofosfato; sua atividade em hemácias serve para avaliar deficiência de B1."
+},
+{
+"c": "glicolise",
+"q": "Qual tecido NÃO tem a via das pentoses especialmente ativa para biossíntese?",
+"o": [
+"Músculo esquelético em repouso",
+"Glândula mamária em lactação",
+"Córtex da adrenal",
+"Fígado em estado alimentado"
+],
+"e": "Mamária, adrenal e fígado usam muito NADPH para sintetizar lipídios e esteroides."
+},
+{
+"c": "glicolise",
+"q": "No fígado, a frutose entra na glicólise:",
+"o": [
+"Depois da PFK-1, como DHAP e gliceraldeído",
+"Antes da hexoquinase, como glicose livre",
+"Como frutose-1,6-bisfosfato, pela aldolase A",
+"Diretamente como piruvato"
+],
+"e": "Frutoquinase → frutose-1-P → aldolase B; a via escapa do principal ponto de controle."
+},
+{
+"c": "glicolise",
+"q": "A galactose é convertida em glicose-6-fosfato com participação de uma epimerase que atua no:",
+"o": [
+"Carbono 4",
+"Carbono 1",
+"Carbono 2",
+"Carbono 6"
+],
+"e": "Glicose e galactose são epímeros em C4; a UDP-galactose 4-epimerase interconverte as formas UDP."
+},
+{
+"c": "glicolise",
+"q": "A catarata diabética, frequente em cães, resulta do acúmulo no cristalino de:",
+"o": [
+"Sorbitol formado pela aldose redutase",
+"Glicogênio formado pela glicogênio sintase",
+"Lactato produzido pela LDH",
+"Frutose-1,6-bisfosfato"
+],
+"e": "O sorbitol não sai da célula e puxa água; o gato adulto tem pouca aldose redutase no cristalino."
+},
+{
+"c": "glicolise",
+"q": "O 2,3-bisfosfoglicerato da hemácia é formado a partir de:",
+"o": [
+"1,3-bisfosfoglicerato, no desvio de Rapoport-Luebering",
+"Frutose-1,6-bisfosfato, pela ação da aldolase A",
+"Fosfoenolpiruvato, pela ação da piruvato quinase",
+"Glicose-6-fosfato, pela ação da enzima G6PD"
+],
+"e": "O desvio forma 2,3-BPG, que reduz a afinidade da Hb pelo O₂, à custa do ATP da reação 7."
+},
+{
+"c": "glicolise",
+"q": "Qual reação da glicólise libera uma molécula de água?",
+"o": [
+"Enolase",
+"Aldolase",
+"Fosfoglicerato mutase",
+"Hexoquinase"
+],
+"e": "A enolase desidrata o 2-fosfoglicerato a fosfoenolpiruvato."
+},
+{
+"c": "glicolise",
+"q": "Quais são as três reações irreversíveis da glicólise que a gliconeogênese precisa contornar?",
+"o": [
+"Hexoquinase, PFK-1 e piruvato quinase",
+"Aldolase, enolase e mutase",
+"GAPDH, PGK e piruvato quinase",
+"Isomerase, aldolase e hexoquinase"
+],
+"e": "São as reações com grande queda de energia livre e os pontos de regulação."
+},
+{
+"c": "glicolise",
+"q": "Glicemia acima do limiar renal causa glicosúria. Esse limiar é aproximadamente:",
+"o": [
+"180 a 220 mg/dL no cão",
+"80 a 100 mg/dL no gato",
+"400 a 500 mg/dL no cão",
+"50 a 60 mg/dL no bovino"
+],
+"e": "Cão ≈ 180-220; gato ≈ 250-290; bovino ≈ 100-140 mg/dL."
+},
+{
+"c": "glicolise",
+"q": "Quantos carbonos da glicose são liberados como CO₂ durante a glicólise?",
+"o": [
+"Nenhum",
+"Dois CO₂",
+"Seis",
+"Três"
+],
+"e": "Os seis carbonos ficam nos dois piruvatos; o CO₂ sai na PDH e no Krebs."
+}
+]
