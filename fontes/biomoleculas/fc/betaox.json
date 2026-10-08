@@ -1,0 +1,72 @@
+[
+ [
+  "betaox",
+  "Enzima limitante da β-oxidação",
+  "Carnitina palmitoiltransferase I (CPT-I), inibida pela malonil-CoA."
+ ],
+ [
+  "betaox",
+  "As 4 reações da β-oxidação",
+  "Oxidação (FADH₂), hidratação, oxidação (NADH), tiólise (acetil-CoA)."
+ ],
+ [
+  "betaox",
+  "Saldo do palmitato",
+  "7 FADH₂ (10,5) + 7 NADH (17,5) + 8 acetil-CoA (80) − 2 = 106 ATP (129 nos valores antigos)."
+ ],
+ [
+  "betaox",
+  "Voltas e acetil-CoA de um ácido graxo de n carbonos",
+  "n/2 − 1 voltas; n/2 acetil-CoA."
+ ],
+ [
+  "betaox",
+  "Destino do propionil-CoA",
+  "→ metilmalonil-CoA (biotina) → succinil-CoA (B12) → Krebs/glicose."
+ ],
+ [
+  "betaox",
+  "Por que ocorre cetogênese?",
+  "Oxaloacetato desviado para a gliconeogênese + excesso de acetil-CoA da β-oxidação (insulina baixa, glucagon alto)."
+ ],
+ [
+  "betaox",
+  "Corpos cetônicos e enzima limitante",
+  "Acetoacetato, β-hidroxibutirato, acetona; HMG-CoA sintase mitocondrial."
+ ],
+ [
+  "betaox",
+  "Por que o fígado não usa corpos cetônicos?",
+  "Não tem a succinil-CoA:acetoacetato CoA-transferase (tioforase)."
+ ],
+ [
+  "betaox",
+  "Limiares de BHB na vaca",
+  "≥ 1,2 mmol/L cetose subclínica; ≥ 3,0 mmol/L clínica. AGNE pós-parto > 0,7 mEq/L = BEN intenso."
+ ],
+ [
+  "betaox",
+  "Tratamento da cetose bovina",
+  "Glicose 50% IV, propilenoglicol oral 3–5 dias, dexametasona em casos selecionados; prevenção pelo escore corporal ao parto."
+ ],
+ [
+  "betaox",
+  "Toxemia da prenhez",
+  "Ovelhas/cabras com gêmeos no terço final; sinais neurológicos; propilenoglicol, glicose e retirada dos fetos."
+ ],
+ [
+  "betaox",
+  "Lipidose hepática felina",
+  "Gato obeso em anorexia; icterícia, FA alta com GGT normal; tratar com alimentação por sonda."
+ ],
+ [
+  "betaox",
+  "Enzima limitante e coenzima da síntese de ácidos graxos",
+  "Acetil-CoA carboxilase (biotina) → malonil-CoA; a ácido graxo sintase usa NADPH (14 por palmitato)."
+ ],
+ [
+  "betaox",
+  "Hormônios lipogênicos × lipolíticos",
+  "Insulina guarda; glucagon, adrenalina, cortisol e GH mobilizam. Leptina sinaliza estoque cheio."
+ ]
+]

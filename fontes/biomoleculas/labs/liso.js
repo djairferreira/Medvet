@@ -58,7 +58,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
     E('ellipse',{cx:300,cy:100,rx:34,ry:14,fill:'var(--hema-soft)',stroke:'var(--hema-2)','stroke-width':2},cell);
     [[150,85,240,115],[360,85,450,115],[150,115,240,85],[360,115,450,85]].forEach(([a,b,c,d])=>E('line',{x1:a,y1:b,x2:c,y2:d,stroke:'var(--eosin)','stroke-width':4},cell));
     [[150,85],[240,115],[360,85],[450,115],[150,115],[240,85],[360,115],[450,85]].forEach(([x,y])=>E('circle',{cx:x,cy:y,r:6,fill:'var(--bone-ink)'},cell));
-    T(s,300,190,cur?cur[0]+' → '+cur[1]:'',{fs:18,fill:'var(--muted)'})};
+    T(s,300,190,'célula muscular lisa',{fs:18,fill:'var(--muted)'})};
   const nova=()=>{if(!fila.length)fila=shuffle(CASOS);cur=fila.pop();lock=false;base();
     out.innerHTML=`<b>${cur[0]}</b> agindo em <b>${cur[1]}</b>: contrai ou relaxa? <span class="mono" style="color:var(--muted)">Placar ${sc[0]}/${sc[1]}</span>`};
   g.addEventListener('click',e=>{const b=e.target.closest('button');if(!b||lock||!cur)return;lock=true;sc[1]++;const ok=b.dataset.r===cur[2];if(ok)sc[0]++;

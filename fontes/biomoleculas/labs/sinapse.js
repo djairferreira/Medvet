@@ -12,10 +12,11 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
     if(k==='I'&&drug==='estr')a=0;
     if(k!=='I'&&drug==='ket')a*=0.6;return [a,tau]};
   const alpha=(t,tau)=>t<=0?0:(t/tau)*Math.exp(1-t/tau);
-  function trace(tEnd){const pts=[],sp=[];let refr=-1;
+  function trace(tEnd){const pts=[],sp=[],rs=[];let refr=-1;
     for(let t=0;t<=tEnd;t+=0.5){let v=REST;for(const e of ev){const [a,tau]=par(e.k);v+=a*alpha(t-e.t,tau)}
-      if(t<refr){const f=(refr-t)/6;v=Math.min(v,REST-8*f);pts.push([t,v]);continue}
-      if(v>=THR){sp.push(t);pts.push([t,THR],[t+0.3,30],[t+1.2,-75]);refr=t+6;continue}
+      for(const r of rs)v+=r.a*Math.exp(-(t-r.t)/12);
+      if(t<refr){pts.push([t,v]);continue}
+      if(v>=THR){sp.push(t);rs.push({t:t+1.2,a:-(v-REST)-8});pts.push([t,THR],[t+0.3,30],[t+1.2,REST-8]);refr=t+4;continue}
       pts.push([t,v])}
     return {pts,sp}}
   function neuron(tc){
@@ -56,7 +57,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
     ket:' <b>Cetamina</b> bloqueia o componente NMDA da resposta ao glutamato: os PEPS ficam menores e a somação fica mais difícil.'};
   function report(r){const vmax=Math.max(...r.pts.map(p=>p[1]));
     const head=scen?desc[scen]:'<b>Modo livre.</b> Toque em E1, E2, E3 ou I. Toques rápidos na mesma sinapse fazem somação temporal; sinapses diferentes ao mesmo tempo, somação espacial.';
-    const res=r.sp.length?`<br><b style="color:var(--hema)">Disparou ${r.sp.length} potencial${r.sp.length>1?'is':''} de ação.</b>`:ev.length?`<br>Máximo atingido: ${vmax.toFixed(0).replace('-','−')} mV. <b>Sem potencial de ação.</b>`:'';
+    const res=r.sp.length?`<br><b style="color:var(--hema)">Disparou ${r.sp.length} ${r.sp.length>1?'potenciais':'potencial'} de ação.</b>`:ev.length?`<br>Máximo atingido: ${vmax.toFixed(0).replace('-','−')} mV. <b>Sem potencial de ação.</b>`:'';
     out.innerHTML=head+drugTxt[drug]+res}
   function start(){cancelAnimationFrame(anim);t0=performance.now();running=true;
     if(reduce){running=false;report(frame(TW));return}
