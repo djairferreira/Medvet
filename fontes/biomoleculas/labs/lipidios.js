@@ -44,7 +44,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
       E('rect',{x:352,y:y+14,width:220,height:16,rx:8,fill:'var(--line)'},s);
       const w=Math.max(3,2.2*v);E('rect',{x:352,y:y+14,width:w,height:16,rx:8,fill:c[1]},s);
       T(s,572,y+6,v+'%',{fs:18,a:'end',w:800,fill:c[1]})});
-    out.innerHTML=`<b>${d.n}</b> · densidade ${d.dens} · diâmetro ${d.diam}<br><b>Apolipoproteínas:</b> ${d.apo}<br>${d.txt}<br><span style="color:var(--muted)">No tubo: quanto mais alto, mais leve (mais lipídio). Na veterinária:</span> ${d.sp}`};
+    out.innerHTML=`<b>${d.n}</b> · densidade ${d.dens} · diâmetro ${d.diam}<br><b>Apolipoproteínas:</b> ${d.apo}<br>${d.txt}<br><span style="color:var(--muted)">No desenho: núcleo âmbar = TAG, vermelho = ésteres de colesterol; esferas verdes = apolipoproteínas. No tubo, quanto mais alto, mais leve. Na veterinária:</span> ${d.sp}`};
   choices('#lpdBtns',draw);
 })();
 

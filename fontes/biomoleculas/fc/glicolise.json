@@ -1,0 +1,16 @@
+[
+["glicolise","Saldo da glicólise por glicose","2 piruvato + 2 ATP líquidos + 2 NADH (4 ATP formados − 2 gastos)"],
+["glicolise","Reações que gastam ATP","1 Hexoquinase e 3 Fosfofrutoquinase-1"],
+["glicolise","Reações que formam ATP","7 Fosfoglicerato-cinase e 10 Piruvato quinase (nível do substrato)"],
+["glicolise","Reação que forma NADH","6 Gliceraldeído-3-fosfato desidrogenase (única oxidação)"],
+["glicolise","Três enzimas reguladoras (irreversíveis)","Hexoquinase/glicoquinase, PFK-1 e piruvato quinase"],
+["glicolise","Ativadores e inibidores da PFK-1","Ativam: AMP, ADP, frutose-2,6-bisfosfato. Inibem: ATP, citrato, H⁺"],
+["glicolise","Hexoquinase × glicoquinase","Hexoquinase: Km baixo, inibida pela G6P. Glicoquinase (fígado, célula β): Km alto, não inibida pela G6P"],
+["glicolise","Por que fazer lactato?","Para regenerar o NAD⁺ que a GAPDH consome quando falta O₂"],
+["glicolise","Ciclo de Cori","Lactato do músculo → fígado → glicose (gasta 6 ATP) → volta ao músculo"],
+["glicolise","Tubo de tampa cinza","Fluoreto inibe a enolase e preserva a glicose da amostra"],
+["glicolise","Acidose lática ruminal","Excesso de grão → S. bovis e lactobacilos → lactato, pH < 5, desidratação, ruminite, laminite, abscesso hepático"],
+["glicolise","Produtos da via das pentoses","NADPH (glutationa, síntese de lipídios) e ribose-5-fosfato (nucleotídeos)"],
+["glicolise","Paracetamol no gato","Pouca glicuronidação → NAPQI esgota GSH → metemoglobinemia e Heinz; antídoto N-acetilcisteína"],
+["glicolise","GLUT dependente de insulina","GLUT4 (músculo e tecido adiposo)"]
+]

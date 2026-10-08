@@ -147,7 +147,7 @@
 "q": "A glicoquinase hepática difere da hexoquinase muscular por:",
 "o": [
 "Ter Km alto e não ser inibida pela glicose-6-P",
-"Ter Km muito baixo e ser saturada em jejum",
+"Ter Km muito baixo e ficar saturada mesmo em jejum",
 "Ser inibida fortemente pela glicose-6-P",
 "Funcionar apenas na ausência de insulina"
 ],
@@ -204,7 +204,7 @@
 "Favorecer a gliconeogênese no fígado",
 "Aumentar a produção de lactato",
 "Acelerar a glicólise no músculo",
-"Estimular a síntese de glicogênio"
+"Estimular a síntese de glicogênio muscular"
 ],
 "e": "A fosforilação da PK hepática evita ciclo fútil e deixa o PEP seguir para a gliconeogênese."
 },
@@ -280,7 +280,7 @@
 "o": [
 "Gasta 6 ATP no fígado para recuperar 2 no músculo",
 "Gera lucro de 4 ATP para o organismo",
-"Não tem custo, porque é uma via reversível",
+"Não tem custo, porque é uma via totalmente reversível",
 "Gasta 2 ATP no músculo e gera 6 no fígado"
 ],
 "e": "Gliconeogênese a partir de 2 lactatos gasta 6 ATP; a glicólise rende 2."

@@ -1,0 +1,684 @@
+[
+{
+"c": "proteinas",
+"q": "O que distingue um aminoácido proteico de outro?",
+"o": [
+"A cadeia lateral R",
+"O grupo amino",
+"O grupo carboxila",
+"O carbono α com seu hidrogênio"
+],
+"e": "Todos têm carbono α, amino, carboxila e H; só o radical R muda."
+},
+{
+"c": "proteinas",
+"q": "Qual aminoácido NÃO tem carbono α quiral?",
+"o": [
+"Glicina",
+"Alanina",
+"Leucina",
+"Serina"
+],
+"e": "O R da glicina é outro hidrogênio, então o carbono α tem dois ligantes iguais."
+},
+{
+"c": "proteinas",
+"q": "As proteínas dos animais são formadas por aminoácidos de qual configuração?",
+"o": [
+"Somente L",
+"Somente D",
+"D e L em partes iguais",
+"Predominantemente D"
+],
+"e": "Proteínas animais têm apenas L-aminoácidos; D-aminoácidos aparecem na parede bacteriana."
+},
+{
+"c": "proteinas",
+"q": "Quais são os aminoácidos de cadeia ramificada (BCAA)?",
+"o": [
+"Valina, leucina e isoleucina",
+"Lisina, arginina e histidina",
+"Fenilalanina, tirosina e triptofano",
+"Serina, treonina e cisteína"
+],
+"e": "Val, Leu e Ile têm cadeias ramificadas e são oxidados principalmente no músculo."
+},
+{
+"c": "proteinas",
+"q": "Qual par de aminoácidos tem carga negativa no pH do sangue?",
+"o": [
+"Aspartato e glutamato",
+"Lisina e arginina, ambas básicas",
+"Serina e treonina",
+"Valina e leucina"
+],
+"e": "Aspartato e glutamato têm uma carboxila extra no R, ionizada em pH 7,4."
+},
+{
+"c": "proteinas",
+"q": "Duas cisteínas oxidadas formam qual ligação?",
+"o": [
+"Ponte dissulfeto",
+"Ligação peptídica",
+"Ponte salina",
+"Ligação glicosídica"
+],
+"e": "Os grupos –SH de duas cisteínas formam a ponte dissulfeto (covalente)."
+},
+{
+"c": "proteinas",
+"q": "Por que um aminoácido é considerado essencial?",
+"o": [
+"O animal não sintetiza seu esqueleto carbônico",
+"Ele só existe em proteínas animais",
+"Ele não pode ser transaminado",
+"Ele é usado apenas como fonte de energia"
+],
+"e": "O grupo amino pode ser transferido; o que falta é a capacidade de montar o esqueleto de carbono."
+},
+{
+"c": "proteinas",
+"q": "Um gato recebe uma refeição sem arginina. O que se espera em poucas horas?",
+"o": [
+"Hiperamonemia com sinais neurológicos",
+"Cardiomiopatia dilatada",
+"Degeneração da retina em poucas horas",
+"Hipoglicemia por falta de glicogênio"
+],
+"e": "Sem arginina não há ornitina para o ciclo da ureia, e a amônia sobe rapidamente."
+},
+{
+"c": "proteinas",
+"q": "Qual conjunto de sinais é típico da deficiência de taurina no gato?",
+"o": [
+"Degeneração da retina e cardiomiopatia dilatada",
+"Hiperamonemia e convulsões pós-prandiais",
+"Escorbuto e má cicatrização",
+"Gota articular e urólitos de urato"
+],
+"e": "A taurina é necessária à retina e ao miocárdio; os gatos a perdem continuamente na bile."
+},
+{
+"c": "proteinas",
+"q": "Por que o gato perde taurina continuamente?",
+"o": [
+"Conjuga ácidos biliares obrigatoriamente com taurina",
+"Excreta taurina no leite o ano inteiro",
+"Usa taurina para formar ureia",
+"Oxida taurina no músculo como combustível"
+],
+"e": "A conjugação biliar com taurina e a baixa síntese tornam a taurina dietética essencial."
+},
+{
+"c": "proteinas",
+"q": "Em dietas de milho e farelo de soja para suínos, qual é o primeiro aminoácido limitante?",
+"o": [
+"Lisina",
+"Metionina",
+"Triptofano",
+"Glicina"
+],
+"e": "Para suínos é a lisina; para aves, a metionina."
+},
+{
+"c": "proteinas",
+"q": "Além dos essenciais dos mamíferos, as aves jovens exigem também:",
+"o": [
+"Glicina e prolina",
+"Taurina e carnitina",
+"Alanina e serina",
+"Ornitina e citrulina"
+],
+"e": "Glicina (ácido úrico, penas) e prolina no pinto jovem."
+},
+{
+"c": "proteinas",
+"q": "Por que os ruminantes praticamente não dependem de aminoácidos essenciais na dieta?",
+"o": [
+"Os micróbios ruminais sintetizam todos eles",
+"O fígado do ruminante sintetiza os vinte",
+"O rúmen absorve proteína intacta",
+"A saliva contém aminoácidos essenciais"
+],
+"e": "A proteína microbiana, feita de amônia e esqueletos de carbono, supre os aminoácidos."
+},
+{
+"c": "proteinas",
+"q": "Em vacas de alta produção, quais aminoácidos protegidos são usados por limitarem a proteína do leite?",
+"o": [
+"Lisina e metionina",
+"Glicina e alanina",
+"Arginina e prolina",
+"Leucina e valina"
+],
+"e": "Lisina e metionina são os primeiros limitantes; usam-se formas protegidas da degradação ruminal."
+},
+{
+"c": "proteinas",
+"q": "O que é o aminoácido limitante?",
+"o": [
+"O essencial mais escasso em relação à necessidade",
+"O aminoácido mais abundante da dieta",
+"O aminoácido que inibe a síntese proteica",
+"O não essencial com maior turnover"
+],
+"e": "Ele determina quanto da proteína dietética pode ser usado na síntese."
+},
+{
+"c": "proteinas",
+"q": "Em pH 7,4, como se apresenta a glicina?",
+"o": [
+"Íon dipolar, com carga líquida zero",
+"Cátion, com carga +1",
+"Ânion, com carga −2",
+"Molécula neutra, sem nenhum grupo ionizado"
+],
+"e": "Carboxila ionizada (COO−) e amino protonado (NH3+): zwitterion."
+},
+{
+"c": "proteinas",
+"q": "O ponto isoelétrico é o pH em que:",
+"o": [
+"A carga líquida da molécula é zero",
+"Todos os grupos estão protonados",
+"A proteína tem solubilidade máxima",
+"A enzima tem atividade máxima"
+],
+"e": "No pI a carga é zero; as moléculas não se repelem e tendem a precipitar."
+},
+{
+"c": "proteinas",
+"q": "Glicina tem pKa 2,3 e 9,6. Qual é seu pI aproximado?",
+"o": [
+"6,0",
+"4,6",
+"7,4",
+"9,6"
+],
+"e": "Sem R ionizável, o pI é a média dos pKa: (2,3 + 9,6)/2 ≈ 6,0."
+},
+{
+"c": "proteinas",
+"q": "Em pH 2, a lisina migra para qual polo num campo elétrico?",
+"o": [
+"Cátodo (polo negativo)",
+"Ânodo (polo positivo)",
+"Não migra",
+"Fica parada no ponto de aplicação"
+],
+"e": "Em pH ácido os grupos estão protonados e a carga é positiva."
+},
+{
+"c": "proteinas",
+"q": "Qual aminoácido é o principal responsável pelo poder tampão da hemoglobina?",
+"o": [
+"Histidina",
+"Lisina",
+"Glicina",
+"Leucina (cadeia ramificada)"
+],
+"e": "O imidazol da histidina tem pKa perto do pH fisiológico."
+},
+{
+"c": "proteinas",
+"q": "O leite talha quando acidificado pelas bactérias do iogurte porque:",
+"o": [
+"A caseína atinge seu ponto isoelétrico",
+"As ligações peptídicas da caseína são hidrolisadas",
+"A lactose se polimeriza",
+"A gordura se desnatura"
+],
+"e": "A caseína tem pI ≈ 4,6 e precipita nesse pH."
+},
+{
+"c": "proteinas",
+"q": "Na eletroforese de proteínas séricas em pH 8,6, qual fração migra mais para o ânodo?",
+"o": [
+"Albumina",
+"γ-globulinas",
+"Fibrinogênio",
+"β-globulinas"
+],
+"e": "A albumina é a mais negativa e menor; as γ-globulinas ficam perto da aplicação."
+},
+{
+"c": "proteinas",
+"q": "A ligação peptídica é formada entre:",
+"o": [
+"Carboxila de um aminoácido e amino do seguinte",
+"Dois grupos amino de aminoácidos vizinhos",
+"Duas cadeias laterais de cisteína",
+"O carbono α e a cadeia lateral"
+],
+"e": "É uma ligação amida formada por condensação, com saída de água."
+},
+{
+"c": "proteinas",
+"q": "Qual característica da ligação peptídica está correta?",
+"o": [
+"É rígida e plana, sem rotação",
+"Gira livremente como ligação simples",
+"É uma ligação iônica fraca",
+"É rompida na desnaturação"
+],
+"e": "Tem caráter parcial de dupla ligação; a flexibilidade está em torno do carbono α."
+},
+{
+"c": "proteinas",
+"q": "A hélice α e a folha β-pregueada são exemplos de qual nível de estrutura?",
+"o": [
+"Secundária",
+"Primária",
+"Terciária",
+"Quaternária"
+],
+"e": "São dobramentos locais estabilizados por pontes de H do esqueleto."
+},
+{
+"c": "proteinas",
+"q": "A hemoglobina, com quatro cadeias polipeptídicas, possui estrutura:",
+"o": [
+"Quaternária",
+"Primária apenas",
+"Secundária apenas",
+"Terciária apenas"
+],
+"e": "A associação de subunidades é a estrutura quaternária."
+},
+{
+"c": "proteinas",
+"q": "Na desnaturação, qual estrutura permanece intacta?",
+"o": [
+"A primária",
+"A secundária",
+"A terciária",
+"A quaternária"
+],
+"e": "Não há quebra de ligações peptídicas; a sequência se mantém."
+},
+{
+"c": "proteinas",
+"q": "Qual destes NÃO é um agente desnaturante de proteínas?",
+"o": [
+"Água a 25 °C",
+"Calor de autoclave",
+"pH muito ácido",
+"Chumbo e mercúrio"
+],
+"e": "Calor, pH, solventes, ureia concentrada e metais pesados desnaturam; água em temperatura ambiente não."
+},
+{
+"c": "proteinas",
+"q": "Por que a carne cozida é mais digestível?",
+"o": [
+"A desnaturação expõe a cadeia às proteases",
+"O cozimento hidrolisa todos os peptídeos",
+"O calor transforma proteína em glicose",
+"O calor ativa o pepsinogênio da carne"
+],
+"e": "A cadeia desenrolada fica acessível às enzimas digestivas."
+},
+{
+"c": "proteinas",
+"q": "Na encefalopatia espongiforme bovina, o príon difere da proteína normal por:",
+"o": [
+"Conformação, com mais folha β",
+"Sequência de aminoácidos diferente",
+"Ausência de ligações peptídicas",
+"Presença de DNA viral"
+],
+"e": "É uma doença de estrutura: mesma sequência, dobramento anormal e resistente."
+},
+{
+"c": "proteinas",
+"q": "Por que cobaias com dieta sem vitamina C desenvolvem escorbuto?",
+"o": [
+"A hidroxilação da prolina do colágeno falha",
+"A queratina perde as pontes dissulfeto",
+"A hemoglobina perde o heme",
+"A albumina deixa de ser sintetizada"
+],
+"e": "A prolil hidroxilase depende de ascorbato; o colágeno fica instável."
+},
+{
+"c": "proteinas",
+"q": "A repetição Gly–X–Y, rica em prolina e hidroxiprolina, é típica de:",
+"o": [
+"Colágeno",
+"Queratina",
+"Mioglobina",
+"Albumina"
+],
+"e": "É a assinatura da tripla hélice do colágeno."
+},
+{
+"c": "proteinas",
+"q": "A 'lã de aço' de ovinos com deficiência de cobre resulta de falha em:",
+"o": [
+"Pontes dissulfeto da queratina",
+"Hidroxilação do colágeno",
+"Síntese de elastina",
+"Ligação do heme à cadeia de globina"
+],
+"e": "A formação das pontes dissulfeto da queratina depende de enzimas com cobre."
+},
+{
+"c": "proteinas",
+"q": "Qual comparação entre mioglobina e hemoglobina está correta?",
+"o": [
+"Mioglobina é monômero com curva hiperbólica",
+"Mioglobina é tetrâmero com curva sigmoide",
+"Hemoglobina tem um único heme",
+"Hemoglobina não sofre efeito de H+"
+],
+"e": "A mioglobina tem uma cadeia e alta afinidade; a hemoglobina, quatro e cooperatividade."
+},
+{
+"c": "proteinas",
+"q": "Uma proteína conjugada é aquela que:",
+"o": [
+"Tem um grupo prostético não proteico",
+"É formada por duas cadeias iguais",
+"Libera só aminoácidos na hidrólise",
+"Está ligada a outra proteína"
+],
+"e": "Ex.: heme na hemoglobina, açúcar nas glicoproteínas, lipídio nas lipoproteínas."
+},
+{
+"c": "proteinas",
+"q": "As imunoglobulinas exemplificam qual função proteica?",
+"o": [
+"Defesa",
+"Transporte",
+"Contração",
+"Armazenamento"
+],
+"e": "Os anticorpos são proteínas de defesa."
+},
+{
+"c": "proteinas",
+"q": "Como as enzimas aceleram as reações?",
+"o": [
+"Diminuindo a energia de ativação",
+"Alterando o equilíbrio da reação",
+"Sendo consumidas na reação",
+"Aumentando a energia dos produtos"
+],
+"e": "Enzimas não mudam o equilíbrio nem são consumidas."
+},
+{
+"c": "proteinas",
+"q": "Km é definido como:",
+"o": [
+"[S] que produz metade da Vmax",
+"A velocidade máxima da enzima",
+"A [S] que satura a enzima",
+"A constante de inibição"
+],
+"e": "Km baixo indica afinidade alta."
+},
+{
+"c": "proteinas",
+"q": "Uma enzima com Km muito baixo para seu substrato tem:",
+"o": [
+"Alta afinidade pelo substrato",
+"Baixa afinidade pelo substrato",
+"Vmax necessariamente baixa",
+"Inibição competitiva intrínseca"
+],
+"e": "Pouco substrato já basta para metade da Vmax."
+},
+{
+"c": "proteinas",
+"q": "O que um inibidor competitivo faz com os parâmetros cinéticos?",
+"o": [
+"Aumenta o Km e mantém a Vmax",
+"Reduz a Vmax e mantém o Km",
+"Reduz Km e Vmax",
+"Aumenta a Vmax e o Km"
+],
+"e": "Ele disputa o sítio ativo; excesso de substrato o supera."
+},
+{
+"c": "proteinas",
+"q": "No tratamento da intoxicação por etilenoglicol, o fomepizol atua como:",
+"o": [
+"Inibidor competitivo da álcool desidrogenase",
+"Inibidor irreversível da acetilcolinesterase",
+"Ativador da glutamato desidrogenase",
+"Quelante de metais pesados"
+],
+"e": "Compete pela enzima e o etilenoglicol sai intacto na urina."
+},
+{
+"c": "proteinas",
+"q": "Chumbo e mercúrio ligados a grupos –SH de enzimas causam inibição:",
+"o": [
+"Não competitiva, com queda da Vmax",
+"Competitiva, com aumento do Km",
+"Alostérica positiva",
+"Por excesso de substrato"
+],
+"e": "Ligam-se fora do sítio ativo e deformam a enzima."
+},
+{
+"c": "proteinas",
+"q": "Organofosforados intoxicam cães e bovinos porque:",
+"o": [
+"Inibem a acetilcolinesterase",
+"Bloqueiam a aconitase",
+"Inibem a citocromo oxidase",
+"Ativam a álcool desidrogenase"
+],
+"e": "A acetilcolina acumula nas sinapses: crise colinérgica."
+},
+{
+"c": "proteinas",
+"q": "Plantas como a erva-de-rato (Palicourea marcgravii) matam bovinos subitamente porque o fluorocitrato inibe:",
+"o": [
+"Aconitase do ciclo de Krebs",
+"Acetilcolinesterase",
+"Álcool desidrogenase",
+"Arginase do ciclo da ureia hepático"
+],
+"e": "O monofluoroacetato vira fluorocitrato, que bloqueia a aconitase."
+},
+{
+"c": "proteinas",
+"q": "Qual é o pH ótimo aproximado da pepsina?",
+"o": [
+"2",
+"5",
+"7,4",
+"8"
+],
+"e": "A pepsina atua no estômago ácido; a tripsina, por volta de pH 8."
+},
+{
+"c": "proteinas",
+"q": "Por que a atividade enzimática cai em temperaturas acima de ~45 °C?",
+"o": [
+"A enzima desnatura",
+"O substrato se esgota",
+"O Km diminui",
+"As colisões ficam mais lentas"
+],
+"e": "O calor desfaz a conformação do sítio ativo."
+},
+{
+"c": "proteinas",
+"q": "Qual enzima é hepatoespecífica em cães e gatos, mas pouco útil em equinos e bovinos?",
+"o": [
+"ALT",
+"AST",
+"CK",
+"GGT"
+],
+"e": "Grandes animais têm pouca ALT no fígado; usam-se SDH, GLDH, AST e GGT."
+},
+{
+"c": "proteinas",
+"q": "Um equino com CK muito alta e AST normal sugere:",
+"o": [
+"Lesão muscular recente",
+"Lesão hepática crônica",
+"Colestase grave",
+"Pancreatite aguda"
+],
+"e": "CK sobe e cai rápido; AST sobe mais devagar e persiste."
+},
+{
+"c": "proteinas",
+"q": "Em cães, um aumento acentuado de FA com ALT discreta pode ser explicado por:",
+"o": [
+"Indução por glicocorticoides",
+"Lesão muscular aguda",
+"Hemólise na amostra",
+"Jejum prolongado antes da coleta"
+],
+"e": "Corticoides induzem uma isoenzima de FA própria do cão."
+},
+{
+"c": "proteinas",
+"q": "A GGT sérica muito alta em bezerros nos primeiros dias de vida indica geralmente:",
+"o": [
+"Ingestão de colostro",
+"Colestase congênita",
+"Lesão renal aguda",
+"Falha de transferência passiva"
+],
+"e": "O colostro é rico em GGT, absorvida pelo neonato."
+},
+{
+"c": "proteinas",
+"q": "Qual proteína plasmática responde pela maior parte da pressão oncótica?",
+"o": [
+"Albumina",
+"Fibrinogênio",
+"γ-globulinas",
+"Haptoglobina"
+],
+"e": "A albumina é responsável por cerca de 75% da pressão oncótica."
+},
+{
+"c": "proteinas",
+"q": "Um aumento isolado de albumina no soro de um cão indica, em geral:",
+"o": [
+"Desidratação",
+"Hepatopatia crônica",
+"Glomerulopatia",
+"Inflamação aguda"
+],
+"e": "Não há doença que aumente a síntese de albumina; é hemoconcentração."
+},
+{
+"c": "proteinas",
+"q": "Gato com efusão abdominal e relação albumina/globulina de 0,3. Qual suspeita principal?",
+"o": [
+"Peritonite infecciosa felina",
+"Insuficiência pancreática exócrina",
+"Hipertireoidismo",
+"Lipidose hepática"
+],
+"e": "A/G < 0,4 torna a PIF provável."
+},
+{
+"c": "proteinas",
+"q": "Qual destas causas NÃO provoca hipoalbuminemia?",
+"o": [
+"Hemoconcentração por desidratação",
+"Glomerulopatia com proteinúria",
+"Insuficiência hepática",
+"Enteropatia perdedora de proteína"
+],
+"e": "Desidratação eleva a albumina; as demais reduzem."
+},
+{
+"c": "proteinas",
+"q": "Em bovinos e equinos, qual proteína plasmática é marcador sensível de inflamação?",
+"o": [
+"Fibrinogênio",
+"Albumina",
+"Transferrina",
+"Insulina"
+],
+"e": "A hiperfibrinogenemia acompanha inflamação nessas espécies."
+},
+{
+"c": "proteinas",
+"q": "Um bezerro com 36 h de vida tem proteína total sérica de 4,6 g/dL. Isso sugere:",
+"o": [
+"Falha de transferência passiva",
+"Transferência adequada de imunidade",
+"Desidratação grave",
+"Gamopatia monoclonal"
+],
+"e": "Valores ≥ 5,5 g/dL indicam transferência adequada; abaixo de ≈5,0, falha."
+},
+{
+"c": "proteinas",
+"q": "Qual enzima ativa o tripsinogênio no duodeno?",
+"o": [
+"Enteropeptidase",
+"Pepsina",
+"Quimosina",
+"Carboxipeptidase"
+],
+"e": "A enteropeptidase da borda em escova forma tripsina, que ativa os demais zimogênios."
+},
+{
+"c": "proteinas",
+"q": "A tripsina cliva ligações peptídicas após quais aminoácidos?",
+"o": [
+"Lisina e arginina",
+"Fenilalanina e tirosina",
+"Alanina e glicina",
+"Prolina e serina"
+],
+"e": "Tripsina: básicos; quimotripsina: aromáticos; elastase: pequenos."
+},
+{
+"c": "proteinas",
+"q": "Os di e tripeptídeos são absorvidos no enterócito principalmente por:",
+"o": [
+"PepT1, em cotransporte com H+",
+"GLUT5, por difusão facilitada",
+"Pinocitose inespecífica",
+"Bomba Na+/K+ diretamente"
+],
+"e": "Dentro da célula, peptidases citosólicas os quebram em aminoácidos."
+},
+{
+"c": "proteinas",
+"q": "Pastor Alemão que come muito, emagrece e tem fezes volumosas e gordurosas. Exame indicado:",
+"o": [
+"TLI sérica",
+"ALT sérica",
+"Creatinina sérica",
+"Amônia em jejum"
+],
+"e": "TLI baixa confirma insuficiência pancreática exócrina."
+},
+{
+"c": "proteinas",
+"q": "Qual a função da quimosina no abomaso do bezerro lactente?",
+"o": [
+"Coagular a caseína do leite",
+"Ativar o tripsinogênio",
+"Digerir a celulose",
+"Absorver imunoglobulinas"
+],
+"e": "O coágulo retém o leite no abomaso por mais tempo."
+},
+{
+"c": "proteinas",
+"q": "A soja crua prejudica o desempenho de aves e suínos principalmente por conter:",
+"o": [
+"Inibidores de tripsina",
+"Excesso de lisina",
+"Taurina em excesso na formulação",
+"Pepsinogênio vegetal"
+],
+"e": "O tratamento térmico os inativa; a atividade ureática verifica a tostagem."
+}
+]
