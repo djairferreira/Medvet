@@ -1,0 +1,497 @@
+[
+{
+"c": "potencial",
+"q": "Qual íon mais determina o valor do potencial de repouso de um neurônio?",
+"o": [
+"K⁺, pelos canais de vazamento",
+"Na⁺, pelos canais dependentes de voltagem",
+"Ca²⁺, pelos canais do tipo L",
+"Cl⁻, pelo cotransportador NKCC1"
+],
+"e": "Em repouso a membrana é muito mais permeável ao K⁺, por isso o Vm fica perto do E_K."
+},
+{
+"c": "potencial",
+"q": "O potencial de repouso típico de um neurônio de mamífero é de aproximadamente:",
+"o": [
+"−70 mV",
+"+30 mV",
+"−20 mV",
+"−120 mV"
+],
+"e": "Neurônios repousam em torno de −70 mV; fibra esquelética, perto de −90 mV."
+},
+{
+"c": "potencial",
+"q": "Pela equação de Nernst a 37 °C, com K⁺ 4 mM fora e 140 mM dentro, o E_K é cerca de:",
+"o": [
+"−95 mV",
+"+95 mV",
+"−60 mV",
+"−35 mV"
+],
+"e": "61,5 × log(4/140) ≈ 61,5 × (−1,54) ≈ −95 mV."
+},
+{
+"c": "potencial",
+"q": "Se a concentração de um cátion monovalente é 10 vezes maior fora do que dentro, seu potencial de equilíbrio é cerca de:",
+"o": [
+"+61 mV",
+"−61 mV",
+"+10 mV",
+"−6 mV"
+],
+"e": "Cada 10 vezes de diferença vale cerca de 61 mV; mais concentrado fora → potencial positivo."
+},
+{
+"c": "potencial",
+"q": "Por que o potencial de repouso (−70 mV) não é igual ao E_K (−95 mV)?",
+"o": [
+"Há um pequeno vazamento de Na⁺ para dentro",
+"A bomba de Na⁺/K⁺ está parada em repouso",
+"Os canais de K⁺ ficam fechados no repouso",
+"O Cl⁻ é bombeado ativamente para fora"
+],
+"e": "A permeabilidade ao Na⁺ é pequena mas não nula; ela puxa o Vm em direção ao E_Na."
+},
+{
+"c": "potencial",
+"q": "A equação de Goldman-Hodgkin-Katz difere da de Nernst porque:",
+"o": [
+"Pondera vários íons pela permeabilidade",
+"Considera apenas o íon mais abundante",
+"Ignora as concentrações intracelulares",
+"Só vale para íons divalentes como Ca²⁺"
+],
+"e": "Goldman calcula o Vm como média ponderada pelas permeabilidades de K⁺, Na⁺ e Cl⁻."
+},
+{
+"c": "potencial",
+"q": "Sobre a Na⁺/K⁺-ATPase, é correto afirmar que:",
+"o": [
+"É eletrogênica e mantém os gradientes",
+"Gera diretamente todo o potencial de repouso",
+"Transporta 2 Na⁺ para fora e 3 K⁺ para dentro",
+"É necessária para repolarizar cada potencial"
+],
+"e": "Leva 3 Na⁺ para fora e 2 K⁺ para dentro; contribui poucos mV diretamente, e seu papel principal é manter os gradientes."
+},
+{
+"c": "potencial",
+"q": "Se a bomba de Na⁺/K⁺ for bloqueada com ouabaína, o potencial de repouso:",
+"o": [
+"Diminui gradualmente com a perda dos gradientes",
+"Desaparece no mesmo instante",
+"Torna-se mais negativo de imediato",
+"Não se altera em nenhum momento"
+],
+"e": "Os gradientes se dissipam aos poucos; o Vm cai ao longo de minutos a horas."
+},
+{
+"c": "potencial",
+"q": "Durante um único potencial de ação, as concentrações intracelulares de Na⁺ e K⁺:",
+"o": [
+"Praticamente não se alteram",
+"Invertem-se entre dentro e fora",
+"Igualam-se nos dois lados",
+"Mudam em cerca de 50%"
+],
+"e": "O número de íons necessários para mudar a voltagem é minúsculo em relação ao total."
+},
+{
+"c": "potencial",
+"q": "Qual característica pertence ao potencial graduado e não ao potencial de ação?",
+"o": [
+"Amplitude proporcional ao estímulo",
+"Obediência à lei do tudo ou nada",
+"Propagação sem perda de amplitude",
+"Presença de período refratário"
+],
+"e": "Potenciais graduados variam com o estímulo, somam e decaem com a distância."
+},
+{
+"c": "potencial",
+"q": "Onde é mais baixo o limiar para disparar um potencial de ação em um neurônio motor?",
+"o": [
+"No cone de implantação",
+"Nos dendritos distais",
+"No núcleo do neurônio",
+"Na bainha de mielina"
+],
+"e": "O segmento inicial tem grande densidade de canais de Na⁺ dependentes de voltagem."
+},
+{
+"c": "potencial",
+"q": "A fase ascendente do potencial de ação deve-se principalmente a:",
+"o": [
+"Entrada de Na⁺ por canais dependentes de voltagem",
+"Saída de K⁺ pelos canais de vazamento",
+"Entrada de Cl⁻ por canais ligados a GABA",
+"Ação da bomba de Na⁺/K⁺ invertida"
+],
+"e": "A abertura dos canais de Na⁺ cria uma retroalimentação positiva."
+},
+{
+"c": "potencial",
+"q": "A repolarização do potencial de ação depende de:",
+"o": [
+"Inativação do Na⁺ e abertura de canais de K⁺",
+"Abertura de mais canais de Na⁺ dependentes de voltagem",
+"Fechamento dos canais de vazamento de K⁺",
+"Entrada de Ca²⁺ pelo retículo endoplasmático"
+],
+"e": "As comportas h fecham e os canais de K⁺ retificadores retardados deixam o K⁺ sair."
+},
+{
+"c": "potencial",
+"q": "A hiperpolarização pós-potencial ocorre porque:",
+"o": [
+"Canais de K⁺ demoram a fechar",
+"A bomba de Na⁺/K⁺ acelera muito",
+"Canais de Na⁺ continuam abertos",
+"O Cl⁻ sai da célula em grande quantidade"
+],
+"e": "A permeabilidade ao K⁺ fica acima da de repouso por alguns ms, aproximando o Vm do E_K."
+},
+{
+"c": "potencial",
+"q": "No canal de Na⁺ dependente de voltagem em repouso, as comportas estão:",
+"o": [
+"m fechada e h aberta",
+"m aberta e h fechada",
+"m e h fechadas",
+"m e h abertas"
+],
+"e": "Fechado mas pronto: ativação (m) fechada, inativação (h) aberta."
+},
+{
+"c": "potencial",
+"q": "O estado “inativado” do canal de Na⁺ caracteriza-se por:",
+"o": [
+"Comporta h fechada, sem reabrir até repolarizar",
+"Comporta m fechada, pronto para abrir de novo",
+"Canal aberto com Na⁺ entrando rapidamente",
+"Canal permanentemente destruído por proteases"
+],
+"e": "A inativação só se desfaz quando a membrana repolariza."
+},
+{
+"c": "potencial",
+"q": "O que explica o período refratário absoluto?",
+"o": [
+"Canais de Na⁺ abertos ou inativados",
+"Falta de ATP para a bomba de Na⁺/K⁺",
+"Esgotamento do K⁺ intracelular",
+"Acúmulo de Ca²⁺ dentro do axônio"
+],
+"e": "Enquanto os canais de Na⁺ estão inativados, nenhum estímulo gera novo potencial."
+},
+{
+"c": "potencial",
+"q": "Durante o período refratário relativo:",
+"o": [
+"Um estímulo mais forte que o normal dispara",
+"Nenhum estímulo consegue gerar um potencial",
+"O neurônio dispara espontaneamente",
+"O limiar fica mais baixo que no repouso"
+],
+"e": "Parte dos canais de Na⁺ já se recuperou, mas a condutância ao K⁺ ainda está alta."
+},
+{
+"c": "potencial",
+"q": "Um estímulo duas vezes mais forte que o limiar produz, em relação a um estímulo limiar:",
+"o": [
+"Potenciais de ação mais frequentes",
+"Um potencial de ação com o dobro de amplitude",
+"Um potencial de ação mais longo e mais alto",
+"Uma hiperpolarização em vez de despolarização"
+],
+"e": "Pela lei do tudo ou nada, a intensidade é codificada pela frequência e pelo recrutamento."
+},
+{
+"c": "potencial",
+"q": "Qual destas afirmações sobre a lei do tudo ou nada está correta?",
+"o": [
+"Acima do limiar, a amplitude é sempre a mesma",
+"Estímulos fortes produzem picos maiores",
+"Ela também vale para os potenciais graduados",
+"Só se aplica às fibras mielinizadas"
+],
+"e": "Uma vez atingido o limiar, o potencial de ação acontece completo."
+},
+{
+"c": "potencial",
+"q": "O impulso nervoso propaga-se num só sentido no axônio porque:",
+"o": [
+"O trecho anterior está refratário",
+"A mielina impede o retorno da corrente",
+"Os canais de K⁺ só existem à frente",
+"O axônio é mais grosso no terminal"
+],
+"e": "A membrana que acabou de disparar está com canais de Na⁺ inativados."
+},
+{
+"c": "potencial",
+"q": "Na condução saltatória, os canais de Na⁺ concentram-se:",
+"o": [
+"Nos nodos de Ranvier",
+"Sob a bainha de mielina",
+"Somente nos dendritos",
+"No núcleo da célula de Schwann"
+],
+"e": "Os nodos têm milhares de canais por µm²; o internodo tem poucos."
+},
+{
+"c": "potencial",
+"q": "No sistema nervoso periférico, a mielina é formada por:",
+"o": [
+"Células de Schwann",
+"Oligodendrócitos",
+"Astrócitos",
+"Células da micróglia"
+],
+"e": "No SNC, os oligodendrócitos; no SNP, as células de Schwann (uma por internodo)."
+},
+{
+"c": "potencial",
+"q": "Qual fibra conduz mais rápido?",
+"o": [
+"Aα, grossa e mielinizada",
+"C, fina e amielínica",
+"B, pré-ganglionar autonômica",
+"Aδ, fina e pouco mielinizada"
+],
+"e": "Aα: 12–20 µm, 70–120 m/s."
+},
+{
+"c": "potencial",
+"q": "As fibras C, de dor lenta, conduzem a cerca de:",
+"o": [
+"0,5 a 2 m/s",
+"70 a 120 m/s",
+"30 a 70 m/s",
+"200 a 300 m/s"
+],
+"e": "São finas e amielínicas."
+},
+{
+"c": "potencial",
+"q": "A velocidade de condução aumenta com o diâmetro do axônio porque:",
+"o": [
+"Diminui a resistência interna ao fluxo de corrente",
+"Aumenta o número de bombas de Na⁺/K⁺",
+"Reduz a concentração de K⁺ intracelular",
+"Aumenta a espessura da fenda sináptica"
+],
+"e": "Axônio mais grosso conduz a corrente local mais longe."
+},
+{
+"c": "potencial",
+"q": "Um gato macho obstruído chega com K⁺ de 9 mEq/L. O que ocorre com o potencial de repouso do miocárdio?",
+"o": [
+"Fica menos negativo",
+"Fica mais negativo",
+"Não se altera",
+"Torna-se positivo, +20 mV"
+],
+"e": "Pela equação de Goldman, K⁺ extracelular alto despolariza a membrana."
+},
+{
+"c": "potencial",
+"q": "Por que a hipercalemia grave deprime a excitabilidade cardíaca?",
+"o": [
+"A despolarização sustentada inativa canais de Na⁺",
+"O K⁺ alto bloqueia diretamente a bomba de Na⁺/K⁺",
+"O limiar fica mais baixo e o coração se fadiga",
+"O Ca²⁺ intracelular cai a zero"
+],
+"e": "Acomodação: canais de Na⁺ inativados não abrem."
+},
+{
+"c": "potencial",
+"q": "Achado de ECG esperado num gato com hipercalemia grave:",
+"o": [
+"Bradicardia com onda P ausente",
+"Taquicardia sinusal com P alta",
+"Segmento ST elevado isoladamente",
+"QRS estreito com T invertida"
+],
+"e": "Ondas T apiculadas, P ausente, QRS largo e bradicardia são típicos."
+},
+{
+"c": "potencial",
+"q": "O gluconato de cálcio IV no gato hipercalêmico atua principalmente:",
+"o": [
+"Elevando o limiar e protegendo o coração",
+"Levando K⁺ para dentro das células",
+"Aumentando a excreção renal de K⁺",
+"Bloqueando os canais de K⁺ cardíacos"
+],
+"e": "Não baixa o K⁺; restaura a diferença entre repouso e limiar por 20–30 min."
+},
+{
+"c": "potencial",
+"q": "Qual tratamento reduz de fato o K⁺ sérico, levando-o para dentro das células?",
+"o": [
+"Insulina regular com glicose",
+"Gluconato de cálcio a 10%",
+"Solução de cloreto de potássio",
+"Lidocaína em bolus intravenoso"
+],
+"e": "A insulina estimula a Na⁺/K⁺-ATPase; a glicose evita hipoglicemia."
+},
+{
+"c": "potencial",
+"q": "A hipocalemia tende a causar fraqueza muscular porque:",
+"o": [
+"Hiperpolariza a membrana, afastando-a do limiar",
+"Despolariza a membrana e inativa canais",
+"Aumenta a liberação de acetilcolina",
+"Diminui o Ca²⁺ do retículo sarcoplasmático"
+],
+"e": "K⁺ baixo torna o E_K e o Vm mais negativos."
+},
+{
+"c": "potencial",
+"q": "A hipocalcemia aumenta a excitabilidade neuromuscular porque:",
+"o": [
+"Os canais de Na⁺ abrem com menor despolarização",
+"O potencial de repouso fica mais negativo",
+"Os canais de K⁺ abrem mais facilmente",
+"A bomba de Na⁺/K⁺ trabalha mais rápido"
+],
+"e": "O Ca²⁺ estabiliza as comportas; sem ele o limiar cai."
+},
+{
+"c": "potencial",
+"q": "Cadela Chihuahua, 2 semanas após parir 6 filhotes, com tremores, rigidez e hipertermia. Diagnóstico mais provável:",
+"o": [
+"Eclâmpsia por hipocalcemia",
+"Hipercalemia por obstrução",
+"Intoxicação por lidocaína",
+"Desmielinização periférica"
+],
+"e": "Tetania puerperal: hipocalcemia em cadelas pequenas lactantes."
+},
+{
+"c": "potencial",
+"q": "Por que a vaca com hipocalcemia puerperal fica caída e flácida, sem tetania?",
+"o": [
+"Falta Ca²⁺ para liberar ACh e contrair o músculo",
+"O Ca²⁺ baixo eleva o limiar dos nervos",
+"A vaca não tem canais de Na⁺ musculares",
+"A hipocalcemia causa hipercalemia associada"
+],
+"e": "Na vaca predomina a falha na junção neuromuscular e na contração."
+},
+{
+"c": "potencial",
+"q": "A lidocaína bloqueia a condução nervosa porque:",
+"o": [
+"Bloqueia canais de Na⁺ pelo lado interno",
+"Abre canais de K⁺ e hiperpolariza o axônio",
+"Inibe a bomba de Na⁺/K⁺ do nervo",
+"Destrói a bainha de mielina localmente"
+],
+"e": "A forma ionizada ocupa o poro do canal de Na⁺ pelo citosol."
+},
+{
+"c": "potencial",
+"q": "Por que o anestésico local falha num abscesso?",
+"o": [
+"O pH ácido aumenta a forma ionizada fora do nervo",
+"O pus contém enzimas que degradam o fármaco",
+"A temperatura alta abre canais de K⁺",
+"As fibras inflamadas não têm canais de Na⁺"
+],
+"e": "Menos forma não ionizada consegue atravessar a membrana."
+},
+{
+"c": "potencial",
+"q": "Que fibras são bloqueadas primeiro por um anestésico local?",
+"o": [
+"Finas, como as C de dor",
+"Grossas motoras Aα",
+"Somente as de propriocepção",
+"Todas exatamente ao mesmo tempo"
+],
+"e": "Fibras finas e com alta frequência de disparo são mais sensíveis."
+},
+{
+"c": "potencial",
+"q": "A tetrodotoxina, presente no baiacu, causa paralisia porque:",
+"o": [
+"Bloqueia o poro do canal de Na⁺ por fora",
+"Impede a liberação de acetilcolina",
+"Mantém os canais de Na⁺ sempre abertos",
+"Inibe a acetilcolinesterase da placa"
+],
+"e": "TTX e saxitoxina ocluem o canal de Na⁺ pelo lado extracelular."
+},
+{
+"c": "potencial",
+"q": "Um gato recebeu um spot-on de permetrina para cães e está com tremores e convulsões. A permetrina:",
+"o": [
+"Retarda a inativação dos canais de Na⁺",
+"Bloqueia os canais de Na⁺ pelo lado externo",
+"Hiperpolariza os neurônios abrindo Cl⁻",
+"Inibe a síntese de mielina no SNC"
+],
+"e": "Piretroides prolongam a abertura dos canais de Na⁺ e causam disparos repetitivos."
+},
+{
+"c": "potencial",
+"q": "A paralisia periódica hipercalêmica (HYPP) do Quarto de Milha deve-se a:",
+"o": [
+"Mutação no canal de Na⁺ do músculo (SCN4A)",
+"Deficiência de bomba de Na⁺/K⁺ renal",
+"Desmielinização dos nervos periféricos",
+"Mutação no receptor de acetilcolina"
+],
+"e": "Canais mutantes falham em inativar quando o K⁺ sobe."
+},
+{
+"c": "potencial",
+"q": "Qual doença NÃO é primariamente desmielinizante?",
+"o": [
+"Hipercalemia do gato obstruído",
+"Polirradiculoneurite canina",
+"Doença de Marek das aves",
+"Tremor congênito dos leitões"
+],
+"e": "A hipercalemia altera o potencial de repouso, não a mielina."
+},
+{
+"c": "potencial",
+"q": "O efeito principal da desmielinização sobre a condução é:",
+"o": [
+"Lentidão ou bloqueio do impulso",
+"Aumento da velocidade de condução",
+"Inversão do sentido de propagação",
+"Potenciais de ação maiores"
+],
+"e": "A corrente local vaza no internodo, que tem poucos canais de Na⁺."
+},
+{
+"c": "potencial",
+"q": "No laboratório, ao aumentar o bloqueio dos canais de Na⁺ para 80%, o que se espera?",
+"o": [
+"Ausência de potencial de ação mesmo com estímulo forte",
+"Potencial de ação com pico mais alto que o normal",
+"Disparos espontâneos repetitivos sem estímulo",
+"Repouso muito mais negativo, perto de −100 mV"
+],
+"e": "Sem corrente de Na⁺ suficiente não há retroalimentação positiva."
+},
+{
+"c": "potencial",
+"q": "O potencial de equilíbrio do Ca²⁺ é muito positivo (+120 mV) porque:",
+"o": [
+"O Ca²⁺ livre intracelular é cerca de 10 mil vezes menor",
+"O Ca²⁺ é um ânion divalente",
+"Não há canais de Ca²⁺ na membrana",
+"O Ca²⁺ é bombeado para dentro da célula"
+],
+"e": "A enorme diferença de concentração gera E_Ca muito positivo, mesmo com z = 2."
+}
+]
