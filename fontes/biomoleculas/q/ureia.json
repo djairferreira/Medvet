@@ -1,0 +1,684 @@
+[
+{
+"c": "ureia",
+"q": "Por que se diz que não existe estoque de aminoácidos no organismo?",
+"o": [
+"Há só um pequeno pool livre, sem reserva",
+"Eles ficam guardados no tecido adiposo",
+"O fígado os armazena como glicogênio",
+"São estocados como reserva na medula óssea"
+],
+"e": "Diferentemente do glicogênio e dos triglicerídeos, não há reserva de aminoácidos; o excesso é degradado."
+},
+{
+"c": "ureia",
+"q": "Qual destas NÃO é uma fonte do pool de aminoácidos?",
+"o": [
+"Excreção de ureia",
+"Digestão da proteína da dieta",
+"Degradação de proteínas corporais",
+"Síntese de não essenciais"
+],
+"e": "A ureia é uma saída do nitrogênio, não uma entrada do pool."
+},
+{
+"c": "ureia",
+"q": "A via ubiquitina-proteassomo serve para:",
+"o": [
+"Degradar proteínas marcadas, gastando ATP",
+"Sintetizar proteínas no retículo",
+"Transportar aminoácidos ao fígado",
+"Converter a amônia hepática em ureia"
+],
+"e": "Proteínas recebem ubiquitina e são picadas no proteassomo; o cortisol estimula essa via no músculo."
+},
+{
+"c": "ureia",
+"q": "Por que a carne de zebuínos tende a ser menos macia que a de taurinos?",
+"o": [
+"Têm mais calpastatina, inibidor das calpaínas",
+"Têm muito menos colágeno no tecido muscular",
+"Têm mais mioglobina nas fibras musculares",
+"Não possuem proteassomo funcional no músculo"
+],
+"e": "As calpaínas amaciam a carne na maturação; a calpastatina as inibe."
+},
+{
+"c": "ureia",
+"q": "Qual fator converte nitrogênio em proteína bruta?",
+"o": [
+"6,25",
+"2,14",
+"16",
+"4"
+],
+"e": "As proteínas têm em média 16% de N; 100/16 = 6,25."
+},
+{
+"c": "ureia",
+"q": "Qual situação produz balanço nitrogenado positivo?",
+"o": [
+"Crescimento de um potro",
+"Febre e sepse",
+"Jejum prolongado",
+"Hiperadrenocorticismo canino"
+],
+"e": "No crescimento, o corpo retém proteína."
+},
+{
+"c": "ureia",
+"q": "Uma dieta rica em proteína, mas sem um aminoácido essencial, leva a:",
+"o": [
+"Balanço nitrogenado negativo",
+"Balanço nitrogenado positivo",
+"Acúmulo de proteína no fígado",
+"Aumento da síntese muscular"
+],
+"e": "Sem o essencial, a síntese para e os demais aminoácidos são desaminados e excretados."
+},
+{
+"c": "ureia",
+"q": "Na transaminação, o grupo amino é transferido geralmente para:",
+"o": [
+"α-cetoglutarato, formando glutamato",
+"Oxaloacetato, formando ureia",
+"Piruvato, formando lactato",
+"Acetil-CoA, formando citrato"
+],
+"e": "O α-cetoglutarato é o aceptor principal; o glutamato concentra os grupos amino."
+},
+{
+"c": "ureia",
+"q": "Qual coenzima participa de todas as transaminações?",
+"o": [
+"Piridoxal fosfato (vitamina B6)",
+"Tiamina pirofosfato (B1)",
+"Coenzima A (pantotenato)",
+"Biotina (vitamina B7 ou H)"
+],
+"e": "O PLP recebe e entrega o grupo amino no mecanismo pingue-pongue."
+},
+{
+"c": "ureia",
+"q": "Qual reação é catalisada pela ALT?",
+"o": [
+"Alanina + α-cetoglutarato ⇌ piruvato + glutamato",
+"Aspartato + α-cetoglutarato ⇌ oxaloacetato + glutamato",
+"Glutamato ⇌ α-cetoglutarato + NH4+",
+"Arginina ⇌ ureia + ornitina"
+],
+"e": "A ALT (TGP) liga o metabolismo da alanina ao do piruvato."
+},
+{
+"c": "ureia",
+"q": "Qual reação é catalisada pela AST?",
+"o": [
+"Aspartato + α-cetoglutarato ⇌ oxaloacetato + glutamato",
+"Alanina + α-cetoglutarato ⇌ piruvato + glutamato",
+"Citrulina + aspartato ⇌ argininossuccinato",
+"Glutamato + NH4+ ⇌ glutamina"
+],
+"e": "A AST também fornece o aspartato que entra no ciclo da ureia."
+},
+{
+"c": "ureia",
+"q": "Uma característica da transaminação é:",
+"o": [
+"Ser reversível e não liberar amônia",
+"Liberar NH4+ livre na mitocôndria",
+"Consumir duas moléculas de ATP",
+"Ocorrer apenas no rim"
+],
+"e": "Por ser reversível, serve tanto para degradar quanto para sintetizar aminoácidos."
+},
+{
+"c": "ureia",
+"q": "Qual enzima realiza a desaminação oxidativa do glutamato?",
+"o": [
+"Glutamato desidrogenase",
+"Glutamina sintetase",
+"Alanina aminotransferase",
+"Carbamoil fosfato sintetase I"
+],
+"e": "A GDH, mitocondrial, libera NH4+ e regenera α-cetoglutarato."
+},
+{
+"c": "ureia",
+"q": "Uma particularidade da glutamato desidrogenase é:",
+"o": [
+"Usar NAD+ ou NADP+ como coenzima",
+"Ser inibida pelo ADP",
+"Atuar no citosol do músculo",
+"Depender de piridoxal fosfato"
+],
+"e": "É uma das raras enzimas que aceitam as duas coenzimas; ADP ativa e ATP inibe."
+},
+{
+"c": "ureia",
+"q": "Onde ocorre principalmente a desaminação oxidativa do glutamato?",
+"o": [
+"Matriz mitocondrial do hepatócito",
+"Citosol do enterócito",
+"Lisossomo do macrófago",
+"Retículo sarcoplasmático do miócito"
+],
+"e": "A GDH é mitocondrial e predomina no fígado."
+},
+{
+"c": "ureia",
+"q": "Quais aminoácidos são exclusivamente cetogênicos?",
+"o": [
+"Leucina e lisina",
+"Alanina e glicina",
+"Glutamato e aspartato",
+"Serina e cisteína"
+],
+"e": "Geram apenas acetil-CoA ou acetoacetil-CoA."
+},
+{
+"c": "ureia",
+"q": "Por que a acetil-CoA não forma glicose nos animais?",
+"o": [
+"A piruvato desidrogenase é irreversível",
+"Falta a enzima citrato sintase",
+"A acetil-CoA não entra no ciclo de Krebs",
+"O fígado não possui acetil-CoA"
+],
+"e": "Sem volta de acetil-CoA a piruvato, não há ganho líquido de oxaloacetato."
+},
+{
+"c": "ureia",
+"q": "A alanina é um aminoácido glicogênico porque:",
+"o": [
+"Por transaminação vira piruvato",
+"Forma acetoacetil-CoA diretamente",
+"É convertida em corpos cetônicos",
+"Origina ácidos graxos de cadeia longa"
+],
+"e": "O piruvato pode seguir para oxaloacetato e glicose."
+},
+{
+"c": "ureia",
+"q": "Qual aminoácido não essencial é formado a partir do 3-fosfoglicerato?",
+"o": [
+"Serina",
+"Alanina",
+"Aspartato",
+"Glutamato"
+],
+"e": "A serina origina também glicina e o esqueleto da cisteína."
+},
+{
+"c": "ureia",
+"q": "A tirosina é sintetizada a partir de:",
+"o": [
+"Fenilalanina, pela fenilalanina hidroxilase",
+"Triptofano, pela triptofano hidroxilase",
+"Glutamato, por transaminação",
+"Serina, pela cistationina sintase"
+],
+"e": "Por isso a tirosina é poupadora de fenilalanina."
+},
+{
+"c": "ureia",
+"q": "O enxofre da cisteína vem de qual aminoácido?",
+"o": [
+"Metionina",
+"Taurina",
+"Serina",
+"Lisina, via carnitina"
+],
+"e": "A metionina doa o enxofre via homocisteína; a serina fornece o esqueleto."
+},
+{
+"c": "ureia",
+"q": "Por que a amônia livre é tão tóxica para o sistema nervoso?",
+"o": [
+"Desvia α-cetoglutarato e incha os astrócitos",
+"Bloqueia a hemoglobina e causa hipóxia",
+"Destrói a bainha de mielina diretamente",
+"Inibe a bomba de prótons gástrica"
+],
+"e": "A síntese de glutamina nos astrócitos esgota o Krebs e causa edema osmótico."
+},
+{
+"c": "ureia",
+"q": "Qual é o principal transportador atóxico de amônia no sangue?",
+"o": [
+"Glutamina",
+"Ureia",
+"Creatinina",
+"Ácido úrico"
+],
+"e": "A glutamina sintetase incorpora NH4+ ao glutamato nos tecidos."
+},
+{
+"c": "ureia",
+"q": "No ciclo glicose-alanina, o músculo envia ao fígado:",
+"o": [
+"Alanina, que carrega o nitrogênio",
+"Lactato, que carrega o nitrogênio",
+"Glutamina, que carrega glicose",
+"Ureia já formada"
+],
+"e": "O fígado transforma o piruvato da alanina em glicose e o amino em ureia."
+},
+{
+"c": "ureia",
+"q": "Na acidose metabólica, o rim aumenta a excreção de ácido usando:",
+"o": [
+"Glutaminase, liberando NH4+ na urina",
+"Arginase, produzindo mais ureia renal",
+"Uricase, formando alantoína",
+"GDH, produzindo glutamato"
+],
+"e": "A amoniagênese renal a partir da glutamina elimina H+."
+},
+{
+"c": "ureia",
+"q": "Em que órgão a ureia é sintetizada?",
+"o": [
+"Fígado",
+"Rim",
+"Músculo esquelético",
+"Intestino delgado"
+],
+"e": "Só o fígado tem o ciclo completo e arginase abundante."
+},
+{
+"c": "ureia",
+"q": "Quais etapas do ciclo da ureia ocorrem na mitocôndria?",
+"o": [
+"CPS I e ornitina transcarbamoilase",
+"Arginase e argininossuccinato liase",
+"Argininossuccinato sintetase e liase",
+"Todas as cinco etapas"
+],
+"e": "As duas primeiras são mitocondriais; as três últimas, citosólicas."
+},
+{
+"c": "ureia",
+"q": "Qual é o ativador alostérico obrigatório da carbamoil fosfato sintetase I?",
+"o": [
+"N-acetilglutamato",
+"Citrulina",
+"Fumarato",
+"Frutose 2,6-bisfosfato"
+],
+"e": "O NAG é produzido quando há excesso de arginina e glutamato."
+},
+{
+"c": "ureia",
+"q": "De onde vêm os dois nitrogênios da ureia?",
+"o": [
+"Um do NH4+ e um do aspartato",
+"Dois do NH4+ livre",
+"Um da glutamina e um da creatina",
+"Dois do aspartato"
+],
+"e": "O NH4+ entra pela CPS I e o aspartato pela argininossuccinato sintetase."
+},
+{
+"c": "ureia",
+"q": "Qual enzima do ciclo libera fumarato?",
+"o": [
+"Argininossuccinato liase",
+"Arginase",
+"Ornitina transcarbamoilase",
+"Argininossuccinato sintetase"
+],
+"e": "Argininossuccinato → arginina + fumarato, que vai ao ciclo de Krebs."
+},
+{
+"c": "ureia",
+"q": "Qual enzima libera ureia e regenera ornitina?",
+"o": [
+"Arginase",
+"Argininossuccinato liase",
+"Carbamoil fosfato sintetase I",
+"Glutaminase"
+],
+"e": "Arginina + H2O → ureia + ornitina."
+},
+{
+"c": "ureia",
+"q": "Quantas ligações fosfato de alta energia custam uma molécula de ureia?",
+"o": [
+"4",
+"2",
+"3",
+"6"
+],
+"e": "2 na CPS I e 2 na argininossuccinato sintetase (ATP → AMP + PPi)."
+},
+{
+"c": "ureia",
+"q": "O que é a citrulinemia bovina?",
+"o": [
+"Deficiência de argininossuccinato sintetase",
+"Deficiência de arginase hepática",
+"Excesso de ornitina na dieta materna",
+"Intoxicação por ureia em bezerros"
+],
+"e": "Doença hereditária em bezerros Holandeses, com hiperamonemia neonatal."
+},
+{
+"c": "ureia",
+"q": "Animais uricotélicos incluem:",
+"o": [
+"Aves e répteis terrestres",
+"Peixes ósseos e girinos",
+"Mamíferos e anfíbios adultos",
+"Tubarões e raias"
+],
+"e": "Excretam ácido úrico, com mínima perda de água."
+},
+{
+"c": "ureia",
+"q": "Por que a arginina é essencial para as aves?",
+"o": [
+"Não têm ciclo da ureia funcional",
+"Usam arginina como combustível do voo",
+"Excretam toda a arginina nas penas",
+"A arginina forma a casca do ovo"
+],
+"e": "Sem CPS I mitocondrial, não fabricam arginina via ciclo da ureia."
+},
+{
+"c": "ureia",
+"q": "Frangos com depósitos brancos de urato sobre o coração e o fígado apresentam:",
+"o": [
+"Gota visceral",
+"Gota articular",
+"Lipidose hepática",
+"Amiloidose renal"
+],
+"e": "Geralmente secundária a lesão renal ou desidratação."
+},
+{
+"c": "ureia",
+"q": "Por que Dálmatas formam urólitos de urato?",
+"o": [
+"O fígado capta pouco urato para virar alantoína",
+"Não possuem ciclo da ureia funcional no fígado",
+"Excretam excesso de cistina e lisina na urina",
+"Têm deficiência hereditária de arginase hepática"
+],
+"e": "Mutação no transportador SLC2A9; o ácido úrico sai na urina."
+},
+{
+"c": "ureia",
+"q": "Um Yorkshire jovem, pequeno, com sinais neurológicos após comer e ureia baixa sugere:",
+"o": [
+"Shunt portossistêmico",
+"Insuficiência renal crônica",
+"Hiperadrenocorticismo",
+"Cistinúria"
+],
+"e": "O sangue portal escapa do fígado; amônia sobe e a ureia cai."
+},
+{
+"c": "ureia",
+"q": "Como a lactulose ajuda no tratamento da encefalopatia hepática?",
+"o": [
+"Acidifica o cólon e retém amônia como NH4+",
+"Aumenta a síntese hepática de ureia",
+"Inibe a glutamina sintetase",
+"Fornece arginina ao ciclo da ureia"
+],
+"e": "NH4+ é pouco absorvido e o trânsito acelera."
+},
+{
+"c": "ureia",
+"q": "Qual achado urinário é típico do shunt portossistêmico?",
+"o": [
+"Cristais de biurato de amônio",
+"Cristais de oxalato de cálcio",
+"Cilindros hialinos",
+"Cristais de cistina"
+],
+"e": "A hiperamonemia e a hiperuricemia favorecem o biurato de amônio."
+},
+{
+"c": "ureia",
+"q": "Azotemia com urina concentrada que se corrige com fluidoterapia indica:",
+"o": [
+"Azotemia pré-renal",
+"Azotemia renal",
+"Azotemia pós-renal",
+"Uremia terminal"
+],
+"e": "O rim está íntegro; faltava perfusão."
+},
+{
+"c": "ureia",
+"q": "Qual condição NÃO aumenta a ureia sanguínea?",
+"o": [
+"Insuficiência hepática",
+"Hemorragia digestiva",
+"Dieta muito proteica",
+"Desidratação com baixa perfusão renal"
+],
+"e": "Na insuficiência hepática a síntese de ureia cai."
+},
+{
+"c": "ureia",
+"q": "No rúmen, a ureia da dieta é hidrolisada em amônia e CO2 pela:",
+"o": [
+"Urease bacteriana",
+"Arginase salivar",
+"Pepsina abomasal",
+"Glutaminase hepática"
+],
+"e": "A urease microbiana age rapidamente."
+},
+{
+"c": "ureia",
+"q": "Para converter amônia em proteína microbiana, as bactérias ruminais precisam sobretudo de:",
+"o": [
+"Energia fermentável",
+"Taurina da dieta",
+"Pepsina ativa",
+"Ácido úrico pré-formado na dieta"
+],
+"e": "Sem carboidrato fermentável, a amônia sobra e é absorvida."
+},
+{
+"c": "ureia",
+"q": "A reciclagem de ureia no ruminante ocorre por:",
+"o": [
+"Saliva e difusão pela parede ruminal",
+"Bile e suco pancreático no duodeno",
+"Urina reabsorvida pela bexiga",
+"Leite reabsorvido pela glândula"
+],
+"e": "A ureia volta ao rúmen e vira amônia novamente."
+},
+{
+"c": "ureia",
+"q": "Uma faixa de amônia ruminal adequada ao crescimento microbiano é de aproximadamente:",
+"o": [
+"5 a 25 mg/dL",
+"80 a 120 mg/dL",
+"0,1 a 1 mg/dL",
+"200 a 300 mg/dL"
+],
+"e": "Abaixo de 5 falta N; muito acima, sobra amônia."
+},
+{
+"c": "ureia",
+"q": "Rebanho leiteiro com NUL de 20 mg/dL. Interpretação mais provável:",
+"o": [
+"Excesso de PDR ou falta de energia",
+"Deficiência grave de proteína",
+"Dieta perfeitamente equilibrada",
+"Insuficiência renal no rebanho"
+],
+"e": "NUL alto indica nitrogênio sobrando no rúmen."
+},
+{
+"c": "ureia",
+"q": "A ureia elevada no sangue de vacas no pós-parto está associada a:",
+"o": [
+"Menor taxa de concepção",
+"Maior produção de colostro",
+"Menor risco de cetose",
+"Melhor qualidade do sêmen"
+],
+"e": "Ureia e amônia alteram o ambiente uterino e o embrião."
+},
+{
+"c": "ureia",
+"q": "Qual fator NÃO aumenta o risco de intoxicação por ureia em bovinos?",
+"o": [
+"Adaptação gradual de três semanas",
+"Animais famintos ou em jejum",
+"Dieta pobre em energia",
+"Cocho de ureia exposto à chuva"
+],
+"e": "A adaptação aumenta as bactérias que usam amônia."
+},
+{
+"c": "ureia",
+"q": "O tratamento de emergência da intoxicação por ureia em bovinos é:",
+"o": [
+"Vinagre e água fria por sonda",
+"Bicarbonato de sódio oral",
+"Ureia adicional para adaptar",
+"Glicose intravenosa apenas"
+],
+"e": "O ácido converte NH3 em NH4+ e o frio reduz a urease."
+},
+{
+"c": "ureia",
+"q": "Por que o pH ruminal alcalino agrava a intoxicação por ureia?",
+"o": [
+"Aumenta a fração NH3, que é absorvida",
+"Ativa a pepsina presente no rúmen",
+"Reduz a atividade da urease",
+"Precipita a ureia no rúmen"
+],
+"e": "NH3 não ionizado atravessa a parede ruminal."
+},
+{
+"c": "ureia",
+"q": "O heme é sintetizado a partir de:",
+"o": [
+"Glicina e succinil-CoA",
+"Tirosina e iodo",
+"Triptofano e serotonina",
+"Arginina e ornitina"
+],
+"e": "A ALA sintase, dependente de PLP, inicia a via."
+},
+{
+"c": "ureia",
+"q": "A creatina é formada a partir de:",
+"o": [
+"Glicina, arginina e metionina",
+"Tirosina, fenilalanina e lisina",
+"Glutamato, cisteína e glicina",
+"Histidina, serina e valina"
+],
+"e": "A metionina doa o metil via SAM."
+},
+{
+"c": "ureia",
+"q": "As catecolaminas derivam de qual aminoácido?",
+"o": [
+"Tirosina",
+"Triptofano",
+"Histidina",
+"Glutamato"
+],
+"e": "Tirosina → L-DOPA → dopamina → noradrenalina → adrenalina."
+},
+{
+"c": "ureia",
+"q": "A melatonina, que regula a estacionalidade reprodutiva de ovinos e equinos, deriva do:",
+"o": [
+"Triptofano",
+"Glutamato",
+"Tirosina iodada",
+"Histidina"
+],
+"e": "Triptofano → serotonina → melatonina na pineal."
+},
+{
+"c": "ureia",
+"q": "A histamina é formada por descarboxilação de:",
+"o": [
+"Histidina",
+"Arginina",
+"Glutamina",
+"Lisina"
+],
+"e": "A histidina descarboxilase age em mastócitos e basófilos."
+},
+{
+"c": "ureia",
+"q": "O óxido nítrico, vasodilatador, é produzido a partir de:",
+"o": [
+"Arginina",
+"Ornitina",
+"Citrulina dietética",
+"Glicina"
+],
+"e": "A NO sintase converte arginina em NO e citrulina."
+},
+{
+"c": "ureia",
+"q": "A glutationa é um tripeptídeo formado por:",
+"o": [
+"Glutamato, cisteína e glicina",
+"Glutamina, serina e alanina",
+"Glicina, arginina e metionina",
+"Tirosina, lisina e valina"
+],
+"e": "É o principal antioxidante celular; gatos com pouca GSH sofrem com paracetamol."
+},
+{
+"c": "ureia",
+"q": "Qual hormônio é catabólico para a proteína muscular?",
+"o": [
+"Cortisol",
+"Insulina",
+"IGF-1",
+"Testosterona"
+],
+"e": "O cortisol estimula a proteólise e a gliconeogênese."
+},
+{
+"c": "ureia",
+"q": "Cão com abdômen pendular, pele fina e atrofia muscular. Hormônio responsável:",
+"o": [
+"Cortisol em excesso",
+"Insulina em excesso",
+"GH em falta",
+"Glucagon em falta"
+],
+"e": "Hiperadrenocorticismo: proteólise muscular e gliconeogênese."
+},
+{
+"c": "ureia",
+"q": "A insulina favorece o anabolismo proteico porque:",
+"o": [
+"Aumenta a captação de aminoácidos e a síntese",
+"Estimula a proteólise no proteassomo",
+"Induz as enzimas do ciclo da ureia",
+"Inibe a captação de aminoácidos pelo músculo"
+],
+"e": "Age também via mTOR e reduz a proteólise."
+},
+{
+"c": "ureia",
+"q": "O gato hipertireóideo emagrece apesar da polifagia porque:",
+"o": [
+"O turnover acelera com predomínio da degradação",
+"A tireoide destrói as proteínas da dieta",
+"Os hormônios tireoidianos bloqueiam a digestão",
+"O fígado deixa de produzir albumina"
+],
+"e": "O excesso de T3/T4 acelera o catabolismo proteico."
+}
+]

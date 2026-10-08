@@ -1,0 +1,640 @@
+[
+{
+"c": "termo",
+"q": "Animais cuja temperatura corporal acompanha a do ambiente e que regulam o calor sobretudo pelo comportamento são:",
+"o": [
+"pecilotermos, como répteis e anfíbios",
+"homeotermos, como aves e mamíferos",
+"heterotermos obrigatórios, como bovinos",
+"endotermos de grande porte, como equinos"
+],
+"e": "Peixes, anfíbios e répteis dependem do calor ambiental."
+},
+{
+"c": "termo",
+"q": "O coeficiente Q10 indica que, a cada 10 °C de aumento, a velocidade das reações:",
+"o": [
+"aumenta cerca de duas a três vezes",
+"cai pela metade de forma constante",
+"permanece estável até 45 °C",
+"aumenta apenas nos pecilotermos"
+],
+"e": "Por isso febre e hipertermia aceleram o metabolismo e o consumo de O2."
+},
+{
+"c": "termo",
+"q": "No frio, a temperatura central do homeotermo é mantida principalmente em:",
+"o": [
+"tronco e encéfalo, enquanto as extremidades esfriam",
+"extremidades e pele, enquanto o tronco esfria bastante",
+"pele, que fica mais quente que o abdome e o tórax",
+"todos os tecidos por igual, sem nenhum gradiente"
+],
+"e": "A vasoconstrição cria um gradiente núcleo-casca."
+},
+{
+"c": "termo",
+"q": "Em repouso, os principais produtores de calor do organismo são:",
+"o": [
+"fígado, coração, encéfalo e vísceras",
+"músculos esqueléticos em contração",
+"pele e tecido subcutâneo",
+"pulmões e vias respiratórias"
+],
+"e": "No exercício, o músculo passa a responder por ~80% do calor."
+},
+{
+"c": "termo",
+"q": "O calor extra gerado pela fermentação ruminal é:",
+"o": [
+"vantagem no inverno e problema no verão",
+"irrelevante para o balanço térmico",
+"maior em dietas de concentrado puro",
+"eliminado integralmente pelo metano"
+],
+"e": "A fermentação soma calor ao metabolismo do ruminante."
+},
+{
+"c": "termo",
+"q": "Leitões deitados sobre piso de concreto frio perdem calor principalmente por:",
+"o": [
+"condução",
+"radiação solar",
+"evaporação respiratória",
+"convecção forçada pelo vento"
+],
+"e": "Condução é a troca por contato direto."
+},
+{
+"c": "termo",
+"q": "Quando a temperatura do ambiente supera a da pele, a única via eficaz de perda de calor é:",
+"o": [
+"a evaporação",
+"a radiação",
+"a condução",
+"a convecção"
+],
+"e": "As vias sensíveis invertem e passam a trazer calor."
+},
+{
+"c": "termo",
+"q": "Umidade relativa do ar alta prejudica a termólise porque:",
+"o": [
+"reduz o gradiente de pressão de vapor e a evaporação",
+"aumenta a perda de calor por radiação para o céu e o solo",
+"impede a vasodilatação cutânea mediada pelo simpático",
+"eleva o ponto de ajuste hipotalâmico por ação de citocinas"
+],
+"e": "Com ar saturado, a água evapora pouco."
+},
+{
+"c": "termo",
+"q": "Cada grama de água evaporada da superfície corporal remove cerca de:",
+"o": [
+"2,4 kJ (0,58 kcal)",
+"24 kJ (5,8 kcal)",
+"0,24 kJ (0,06 kcal)",
+"240 kJ (58 kcal)"
+],
+"e": "É o calor latente de vaporização."
+},
+{
+"c": "termo",
+"q": "Entre os animais domésticos, a espécie com sudorese mais intensa é:",
+"o": [
+"o equino",
+"o suíno",
+"o cão",
+"a galinha"
+],
+"e": "O cavalo pode perder 10–15 L de suor por hora."
+},
+{
+"c": "termo",
+"q": "A proteína do suor equino que produz espuma e espalha o suor nos pelos é a:",
+"o": [
+"laterina",
+"queratina",
+"lactoferrina",
+"albumina"
+],
+"e": "A laterina é um surfactante natural."
+},
+{
+"c": "termo",
+"q": "Comparado ao taurino, o zebuíno tolera melhor o calor porque tem:",
+"o": [
+"mais glândulas sudoríparas e pelame curto e claro",
+"metabolismo basal mais alto e pelagem densa",
+"gordura parda abundante na vida adulta",
+"glândulas sudoríparas apenas nos coxins"
+],
+"e": "Além disso, produz menos calor metabólico."
+},
+{
+"c": "termo",
+"q": "O suíno é muito sensível ao calor porque:",
+"o": [
+"suas glândulas sudoríparas são pouco funcionais",
+"sua em excesso e se desidrata rapidamente no verão",
+"não consegue ofegar por ter vias aéreas estreitas",
+"tem pelagem muito densa que isola o corpo demais"
+],
+"e": "Depende de molhar-se e de superfícies frias."
+},
+{
+"c": "termo",
+"q": "Em cães e gatos, as glândulas sudoríparas écrinas localizam-se:",
+"o": [
+"somente nos coxins, sem papel térmico relevante",
+"em toda a pele, como no cavalo",
+"no focinho e nas orelhas, com grande papel térmico",
+"apenas na região inguinal e axilar"
+],
+"e": "Por isso dependem do ofego."
+},
+{
+"c": "termo",
+"q": "Nas aves, além do ofego, um mecanismo de perda de calor evaporativa é:",
+"o": [
+"a vibração gular",
+"a sudorese apócrina",
+"a piloereção",
+"o tremor"
+],
+"e": "A vibração rápida do assoalho da garganta aumenta a evaporação."
+},
+{
+"c": "termo",
+"q": "A rede carotídea (rete mirabile) de ruminantes e gatos serve para:",
+"o": [
+"resfriar o sangue arterial que vai ao encéfalo",
+"aquecer o sangue que vai às extremidades no inverno",
+"produzir suor na região da cabeça e do focinho",
+"armazenar sangue para liberar durante o exercício"
+],
+"e": "Troca contracorrente com o sangue venoso resfriado no nariz."
+},
+{
+"c": "termo",
+"q": "No equino, o resfriamento seletivo do sangue para o encéfalo ocorre pela:",
+"o": [
+"artéria carótida interna junto à bolsa gutural",
+"rede carotídea mergulhada no seio cavernoso",
+"veia jugular externa que corre junto à traqueia",
+"artéria facial que passa junto ao seio frontal"
+],
+"e": "O cavalo não tem rede carotídea."
+},
+{
+"c": "termo",
+"q": "Um enduro no calor pode causar ao cavalo alcalose metabólica porque o suor equino é rico em:",
+"o": [
+"cloreto, sódio e potássio",
+"bicarbonato e glicose",
+"ureia e amônia",
+"proteínas e lipídios"
+],
+"e": "A perda de Cl− favorece a alcalose hipoclorêmica."
+},
+{
+"c": "termo",
+"q": "A piloereção conserva calor porque:",
+"o": [
+"prende uma camada de ar parado junto à pele",
+"aumenta a produção de suor apócrino",
+"provoca vasodilatação cutânea reflexa",
+"acelera a respiração e a evaporação nasal"
+],
+"e": "O ar parado é bom isolante."
+},
+{
+"c": "termo",
+"q": "Na termogênese sem tremor, a termogenina (UCP1) da gordura parda:",
+"o": [
+"dissipa o gradiente de prótons sem gerar ATP",
+"inibe a cadeia respiratória mitocondrial",
+"estimula a ATP sintase a produzir mais ATP",
+"converte glicogênio em lactato"
+],
+"e": "A energia do gradiente vira calor."
+},
+{
+"c": "termo",
+"q": "A gordura parda é ativada principalmente por:",
+"o": [
+"noradrenalina em receptores β3",
+"acetilcolina em receptores nicotínicos",
+"insulina em receptores tirosina-cinase",
+"ocitocina em receptores acoplados à Gq"
+],
+"e": "Via simpática; T3 amplifica."
+},
+{
+"c": "termo",
+"q": "O leitão recém-nascido é especialmente vulnerável ao frio porque:",
+"o": [
+"não tem UCP1 funcional e tem pouca gordura",
+"tem excesso de gordura parda nas primeiras horas",
+"possui pelagem densa que retém água do parto",
+"seu ponto de ajuste é muito mais baixo que o da porca"
+],
+"e": "Depende do tremor e de fonte de calor."
+},
+{
+"c": "termo",
+"q": "O tremor produz calor porque:",
+"o": [
+"a energia das contrações rítmicas vira quase toda calor",
+"libera hormônios tireoidianos diretamente no músculo",
+"aumenta a sudorese e a evaporação na pele",
+"diminui o metabolismo hepático e poupa glicogênio"
+],
+"e": "Não há trabalho externo útil."
+},
+{
+"c": "termo",
+"q": "No frio crônico, o eixo hormonal ativado para aumentar o metabolismo é:",
+"o": [
+"TRH → TSH → tiroxina",
+"CRH → ACTH → aldosterona",
+"GnRH → LH → testosterona",
+"GHRH → GH → IGF-1"
+],
+"e": "Os hormônios tireoidianos aumentam a taxa metabólica."
+},
+{
+"c": "termo",
+"q": "Os neurônios que comparam a temperatura com o ponto de ajuste ficam principalmente na:",
+"o": [
+"área pré-óptica do hipotálamo anterior",
+"medula espinal lombar, junto aos motoneurônios",
+"neuro-hipófise, junto aos terminais de ocitocina",
+"formação reticular do bulbo, junto ao centro vasomotor"
+],
+"e": "É o termostato central."
+},
+{
+"c": "termo",
+"q": "O canal iônico típico dos termorreceptores de frio da pele é o:",
+"o": [
+"TRPM8",
+"TRPV1",
+"Nav1.7",
+"ENaC"
+],
+"e": "TRPV1 responde ao calor."
+},
+{
+"c": "termo",
+"q": "A temperatura retal normal de um equino adulto é de aproximadamente:",
+"o": [
+"37,5 a 38,5 °C",
+"39,5 a 40,5 °C",
+"36,0 a 37,0 °C",
+"40,6 a 42,0 °C"
+],
+"e": "Valores da tabela de referência."
+},
+{
+"c": "termo",
+"q": "Qual espécie tem a temperatura corporal normal mais alta?",
+"o": [
+"galinha",
+"bovino",
+"equino",
+"cão"
+],
+"e": "Aves: cerca de 40,6–42 °C."
+},
+{
+"c": "termo",
+"q": "Uma cadela no fim da gestação com temperatura retal caindo para ~37 °C sugere:",
+"o": [
+"parto nas próximas 12 a 24 horas",
+"infecção uterina grave",
+"hipotireoidismo gestacional",
+"febre de origem desconhecida"
+],
+"e": "A queda da progesterona reduz a temperatura."
+},
+{
+"c": "termo",
+"q": "Nos animais diurnos, a temperatura corporal costuma ser:",
+"o": [
+"mínima pela manhã e máxima à tarde",
+"máxima de madrugada e mínima ao entardecer",
+"constante ao longo de todo o dia",
+"mínima ao meio-dia, quando o sol é mais forte"
+],
+"e": "Variação circadiana de 0,5 a 1,5 °C."
+},
+{
+"c": "termo",
+"q": "Febre difere de hipertermia porque, na febre:",
+"o": [
+"o ponto de ajuste hipotalâmico está elevado",
+"os mecanismos de perda de calor estão no máximo",
+"a temperatura nunca passa de 39 °C",
+"os antipiréticos não têm efeito"
+],
+"e": "Na hipertermia o ponto de ajuste é normal."
+},
+{
+"c": "termo",
+"q": "Pirógenos endógenos clássicos são:",
+"o": [
+"IL-1, IL-6 e TNF-α",
+"endotoxina e peptidoglicano",
+"histamina e serotonina",
+"insulina e glucagon"
+],
+"e": "São citocinas produzidas por macrófagos."
+},
+{
+"c": "termo",
+"q": "O lipopolissacarídeo de bactérias gram-negativas é um exemplo de:",
+"o": [
+"pirógeno exógeno",
+"pirógeno endógeno",
+"antipirético endógeno",
+"hormônio termogênico"
+],
+"e": "Estimula macrófagos a liberar citocinas."
+},
+{
+"c": "termo",
+"q": "O mediador final que eleva o ponto de ajuste no hipotálamo é a:",
+"o": [
+"prostaglandina E2",
+"prostaciclina",
+"bradicinina",
+"noradrenalina"
+],
+"e": "Formada pela COX-2 e age em receptores EP3."
+},
+{
+"c": "termo",
+"q": "Os AINEs reduzem a febre porque:",
+"o": [
+"inibem as ciclo-oxigenases e a síntese de PGE2",
+"bloqueiam diretamente os receptores de IL-1",
+"aumentam a sudorese por ação periférica",
+"matam os microrganismos pirogênicos"
+],
+"e": "O ponto de ajuste volta ao normal."
+},
+{
+"c": "termo",
+"q": "Durante a subida da febre, o animal tipicamente apresenta:",
+"o": [
+"calafrios, vasoconstrição e extremidades frias",
+"sudorese intensa, vasodilatação e pele úmida",
+"ofego intenso com pele quente e avermelhada",
+"bradicardia, hipotermia e redução do metabolismo"
+],
+"e": "O hipotálamo interpreta a temperatura atual como baixa."
+},
+{
+"c": "termo",
+"q": "Na defervescência ('crise') da febre, predominam:",
+"o": [
+"vasodilatação, sudorese e ofego",
+"tremor e piloereção",
+"vasoconstrição e calafrio",
+"redução do fluxo sanguíneo cutâneo"
+],
+"e": "O ponto de ajuste caiu e o corpo está quente demais."
+},
+{
+"c": "termo",
+"q": "Um possível benefício da febre contra infecções bacterianas é:",
+"o": [
+"redução do ferro sérico disponível",
+"aumento da glicose disponível às bactérias",
+"imunossupressão que reduz a inflamação",
+"maior oferta de ferro às bactérias"
+],
+"e": "A hipoferremia limita o crescimento microbiano."
+},
+{
+"c": "termo",
+"q": "Febre em que a temperatura oscila durante o dia sem voltar ao normal é chamada:",
+"o": [
+"remitente",
+"intermitente",
+"atípica",
+"recorrente pós-crise"
+],
+"e": "Na intermitente há períodos de normotermia."
+},
+{
+"c": "termo",
+"q": "O paracetamol não deve ser usado como antitérmico em gatos porque causa:",
+"o": [
+"metemoglobinemia e lesão hepática",
+"hipotermia irreversível",
+"alcalose metabólica grave",
+"hipercalcemia e cálculos"
+],
+"e": "Gatos glicuronidam mal o fármaco."
+},
+{
+"c": "termo",
+"q": "Num cão com insolação, o antipirético é ineficaz porque:",
+"o": [
+"o ponto de ajuste está normal",
+"a PGE2 está muito elevada",
+"os receptores de IL-1 estão bloqueados",
+"a temperatura está abaixo de 40 °C"
+],
+"e": "O tratamento é resfriamento físico."
+},
+{
+"c": "termo",
+"q": "No resfriamento de um cão com intermação, recomenda-se:",
+"o": [
+"água à temperatura ambiente com ventilação",
+"imersão em água gelada até 37 °C",
+"antitérmico intravenoso como primeira medida",
+"manter o animal coberto para evitar choque"
+],
+"e": "Água gelada causa vasoconstrição cutânea."
+},
+{
+"c": "termo",
+"q": "A hipertermia maligna dos suínos decorre de mutação no:",
+"o": [
+"receptor de rianodina (RyR1)",
+"canal de sódio dependente de voltagem",
+"receptor de acetilcolina",
+"transportador de glicose GLUT4"
+],
+"e": "O Ca2+ sai do retículo sem controle."
+},
+{
+"c": "termo",
+"q": "O fármaco específico para a crise de hipertermia maligna é o:",
+"o": [
+"dantroleno",
+"halotano",
+"dipirona",
+"propranolol"
+],
+"e": "Bloqueia a liberação de Ca2+ pelo RyR1."
+},
+{
+"c": "termo",
+"q": "A zona de termoneutralidade é a faixa de temperatura ambiente em que o animal:",
+"o": [
+"mantém a temperatura com gasto energético mínimo",
+"produz o máximo de calor que seu metabolismo permite",
+"depende exclusivamente da sudorese para manter a temperatura",
+"apresenta hipotermia compensada pelo tremor contínuo"
+],
+"e": "Usa apenas ajustes vasomotores e posturais."
+},
+{
+"c": "termo",
+"q": "Abaixo da temperatura crítica inferior, o animal precisa:",
+"o": [
+"aumentar a produção de calor",
+"aumentar a sudorese",
+"reduzir a ingestão de alimento",
+"fazer vasodilatação periférica"
+],
+"e": "O isolamento já está no máximo."
+},
+{
+"c": "termo",
+"q": "A zona de termoneutralidade aproximada do leitão recém-nascido é:",
+"o": [
+"32 a 35 °C",
+"15 a 22 °C",
+"5 a 25 °C",
+"−5 a 10 °C"
+],
+"e": "Por isso o escamoteador aquecido."
+},
+{
+"c": "termo",
+"q": "Uma ovelha recém-tosquiada, comparada a uma lanada, tem:",
+"o": [
+"temperatura crítica inferior muito mais alta",
+"temperatura crítica inferior bem mais baixa que antes",
+"zona de termoneutralidade idêntica à da lanada",
+"menor risco de hipotermia em dias frios e com vento"
+],
+"e": "Perde o isolamento da lã."
+},
+{
+"c": "termo",
+"q": "A temperatura do pinteiro na primeira semana deve ficar em torno de:",
+"o": [
+"32 a 33 °C, reduzindo ~3 °C por semana",
+"20 a 22 °C desde o primeiro dia",
+"38 a 40 °C nas três primeiras semanas",
+"15 a 18 °C para estimular o empenamento"
+],
+"e": "A termorregulação do pinto é imatura."
+},
+{
+"c": "termo",
+"q": "Pintos amontoados sob a campânula indicam:",
+"o": [
+"frio",
+"calor",
+"excesso de umidade",
+"falta de ração"
+],
+"e": "Com calor afastam-se e ofegam de asas abertas."
+},
+{
+"c": "termo",
+"q": "O Índice de Temperatura e Umidade (ITU) combina:",
+"o": [
+"temperatura do ar e umidade relativa",
+"radiação solar e velocidade do vento",
+"temperatura retal e frequência respiratória",
+"produção de leite e ingestão de matéria seca"
+],
+"e": "Acima de ~68–72 indica estresse para vacas leiteiras."
+},
+{
+"c": "termo",
+"q": "Uma vaca holandesa em estresse térmico reduz a ingestão de matéria seca para:",
+"o": [
+"diminuir o calor de fermentação e metabolismo",
+"aumentar a produção de gordura do leite no verão",
+"compensar a alcalose metabólica causada pelo suor",
+"aumentar o tempo de ruminação e a salivação"
+],
+"e": "Menos alimento, menos calor produzido."
+},
+{
+"c": "termo",
+"q": "A fertilidade de vacas leiteiras demora 40 a 60 dias para se recuperar após o verão porque:",
+"o": [
+"o folículo ovulatório começou a crescer semanas antes",
+"o útero fica refratário à progesterona por várias semanas",
+"o ciclo estral passa a durar cerca de 60 dias no verão",
+"a espermatogênese do touro é afetada e reduz a fertilidade"
+],
+"e": "Oócitos expostos ao calor na fase de crescimento têm pior qualidade."
+},
+{
+"c": "termo",
+"q": "Qual medida é mais eficaz para reduzir o estresse térmico em vacas confinadas?",
+"o": [
+"aspersão da pele seguida de ventilação",
+"nebulização sem ventilação em galpão fechado",
+"redução do fornecimento de água",
+"aumento da fibra de baixa qualidade na dieta"
+],
+"e": "Molhar e ventilar maximiza a evaporação."
+},
+{
+"c": "termo",
+"q": "A transferência de embriões é útil no verão em rebanhos leiteiros porque:",
+"o": [
+"o embrião de 7 dias já passou da fase mais sensível ao calor",
+"elimina a necessidade de progesterona durante a gestação",
+"aumenta a produção de leite da receptora imediatamente",
+"o embrião transferido não é afetado pela luteólise uterina"
+],
+"e": "Contorna a baixa qualidade oocitária e a morte embrionária precoce."
+},
+{
+"c": "termo",
+"q": "A hipotermia anestésica ocorre porque os anestésicos:",
+"o": [
+"deprimem o hipotálamo, o tremor e causam vasodilatação",
+"estimulam a gordura parda e o tremor de forma intensa",
+"bloqueiam a sudorese e a vasodilatação por ação central",
+"aumentam o ponto de ajuste térmico por liberação de PGE2"
+],
+"e": "Somam-se tricotomia, fluidos frios e cavidades abertas."
+},
+{
+"c": "termo",
+"q": "Uma consequência da hipotermia pós-anestésica é:",
+"o": [
+"recuperação anestésica mais lenta",
+"menor risco de infecção da ferida",
+"aceleração do metabolismo dos fármacos",
+"maior agregação plaquetária e coagulação"
+],
+"e": "Também causa bradicardia e coagulopatia."
+},
+{
+"c": "termo",
+"q": "O dromedário desidratado economiza água porque:",
+"o": [
+"deixa a temperatura corporal variar ao longo do dia",
+"sua muito mais à noite, quando o ar é mais seco",
+"mantém temperatura fixa de 36 °C ao longo do dia todo",
+"hiberna nos períodos mais quentes e secos do ano"
+],
+"e": "Armazena calor de dia e o perde à noite."
+}
+]

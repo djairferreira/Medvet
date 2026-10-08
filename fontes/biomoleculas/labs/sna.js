@@ -56,7 +56,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
         if(!reduce&&d[1]!=='in')l.setAttribute('style',l.getAttribute('style')+'stroke-dasharray:8 6;')}
       E('circle',{cx:x,cy:y,r:28,fill:on?col:'var(--panel)',stroke:on?col:'var(--line)','stroke-width':2,opacity:on?0.9:1},s);
       T(s,x,y+7,r==='N'?'Nic':r,{fs:20,w:800,fill:on?'var(--panel)':'var(--muted)'});
-      if(on&&d[1]==='an')E('path',{d:`M${x-16} ${y-16} L${x+16} ${y+16}`,stroke:'var(--panel)','stroke-width':4},s)});
+      if(on&&d[1]==='an')E('circle',{cx:x,cy:y,r:34,fill:'none',stroke:col,'stroke-width':2,'stroke-dasharray':'4 4'},s)});
     T(s,40,222,'colinérgicos',{fs:18,a:'start',w:500,fill:'var(--muted)'});T(s,560,222,'adrenérgicos',{fs:18,a:'end',w:500,fill:'var(--muted)'});
     const parts=d[3].split(' · ');let line1=parts.slice(0,2).join(' · '),line2=parts.slice(2).join(' · ');
     T(s,300,262,line1,{fs:19,w:700,fill:'var(--ink)'});if(line2)T(s,300,290,line2,{fs:19,w:700,fill:'var(--ink)'});

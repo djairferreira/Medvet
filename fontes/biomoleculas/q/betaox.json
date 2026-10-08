@@ -1,0 +1,629 @@
+[
+ {
+  "c": "betaox",
+  "q": "Qual enzima é a mais sensível ao controle hormonal na lipólise do adipócito?",
+  "o": [
+   "Lipase hormônio-sensível",
+   "Lipase lipoproteica endotelial",
+   "Lipase pancreática com colipase",
+   "Acetil-CoA carboxilase citosólica"
+  ],
+  "e": "A LHS é ativada por fosforilação via AMPc/PKA."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual segundo mensageiro media a ativação da lipólise por adrenalina e glucagon?",
+  "o": [
+   "AMP cíclico",
+   "GMP cíclico",
+   "Inositol trifosfato",
+   "Diacilglicerol de membrana"
+  ],
+  "e": "Receptores acoplados a Gs elevam o AMPc, que ativa a PKA."
+ },
+ {
+  "c": "betaox",
+  "q": "Por que o adipócito não reaproveita o glicerol liberado na lipólise?",
+  "o": [
+   "Tem pouquíssima glicerol-quinase",
+   "Não possui glicerol-3-fosfato desidrogenase",
+   "O glicerol fica preso à perilipina na gotícula",
+   "O glicerol é oxidado de imediato na mitocôndria"
+  ],
+  "e": "Sem glicerol-quinase, o glicerol vai ao fígado para a gliconeogênese."
+ },
+ {
+  "c": "betaox",
+  "q": "Como os ácidos graxos liberados pelo tecido adiposo são transportados no plasma?",
+  "o": [
+   "Ligados à albumina",
+   "Dentro de quilomícrons",
+   "Dissolvidos livremente na água",
+   "Ligados à hemoglobina das hemácias"
+  ],
+  "e": "AGNE circulam ligados à albumina."
+ },
+ {
+  "c": "betaox",
+  "q": "Que parte de um triacilglicerol pode ser convertida em glicose pelo animal?",
+  "o": [
+   "O glicerol",
+   "Os ácidos graxos de cadeia par",
+   "O acetil-CoA da β-oxidação",
+   "Os corpos cetônicos produzidos"
+  ],
+  "e": "Acetil-CoA não gera síntese líquida de glicose em animais."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual é o custo energético da ativação de um ácido graxo a acil-CoA?",
+  "o": [
+   "Duas ligações de alta energia (ATP → AMP + PPi)",
+   "Uma ligação de alta energia (ATP → ADP + Pi)",
+   "Um NADH e um FADH2 por molécula ativada",
+   "Nenhum, pois a reação é espontânea no citosol"
+  ],
+  "e": "Contabiliza-se −2 ATP no saldo."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual é a etapa limitante da oxidação de ácidos graxos de cadeia longa?",
+  "o": [
+   "A carnitina palmitoiltransferase I",
+   "A acil-CoA desidrogenase de cadeia curta",
+   "A β-cetotiolase da última volta",
+   "A enoil-CoA hidratase da matriz"
+  ],
+  "e": "A CPT-I controla a entrada na mitocôndria."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual molécula inibe a CPT-I e evita que ácidos graxos recém-sintetizados sejam oxidados?",
+  "o": [
+   "Malonil-CoA",
+   "Acetoacetil-CoA",
+   "Succinil-CoA",
+   "Propionil-CoA"
+  ],
+  "e": "A malonil-CoA sinaliza que a síntese está ativa."
+ },
+ {
+  "c": "betaox",
+  "q": "Quais ácidos graxos entram na mitocôndria sem depender da carnitina?",
+  "o": [
+   "Os de cadeia curta e média",
+   "Os de cadeia muito longa (C24)",
+   "Os insaturados de 18 carbonos",
+   "Os ramificados como o fitânico"
+  ],
+  "e": "Cadeias curtas e médias atravessam diretamente e são ativadas na matriz."
+ },
+ {
+  "c": "betaox",
+  "q": "A carnitina é sintetizada no organismo a partir de quais aminoácidos?",
+  "o": [
+   "Lisina e metionina",
+   "Glicina e serina",
+   "Alanina e glutamato",
+   "Triptofano e tirosina"
+  ],
+  "e": "Fígado e rim sintetizam carnitina de lisina e metionina."
+ },
+ {
+  "c": "betaox",
+  "q": "Em qual compartimento ocorre a β-oxidação dos ácidos graxos de cadeia longa?",
+  "o": [
+   "Matriz mitocondrial",
+   "Citosol do hepatócito",
+   "Lúmen do retículo endoplasmático",
+   "Espaço intermembranas"
+  ],
+  "e": "As quatro reações ocorrem na matriz."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual é a ordem correta das reações de uma volta da β-oxidação?",
+  "o": [
+   "Oxidação, hidratação, oxidação e tiólise",
+   "Hidratação, oxidação, tiólise e redução",
+   "Oxidação, redução, hidratação e tiólise",
+   "Tiólise, oxidação, hidratação e oxidação"
+  ],
+  "e": "FAD, água, NAD+ e CoA, nessa ordem."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual coenzima é reduzida na primeira reação da β-oxidação?",
+  "o": [
+   "FAD",
+   "NAD+",
+   "NADP+",
+   "Coenzima Q diretamente"
+  ],
+  "e": "A acil-CoA desidrogenase é uma flavoproteína."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual enzima da β-oxidação produz NADH?",
+  "o": [
+   "3-hidroxiacil-CoA desidrogenase",
+   "Acil-CoA desidrogenase",
+   "Enoil-CoA hidratase",
+   "β-cetotiolase"
+  ],
+  "e": "Oxida a hidroxila do carbono β a cetona."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual é o produto liberado pela tiólise a cada volta da espiral?",
+  "o": [
+   "Acetil-CoA e um acil-CoA com dois carbonos a menos",
+   "Propionil-CoA e um acil-CoA com três carbonos a menos",
+   "Malonil-CoA e um acil-CoA com dois carbonos a mais",
+   "Acetoacetato e um acil-CoA com quatro carbonos a menos"
+  ],
+  "e": "A tiólise corta entre os carbonos α e β."
+ },
+ {
+  "c": "betaox",
+  "q": "Quantas voltas da β-oxidação são necessárias para o palmitato (C16:0)?",
+  "o": [
+   "7",
+   "8",
+   "6",
+   "16"
+  ],
+  "e": "n/2 − 1 = 7; a última gera 2 acetil-CoA."
+ },
+ {
+  "c": "betaox",
+  "q": "Quantos acetil-CoA são produzidos pela β-oxidação completa do estearato (C18:0)?",
+  "o": [
+   "9",
+   "8",
+   "18",
+   "7"
+  ],
+  "e": "18/2 = 9 acetil-CoA em 8 voltas."
+ },
+ {
+  "c": "betaox",
+  "q": "Usando 2,5 ATP/NADH, 1,5 ATP/FADH2 e 10 ATP/acetil-CoA, qual é o saldo líquido do palmitato?",
+  "o": [
+   "106 ATP",
+   "129 ATP",
+   "108 ATP",
+   "96 ATP"
+  ],
+  "e": "10,5 + 17,5 + 80 − 2 = 106."
+ },
+ {
+  "c": "betaox",
+  "q": "Um livro antigo afirma que o palmitato rende 129 ATP. A diferença em relação a 106 ATP se deve:",
+  "o": [
+   "Ao uso de 3 ATP por NADH e 2 por FADH2",
+   "A um número diferente de voltas da espiral",
+   "À inclusão da oxidação do glicerol",
+   "A ignorar o custo da ativação do ácido graxo"
+  ],
+  "e": "O raciocínio é o mesmo; mudou o rendimento por coenzima."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual é o saldo líquido de ATP do butirato (C4) pela β-oxidação completa?",
+  "o": [
+   "22 ATP",
+   "24 ATP",
+   "20 ATP",
+   "12 ATP"
+  ],
+  "e": "1 FADH2 (1,5) + 1 NADH (2,5) + 2 acetil-CoA (20) − 2 = 22."
+ },
+ {
+  "c": "betaox",
+  "q": "Por que o oleato (C18:1 Δ9) rende menos ATP que o estearato (C18:0)?",
+  "o": [
+   "A isomerase dispensa uma acil-CoA desidrogenase e um FADH2",
+   "O oleato não pode ser transportado pela carnitina",
+   "A dupla cis impede a formação do último acetil-CoA",
+   "O oleato precisa ser oxidado só nos peroxissomos"
+  ],
+  "e": "Rende 1,5 ATP a menos (118,5 × 120)."
+ },
+ {
+  "c": "betaox",
+  "q": "A oxidação de ácidos graxos de cadeia ímpar gera, na última volta:",
+  "o": [
+   "Propionil-CoA, convertido em succinil-CoA",
+   "Malonil-CoA, convertido em acetoacetato",
+   "Butiril-CoA, convertido em β-hidroxibutirato",
+   "Glicerol-3-fosfato, convertido em piruvato"
+  ],
+  "e": "Propionil-CoA → metilmalonil-CoA → succinil-CoA."
+ },
+ {
+  "c": "betaox",
+  "q": "A conversão de metilmalonil-CoA em succinil-CoA depende de qual vitamina?",
+  "o": [
+   "Vitamina B12 (cobalamina)",
+   "Vitamina B1 (tiamina)",
+   "Vitamina K (filoquinona)",
+   "Vitamina C (ascorbato)"
+  ],
+  "e": "A metilmalonil-CoA mutase usa adenosilcobalamina."
+ },
+ {
+  "c": "betaox",
+  "q": "Ovinos em pastagem deficiente em cobalto emagrecem porque:",
+  "o": [
+   "Sem B12 não aproveitam o propionato para fazer glicose",
+   "Sem cobalto não sintetizam a lipase hormônio-sensível",
+   "O cobalto é cofator da acetil-CoA carboxilase hepática",
+   "Sem cobalto o rúmen deixa de produzir acetato"
+  ],
+  "e": "As bactérias do rúmen precisam de cobalto para produzir B12."
+ },
+ {
+  "c": "betaox",
+  "q": "O que caracteriza a oxidação peroxissomal de ácidos graxos?",
+  "o": [
+   "A primeira oxidação gera H2O2 em vez de FADH2",
+   "Ela oxida apenas ácidos graxos de cadeia curta",
+   "Produz mais ATP por volta que a mitocondrial",
+   "Depende de malonil-CoA para começar o processo"
+  ],
+  "e": "A acil-CoA oxidase entrega elétrons ao O2."
+ },
+ {
+  "c": "betaox",
+  "q": "Por que o fígado produz corpos cetônicos no jejum prolongado?",
+  "o": [
+   "O oxaloacetato é desviado para a gliconeogênese",
+   "O fígado perde a capacidade de fazer β-oxidação",
+   "A insulina alta estimula a HMG-CoA sintase",
+   "O excesso de glicose inibe o ciclo de Krebs"
+  ],
+  "e": "Sem oxaloacetato, o acetil-CoA não entra no ciclo."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual é a enzima limitante da cetogênese?",
+  "o": [
+   "HMG-CoA sintase mitocondrial",
+   "HMG-CoA redutase do retículo",
+   "β-hidroxibutirato desidrogenase",
+   "Succinil-CoA transferase"
+  ],
+  "e": "É induzida no jejum e pelo glucagon."
+ },
+ {
+  "c": "betaox",
+  "q": "Quais são os três corpos cetônicos?",
+  "o": [
+   "Acetoacetato, β-hidroxibutirato e acetona",
+   "Acetato, propionato e butirato",
+   "Acetil-CoA, malonil-CoA e HMG-CoA",
+   "Piruvato, lactato e oxaloacetato"
+  ],
+  "e": "Acetato, propionato e butirato são AGV do rúmen."
+ },
+ {
+  "c": "betaox",
+  "q": "Por que o fígado produz, mas não consome corpos cetônicos?",
+  "o": [
+   "Não possui a succinil-CoA:acetoacetato CoA-transferase",
+   "Não possui a HMG-CoA liase mitocondrial",
+   "Os corpos cetônicos não atravessam a membrana do hepatócito",
+   "O fígado não possui ciclo de Krebs ativo"
+  ],
+  "e": "Sem a tioforase, o fígado não ativa o acetoacetato."
+ },
+ {
+  "c": "betaox",
+  "q": "De onde vem o hálito cetônico de um animal com cetose?",
+  "o": [
+   "Da acetona formada por descarboxilação do acetoacetato",
+   "Do β-hidroxibutirato eliminado pelos pulmões",
+   "Do acetoacetato secretado pelas glândulas salivares",
+   "Do excesso de acetil-CoA exalado pelos alvéolos"
+  ],
+  "e": "A acetona é volátil e sai pela respiração."
+ },
+ {
+  "c": "betaox",
+  "q": "Por que fitas de nitroprussiato podem subestimar a cetose?",
+  "o": [
+   "Não detectam o β-hidroxibutirato, o mais abundante",
+   "Detectam apenas a acetona, que é muito volátil",
+   "Reagem com a glicose e mascaram o resultado",
+   "Só funcionam com amostras de sangue total"
+  ],
+  "e": "O padrão é medir BHB no sangue."
+ },
+ {
+  "c": "betaox",
+  "q": "Em ruminantes bem alimentados, a principal origem do β-hidroxibutirato circulante é:",
+  "o": [
+   "O epitélio do rúmen, a partir do butirato",
+   "O fígado, a partir de ácidos graxos da dieta",
+   "A glândula mamária, a partir da lactose",
+   "O músculo, a partir de aminoácidos"
+  ],
+  "e": "O BHB é rotina no ruminante; o excesso é que preocupa."
+ },
+ {
+  "c": "betaox",
+  "q": "Uma vaca com 5 semanas de lactação tem BHB sanguíneo de 1,6 mmol/L e nenhum sinal clínico. A interpretação é:",
+  "o": [
+   "Cetose subclínica",
+   "Cetose clínica",
+   "Valor normal da lactação",
+   "Cetoacidose diabética"
+  ],
+  "e": "BHB ≥ 1,2 mmol/L indica cetose subclínica; ≥ 3,0, clínica."
+ },
+ {
+  "c": "betaox",
+  "q": "Por que a vaca de alta produção entra em balanço energético negativo no início da lactação?",
+  "o": [
+   "O pico de produção vem antes do pico de ingestão de alimento",
+   "A insulina alta impede o uso dos ácidos graxos pela mama",
+   "O rúmen deixa de produzir propionato após o parto",
+   "A glândula mamária passa a sintetizar glicose"
+  ],
+  "e": "A produção sobe mais rápido que o consumo de matéria seca."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual vaca tem mais risco de cetose tipo II com fígado gorduroso?",
+  "o": [
+   "A vaca obesa ao parto, com resistência à insulina",
+   "A vaca magra no pico de lactação",
+   "A novilha em crescimento antes do primeiro parto",
+   "A vaca seca no meio do período seco"
+  ],
+  "e": "Vacas gordas comem menos e mobilizam mais gordura."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual tratamento oral é usado na cetose bovina por ser precursor de glicose?",
+  "o": [
+   "Propilenoglicol",
+   "Bicarbonato de sódio",
+   "Óleo mineral",
+   "Ureia pecuária"
+  ],
+  "e": "É absorvido e convertido em glicose no fígado."
+ },
+ {
+  "c": "betaox",
+  "q": "Na toxemia da prenhez da cabra, a indução do parto com prostaglandina funciona porque:",
+  "o": [
+   "A gestação da cabra depende do corpo lúteo",
+   "A prostaglandina eleva a glicemia materna",
+   "A placenta caprina produz pouca progesterona no início",
+   "A prostaglandina inibe a lipólise materna"
+  ],
+  "e": "PGF2α causa luteólise e queda da progesterona."
+ },
+ {
+  "c": "betaox",
+  "q": "Quais ovelhas têm mais risco de toxemia da prenhez?",
+  "o": [
+   "Ovelhas com gêmeos ou trigêmeos no terço final",
+   "Ovelhas no início da gestação com um feto",
+   "Ovelhas vazias em pastagem abundante",
+   "Ovelhas em lactação após o desmame"
+  ],
+  "e": "A demanda fetal de glicose é máxima nas últimas semanas."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual é o paciente típico da lipidose hepática felina?",
+  "o": [
+   "Gato obeso que parou de comer por alguns dias",
+   "Gato magro alimentado com ração rica em gordura",
+   "Gato jovem com diarreia por excesso de lactose",
+   "Gato idoso com hipertireoidismo e polifagia"
+  ],
+  "e": "Anorexia em gato obeso desencadeia lipólise maciça."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual é a base do tratamento da lipidose hepática felina?",
+  "o": [
+   "Alimentação enteral, geralmente por sonda de esofagostomia",
+   "Jejum para reduzir a chegada de gordura ao fígado",
+   "Glicocorticoide em dose imunossupressora prolongada",
+   "Dieta sem proteína para proteger o fígado"
+  ],
+  "e": "O gato precisa de energia e proteína para reverter a lipidose."
+ },
+ {
+  "c": "betaox",
+  "q": "Na cetoacidose diabética de um cão, qual combinação laboratorial é esperada?",
+  "o": [
+   "Hiperglicemia, cetonemia e acidose metabólica",
+   "Hipoglicemia, cetonemia e alcalose metabólica",
+   "Hiperglicemia, sem cetonas e alcalose respiratória",
+   "Glicemia normal, cetonúria e acidose respiratória"
+  ],
+  "e": "A falta de insulina libera lipólise e cetogênese."
+ },
+ {
+  "c": "betaox",
+  "q": "Por que é preciso repor potássio e fósforo no tratamento da cetoacidose diabética?",
+  "o": [
+   "A insulina e a correção da acidose os levam para dentro das células",
+   "A insulina aumenta a perda renal de potássio e fósforo",
+   "Os corpos cetônicos se ligam ao potássio no plasma",
+   "O fósforo é necessário para formar acetoacetato"
+  ],
+  "e": "A queda pode causar fraqueza e, no gato, hemólise."
+ },
+ {
+  "c": "betaox",
+  "q": "Em que compartimento ocorre a síntese de ácidos graxos?",
+  "o": [
+   "Citosol",
+   "Matriz mitocondrial",
+   "Peroxissomo",
+   "Núcleo celular"
+  ],
+  "e": "Síntese no citosol; degradação na mitocôndria."
+ },
+ {
+  "c": "betaox",
+  "q": "Como a acetil-CoA produzida na mitocôndria chega ao citosol para a lipogênese?",
+  "o": [
+   "Sai na forma de citrato e é liberada pela ATP-citrato liase",
+   "Atravessa a membrana ligada à carnitina e à CPT-II",
+   "Sai como malonil-CoA pela translocase de acil",
+   "Atravessa livremente a membrana mitocondrial interna"
+  ],
+  "e": "O citrato é exportado e clivado no citosol."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual enzima catalisa a etapa limitante da síntese de ácidos graxos?",
+  "o": [
+   "Acetil-CoA carboxilase",
+   "Ácido graxo sintase",
+   "HMG-CoA redutase",
+   "Carnitina palmitoiltransferase I"
+  ],
+  "e": "Forma malonil-CoA; depende de biotina."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual coenzima redutora é consumida pela ácido graxo sintase?",
+  "o": [
+   "NADPH",
+   "NADH",
+   "FADH2",
+   "Coenzima Q reduzida"
+  ],
+  "e": "São 14 NADPH para formar um palmitato."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual é o produto principal liberado pela ácido graxo sintase nos mamíferos?",
+  "o": [
+   "Palmitato (C16:0)",
+   "Estearato (C18:0)",
+   "Oleato (C18:1)",
+   "Butirato (C4:0)"
+  ],
+  "e": "Alongamento e dessaturação ocorrem depois, no retículo."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual é o principal substrato para a síntese de gordura no tecido adiposo de ruminantes?",
+  "o": [
+   "Acetato",
+   "Glicose",
+   "Lactato",
+   "Propionato"
+  ],
+  "e": "O ruminante poupa glicose; usa acetato do rúmen."
+ },
+ {
+  "c": "betaox",
+  "q": "Em aves, o principal órgão de lipogênese é:",
+  "o": [
+   "O fígado",
+   "O tecido adiposo",
+   "O músculo peitoral",
+   "A glândula uropigiana"
+  ],
+  "e": "O fígado exporta VLDL para o adiposo e para a gema."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual é a origem do ácido butírico encontrado no leite de vaca?",
+  "o": [
+   "Síntese na glândula mamária a partir de acetato e BHB",
+   "Absorção direta do butirato do rúmen pela mama",
+   "Degradação da caseína pelas bactérias do leite",
+   "Hidrólise da lactose dentro dos alvéolos mamários"
+  ],
+  "e": "A AGS mamária termina cadeias curtas e médias."
+ },
+ {
+  "c": "betaox",
+  "q": "Por que o tecido adiposo precisa de glicose para armazenar triacilglicerol?",
+  "o": [
+   "Obtém glicerol-3-fosfato apenas pela glicólise",
+   "Usa glicose como fonte direta dos ácidos graxos",
+   "Usa glicose para ativar a lipase hormônio-sensível",
+   "Converte glicose em carnitina para o estoque"
+  ],
+  "e": "Sem glicerol-quinase, o glicerol-3-P vem da DHAP glicolítica."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual enzima é inibida pelas estatinas?",
+  "o": [
+   "HMG-CoA redutase",
+   "HMG-CoA sintase mitocondrial",
+   "Acetil-CoA carboxilase",
+   "Lipase lipoproteica"
+  ],
+  "e": "É a enzima limitante da síntese de colesterol."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual efeito da insulina sobre o metabolismo lipídico é correto?",
+  "o": [
+   "Ativa a acetil-CoA carboxilase e inibe a lipólise",
+   "Ativa a lipase hormônio-sensível no adipócito",
+   "Inibe a lipase lipoproteica do tecido adiposo",
+   "Estimula a CPT-I e a cetogênese hepática"
+  ],
+  "e": "A insulina é o hormônio lipogênico."
+ },
+ {
+  "c": "betaox",
+  "q": "Como o glucagon favorece a cetogênese no fígado?",
+  "o": [
+   "Inibe a ACC, reduz malonil-CoA e libera a CPT-I",
+   "Ativa a ACC, aumenta malonil-CoA e inibe a CPT-I",
+   "Estimula a ácido graxo sintase e o NADPH",
+   "Aumenta a glicólise e o oxaloacetato"
+  ],
+  "e": "Menos malonil-CoA abre a entrada de ácidos graxos."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual é a principal ação da leptina?",
+  "o": [
+   "Sinalizar ao hipotálamo que os estoques de gordura estão cheios",
+   "Ativar a lipase lipoproteica do músculo esquelético",
+   "Estimular a síntese hepática de corpos cetônicos",
+   "Inibir a absorção intestinal de ácidos graxos"
+  ],
+  "e": "A leptina reduz o apetite e aumenta o gasto energético."
+ },
+ {
+  "c": "betaox",
+  "q": "Agonistas β-adrenérgicos usados como repartidores em suínos aumentam a carne magra porque:",
+  "o": [
+   "Estimulam a lipólise e a deposição de músculo",
+   "Inibem a CPT-I e a oxidação de gordura",
+   "Aumentam a insulina e a lipogênese hepática",
+   "Bloqueiam a lipase lipoproteica muscular"
+  ],
+  "e": "A via β-adrenérgica eleva AMPc e ativa a LHS."
+ },
+ {
+  "c": "betaox",
+  "q": "Qual hormônio causa redistribuição da gordura com abdômen penduloso em cães?",
+  "o": [
+   "Cortisol em excesso",
+   "Tiroxina em excesso",
+   "Insulina em falta",
+   "Leptina em falta"
+  ],
+  "e": "Hiperadrenocorticismo: lipólise e resistência à insulina."
+ }
+]

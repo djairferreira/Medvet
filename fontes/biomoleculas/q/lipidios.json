@@ -1,0 +1,596 @@
+[
+ {
+  "c": "lipidios",
+  "q": "O que define um composto como lipídio?",
+  "o": [
+   "Ser pouco solúvel em água e solúvel em solventes orgânicos",
+   "Ter sempre glicerol ligado a três ácidos graxos",
+   "Conter nitrogênio e fósforo em sua estrutura",
+   "Ser formado por monômeros unidos por ligações peptídicas estáveis"
+  ],
+  "e": "Lipídios são definidos pela solubilidade, não por uma estrutura comum."
+ },
+ {
+  "c": "lipidios",
+  "q": "Por que o triacilglicerol é uma reserva energética mais eficiente que o glicogênio?",
+  "o": [
+   "Rende mais energia por grama e é armazenado sem água",
+   "É oxidado sem precisar de oxigênio nas mitocôndrias",
+   "Pode ser convertido integralmente em glicose no fígado",
+   "É armazenado em todos os tecidos na mesma proporção"
+  ],
+  "e": "TAG rende ~9 kcal/g e é anidro; o glicogênio carrega 2 a 3 g de água por grama."
+ },
+ {
+  "c": "lipidios",
+  "q": "Por que o leitão recém-nascido é especialmente sensível ao frio?",
+  "o": [
+   "Os suínos perderam a UCP1 funcional e quase não têm gordura marrom",
+   "O leitão não consegue tremer nem gerar calor nas primeiras semanas",
+   "O colostro da porca não contém gordura nem lactose",
+   "O leitão nasce com excesso de gordura branca subcutânea"
+  ],
+  "e": "Sem UCP1 funcional, o leitão depende de tremor e de calor externo."
+ },
+ {
+  "c": "lipidios",
+  "q": "No ácido linoleico (C18:2 Δ9,12), a classificação ômega é:",
+  "o": [
+   "ω-6, pois a primeira dupla está no 6º carbono a partir do metil",
+   "ω-9, pois a primeira dupla está no carbono 9 da carboxila",
+   "ω-3, pois restam três carbonos após a última dupla ligação da cadeia",
+   "ω-12, pois a última dupla está no carbono 12 da carboxila"
+  ],
+  "e": "ω conta a partir do metil terminal: 18 − 12 = 6."
+ },
+ {
+  "c": "lipidios",
+  "q": "Por que linoleico e α-linolênico são essenciais para os mamíferos?",
+  "o": [
+   "Faltam aos mamíferos as dessaturases Δ12 e Δ15",
+   "Os mamíferos não conseguem alongar cadeias de carbono",
+   "Faltam aos mamíferos a dessaturase Δ9 e a elongase",
+   "Esses ácidos graxos só são absorvidos ligados à albumina"
+  ],
+  "e": "Animais só introduzem duplas até o carbono 9 a partir da carboxila."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual ácido graxo é essencial na dieta do gato, mas não na do cão adulto?",
+  "o": [
+   "Araquidônico, pela baixa atividade da Δ6-dessaturase felina",
+   "Oleico, pois o gato não possui a dessaturase Δ9 hepática",
+   "Palmítico, porque o gato não sintetiza ácidos graxos",
+   "Esteárico, pois o gato não alonga o palmitato no retículo endoplasmático"
+  ],
+  "e": "O gato converte mal linoleico em araquidônico; precisa de gordura animal."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual sinal clínico é típico de deficiência de ácidos graxos essenciais em cães?",
+  "o": [
+   "Pelame seco e opaco com descamação da pele",
+   "Hipoglicemia grave com convulsões em jejum",
+   "Cegueira noturna por falta de rodopsina",
+   "Hemorragias por falta de fatores de coagulação"
+  ],
+  "e": "Ácidos graxos essenciais mantêm a barreira cutânea e o pelame."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual afirmação sobre ácidos graxos trans é correta?",
+  "o": [
+   "Têm cadeia quase reta e se comportam como saturados",
+   "Dobram a cadeia mais que os isômeros cis correspondentes",
+   "Não existem naturalmente em alimentos de origem animal",
+   "Apresentam ponto de fusão menor que os isômeros cis"
+  ],
+  "e": "A configuração trans deixa a cadeia linear; ocorrem naturalmente na gordura de ruminantes."
+ },
+ {
+  "c": "lipidios",
+  "q": "O que acontece com o ponto de fusão de um ácido graxo quando se introduzem duplas ligações cis?",
+  "o": [
+   "Diminui, porque as dobras prejudicam o empacotamento",
+   "Aumenta, porque as duplas fortalecem as interações",
+   "Não muda, pois depende só do número de carbonos",
+   "Aumenta, porque a molécula fica mais polar, mais rígida e mais compacta"
+  ],
+  "e": "Dobras cis afastam as cadeias: óleos são líquidos."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual lipídio é o principal componente do surfactante pulmonar?",
+  "o": [
+   "Dipalmitoilfosfatidilcolina",
+   "Esfingomielina de cadeia longa",
+   "Éster de colesterol com oleato",
+   "Triacilglicerol de cadeia média"
+  ],
+  "e": "A dipalmitoilfosfatidilcolina reduz a tensão superficial alveolar."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual destes é um esfingolipídio?",
+  "o": [
+   "Gangliosídeo",
+   "Fosfatidilcolina",
+   "Triacilglicerol",
+   "Lanolina"
+  ],
+  "e": "Gangliosídeos têm esfingosina como esqueleto; os demais não."
+ },
+ {
+  "c": "lipidios",
+  "q": "A lanolina, extraída da lã de ovinos, pertence a qual classe de lipídios?",
+  "o": [
+   "Ceras",
+   "Fosfolipídios",
+   "Esteroides",
+   "Eicosanoides"
+  ],
+  "e": "Ceras são ésteres de ácido graxo e álcool de cadeia longa."
+ },
+ {
+  "c": "lipidios",
+  "q": "A gangliosidose GM1 de gatos Siameses e Korat resulta de:",
+  "o": [
+   "Falta de uma enzima lisossomal que degrada o gangliosídeo",
+   "Excesso de síntese de colesterol nos neurônios",
+   "Falta de lipase lipoproteica nos capilares que irrigam o cérebro",
+   "Deficiência dietética de ácido araquidônico"
+  ],
+  "e": "Doenças de depósito: o lipídio acumula por falha da hidrólise lisossomal."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual é a principal via de eliminação do colesterol do organismo?",
+  "o": [
+   "Conversão em sais biliares e excreção pela bile",
+   "Oxidação completa a CO2 no ciclo de Krebs",
+   "Excreção renal como colesterol livre dissolvido na urina",
+   "Conversão em glicose pela gliconeogênese"
+  ],
+  "e": "O anel do colesterol não é degradado; sai como bile."
+ },
+ {
+  "c": "lipidios",
+  "q": "Por que a taurina é essencial na dieta de gatos?",
+  "o": [
+   "Conjugam ácidos biliares só com taurina e a sintetizam pouco",
+   "Usam taurina como precursor principal do colesterol",
+   "Precisam de taurina para formar e secretar quilomícrons no intestino",
+   "Usam taurina para ativar a lipase lipoproteica"
+  ],
+  "e": "A perda biliar contínua e a baixa síntese tornam a taurina essencial."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual destes hormônios NÃO deriva do colesterol?",
+  "o": [
+   "Adrenalina",
+   "Cortisol",
+   "Progesterona",
+   "Aldosterona"
+  ],
+  "e": "A adrenalina deriva da tirosina; os demais são esteroides."
+ },
+ {
+  "c": "lipidios",
+  "q": "Cães e gatos dependem de vitamina D da dieta porque:",
+  "o": [
+   "Produzem pouca vitamina D na pele por falta de 7-desidrocolesterol",
+   "Não possuem a 25-hidroxilase hepática",
+   "Não possuem a 1α-hidroxilase renal",
+   "Não absorvem vitaminas lipossolúveis no intestino delgado proximal"
+  ],
+  "e": "A síntese cutânea é mínima nessas espécies."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual enzima libera o ácido araquidônico dos fosfolipídios para formar eicosanoides?",
+  "o": [
+   "Fosfolipase A2",
+   "Lipase lipoproteica",
+   "Ciclo-oxigenase 2",
+   "Lipase hormônio-sensível"
+  ],
+  "e": "A PLA2 corta a posição 2, onde fica o araquidônico."
+ },
+ {
+  "c": "lipidios",
+  "q": "Os AINEs como meloxicam e flunixina atuam principalmente:",
+  "o": [
+   "Inibindo as ciclo-oxigenases",
+   "Inibindo a fosfolipase A2",
+   "Bloqueando receptores de leucotrienos",
+   "Estimulando a síntese de prostaciclina"
+  ],
+  "e": "AINEs bloqueiam COX-1/COX-2 e reduzem prostaglandinas."
+ },
+ {
+  "c": "lipidios",
+  "q": "Por que os AINEs podem causar úlcera gástrica?",
+  "o": [
+   "Reduzem prostaglandinas que protegem a mucosa",
+   "Aumentam a produção de leucotrienos no estômago",
+   "Estimulam diretamente a secreção de pepsina",
+   "Bloqueiam a absorção de gordura no duodeno"
+  ],
+  "e": "PGE2 via COX-1 mantém muco, bicarbonato e fluxo sanguíneo."
+ },
+ {
+  "c": "lipidios",
+  "q": "Os glicocorticoides bloqueiam tanto prostaglandinas quanto leucotrienos porque:",
+  "o": [
+   "Reduzem a liberação de araquidônico pela fosfolipase A2",
+   "Inibem diretamente a COX-1 e a 5-lipo-oxigenase",
+   "Degradam os eicosanoides já formados no sangue",
+   "Bloqueiam os receptores de todas as prostaglandinas nos tecidos-alvo"
+  ],
+  "e": "Agindo antes da bifurcação, afetam as duas vias."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual eicosanoide é usado na reprodução para provocar luteólise?",
+  "o": [
+   "PGF2α",
+   "Tromboxano A2",
+   "Prostaciclina",
+   "Leucotrieno B4"
+  ],
+  "e": "Análogos de PGF2α (cloprostenol) regridem o corpo lúteo."
+ },
+ {
+  "c": "lipidios",
+  "q": "O tromboxano A2, produzido pelas plaquetas, promove:",
+  "o": [
+   "Agregação plaquetária e vasoconstrição",
+   "Vasodilatação e inibição plaquetária",
+   "Broncodilatação e redução da febre",
+   "Luteólise e contração uterina"
+  ],
+  "e": "TXA2 é pró-agregante; a prostaciclina é o oposto."
+ },
+ {
+  "c": "lipidios",
+  "q": "Por que muitos AINEs exigem doses e intervalos especiais em gatos?",
+  "o": [
+   "A glicuronidação hepática felina é deficiente",
+   "Gatos não expressam ciclo-oxigenase 1",
+   "Gatos excretam os AINEs rapidamente pela urina",
+   "Gatos não absorvem AINEs pela via oral"
+  ],
+  "e": "A eliminação lenta prolonga a meia-vida e a toxicidade."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual é a função da colipase na digestão das gorduras?",
+  "o": [
+   "Ancorar a lipase pancreática à gotícula emulsificada",
+   "Hidrolisar ésteres de colesterol da dieta",
+   "Emulsificar a gordura da dieta junto com os sais biliares e a lecitina",
+   "Montar quilomícrons dentro do enterócito"
+  ],
+  "e": "Sem colipase, os sais biliares afastariam a lipase da gota."
+ },
+ {
+  "c": "lipidios",
+  "q": "Quais são os produtos principais da lipase pancreática sobre um triacilglicerol?",
+  "o": [
+   "2-monoacilglicerol e dois ácidos graxos livres",
+   "Glicerol livre e três ácidos graxos livres em igual proporção",
+   "Diacilglicerol e um ácido graxo livre",
+   "1-monoacilglicerol e glicerol-3-fosfato"
+  ],
+  "e": "A lipase corta as posições 1 e 3."
+ },
+ {
+  "c": "lipidios",
+  "q": "Por que a gordura de cadeia longa absorvida não passa primeiro pelo fígado?",
+  "o": [
+   "Sai do enterócito em quilomícrons pela linfa",
+   "É absorvida diretamente pela veia porta",
+   "Fica armazenada no enterócito até o jejum",
+   "É toda oxidada pelo próprio enterócito"
+  ],
+  "e": "Quilomícrons são grandes demais para os capilares; vão aos lácteos."
+ },
+ {
+  "c": "lipidios",
+  "q": "Por que se usam triglicerídeos de cadeia média (TCM) em cães com linfangiectasia?",
+  "o": [
+   "São absorvidos pela veia porta sem depender da linfa",
+   "Estimulam a produção de quilomícrons no enterócito",
+   "Aumentam a secreção de sais biliares pelo fígado",
+   "Não precisam ser digeridos por nenhuma lipase"
+  ],
+  "e": "Ácidos graxos de cadeia média vão pela porta ligados à albumina."
+ },
+ {
+  "c": "lipidios",
+  "q": "Um Pastor-Alemão com fezes volumosas, pálidas e gordurosas e TLI sérico muito baixo tem provavelmente:",
+  "o": [
+   "Insuficiência pancreática exócrina",
+   "Hipotireoidismo primário",
+   "Hiperadrenocorticismo",
+   "Deficiência de lipase lipoproteica"
+  ],
+  "e": "Atrofia acinar pancreática é comum na raça; TLI baixo confirma."
+ },
+ {
+  "c": "lipidios",
+  "q": "Onde os sais biliares são reabsorvidos na circulação êntero-hepática?",
+  "o": [
+   "No íleo",
+   "No duodeno",
+   "No cólon",
+   "No estômago"
+  ],
+  "e": "O íleo terminal tem transportadores de sais biliares."
+ },
+ {
+  "c": "lipidios",
+  "q": "O que é a biohidrogenação ruminal?",
+  "o": [
+   "Saturação de ácidos graxos insaturados pelas bactérias",
+   "Síntese de ácidos graxos de cadeia longa a partir de acetato no rúmen",
+   "Hidrólise de proteínas por enzimas microbianas",
+   "Conversão de propionato em glicose no epitélio"
+  ],
+  "e": "Bactérias adicionam H às duplas ligações, gerando esteárico."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual é a sequência típica da biohidrogenação do ácido linoleico?",
+  "o": [
+   "Linoleico → rumênico (CLA) → vacênico → esteárico",
+   "Linoleico → oleico → palmítico → butírico",
+   "Linoleico → araquidônico → EPA → DHA",
+   "Linoleico → vacênico → linolênico → oleico"
+  ],
+  "e": "O CLA e o vacênico são intermediários; o produto final é saturado."
+ },
+ {
+  "c": "lipidios",
+  "q": "Por que o sebo bovino é mais firme e saturado que a banha de porco?",
+  "o": [
+   "O rúmen hidrogena os ácidos graxos insaturados da dieta",
+   "Os bovinos possuem dessaturase Δ12 no tecido adiposo",
+   "Os suínos não sintetizam ácidos graxos saturados",
+   "Os bovinos absorvem gordura apenas pela veia porta"
+  ],
+  "e": "No suíno, a gordura reflete a dieta; no ruminante, passa pela biohidrogenação."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual composto causa a depressão da gordura do leite em dietas ricas em concentrado?",
+  "o": [
+   "Trans-10, cis-12 CLA",
+   "Ácido rumênico cis-9, trans-11",
+   "Ácido esteárico",
+   "Ácido butírico"
+  ],
+  "e": "Esse isômero inibe genes de lipogênese na glândula mamária."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual lipoproteína é a menos densa e a maior de todas?",
+  "o": [
+   "Quilomícron",
+   "VLDL",
+   "LDL",
+   "HDL"
+  ],
+  "e": "Tem ~85% de TAG e flutua no topo."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual apolipoproteína ativa a lipase lipoproteica?",
+  "o": [
+   "Apo C-II",
+   "Apo B-48",
+   "Apo A-I",
+   "Apo B-100"
+  ],
+  "e": "A apo C-II é cofator obrigatório da LPL."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual apolipoproteína é reconhecida pelo receptor de LDL?",
+  "o": [
+   "Apo B-100",
+   "Apo B-48",
+   "Apo C-II",
+   "Apo A-I"
+  ],
+  "e": "A LDL tem uma molécula de apo B-100, o ligante do receptor."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual é a função da LCAT ligada à HDL?",
+  "o": [
+   "Esterificar o colesterol captado dos tecidos",
+   "Hidrolisar o TAG dos quilomícrons",
+   "Transferir ésteres de colesterol para a LDL",
+   "Captar remanescentes de quilomícron no fígado"
+  ],
+  "e": "A LCAT, ativada pela apo A-I, esterifica o colesterol e amadurece a HDL."
+ },
+ {
+  "c": "lipidios",
+  "q": "Por que cães e equinos são chamados de “animais HDL”?",
+  "o": [
+   "Têm pouca CETP e o colesterol fica principalmente na HDL",
+   "Produzem HDL em vez de LDL no fígado",
+   "Não possuem receptores de LDL em nenhum dos tecidos periféricos",
+   "Têm LDL com mais proteína do que a HDL"
+  ],
+  "e": "Sem CETP ativa, o colesterol não migra da HDL para a LDL."
+ },
+ {
+  "c": "lipidios",
+  "q": "Onde fica a lipase lipoproteica?",
+  "o": [
+   "Ancorada ao endotélio dos capilares dos tecidos",
+   "Dentro dos hepatócitos, no retículo endoplasmático",
+   "Na luz do intestino, junto à colipase",
+   "Livre no plasma, ligada à albumina"
+  ],
+  "e": "A LPL age na superfície endotelial do músculo, adiposo e mama."
+ },
+ {
+  "c": "lipidios",
+  "q": "No estado alimentado, a insulina direciona os ácidos graxos dos quilomícrons para o adiposo porque:",
+  "o": [
+   "Aumenta a lipase lipoproteica do tecido adiposo",
+   "Inibe a lipase lipoproteica de todos os tecidos",
+   "Aumenta a lipase hormônio-sensível do adiposo",
+   "Estimula a secreção de VLDL pelo fígado"
+  ],
+  "e": "A insulina induz a LPL do adiposo."
+ },
+ {
+  "c": "lipidios",
+  "q": "Por que a vaca leiteira é predisposta à lipidose hepática?",
+  "o": [
+   "O fígado bovino exporta VLDL muito lentamente",
+   "O fígado bovino não oxida ácidos graxos",
+   "A vaca não produz lipase hormônio-sensível",
+   "O fígado bovino não sintetiza triacilglicerol"
+  ],
+  "e": "Com pouca exportação de VLDL, o TAG se acumula no hepatócito."
+ },
+ {
+  "c": "lipidios",
+  "q": "A lipemia (soro leitoso) costuma ser visível quando:",
+  "o": [
+   "Os triglicerídeos passam de cerca de 200 a 300 mg/dL",
+   "O colesterol total passa de 200 mg/dL, mesmo com TAG normal",
+   "A HDL ultrapassa metade do colesterol total",
+   "Os ácidos graxos livres excedem 0,4 mEq/L"
+  ],
+  "e": "TAG em partículas grandes espalha luz; colesterol sozinho não turva."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual é a recomendação antes de coletar sangue para perfil lipídico em um cão?",
+  "o": [
+   "Jejum de cerca de 12 horas",
+   "Refeição gordurosa 2 horas antes",
+   "Jejum hídrico de 24 horas",
+   "Exercício intenso antes da coleta"
+  ],
+  "e": "Evita a lipemia pós-prandial por quilomícrons."
+ },
+ {
+  "c": "lipidios",
+  "q": "Após 12 h na geladeira, um soro lipêmico forma creme no topo e fica límpido embaixo. Isso indica excesso de:",
+  "o": [
+   "Quilomícrons",
+   "VLDL",
+   "LDL",
+   "HDL"
+  ],
+  "e": "Quilomícrons são leves e flutuam; VLDL deixa turvação difusa."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual efeito a lipemia pode causar no exame laboratorial?",
+  "o": [
+   "Pseudo-hiponatremia em métodos que diluem a amostra",
+   "Hipoglicemia verdadeira por consumo de glicose pelas partículas",
+   "Redução real da concentração de proteínas",
+   "Aumento da contagem de plaquetas"
+  ],
+  "e": "A fase lipídica ocupa volume e falseia o sódio medido."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual dislipidemia primária é clássica do Schnauzer miniatura?",
+  "o": [
+   "Hipertrigliceridemia idiopática",
+   "Hipercolesterolemia por falta de receptor de LDL",
+   "Deficiência hereditária de HDL",
+   "Hipolipidemia por má absorção"
+  ],
+  "e": "É frequente na raça e associada a pancreatite e mucocele."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual é a causa endócrina mais comum de hipercolesterolemia em cães?",
+  "o": [
+   "Hipotireoidismo",
+   "Hipoadrenocorticismo",
+   "Hiperparatireoidismo",
+   "Insulinoma"
+  ],
+  "e": "Menos receptores de LDL e menos excreção biliar de colesterol."
+ },
+ {
+  "c": "lipidios",
+  "q": "No diabetes mellitus, a hipertrigliceridemia ocorre principalmente porque:",
+  "o": [
+   "A LPL cai e a lipólise aumenta a produção de VLDL",
+   "A insulina em excesso estimula a síntese hepática de TAG",
+   "O intestino deixa de produzir quilomícrons",
+   "A HDL passa a carregar todo o triacilglicerol"
+  ],
+  "e": "Sem insulina, a remoção cai e a oferta de ácidos graxos sobe."
+ },
+ {
+  "c": "lipidios",
+  "q": "Hipertrigliceridemia grave no cão é fator de risco para qual doença?",
+  "o": [
+   "Pancreatite",
+   "Hipotireoidismo",
+   "Urolitíase por estruvita",
+   "Displasia coxofemoral"
+  ],
+  "e": "Ácidos graxos liberados no pâncreas lesam o tecido."
+ },
+ {
+  "c": "lipidios",
+  "q": "Gato com lipemia intensa, xantomas cutâneos e lipemia retinalis desde jovem sugere:",
+  "o": [
+   "Deficiência hereditária de lipase lipoproteica",
+   "Hipertireoidismo felino",
+   "Insuficiência pancreática exócrina com má absorção de gordura",
+   "Deficiência de taurina na dieta"
+  ],
+  "e": "Sem LPL, os quilomícrons persistem no plasma."
+ },
+ {
+  "c": "lipidios",
+  "q": "Uma pônei obesa, em fim de gestação, para de comer e o soro fica leitoso. O diagnóstico mais provável é:",
+  "o": [
+   "Hiperlipemia equina",
+   "Cetose do tipo I",
+   "Rabdomiólise por esforço",
+   "Hipotireoidismo primário"
+  ],
+  "e": "Balanço energético negativo em pôneis obesos causa VLDL muito alta."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual é o tratamento central da hiperlipemia de pôneis e asininos?",
+  "o": [
+   "Fornecer energia, por sonda ou glicose intravenosa",
+   "Manter jejum completo para reduzir a gordura circulante no sangue",
+   "Administrar glicocorticoide em dose alta",
+   "Suspender qualquer fluido intravenoso"
+  ],
+  "e": "Reverter o balanço energético negativo desliga a lipólise."
+ },
+ {
+  "c": "lipidios",
+  "q": "Qual medida dietética é indicada no manejo da hipertrigliceridemia canina?",
+  "o": [
+   "Dieta com baixo teor de gordura",
+   "Dieta rica em gordura saturada",
+   "Jejum prolongado semanal",
+   "Suplementar ácido araquidônico"
+  ],
+  "e": "Menos gordura reduz quilomícrons; ω-3 e fibratos podem ser associados."
+ }
+]
