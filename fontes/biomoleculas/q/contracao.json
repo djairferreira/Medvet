@@ -1,0 +1,541 @@
+[
+{
+"c": "contracao",
+"q": "Durante a contração do músculo esquelético, qual região do sarcômero mantém o comprimento?",
+"o": [
+"Banda A",
+"Banda I",
+"Zona H",
+"Distância entre linhas Z"
+],
+"e": "A banda A corresponde ao comprimento do filamento grosso, que não encurta."
+},
+{
+"c": "contracao",
+"q": "Qual proteína do complexo troponina liga o cálcio?",
+"o": [
+"Troponina C",
+"Troponina I",
+"Troponina T",
+"Tropomiosina"
+],
+"e": "TnC liga Ca²⁺; TnI inibe; TnT prende à tropomiosina."
+},
+{
+"c": "contracao",
+"q": "Em repouso, o que impede a miosina de se ligar à actina?",
+"o": [
+"A tropomiosina cobrindo os sítios",
+"A titina segurando a miosina longe",
+"A calmodulina presa à actina",
+"A falta de ATP no citosol"
+],
+"e": "A tropomiosina, mantida pela troponina, bloqueia os sítios de ligação."
+},
+{
+"c": "contracao",
+"q": "A proteína gigante que funciona como mola e centraliza a miosina no sarcômero é:",
+"o": [
+"Titina",
+"Nebulina",
+"Distrofina",
+"Desmina"
+],
+"e": "A titina vai da linha Z à linha M e gera tensão passiva."
+},
+{
+"c": "contracao",
+"q": "A unidade motora é formada por:",
+"o": [
+"Um motoneurônio e todas as fibras que ele inerva",
+"Uma fibra muscular e todos os seus sarcômeros",
+"Um fascículo muscular e o nervo que o atravessa inteiro",
+"Uma placa motora e a fenda sináptica"
+],
+"e": "Quando o neurônio dispara, todas as suas fibras contraem."
+},
+{
+"c": "contracao",
+"q": "Músculos de controle fino, como os extraoculares, têm unidades motoras:",
+"o": [
+"Pequenas, com poucas fibras por neurônio",
+"Grandes, com milhares de fibras por neurônio",
+"Sem placa motora definida",
+"Formadas só por fibras do tipo IIB"
+],
+"e": "Poucas fibras por neurônio permitem gradação fina da força."
+},
+{
+"c": "contracao",
+"q": "Qual evento dispara a exocitose da acetilcolina no terminal motor?",
+"o": [
+"Entrada de Ca²⁺ por canais de voltagem",
+"Saída de K⁺ pelo canal de repouso",
+"Entrada de Cl⁻ pelo receptor GABA",
+"Ligação da ACh ao autorreceptor"
+],
+"e": "O Ca²⁺ ativa a sinaptotagmina e o complexo SNARE."
+},
+{
+"c": "contracao",
+"q": "O receptor de acetilcolina da placa motora é do tipo:",
+"o": [
+"Nicotínico, canal iônico",
+"Muscarínico M2, ligado a Gi",
+"Muscarínico M3, ligado a Gq",
+"Adrenérgico β2, ligado a Gs"
+],
+"e": "É um canal de cátions aberto por duas moléculas de ACh."
+},
+{
+"c": "contracao",
+"q": "O potencial de placa motora é causado principalmente por:",
+"o": [
+"Entrada de Na⁺ pelo receptor nicotínico",
+"Saída de Ca²⁺ do retículo sarcoplasmático",
+"Entrada de Cl⁻ pela placa",
+"Saída de Na⁺ pela bomba"
+],
+"e": "O canal nicotínico deixa entrar Na⁺ (e sair um pouco de K⁺)."
+},
+{
+"c": "contracao",
+"q": "A acetilcolinesterase hidrolisa a ACh em:",
+"o": [
+"Acetato e colina",
+"Acetil-CoA e colina",
+"Ácido lático e colina",
+"Acetona e etanolamina"
+],
+"e": "A colina é recaptada e reaproveitada na síntese."
+},
+{
+"c": "contracao",
+"q": "No músculo esquelético, o receptor de di-hidropiridina (DHPR) funciona principalmente como:",
+"o": [
+"Sensor de voltagem no túbulo T",
+"Bomba de cálcio do retículo",
+"Canal de sódio do sarcolema",
+"Receptor de acetilcolina"
+],
+"e": "Ele muda de forma com a despolarização e abre mecanicamente o RYR1."
+},
+{
+"c": "contracao",
+"q": "O canal que libera Ca²⁺ do retículo sarcoplasmático no músculo esquelético é:",
+"o": [
+"RYR1 (receptor de rianodina)",
+"Receptor de IP₃ do retículo",
+"Canal de Ca²⁺ tipo N",
+"SERCA, a bomba de cálcio do RS"
+],
+"e": "O RYR1 está acoplado fisicamente ao DHPR na tríade."
+},
+{
+"c": "contracao",
+"q": "A principal diferença do acoplamento excitação-contração no músculo cardíaco é:",
+"o": [
+"Depende da entrada de Ca²⁺ extracelular",
+"Não usa retículo sarcoplasmático",
+"Usa calmodulina em vez de troponina",
+"Não tem túbulos T nem DHPR"
+],
+"e": "No coração ocorre liberação de cálcio induzida por cálcio (RYR2)."
+},
+{
+"c": "contracao",
+"q": "No ciclo das pontes cruzadas, a ligação do ATP à cabeça da miosina causa:",
+"o": [
+"Desprendimento da actina",
+"Golpe de força",
+"Ligação forte à actina",
+"Liberação de cálcio do RS"
+],
+"e": "O ATP diminui a afinidade da miosina pela actina."
+},
+{
+"c": "contracao",
+"q": "O golpe de força está associado principalmente a:",
+"o": [
+"Liberação do fosfato inorgânico",
+"Ligação de um novo ATP",
+"Hidrólise do ATP na cabeça",
+"Liberação de cálcio da troponina"
+],
+"e": "A saída do Pᵢ desencadeia a rotação da cabeça."
+},
+{
+"c": "contracao",
+"q": "Por que ocorre o rigor mortis?",
+"o": [
+"Falta ATP para soltar as pontes cruzadas",
+"Sobra ATP e a miosina não para",
+"O cálcio é todo recolhido ao RS",
+"A acetilcolinesterase deixa de funcionar"
+],
+"e": "Sem ATP, a miosina fica presa à actina."
+},
+{
+"c": "contracao",
+"q": "A SERCA é responsável por:",
+"o": [
+"Bombear Ca²⁺ de volta ao retículo",
+"Liberar Ca²⁺ do retículo",
+"Hidrolisar a acetilcolina",
+"Fosforilar a cadeia leve da miosina"
+],
+"e": "Gasta 1 ATP para cada 2 Ca²⁺ e permite o relaxamento."
+},
+{
+"c": "contracao",
+"q": "Em quais processos o músculo esquelético gasta ATP?",
+"o": [
+"Pontes cruzadas, SERCA e Na⁺/K⁺-ATPase",
+"Só no golpe de força das pontes cruzadas",
+"Só na liberação de cálcio pelo RYR1",
+"Só na síntese de acetilcolina"
+],
+"e": "Contrair, relaxar e restaurar gradientes consomem ATP."
+},
+{
+"c": "contracao",
+"q": "A creatina-fosfato regenera ATP por meio da enzima:",
+"o": [
+"Creatina quinase",
+"Adenilato ciclase",
+"Lactato desidrogenase",
+"Piruvato quinase"
+],
+"e": "Creatina-P + ADP → creatina + ATP."
+},
+{
+"c": "contracao",
+"q": "Qual sistema energético sustenta um enduro equestre de várias horas?",
+"o": [
+"Fosforilação oxidativa",
+"Creatina-fosfato muscular",
+"Glicólise anaeróbica",
+"ATP armazenado na fibra"
+],
+"e": "Ácidos graxos e glicose oxidados na mitocôndria sustentam esforços longos."
+},
+{
+"c": "contracao",
+"q": "As fibras do tipo I caracterizam-se por:",
+"o": [
+"Muita mioglobina e resistência à fadiga",
+"Pouca mitocôndria e contração rápida",
+"Muito glicogênio e fadiga precoce",
+"Cor branca e ATPase muito rápida"
+],
+"e": "São lentas, oxidativas e vermelhas."
+},
+{
+"c": "contracao",
+"q": "O peito do frango é branco porque predominam fibras:",
+"o": [
+"Rápidas glicolíticas",
+"Lentas oxidativas",
+"Rápidas oxidativas com muita mioglobina",
+"Lisas multiunitárias"
+],
+"e": "Voo curto de fuga exige força explosiva, não resistência."
+},
+{
+"c": "contracao",
+"q": "Qual enzima sérica é marcador clássico de lesão de fibra muscular?",
+"o": [
+"Creatina quinase (CK)",
+"Fosfatase alcalina",
+"Gama-glutamiltransferase",
+"Lipase pancreática"
+],
+"e": "CK e AST sobem quando fibras se rompem."
+},
+{
+"c": "contracao",
+"q": "O tétano fisiológico (fusionado) ocorre quando:",
+"o": [
+"Estímulos chegam antes do relaxamento",
+"A toxina tetânica atinge a medula",
+"Falta ATP na fibra muscular",
+"A acetilcolinesterase é inibida"
+],
+"e": "O cálcio permanece alto e os abalos se fundem."
+},
+{
+"c": "contracao",
+"q": "Segundo a relação comprimento-tensão, a força ativa é máxima quando:",
+"o": [
+"A sobreposição permite o maior número de pontes",
+"O sarcômero está estirado ao máximo",
+"Os filamentos finos se sobrepõem no centro",
+"A banda A está mais curta que no repouso normal"
+],
+"e": "Há um comprimento ótimo intermediário."
+},
+{
+"c": "contracao",
+"q": "Qual destes NÃO é considerado causa direta de fadiga muscular periférica?",
+"o": [
+"Aumento de ATP no citosol",
+"Acúmulo de fosfato inorgânico",
+"Depleção de glicogênio",
+"K⁺ acumulado nos túbulos T"
+],
+"e": "A fadiga se associa à queda de ATP e ao acúmulo de metabólitos."
+},
+{
+"c": "contracao",
+"q": "A toxina botulínica causa paralisia flácida porque:",
+"o": [
+"Cliva proteínas SNARE e impede liberar ACh",
+"Bloqueia o receptor nicotínico da placa",
+"Inibe a acetilcolinesterase na fenda",
+"Destrói o retículo sarcoplasmático"
+],
+"e": "Sem exocitose de ACh não há potencial de placa."
+},
+{
+"c": "contracao",
+"q": "No tétano, a toxina age principalmente em:",
+"o": [
+"Interneurônios inibitórios da medula",
+"Receptores nicotínicos da placa",
+"Bombas SERCA do retículo do músculo",
+"Canais de sódio do sarcolema"
+],
+"e": "Bloqueia a liberação de glicina e GABA; os motoneurônios ficam sem freio."
+},
+{
+"c": "contracao",
+"q": "Qual espécie é muito sensível ao tétano?",
+"o": [
+"Equina",
+"Felina",
+"Canina",
+"Galinácea"
+],
+"e": "Equinos e pequenos ruminantes são muito sensíveis; cães e gatos, resistentes."
+},
+{
+"c": "contracao",
+"q": "Cavalo com trismo, terceira pálpebra exposta, orelhas eretas e postura de cavalete após ferida no casco. Diagnóstico:",
+"o": [
+"Tétano",
+"Botulismo",
+"Miastenia grave",
+"HYPP"
+],
+"e": "Paralisia espástica com hiperestesia é típica do tétano."
+},
+{
+"c": "contracao",
+"q": "Bovinos com paralisia flácida progressiva, língua fraca e consciência preservada, após comer cama de frango:",
+"o": [
+"Botulismo",
+"Tétano",
+"Intoxicação por organofosforado",
+"Hipomagnesemia"
+],
+"e": "A cama de frango pode conter carcaças com toxina botulínica."
+},
+{
+"c": "contracao",
+"q": "Os bloqueadores neuromusculares competitivos (atracúrio, rocurônio) agem:",
+"o": [
+"Ocupando o receptor nicotínico sem abri-lo",
+"Inibindo a acetilcolinesterase",
+"Bloqueando o RYR1 do retículo",
+"Impedindo a síntese de acetilcolina no terminal"
+],
+"e": "Competem com a ACh; podem ser revertidos com neostigmina."
+},
+{
+"c": "contracao",
+"q": "A succinilcolina causa fasciculações antes da paralisia porque:",
+"o": [
+"Despolariza a placa de forma mantida",
+"Bloqueia canais de cálcio do terminal",
+"Impede a recaptação de colina",
+"Estimula diretamente a SERCA"
+],
+"e": "Agonista nicotínico não hidrolisado pela AChE; depois os canais de Na⁺ se inativam."
+},
+{
+"c": "contracao",
+"q": "Por que se usa neostigmina para reverter bloqueio competitivo?",
+"o": [
+"Aumenta a ACh na fenda ao inibir a AChE",
+"Bloqueia diretamente o receptor nicotínico",
+"Libera cálcio do retículo",
+"Ativa receptores muscarínicos da placa"
+],
+"e": "Mais ACh vence a competição com o bloqueador."
+},
+{
+"c": "contracao",
+"q": "Cão intoxicado por carbamato apresenta salivação, miose, bradicardia e fasciculações. A atropina corrige:",
+"o": [
+"Os efeitos muscarínicos",
+"As fasciculações musculares",
+"Os efeitos nicotínicos e muscarínicos",
+"A inibição da acetilcolinesterase"
+],
+"e": "A atropina não age no receptor nicotínico da placa."
+},
+{
+"c": "contracao",
+"q": "A pralidoxima é útil na intoxicação por organofosforado porque:",
+"o": [
+"Reativa a acetilcolinesterase fosforilada",
+"Bloqueia o receptor muscarínico",
+"Aumenta a síntese de acetilcolina",
+"Antagoniza o GABA no SNC"
+],
+"e": "Deve ser dada antes do envelhecimento da ligação."
+},
+{
+"c": "contracao",
+"q": "Na miastenia grave adquirida do cão, os anticorpos são dirigidos contra:",
+"o": [
+"Receptores nicotínicos de acetilcolina",
+"Canais de cálcio do terminal motor",
+"A acetilcolinesterase da fenda",
+"O receptor de rianodina do retículo"
+],
+"e": "Menos receptores reduzem o fator de segurança da placa."
+},
+{
+"c": "contracao",
+"q": "Por que a miastenia grave no cão pode se manifestar como megaesôfago?",
+"o": [
+"O esôfago canino é todo de músculo esquelético",
+"O esôfago canino é todo de músculo liso",
+"O vago deixa de inervar o estômago",
+"A toxina destrói o plexo mioentérico"
+],
+"e": "No gato, o terço distal é liso; no cão, todo o esôfago é estriado."
+},
+{
+"c": "contracao",
+"q": "Qual fármaco é usado no tratamento crônico da miastenia grave?",
+"o": [
+"Piridostigmina",
+"Atropina",
+"Succinilcolina",
+"Dantroleno"
+],
+"e": "Anticolinesterásico de ação prolongada."
+},
+{
+"c": "contracao",
+"q": "A hipertermia maligna dos suínos é causada por mutação em:",
+"o": [
+"RYR1",
+"SCN4A",
+"Distrofina",
+"Glicogênio sintase"
+],
+"e": "O 'gene do halotano' deixa o RYR1 hipersensível."
+},
+{
+"c": "contracao",
+"q": "Qual fármaco trata a crise de hipertermia maligna?",
+"o": [
+"Dantroleno",
+"Succinilcolina",
+"Neostigmina",
+"Halotano"
+],
+"e": "O dantroleno bloqueia a liberação de Ca²⁺ pelo RYR1."
+},
+{
+"c": "contracao",
+"q": "A HYPP de cavalos Quarto de Milha (linhagem Impressive) envolve:",
+"o": [
+"Canal de sódio Nav1.4 que não inativa",
+"Receptor nicotínico destruído",
+"Excesso de glicogênio nas fibras",
+"RYR1 que libera cálcio sem controle"
+],
+"e": "Com K⁺ elevado, a membrana fica despolarizada: fasciculação e fraqueza."
+},
+{
+"c": "contracao",
+"q": "Qual manejo dietético previne crises de HYPP?",
+"o": [
+"Dieta pobre em potássio",
+"Dieta rica em alfafa",
+"Dieta rica em melaço",
+"Jejum prolongado antes do trabalho"
+],
+"e": "Alfafa e melaço são ricos em potássio."
+},
+{
+"c": "contracao",
+"q": "Cavalo com dieta rica em grãos adoece ao voltar ao trabalho após o descanso, com sudorese, rigidez e urina marrom. Trata-se de:",
+"o": [
+"Rabdomiólise de esforço",
+"Tétano localizado",
+"Cólica espasmódica",
+"Hipocalcemia de transporte"
+],
+"e": "Mioglobinúria e CK alta; antiga “doença da segunda-feira”."
+},
+{
+"c": "contracao",
+"q": "Na rabdomiólise de esforço equina, a urina escura se deve a:",
+"o": [
+"Mioglobina liberada das fibras",
+"Hemoglobina por hemólise",
+"Bilirrubina por lesão hepática",
+"Porfirinas de origem dietética"
+],
+"e": "A mioglobina pode causar lesão renal aguda."
+},
+{
+"c": "contracao",
+"q": "A carne PSE em suínos resulta de:",
+"o": [
+"Queda rápida do pH com a carcaça quente",
+"pH final alto por glicogênio esgotado",
+"Resfriamento rápido antes do rigor",
+"Maturação prolongada em câmara fria"
+],
+"e": "Ácido e calor desnaturam proteínas, que perdem água."
+},
+{
+"c": "contracao",
+"q": "A carne DFD (escura, firme e seca) está associada a:",
+"o": [
+"Glicogênio esgotado por estresse crônico",
+"Queda muito rápida do pH pós-abate",
+"Mutação no RYR1 dos suínos",
+"Excesso de glicogênio no abate"
+],
+"e": "Pouco ácido láctico deixa o pH final acima de 6,0."
+},
+{
+"c": "contracao",
+"q": "O amaciamento da carne durante a maturação deve-se a:",
+"o": [
+"Proteólise por calpaínas e catepsinas",
+"Ressíntese de ATP no músculo",
+"Recaptação do cálcio pela SERCA",
+"Aumento do pH acima de 7"
+],
+"e": "Enzimas degradam proteínas do disco Z e do citoesqueleto."
+},
+{
+"c": "contracao",
+"q": "O encurtamento pelo frio deixa a carne dura porque:",
+"o": [
+"O RS perde cálcio no frio e os sarcômeros contraem",
+"O frio aumenta muito a atividade das calpaínas",
+"O glicogênio é convertido em ATP pelo frio intenso",
+"A titina se rompe com o frio"
+],
+"e": "Ocorre quando a carcaça é resfriada rápido antes do rigor."
+}
+]

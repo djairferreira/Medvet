@@ -1,0 +1,585 @@
+[
+{
+"c": "osso",
+"q": "Qual fração do cálcio plasmático é biologicamente ativa e regulada pelos hormônios?",
+"o": [
+"Ionizada (livre)",
+"Ligada à albumina",
+"Complexada ao citrato",
+"Ligada às globulinas"
+],
+"e": "Só o Ca²⁺ ionizado, cerca de metade do total, age nas células e é percebido pelo CaSR da paratireoide."
+},
+{
+"c": "osso",
+"q": "Em um cão com alcalose respiratória por hiperventilação, o que acontece com o cálcio ionizado?",
+"o": [
+"Diminui, pois a albumina prende mais cálcio",
+"Aumenta, pois a albumina libera o cálcio ligado",
+"Não se altera, só o total muda",
+"Aumenta, pois o rim deixa de excretá-lo"
+],
+"e": "Na alcalose a albumina perde H⁺, fica mais negativa e liga mais Ca²⁺, reduzindo a fração livre."
+},
+{
+"c": "osso",
+"q": "Uma cadela com hipoalbuminemia grave tem cálcio total baixo. A melhor conduta inicial é:",
+"o": [
+"Medir o cálcio ionizado",
+"Infundir gluconato de cálcio",
+"Administrar calcitriol oral",
+"Suplementar fósforo"
+],
+"e": "A hipoalbuminemia reduz a fração ligada; o ionizado pode ser normal (pseudo-hipocalcemia)."
+},
+{
+"c": "osso",
+"q": "Por que uma amostra colhida em tubo com EDTA não serve para dosar cálcio?",
+"o": [
+"O EDTA quelata o cálcio",
+"O EDTA hemolisa as hemácias",
+"O EDTA eleva o pH da amostra",
+"O EDTA degrada a albumina"
+],
+"e": "O EDTA sequestra cátions divalentes; o resultado sai falsamente baixíssimo."
+},
+{
+"c": "osso",
+"q": "A parte orgânica da matriz óssea é composta principalmente de:",
+"o": [
+"Colágeno tipo I",
+"Colágeno tipo II",
+"Elastina",
+"Queratina"
+],
+"e": "Cerca de 90 a 95% da matriz orgânica é colágeno tipo I; o tipo II é da cartilagem."
+},
+{
+"c": "osso",
+"q": "O principal mineral do osso é:",
+"o": [
+"Hidroxiapatita",
+"Carbonato de magnésio",
+"Oxalato de cálcio",
+"Fosfato de amônio"
+],
+"e": "Cristais de Ca₁₀(PO₄)₆(OH)₂ ao longo das fibras de colágeno."
+},
+{
+"c": "osso",
+"q": "Qual enzima do osteoblasto favorece a mineralização ao destruir o pirofosfato?",
+"o": [
+"Fosfatase alcalina",
+"Fosfatase ácida tartarato-resistente",
+"Catepsina K",
+"Anidrase carbônica II"
+],
+"e": "A fosfatase alcalina remove o pirofosfato inibidor e fornece fosfato para os cristais."
+},
+{
+"c": "osso",
+"q": "A osteocalcina depende de qual vitamina para ser funcional?",
+"o": [
+"Vitamina K",
+"Vitamina C",
+"Vitamina A",
+"Vitamina E"
+],
+"e": "A osteocalcina sofre gama-carboxilação dependente de vitamina K para ligar cálcio."
+},
+{
+"c": "osso",
+"q": "O osteoide é:",
+"o": [
+"Matriz orgânica ainda não mineralizada",
+"Osso compacto já remodelado e organizado em ósteons",
+"Cartilagem calcificada da placa",
+"Tecido fibroso de reparo tardio"
+],
+"e": "É a matriz recém-secretada pelo osteoblasto antes da deposição de mineral."
+},
+{
+"c": "osso",
+"q": "Qual célula óssea deriva da linhagem monócito-macrófago?",
+"o": [
+"Osteoclasto",
+"Osteoblasto",
+"Osteócito",
+"Célula de revestimento"
+],
+"e": "Osteoclastos resultam da fusão de precursores hematopoéticos monocíticos."
+},
+{
+"c": "osso",
+"q": "Qual célula atua como principal sensor mecânico do osso?",
+"o": [
+"Osteócito",
+"Osteoclasto",
+"Condrócito",
+"Fibroblasto do periósteo"
+],
+"e": "Osteócitos percebem o fluxo de líquido nos canalículos e ajustam esclerostina e RANKL."
+},
+{
+"c": "osso",
+"q": "A osteoprotegerina (OPG) reduz a reabsorção óssea porque:",
+"o": [
+"Funciona como receptor isca do RANKL",
+"Bloqueia a bomba de prótons do osteoclasto",
+"Ativa o receptor de calcitonina",
+"Estimula a secreção de colágeno"
+],
+"e": "A OPG agarra o RANKL antes que ele chegue ao RANK do pré-osteoclasto."
+},
+{
+"c": "osso",
+"q": "Onde estão os receptores de PTH que levam ao aumento da reabsorção óssea?",
+"o": [
+"Em osteoblastos e osteócitos",
+"Diretamente nos osteoclastos",
+"Nas células C da tireoide",
+"Nos condrócitos hipertróficos"
+],
+"e": "O PTH age indiretamente: osteoblastos e osteócitos aumentam RANKL e reduzem OPG."
+},
+{
+"c": "osso",
+"q": "Qual hormônio tem receptor diretamente no osteoclasto e o inibe em minutos?",
+"o": [
+"Calcitonina",
+"Paratormônio",
+"Calcitriol",
+"Hormônio do crescimento"
+],
+"e": "A calcitonina faz o osteoclasto se retrair e parar de reabsorver."
+},
+{
+"c": "osso",
+"q": "Como o osteoclasto dissolve a hidroxiapatita?",
+"o": [
+"Secretando H⁺ por bomba de prótons",
+"Secretando fosfatase alcalina",
+"Fagocitando cristais inteiros",
+"Liberando pirofosfato na lacuna"
+],
+"e": "A anidrase carbônica II gera H⁺, que a H⁺-ATPase lança na zona vedada (pH ≈ 4,5)."
+},
+{
+"c": "osso",
+"q": "A cavidade escavada pelo osteoclasto na superfície do osso chama-se:",
+"o": [
+"Lacuna de Howship",
+"Canal de Volkmann",
+"Sistema de Havers",
+"Zona de vedação"
+],
+"e": "É a depressão de reabsorção sob a borda pregueada."
+},
+{
+"c": "osso",
+"q": "Na sequência de reparo de fratura, o que vem logo após o hematoma e a inflamação?",
+"o": [
+"Calo mole fibrocartilaginoso",
+"Calo ósseo lamelar já remodelado pela carga",
+"Remodelação final",
+"Osteoporose localizada"
+],
+"e": "Hematoma → calo mole → calo duro → remodelação."
+},
+{
+"c": "osso",
+"q": "Qual fator acopla reabsorção e formação na remodelação óssea?",
+"o": [
+"Fatores de crescimento liberados da matriz",
+"Calcitonina secretada localmente",
+"Pirofosfato produzido pelos osteócitos",
+"Queda transitória do fosfato no líquido extracelular"
+],
+"e": "TGF-β e IGF retidos na matriz são liberados na reabsorção e recrutam osteoblastos."
+},
+{
+"c": "osso",
+"q": "O PTH tem qual efeito sobre o fosfato no rim?",
+"o": [
+"Reduz a reabsorção no túbulo proximal",
+"Aumenta a reabsorção no túbulo distal",
+"Não age sobre o fosfato",
+"Aumenta a secreção no ducto coletor"
+],
+"e": "O PTH é fosfatúrico: menos reabsorção proximal de fosfato."
+},
+{
+"c": "osso",
+"q": "A 1α-hidroxilação da vitamina D ocorre principalmente em qual órgão?",
+"o": [
+"Rim",
+"Fígado",
+"Pele",
+"Intestino"
+],
+"e": "Pele (D₃) → fígado (25-OH, calcidiol) → rim (1,25-(OH)₂, calcitriol)."
+},
+{
+"c": "osso",
+"q": "Qual forma da vitamina D é a melhor indicadora das reservas corporais?",
+"o": [
+"25-hidroxivitamina D (calcidiol)",
+"1,25-di-hidroxivitamina D",
+"7-desidrocolesterol",
+"24,25-di-hidroxivitamina D, a forma inativada"
+],
+"e": "O calcidiol circula em maior quantidade e tem meia-vida longa."
+},
+{
+"c": "osso",
+"q": "Por que cães e gatos dependem de vitamina D na dieta?",
+"o": [
+"Sua pele tem pouco 7-desidrocolesterol",
+"Seu fígado não faz 25-hidroxilação",
+"Seu rim não tem 1α-hidroxilase",
+"Seu intestino não absorve gordura"
+],
+"e": "A 7-desidrocolesterol redutase converte o precursor em colesterol, e quase não sobra substrato."
+},
+{
+"c": "osso",
+"q": "O principal efeito do calcitriol no intestino é:",
+"o": [
+"Aumentar a absorção de cálcio e fosfato",
+"Reduzir a absorção de fosfato e aumentar a de cálcio",
+"Aumentar a secreção de cálcio",
+"Estimular a produção de calcitonina"
+],
+"e": "Induz canais apicais, calbindina e bomba basolateral."
+},
+{
+"c": "osso",
+"q": "Qual dupla de efeitos descreve corretamente o PTH no sangue?",
+"o": [
+"Eleva o cálcio e reduz o fósforo",
+"Eleva o cálcio e o fósforo",
+"Reduz o cálcio e o fósforo",
+"Reduz o cálcio e eleva o fósforo"
+],
+"e": "Mobiliza cálcio e provoca fosfatúria."
+},
+{
+"c": "osso",
+"q": "Qual mineral é necessário para que a paratireoide secrete PTH adequadamente?",
+"o": [
+"Magnésio",
+"Zinco, cofator da fosfatase",
+"Cobre",
+"Ferro"
+],
+"e": "Hipomagnesemia prejudica a secreção e a ação do PTH."
+},
+{
+"c": "osso",
+"q": "A calcitonina é produzida por:",
+"o": [
+"Células parafoliculares da tireoide",
+"Células principais da paratireoide",
+"Células foliculares da tireoide",
+"Células oxífilas da paratireoide"
+],
+"e": "Também chamadas células C; nas aves, corpos ultimobranquiais."
+},
+{
+"c": "osso",
+"q": "Qual hormônio reduz o RANKL e aumenta a OPG, protegendo a massa óssea?",
+"o": [
+"Estrógeno",
+"Cortisol",
+"PTH",
+"Tiroxina em excesso"
+],
+"e": "Por isso a deficiência de estrógeno acelera a perda óssea."
+},
+{
+"c": "osso",
+"q": "O uso prolongado de glicocorticoides tende a causar:",
+"o": [
+"Osteoporose",
+"Osteopetrose",
+"Hipercalcemia por vitamina D",
+"Osteodistrofia por fósforo baixo"
+],
+"e": "Inibem osteoblastos, reduzem absorção de cálcio e aumentam reabsorção."
+},
+{
+"c": "osso",
+"q": "Vaca Jersey de 4ª lactação, 12 h pós-parto, em decúbito esternal, pescoço em S e focinho seco. Diagnóstico mais provável:",
+"o": [
+"Hipocalcemia puerperal",
+"Tetania hipomagnesêmica das pastagens",
+"Cetose nervosa",
+"Botulismo tipo C"
+],
+"e": "Quadro clássico do estágio II da febre do leite."
+},
+{
+"c": "osso",
+"q": "Por que a vaca com febre do leite fica flácida e não em tetania?",
+"o": [
+"Falta cálcio para liberar ACh na placa",
+"Sobra magnésio no líquido cefalorraquidiano",
+"O PTH bloqueia os canais de sódio",
+"A calcitonina paralisa o músculo liso"
+],
+"e": "A exocitose de ACh depende da entrada de Ca²⁺ no terminal; a transmissão falha."
+},
+{
+"c": "osso",
+"q": "Como a dieta aniônica (DCAD negativa) no pré-parto previne a febre do leite?",
+"o": [
+"Acidose leve melhora a resposta ao PTH",
+"Alcalose leve aumenta a calcitonina",
+"Excesso de potássio estimula o osso",
+"Mais sódio aumenta a absorção ruminal"
+],
+"e": "A acidose metabólica restaura a sensibilidade de osso e rim ao PTH e eleva o ionizado."
+},
+{
+"c": "osso",
+"q": "Qual medida de campo monitora a eficácia da dieta aniônica?",
+"o": [
+"pH urinário",
+"Cálcio no leite",
+"Fósforo fecal",
+"Glicemia"
+],
+"e": "Meta em torno de 6,0 a 6,8 em vacas holandesas."
+},
+{
+"c": "osso",
+"q": "Fornecer muito cálcio na dieta pré-parto aumenta o risco de febre do leite porque:",
+"o": [
+"Mantém o PTH desligado até o parto",
+"Causa alcalose respiratória e hipoventilação",
+"Reduz a albumina plasmática",
+"Inibe a ocitocina"
+],
+"e": "Com cálcio sobrando, os mecanismos de mobilização chegam “dormindo” ao parto."
+},
+{
+"c": "osso",
+"q": "Na eclâmpsia da cadela, qual sinal é esperado?",
+"o": [
+"Tremores e tetania com hipertermia",
+"Paralisia flácida com hipotermia",
+"Ataxia com nistagmo e cegueira",
+"Poliúria com desidratação"
+],
+"e": "Na cadela predomina a hiperexcitabilidade neuronal."
+},
+{
+"c": "osso",
+"q": "Qual perfil é típico da eclâmpsia?",
+"o": [
+"Cadela pequena, ninhada grande, 1–4 semanas pós-parto",
+"Cadela de raça gigante, no pré-parto imediato, primípara",
+"Gata idosa em anestro",
+"Cadela castrada e idosa, em dieta renal comercial"
+],
+"e": "Pico de lactação com grande demanda de cálcio."
+},
+{
+"c": "osso",
+"q": "Equino alimentado com muito farelo de trigo desenvolve aumento dos ossos da face. O mecanismo é:",
+"o": [
+"PTH elevado por dieta pobre em cálcio e rica em fósforo",
+"Excesso de vitamina D na ração comercial do animal",
+"Deficiência de magnésio no capim da pastagem nova",
+"Tumor de paratireoide"
+],
+"e": "Hiperparatireoidismo secundário nutricional: osteodistrofia fibrosa (“cara inchada”)."
+},
+{
+"c": "osso",
+"q": "Pastagens ricas em oxalato causam doença óssea em equinos porque o oxalato:",
+"o": [
+"Prende o cálcio no intestino",
+"Inibe a 1α-hidroxilase",
+"Destrói os osteoblastos",
+"Aumenta a calcitonina"
+],
+"e": "O oxalato de cálcio não é absorvido, e o PTH sobe."
+},
+{
+"c": "osso",
+"q": "Gato filhote alimentado só com carne apresenta fraturas espontâneas. A causa é:",
+"o": [
+"Relação Ca:P muito baixa na dieta",
+"Excesso de cálcio na carne",
+"Deficiência de vitamina K",
+"Hipervitaminose A aguda"
+],
+"e": "A carne tem Ca:P de cerca de 1:15 a 1:20 → HPT secundário nutricional."
+},
+{
+"c": "osso",
+"q": "Na doença óssea metabólica de répteis em cativeiro, os fatores principais são:",
+"o": [
+"Pouco cálcio na dieta e falta de luz UVB",
+"Excesso de proteína e de luz solar",
+"Deficiência de ferro e de iodo",
+"Excesso de fibra e de água"
+],
+"e": "Sem UVB não há síntese cutânea de vitamina D₃."
+},
+{
+"c": "osso",
+"q": "No hiperparatireoidismo secundário renal, o principal gatilho é:",
+"o": [
+"Retenção de fosfato e queda do calcitriol",
+"Excesso de calcitonina",
+"Hipercalcemia causada pela secreção de PTHrP",
+"Excesso de vitamina D dietética"
+],
+"e": "O rim doente retém fosfato e produz pouco calcitriol."
+},
+{
+"c": "osso",
+"q": "Qual medida faz parte do manejo do hiperparatireoidismo renal em gatos?",
+"o": [
+"Dieta pobre em fósforo e quelantes de fosfato",
+"Suplementação de fósforo",
+"Dieta rica em proteína animal",
+"Calcitonina injetável diária por toda a vida do gato"
+],
+"e": "Reduzir o fosfato é o pilar do controle do PTH."
+},
+{
+"c": "osso",
+"q": "Diferença entre raquitismo e osteomalácia:",
+"o": [
+"Raquitismo ocorre com placas de crescimento abertas",
+"Osteomalácia ocorre apenas em filhotes de até um ano",
+"Raquitismo é o excesso de mineral depositado no osteoide",
+"Osteomalácia é perda de colágeno"
+],
+"e": "Ambos são falha de mineralização; o raquitismo atinge animais em crescimento."
+},
+{
+"c": "osso",
+"q": "Bovinos com deficiência de fósforo que roem ossos no pasto correm maior risco de:",
+"o": [
+"Botulismo",
+"Tétano",
+"Tetania das pastagens",
+"Hipertermia maligna"
+],
+"e": "Carcaças contêm toxina botulínica; a osteofagia é o elo."
+},
+{
+"c": "osso",
+"q": "Cão que ingeriu rodenticida com colecalciferol tende a apresentar:",
+"o": [
+"Hipercalcemia com PTH suprimido",
+"Hipocalcemia com PTH alto",
+"Hipercalcemia com PTH alto",
+"Hipocalcemia com calcitonina alta"
+],
+"e": "O excesso de vitamina D eleva o cálcio, e a paratireoide é suprimida."
+},
+{
+"c": "osso",
+"q": "Por que Solanum malacoxylon causa calcinose mesmo com o rim saudável?",
+"o": [
+"Contém calcitriol já ativo",
+"Bloqueia a calcitonina",
+"Contém PTH vegetal",
+"Inibe a 24-hidroxilase hepática"
+],
+"e": "O glicosídeo de 1,25-(OH)₂D₃ dispensa a 1α-hidroxilase e escapa do controle."
+},
+{
+"c": "osso",
+"q": "Qual nome popular da calcinose enzoótica causada por Solanum malacoxylon?",
+"o": [
+"Espichamento",
+"Cara inchada",
+"Doença da segunda-feira",
+"Mal do sono"
+],
+"e": "Os bovinos ficam emagrecidos, rígidos e em posição esticada."
+},
+{
+"c": "osso",
+"q": "Na tetania das pastagens, o fator que mais reduz a absorção ruminal de magnésio é:",
+"o": [
+"Excesso de potássio no capim",
+"Excesso de sódio no sal",
+"Falta de fósforo",
+"Excesso de fibra no feno"
+],
+"e": "O potássio altera o potencial da parede ruminal e diminui o transporte de Mg²⁺."
+},
+{
+"c": "osso",
+"q": "Qual destas afirmações sobre o magnésio é correta?",
+"o": [
+"Não tem hormônio regulador próprio",
+"É controlado diretamente pelo PTH",
+"É armazenado no fígado e liberado rapidamente",
+"É absorvido principalmente no cólon em bovinos"
+],
+"e": "O nível depende da ingestão diária; não há reserva rapidamente mobilizável."
+},
+{
+"c": "osso",
+"q": "Cálcio alto com PTH baixo e PTHrP elevado em cão idoso sugere:",
+"o": [
+"Hipercalcemia de origem tumoral",
+"Hiperparatireoidismo primário",
+"Hiperparatireoidismo secundário renal",
+"Eclâmpsia"
+],
+"e": "Linfoma e adenocarcinoma de saco anal secretam PTHrP."
+},
+{
+"c": "osso",
+"q": "Os bisfosfonatos reduzem a reabsorção óssea porque:",
+"o": [
+"Induzem apoptose dos osteoclastos",
+"Estimulam a secreção de PTH",
+"Bloqueiam a fosfatase alcalina",
+"Aumentam a expressão de RANKL nos osteoblastos"
+],
+"e": "Fixam-se à hidroxiapatita e são ingeridos pelo osteoclasto, que morre."
+},
+{
+"c": "osso",
+"q": "Na maioria dos casos de osteopetrose em bezerros, a falha está em:",
+"o": [
+"Osteoclastos que não reabsorvem",
+"Osteoblastos que não produzem colágeno",
+"Excesso de calcitonina fetal",
+"Falta de vitamina K materna"
+],
+"e": "O osso acumula sem ser remodelado."
+},
+{
+"c": "osso",
+"q": "O osso medular das galinhas poedeiras é formado sob ação de:",
+"o": [
+"Estrógeno",
+"Calcitonina",
+"Glicocorticoides",
+"Glucagon"
+],
+"e": "É um estoque lábil de cálcio para a casca."
+},
+{
+"c": "osso",
+"q": "Por que a urina normal de equinos e coelhos é turva?",
+"o": [
+"Excretam o excesso de cálcio pelo rim",
+"Têm proteinúria fisiológica",
+"Eliminam muito fosfato de magnésio",
+"Concentram ureia em cristais"
+],
+"e": "Absorvem cálcio proporcionalmente à ingestão e excretam o excedente como carbonato."
+}
+]

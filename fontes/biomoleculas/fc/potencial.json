@@ -1,0 +1,72 @@
+[
+[
+"potencial",
+"Potencial de repouso de um neurônio",
+"Cerca de −70 mV (músculo esquelético ≈ −90 mV)."
+],
+[
+"potencial",
+"Equação de Nernst a 37 °C",
+"E = (61,5/z) × log([fora]/[dentro]); 10× de diferença ≈ 61 mV."
+],
+[
+"potencial",
+"E_K e E_Na aproximados",
+"E_K ≈ −95 mV; E_Na ≈ +65 mV."
+],
+[
+"potencial",
+"Por que o repouso fica perto do E_K?",
+"Canais de vazamento de K⁺: a membrana é 25–50× mais permeável ao K⁺."
+],
+[
+"potencial",
+"Papel da Na⁺/K⁺-ATPase",
+"3 Na⁺ fora, 2 K⁺ dentro; mantém gradientes; contribui poucos mV diretamente."
+],
+[
+"potencial",
+"Fases do potencial de ação",
+"Despolarização (Na⁺ entra), repolarização (Na⁺ inativa, K⁺ sai), hiperpolarização (K⁺ lento)."
+],
+[
+"potencial",
+"Comportas do canal de Na⁺",
+"m (ativação, rápida) e h (inativação, lenta). Repouso: m fechada, h aberta."
+],
+[
+"potencial",
+"Período refratário absoluto",
+"Canais de Na⁺ abertos ou inativados: nenhum estímulo dispara."
+],
+[
+"potencial",
+"Como se codifica a intensidade?",
+"Pela frequência de disparos e pelo recrutamento de fibras (tudo ou nada)."
+],
+[
+"potencial",
+"Condução saltatória",
+"Mielina isola o internodo; o potencial é regenerado nos nodos de Ranvier."
+],
+[
+"potencial",
+"Hipercalemia no gato obstruído",
+"Repouso menos negativo, canais de Na⁺ inativados: bradicardia; tratar com gluconato de cálcio, insulina+glicose e desobstrução."
+],
+[
+"potencial",
+"Hipocalcemia",
+"Limiar cai: tetania (eclâmpsia da cadela). Vaca: paresia flácida."
+],
+[
+"potencial",
+"Lidocaína",
+"Bloqueia canais de Na⁺ pelo lado interno; falha em tecido ácido."
+],
+[
+"potencial",
+"TTX × piretroides",
+"TTX/saxitoxina bloqueiam o canal de Na⁺; piretroides retardam a inativação (tremores no gato)."
+]
+]

@@ -1,0 +1,464 @@
+[
+{
+"c": "liso",
+"q": "No músculo liso, a estrutura que substitui a linha Z é:",
+"o": [
+"O corpo denso",
+"A tríade",
+"O disco intercalar",
+"A banda A"
+],
+"e": "Corpos densos de α-actinina ancoram os filamentos finos."
+},
+{
+"c": "liso",
+"q": "Por que o músculo liso não apresenta estrias?",
+"o": [
+"Os filamentos não formam sarcômeros alinhados",
+"Não possui actina nem miosina",
+"Tem apenas filamentos intermediários de desmina",
+"Seus núcleos ficam na periferia"
+],
+"e": "Os feixes contráteis correm em diagonal, presos a corpos densos."
+},
+{
+"c": "liso",
+"q": "Qual proteína reguladora está AUSENTE no músculo liso?",
+"o": [
+"Troponina",
+"Tropomiosina",
+"Calmodulina",
+"Actina"
+],
+"e": "O liso usa calmodulina e regulação na miosina."
+},
+{
+"c": "liso",
+"q": "No lugar dos túbulos T, a membrana da célula lisa apresenta:",
+"o": [
+"Cavéolas",
+"Discos intercalares",
+"Tríades",
+"Placas motoras"
+],
+"e": "Pequenas invaginações que concentram canais e receptores."
+},
+{
+"c": "liso",
+"q": "A proteína que liga o Ca²⁺ e inicia a contração do músculo liso é:",
+"o": [
+"Calmodulina",
+"Troponina C",
+"Calsequestrina",
+"Parvalbumina"
+],
+"e": "O complexo Ca²⁺-calmodulina ativa a MLCK."
+},
+{
+"c": "liso",
+"q": "A enzima ativada pelo complexo Ca²⁺-calmodulina é a:",
+"o": [
+"Quinase da cadeia leve da miosina (MLCK)",
+"Fosfatase da cadeia leve da miosina (MLCP)",
+"Proteína quinase A",
+"Guanilato ciclase solúvel"
+],
+"e": "A MLCK fosforila a cadeia leve reguladora."
+},
+{
+"c": "liso",
+"q": "A contração do músculo liso é regulada principalmente:",
+"o": [
+"No filamento grosso, por fosforilação da miosina",
+"No filamento fino, pelo complexo troponina",
+"Na linha M, pela titina e pela nebulina",
+"Pelo potencial de placa motora da fibra"
+],
+"e": "Só a miosina fosforilada tem ATPase alta e liga actina."
+},
+{
+"c": "liso",
+"q": "O relaxamento do músculo liso requer a ação da:",
+"o": [
+"Fosfatase da cadeia leve da miosina",
+"Quinase da cadeia leve da miosina",
+"Fosfolipase C",
+"Rho-quinase ativada"
+],
+"e": "A MLCP retira o fosfato e desliga a miosina."
+},
+{
+"c": "liso",
+"q": "O mecanismo de trava (latch) permite:",
+"o": [
+"Manter tensão com gasto mínimo de ATP",
+"Contrair mais rápido que o esquelético",
+"Dispensar totalmente o cálcio",
+"Gerar potenciais de ação de sódio"
+],
+"e": "Pontes desfosforiladas se soltam devagar e sustentam o tônus."
+},
+{
+"c": "liso",
+"q": "Onde o mecanismo de trava é especialmente importante?",
+"o": [
+"Esfíncteres e artérias com tônus prolongado",
+"Músculos extraoculares de movimento rápido",
+"Diafragma durante o exercício intenso",
+"Fibras do tipo IIB do glúteo equino"
+],
+"e": "Tônus mantido por horas sem fadiga."
+},
+{
+"c": "liso",
+"q": "A Rho-quinase aumenta a força do músculo liso porque:",
+"o": [
+"Inibe a fosfatase da cadeia leve",
+"Ativa a SERCA do retículo",
+"Bloqueia os canais de cálcio tipo L",
+"Aumenta o GMPc citosólico"
+],
+"e": "Com a MLCP inibida, a miosina fica fosforilada por mais tempo."
+},
+{
+"c": "liso",
+"q": "Qual característica define o músculo liso unitário?",
+"o": [
+"Muitas junções comunicantes formando sincício",
+"Inervação individual de cada célula pelo nervo",
+"Ausência de atividade espontânea",
+"Presença de placa motora"
+],
+"e": "As células se contraem juntas como uma unidade."
+},
+{
+"c": "liso",
+"q": "Qual destes é exemplo de músculo liso multiunitário?",
+"o": [
+"Músculo da íris",
+"Parede do intestino delgado",
+"Miométrio a termo",
+"Ureter"
+],
+"e": "Íris, ciliar, eretores dos pelos e grandes artérias são multiunitários."
+},
+{
+"c": "liso",
+"q": "Ao final da gestação, o miométrio torna-se unitário porque o estrógeno induz:",
+"o": [
+"Conexina 43 e receptores de ocitocina",
+"Troponina e túbulos T",
+"Receptores β2 e receptores de progesterona",
+"Calsequestrina e parvalbumina"
+],
+"e": "Mais junções comunicantes e mais receptores coordenam as contrações."
+},
+{
+"c": "liso",
+"q": "O hormônio que mantém o útero quiescente durante a gestação é:",
+"o": [
+"Progesterona",
+"Ocitocina hipofisária",
+"PGF2α",
+"Estrógeno"
+],
+"e": "A progesterona reduz junções comunicantes e receptores de ocitocina."
+},
+{
+"c": "liso",
+"q": "No músculo liso, a corrente despolarizante dos potenciais em ponta é carregada principalmente por:",
+"o": [
+"Ca²⁺ via canais tipo L",
+"Na⁺ via canais Nav1.4",
+"Cl⁻ via canais GABA",
+"K⁺ via canais de repouso"
+],
+"e": "Diferente do esquelético, cujo potencial de ação é de sódio."
+},
+{
+"c": "liso",
+"q": "O acoplamento farmacomecânico no músculo liso envolve:",
+"o": [
+"Receptor Gq, fosfolipase C e IP₃",
+"Receptor nicotínico e potencial de placa",
+"DHPR acoplado ao RYR1",
+"Troponina C e tropomiosina"
+],
+"e": "O IP₃ libera Ca²⁺ do retículo sem precisar de potencial de ação."
+},
+{
+"c": "liso",
+"q": "Por que os bloqueadores de canal de cálcio dilatam vasos mas não paralisam o esquelético?",
+"o": [
+"O liso depende muito do Ca²⁺ extracelular",
+"O esquelético não usa cálcio para contrair",
+"O liso não tem retículo sarcoplasmático",
+"O esquelético usa calmodulina no lugar da TnC"
+],
+"e": "No esquelético, o DHPR abre o RYR1 mecanicamente, sem precisar de cálcio de fora."
+},
+{
+"c": "liso",
+"q": "A ocitocina contrai o miométrio por meio de:",
+"o": [
+"Receptor acoplado a Gq e IP₃",
+"Receptor β2 e AMPc",
+"Óxido nítrico e GMPc",
+"Receptor nicotínico"
+],
+"e": "Também estimula a produção de PGF2α."
+},
+{
+"c": "liso",
+"q": "Agonistas β2 relaxam o músculo liso porque:",
+"o": [
+"O AMPc ativa a PKA, que inibe a MLCK",
+"O IP₃ libera cálcio do retículo",
+"O GMPc inibe a fosfatase da miosina",
+"A Rho-quinase é ativada"
+],
+"e": "A PKA reduz a afinidade da MLCK pela Ca²⁺-calmodulina e acelera a saída de cálcio."
+},
+{
+"c": "liso",
+"q": "O óxido nítrico relaxa o músculo liso vascular por:",
+"o": [
+"GMPc e proteína quinase G",
+"AMPc e proteína quinase A",
+"IP₃ e proteína quinase C",
+"DAG e Rho-quinase"
+],
+"e": "A PKG ativa a MLCP e reduz o Ca²⁺ citosólico."
+},
+{
+"c": "liso",
+"q": "O sildenafil potencializa a vasodilatação porque:",
+"o": [
+"Inibe a PDE5, que degrada o GMPc",
+"Bloqueia receptores α1",
+"Estimula a liberação de histamina",
+"Inibe a guanilato ciclase"
+],
+"e": "Usado na hipertensão pulmonar em cães."
+},
+{
+"c": "liso",
+"q": "Qual receptor medeia a broncoconstrição causada pela histamina?",
+"o": [
+"H1",
+"H2",
+"β2",
+"M2"
+],
+"e": "H1 acoplado a Gq no músculo liso bronquial."
+},
+{
+"c": "liso",
+"q": "A adrenalina contrai arteríolas da pele e relaxa os brônquios porque:",
+"o": [
+"Age em α1 na pele e em β2 nos brônquios",
+"Age em M3 em ambos os tecidos",
+"Age em H1 na pele e em H2 nos brônquios",
+"Só age no endotélio liberando NO"
+],
+"e": "O efeito depende do receptor de cada tecido."
+},
+{
+"c": "liso",
+"q": "A acetilcolina dilata vasos íntegros porque:",
+"o": [
+"Estimula o endotélio a liberar NO",
+"Ativa receptores β2 do vaso",
+"Bloqueia canais de cálcio do vaso",
+"Inibe a MLCK diretamente"
+],
+"e": "Sem endotélio, a ACh contrai o liso vascular via M3."
+},
+{
+"c": "liso",
+"q": "As ondas lentas do trato gastrintestinal são geradas por:",
+"o": [
+"Células intersticiais de Cajal",
+"Neurônios do plexo submucoso",
+"Células enterocromafins",
+"Células caliciformes"
+],
+"e": "São células marcapasso em rede junto às camadas musculares."
+},
+{
+"c": "liso",
+"q": "Uma onda lenta gera contração intestinal quando:",
+"o": [
+"Atinge o limiar e dispara potenciais em ponta",
+"Hiperpolariza a membrana abaixo do repouso",
+"Ocorre sem nenhuma entrada de cálcio na célula",
+"Libera acetilcolinesterase no plexo mioentérico"
+],
+"e": "As pontas de Ca²⁺ sobre a onda produzem a contração."
+},
+{
+"c": "liso",
+"q": "O que determina a frequência máxima de contrações de um segmento intestinal?",
+"o": [
+"A frequência das ondas lentas",
+"O número de corpos densos",
+"A quantidade de troponina",
+"A espessura da serosa"
+],
+"e": "Cada contração ocorre no topo de uma onda lenta."
+},
+{
+"c": "liso",
+"q": "A motilidade do retículo e do rúmen é comandada principalmente por:",
+"o": [
+"Centro no tronco encefálico via vago",
+"Células de Cajal de forma independente",
+"Ocitocina circulante",
+"Nervos somáticos do diafragma"
+],
+"e": "Lesões vagais deixam o rúmen parado."
+},
+{
+"c": "liso",
+"q": "Por que se recomenda gluconato de cálcio antes da ocitocina na inércia uterina da cadela?",
+"o": [
+"O miométrio precisa de Ca²⁺ para responder",
+"O cálcio bloqueia receptores de ocitocina",
+"O cálcio reduz o tônus uterino",
+"O cálcio substitui o estrógeno"
+],
+"e": "O liso uterino depende de cálcio extracelular para contrair."
+},
+{
+"c": "liso",
+"q": "Antes de usar ocitocina numa distocia, é indispensável:",
+"o": [
+"Descartar obstrução do canal do parto",
+"Aplicar antes um agonista β2 por via IV",
+"Administrar progesterona",
+"Esvaziar a bexiga com betanecol"
+],
+"e": "Contrair contra obstrução pode romper o útero."
+},
+{
+"c": "liso",
+"q": "O clembuterol é usado em obstetrícia de vacas e éguas porque:",
+"o": [
+"Relaxa o útero via receptores β2",
+"Contrai o útero via receptores α1",
+"Aumenta a liberação de ocitocina",
+"Induz a luteólise"
+],
+"e": "Facilita manobras de correção e cesarianas."
+},
+{
+"c": "liso",
+"q": "Na vaca com hipocalcemia puerperal, o que se espera do útero e do rúmen?",
+"o": [
+"Atonia de ambos",
+"Hipermotilidade de ambos",
+"Contração tetânica uterina",
+"Aumento do ritmo ruminal"
+],
+"e": "O liso depende de cálcio extracelular; há retenção de placenta e timpanismo."
+},
+{
+"c": "liso",
+"q": "Qual classe de fármacos alivia o broncoespasmo na asma equina?",
+"o": [
+"Agonistas β2 e anticolinérgicos",
+"Agonistas α1 e β-bloqueadores",
+"Anti-histamínicos H2 e ocitocina",
+"Agonistas muscarínicos e PGF2α"
+],
+"e": "Relaxam o liso bronquial; corticoides controlam a inflamação."
+},
+{
+"c": "liso",
+"q": "A butilescopolamina é usada na cólica espasmódica equina por ser:",
+"o": [
+"Antimuscarínica e espasmolítica",
+"Agonista α2 e analgésica",
+"Procinética muscarínica",
+"Bloqueadora de canal de sódio"
+],
+"e": "Bloqueia o M3 e reduz o espasmo intestinal."
+},
+{
+"c": "liso",
+"q": "Qual efeito colateral dos agonistas α2 (xilazina, detomidina) é relevante na cólica?",
+"o": [
+"Redução da motilidade intestinal",
+"Aumento da motilidade intestinal",
+"Broncodilatação intensa",
+"Hipercalcemia transitória"
+],
+"e": "Bons analgésicos, mas reduzem a motilidade por horas."
+},
+{
+"c": "liso",
+"q": "O anlodipino controla a hipertensão em gatos porque:",
+"o": [
+"Bloqueia canais de Ca²⁺ tipo L do vaso",
+"Estimula receptores α1 da parede arterial",
+"Aumenta a produção de angiotensina II no rim",
+"Inibe a fosfodiesterase 5 do músculo liso"
+],
+"e": "Previne lesões de órgão-alvo como o descolamento de retina."
+},
+{
+"c": "liso",
+"q": "Gangrena de cauda e cascos em bovinos que comem festuca contaminada ou ergot decorre de:",
+"o": [
+"Vasoconstrição prolongada",
+"Vasodilatação com edema",
+"Broncoespasmo crônico",
+"Paralisia flácida de membros"
+],
+"e": "Os alcaloides do ergot contraem o liso vascular."
+},
+{
+"c": "liso",
+"q": "Após obstrução uretral prolongada em gato, betanecol e prazosina são usados para:",
+"o": [
+"Contrair o detrusor e relaxar a uretra",
+"Relaxar o detrusor e contrair a uretra",
+"Contrair ambos",
+"Relaxar ambos"
+],
+"e": "Betanecol é muscarínico; prazosina bloqueia α1 da uretra."
+},
+{
+"c": "liso",
+"q": "Qual afirmação compara corretamente o liso com o esquelético?",
+"o": [
+"O liso encurta mais e gasta menos ATP",
+"O liso é mais rápido e mais fatigável",
+"O liso tem sarcômeros e túbulos T",
+"O liso depende de placa motora"
+],
+"e": "Miosina lateropolar e ciclos lentos tornam o liso econômico."
+},
+{
+"c": "liso",
+"q": "A atropina aplicada no olho causa midríase porque:",
+"o": [
+"Bloqueia o M3 do músculo constritor da pupila",
+"Estimula o α1 do músculo constritor da pupila",
+"Bloqueia o β2 do músculo dilatador da pupila",
+"Estimula o M3 do músculo ciliar"
+],
+"e": "Sem o tônus parassimpático, o constritor relaxa."
+},
+{
+"c": "liso",
+"q": "Tumores do estroma gastrintestinal (GIST) em cães originam-se de:",
+"o": [
+"Células intersticiais de Cajal",
+"Células parietais",
+"Enterócitos",
+"Neurônios do plexo mioentérico"
+],
+"e": "São tumores das células marcapasso."
+}
+]

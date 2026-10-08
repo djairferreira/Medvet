@@ -1,0 +1,508 @@
+[
+{
+"c": "sna",
+"q": "Quantos neurônios separam o SNC do efetor numa via autonômica?",
+"o": [
+"Dois: pré e pós-ganglionar",
+"Um só motoneurônio",
+"Três: pré, intermédio e pós",
+"Nenhum: o efetor é o próprio SNC"
+],
+"e": "O SNA usa uma cadeia de dois neurônios com um gânglio no meio."
+},
+{
+"c": "sna",
+"q": "Qual é o efetor do sistema nervoso somático?",
+"o": [
+"Músculo esquelético",
+"Músculo liso visceral",
+"Glândulas salivares",
+"Músculo cardíaco"
+],
+"e": "O somático controla a musculatura esquelética."
+},
+{
+"c": "sna",
+"q": "O neurotransmissor e o receptor da junção somática são:",
+"o": [
+"ACh e nicotínico",
+"Noradrenalina e α1",
+"ACh e muscarínico M3",
+"Adrenalina e β2"
+],
+"e": "Motoneurônios liberam ACh em receptores nicotínicos musculares."
+},
+{
+"c": "sna",
+"q": "A origem do simpático na medula espinal é:",
+"o": [
+"Toracolombar (T1–L3)",
+"Craniossacral (III, VII, IX, X, S2–S3)",
+"Somente cervical (C1–C8)",
+"Exclusivamente sacral"
+],
+"e": "Os corpos ficam no núcleo intermediolateral de T1 a L3."
+},
+{
+"c": "sna",
+"q": "A origem do parassimpático é:",
+"o": [
+"Craniossacral",
+"Toracolombar",
+"Exclusivamente lombar",
+"Exclusivamente torácica"
+],
+"e": "Nervos cranianos III, VII, IX, X e segmentos sacrais."
+},
+{
+"c": "sna",
+"q": "No simpático, as fibras pré e pós-ganglionares são, respectivamente:",
+"o": [
+"Curta e longa",
+"Longa e curta",
+"Ambas longas",
+"Ambas muito curtas"
+],
+"e": "Os gânglios simpáticos ficam perto da coluna."
+},
+{
+"c": "sna",
+"q": "Os gânglios parassimpáticos localizam-se geralmente:",
+"o": [
+"Junto ou dentro do órgão",
+"Na cadeia paravertebral",
+"No corno ventral da medula",
+"Na medula adrenal"
+],
+"e": "Por isso a fibra pós-ganglionar parassimpática é curta."
+},
+{
+"c": "sna",
+"q": "Qual nervo carrega a maior parte das fibras parassimpáticas?",
+"o": [
+"Vago (X)",
+"Oculomotor (III)",
+"Facial (VII)",
+"Pélvico sacral"
+],
+"e": "O vago inerva coração, pulmões e vísceras abdominais."
+},
+{
+"c": "sna",
+"q": "Em todos os gânglios autonômicos, a transmissão usa:",
+"o": [
+"ACh em receptor nicotínico",
+"Noradrenalina em receptor α1",
+"ACh em receptor muscarínico M2",
+"Dopamina em receptor D1"
+],
+"e": "Pré-ganglionares simpáticos e parassimpáticos são colinérgicos nicotínicos."
+},
+{
+"c": "sna",
+"q": "O neurotransmissor da maioria dos pós-ganglionares simpáticos é:",
+"o": [
+"Noradrenalina",
+"Acetilcolina",
+"Dopamina",
+"Adrenalina"
+],
+"e": "Exceções: glândulas sudoríparas (colinérgicas na maioria das espécies)."
+},
+{
+"c": "sna",
+"q": "O pós-ganglionar parassimpático age no órgão por meio de:",
+"o": [
+"ACh em receptores muscarínicos",
+"ACh em receptores nicotínicos",
+"Noradrenalina em receptores β",
+"Adrenalina em receptores α2"
+],
+"e": "Os muscarínicos são metabotrópicos."
+},
+{
+"c": "sna",
+"q": "Qual receptor reduz a frequência cardíaca quando ativado pela ACh?",
+"o": [
+"M2",
+"M3",
+"β1",
+"α1"
+],
+"e": "M2 (Gi) no nodo sinoatrial abre canais de K⁺ e reduz o AMPc."
+},
+{
+"c": "sna",
+"q": "O aumento de frequência e força cardíacas pelo simpático ocorre via:",
+"o": [
+"β1",
+"β2",
+"α2",
+"M3"
+],
+"e": "β1 (Gs) é o receptor adrenérgico cardíaco."
+},
+{
+"c": "sna",
+"q": "A broncodilatação simpática é mediada por:",
+"o": [
+"β2",
+"β1",
+"α1",
+"M3"
+],
+"e": "β2 relaxa o músculo liso brônquico."
+},
+{
+"c": "sna",
+"q": "A broncoconstrição parassimpática é mediada por:",
+"o": [
+"M3",
+"M2",
+"β2",
+"N"
+],
+"e": "M3 (Gq) contrai o músculo liso e aumenta o muco."
+},
+{
+"c": "sna",
+"q": "A vasoconstrição da pele no simpático depende de:",
+"o": [
+"α1",
+"β2",
+"M3",
+"β3"
+],
+"e": "α1 (Gq) contrai o músculo liso vascular."
+},
+{
+"c": "sna",
+"q": "Os vasos da musculatura esquelética dilatam na luta ou fuga por ação de:",
+"o": [
+"Adrenalina em β2",
+"Noradrenalina em α1",
+"ACh em nicotínicos",
+"Dopamina em D2"
+],
+"e": "A adrenalina circulante ativa β2 e desvia sangue para o músculo."
+},
+{
+"c": "sna",
+"q": "A midríase simpática resulta da contração do:",
+"o": [
+"Músculo dilatador radial (α1)",
+"Esfíncter da pupila (M3)",
+"Músculo ciliar (β2)",
+"Músculo tarsal (M2)"
+],
+"e": "O dilatador radial tem receptores α1."
+},
+{
+"c": "sna",
+"q": "A miose parassimpática é causada pela contração do:",
+"o": [
+"Esfíncter da pupila via M3",
+"Dilatador da pupila via α1",
+"Músculo ciliar via β2",
+"Músculo tarsal via α2"
+],
+"e": "Fibras do III par, via gânglio ciliar."
+},
+{
+"c": "sna",
+"q": "Na bexiga, o parassimpático:",
+"o": [
+"Contrai o detrusor e esvazia",
+"Relaxa o detrusor e armazena",
+"Contrai o esfíncter interno",
+"Não exerce efeito algum"
+],
+"e": "M3 contrai o detrusor; o simpático favorece o armazenamento."
+},
+{
+"c": "sna",
+"q": "Qual estrutura recebe apenas inervação simpática?",
+"o": [
+"Medula adrenal",
+"Coração",
+"Pupila",
+"Intestino delgado"
+],
+"e": "Também a maioria dos vasos, piloeretores e glândulas sudoríparas."
+},
+{
+"c": "sna",
+"q": "Ereção e ejaculação são controladas, respectivamente, por:",
+"o": [
+"Parassimpático e simpático",
+"Simpático e parassimpático",
+"Somático e parassimpático",
+"Ambas pelo simpático"
+],
+"e": "Ereção: M3/óxido nítrico; ejaculação: α1."
+},
+{
+"c": "sna",
+"q": "A medula adrenal libera principalmente:",
+"o": [
+"Adrenalina (cerca de 80%)",
+"Noradrenalina (cerca de 95%)",
+"Acetilcolina no sangue",
+"Cortisol e aldosterona"
+],
+"e": "As células cromafins são pós-ganglionares modificados."
+},
+{
+"c": "sna",
+"q": "A conversão de noradrenalina em adrenalina na medula adrenal é estimulada por:",
+"o": [
+"Cortisol vindo do córtex adrenal",
+"Insulina vinda do pâncreas",
+"Aldosterona vinda do rim",
+"Tiroxina da tireoide"
+],
+"e": "O cortisol induz a enzima PNMT."
+},
+{
+"c": "sna",
+"q": "Por que a sudorese do cavalo é uma exceção?",
+"o": [
+"Responde à adrenalina via β2",
+"É controlada pelo parassimpático",
+"Usa ACh em receptor nicotínico",
+"Não tem nenhum controle autonômico"
+],
+"e": "Na maioria das espécies a sudorese é simpática colinérgica."
+},
+{
+"c": "sna",
+"q": "Receptores α2 pré-sinápticos, quando ativados:",
+"o": [
+"Reduzem a liberação de noradrenalina",
+"Aumentam a liberação de noradrenalina",
+"Contraem o músculo liso vascular",
+"Aceleram o coração diretamente"
+],
+"e": "Funcionam como retroalimentação negativa."
+},
+{
+"c": "sna",
+"q": "O receptor β3 está ligado principalmente a:",
+"o": [
+"Lipólise e relaxamento do detrusor",
+"Contração do músculo ciliar",
+"Secreção ácida gástrica",
+"Contração do esfíncter da pupila"
+],
+"e": "β3 atua no tecido adiposo e na bexiga."
+},
+{
+"c": "sna",
+"q": "No barorreflexo, um aumento súbito da pressão arterial provoca:",
+"o": [
+"Bradicardia e vasodilatação",
+"Taquicardia e vasoconstrição",
+"Midríase e sudorese",
+"Broncoconstrição e salivação"
+],
+"e": "Mais tônus vagal e menos tônus simpático."
+},
+{
+"c": "sna",
+"q": "As vias aferentes do barorreflexo seguem pelos nervos:",
+"o": [
+"Glossofaríngeo e vago",
+"Facial e oculomotor",
+"Frênico e pélvico",
+"Trigêmeo e hipoglosso"
+],
+"e": "IX (seio carotídeo) e X (arco aórtico)."
+},
+{
+"c": "sna",
+"q": "A bradicardia após xilazina é em parte reflexa porque o fármaco:",
+"o": [
+"Causa hipertensão inicial por α2 vascular",
+"Bloqueia receptores M2 do coração",
+"Estimula receptores β1 cardíacos",
+"Inibe a acetilcolinesterase cardíaca"
+],
+"e": "A vasoconstrição inicial ativa o barorreflexo."
+},
+{
+"c": "sna",
+"q": "O centro integrador mais alto do SNA é o:",
+"o": [
+"Hipotálamo",
+"Cerebelo",
+"Córtex motor",
+"Corno ventral da medula"
+],
+"e": "Coordena termorregulação, fome, sede e defesa."
+},
+{
+"c": "sna",
+"q": "A atropina é usada na intoxicação por organofosforados porque:",
+"o": [
+"Bloqueia os efeitos muscarínicos da ACh",
+"Reativa a acetilcolinesterase fosforilada",
+"Bloqueia as fasciculações nicotínicas",
+"Acelera a eliminação renal do tóxico"
+],
+"e": "Ela não age nos receptores nicotínicos; a pralidoxima reativa a enzima."
+},
+{
+"c": "sna",
+"q": "O que significa SLUD na intoxicação por organofosforados?",
+"o": [
+"Salivação, lacrimejamento, urina, defecação",
+"Sudorese, letargia, urticária, desidratação",
+"Sialorreia, lentidão, uveíte, diplopia",
+"Sedação, lipólise, uremia, dispneia"
+],
+"e": "São os sinais muscarínicos do excesso de ACh."
+},
+{
+"c": "sna",
+"q": "As fasciculações musculares na intoxicação por organofosforados são efeitos:",
+"o": [
+"Nicotínicos",
+"Muscarínicos",
+"α-adrenérgicos",
+"β-adrenérgicos"
+],
+"e": "Excesso de ACh na placa motora (N_M)."
+},
+{
+"c": "sna",
+"q": "Um risco do uso de atropina em equinos é:",
+"o": [
+"Cólica por íleo",
+"Broncoconstrição",
+"Miose intensa",
+"Bradicardia grave"
+],
+"e": "A atropina para a motilidade intestinal."
+},
+{
+"c": "sna",
+"q": "A adrenalina na anafilaxia é útil porque:",
+"o": [
+"Broncodilata (β2) e contrai vasos (α1)",
+"Bloqueia receptores H1 de histamina",
+"Inibe a liberação de ACh no coração",
+"Relaxa todos os vasos sanguíneos"
+],
+"e": "Reverte broncoconstrição e vasodilatação."
+},
+{
+"c": "sna",
+"q": "Por que o propranolol deve ser evitado em gatos asmáticos?",
+"o": [
+"Bloqueia β2 e pode contrair brônquios",
+"Estimula β2 e causa taquicardia",
+"Bloqueia receptores muscarínicos M3",
+"Aumenta a liberação de histamina"
+],
+"e": "Prefere-se um bloqueador seletivo β1, como o atenolol."
+},
+{
+"c": "sna",
+"q": "O clembuterol é proibido como promotor de crescimento porque:",
+"o": [
+"Seus resíduos intoxicam consumidores",
+"Reduz a massa muscular dos animais",
+"Causa bradicardia grave nos bovinos",
+"É um antagonista β2 de longa ação"
+],
+"e": "É agonista β2; resíduos na carne já causaram intoxicações humanas."
+},
+{
+"c": "sna",
+"q": "Uso clínico adequado do clembuterol em equinos:",
+"o": [
+"Broncodilatação na asma equina",
+"Sedação para casqueamento",
+"Tratamento de bradicardia",
+"Indução de contrações uterinas"
+],
+"e": "É agonista β2 de longa ação."
+},
+{
+"c": "sna",
+"q": "A neostigmina é usada no fim da anestesia para:",
+"o": [
+"Reverter bloqueadores neuromusculares",
+"Induzir broncodilatação",
+"Reverter a sedação por xilazina",
+"Aumentar a frequência cardíaca"
+],
+"e": "Inibe a acetilcolinesterase e aumenta a ACh na placa."
+},
+{
+"c": "sna",
+"q": "Qual tríade é típica da síndrome de Horner?",
+"o": [
+"Miose, ptose e terceira pálpebra exposta",
+"Midríase, exoftalmia e lacrimejamento",
+"Miose, salivação e diarreia",
+"Midríase, cegueira e nistagmo"
+],
+"e": "Lesão simpática deixa o parassimpático sem oposição no olho."
+},
+{
+"c": "sna",
+"q": "Causa comum de síndrome de Horner no cão:",
+"o": [
+"Otite média",
+"Intoxicação por estricnina",
+"Hipercalemia",
+"Eclâmpsia"
+],
+"e": "A via simpática passa pela orelha média."
+},
+{
+"c": "sna",
+"q": "A disautonomia equina (grass sickness) caracteriza-se por:",
+"o": [
+"Degeneração de neurônios autonômicos",
+"Desmielinização de nervos motores somáticos",
+"Mutação no canal de Na⁺ do músculo",
+"Excesso de acetilcolinesterase sérica"
+],
+"e": "O intestino para; associada à toxina de C. botulinum tipo C."
+},
+{
+"c": "sna",
+"q": "A fenilefrina eleva a pressão arterial porque:",
+"o": [
+"Ativa receptores α1 vasculares",
+"Bloqueia receptores β1 cardíacos",
+"Ativa receptores M2 do coração",
+"Inibe a liberação de renina"
+],
+"e": "É agonista α1 puro; o barorreflexo reduz a FC."
+},
+{
+"c": "sna",
+"q": "O sistema nervoso entérico:",
+"o": [
+"Coordena o peristaltismo mesmo isolado do SNC",
+"Depende totalmente do vago para funcionar",
+"É formado apenas por fibras simpáticas",
+"Só existe nos ruminantes"
+],
+"e": "Plexos mioentérico e submucoso funcionam de forma autônoma."
+},
+{
+"c": "sna",
+"q": "A hiperglicemia de estresse em gatos durante a contenção deve-se a:",
+"o": [
+"Adrenalina estimulando glicogenólise",
+"Ação parassimpática no pâncreas",
+"Bloqueio dos receptores β2 hepáticos",
+"Liberação de insulina pelo simpático"
+],
+"e": "β2 e α1 no fígado, e α2 inibindo a insulina."
+}
+]

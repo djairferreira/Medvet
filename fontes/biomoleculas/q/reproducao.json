@@ -1,0 +1,684 @@
+[
+{
+"c": "reproducao",
+"q": "O GnRH precisa ser liberado de forma pulsátil porque a exposição contínua:",
+"o": [
+"dessensibiliza a hipófise e suprime FSH e LH",
+"aumenta indefinidamente a secreção de FSH e LH",
+"converte o GnRH em ocitocina na neuro-hipófise",
+"estimula diretamente a esteroidogênese ovariana"
+],
+"e": "Base do uso de implantes de agonistas de GnRH como contraceptivos."
+},
+{
+"c": "reproducao",
+"q": "Quanto à natureza química, estrógeno, progesterona e testosterona são:",
+"o": [
+"esteroides derivados do colesterol",
+"peptídeos de cadeia curta do hipotálamo",
+"glicoproteínas da adeno-hipófise",
+"eicosanoides derivados do ácido araquidônico"
+],
+"e": "Agem em receptores intracelulares."
+},
+{
+"c": "reproducao",
+"q": "O hormônio que inibe seletivamente a secreção de FSH é a:",
+"o": [
+"inibina",
+"ocitocina",
+"prolactina",
+"relaxina"
+],
+"e": "Produzida pela granulosa e pelas células de Sertoli."
+},
+{
+"c": "reproducao",
+"q": "Na fêmea, o pico pré-ovulatório de LH é desencadeado por:",
+"o": [
+"estradiol alto na ausência de progesterona",
+"progesterona alta produzida pelo corpo lúteo",
+"inibina alta produzida pelos folículos pequenos",
+"prolactina alta liberada durante a lactação"
+],
+"e": "É a retroalimentação positiva do estradiol."
+},
+{
+"c": "reproducao",
+"q": "Os neurônios que fazem a ligação entre os esteroides gonadais e os neurônios de GnRH produzem:",
+"o": [
+"kisspeptina",
+"dopamina",
+"somatostatina",
+"vasopressina"
+],
+"e": "A kisspeptina regula o GnRH, inclusive o pico."
+},
+{
+"c": "reproducao",
+"q": "Na fase lútea da vaca, nenhum folículo ovula porque:",
+"o": [
+"a progesterona mantém os pulsos de LH infrequentes",
+"o FSH fica alto demais e esgota os folículos",
+"a inibina bloqueia diretamente a ovulação no ovário",
+"a PGF2α impede o crescimento dos folículos"
+],
+"e": "Só após a luteólise a frequência de pulsos sobe."
+},
+{
+"c": "reproducao",
+"q": "No modelo 'duas células, duas gonadotrofinas', a aromatase da granulosa é induzida pelo:",
+"o": [
+"FSH",
+"LH",
+"GnRH",
+"prolactina"
+],
+"e": "O LH estimula a teca a produzir andrógenos, convertidos pela aromatase."
+},
+{
+"c": "reproducao",
+"q": "A puberdade da novilha depende principalmente de:",
+"o": [
+"peso e condição corporal, sinalizados pela leptina",
+"idade cronológica fixa de 12 meses em todas as raças",
+"presença contínua de progesterona exógena na dieta",
+"temperatura ambiente acima de 30 °C"
+],
+"e": "Novilhas taurinas ciclam com ~55–60% do peso adulto."
+},
+{
+"c": "reproducao",
+"q": "O 'efeito macho' em cabras e ovelhas consiste em:",
+"o": [
+"antecipar o cio pela introdução súbita do macho",
+"atrasar a puberdade pela presença do macho",
+"induzir aborto em fêmeas recém-cobertas",
+"prolongar o anestro pós-parto das fêmeas"
+],
+"e": "Feromônios do macho aumentam os pulsos de LH."
+},
+{
+"c": "reproducao",
+"q": "A fase do ciclo estral em que a vaca aceita a monta é o:",
+"o": [
+"estro",
+"proestro",
+"metaestro",
+"diestro"
+],
+"e": "Fase de estradiol máximo."
+},
+{
+"c": "reproducao",
+"q": "A fase mais longa do ciclo estral da vaca, com corpo lúteo funcional, é o:",
+"o": [
+"diestro",
+"proestro",
+"estro",
+"metaestro"
+],
+"e": "Dura cerca de 12–13 dias."
+},
+{
+"c": "reproducao",
+"q": "O sangramento vaginal discreto de uma vaca 1–2 dias após o cio indica:",
+"o": [
+"diapedese pós-estro, sem relação com gestação",
+"aborto precoce e falha de concepção certa",
+"proestro, como ocorre na cadela",
+"infecção uterina que exige tratamento"
+],
+"e": "Ocorre no metaestro pela queda do estrógeno."
+},
+{
+"c": "reproducao",
+"q": "Em quantas ondas foliculares, em geral, se organiza o ciclo da vaca?",
+"o": [
+"duas ou três",
+"uma única onda",
+"cinco a seis",
+"nenhuma, o crescimento é contínuo"
+],
+"e": "Zebuínas costumam ter três ou quatro."
+},
+{
+"c": "reproducao",
+"q": "Na seleção do folículo dominante, ele continua crescendo com FSH baixo porque:",
+"o": [
+"adquire receptores de LH na granulosa",
+"produz mais inibina que os outros folículos",
+"deixa de produzir estradiol",
+"fica independente de qualquer gonadotrofina"
+],
+"e": "Os subordinados, dependentes de FSH, sofrem atresia."
+},
+{
+"c": "reproducao",
+"q": "Na vaca, a ovulação ocorre:",
+"o": [
+"cerca de 24–32 h após o início do estro, depois do fim do cio",
+"no início do proestro, cerca de dois dias antes do cio",
+"cerca de 3 dias antes do início do estro, ainda no diestro",
+"apenas se houver cópula com o touro, por ser induzida"
+],
+"e": "Por isso a IA vai da segunda metade do cio até logo após."
+},
+{
+"c": "reproducao",
+"q": "Na égua, a ovulação ocorre:",
+"o": [
+"24–48 h antes do fim do estro, pela fossa de ovulação",
+"depois do fim do estro, como acontece na vaca",
+"somente após a cópula, por ser uma ovulação induzida",
+"no proestro, antes de a égua aceitar o garanhão"
+],
+"e": "O estro da égua dura 5–7 dias."
+},
+{
+"c": "reproducao",
+"q": "Qual espécie ovula um oócito primário, que ainda precisa amadurecer na tuba?",
+"o": [
+"cadela",
+"vaca",
+"porca",
+"ovelha"
+],
+"e": "O oócito canino amadurece em 2–3 dias."
+},
+{
+"c": "reproducao",
+"q": "O corpo lúteo da vaca não responde à PGF2α nos primeiros dias porque:",
+"o": [
+"ainda é refratário até cerca do dia 5",
+"ainda não tem células luteais grandes formadas",
+"não produz progesterona nessa fase",
+"está protegido pelo interferon-tau"
+],
+"e": "Por isso protocolos usam PGF só com CL maduro."
+},
+{
+"c": "reproducao",
+"q": "Em ruminantes, a PGF2α chega ao ovário sem passar pelo pulmão porque:",
+"o": [
+"passa da veia uterina para a artéria ovariana em contracorrente",
+"é transportada pela linfa uterina diretamente ao ovário",
+"é produzida pelo próprio corpo lúteo, sem vir do útero",
+"atravessa a cavidade peritoneal por difusão até o ovário"
+],
+"e": "Transferência local veno-arterial."
+},
+{
+"c": "reproducao",
+"q": "A alça de retroalimentação positiva da luteólise nos ruminantes envolve:",
+"o": [
+"ocitocina luteal e PGF2α endometrial",
+"estradiol folicular e FSH hipofisário",
+"prolactina e dopamina hipotalâmica",
+"relaxina e cortisol fetal"
+],
+"e": "A PGF estimula ocitocina luteal, que estimula mais PGF."
+},
+{
+"c": "reproducao",
+"q": "A pseudogestação é muito comum na cadela porque:",
+"o": [
+"o corpo lúteo dura cerca de 60 dias com ou sem gestação",
+"a PGF2α uterina lisa o corpo lúteo cedo demais na cadela",
+"ela ovula somente se houver cópula, como a gata",
+"o estrógeno permanece alto durante todo o diestro"
+],
+"e": "O útero não comanda a luteólise na cadela."
+},
+{
+"c": "reproducao",
+"q": "Na cadela, o melhor método para escolher o momento da cobertura é dosar:",
+"o": [
+"progesterona sérica, que sobe antes da ovulação",
+"estradiol sérico, que sobe após a ovulação",
+"prolactina, que marca o início do proestro",
+"relaxina, que marca o dia da ovulação"
+],
+"e": "Há luteinização pré-ovulatória."
+},
+{
+"c": "reproducao",
+"q": "Na citologia vaginal da cadela em estro, predominam:",
+"o": [
+"células superficiais queratinizadas",
+"neutrófilos e células parabasais",
+"hemácias e células intermediárias pequenas",
+"células basais e muco espesso"
+],
+"e": "Mais de 80% de células superficiais."
+},
+{
+"c": "reproducao",
+"q": "A égua é classificada como:",
+"o": [
+"poliéstrica estacional de dias longos",
+"poliéstrica estacional de dias curtos",
+"monoéstrica não estacional",
+"poliéstrica contínua, como a vaca"
+],
+"e": "Cicla na primavera e no verão."
+},
+{
+"c": "reproducao",
+"q": "Ovelhas ciclam no outono e no inverno porque:",
+"o": [
+"a melatonina das noites longas estimula o GnRH",
+"a melatonina dos dias longos inibe a prolactina",
+"o frio estimula diretamente os ovários",
+"o capim de inverno tem fitoestrógenos"
+],
+"e": "São estacionais de dias curtos."
+},
+{
+"c": "reproducao",
+"q": "Qual destas espécies tem ovulação induzida pela cópula?",
+"o": [
+"gata",
+"vaca",
+"égua",
+"porca"
+],
+"e": "Também coelha, camelídeos e furão."
+},
+{
+"c": "reproducao",
+"q": "Na gata acasalada que ovulou mas não concebeu, ocorre:",
+"o": [
+"pseudogestação de cerca de 5 a 6 semanas",
+"novo estro em 48 horas, por falta de progesterona",
+"gestação normal de 9 semanas mesmo sem embrião",
+"anestro permanente até a próxima estação"
+],
+"e": "O corpo lúteo se forma mesmo sem embrião."
+},
+{
+"c": "reproducao",
+"q": "A gestação da porca dura cerca de:",
+"o": [
+"114 dias",
+"150 dias",
+"283 dias",
+"63 dias"
+],
+"e": "3 meses, 3 semanas e 3 dias."
+},
+{
+"c": "reproducao",
+"q": "O ciclo estral da ovelha dura em média:",
+"o": [
+"17 dias",
+"21 dias",
+"28 dias",
+"14 dias"
+],
+"e": "Cabra, vaca e porca: ~21 dias."
+},
+{
+"c": "reproducao",
+"q": "As células de Leydig produzem testosterona sob estímulo do:",
+"o": [
+"LH",
+"FSH",
+"GnRH diretamente",
+"inibina"
+],
+"e": "O LH era chamado no macho de ICSH."
+},
+{
+"c": "reproducao",
+"q": "A barreira hematotesticular é formada por:",
+"o": [
+"junções oclusivas entre células de Sertoli",
+"células de Leydig ao redor dos vasos",
+"fibroblastos da túnica albugínea",
+"macrófagos do interstício testicular"
+],
+"e": "Protege as células meióticas."
+},
+{
+"c": "reproducao",
+"q": "A espermiogênese corresponde à:",
+"o": [
+"transformação da espermátide em espermatozoide",
+"divisão mitótica das espermatogônias-tronco",
+"primeira divisão meiótica do espermatócito I",
+"maturação final que ocorre no epidídimo"
+],
+"e": "Forma acrossomo, flagelo e condensa o núcleo."
+},
+{
+"c": "reproducao",
+"q": "No touro, a espermatogênese completa leva cerca de:",
+"o": [
+"60 dias",
+"15 dias",
+"120 dias",
+"7 dias"
+],
+"e": "Lesões testiculares aparecem no sêmen semanas depois."
+},
+{
+"c": "reproducao",
+"q": "Um touro que teve febre alta por vários dias deve ter o sêmen reavaliado após cerca de:",
+"o": [
+"dois meses",
+"dois dias",
+"uma semana",
+"um ano"
+],
+"e": "Tempo de espermatogênese + trânsito epididimário."
+},
+{
+"c": "reproducao",
+"q": "O mecanismo que resfria em contracorrente o sangue arterial que chega ao testículo é o:",
+"o": [
+"plexo pampiniforme",
+"músculo cremaster",
+"túnica dartos",
+"ducto deferente"
+],
+"e": "Veias frias envolvem a artéria testicular."
+},
+{
+"c": "reproducao",
+"q": "Um cavalo criptorquida bilateral geralmente:",
+"o": [
+"é infértil, mas tem comportamento de garanhão",
+"é fértil, mas não apresenta comportamento de macho",
+"não produz testosterona nem tem libido",
+"não pode desenvolver tumores nos testículos retidos"
+],
+"e": "As células de Leydig funcionam no abdome."
+},
+{
+"c": "reproducao",
+"q": "A emissão do sêmen (contração dos ductos e glândulas acessórias) é controlada pelo sistema:",
+"o": [
+"simpático",
+"parassimpático",
+"somático voluntário apenas",
+"entérico"
+],
+"e": "A ereção é parassimpática; a expulsão, somática."
+},
+{
+"c": "reproducao",
+"q": "Qual espécie tem pênis fibroelástico com flexura sigmoide?",
+"o": [
+"touro",
+"garanhão",
+"cão",
+"gato doméstico"
+],
+"e": "Também carneiro, bode e varrão."
+},
+{
+"c": "reproducao",
+"q": "O varrão difere do touro por ejacular:",
+"o": [
+"grande volume pouco concentrado, em vários minutos",
+"pequeno volume muito concentrado, em poucos segundos",
+"apenas uma fração rica em gel, sem espermatozoides",
+"sem fração prostática ou vesicular no ejaculado"
+],
+"e": "150–300 mL, com fração de gel."
+},
+{
+"c": "reproducao",
+"q": "O sinal de reconhecimento materno da gestação nos ruminantes é o:",
+"o": [
+"interferon-tau do trofoblasto",
+"estrógeno do concepto",
+"eCG dos cálices endometriais",
+"hCG do sinciciotrofoblasto"
+],
+"e": "Bloqueia os receptores endometriais de ocitocina."
+},
+{
+"c": "reproducao",
+"q": "Na porca, o reconhecimento materno da gestação depende de:",
+"o": [
+"estrógenos do concepto que desviam a PGF2α ao lúmen",
+"interferon-tau que bloqueia os receptores de ocitocina",
+"migração do embrião por todo o útero entre os dias 6 e 17",
+"prolactina que mantém o corpo lúteo até o parto"
+],
+"e": "São necessários vários embriões em ambos os cornos."
+},
+{
+"c": "reproducao",
+"q": "Na égua, o reconhecimento materno envolve:",
+"o": [
+"migração do embrião por todo o útero",
+"interferon-tau do trofoblasto",
+"estrógenos do concepto no dia 11",
+"prolactina luteotrófica"
+],
+"e": "A migração ocorre entre os dias 6 e 17."
+},
+{
+"c": "reproducao",
+"q": "Em qual espécie a PGF2α causa aborto em qualquer fase da gestação, por depender do corpo lúteo?",
+"o": [
+"cabra",
+"ovelha",
+"égua",
+"vaca no terço final"
+],
+"e": "Também porca, cadela e coelha."
+},
+{
+"c": "reproducao",
+"q": "O sinal que inicia o parto na maioria das espécies domésticas é:",
+"o": [
+"a elevação do cortisol fetal",
+"a queda do cortisol materno",
+"a elevação da progesterona placentária",
+"a queda da ocitocina materna"
+],
+"e": "Induz enzimas que convertem progesterona em estrógeno."
+},
+{
+"c": "reproducao",
+"q": "O reflexo de Ferguson consiste em:",
+"o": [
+"liberação de ocitocina pela distensão do colo e da vagina",
+"liberação de prolactina pela sucção do teto",
+"liberação de relaxina pelo corpo lúteo",
+"liberação de cortisol pelo estresse do parto"
+],
+"e": "Retroalimentação positiva durante a expulsão."
+},
+{
+"c": "reproducao",
+"q": "A relaxina contribui para o parto ao:",
+"o": [
+"amolecer o colo e os ligamentos pélvicos",
+"contrair diretamente o miométrio na expulsão",
+"manter o corpo lúteo até o fim do parto",
+"inibir a liberação de ocitocina pela hipófise"
+],
+"e": "Facilita a passagem do feto."
+},
+{
+"c": "reproducao",
+"q": "A ovelha que ingere Veratrum californicum no início da gestação pode ter cordeiros com ciclopia e:",
+"o": [
+"gestação prolongada pela falta do sinal fetal",
+"parto prematuro por excesso de cortisol fetal",
+"aborto imediato por luteólise induzida pela planta",
+"gêmeos por superovulação provocada pelo alcaloide"
+],
+"e": "O feto sem eixo hipófise-adrenal não inicia o parto."
+},
+{
+"c": "reproducao",
+"q": "A ejeção do leite é mediada pela:",
+"o": [
+"ocitocina, que contrai as células mioepiteliais",
+"prolactina, que contrai os ductos lactíferos do úbere",
+"progesterona, que relaxa o esfíncter do teto",
+"adrenalina, que dilata os alvéolos e libera o leite"
+],
+"e": "A adrenalina, ao contrário, bloqueia a descida."
+},
+{
+"c": "reproducao",
+"q": "Na vaca leiteira, o hormônio mais importante para manter a produção de leite (galactopoiese) é o:",
+"o": [
+"hormônio do crescimento (somatotropina)",
+"estradiol produzido pelo folículo dominante",
+"ocitocina de origem luteal e hipofisária",
+"relaxina produzida pelo corpo lúteo"
+],
+"e": "Daí o uso de bST em alguns países."
+},
+{
+"c": "reproducao",
+"q": "A porca volta ao cio, em geral:",
+"o": [
+"4 a 7 dias após o desmame",
+"durante a lactação, no dia 10",
+"60 dias após o parto",
+"somente com tratamento hormonal"
+],
+"e": "A amamentação inibe o GnRH."
+},
+{
+"c": "reproducao",
+"q": "Por que a PGF2α isolada não sincroniza vacas em anestro?",
+"o": [
+"porque não há corpo lúteo para ser lisado",
+"porque o anestro aumenta a meia-vida da PGF2α",
+"porque a PGF2α estimula a progesterona",
+"porque vacas em anestro não têm útero responsivo"
+],
+"e": "A PGF só age se houver CL maduro."
+},
+{
+"c": "reproducao",
+"q": "Num protocolo de IATF, o dispositivo de progesterona intravaginal serve para:",
+"o": [
+"simular o diestro e evitar ovulação prematura",
+"induzir diretamente a ovulação no dia 0 do protocolo",
+"lisar o corpo lúteo presente no início do protocolo",
+"aumentar o tamanho e a vida útil do corpo lúteo"
+],
+"e": "Sua retirada imita a queda natural de progesterona."
+},
+{
+"c": "reproducao",
+"q": "O benzoato de estradiol aplicado no início do protocolo, junto com a progesterona:",
+"o": [
+"provoca atresia folicular e nova onda em ~4 dias",
+"induz a ovulação imediata do folículo dominante",
+"lisa o corpo lúteo presente em 24 horas",
+"bloqueia a síntese de FSH por várias semanas"
+],
+"e": "Sincroniza a emergência da onda."
+},
+{
+"c": "reproducao",
+"q": "O eCG é usado na retirada do implante em vacas de corte com cria ao pé porque:",
+"o": [
+"tem ação de FSH e LH e estimula o crescimento final do folículo",
+"provoca luteólise e, ao mesmo tempo, aumenta a progesterona",
+"bloqueia o reflexo de sucção do bezerro e o anestro",
+"substitui a necessidade de inseminar em tempo fixo"
+],
+"e": "Meia-vida longa, útil em anestro e baixa condição corporal."
+},
+{
+"c": "reproducao",
+"q": "O eCG é produzido:",
+"o": [
+"pelos cálices endometriais da égua prenhe",
+"pela placenta humana durante o primeiro trimestre",
+"pela adeno-hipófise da égua no período de estro",
+"pelo corpo lúteo da vaca durante o diestro"
+],
+"e": "Entre ~40 e 120 dias de gestação."
+},
+{
+"c": "reproducao",
+"q": "O hCG é usado na égua principalmente para:",
+"o": [
+"induzir a ovulação de folículo de ~35 mm ou mais",
+"provocar luteólise no diestro e encurtar o ciclo",
+"manter a gestação após o dia 150 em éguas idosas",
+"suprimir o cio de éguas durante as competições"
+],
+"e": "Tem ação semelhante ao LH."
+},
+{
+"c": "reproducao",
+"q": "No protocolo Ovsynch, a segunda dose de GnRH tem a função de:",
+"o": [
+"induzir a ovulação sincronizada",
+"lisar o corpo lúteo",
+"iniciar uma nova onda folicular",
+"manter a progesterona alta"
+],
+"e": "A IA é feita 16–20 h depois."
+},
+{
+"c": "reproducao",
+"q": "Implantes de deslorelina (agonista de GnRH) são contraceptivos porque:",
+"o": [
+"a liberação contínua dessensibiliza a hipófise",
+"bloqueiam os receptores de progesterona no útero",
+"destroem permanentemente as células de Leydig",
+"induzem anticorpos que neutralizam o LH circulante"
+],
+"e": "Após um estímulo inicial, suprimem FSH e LH."
+},
+{
+"c": "reproducao",
+"q": "O uso prolongado de progestágenos como contraceptivo em cadelas está associado a:",
+"o": [
+"piometra e tumores mamários",
+"aplasia de medula óssea",
+"hipotireoidismo congênito",
+"ovulação induzida"
+],
+"e": "Hoje é desaconselhado."
+},
+{
+"c": "reproducao",
+"q": "Para interromper uma gestação indesejada na cadela, um fármaco adequado é a:",
+"o": [
+"aglepristona",
+"dexametasona",
+"eCG",
+"medroxiprogesterona"
+],
+"e": "Antagonista do receptor de progesterona."
+},
+{
+"c": "reproducao",
+"q": "Estrógenos para interromper gestação em cadelas são contraindicados porque podem causar:",
+"o": [
+"aplasia de medula óssea e piometra",
+"pseudogestação e lactação",
+"hipocalcemia puerperal",
+"hiperplasia prostática"
+],
+"e": "Toxicidade medular grave."
+},
+{
+"c": "reproducao",
+"q": "A imunocastração de suínos machos com vacina anti-GnRH tem como principal objetivo:",
+"o": [
+"evitar o odor de macho inteiro na carne",
+"aumentar o número de leitões por parto",
+"induzir puberdade precoce",
+"melhorar a libido do reprodutor"
+],
+"e": "Substitui a castração cirúrgica."
+}
+]
