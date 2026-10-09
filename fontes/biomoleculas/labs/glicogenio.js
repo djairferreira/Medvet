@@ -63,7 +63,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
     ['Propionato',1,'Propionil-CoA → metilmalonil-CoA → succinil-CoA (biotina e B12). Principal fonte de glicose do ruminante.'],
     ['Glutamina',1,'Vira glutamato e α-cetoglutarato, que percorre o ciclo até oxaloacetato.'],
     ['Aspartato',1,'Transaminado diretamente a oxaloacetato.'],
-    ['Acetato',0,'Só gera acetil-CoA, cujos dois carbonos saem como CO₂ no ciclo de Krebs.'],
+    ['Acetato',0,'Só gera acetil-CoA, que não dá ganho líquido de oxaloacetato: cada acetil que entra no ciclo de Krebs equivale a dois CO₂ que saem.'],
     ['Butirato',0,'Ácido graxo de cadeia par: gera acetil-CoA (e corpos cetônicos no epitélio ruminal).'],
     ['Ácido palmítico',0,'Ácido graxo de 16 carbonos: β-oxidação só produz acetil-CoA.'],
     ['Leucina',0,'Aminoácido exclusivamente cetogênico: gera acetil-CoA e acetoacetato.'],

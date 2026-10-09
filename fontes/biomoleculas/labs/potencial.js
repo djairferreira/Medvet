@@ -79,7 +79,7 @@ const sg=(v,d=0)=>(v>0?'+':'')+fmt(v,d);
     T(g,cx,262,title,{fs:18,fill:col});
     E('rect',{x:cx-34,y:268,width:24,height:48,rx:7,fill:col,opacity:.9},g);E('rect',{x:cx+10,y:268,width:24,height:48,rx:7,fill:col,opacity:.9},g);
     gates(g)}
-  function update(i){if(!data)return;const p=data.r[Math.max(0,Math.min(data.r.length-1,i))];cur=i;
+  function update(i){if(!data||!data.r.length)return;const p=data.r[Math.max(0,Math.min(data.r.length-1,i|0))];cur=i;
     clear(layer.cur);const x=X(p.t),y=Y(p.V);
     E('line',{x1:x,y1:12,x2:x,y2:208,stroke:'var(--muted)','stroke-width':1,'stroke-dasharray':'3 4'},layer.cur);
     E('circle',{cx:x,cy:y,r:7,fill:'var(--hema)',stroke:'var(--panel)','stroke-width':2},layer.cur);
@@ -106,7 +106,7 @@ const sg=(v,d=0)=>(v>0?'+':'')+fmt(v,d);
     E('text',{x:498,y:300,'font-size':18,'text-anchor':'start','font-weight':700,fill:cK,text:lbl[kState]},layer.k);
     return {p,naState,kState};
   }
-  function phase(i){const r=data.r,p=r[i];if(p.t<T0)return 'repouso';
+  function phase(i){const r=data.r;i=Math.max(0,Math.min(r.length-1,i|0));const p=r[i];if(!p)return '';if(p.t<T0)return 'repouso';
     const prev=r[Math.max(0,i-3)];const dv=p.V-prev.V;
     if(p.V>-40&&dv>0)return 'despolarização (fase ascendente)';
     if(p.V>-40&&dv<=0)return 'repolarização';
@@ -141,7 +141,7 @@ const sg=(v,d=0)=>(v>0?'+':'')+fmt(v,d);
     const dur=3200,t0=performance.now();
     const fr=now=>{const f=Math.max(0,Math.min(1,(now-t0)/dur));const i=Math.round(f*(data.r.length-1));
       // revela o traçado até o tempo atual
-      const xx=X(data.r[i].t);clipRect.setAttribute('width',Math.max(0,xx));show(i);
+      const xx=X((data.r[i]||data.r[data.r.length-1]).t);clipRect.setAttribute('width',Math.max(0,xx));show(i);
       if(f<1)anim=requestAnimationFrame(fr)};
     layer.path.style.strokeDasharray='';layer.path.style.strokeDashoffset='';
     const defs=E('defs',{},s),cp=E('clipPath',{id:'paClip'},defs);const clipRect=E('rect',{x:0,y:0,width:0,height:240},cp);
@@ -153,7 +153,7 @@ const sg=(v,d=0)=>(v>0?'+':'')+fmt(v,d);
   go.addEventListener('click',run);
   // inspecionar com o dedo/mouse
   s.addEventListener('pointermove',e=>{if(!data)return;const r=s.getBoundingClientRect();const x=(e.clientX-r.left)/r.width*600;
-    if(x<66||x>586)return;cancelAnimationFrame(anim);const cr=s.querySelector('#paClip rect');if(cr)cr.setAttribute('width',600);
+    if(!r.width||!isFinite(x)||x<66||x>586)return;cancelAnimationFrame(anim);const cr=s.querySelector('#paClip rect');if(cr)cr.setAttribute('width',600);
     const t=(x-66)/520*TMAX;const i=Math.round(t/TMAX*(data.r.length-1));const st=update(i);const ph=$('#paPh');if(ph&&st)ph.textContent=`t = ${fmt(st.p.t,1)} ms · ${fmt(st.p.V,0)} mV · ${phase(i)} · Na⁺: ${st.naState}, K⁺: ${st.kState}`});
   lab();run();
 })();
@@ -175,7 +175,7 @@ const sg=(v,d=0)=>(v>0?'+':'')+fmt(v,d);
         if(k==='desm'&&i>=4&&i<=6){E('rect',{x:x0,y:y-12,width:x1-x0,height:24,rx:10,fill:'none',stroke:'var(--muted)','stroke-width':1.5,'stroke-dasharray':'4 4'},s);continue}
         E('rect',{x:x0,y:y-12,width:x1-x0,height:24,rx:10,fill:'var(--amber-soft)',stroke:'var(--amber)','stroke-width':1.5},s)}
       const x=pos(k,tt);
-      if(x!=null){E('rect',{x:Math.max(L,x-60),y:y-5,width:Math.min(60,x-L),height:10,rx:5,fill:'var(--hema-soft)'},s);
+      if(x!=null){E('rect',{x:Math.max(L,x-60),y:y-5,width:Math.max(0,Math.min(60,x-L)),height:10,rx:5,fill:'var(--hema-soft)'},s);
         E('circle',{cx:x,cy:y,r:on?11:9,fill:'var(--hema)',stroke:'var(--panel)','stroke-width':2},s)}}
   };
   // tt em segundos de animação
