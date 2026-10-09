@@ -12,14 +12,14 @@
  },
  {
   "c": "betaox",
-  "q": "Qual segundo mensageiro media a ativação da lipólise por adrenalina e glucagon?",
+  "q": "Qual segundo mensageiro media a ativação da lipólise pelas catecolaminas no adipócito?",
   "o": [
    "AMP cíclico",
    "GMP cíclico",
    "Inositol trifosfato",
    "Diacilglicerol de membrana"
   ],
-  "e": "Receptores acoplados a Gs elevam o AMPc, que ativa a PKA."
+  "e": "Receptores β-adrenérgicos acoplados a Gs elevam o AMPc, que ativa a PKA."
  },
  {
   "c": "betaox",
@@ -401,7 +401,7 @@
   "o": [
    "A gestação da cabra depende do corpo lúteo",
    "A prostaglandina eleva a glicemia materna",
-   "A placenta caprina produz pouca progesterona no início",
+   "A prostaglandina reduz a demanda fetal de glicose",
    "A prostaglandina inibe a lipólise materna"
   ],
   "e": "PGF2α causa luteólise e queda da progesterona."
@@ -553,12 +553,12 @@
   "c": "betaox",
   "q": "Por que o tecido adiposo precisa de glicose para armazenar triacilglicerol?",
   "o": [
-   "Obtém glicerol-3-fosfato apenas pela glicólise",
+   "Obtém glicerol-3-fosfato sobretudo pela glicólise",
    "Usa glicose como fonte direta dos ácidos graxos",
    "Usa glicose para ativar a lipase hormônio-sensível",
    "Converte glicose em carnitina para o estoque"
   ],
-  "e": "Sem glicerol-quinase, o glicerol-3-P vem da DHAP glicolítica."
+  "e": "Quase sem glicerol-quinase, o glicerol-3-P vem principalmente da DHAP glicolítica; a gliceroneogênese cobre só uma parte."
  },
  {
   "c": "betaox",
