@@ -56,14 +56,14 @@
 },
 {
 "c": "carboidratos",
-"q": "Qual é o anel formado pela frutose em solução?",
+"q": "Na sacarose e na frutose-6-fosfato, a frutose forma um anel do tipo:",
 "o": [
 "Furanose, de cinco átomos",
 "Piranose, de seis átomos",
 "Lactona, de quatro átomos",
 "Anel aromático de seis carbonos"
 ],
-"e": "A –OH do C5 ataca o C2 (cetona), formando anel de cinco átomos."
+"e": "A –OH do C5 ataca o C2 (cetona), formando anel de cinco átomos (livre em solução, a frutose fica sobretudo como piranose)."
 },
 {
 "c": "carboidratos",
