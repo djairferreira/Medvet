@@ -13,7 +13,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
       ['SERCA recolhe o Ca²⁺: relaxa','Termina o estímulo, a SERCA bombeia o cálcio ao RS e a tropomiosina volta a cobrir a actina. Relaxamento em dezenas de milissegundos.']]},
     liso:{cor:'var(--eosin)',soft:'var(--eosin-soft)',passos:[
       ['Nervo, hormônio ou estiramento','Muitos gatilhos: noradrenalina (α1), acetilcolina (M3), ocitocina, histamina, angiotensina II, estiramento da parede, ondas lentas das células de Cajal.'],
-      ['Ca²⁺ entra e o IP₃ libera do RS','O cálcio entra por canais tipo L, operados por receptor e por estiramento; receptores G<sub>q</sub> geram IP<sub>3</sub>, que libera cálcio do retículo. Sem cálcio extracelular, a contração falha (alvo do anlodipino).'],
+      ['Ca²⁺ entra e o IP₃ libera do RS','O cálcio entra por canais tipo L, operados por receptor e por estiramento; receptores G<sub>q</sub> geram IP<sub>3</sub>, que libera cálcio do retículo. Sem cálcio extracelular, a contração fica fraca e não se sustenta (alvo do anlodipino).'],
       ['Ca²⁺ liga-se à calmodulina','Quatro Ca<sup>2+</sup> ligam-se à calmodulina, no citosol. Não há troponina.'],
       ['Ca²⁺-calmodulina ativa a MLCK','O complexo ativa a quinase da cadeia leve da miosina. O AMPc/PKA (agonistas β2, como o clembuterol) inibe a MLCK e relaxa.'],
       ['MLCK fosforila a miosina','A cadeia leve reguladora é fosforilada e a ATPase da miosina é ligada. A regulação está no <b>filamento grosso</b>.'],

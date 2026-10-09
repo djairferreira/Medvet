@@ -600,3 +600,11 @@ html{scroll-behavior:smooth}
 @media (max-width:960px){.side{overflow-y:auto;touch-action:pan-y}.scrim{touch-action:none}}
 
 .quiz-info{margin:-4px 0 12px;font-family:var(--f-display);font-size:.875rem;color:var(--muted)}
+
+/* ajustes gerais (título do topo, cartões de revisão, sub/sup) */
+.topbar .tb-name{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.topbar .tb-short{display:none}
+@media (max-width:440px){.topbar .tb-long{display:none}.topbar .tb-short{display:inline}}
+.fc-wrap{grid-template-columns:minmax(0,1fr)}
+.fc-controls select{min-width:0;flex:1 1 180px}
+sub,sup{font-size:.75em}

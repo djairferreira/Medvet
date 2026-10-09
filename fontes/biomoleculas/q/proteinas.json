@@ -203,8 +203,8 @@
 "o": [
 "Cátodo (polo negativo)",
 "Ânodo (polo positivo)",
-"Não migra",
-"Fica parada no ponto de aplicação"
+"Não migra, pois está no seu ponto isoelétrico",
+"Migra apenas conforme o tamanho, sem influência da carga"
 ],
 "e": "Em pH ácido os grupos estão protonados e a carga é positiva."
 },
@@ -562,7 +562,7 @@
 },
 {
 "c": "proteinas",
-"q": "Um aumento isolado de albumina no soro de um cão indica, em geral:",
+"q": "Hiperalbuminemia no soro de um cão indica, em geral:",
 "o": [
 "Desidratação",
 "Hepatopatia crônica",

@@ -27,7 +27,7 @@
     <div class="tbl"><table>
       <thead><tr><th>Íon</th><th>Extracelular (mM)</th><th>Intracelular (mM)</th><th>Potencial de equilíbrio (37 °C)</th></tr></thead>
       <tbody>
-        <tr><td><b>Na⁺</b></td><td>140 a 145</td><td>10 a 15</td><td>cerca de <b>+60 a +65 mV</b></td></tr>
+        <tr><td><b>Na⁺</b></td><td>140 a 145</td><td>10 a 15</td><td>cerca de <b>+60 a +70 mV</b></td></tr>
         <tr><td><b>K⁺</b></td><td>3,5 a 5</td><td>140 a 150</td><td>cerca de <b>−90 a −95 mV</b></td></tr>
         <tr><td><b>Cl⁻</b></td><td>100 a 115</td><td>5 a 10 (neurônio maduro)</td><td>cerca de <b>−70 a −80 mV</b></td></tr>
         <tr><td><b>Ca²⁺ ionizado</b></td><td>1,1 a 1,3</td><td>0,0001 (100 nM)</td><td>cerca de <b>+120 a +130 mV</b></td></tr>
@@ -43,7 +43,7 @@
     <h3><span class="tag">14.3</span>Goldman, canais de vazamento e bomba de Na⁺/K⁺</h3>
     <p>A membrana real é permeável a vários íons ao mesmo tempo. A <strong>equação de Goldman-Hodgkin-Katz</strong> calcula o V<sub>m</sub> como uma média dos potenciais de equilíbrio <b>ponderada pela permeabilidade</b> de cada íon:</p>
     <p class="mono" style="text-align:center">V<sub>m</sub> = 61,5 × log [ (P<sub>K</sub>[K⁺]<sub>e</sub> + P<sub>Na</sub>[Na⁺]<sub>e</sub> + P<sub>Cl</sub>[Cl⁻]<sub>i</sub>) / (P<sub>K</sub>[K⁺]<sub>i</sub> + P<sub>Na</sub>[Na⁺]<sub>i</sub> + P<sub>Cl</sub>[Cl⁻]<sub>e</sub>) ]</p>
-    <p>Em repouso, a membrana do neurônio é cerca de <strong>25 a 50 vezes mais permeável ao K⁺</strong> do que ao Na⁺, graças aos <strong>canais de vazamento de K⁺</strong> (canais de dois poros, K2P, e retificadores de entrada, Kir), que ficam abertos o tempo todo. Por isso o V<sub>m</sub> fica perto do E<sub>K</sub>, mas um pouco menos negativo, porque o pequeno vazamento de Na⁺ para dentro o puxa em direção ao E<sub>Na</sub>. Com P<sub>K</sub> : P<sub>Na</sub> : P<sub>Cl</sub> = 1 : 0,04 : 0,45 e as concentrações da tabela, a conta dá cerca de <b>−69 mV</b>.</p>
+    <p>Em repouso, a membrana do neurônio é cerca de <strong>25 a 50 vezes mais permeável ao K⁺</strong> do que ao Na⁺, graças aos <strong>canais de vazamento de K⁺</strong> (canais de dois poros, K2P, e retificadores de entrada, Kir), que ficam abertos o tempo todo. Por isso o V<sub>m</sub> fica perto do E<sub>K</sub>, mas um pouco menos negativo, porque o pequeno vazamento de Na⁺ para dentro o puxa em direção ao E<sub>Na</sub>. Com P<sub>K</sub> : P<sub>Na</sub> : P<sub>Cl</sub> = 1 : 0,04 : 0,45 e as concentrações da tabela, a conta dá cerca de <b>−70 mV</b>.</p>
     <div class="cards">
       <div class="card"><span class="role">Ingrediente 1</span><h5>Gradientes</h5><p>Muito K⁺ dentro, muito Na⁺ e Cl⁻ fora. Quem os mantém é a bomba de Na⁺/K⁺ (e, para o Cl⁻ nos neurônios, o cotransportador KCC2).</p></div>
       <div class="card"><span class="role">Ingrediente 2</span><h5>Permeabilidade dominante ao K⁺</h5><p>Os canais de vazamento de K⁺ fazem do K⁺ o “dono” do potencial de repouso. Mexer no K⁺ extracelular mexe diretamente no V<sub>m</sub>.</p></div>
@@ -94,7 +94,7 @@
     <ol class="steps">
       <li><b>Repouso (−70 mV)</b><span>Canais de Na⁺ dependentes de voltagem <b>fechados mas prontos</b> (comporta de ativação <i>m</i> fechada, comporta de inativação <i>h</i> aberta). Canais de K⁺ dependentes de voltagem fechados. Só os canais de vazamento de K⁺ trabalham.</span></li>
       <li><b>Despolarização até o limiar</b><span>Um estímulo despolariza a membrana. Alguns canais de Na⁺ abrem; o Na⁺ entra e despolariza mais, o que abre mais canais. No limiar, a entrada de Na⁺ supera a saída de K⁺ e o processo se torna <b>autorregenerativo</b> (retroalimentação positiva, o “ciclo de Hodgkin”).</span></li>
-      <li><b>Fase ascendente e ultrapassagem</b><span>Em cerca de 0,5 ms a permeabilidade ao Na⁺ aumenta centenas de vezes. O V<sub>m</sub> corre em direção ao E<sub>Na</sub> e <b>inverte a polaridade</b> (ultrapassagem, <i>overshoot</i>), chegando a +30 a +40 mV. Não alcança +65 mV porque os canais de Na⁺ logo se inativam e os de K⁺ começam a abrir.</span></li>
+      <li><b>Fase ascendente e ultrapassagem</b><span>Em cerca de 0,5 ms a permeabilidade ao Na⁺ aumenta centenas de vezes. O V<sub>m</sub> corre em direção ao E<sub>Na</sub> e <b>inverte a polaridade</b> (ultrapassagem), chegando a +30 a +40 mV. Não alcança +65 mV porque os canais de Na⁺ logo se inativam e os de K⁺ começam a abrir.</span></li>
       <li><b>Repolarização</b><span>Duas coisas ao mesmo tempo: as comportas <i>h</i> fecham e <b>inativam</b> os canais de Na⁺; e os <b>canais de K⁺ dependentes de voltagem</b> (retificador retardado, comporta <i>n</i>), que abrem devagar, deixam o K⁺ sair em grande quantidade. O V<sub>m</sub> volta a ficar negativo.</span></li>
       <li><b>Hiperpolarização pós-potencial</b><span>Os canais de K⁺ demoram a fechar; durante alguns milissegundos a permeabilidade ao K⁺ fica maior que no repouso e o V<sub>m</sub> se aproxima do E<sub>K</sub> (−80 a −90 mV).</span></li>
       <li><b>Retorno ao repouso</b><span>Os canais de K⁺ fecham, as comportas <i>h</i> reabrem (canais de Na⁺ voltam ao estado “fechado mas pronto”). A bomba de Na⁺/K⁺ <b>não</b> é necessária para cada potencial de ação; ela trabalha em segundo plano repondo os poucos íons trocados.</span></li>

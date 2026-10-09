@@ -470,7 +470,7 @@
 "Bloqueio do receptor nicotínico",
 "Inibição da recaptação de serotonina"
 ],
-"e": "Ocupa o sítio do Mg²⁺ no poro do NMDA."
+"e": "Bloqueia o poro do NMDA, perto do sítio do Mg²⁺, quando o canal está aberto."
 },
 {
 "c": "sinapse",
