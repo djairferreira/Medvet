@@ -175,7 +175,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
         E('path',{d:`M${cx+sg*30} ${bTop+10} C ${cx+sg*90} ${bTop-10} ${cx+sg*150} ${bTop+10} ${cx+sg*190} ${bTop-20}`,fill:'none',stroke:'var(--sky)','stroke-width':5},svg);
       }
     });
-    if(d.h)T(svg,k==='porca'?120:110,k==='egua'?150:70,'cornos',{fs:18,fill:'var(--eosin)'});
+    if(d.h)T(svg,(k==='porca'||k==='vaca')?300:110,k==='egua'?150:((k==='porca'||k==='vaca')?110:70),'cornos',{fs:18,fill:'var(--eosin)'});
     else T(svg,500,bTop-34,'tubas',{fs:18,fill:'var(--sky)'});
     $('#ugutOut').innerHTML='<b>'+d.n+'</b><br>'+d.t;
   }
