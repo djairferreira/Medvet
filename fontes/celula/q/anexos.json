@@ -15,8 +15,8 @@
 "q": "Onde se forma a câmara de ar do ovo?",
 "o": [
 "No polo rombo, entre as membranas da casca",
-"No polo agudo, entre casca e albúmen",
-"Entre a gema e o albúmen denso",
+"No polo agudo, entre a casca e o albúmen",
+"Entre a gema e o albúmen denso central",
 "Dentro do saco do albúmen"
 ],
 "e": "Ao esfriar após a postura, as membranas interna e externa se separam no polo rombo."
@@ -26,8 +26,8 @@
 "q": "Qual a função das calazas?",
 "o": [
 "Manter a gema centrada e o disco voltado para cima",
-"Fornecer cálcio ao embrião",
-"Tampar os poros da casca",
+"Fornecer cálcio da casca ao embrião em formação",
+"Tampar os poros da casca contra bactérias",
 "Armazenar o ácido úrico"
 ],
 "e": "São cordões torcidos de albúmen denso (mucina) que ancoram a gema."
@@ -59,7 +59,7 @@
 "q": "O âmnio e o córion das aves se originam de:",
 "o": [
 "Somatopleura, pelas pregas amnióticas",
-"Esplancnopleura, por cavitação",
+"Esplancnopleura, por cavitação do epiblasto",
 "Endoderma do intestino posterior",
 "Mesoderma intermediário"
 ],
@@ -103,8 +103,8 @@
 "q": "Por que o embrião de ave elimina nitrogênio como ácido úrico?",
 "o": [
 "É pouco solúvel e atóxico, poupando água",
-"É mais solúvel que a ureia",
-"Atravessa a casca por difusão",
+"É mais solúvel que a ureia e sai pela casca",
+"Atravessa a casca por difusão simples",
 "É reaproveitado como proteína"
 ],
 "e": "Uricotelia: o ácido úrico precipita no alantoide sem gastar água num sistema fechado."
@@ -136,8 +136,8 @@
 "q": "O que acontece na bicagem interna (dia ~19)?",
 "o": [
 "O bico entra na câmara de ar e inicia a respiração pulmonar",
-"O pinto quebra a casca pela primeira vez",
-"O âmnio se fecha sobre o embrião",
+"O pinto quebra a casca pela primeira vez por fora",
+"O âmnio se fecha sobre o dorso do embrião",
 "A CAM começa a se formar"
 ],
 "e": "Ao penetrar a câmara de ar, o pinto passa a ventilar os pulmões; a bicagem externa vem depois."
@@ -147,8 +147,8 @@
 "q": "O que é o divertículo vitelino (de Meckel) das aves?",
 "o": [
 "Resto do saco vitelino ligado ao jejuno-íleo",
-"Resto do alantoide junto à cloaca",
-"Dilatação do úraco",
+"Resto do alantoide preso à cloaca da ave",
+"Dilatação do úraco junto à bexiga",
 "Prega do âmnio no umbigo"
 ],
 "e": "O saco vitelino residual é internalizado no dia 19 e deixa esse vestígio."
@@ -158,8 +158,8 @@
 "q": "Pintos com saco vitelino grande, esverdeado e fétido na 1ª semana sugerem:",
 "o": [
 "Onfalite com infecção do saco vitelino",
-"Deficiência de cálcio da casca",
-"Hidroalantoide",
+"Deficiência de cálcio na casca do ovo",
+"Hidroalantoide com excesso de ácido úrico",
 "Isoeritrólise neonatal"
 ],
 "e": "Bactérias (E. coli) entram pelo umbigo ou pela casca contaminada."
@@ -202,8 +202,8 @@
 "q": "A artéria umbilical do feto transporta:",
 "o": [
 "Sangue pouco oxigenado do feto à placenta",
-"Sangue oxigenado da placenta ao feto",
-"Urina fetal ao alantoide",
+"Sangue oxigenado da placenta até o feto",
+"Urina fetal da bexiga até o alantoide",
 "Linfa ao saco vitelino"
 ],
 "e": "O nome segue o sentido do fluxo, não a oxigenação."
@@ -235,8 +235,8 @@
 "q": "Potro de 3 dias com distensão abdominal, hiponatremia e hipercalemia sugere:",
 "o": [
 "Uroperitônio por ruptura da bexiga ou úraco",
-"Isoeritrólise neonatal",
-"Falha de transferência passiva",
+"Isoeritrólise neonatal por colostro",
+"Falha de transferência de imunidade passiva",
 "Hipoglicemia neonatal"
 ],
 "e": "Urina no peritônio gera esse padrão eletrolítico."
@@ -246,8 +246,8 @@
 "q": "Qual característica descreve o cordão umbilical equino?",
 "o": [
 "Longo, com ponto de ruptura pré-formado",
-"Curto, só com porção amniótica",
-"Cortado pela mãe com os dentes",
+"Curto, apenas com a porção amniótica",
+"Cortado pela mãe com os dentes no parto",
 "Sem úraco no fim da gestação"
 ],
 "e": "Tem 50–100 cm e rompe a poucos centímetros do abdome."
@@ -323,8 +323,8 @@
 "q": "A eCG é produzida por:",
 "o": [
 "Cálices endometriais formados por células da cinta coriônica",
-"Corpos lúteos acessórios da égua",
-"Microcotilédones do alantocórion",
+"Corpos lúteos acessórios formados na égua",
+"Microcotilédones do alantocórion equino",
 "Células binucleadas dos placentomas"
 ],
 "e": "Células trofoblásticas invadem o endométrio por volta do dia 36 e formam os cálices."
@@ -334,8 +334,8 @@
 "q": "Égua que perde o embrião no dia 50 pode:",
 "o": [
 "Ter eCG positiva e não voltar ao cio por semanas",
-"Retornar ao cio em 3 dias",
-"Desenvolver freemartinismo",
+"Retornar ao cio normalmente em poucos dias",
+"Formar novos cálices a cada nova ovulação",
 "Formar novos cálices na próxima ovulação"
 ],
 "e": "Os cálices persistem e secretam eCG independentemente do embrião."
@@ -345,7 +345,7 @@
 "q": "A estrela cervical da placenta equina é:",
 "o": [
 "Área avilosa diante do óstio interno da cérvix",
-"Cicatriz dos cálices endometriais",
+"Cicatriz deixada pelos cálices endometriais",
 "Conjunto de microcotilédones fundidos",
 "Ponto de inserção do cordão"
 ],
@@ -356,8 +356,8 @@
 "q": "No parto, aparece na vulva da égua uma membrana vermelha e aveludada. A conduta é:",
 "o": [
 "Romper imediatamente e retirar o potro",
-"Aguardar 3 horas",
-"Aplicar ocitocina e esperar",
+"Aguardar 3 horas antes de qualquer manobra",
+"Aplicar ocitocina e esperar a expulsão",
 "Tracionar o cordão umbilical"
 ],
 "e": "Placenta vermelha: separação prematura do alantocórion, potro sem oxigenação."
@@ -367,7 +367,7 @@
 "q": "Por que o potro nasce envolto no âmnio, e o leitão não?",
 "o": [
 "Na égua o alantoide envolve todo o âmnio; na porca, não",
-"Na porca o âmnio é absorvido antes do parto",
+"Na porca o âmnio é absorvido semanas antes do parto",
 "Na égua o âmnio é fundido ao endométrio",
 "Na porca não existe âmnio"
 ],
@@ -378,8 +378,8 @@
 "q": "Na vaca, o placentoma é formado por:",
 "o": [
 "Cotilédone fetal encaixado na carúncula materna",
-"Carúncula fetal e cotilédone materno",
-"Microcotilédone e aréola",
+"Carúncula fetal encaixada no cotilédone materno",
+"Microcotilédone fetal encaixado numa aréola",
 "Cinta coriônica e endométrio"
 ],
 "e": "Carúnculas são do endométrio; cotilédones, do alantocórion."
@@ -400,8 +400,8 @@
 "q": "As células binucleadas do trofoblasto dos ruminantes:",
 "o": [
 "Fundem-se ao epitélio uterino e liberam lactogênio e PAG",
-"Formam os cálices endometriais e a eCG",
-"Revestem os hematomas marginais",
+"Formam os cálices endometriais e secretam eCG",
+"Revestem e reabsorvem os hematomas marginais",
 "Produzem uteroferrina nas aréolas"
 ],
 "e": "Daí o termo placenta sinepiteliocorial."
@@ -411,8 +411,8 @@
 "q": "Por que o freemartinismo é comum em bovinos e raro em ovinos?",
 "o": [
 "Anastomoses vasculares entre gêmeos são comuns na vaca",
-"Ovelhas não têm gêmeos de sexos diferentes",
-"O AMH não age em fêmeas ovinas",
+"Ovelhas raramente geram gêmeos de sexos diferentes",
+"O AMH não tem receptores em fêmeas ovinas",
 "A placenta ovina é endoteliocorial"
 ],
 "e": "Na ovelha as aderências são superficiais, sem anastomose."
@@ -466,8 +466,8 @@
 "q": "A cor verde dos hematomas marginais da placenta da cadela se deve a:",
 "o": [
 "Uteroverdina, derivada da hemoglobina",
-"Bilirrubina conjugada do feto",
-"Clorofila da dieta",
+"Bilirrubina conjugada vinda do fígado fetal",
+"Infecção bacteriana por Pseudomonas",
 "Infecção por Pseudomonas"
 ],
 "e": "Na gata os hematomas são menores e pardos."
@@ -477,8 +477,8 @@
 "q": "Cadela com secreção verde-escura há 3 horas e nenhum filhote nascido indica:",
 "o": [
 "Distocia com descolamento placentário",
-"Parto normal na 1ª fase",
-"Lóquio fisiológico",
+"Parto normal ainda na primeira fase",
+"Subinvolução dos sítios placentários",
 "Subinvolução dos sítios placentários"
 ],
 "e": "Antes do 1º filhote, secreção verde sem nascimento em 2–4 h requer intervenção."
@@ -499,8 +499,8 @@
 "q": "Gata tipo B com filhotes tipo A: o risco é de:",
 "o": [
 "Isoeritrólise neonatal após mamar o colostro",
-"Freemartinismo",
-"Hidroâmnio",
+"Freemartinismo do filhote fêmea",
+"Placentite ascendente pela cérvix",
 "Placentite ascendente"
 ],
 "e": "Anticorpos anti-A naturais chegam pelo colostro, não pela placenta."
@@ -510,8 +510,8 @@
 "q": "Na isoeritrólise do potro, por que ele nasce saudável?",
 "o": [
 "A placenta epiteliocorial não deixa passar os anticorpos",
-"O fígado fetal neutraliza os anticorpos",
-"Os antígenos só aparecem após o desmame",
+"O fígado fetal neutraliza os anticorpos maternos",
+"A égua só forma anticorpos depois do parto",
 "A égua só forma anticorpos depois do parto"
 ],
 "e": "Os anticorpos chegam pelo colostro após a primeira mamada."
@@ -521,8 +521,8 @@
 "q": "Valor de IgG sérica que indica transferência adequada de imunidade passiva no potro:",
 "o": [
 "800 mg/dL ou mais",
-"200 mg/dL",
-"Apenas 50 mg/dL",
+"200 mg/dL ou mais",
+"400 mg/dL ou menos",
 "Acima de 5 g/dL"
 ],
 "e": "Abaixo de 400 mg/dL é falha de transferência."
@@ -554,8 +554,8 @@
 "q": "Qual destes NÃO é fator de risco para retenção de placenta na vaca?",
 "o": [
 "Placentoma bem amadurecido antes do parto",
-"Parto gemelar",
-"Hipocalcemia",
+"Parto gemelar ou distócico",
+"Deficiência de selênio e vitamina E",
 "Deficiência de selênio e vitamina E"
 ],
 "e": "A retenção decorre justamente da falha de maturação do placentoma."
@@ -565,8 +565,8 @@
 "q": "Na égua, a placentite ascendente acomete principalmente:",
 "o": [
 "A região da estrela cervical",
-"A base dos cornos",
-"Os cálices endometriais",
+"A base dos dois cornos uterinos",
+"Os cálices endometriais residuais",
 "O cordão umbilical"
 ],
 "e": "A forma nocardioforme é que acomete a base dos cornos."
@@ -576,8 +576,8 @@
 "q": "Qual a melhor época para reduzir manualmente uma gestação gemelar na égua?",
 "o": [
 "Dias 14 a 16, com vesículas ainda móveis",
-"Após o dia 120",
-"No 6º mês",
+"Após o dia 120, com cálices regredidos",
+"No dia 40, após formação dos cálices",
 "No dia 40, após os cálices"
 ],
 "e": "Quanto mais cedo, maior o sucesso da redução."
