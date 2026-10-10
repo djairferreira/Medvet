@@ -56,9 +56,10 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
       const fill=ghost?'none':(st==='f'?'var(--eosin-soft)':'var(--amber-soft)'),stroke=ghost?'var(--muted)':(st==='f'?'var(--eosin)':'var(--amber)');
       const dash=ghost?'6 6':null,op=ghost?0.6:1;
       const mcL=i===0?70:(st==='f'?120:(st==='m'?95:80));
-      if(!(d.fu&&(i===2||i===3)))E('rect',{x:x-16,y:80,width:32,height:mcL,rx:10,fill,stroke,'stroke-width':2,'stroke-dasharray':dash,opacity:op},s);
+      const dew=d.fu&&st==='r';
+      if(!(d.fu&&(i===2||i===3))&&!dew)E('rect',{x:x-16,y:80,width:32,height:mcL,rx:10,fill,stroke,'stroke-width':2,'stroke-dasharray':dash,opacity:op},s);
       if(st==='m'){T(s,x,320,'tala',{fs:18,fill:'var(--amber)'});}
-      else{const n=i===0?2:3,len=st==='f'?[44,34,30]:[22,18,16];let y=84+mcL;
+      else{const n=i===0?2:3,len=st==='f'?[44,34,30]:[22,18,16];let y=dew?210:84+mcL;
         for(let j=0;j<n;j++){if(st==='r'&&j===2&&k!=='cao'&&k!=='porco')break;
           E('rect',{x:x-14,y,width:28,height:len[j],rx:8,fill,stroke,'stroke-width':2,'stroke-dasharray':dash,opacity:op},s);y+=len[j]+4;}}
       T(s,x,352,RN[i],{fs:22,w:700,fill:ghost?'var(--muted)':'var(--ink)'});});

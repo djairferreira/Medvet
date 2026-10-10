@@ -37,7 +37,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
       T(s,300,40,'teto',{fs:18,fill:'var(--muted)'});T(s,210,330,'assoalho',{fs:18,fill:'var(--muted)'});
       E('circle',{cx:300,cy:340,r:14,fill:'var(--amber-soft)',stroke:'var(--amber)','stroke-width':3},s);T(s,330,346,'notocorda',{fs:18,a:'start',fill:'var(--amber)'})}
     else{T(s,20,100,'Corno dorsal',{fs:19,a:'start',fill:'var(--sky)',w:700});T(s,20,200,'Corno lateral',{fs:19,a:'start',fill:'var(--amber)',w:700});
-      T(s,20,270,'Corno ventral',{fs:19,a:'start',fill:'var(--eosin)',w:700});T(s,300,330,'substância branca por fora',{fs:18,fill:'var(--muted)'})}
+      T(s,20,270,'Corno ventral',{fs:19,a:'start',fill:'var(--eosin)',w:700});T(s,20,346,'substância branca por fora',{fs:18,a:'start',fill:'var(--muted)'})}
     if(sel==='sinais'){
       T(s,300,48+(emb?0:0)-8,'',{});
       E('path',{d:'M300 20 L300 62',stroke:'var(--sky)','stroke-width':6},s);T(s,420,46,'BMP ↓',{fs:20,fill:'var(--sky)',w:800});
@@ -72,7 +72,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
       ell('met',380,140,48,58,'Metencéfalo',282);ell('miel',470,140,42,48,'Mielencéfalo',255);medula(510,140,'Medula',282)}
     else{ell('tel',190,120,160,92,'Hemisfério',110);
       const d=ell('dien',250,190,52,30,'',0);T(s,215,290,'Diencéfalo',{fs:18,fill:'var(--eosin)',w:700});
-      ell('mes',330,192,36,26,'',0);T(s,330,258,'Mesencéfalo',{fs:18,fill:'var(--ok)',w:700});
+      ell('mes',330,192,36,26,'',0);T(s,296,262,'Mesencéfalo',{fs:18,fill:'var(--ok)',w:700});
       ell('met',420,128,62,52,'Cerebelo',134);ell('met',400,230,38,24,'',0);T(s,420,290,'Ponte',{fs:18,fill:'var(--sky)',w:700});
       ell('miel',465,226,34,20,'',0);T(s,515,262,'Bulbo',{fs:18,fill:'var(--amber)',w:700});medula(498,228,'Medula',202);
       if(cav){E('path',{d:'M372 196 L392 176 L412 200 Z',fill:'var(--sky)'},s)}}
@@ -113,7 +113,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
       if(i===3||i===4)E('path',{d:'M60 172 L240 172 Q300 178 336 170',fill:'none',stroke:'var(--bad)','stroke-width':3},s);
       if(i===3)T(s,150,205,'a. hialoide',{fs:18,fill:'var(--bad)'});
       if(i===2)T(s,488,170,'fosseta',{fs:18,fill:'var(--sky)'});
-      if(i>=3)T(s,446,226,'cristalino',{fs:18,a:'start',fill:'var(--sky)'});
+      if(i>=3)T(s,392,264,'cristalino',{fs:18,fill:'var(--sky)'});
       if(i>=4){E('path',{d:'M440 30 Q500 100 450 165',fill:'none',stroke:'var(--eosin)','stroke-width':10},s);E('path',{d:'M440 300 Q500 230 450 165',fill:'none',stroke:'var(--eosin)','stroke-width':10},s);
         T(s,535,120,'pálpebras',{fs:18,fill:'var(--eosin)'});T(s,535,145,'fundidas',{fs:18,fill:'var(--eosin)'});
         T(s,200,40,'epitélio pigmentar',{fs:18,fill:'var(--ink)'});T(s,215,300,'retina neural',{fs:18,fill:'var(--hema)'})}
