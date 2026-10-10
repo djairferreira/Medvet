@@ -85,14 +85,14 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
   function drawTra(k){
     const f=F[k],g=[0,.45,1,1,1][k],yT=lerp(119,52,g),cx=300;
     const mir=P=>P.map(p=>[600-p[0],p[1]]);
-    const oR=turtle(396,124,0,[[18,0],[173,f/55],[100*f,0]]);
-    const s0=[lerp(396,312,f),lerp(146,165,f)],al=lerp(193,88,f);
-    const iR=turtle(s0[0],s0[1],0,[[al,f>0?Math.PI*f/al:0],[Math.max(.01,12*f),0]]);
+    const oR=turtle(396,124,0,[[18,0],[173,f*Math.PI/173],[100*f,0]]);
+    const s0=[lerp(396,310,f),lerp(146,162,f)],al=lerp(193,72,f);
+    const iR=turtle(s0[0],s0[1],0,[[al,f>0?Math.PI*f/al:0],[Math.max(.01,10*f),0]]);
     const ectoR=off(oR,5),smR=off(oR,-4),spR=off(iR,5),enR=off(iR,-5);
     const ectoL=mir(ectoR),smL=mir(smR),spL=mir(spR),enL=mir(enR);
     /* âmnio */
     if(k<4){const a=ectoL[ectoL.length-1],b=ectoR[ectoR.length-1];const xs=ectoR.map(p=>p[0]);const mxx=Math.min(592,Math.max(...xs)+28);
-      E('path',{d:cr([a,[600-mxx,58],[cx,lerp(16,14,f)],[mxx,58],b]),fill:'none',stroke:'var(--sky)','stroke-width':3,opacity:.8},svg)}
+      E('path',{d:cr([a,[600-mxx,a[1]-12],[600-mxx+12,60],[cx,14],[mxx-12,60],[mxx,b[1]-12],b]),fill:'none',stroke:'var(--sky)','stroke-width':3,opacity:.8},svg)}
     else E('ellipse',{cx,cy:150,rx:190,ry:132,fill:'none',stroke:'var(--sky)','stroke-width':3,opacity:.8},svg);
     /* saco vitelino */
     if(k<4){const a=enR[enR.length-1],b=enL[enL.length-1];const yb=lerp(326,330,f);
@@ -114,14 +114,14 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
     if(k>=2)[cx-16,cx+16].forEach(x=>E('circle',{cx:x,cy:146,r:6,fill:'var(--bad-soft)',stroke:'var(--bad)','stroke-width':2},svg));
     if(k>=3)path(`M300 150 L300 ${s0[1]}`,'var(--eosin)',5);
     /* rótulos */
-    if(k===0){lab(cx,104,'Placa neural',{fill:'var(--hema)'});lab(500,108,'Somatopleura',{fill:'var(--ink)'});lab(500,186,'Esplancnopleura',{fill:'var(--ink)'});lab(140,148,'celoma',{fill:'var(--muted)',w:500});lab(cx,262,'Saco vitelino',{fill:'var(--ink)'})}
+    if(k===0){lab(cx,104,'Placa neural',{fill:'var(--hema)'});lab(500,108,'Somatopleura',{fill:'var(--ink)'});lab(500,186,'Esplancnopleura',{fill:'var(--ink)'});lab(100,180,'↑ celoma',{fill:'var(--muted)',a:'start'});lab(cx,262,'Saco vitelino',{fill:'var(--ink)'})}
     else if(k===1){lab(cx,40,'Sulco neural',{fill:'var(--hema)'});lab(cx,262,'Saco vitelino',{fill:'var(--ink)'});lab(510,96,'Somito',{fill:'var(--eosin)'})}
     else{
       if(k<4)lab(cx,lerp(300,316,f),'Saco vitelino',{fill:'var(--ink)'});
       lab(cx,yT-12,'Tubo neural',{fill:'var(--hema)'});
-      const gx=cx,gy=k>=3?s0[1]+30:212;lab(gx,gy+(k>=3?6:30),k>=3?'Intestino':'Intestino médio',{fill:'var(--amber)'});
-      lab(k>=3?470:520,k>=3?150:120,'Celoma',{fill:'var(--muted)'});
-      if(k===4){lab(cx,300,'Parede ventral fechada',{fill:'var(--ink)'});lab(cx,40,'',{})}
+      if(k>=3)lab(368,s0[1]+52,'Intestino',{fill:'var(--amber)',a:'start'});else lab(cx,242,'Intestino médio',{fill:'var(--amber)'});
+      lab(k>=3?205:450,k>=3?212:215,'Celoma',{fill:'var(--muted)'});
+      if(k===4)lab(cx,316,'Parede ventral fechada',{fill:'var(--ink)'});
     }
     legend();
   }
