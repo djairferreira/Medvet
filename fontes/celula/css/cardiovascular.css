@@ -1,0 +1,4 @@
+.cardiovascular-leg{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:.85rem;color:var(--muted);margin:4px 0 8px}
+.cardiovascular-leg span{display:inline-flex;align-items:center;gap:6px}
+.cardiovascular-leg i{display:inline-block;width:22px;height:6px;border-radius:3px}
+.cardiovascular-leg i.off{background:none;border-top:3px dashed var(--muted);height:0}
