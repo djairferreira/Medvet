@@ -83,7 +83,7 @@
 "Intestino posterior",
 "Intestino anterior",
 "Saco vitelino",
-"Intestino anterior (faringe)"
+"Mesoderma intermediário"
 ],
 "e": "É uma evaginação endodérmica do intestino posterior, revestida de mesoderma esplâncnico."
 },
@@ -259,7 +259,7 @@
 "Urina fetal que chega pelo úraco",
 "Secreção das glândulas uterinas",
 "Líquido deglutido pelo feto",
-"Secreção das glândulas uterinas maternas"
+"Transudato do plasma materno"
 ],
 "e": "O amniótico é que é deglutido; o alantoidiano é urina diluída."
 },
@@ -270,7 +270,7 @@
 "Lubrificar o canal do parto",
 "Fornecer glicose ao feto",
 "Formar os hipomanes",
-"Fornecer glicose e proteína ao feto"
+"Formar os placentomas acessórios"
 ],
 "e": "Ele fica mucoso e facilita a passagem do bezerro."
 },
@@ -281,7 +281,7 @@
 "Concreções no líquido alantoidiano",
 "Placas de glicogênio no âmnio",
 "Restos de cálices endometriais",
-"Restos dos cálices endometriais equinos"
+"Cristais de ácido úrico fetal"
 ],
 "e": "Depósitos concêntricos de mucoproteínas, cálcio e fosfato, sem significado patológico."
 },
@@ -314,7 +314,7 @@
 "Para evitar choque hipovolêmico",
 "Para evitar ruptura do âmnio",
 "Para preservar o hipomanes",
-"Para evitar a ruptura do âmnio"
+"Para recuperar o líquido para análise"
 ],
 "e": "A retirada rápida de grandes volumes provoca redistribuição e choque."
 },
@@ -336,7 +336,7 @@
 "Ter eCG positiva e não voltar ao cio por semanas",
 "Retornar ao cio normalmente em poucos dias",
 "Formar novos cálices a cada nova ovulação",
-"Formar novos cálices na próxima ovulação"
+"Apresentar eCG negativa já no dia 60"
 ],
 "e": "Os cálices persistem e secretam eCG independentemente do embrião."
 },
@@ -468,7 +468,7 @@
 "Uteroverdina, derivada da hemoglobina",
 "Bilirrubina conjugada vinda do fígado fetal",
 "Infecção bacteriana por Pseudomonas",
-"Infecção por Pseudomonas"
+"Mecônio eliminado pelo filhote"
 ],
 "e": "Na gata os hematomas são menores e pardos."
 },
@@ -501,7 +501,7 @@
 "Isoeritrólise neonatal após mamar o colostro",
 "Freemartinismo do filhote fêmea",
 "Placentite ascendente pela cérvix",
-"Placentite ascendente"
+"Hidroâmnio por anticorpos maternos"
 ],
 "e": "Anticorpos anti-A naturais chegam pelo colostro, não pela placenta."
 },
@@ -578,7 +578,7 @@
 "Dias 14 a 16, com vesículas ainda móveis",
 "Após o dia 120, com cálices regredidos",
 "No dia 40, após formação dos cálices",
-"No dia 40, após os cálices"
+"No terço final, por punção do saco"
 ],
 "e": "Quanto mais cedo, maior o sucesso da redução."
 }

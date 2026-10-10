@@ -162,16 +162,16 @@
 "Prever o tamanho da ninhada",
 "Medir a função placentária"
 ],
-"e": "Os somitos surgem em ritmo constante; o neuróporo cranial fecha com cerca de 18–20 pares."
+"e": "Os somitos surgem em ritmo constante; no embrião humano, por exemplo, o neuróporo cranial fecha com cerca de 18–20 pares."
 },
 {
 "c": "dobramento",
 "q": "O 'relógio de segmentação' do mesoderma pré-somítico envolve oscilação de genes da via:",
 "o": [
 "Notch (família Hes)",
-"Hemoglobina",
-"Queratina",
-"Colágeno tipo I"
+"Sonic hedgehog",
+"BMP (família TGF-β)",
+"JAK-STAT das citocinas"
 ],
 "e": "Notch e Wnt oscilam; a frente de onda é definida por FGF8 contra ácido retinoico."
 },
@@ -386,14 +386,14 @@
 },
 {
 "c": "dobramento",
-"q": "O pericárdio, a pleura e o peritônio visceral são revestidos por mesotélio derivado de:",
+"q": "O mesotélio visceral (epicárdio, pleura visceral e peritônio visceral) deriva de:",
 "o": [
 "Mesoderma esplâncnico",
 "Endoderma",
 "Ectoderma",
 "Crista neural"
 ],
-"e": "O mesotélio parietal vem do mesoderma somático."
+"e": "O mesotélio parietal (pericárdio parietal, pleura e peritônio parietais) vem do mesoderma somático."
 },
 {
 "c": "dobramento",
