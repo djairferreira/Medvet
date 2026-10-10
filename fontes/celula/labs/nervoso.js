@@ -113,7 +113,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
       if(i===3||i===4)E('path',{d:'M60 172 L240 172 Q300 178 336 170',fill:'none',stroke:'var(--bad)','stroke-width':3},s);
       if(i===3)T(s,150,205,'a. hialoide',{fs:18,fill:'var(--bad)'});
       if(i===2)T(s,488,170,'fosseta',{fs:18,fill:'var(--sky)'});
-      if(i>=3)T(s,392,264,'cristalino',{fs:18,fill:'var(--sky)'});
+      if(i>=3)T(s,362,266,'cristalino',{fs:18,fill:'var(--sky)'});
       if(i>=4){E('path',{d:'M440 30 Q500 100 450 165',fill:'none',stroke:'var(--eosin)','stroke-width':10},s);E('path',{d:'M440 300 Q500 230 450 165',fill:'none',stroke:'var(--eosin)','stroke-width':10},s);
         T(s,535,120,'pálpebras',{fs:18,fill:'var(--eosin)'});T(s,535,145,'fundidas',{fs:18,fill:'var(--eosin)'});
         T(s,200,40,'epitélio pigmentar',{fs:18,fill:'var(--ink)'});T(s,215,300,'retina neural',{fs:18,fill:'var(--hema)'})}

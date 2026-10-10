@@ -56,7 +56,7 @@ const cvD=pts=>'M'+pts.map(p=>p.join(' ')).join(' L');
     else{E('line',{x1:185,y1:200,x2:185,y2:254,stroke:'var(--ink)','stroke-width':3},g)}
     // rótulos curtos
     const L=(x,y,t,a)=>T(g,x,y,t,{fs:18,a:a||'start',w:700,fill:'var(--muted)'});
-    L(48,430,'VU');L(48,392,'DV');L(48,300,'VCCd');L(118,90,'VCCr');L(337,250,'TP');L(378,250,'Ao');
+    L(48,430,'VU');L(48,392,'DV');L(46,188,'VCCd');L(118,90,'VCCr');L(337,250,'TP');L(378,250,'Ao');
     L(470,124,'DA','middle');L(285,462,'AU','middle');L(185,190,'FO','middle');L(232,180,'VP');
     out.innerHTML=m.t+'<br><span style="color:var(--muted);font-size:.88em">VU veia umbilical · DV ducto venoso · VCCd/VCCr veias cavas caudal/cranial · TP tronco pulmonar · Ao aorta · DA ducto arterioso · FO forame oval · VP veias pulmonares · AU artérias umbilicais</span>'};
   choices('#cfetBtns',k=>{mode=k;draw()});
@@ -117,10 +117,10 @@ const cvD=pts=>'M'+pts.map(p=>p.join(' ')).join(' L');
     else{heart(s,i);
       if(i===4){lab(s,20,110,'septo primo','start');lead(s,120,104,298,100);lab(s,20,150,'óstio primo','start');lead(s,118,144,298,138);
         lab(s,580,200,'coxins','end');lead(s,486,195,336,172);lab(s,20,250,'septo IV','start');lead(s,100,256,294,270);lab(s,580,250,'forame IV','end');lead(s,486,246,304,222)}
-      if(i===5){lab(s,20,100,'septo secundo','start');lead(s,140,96,278,96);lab(s,580,98,'óstio secundo','end');lead(s,466,94,304,96);lab(s,20,150,'forame oval','start');lead(s,128,144,284,140);
+      if(i===5){lab(s,20,100,'septo secundo','start');lead(s,152,96,278,96);lab(s,580,98,'óstio secundo','end');lead(s,466,94,304,96);lab(s,20,150,'forame oval','start');lead(s,124,144,284,140);
         lab(s,40,30,'tronco pulmonar','start','var(--sky)');lab(s,560,30,'aorta','end','var(--eosin)')}
       if(i===6){lab(s,20,150,'tricúspide','start');lead(s,110,156,180,180);lab(s,580,150,'mitral','end');lead(s,500,156,420,180);
-        lab(s,580,240,'parte membranosa','end');lead(s,430,232,306,198);lab(s,20,100,'forame oval','start')}}
+        lab(s,580,330,'parte membranosa','end');lead(s,470,312,306,198);lab(s,20,100,'forame oval','start')}}
   });
 })();
 

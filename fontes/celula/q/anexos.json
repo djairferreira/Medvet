@@ -1,0 +1,585 @@
+[
+{
+"c": "anexos",
+"q": "Em que segmento do oviduto da galinha são formadas as membranas da casca?",
+"o": [
+"Istmo",
+"Magno",
+"Infundíbulo",
+"Glândula da casca"
+],
+"e": "O istmo produz as membranas da casca em cerca de 1 h; o magno faz o albúmen e a glândula da casca, a casca."
+},
+{
+"c": "anexos",
+"q": "Onde se forma a câmara de ar do ovo?",
+"o": [
+"No polo rombo, entre as membranas da casca",
+"No polo agudo, entre casca e albúmen",
+"Entre a gema e o albúmen denso",
+"Dentro do saco do albúmen"
+],
+"e": "Ao esfriar após a postura, as membranas interna e externa se separam no polo rombo."
+},
+{
+"c": "anexos",
+"q": "Qual a função das calazas?",
+"o": [
+"Manter a gema centrada e o disco voltado para cima",
+"Fornecer cálcio ao embrião",
+"Tampar os poros da casca",
+"Armazenar o ácido úrico"
+],
+"e": "São cordões torcidos de albúmen denso (mucina) que ancoram a gema."
+},
+{
+"c": "anexos",
+"q": "Qual componente da casca dificulta a entrada de bactérias pelos poros e é removido por lavagem inadequada?",
+"o": [
+"Cutícula",
+"Membrana vitelina",
+"Látebra",
+"Calaza"
+],
+"e": "A cutícula proteica recobre os poros; lavar ou esfregar ovos férteis a remove."
+},
+{
+"c": "anexos",
+"q": "Qual anexo é o primeiro a se formar no ovo da ave?",
+"o": [
+"Saco vitelino",
+"Alantoide",
+"Âmnio",
+"Corioalantoide"
+],
+"e": "A esplancnopleura cresce sobre a gema logo após a gastrulação."
+},
+{
+"c": "anexos",
+"q": "O âmnio e o córion das aves se originam de:",
+"o": [
+"Somatopleura, pelas pregas amnióticas",
+"Esplancnopleura, por cavitação",
+"Endoderma do intestino posterior",
+"Mesoderma intermediário"
+],
+"e": "As pregas de ectoderma + mesoderma somático se fundem: lâmina interna = âmnio, externa = córion (serosa)."
+},
+{
+"c": "anexos",
+"q": "Como é chamado o córion nas aves?",
+"o": [
+"Serosa",
+"Decídua",
+"Onfalopleura",
+"Látebra"
+],
+"e": "Nas aves o córion recebe o nome de serosa."
+},
+{
+"c": "anexos",
+"q": "O alantoide surge como divertículo de qual estrutura?",
+"o": [
+"Intestino posterior",
+"Intestino anterior",
+"Saco vitelino",
+"Tubo neural"
+],
+"e": "É uma evaginação endodérmica do intestino posterior, revestida de mesoderma esplâncnico."
+},
+{
+"c": "anexos",
+"q": "Qual destas NÃO é função da membrana corioalantoide da ave?",
+"o": [
+"Absorver o vitelo da gema",
+"Fazer a troca gasosa pelos poros",
+"Retirar cálcio da casca",
+"Delimitar o depósito de excretas"
+],
+"e": "A absorção do vitelo é feita pela parede do saco vitelino."
+},
+{
+"c": "anexos",
+"q": "Por que o embrião de ave elimina nitrogênio como ácido úrico?",
+"o": [
+"É pouco solúvel e atóxico, poupando água",
+"É mais solúvel que a ureia",
+"Atravessa a casca por difusão",
+"É reaproveitado como proteína"
+],
+"e": "Uricotelia: o ácido úrico precipita no alantoide sem gastar água num sistema fechado."
+},
+{
+"c": "anexos",
+"q": "Cerca de quanto do cálcio do pintinho vem da casca?",
+"o": [
+"Cerca de 80%",
+"Cerca de 10%",
+"Cerca de 40%",
+"Praticamente nada"
+],
+"e": "A CAM dissolve a casca a partir da 2ª semana; a casca fica mais fina."
+},
+{
+"c": "anexos",
+"q": "Em que fase o embrião de galinha deglute o albúmen?",
+"o": [
+"Dias 13 a 16",
+"Dias 2 a 4",
+"Dias 6 a 8",
+"Dias 19 a 21"
+],
+"e": "Por volta do dia 12 o saco do albúmen se comunica com o âmnio; o albúmen é deglutido nos dias seguintes."
+},
+{
+"c": "anexos",
+"q": "O que acontece na bicagem interna (dia ~19)?",
+"o": [
+"O bico entra na câmara de ar e inicia a respiração pulmonar",
+"O pinto quebra a casca pela primeira vez",
+"O âmnio se fecha sobre o embrião",
+"A CAM começa a se formar"
+],
+"e": "Ao penetrar a câmara de ar, o pinto passa a ventilar os pulmões; a bicagem externa vem depois."
+},
+{
+"c": "anexos",
+"q": "O que é o divertículo vitelino (de Meckel) das aves?",
+"o": [
+"Resto do saco vitelino ligado ao jejuno-íleo",
+"Resto do alantoide junto à cloaca",
+"Dilatação do úraco",
+"Prega do âmnio no umbigo"
+],
+"e": "O saco vitelino residual é internalizado no dia 19 e deixa esse vestígio."
+},
+{
+"c": "anexos",
+"q": "Pintos com saco vitelino grande, esverdeado e fétido na 1ª semana sugerem:",
+"o": [
+"Onfalite com infecção do saco vitelino",
+"Deficiência de cálcio da casca",
+"Hidroalantoide",
+"Isoeritrólise neonatal"
+],
+"e": "Bactérias (E. coli) entram pelo umbigo ou pela casca contaminada."
+},
+{
+"c": "anexos",
+"q": "O córion dos mamíferos é formado por:",
+"o": [
+"Trofoblasto e mesoderma somático",
+"Hipoblasto e mesoderma esplâncnico",
+"Epiblasto e notocorda",
+"Endoderma e mesoderma somático"
+],
+"e": "Córion = trofoblasto + mesoderma parietal (somático)."
+},
+{
+"c": "anexos",
+"q": "Qual membrana fornece os vasos que vascularizam o córion na placenta definitiva dos domésticos?",
+"o": [
+"Alantoide",
+"Âmnio",
+"Saco vitelino",
+"Decídua"
+],
+"e": "O mesoderma do alantoide traz os vasos: a placenta é corioalantoidiana."
+},
+{
+"c": "anexos",
+"q": "Em quais espécies a placenta coriovitelínica tem importância no início da gestação?",
+"o": [
+"Equinos e carnívoros",
+"Bovinos e ovinos",
+"Suínos e bovinos",
+"Caprinos e suínos"
+],
+"e": "Em ruminantes e suínos o saco vitelino regride cedo."
+},
+{
+"c": "anexos",
+"q": "A artéria umbilical do feto transporta:",
+"o": [
+"Sangue pouco oxigenado do feto à placenta",
+"Sangue oxigenado da placenta ao feto",
+"Urina fetal ao alantoide",
+"Linfa ao saco vitelino"
+],
+"e": "O nome segue o sentido do fluxo, não a oxigenação."
+},
+{
+"c": "anexos",
+"q": "No adulto, a veia umbilical se torna:",
+"o": [
+"Ligamento redondo do fígado",
+"Ligamento mediano da bexiga",
+"Ligamento redondo da bexiga",
+"Ligamento arterioso"
+],
+"e": "As artérias umbilicais formam os ligamentos redondos da bexiga."
+},
+{
+"c": "anexos",
+"q": "Potro com urina gotejando pelo umbigo nos primeiros dias provavelmente tem:",
+"o": [
+"Úraco persistente",
+"Hérnia diafragmática",
+"Onfalocele",
+"Ducto vitelino patente"
+],
+"e": "O úraco liga a bexiga fetal ao alantoide e deveria fechar ao nascer."
+},
+{
+"c": "anexos",
+"q": "Potro de 3 dias com distensão abdominal, hiponatremia e hipercalemia sugere:",
+"o": [
+"Uroperitônio por ruptura da bexiga ou úraco",
+"Isoeritrólise neonatal",
+"Falha de transferência passiva",
+"Hipoglicemia neonatal"
+],
+"e": "Urina no peritônio gera esse padrão eletrolítico."
+},
+{
+"c": "anexos",
+"q": "Qual característica descreve o cordão umbilical equino?",
+"o": [
+"Longo, com ponto de ruptura pré-formado",
+"Curto, só com porção amniótica",
+"Cortado pela mãe com os dentes",
+"Sem úraco no fim da gestação"
+],
+"e": "Tem 50–100 cm e rompe a poucos centímetros do abdome."
+},
+{
+"c": "anexos",
+"q": "O líquido alantoidiano é principalmente:",
+"o": [
+"Urina fetal que chega pelo úraco",
+"Secreção das glândulas uterinas",
+"Líquido deglutido pelo feto",
+"Transudato do saco vitelino"
+],
+"e": "O amniótico é que é deglutido; o alantoidiano é urina diluída."
+},
+{
+"c": "anexos",
+"q": "O líquido amniótico viscoso no fim da gestação da vaca serve sobretudo para:",
+"o": [
+"Lubrificar o canal do parto",
+"Fornecer glicose ao feto",
+"Formar os hipomanes",
+"Estimular a ovulação"
+],
+"e": "Ele fica mucoso e facilita a passagem do bezerro."
+},
+{
+"c": "anexos",
+"q": "O que são hipomanes?",
+"o": [
+"Concreções no líquido alantoidiano",
+"Placas de glicogênio no âmnio",
+"Restos de cálices endometriais",
+"Cotilédones atrofiados"
+],
+"e": "Depósitos concêntricos de mucoproteínas, cálcio e fosfato, sem significado patológico."
+},
+{
+"c": "anexos",
+"q": "Vaca no terço final com abdome distendido em 10 dias, útero tenso e líquido aquoso: hipótese mais provável?",
+"o": [
+"Hidroalantoide",
+"Hidroâmnio",
+"Anasarca fetal",
+"Mumificação fetal"
+],
+"e": "Hidroalantoide: rápido, de origem placentária, responde por ~90% das hidropisias."
+},
+{
+"c": "anexos",
+"q": "O hidroâmnio bovino está associado principalmente a:",
+"o": [
+"Feto que não deglute o líquido",
+"Endométrio com poucas carúnculas",
+"Gestação gemelar heterossexual",
+"Deficiência de selênio"
+],
+"e": "Malformações fetais (ex.: bezerro bulldog Dexter) impedem a deglutição."
+},
+{
+"c": "anexos",
+"q": "Por que drenar lentamente o líquido no tratamento do hidroalantoide?",
+"o": [
+"Para evitar choque hipovolêmico",
+"Para evitar ruptura do âmnio",
+"Para preservar o hipomanes",
+"Para não induzir o parto"
+],
+"e": "A retirada rápida de grandes volumes provoca redistribuição e choque."
+},
+{
+"c": "anexos",
+"q": "A eCG é produzida por:",
+"o": [
+"Cálices endometriais formados por células da cinta coriônica",
+"Corpos lúteos acessórios da égua",
+"Microcotilédones do alantocórion",
+"Células binucleadas dos placentomas"
+],
+"e": "Células trofoblásticas invadem o endométrio por volta do dia 36 e formam os cálices."
+},
+{
+"c": "anexos",
+"q": "Égua que perde o embrião no dia 50 pode:",
+"o": [
+"Ter eCG positiva e não voltar ao cio por semanas",
+"Retornar ao cio em 3 dias",
+"Desenvolver freemartinismo",
+"Formar novos cálices na próxima ovulação"
+],
+"e": "Os cálices persistem e secretam eCG independentemente do embrião."
+},
+{
+"c": "anexos",
+"q": "A estrela cervical da placenta equina é:",
+"o": [
+"Área avilosa diante do óstio interno da cérvix",
+"Cicatriz dos cálices endometriais",
+"Conjunto de microcotilédones fundidos",
+"Ponto de inserção do cordão"
+],
+"e": "É onde a placenta se rompe normalmente e por onde entram infecções ascendentes."
+},
+{
+"c": "anexos",
+"q": "No parto, aparece na vulva da égua uma membrana vermelha e aveludada. A conduta é:",
+"o": [
+"Romper imediatamente e retirar o potro",
+"Aguardar 3 horas",
+"Aplicar ocitocina e esperar",
+"Tracionar o cordão umbilical"
+],
+"e": "Placenta vermelha: separação prematura do alantocórion, potro sem oxigenação."
+},
+{
+"c": "anexos",
+"q": "Por que o potro nasce envolto no âmnio, e o leitão não?",
+"o": [
+"Na égua o alantoide envolve todo o âmnio; na porca, não",
+"Na porca o âmnio é absorvido antes do parto",
+"Na égua o âmnio é fundido ao endométrio",
+"Na porca não existe âmnio"
+],
+"e": "Na porca (e ruminantes) o âmnio fica preso ao córion dorsalmente e sai com a placenta."
+},
+{
+"c": "anexos",
+"q": "Na vaca, o placentoma é formado por:",
+"o": [
+"Cotilédone fetal encaixado na carúncula materna",
+"Carúncula fetal e cotilédone materno",
+"Microcotilédone e aréola",
+"Cinta coriônica e endométrio"
+],
+"e": "Carúnculas são do endométrio; cotilédones, do alantocórion."
+},
+{
+"c": "anexos",
+"q": "Como diferem os placentomas da vaca e da ovelha?",
+"o": [
+"Vaca convexos; ovelha côncavos",
+"Vaca côncavos; ovelha convexos",
+"Ambos discoides",
+"Vaca zonários; ovelha difusos"
+],
+"e": "Na ovelha a carúncula forma uma taça que recebe o cotilédone."
+},
+{
+"c": "anexos",
+"q": "As células binucleadas do trofoblasto dos ruminantes:",
+"o": [
+"Fundem-se ao epitélio uterino e liberam lactogênio e PAG",
+"Formam os cálices endometriais e a eCG",
+"Revestem os hematomas marginais",
+"Produzem uteroferrina nas aréolas"
+],
+"e": "Daí o termo placenta sinepiteliocorial."
+},
+{
+"c": "anexos",
+"q": "Por que o freemartinismo é comum em bovinos e raro em ovinos?",
+"o": [
+"Anastomoses vasculares entre gêmeos são comuns na vaca",
+"Ovelhas não têm gêmeos de sexos diferentes",
+"O AMH não age em fêmeas ovinas",
+"A placenta ovina é endoteliocorial"
+],
+"e": "Na ovelha as aderências são superficiais, sem anastomose."
+},
+{
+"c": "anexos",
+"q": "Em que espécie uma prostaglandina provoca aborto em qualquer fase da gestação?",
+"o": [
+"Cabra",
+"Ovelha",
+"Égua no 8º mês",
+"Vaca no 7º mês"
+],
+"e": "A cabra depende do corpo lúteo durante toda a gestação."
+},
+{
+"c": "anexos",
+"q": "Os apêndices necróticos do saco embrionário são encontrados em:",
+"o": [
+"Suínos e ruminantes",
+"Equinos e carnívoros",
+"Apenas carnívoros",
+"Apenas equinos"
+],
+"e": "Pontas isquêmicas do alantocórion atrofiam em cordões esbranquiçados."
+},
+{
+"c": "anexos",
+"q": "As aréolas da placenta suína absorvem uteroferrina, proteína que transporta:",
+"o": [
+"Ferro",
+"Cálcio",
+"Imunoglobulina G",
+"Iodo"
+],
+"e": "Mesmo assim o leitão nasce com pouco ferro e precisa de ferro injetável."
+},
+{
+"c": "anexos",
+"q": "Leitegada com fetos mumificados de tamanhos variados sugere:",
+"o": [
+"Parvovírus suíno",
+"Deficiência de iodo",
+"Hidroalantoide",
+"Freemartinismo"
+],
+"e": "A infecção passa de feto em feto, matando-os em idades diferentes (SMEDI)."
+},
+{
+"c": "anexos",
+"q": "A cor verde dos hematomas marginais da placenta da cadela se deve a:",
+"o": [
+"Uteroverdina, derivada da hemoglobina",
+"Bilirrubina conjugada do feto",
+"Clorofila da dieta",
+"Infecção por Pseudomonas"
+],
+"e": "Na gata os hematomas são menores e pardos."
+},
+{
+"c": "anexos",
+"q": "Cadela com secreção verde-escura há 3 horas e nenhum filhote nascido indica:",
+"o": [
+"Distocia com descolamento placentário",
+"Parto normal na 1ª fase",
+"Lóquio fisiológico",
+"Subinvolução dos sítios placentários"
+],
+"e": "Antes do 1º filhote, secreção verde sem nascimento em 2–4 h requer intervenção."
+},
+{
+"c": "anexos",
+"q": "A placenta dos carnívoros é classificada como:",
+"o": [
+"Zonária, endoteliocorial e decídua",
+"Difusa, epiteliocorial e adecídua",
+"Cotiledonária, sinepiteliocorial e decídua",
+"Discoide, hemocorial e adecídua"
+],
+"e": "O labirinto destrói epitélio e conjuntivo maternos."
+},
+{
+"c": "anexos",
+"q": "Gata tipo B com filhotes tipo A: o risco é de:",
+"o": [
+"Isoeritrólise neonatal após mamar o colostro",
+"Freemartinismo",
+"Hidroâmnio",
+"Placentite ascendente"
+],
+"e": "Anticorpos anti-A naturais chegam pelo colostro, não pela placenta."
+},
+{
+"c": "anexos",
+"q": "Na isoeritrólise do potro, por que ele nasce saudável?",
+"o": [
+"A placenta epiteliocorial não deixa passar os anticorpos",
+"O fígado fetal neutraliza os anticorpos",
+"Os antígenos só aparecem após o desmame",
+"A égua só forma anticorpos depois do parto"
+],
+"e": "Os anticorpos chegam pelo colostro após a primeira mamada."
+},
+{
+"c": "anexos",
+"q": "Valor de IgG sérica que indica transferência adequada de imunidade passiva no potro:",
+"o": [
+"800 mg/dL ou mais",
+"200 mg/dL",
+"Apenas 50 mg/dL",
+"Acima de 5 g/dL"
+],
+"e": "Abaixo de 400 mg/dL é falha de transferência."
+},
+{
+"c": "anexos",
+"q": "Como o pintinho recebe anticorpos maternos?",
+"o": [
+"IgY da gema, absorvida pelo saco vitelino",
+"IgG pela placenta coriovitelínica",
+"Pelo colostro da galinha",
+"Pela membrana corioalantoide a partir do ar"
+],
+"e": "Por isso vacinar matrizes protege os pintos."
+},
+{
+"c": "anexos",
+"q": "A partir de quanto tempo é considerada retenção de placenta na égua?",
+"o": [
+"Mais de 3 horas",
+"Mais de 24 horas",
+"Mais de 3 dias",
+"Mais de 12 horas"
+],
+"e": "Na égua é emergência (metrite, endotoxemia, laminite)."
+},
+{
+"c": "anexos",
+"q": "Qual destes NÃO é fator de risco para retenção de placenta na vaca?",
+"o": [
+"Placentoma bem amadurecido antes do parto",
+"Parto gemelar",
+"Hipocalcemia",
+"Deficiência de selênio e vitamina E"
+],
+"e": "A retenção decorre justamente da falha de maturação do placentoma."
+},
+{
+"c": "anexos",
+"q": "Na égua, a placentite ascendente acomete principalmente:",
+"o": [
+"A região da estrela cervical",
+"A base dos cornos",
+"Os cálices endometriais",
+"O cordão umbilical"
+],
+"e": "A forma nocardioforme é que acomete a base dos cornos."
+},
+{
+"c": "anexos",
+"q": "Qual a melhor época para reduzir manualmente uma gestação gemelar na égua?",
+"o": [
+"Dias 14 a 16, com vesículas ainda móveis",
+"Após o dia 120",
+"No 6º mês",
+"No dia 40, após os cálices"
+],
+"e": "Quanto mais cedo, maior o sucesso da redução."
+}
+]

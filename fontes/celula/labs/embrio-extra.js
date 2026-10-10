@@ -47,7 +47,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
 /* ---------- 2) Disco da galinha hora a hora (cap. 20) ---------- */
 (function(){
   const s=$('#exGaSvg');if(!s)return;const out=$('#exGaOut'),r=$('#exGaR'),hl=$('#exGaH'),pb=$('#exGaPlay');
-  const cx=230,top=45,bot=295,Lp=bot-top,yf=f=>bot-f*Lp;
+  const cx=200,top=52,bot=308,Lp=bot-top,yf=f=>bot-f*Lp;
   const node=h=>h<6?0:h<18?0.66*(h-6)/12:h<=22?0.66:h<=30?0.66-0.33*(h-22)/8:Math.max(0.06,0.33-0.27*(h-30)/20);
   const som=h=>h<23?0:Math.min(22,Math.round((h-23)/1.5)+1);
   function hh(h){if(h<6)return['Blastoderma bilaminar','Epiblasto e hipoblasto sobre a cavidade subgerminal; ainda sem eixo visível.'];
@@ -58,19 +58,19 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
     if(h<50)return['Regressão','Em ~30 h a linha já tem a metade do tamanho. A gastrulação termina de cranial para caudal enquanto os somitos se somam.'];
     return['Regressão completa','Por volta de 50 h a linha desapareceu; resta o broto da cauda. Fim da gastrulação.']}
   function draw(h){clear(s);
-    E('ellipse',{cx,cy:170,rx:200,ry:160,fill:'var(--amber-soft)',stroke:'var(--amber)','stroke-width':2},s);
-    E('ellipse',{cx,cy:170,rx:95,ry:128,fill:'var(--paper)',stroke:'var(--muted)','stroke-width':2},s);
+    E('ellipse',{cx,cy:180,rx:185,ry:145,fill:'var(--amber-soft)',stroke:'var(--amber)','stroke-width':2},s);
+    E('ellipse',{cx,cy:180,rx:92,ry:128,fill:'var(--paper)',stroke:'var(--muted)','stroke-width':2},s);
     const n=node(h),yn=yf(n);
     if(h>=20){const ext=Math.min(1,(h-20)/6);E('path',{d:`M ${cx-45},${yf(0.92)} Q ${cx},${yf(0.92)-18*ext-6} ${cx+45},${yf(0.92)} L ${cx+30},${yf(0.7)} L ${cx-30},${yf(0.7)} Z`,fill:'var(--sky-soft)',stroke:'var(--sky)'},s)}
     if(h>=3){const f0=h<6?0.06*(h-3)/3:0;E('ellipse',{cx,cy:yf(0.05),rx:22,ry:12,fill:'var(--eosin-soft)',opacity:Math.min(1,h/6)},s)}
     if(h>=18){const head=Math.min(0.88,0.66+0.22*(h-18)/4);E('line',{x1:cx,y1:yf(head),x2:cx,y2:yn,stroke:'var(--ok)','stroke-width':5},s)}
     if(n>0.02){E('line',{x1:cx,y1:yf(0.02),x2:cx,y2:yn,stroke:'var(--eosin)','stroke-width':9,'stroke-linecap':'round'},s);E('circle',{cx,cy:yn,r:9,fill:'var(--hema)'},s)}
     const ns=som(h);for(let i=0;i<ns;i++){const y=yf(0.62)+i*7.5;if(y>yn-8)break;[-1,1].forEach(sg=>E('rect',{x:cx+sg*16-(sg<0?11:0),y,width:11,height:6,rx:2,fill:'var(--hema-soft)',stroke:'var(--hema)'},s))}
-    const lab=[['Área opaca',40,[cx+190,110]],['Área pelúcida',80,[cx+92,140]]];
+    const lab=[['Área opaca',50,[cx+170,120]],['Área pelúcida',90,[cx+90,150]]];
     if(n>0.02)lab.push(['Nó de Hensen',150,[cx+10,yn]],['Linha primitiva',190,[cx+6,(yn+yf(0.02))/2]]);
-    if(h>=18)lab.push(['Notocorda',230,[cx+4,yf(0.8)]]);if(ns)lab.push([ns+' par'+(ns>1?'es':'')+' de somitos',270,[cx+28,yf(0.62)+5]]);
-    lab.forEach(([t,y,p])=>{E('line',{x1:445,y1:y-6,x2:p[0],y2:p[1],stroke:'var(--muted)','stroke-width':1.5},s);T(s,450,y,t,{fs:18,a:'start'})});
-    T(s,cx,22,'cranial',{fs:18,fill:'var(--muted)'});T(s,cx,334,'caudal',{fs:18,fill:'var(--muted)'});
+    if(h>=18)lab.push(['Notocorda',230,[cx+4,yf(0.8)]]);if(ns)lab.push(['Somitos: '+ns+' par'+(ns>1?'es':''),270,[cx+28,yf(0.62)+5]]);
+    lab.forEach(([t,y,p])=>{E('line',{x1:420,y1:y-6,x2:p[0],y2:p[1],stroke:'var(--muted)','stroke-width':1.5},s);T(s,425,y,t,{fs:18,a:'start'})});
+    T(s,cx,24,'cranial',{fs:18,fill:'var(--muted)'});T(s,cx,350,'caudal',{fs:18,fill:'var(--muted)'});
     const [a,b]=hh(h);hl.textContent=h;out.innerHTML=`<b>${h} h · ${a}.</b> ${b}`}
   r.addEventListener('input',()=>draw(+r.value));
   let tm=null;pb.addEventListener('click',()=>{if(tm){clearInterval(tm);tm=null;pb.textContent='▶ Animar';return}

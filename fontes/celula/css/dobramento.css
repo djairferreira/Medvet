@@ -1,0 +1,4 @@
+/* capítulo dobramento */
+.dfo-card{font-family:var(--f-display);font-weight:700;font-size:1.3rem;text-align:center;margin:6px 0 4px;padding:14px 10px;border:1px dashed var(--line);border-radius:var(--r);background:var(--paper);color:var(--ink)}
+.dfo-ans{justify-content:center}
+.dfo-ans .tbtn:disabled{opacity:.6;cursor:default}
