@@ -6,7 +6,7 @@
    "Reunião dos cromossomos dos dois pró-núcleos",
    "Penetração da corona radiata",
    "Liberação do 1º corpúsculo polar",
-   "Fusão do espermatozoide ao cumulus"
+   "Fusão da membrana do espermatozoide ao cumulus oophorus"
   ],
   "e": "Encerra a fecundação e inicia a 1ª clivagem."
  },
@@ -49,7 +49,7 @@
   "o": [
    "É definida pelo ovócito antes da fecundação",
    "Depende da temperatura de incubação",
-   "É definida pelo espermatozoide",
+   "É definida pelo espermatozoide, que leva Z ou W",
    "Só ocorre após a eclosão"
   ],
   "e": "A fêmea ZW é heterogamética."
@@ -92,7 +92,7 @@
   "q": "A separação do sêmen sexado bovino baseia-se em:",
   "o": [
    "Diferença de conteúdo de DNA entre X e Y",
-   "Velocidade de natação",
+   "Velocidade de natação de cada tipo de espermatozoide",
    "Tamanho do acrossomo",
    "Carga elétrica da cauda"
   ],
@@ -105,7 +105,7 @@
    "Infundíbulo",
    "Magno",
    "Istmo",
-   "Útero"
+   "Útero (glândula da casca)"
   ],
   "e": "Antes da deposição do albúmen."
  },
@@ -114,7 +114,7 @@
   "q": "A janela para fecundação na galinha após a ovulação é de cerca de:",
   "o": [
    "15 a 30 minutos",
-   "6 a 24 horas",
+   "6 a 24 horas, como na vaca",
    "2 a 3 dias",
    "1 semana"
   ],
@@ -125,7 +125,7 @@
   "q": "Os espermatozoides do galo ficam armazenados na fêmea:",
   "o": [
    "Em glândulas da junção útero-vaginal",
-   "No istmo, por poucas horas",
+   "No istmo, por poucas horas antes da ovulação",
    "No magno, por 24 horas",
    "No ovário"
   ],
@@ -137,7 +137,7 @@
   "o": [
    "É fisiológica; só um núcleo masculino forma o zigoto",
    "É letal, como nos mamíferos",
-   "É impedida pela reação cortical",
+   "É impedida pela reação cortical, como no ouriço-do-mar",
    "Gera embriões triploides viáveis"
   ],
   "e": "Pró-núcleos acessórios degeneram na periferia."
@@ -147,7 +147,7 @@
   "q": "Ao examinar a camada perivitelina de um ovo não desenvolvido, a ausência de furos indica:",
   "o": [
    "Falta de espermatozoides: infertilidade",
-   "Morte embrionária precoce",
+   "Morte embrionária precoce por armazenamento",
    "Armazenamento muito quente",
    "Excesso de polispermia"
   ],
@@ -159,7 +159,7 @@
   "o": [
    "Imprinting: faltam genes paternos ativos",
    "Ficam haploides sem saída",
-   "Não conseguem formar zona pelúcida",
+   "Não conseguem formar zona pelúcida nem corona radiata",
    "Não ativam a reação cortical"
   ],
   "e": "O trofoblasto depende de genes de expressão paterna."
@@ -193,7 +193,7 @@
    "Ativação partenogenética de células germinativas",
    "Polispermia",
    "Metástase de tumor testicular",
-   "Infecção por BVDV"
+   "Infecção viral transplacentária por BVDV na gestação"
   ],
   "e": "Desenvolvimento embrionário desorganizado no ovário."
  }

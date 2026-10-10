@@ -5,7 +5,7 @@
   "o": [
    "Pequeno estômago",
    "Camada dupla",
-   "Disco germinal",
+   "Disco germinal duplo",
    "Linha do eixo"
   ],
   "e": "Refere-se ao arquêntero."
@@ -39,7 +39,7 @@
    "Do aparecimento ao desaparecimento da linha primitiva",
    "Da fecundação à mórula",
    "Da eclosão à implantação",
-   "Do fechamento do tubo neural ao parto"
+   "Do fechamento do tubo neural até o nascimento do animal"
   ],
   "e": "Definição clássica."
  },
@@ -50,7 +50,7 @@
    "O vitelo limitou o embrião a um disco",
    "Não possuem mesoderma",
    "Não formam arquêntero",
-   "Têm clivagem holoblástica igual"
+   "Têm clivagem holoblástica igual e lenta"
   ],
   "e": "O esquema se manteve nos mamíferos."
  },
@@ -59,7 +59,7 @@
   "q": "O primeiro sinal do eixo corporal na gastrulação é:",
   "o": [
    "Acúmulo de epiblasto na margem caudal do disco",
-   "O fechamento do tubo neural",
+   "O fechamento completo do tubo neural na região cervical",
    "O aparecimento dos somitos",
    "A ruptura da zona pelúcida"
   ],
@@ -72,7 +72,7 @@
    "Dois terços do comprimento do disco",
    "Toda a extensão do disco",
    "Um décimo do disco",
-   "A borda cranial do disco"
+   "A borda cranial do disco, ultrapassando-a"
   ],
   "e": "Nunca alcança a borda cranial."
  },
@@ -92,7 +92,7 @@
   "q": "Durante a regressão da linha primitiva, o nó:",
   "o": [
    "Recua caudalmente, deixando a notocorda",
-   "Avança cranialmente",
+   "Avança cranialmente até a borda do disco",
    "Permanece fixo",
    "Desaparece antes da linha"
   ],
@@ -103,7 +103,7 @@
   "q": "Na galinha, a linha primitiva aparece por volta de:",
   "o": [
    "12 a 16 horas de incubação",
-   "2 a 4 horas",
+   "2 a 4 horas após a postura",
    "3 dias",
    "7 dias"
   ],
@@ -136,7 +136,7 @@
   "q": "O processo cefálico da ave corresponde a:",
   "o": [
    "Prolongamento da notocorda à frente do nó",
-   "Prega amniótica cefálica",
+   "Prega amniótica cefálica sobre a cabeça",
    "Primeiro par de somitos",
    "Hipoblasto deslocado"
   ],
@@ -147,7 +147,7 @@
   "q": "Na galinha, os somitos se formam em ritmo de aproximadamente:",
   "o": [
    "Um par a cada 90 minutos",
-   "Um par a cada 12 horas",
+   "Um par a cada 12 horas aproximadamente",
    "Dez pares por hora",
    "Um par por dia"
   ],
@@ -159,7 +159,7 @@
   "o": [
    "Estimar a idade de embriões jovens",
    "Determinar o sexo",
-   "Avaliar a fertilidade do galo",
+   "Avaliar a fertilidade do galo reprodutor",
    "Classificar o tipo de ovo"
   ],
   "e": "Estágios de Hamburger e Hamilton."
@@ -191,7 +191,7 @@
   "q": "Cartilagens da face derivam da crista neural, o que mostra que:",
   "o": [
    "Folheto de origem não é destino absoluto",
-   "Toda cartilagem é endodérmica",
+   "Toda cartilagem do corpo é de origem endodérmica",
    "A crista neural é mesodérmica",
    "O mesoderma forma a epiderme"
   ],

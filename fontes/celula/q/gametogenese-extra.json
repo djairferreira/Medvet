@@ -26,7 +26,7 @@
   "q": "O vitelo depositado no ovócito da galinha é sintetizado principalmente:",
   "o": [
    "No fígado, sob ação do estrógeno",
-   "No magno do oviduto",
+   "No magno do oviduto, junto com o albúmen",
    "Nas células da casca",
    "No próprio disco germinativo"
   ],
@@ -82,7 +82,7 @@
   "o": [
    "No útero (glândula da casca), cerca de 20 h",
    "No infundíbulo, cerca de 10 h",
-   "No magno, cerca de 15 h",
+   "No magno, cerca de 15 h, recebendo o albúmen",
    "Na vagina, cerca de 8 h"
   ],
   "e": "A calcificação da casca leva cerca de 20 h."
@@ -94,7 +94,7 @@
    "Ancorar a gema ao albúmen",
    "Tapar os poros da casca",
    "Formar a câmara de ar",
-   "Produzir o vitelo branco"
+   "Produzir o vitelo branco que nutre o disco"
   ],
   "e": "Cordões de mucina que prendem e deixam a gema girar."
  },
@@ -104,7 +104,7 @@
   "o": [
    "No polo rombo, quando o ovo esfria após a postura",
    "No polo agudo, ainda dentro do magno",
-   "Ao redor da gema, logo após a fecundação",
+   "Ao redor da gema, logo após a fecundação no infundíbulo",
    "Entre o albúmen denso e o fluido"
   ],
   "e": "As membranas da casca se separam ao resfriar."
@@ -149,7 +149,7 @@
    "Aneuploides, trissômicos ou monossômicos",
    "Sempre triploides",
    "Haploides que se diploidizam",
-   "Com cromossomos idênticos aos da mãe"
+   "Com cromossomos todos idênticos aos da mãe"
   ],
   "e": "Gametas n+1 ou n−1 geram 2n+1 ou 2n−1."
  },
@@ -160,7 +160,7 @@
    "Ovários pequenos e inativos, com infertilidade",
    "Fenótipo masculino e testículos",
    "Gestação gemelar frequente",
-   "Ciclos estrais curtos e muito férteis"
+   "Ciclos estrais curtos, regulares e muito férteis"
   ],
   "e": "É a anomalia cromossômica mais citada em éguas."
  },
@@ -170,7 +170,7 @@
   "o": [
    "39,XXY",
    "38,XY",
-   "37,X0",
+   "37,X0 com mosaicismo",
    "38,XX"
   ],
   "e": "As duas cores ligadas ao X exigem dois X; é estéril."
@@ -180,7 +180,7 @@
   "q": "O portador bovino da translocação robertsoniana 1/29 tem:",
   "o": [
    "Fenótipo normal e fertilidade um pouco menor",
-   "Malformações graves ao nascer",
+   "Malformações graves já ao nascer, como nanismo",
    "Fertilidade aumentada",
    "Esterilidade completa"
   ],
@@ -192,7 +192,7 @@
   "o": [
    "Fica muito tempo em prófase I, com coesinas desgastadas",
    "Não sofre crossing-over",
-   "Divide o citoplasma igualmente",
+   "Divide o citoplasma igualmente entre as células-filhas",
    "Não possui centrômeros funcionais"
   ],
   "e": "O longo bloqueio favorece erros de segregação."
@@ -202,7 +202,7 @@
   "q": "Entre as espécies domésticas, quem ovula ovócito primário é:",
   "o": [
    "A cadela",
-   "A égua",
+   "A égua, pela fossa de ovulação",
    "A vaca",
    "A porca"
   ],
@@ -215,7 +215,7 @@
    "Renovam a reserva e originam as do tipo B",
    "Já são haploides",
    "Sofrem espermiogênese direta",
-   "Formam a barreira hematotesticular"
+   "Formam a barreira hematotesticular com junções oclusivas"
   ],
   "e": "As do tipo B originam espermatócitos primários."
  },
@@ -224,7 +224,7 @@
   "q": "As pontes citoplasmáticas entre células espermatogênicas permitem:",
   "o": [
    "Maturação sincronizada e partilha de produtos gênicos",
-   "A fusão de espermátides em uma só célula",
+   "A fusão de todas as espermátides em uma só célula gigante",
    "Que a meiose II seja dispensada",
    "A entrada de anticorpos no túbulo"
   ],

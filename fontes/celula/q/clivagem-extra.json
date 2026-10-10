@@ -5,7 +5,7 @@
   "o": [
    "William Harvey",
    "Aristóteles",
-   "Caspar Wolff",
+   "Caspar Friedrich Wolff",
    "Leeuwenhoek"
   ],
   "e": "Harvey estudou úteros de corças."
@@ -26,7 +26,7 @@
   "q": "A teoria da epigênese afirma que:",
   "o": [
    "Os órgãos se formam progressivamente de material indiferenciado",
-   "O embrião é um adulto em miniatura",
+   "O embrião é um adulto em miniatura que apenas cresce em tamanho",
    "Só o pai contribui para o embrião",
    "Os órgãos já existem no ovócito"
   ],
@@ -105,7 +105,7 @@
    "Meroblástica superficial",
    "Holoblástica igual",
    "Meroblástica discoidal",
-   "Holoblástica desigual"
+   "Holoblástica desigual e radial"
   ],
   "e": "Núcleos se dividem sem citocinese e migram à periferia."
  },
@@ -126,7 +126,7 @@
   "o": [
    "Holoblástica igual, rotacional e assíncrona",
    "Meroblástica discoidal",
-   "Holoblástica desigual e síncrona",
+   "Holoblástica desigual, com micrômeros e macrômeros",
    "Meroblástica superficial"
   ],
   "e": "Ovo quase sem vitelo."
@@ -137,7 +137,7 @@
   "o": [
    "A placenta tornou o vitelo dispensável",
    "Não fazem gastrulação",
-   "O ovo cresce depois da fecundação",
+   "O ovo cresce bastante depois da fecundação no útero",
    "O vitelo é produzido pelo embrião"
   ],
   "e": "Nutrição pela mãe via placenta."
@@ -148,7 +148,7 @@
   "o": [
    "Fica sobre a cavidade subgerminal",
    "Não tem células",
-   "É coberta pela zona pelúcida",
+   "É coberta pela zona pelúcida do ovócito",
    "Tem vitelo branco"
   ],
   "e": "A área opaca fica apoiada no vitelo."
@@ -158,7 +158,7 @@
   "q": "Nas aves, as membranas extraembrionárias vêm em grande parte da área opaca porque:",
   "o": [
    "As aves não têm trofoblasto",
-   "A área pelúcida degenera",
+   "A área pelúcida degenera antes da gastrulação",
    "O hipoblasto não se forma",
    "A casca induz essa área"
   ],
@@ -171,7 +171,7 @@
    "Abaixo do zero fisiológico o blastoderma fica em pausa",
    "Nessa faixa a casca endurece",
    "Assim o embrião acelera a gastrulação",
-   "Evita a formação da câmara de ar"
+   "Evita a formação da câmara de ar no polo rombo do ovo"
   ],
   "e": "Abaixo de ~20–21 °C o desenvolvimento para."
  },
@@ -182,7 +182,7 @@
    "Deslaminação por retração, com embriocisto",
    "Deslaminação em superfície",
    "Invaginação pelo blastóporo",
-   "Fagocitose do trofoblasto pelo útero"
+   "Fagocitose da camada de Rauber pelo epitélio uterino"
   ],
   "e": "Em carnívoros, a camada de Rauber só afina e some."
  },
@@ -192,7 +192,7 @@
   "o": [
    "Antes estão no oviduto e depois começam a eclodir",
    "Só nesse período há mórula de 2 células",
-   "É quando ocorre a implantação",
+   "É quando ocorre a implantação definitiva no endométrio",
    "A zona pelúcida só se forma no 5º dia"
   ],
   "e": "Após o dia 9 ficam desprotegidos."
