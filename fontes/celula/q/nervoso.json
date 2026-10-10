@@ -1,0 +1,607 @@
+[
+{
+"c": "nervoso",
+"q": "Em qual camada do tubo neural ocorrem as mitoses do neuroepitélio?",
+"o": [
+"Ventricular, junto à luz",
+"Marginal, junto à pia-máter",
+"Do manto, entre os corpos",
+"Na crista neural adjacente"
+],
+"e": "A mitose ocorre com o núcleo junto à luz (migração nuclear intercinética)."
+},
+{
+"c": "nervoso",
+"q": "A camada do manto do tubo neural origina principalmente:",
+"o": [
+"A substância cinzenta",
+"A substância branca",
+"O epêndima",
+"As meninges"
+],
+"e": "O manto reúne corpos de neuroblastos pós-mitóticos."
+},
+{
+"c": "nervoso",
+"q": "A camada marginal do tubo neural dá origem a:",
+"o": [
+"Substância branca",
+"Substância cinzenta",
+"Plexo coroide",
+"Gânglios espinais"
+],
+"e": "É formada por axônios, que depois são mielinizados."
+},
+{
+"c": "nervoso",
+"q": "Qual célula do SNC NÃO deriva do neuroepitélio do tubo neural?",
+"o": [
+"Micróglia",
+"Astrócito",
+"Oligodendrócito",
+"Ependimócito"
+],
+"e": "A micróglia vem de macrófagos com origem no saco vitelino (mesoderma)."
+},
+{
+"c": "nervoso",
+"q": "O que sobra da camada ventricular no adulto forma:",
+"o": [
+"O epêndima",
+"A pia-máter",
+"O corno ventral",
+"A glia de Bergmann"
+],
+"e": "O epêndima reveste ventrículos e canal central."
+},
+{
+"c": "nervoso",
+"q": "Por que um neurônio destruído no feto não é reposto?",
+"o": [
+"Neuroblastos são pós-mitóticos",
+"A glia fagocita os precursores",
+"O líquor inibe a mitose",
+"A mielina bloqueia a migração"
+],
+"e": "Neuroblastos perdem a capacidade de divisão; a glia não."
+},
+{
+"c": "nervoso",
+"q": "Quem forma a mielina no sistema nervoso periférico?",
+"o": [
+"Célula de Schwann",
+"Oligodendrócito",
+"Astrócito fibroso",
+"Micróglia"
+],
+"e": "Schwann vem da crista neural; oligodendrócito mieliniza o SNC."
+},
+{
+"c": "nervoso",
+"q": "O tremor congênito tipo A-I de leitões é causado por:",
+"o": [
+"Vírus da peste suína clássica",
+"Parvovírus suíno",
+"Circovírus tipo 2",
+"Intoxicação por selênio"
+],
+"e": "Tipo A-I = peste suína clássica, com hipomielinização."
+},
+{
+"c": "nervoso",
+"q": "A placa alar da medula espinal forma:",
+"o": [
+"O corno dorsal, sensitivo",
+"O corno ventral, motor",
+"O gânglio espinal",
+"A placa do assoalho"
+],
+"e": "Alar = dorsal e sensitiva."
+},
+{
+"c": "nervoso",
+"q": "A estrutura que separa as placas alar e basal é o:",
+"o": [
+"Sulco limitante",
+"Sulco mediano dorsal",
+"Canal central",
+"Forame interventricular"
+],
+"e": "O sulco limitante fica na parede do canal."
+},
+{
+"c": "nervoso",
+"q": "O sinal que ventraliza o tubo neural e induz motoneurônios é:",
+"o": [
+"Sonic hedgehog",
+"BMP",
+"Wnt",
+"Ácido retinoico do teto"
+],
+"e": "Shh vem da notocorda e da placa do assoalho."
+},
+{
+"c": "nervoso",
+"q": "BMP, que dorsaliza o tubo neural, é liberado por:",
+"o": [
+"Ectoderma e placa do teto",
+"Notocorda e placa do assoalho",
+"Somitos e mesonefro",
+"Placa precordal e endoderma"
+],
+"e": "BMP/Wnt formam gradiente alto na região dorsal."
+},
+{
+"c": "nervoso",
+"q": "Onde ficam os corpos dos neurônios sensitivos primários da raiz dorsal?",
+"o": [
+"No gânglio espinal",
+"Na placa alar",
+"No corno lateral",
+"Na placa do teto"
+],
+"e": "O gânglio espinal deriva da crista neural."
+},
+{
+"c": "nervoso",
+"q": "A coluna eferente visceral geral (EVG) forma no adulto o:",
+"o": [
+"Corno lateral (T1–L3 e sacral)",
+"Ápice do corno dorsal",
+"Corno ventral cervical",
+"Funículo dorsal da medula"
+],
+"e": "Neurônios pré-ganglionares autônomos."
+},
+{
+"c": "nervoso",
+"q": "Os motoneurônios do músculo esquelético pertencem à coluna:",
+"o": [
+"Eferente somática",
+"Eferente visceral geral",
+"Aferente visceral geral",
+"Aferente somática geral"
+],
+"e": "ES, corno ventral, placa basal."
+},
+{
+"c": "nervoso",
+"q": "A 'ascensão da medula' resulta de:",
+"o": [
+"Coluna crescer mais que a medula",
+"Medula ser tracionada pelo encéfalo",
+"Reabsorção do cone medular",
+"Fusão de mielômeros caudais"
+],
+"e": "A medula fica para trás; não sobe de verdade."
+},
+{
+"c": "nervoso",
+"q": "A cauda equina é formada por:",
+"o": [
+"Raízes que descem no canal",
+"Vértebras caudais fundidas",
+"Filamento terminal e dura-máter",
+"Gânglios simpáticos sacrais"
+],
+"e": "Raízes dos segmentos caudais antes de sair pelos forames."
+},
+{
+"c": "nervoso",
+"q": "No equino, a medula espinal termina aproximadamente em:",
+"o": [
+"Meio do sacro (S2)",
+"Primeira lombar (L1)",
+"Quarta lombar (L4)",
+"Vértebras caudais (Co3)"
+],
+"e": "Equino ~S2; bovino ~S1; cão L6–L7."
+},
+{
+"c": "nervoso",
+"q": "Por que a epidural em bovinos é feita no espaço sacrococcígeo?",
+"o": [
+"Ali só há raízes, sem medula",
+"Ali não há espaço epidural",
+"A dura-máter termina em L1",
+"O líquor ali é absorvido"
+],
+"e": "A medula termina no sacro; caudalmente só há cauda equina."
+},
+{
+"c": "nervoso",
+"q": "No gato, a epidural lombossacra exige cuidado porque:",
+"o": [
+"O saco dural vai mais caudal",
+"A medula termina em L3",
+"Não há forame lombossacro",
+"O canal é ocupado por gordura"
+],
+"e": "Pode haver punção subaracnóidea."
+},
+{
+"c": "nervoso",
+"q": "Na mielomeningocele há:",
+"o": [
+"Meninges e medula na bolsa",
+"Só falha dos arcos vertebrais",
+"Só meninges com líquor",
+"Medula duplicada no canal"
+],
+"e": "Meningocele só meninges; espinha bífida oculta só óssea."
+},
+{
+"c": "nervoso",
+"q": "O disrafismo espinal com marcha 'de coelho' é descrito em:",
+"o": [
+"Weimaraner",
+"Dálmata",
+"Cavalier King Charles",
+"Collie"
+],
+"e": "Defeito de fechamento dorsal da medula no Weimaraner."
+},
+{
+"c": "nervoso",
+"q": "O seio dermoide do Rhodesian Ridgeback resulta de falha na:",
+"o": [
+"Separação ectoderma–tubo",
+"Formação dos somitos",
+"Fusão do palato",
+"Migração de melanócitos"
+],
+"e": "Fica um canal da pele às meninges."
+},
+{
+"c": "nervoso",
+"q": "Gatos Manx sem cauda têm risco de:",
+"o": [
+"Agenesia sacrocaudal e espinha bífida",
+"Hipoplasia cerebelar viral",
+"Anomalia do olho do Collie",
+"Surdez por falta de melanócitos"
+],
+"e": "Alelo dominante do gene T; homozigoto é letal."
+},
+{
+"c": "nervoso",
+"q": "Qual vesícula primária NÃO se divide?",
+"o": [
+"Mesencéfalo",
+"Prosencéfalo",
+"Rombencéfalo",
+"Telencéfalo"
+],
+"e": "Prosencéfalo e rombencéfalo originam duas vesículas cada."
+},
+{
+"c": "nervoso",
+"q": "O diencéfalo tem como cavidade o:",
+"o": [
+"III ventrículo",
+"Ventrículo lateral",
+"Aqueduto",
+"IV ventrículo"
+],
+"e": "Telencéfalo: laterais; mesencéfalo: aqueduto."
+},
+{
+"c": "nervoso",
+"q": "Ponte e cerebelo derivam do:",
+"o": [
+"Metencéfalo",
+"Mielencéfalo",
+"Mesencéfalo",
+"Diencéfalo"
+],
+"e": "Ponte ventral, cerebelo dorsal."
+},
+{
+"c": "nervoso",
+"q": "O bulbo (medula oblonga) vem do:",
+"o": [
+"Mielencéfalo",
+"Metencéfalo",
+"Diencéfalo",
+"Mesencéfalo"
+],
+"e": "Contém núcleos dos nervos VI a XII."
+},
+{
+"c": "nervoso",
+"q": "A neuro-hipófise deriva do:",
+"o": [
+"Assoalho do diencéfalo",
+"Teto do estomodeu",
+"Mesencéfalo ventral",
+"Placoide ótico"
+],
+"e": "A adeno-hipófise vem da bolsa de Rathke."
+},
+{
+"c": "nervoso",
+"q": "A flexura pontina faz com que, no tronco encefálico, a placa alar fique:",
+"o": [
+"Lateral à placa basal",
+"Ventral à placa basal",
+"Medial à placa basal",
+"Fundida à placa basal"
+],
+"e": "O IV ventrículo se abre como um livro."
+},
+{
+"c": "nervoso",
+"q": "A estenose congênita mais associada à hidrocefalia obstrutiva no cão é a do:",
+"o": [
+"Aqueduto mesencefálico",
+"Forame magno",
+"Canal central da medula",
+"Seio sagital dorsal"
+],
+"e": "É o ponto mais estreito do sistema ventricular."
+},
+{
+"c": "nervoso",
+"q": "Qual é um sinal típico de hidrocefalia congênita em Chihuahua?",
+"o": [
+"Estrabismo ventrolateral bilateral",
+"Tremor de intenção ao comer",
+"Coçar fantasma do pescoço",
+"Surdez unilateral pigmentar"
+],
+"e": "Também crânio em cúpula e fontanela aberta."
+},
+{
+"c": "nervoso",
+"q": "Os neurônios granulares do cerebelo vêm da:",
+"o": [
+"Camada granular externa",
+"Placa do assoalho",
+"Zona ventricular do mesencéfalo",
+"Crista neural cranial"
+],
+"e": "Originada do lábio rômbico, migra pela glia de Bergmann."
+},
+{
+"c": "nervoso",
+"q": "A hipoplasia cerebelar por panleucopenia ocorre porque o vírus:",
+"o": [
+"Ataca células em divisão",
+"Destrói a mielina madura",
+"Bloqueia a via Shh",
+"Obstrui o aqueduto"
+],
+"e": "A camada granular externa prolifera até após o nascimento."
+},
+{
+"c": "nervoso",
+"q": "Hipoplasia cerebelar difere da abiotrofia cerebelar porque:",
+"o": [
+"Não piora com o tempo",
+"É sempre hereditária",
+"Começa no adulto idoso",
+"Afeta só a medula"
+],
+"e": "A abiotrofia é degenerativa e progressiva."
+},
+{
+"c": "nervoso",
+"q": "Bezerros com hipoplasia cerebelar por BVDV foram infectados por volta de:",
+"o": [
+"100 a 150 dias de gestação",
+"5 a 15 dias de gestação",
+"Últimos 10 dias de gestação",
+"Primeira semana pós-natal"
+],
+"e": "Janela de organogênese cerebelar no bovino."
+},
+{
+"c": "nervoso",
+"q": "Na hidranencefalia por vírus Akabane:",
+"o": [
+"Tecido destruído é ocupado por líquor",
+"O aqueduto fica obstruído por cistos",
+"O crânio cresce e a fontanela abre",
+"O cerebelo hernia pelo forame magno"
+],
+"e": "Líquor preenche passivamente; crânio normal."
+},
+{
+"c": "nervoso",
+"q": "A ciclopia em cordeiros por Veratrum ocorre porque a ciclopamina:",
+"o": [
+"Bloqueia a via Shh",
+"Ativa BMP na linha média",
+"Destrói o placoide",
+"Impede a mielinização"
+],
+"e": "Inibe Smoothened; exposição ao redor do dia 14."
+},
+{
+"c": "nervoso",
+"q": "A malformação semelhante à de Chiari do Cavalier envolve:",
+"o": [
+"Fossa caudal pequena e siringomielia",
+"Aqueduto duplicado e hidranencefalia",
+"Agenesia do vérmis e cistos",
+"Crânio grande com fontanela"
+],
+"e": "O cerebelo hernia pelo forame magno."
+},
+{
+"c": "nervoso",
+"q": "Qual destes NÃO é derivado da crista neural?",
+"o": [
+"Neurônios da retina",
+"Medula da adrenal",
+"Melanócitos",
+"Células de Schwann"
+],
+"e": "A retina é neuroectoderma do diencéfalo."
+},
+{
+"c": "nervoso",
+"q": "A síndrome do potro branco letal resulta de falha na migração de:",
+"o": [
+"Melanócitos e neurônios entéricos",
+"Oligodendrócitos e astrócitos",
+"Miócitos e condrócitos",
+"Hepatócitos e enterócitos"
+],
+"e": "Mutação EDNRB em Overo homozigoto."
+},
+{
+"c": "nervoso",
+"q": "O placoide ótico origina:",
+"o": [
+"Labirinto membranoso e gânglio VIII",
+"Ossículos da orelha média",
+"Meato acústico externo",
+"Cápsula ótica cartilaginosa"
+],
+"e": "O labirinto ósseo vem do mesênquima."
+},
+{
+"c": "nervoso",
+"q": "O cristalino deriva de:",
+"o": [
+"Ectoderma superficial",
+"Parede do cálice óptico",
+"Mesênquima da crista",
+"Endoderma faríngeo"
+],
+"e": "Placoide do cristalino induzido pela vesícula óptica."
+},
+{
+"c": "nervoso",
+"q": "A parede interna do cálice óptico forma:",
+"o": [
+"Retina neural",
+"Epitélio pigmentar",
+"Coroide vascular",
+"Esclera fibrosa"
+],
+"e": "A externa forma o epitélio pigmentar."
+},
+{
+"c": "nervoso",
+"q": "O coloboma resulta de falha no fechamento da:",
+"o": [
+"Fissura coroidea",
+"Membrana pupilar",
+"Bolsa de Rathke",
+"Fosseta ótica"
+],
+"e": "Geralmente defeito ventral."
+},
+{
+"c": "nervoso",
+"q": "Os músculos esfíncter e dilatador da pupila derivam de:",
+"o": [
+"Neuroectoderma do cálice",
+"Mesoderma paraxial cefálico",
+"Crista neural do tronco",
+"Ectoderma superficial"
+],
+"e": "Exceção: músculo não mesodérmico."
+},
+{
+"c": "nervoso",
+"q": "O descolamento de retina ocorre no plano entre:",
+"o": [
+"Pigmentar e retina neural",
+"Retina neural e coroide",
+"Coroide e esclera fibrosa",
+"Cristalino e corpo vítreo"
+],
+"e": "Resto do espaço intrarretiniano."
+},
+{
+"c": "nervoso",
+"q": "A anomalia do olho do Collie tem como lesão constante:",
+"o": [
+"Hipoplasia da coroide",
+"Catarata nuclear",
+"Microftalmia bilateral",
+"Membrana pupilar persistente"
+],
+"e": "Autossômica recessiva (NHEJ1)."
+},
+{
+"c": "nervoso",
+"q": "Qual espécie tem tapete lúcido fibroso?",
+"o": [
+"Bovino",
+"Gato",
+"Cão",
+"Suíno"
+],
+"e": "Carnívoros: celular; suíno: ausente."
+},
+{
+"c": "nervoso",
+"q": "Cães e gatos abrem as pálpebras por volta de:",
+"o": [
+"10 a 14 dias de vida",
+"40 dias de gestação",
+"3 meses de vida",
+"No momento do parto"
+],
+"e": "Ungulados nascem de olhos abertos."
+},
+{
+"c": "nervoso",
+"q": "A parte sacular da vesícula ótica forma:",
+"o": [
+"Sáculo e ducto coclear",
+"Utrículo e canais semicirculares",
+"Ducto endolinfático",
+"Tuba auditiva"
+],
+"e": "A utricular forma utrículo, canais e ducto endolinfático."
+},
+{
+"c": "nervoso",
+"q": "A surdez de Dálmatas e gatos brancos se deve à falta de:",
+"o": [
+"Melanócitos da estria vascular",
+"Ossículos da orelha média",
+"Placoide ótico",
+"Fibras do nervo facial"
+],
+"e": "Sem melanócitos, a estria degenera: degeneração cocleossacular."
+},
+{
+"c": "nervoso",
+"q": "Martelo e bigorna derivam da cartilagem do arco:",
+"o": [
+"1 (Meckel)",
+"2 (Reichert)",
+"3",
+"4"
+],
+"e": "Estribo vem do arco 2."
+},
+{
+"c": "nervoso",
+"q": "A cavidade timpânica e a tuba auditiva vêm da:",
+"o": [
+"Primeira bolsa faríngea",
+"Primeira fenda faríngea",
+"Segunda bolsa faríngea",
+"Vesícula ótica"
+],
+"e": "Recesso tubotimpânico; no equino forma a bolsa gutural."
+},
+{
+"c": "nervoso",
+"q": "O exame para confirmar surdez congênita em filhotes é:",
+"o": [
+"BAER após 5–6 semanas",
+"Ressonância ao nascer",
+"Radiografia de bula",
+"Teste de Schirmer"
+],
+"e": "Potencial evocado auditivo do tronco encefálico."
+}
+]

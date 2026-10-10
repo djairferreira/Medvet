@@ -1,0 +1,761 @@
+[
+{
+"c": "locomotor",
+"q": "De onde vêm os ossos dos membros?",
+"o": [
+"Do mesoderma lateral somático",
+"Do esclerótomo dos somitos torácicos",
+"Do miótomo dos somitos do nível do broto",
+"Da crista neural do tronco que migra"
+],
+"e": "Os músculos do membro vêm dos somitos; o esqueleto vem do mesoderma lateral somático."
+},
+{
+"c": "locomotor",
+"q": "De onde vêm os músculos dos membros?",
+"o": [
+"Do dermomiótomo, por migração ao broto",
+"Do mesoderma lateral somático do próprio broto",
+"Do esclerótomo que envolve a notocorda",
+"Do mesoderma esplâncnico da parede ventral"
+],
+"e": "Precursores Pax3+ migram (HGF/c-Met) dos somitos para o broto."
+},
+{
+"c": "locomotor",
+"q": "Qual fator miogênico é capaz de converter um fibroblasto em célula muscular em cultura?",
+"o": [
+"MyoD",
+"Sox9",
+"Runx2",
+"Tbx5"
+],
+"e": "MyoD é um fator de determinação miogênica."
+},
+{
+"c": "locomotor",
+"q": "Qual é a sequência correta da miogênese esquelética?",
+"o": [
+"Mioblasto, miotubo, fibra muscular",
+"Miotubo, mioblasto, fibra muscular",
+"Fibra muscular, miotubo, mioblasto",
+"Mioblasto, fibra muscular, miotubo"
+],
+"e": "Mioblastos se fundem em miotubos, que amadurecem em fibras."
+},
+{
+"c": "locomotor",
+"q": "Por que a fibra muscular esquelética é multinucleada?",
+"o": [
+"Resulta da fusão de vários mioblastos",
+"Seus núcleos se dividem sem citocinese",
+"Recebe núcleos de células da crista neural",
+"Fagocita células satélite vizinhas"
+],
+"e": "A fibra é um sincício formado por fusão."
+},
+{
+"c": "locomotor",
+"q": "Como cresce o músculo esquelético depois do nascimento, na maioria dos domésticos?",
+"o": [
+"Por hipertrofia, com núcleos das satélites",
+"Por hiperplasia intensa, formando novas fibras",
+"Por divisão mitótica das próprias fibras adultas",
+"Por fusão de fibras adultas vizinhas entre si"
+],
+"e": "O número de fibras é fixado no útero."
+},
+{
+"c": "locomotor",
+"q": "Onde ficam as células satélite?",
+"o": [
+"Entre o sarcolema e a lâmina basal",
+"No interior dos túbulos T de cada fibra",
+"No endomísio, por fora da lâmina basal",
+"Dentro do retículo sarcoplasmático da fibra"
+],
+"e": "São mioblastos de reserva Pax7+."
+},
+{
+"c": "locomotor",
+"q": "Qual marcador caracteriza as células satélite em repouso?",
+"o": [
+"Pax7",
+"Miogenina",
+"Colágeno tipo X",
+"Shh"
+],
+"e": "Pax7 identifica as células satélite."
+},
+{
+"c": "locomotor",
+"q": "Leitões refugos de leitegadas grandes têm pior desempenho porque:",
+"o": [
+"Formaram menos fibras secundárias no útero",
+"Têm mais fibras primárias que os irmãos maiores",
+"Não possuem nenhuma célula satélite ao nascer",
+"Perdem fibras por apoptose logo após o desmame"
+],
+"e": "O número de fibras secundárias não se recupera depois."
+},
+{
+"c": "locomotor",
+"q": "Na miogênese, as fibras primárias:",
+"o": [
+"Formam-se cedo e servem de molde às secundárias",
+"Formam-se após o nascimento a partir das satélites",
+"São mais numerosas que as secundárias",
+"Originam o músculo liso visceral"
+],
+"e": "As secundárias se formam ao longo das primárias."
+},
+{
+"c": "locomotor",
+"q": "A musculatura dupla do Belgian Blue resulta de:",
+"o": [
+"Deleção que inativa o gene da miostatina",
+"Ganho de função do gene da miostatina bovina",
+"Mutação no receptor de rianodina RYR1 do músculo",
+"Duplicação do gene MyoD no cromossomo X"
+],
+"e": "Deleção de 11 pb gera proteína truncada inativa."
+},
+{
+"c": "locomotor",
+"q": "Qual é o efeito normal da miostatina (GDF8)?",
+"o": [
+"Frear o crescimento muscular",
+"Estimular a fusão de mioblastos em miotubos",
+"Induzir a formação da crista ectodérmica apical",
+"Promover a hipertrofia dos condrócitos da fise"
+],
+"e": "É um freio do crescimento muscular."
+},
+{
+"c": "locomotor",
+"q": "Qual problema reprodutivo é típico das vacas Belgian Blue?",
+"o": [
+"Distocia, com cesariana frequente",
+"Retenção de placenta por falta de ocitocina",
+"Freemartinismo em gestações simples",
+"Mumificação fetal por parvovírus"
+],
+"e": "Bezerro volumoso e pelve estreita."
+},
+{
+"c": "locomotor",
+"q": "No Piemontês, a mutação da miostatina é:",
+"o": [
+"Troca de base que altera uma cisteína",
+"Deleção de 11 pares de bases no éxon",
+"Criação de sítio para microRNA na região 3′",
+"Inserção de um retrogene de FGF4 no éxon 3"
+],
+"e": "Alelo diferente, mesmo fenótipo."
+},
+{
+"c": "locomotor",
+"q": "No ovino Texel, a hipermusculatura vem de:",
+"o": [
+"Sítio para microRNA no RNAm da miostatina",
+"Deleção de 11 pb no éxon 3 da miostatina",
+"Ausência congênita de todas as células satélite",
+"Excesso de Sonic hedgehog no miótomo fetal"
+],
+"e": "MicroRNAs reduzem a tradução da miostatina."
+},
+{
+"c": "locomotor",
+"q": "Os músculos epaxiais são inervados pelo:",
+"o": [
+"Ramo dorsal do nervo espinhal",
+"Ramo ventral do nervo espinhal",
+"Nervo frênico",
+"Plexo braquial"
+],
+"e": "Epímero → ramo dorsal."
+},
+{
+"c": "locomotor",
+"q": "Qual destes músculos NÃO é derivado do hipômero?",
+"o": [
+"Longuíssimo do dorso",
+"Intercostal externo",
+"Oblíquo externo do abdome",
+"Músculos do membro torácico"
+],
+"e": "Longuíssimo é epaxial."
+},
+{
+"c": "locomotor",
+"q": "Por que o nervo frênico nasce no pescoço?",
+"o": [
+"O diafragma vem de miótomos cervicais que descem",
+"O diafragma vem do mesoderma do septo transverso apenas",
+"O nervo frênico é derivado da crista neural cefálica",
+"O diafragma vem dos miótomos lombares"
+],
+"e": "O músculo leva seu nervo ao migrar."
+},
+{
+"c": "locomotor",
+"q": "A musculatura da língua vem de:",
+"o": [
+"Miótomos occipitais (nervo hipoglosso)",
+"Mesênquima do 1º arco, inervado pelo trigêmeo",
+"Mesoderma esplâncnico do assoalho da faringe",
+"Crista neural do rombencéfalo caudal"
+],
+"e": "Somitos occipitais migram ao assoalho da faringe."
+},
+{
+"c": "locomotor",
+"q": "No broto do membro, a massa muscular dorsal origina principalmente:",
+"o": [
+"Os extensores",
+"Os flexores",
+"O diafragma",
+"Os músculos sublombares"
+],
+"e": "Dorsal → extensores (ex.: n. radial)."
+},
+{
+"c": "locomotor",
+"q": "Os músculos esfíncter e dilatador da pupila vêm de:",
+"o": [
+"Neuroectoderma da cúpula óptica",
+"Mesoderma esplâncnico",
+"Miótomos occipitais",
+"Mesoderma lateral somático"
+],
+"e": "Exceção ectodérmica do músculo liso."
+},
+{
+"c": "locomotor",
+"q": "Sobre o músculo cardíaco, é correto:",
+"o": [
+"Cada célula vem de um mioblasto, sem fusão",
+"Forma-se por fusão de mioblastos do miótomo",
+"Regenera bem por células satélite",
+"Vem do mesoderma paraxial cefálico"
+],
+"e": "Cardiomiócitos são mono ou binucleados."
+},
+{
+"c": "locomotor",
+"q": "A síndrome do leitão abduzido (splay leg) se deve a:",
+"o": [
+"Imaturidade miofibrilar ao nascer",
+"Fechamento precoce das fises femorais distais",
+"Ausência congênita dos dígitos II e V",
+"Infecção fetal pelo vírus Akabane no terço final"
+],
+"e": "Hipoplasia miofibrilar; recuperação com suporte."
+},
+{
+"c": "locomotor",
+"q": "Qual fator de transcrição é mestre do osteoblasto?",
+"o": [
+"Runx2",
+"Sox9",
+"Pax3",
+"MyoD"
+],
+"e": "Sox9 é da cartilagem."
+},
+{
+"c": "locomotor",
+"q": "Qual destes ossos se forma por ossificação intramembranosa?",
+"o": [
+"Parietal",
+"Fêmur",
+"Vértebra torácica",
+"Esfenoide"
+],
+"e": "Ossos chatos da calvária."
+},
+{
+"c": "locomotor",
+"q": "Na ossificação endocondral, o centro primário surge:",
+"o": [
+"Na diáfise",
+"Nas epífises",
+"Na cartilagem articular",
+"Na fise já formada"
+],
+"e": "Os secundários surgem nas epífises."
+},
+{
+"c": "locomotor",
+"q": "O colar ósseo da diáfise forma-se por:",
+"o": [
+"Ossificação intramembranosa periosteal",
+"Ossificação endocondral do centro do molde",
+"Calcificação da cartilagem articular da epífise",
+"Fusão precoce dos centros secundários"
+],
+"e": "O pericôndrio vira periósteo e deposita osso."
+},
+{
+"c": "locomotor",
+"q": "O que atrai os vasos para o centro do molde cartilaginoso?",
+"o": [
+"VEGF dos condrócitos hipertróficos",
+"FGF8 da crista apical",
+"Shh da notocorda",
+"Miostatina do músculo vizinho"
+],
+"e": "VEGF leva à invasão vascular (broto periosteal)."
+},
+{
+"c": "locomotor",
+"q": "De onde vêm os osteoclastos?",
+"o": [
+"Da linhagem de monócitos da medula",
+"Do mesênquima do pericôndrio da diáfise",
+"Dos condrócitos hipertróficos que sobrevivem",
+"Dos osteócitos aprisionados na matriz"
+],
+"e": "São células hematopoéticas multinucleadas."
+},
+{
+"c": "locomotor",
+"q": "Qual zona da placa epifisária é responsável pela maior parte do alongamento?",
+"o": [
+"Hipertrofia",
+"Reserva",
+"Ossificação",
+"Cartilagem articular"
+],
+"e": "Os condrócitos aumentam muito de volume."
+},
+{
+"c": "locomotor",
+"q": "No circuito de controle da fise, o PTHrP:",
+"o": [
+"Mantém a proliferação e adia a hipertrofia",
+"Induz a morte imediata dos condrócitos",
+"Ativa os osteoclastos da metáfise diretamente",
+"Fecha a fise na puberdade junto do estrógeno"
+],
+"e": "Circuito Ihh–PTHrP regula o ritmo da fise."
+},
+{
+"c": "locomotor",
+"q": "O fechamento das fises na puberdade é promovido principalmente por:",
+"o": [
+"Estrógeno e andrógenos",
+"Hormônio do crescimento",
+"PTHrP",
+"Miostatina"
+],
+"e": "Esteroides sexuais esgotam a proliferação."
+},
+{
+"c": "locomotor",
+"q": "Comparando ao nascer, potros e bezerros:",
+"o": [
+"Já têm quase todos os centros secundários",
+"Têm apenas as diáfises ossificadas ao nascer",
+"Ainda não apresentam centros primários",
+"Já têm todas as fises fechadas ao nascer"
+],
+"e": "São precociais."
+},
+{
+"c": "locomotor",
+"q": "Filhotes de cão e gato ao nascer:",
+"o": [
+"Diáfises ossificadas e epífises de cartilagem",
+"Têm todos os centros secundários já formados",
+"Ainda não têm cavidade medular nos ossos longos",
+"Têm as fises dos ossos longos já fechadas"
+],
+"e": "São altriciais."
+},
+{
+"c": "locomotor",
+"q": "A partir de quando o esqueleto fetal é visível no raio X da cadela?",
+"o": [
+"Cerca de 42 a 45 dias",
+"Cerca de 20 dias",
+"Cerca de 30 dias",
+"Só no dia do parto"
+],
+"e": "Antes disso, ultrassom."
+},
+{
+"c": "locomotor",
+"q": "A fise distal do rádio do equino fecha em torno de:",
+"o": [
+"2 a 3 anos",
+"6 meses",
+"10 anos",
+"1 mês"
+],
+"e": "Usada para avaliar o início do treino."
+},
+{
+"c": "locomotor",
+"q": "Na fratura de Salter-Harris tipo II, a linha atravessa:",
+"o": [
+"A fise e a metáfise",
+"Apenas a fise",
+"A fise e a epífise",
+"Fise, epífise e metáfise"
+],
+"e": "É o tipo mais comum."
+},
+{
+"c": "locomotor",
+"q": "Por que filhotes sofrem fratura fisária em vez de entorse?",
+"o": [
+"A fise é mais fraca que os ligamentos",
+"Os ligamentos do filhote ainda não têm colágeno",
+"A cartilagem articular ainda não se formou",
+"A diáfise do filhote ainda é toda cartilaginosa"
+],
+"e": "A fise é o ponto fraco do osso jovem."
+},
+{
+"c": "locomotor",
+"q": "Fechamento precoce da fise distal da ulna no cão causa:",
+"o": [
+"Rádio curvo e desvio valgo do carpo",
+"Encurtamento isolado do úmero do mesmo lado",
+"Fusão completa do rádio com a ulna distal",
+"Polidactilia do membro torácico afetado"
+],
+"e": "O rádio continua crescendo e se curva."
+},
+{
+"c": "locomotor",
+"q": "Gatos machos castrados precocemente e obesos têm risco de:",
+"o": [
+"Fratura espontânea da fise capital do fêmur",
+"Hemivértebras torácicas adquiridas na idade adulta",
+"Sindactilia adquirida dos dígitos III e IV",
+"Osteocondrose do ombro já no primeiro mês"
+],
+"e": "A castração atrasa o fechamento da fise."
+},
+{
+"c": "locomotor",
+"q": "A osteocondrose é, essencialmente:",
+"o": [
+"Falha focal da ossificação endocondral",
+"Infecção bacteriana da fise",
+"Excesso de ossificação intramembranosa",
+"Fusão congênita de vértebras"
+],
+"e": "Ligada à necrose dos canais da cartilagem."
+},
+{
+"c": "locomotor",
+"q": "A discondroplasia tibial dos frangos de corte é:",
+"o": [
+"Cartilagem não vascularizada sob a fise",
+"Fratura do tibiotarso causada por trauma",
+"Falta congênita do centro primário do fêmur",
+"Fusão das falanges do dígito III da pata"
+],
+"e": "Retenção de cartilagem hipertrófica."
+},
+{
+"c": "locomotor",
+"q": "Na articulação sinovial, a cavidade surge por:",
+"o": [
+"Cavitação da camada média da interzona",
+"Reabsorção osteoclástica das duas epífises",
+"Invasão vascular do molde de cartilagem",
+"Fusão das cartilagens articulares vizinhas"
+],
+"e": "Morte celular e ácido hialurônico."
+},
+{
+"c": "locomotor",
+"q": "Uma sínfise é uma articulação:",
+"o": [
+"Cartilaginosa, com fibrocartilagem permanente",
+"Fibrosa, do mesmo tipo que as suturas cranianas",
+"Sinovial, com menisco e cavidade articular",
+"Cartilaginosa, com cartilagem hialina temporária"
+],
+"e": "Ex.: sínfise pélvica, discos."
+},
+{
+"c": "locomotor",
+"q": "Qual sinal da interzona impede a fusão das cartilagens vizinhas?",
+"o": [
+"GDF5",
+"FGF10",
+"Miostatina",
+"Tbx4"
+],
+"e": "GDF5 e Wnt9a definem a interzona articular."
+},
+{
+"c": "locomotor",
+"q": "Por que a imobilidade fetal causa artrogripose?",
+"o": [
+"Sem movimento, a cavidade não se mantém",
+"A imobilidade impede a formação dos moldes",
+"A imobilidade bloqueia a ossificação intramembranosa",
+"A imobilidade impede a migração da crista neural"
+],
+"e": "O movimento mantém a articulação."
+},
+{
+"c": "locomotor",
+"q": "Cada vértebra é formada por:",
+"o": [
+"Metade caudal de um esclerótomo + cranial do seguinte",
+"Um esclerótomo inteiro do mesmo somito, sem divisão",
+"Dois miótomos vizinhos que se fundem e condrificam",
+"Metades craniais de dois esclerótomos vizinhos"
+],
+"e": "Ressegmentação."
+},
+{
+"c": "locomotor",
+"q": "Uma consequência da ressegmentação é que:",
+"o": [
+"Os nervos espinhais saem entre duas vértebras",
+"Os músculos ficam presos a uma única vértebra",
+"As costelas se fundem diretamente ao esterno",
+"A notocorda forma o anel fibroso do disco"
+],
+"e": "Músculos ligam duas vértebras."
+},
+{
+"c": "locomotor",
+"q": "O núcleo pulposo deriva da:",
+"o": [
+"Notocorda",
+"Crista neural",
+"Esclerótomo denso",
+"Mesoderma lateral"
+],
+"e": "O anel fibroso vem do esclerótomo."
+},
+{
+"c": "locomotor",
+"q": "O esterno se forma a partir de:",
+"o": [
+"Barras do mesoderma lateral somático",
+"Esclerótomos torácicos que migram ventralmente",
+"Notocorda ventral que se segmenta em peças",
+"Crista neural do tronco que desce à parede"
+],
+"e": "Fundem-se e segmentam em esternébras."
+},
+{
+"c": "locomotor",
+"q": "Quantas vértebras torácicas tem o equino?",
+"o": [
+"18",
+"13",
+"14",
+"7"
+],
+"e": "18 pares de costelas."
+},
+{
+"c": "locomotor",
+"q": "Qual é a fórmula cervical-torácica-lombar do cão?",
+"o": [
+"C7 T13 L7",
+"C7 T18 L6",
+"C7 T13 L6",
+"C14 T7 L7"
+],
+"e": "Bovino tem L6, equino T18."
+},
+{
+"c": "locomotor",
+"q": "Na crista ectodérmica apical, o sinal principal é:",
+"o": [
+"FGF8, para o crescimento próximo-distal",
+"Shh, para o eixo craniocaudal",
+"Wnt7a, para o eixo dorsoventral",
+"BMP, para a apoptose interdigital"
+],
+"e": "Remover a crista trunca o membro."
+},
+{
+"c": "locomotor",
+"q": "A zona de atividade polarizante situa-se na borda caudal e secreta:",
+"o": [
+"Sonic hedgehog",
+"FGF8",
+"Wnt7a",
+"Miostatina"
+],
+"e": "Define a identidade dos dígitos."
+},
+{
+"c": "locomotor",
+"q": "O fator que marca o broto do membro torácico é:",
+"o": [
+"Tbx5",
+"Tbx4",
+"Pax1",
+"Sox9"
+],
+"e": "Tbx4 marca o pélvico."
+},
+{
+"c": "locomotor",
+"q": "A separação dos dígitos ocorre por:",
+"o": [
+"Apoptose interdigital mediada por BMP",
+"Proliferação do mesênquima interdigital",
+"Fusão dos raios digitais",
+"Invasão vascular entre os raios"
+],
+"e": "Nos patos, Gremlin protege a membrana."
+},
+{
+"c": "locomotor",
+"q": "No equino, os dígitos II e IV persistem como:",
+"o": [
+"Metacarpos rudimentares (ossos de tala)",
+"Dígitos completos, mas sem casco próprio",
+"Paradígitos com três falanges e pequeno casco",
+"Ergôs com duas falanges que tocam o chão"
+],
+"e": "Só o III é funcional."
+},
+{
+"c": "locomotor",
+"q": "Os dígitos de apoio dos ruminantes são:",
+"o": [
+"III e IV",
+"II e III",
+"Somente o III",
+"IV e V"
+],
+"e": "Metacarpos III e IV fundidos no canhão."
+},
+{
+"c": "locomotor",
+"q": "Ordem de regressão dos dígitos nos ungulados:",
+"o": [
+"I, V, II e por fim IV",
+"V, IV, II e por fim I",
+"II, IV, I e por fim V",
+"I, II, V e por fim IV"
+],
+"e": "O III é o último a ficar."
+},
+{
+"c": "locomotor",
+"q": "Polidactilia pré-axial em gatos Maine Coon decorre de:",
+"o": [
+"Shh ectópico na borda cranial do broto",
+"Perda precoce da crista ectodérmica apical",
+"Excesso de apoptose no tecido interdigital",
+"Mutação inativadora do gene da miostatina"
+],
+"e": "Mutação no potencializador do Shh."
+},
+{
+"c": "locomotor",
+"q": "A sindactilia (pé de mula) do Holandês e do Angus envolve o gene:",
+"o": [
+"LRP4",
+"ACAN",
+"MSTN",
+"DVL2"
+],
+"e": "Fusão dos dígitos III e IV."
+},
+{
+"c": "locomotor",
+"q": "O bezerro buldogue do Dexter é:",
+"o": [
+"Homozigoto para mutação do agrecano",
+"Heterozigoto para mutação da miostatina",
+"Afetado pelo vírus Schmallenberg",
+"Portador de retrogene FGF4"
+],
+"e": "Heterozigotos têm pernas curtas."
+},
+{
+"c": "locomotor",
+"q": "A síndrome do cordeiro aranha decorre de:",
+"o": [
+"Perda de função do FGFR3 (ossos longos demais)",
+"Ganho de função do FGFR3, com ossos curtos",
+"Inativação da miostatina nos músculos dos membros",
+"Falta da zona de atividade polarizante no broto"
+],
+"e": "FGFR3 é freio da fise."
+},
+{
+"c": "locomotor",
+"q": "A cauda em saca-rolhas do Buldogue está associada a:",
+"o": [
+"Hemivértebras (gene DVL2)",
+"Fusão de rádio e ulna",
+"Fechamento precoce da ulna",
+"Musculatura dupla"
+],
+"e": "Pode comprimir a medula."
+},
+{
+"c": "locomotor",
+"q": "O vírus Akabane causa artrogripose principalmente por:",
+"o": [
+"Lesão de motoneurônios e músculo fetais",
+"Destruição da crista ectodérmica apical do broto",
+"Fechamento prematuro das fises dos ossos longos",
+"Mutação herdada no gene LRP4 dos dígitos"
+],
+"e": "Imobilidade fetal → contraturas."
+},
+{
+"c": "locomotor",
+"q": "A 'doença do bezerro torto' por lupinos está ligada a:",
+"o": [
+"Anagirina reduzindo os movimentos fetais",
+"Deficiência de manganês no pasto da gestante",
+"Excesso de cálcio na dieta do terço final",
+"Vírus transmitido por Culicoides na pastagem"
+],
+"e": "Janela ~40–70 dias."
+},
+{
+"c": "locomotor",
+"q": "A calvária (frontal, parietal) ossifica-se por:",
+"o": [
+"Ossificação intramembranosa",
+"Ossificação endocondral",
+"Condrificação permanente",
+"Ossificação a partir da notocorda"
+],
+"e": "A base do crânio é endocondral."
+},
+{
+"c": "locomotor",
+"q": "A maior parte dos ossos da face deriva de:",
+"o": [
+"Crista neural dos arcos faríngeos",
+"Somitos occipitais",
+"Mesoderma lateral somático",
+"Notocorda cefálica"
+],
+"e": "Detalhes no cap. 24."
+},
+{
+"c": "locomotor",
+"q": "Nas raças condrodistróficas de cães, a extrusão de disco ocorre porque:",
+"o": [
+"Células notocordais do núcleo somem cedo",
+"O anel fibroso deriva da notocorda nessas raças",
+"As vértebras dessas raças são hemivértebras",
+"Falta a ressegmentação do esclerótomo lombar"
+],
+"e": "Hansen tipo I; retrogene FGF4."
+}
+]

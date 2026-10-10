@@ -1,0 +1,706 @@
+[
+{
+"c": "urogenital",
+"q": "Qual estrutura embrionária dá origem à maior parte dos rins, gônadas e ductos genitais?",
+"o": [
+"Mesoderma intermediário",
+"Mesoderma paraxial",
+"Mesoderma lateral somático",
+"Endoderma do intestino posterior"
+],
+"e": "A crista urogenital vem do mesoderma intermediário."
+},
+{
+"c": "urogenital",
+"q": "Qual é o rim funcional do embrião nos mamíferos domésticos?",
+"o": [
+"Mesonefro",
+"Pronefro",
+"Metanefro",
+"Blastema cervical"
+],
+"e": "O pronefro é vestigial; o metanefro só funciona mais tarde."
+},
+{
+"c": "urogenital",
+"q": "Em qual grupo o mesonefro é grande e bem funcional no embrião?",
+"o": [
+"Suínos, ruminantes e equinos",
+"Cães e gatos",
+"Primatas e roedores",
+"Aves e répteis apenas"
+],
+"e": "Relaciona-se a placentas com mais camadas (epiteliocorial)."
+},
+{
+"c": "urogenital",
+"q": "O pronefro dos mamíferos domésticos:",
+"o": [
+"É vestigial e regride, deixando seu ducto",
+"É o rim definitivo dos ruminantes",
+"Forma os ductos eferentes do testículo",
+"Origina o córtex da adrenal"
+],
+"e": "Seu ducto é aproveitado pelo mesonefro."
+},
+{
+"c": "urogenital",
+"q": "O ducto mesonéfrico também é chamado de:",
+"o": [
+"Ducto de Wolff",
+"Ducto de Müller",
+"Ducto de Gartner",
+"Úraco"
+],
+"e": "Müller é o paramesonéfrico."
+},
+{
+"c": "urogenital",
+"q": "O broto uretérico origina:",
+"o": [
+"Ureter, pelve, cálices e túbulos coletores",
+"Cápsula glomerular e alça de Henle",
+"Glomérulos e arteríolas aferentes",
+"Bexiga e uretra pélvica"
+],
+"e": "O blastema forma o néfron."
+},
+{
+"c": "urogenital",
+"q": "O blastema metanéfrico origina:",
+"o": [
+"Cápsula, túbulos contorcidos e alça de Henle",
+"Ureter, pelve renal e cálices maiores e menores",
+"Ductos papilares e túbulos coletores corticais",
+"Trígono vesical e parede dorsal da bexiga"
+],
+"e": "O sistema coletor vem do broto."
+},
+{
+"c": "urogenital",
+"q": "Qual sinal do blastema faz o broto uretérico crescer?",
+"o": [
+"GDNF atuando no receptor RET",
+"Wnt9b atuando no blastema",
+"AMH atuando no AMHR2",
+"SRY atuando no SOX9"
+],
+"e": "Wnt9b é o sinal do broto para o blastema."
+},
+{
+"c": "urogenital",
+"q": "A falha no par GDNF–RET pode causar:",
+"o": [
+"Agenesia renal",
+"Ureter ectópico intramural",
+"Úraco persistente",
+"Rim policístico do Persa"
+],
+"e": "Sem o sinal, o broto não surge ou não cresce."
+},
+{
+"c": "urogenital",
+"q": "Um cão tem um só rim, hipertrofiado, achado em ultrassom. A explicação embriológica mais provável é:",
+"o": [
+"Agenesia renal unilateral",
+"Persistência do pronefro",
+"Falha do septo urorretal",
+"Regressão do ducto de Müller"
+],
+"e": "Unilateral é compatível com a vida."
+},
+{
+"c": "urogenital",
+"q": "Por que um feto com agenesia renal bilateral pode chegar ao termo?",
+"o": [
+"A placenta elimina os resíduos metabólicos",
+"O mesonefro persiste até a vida adulta",
+"O alantoide filtra o sangue fetal",
+"O fígado fetal assume a excreção de ureia"
+],
+"e": "Após o nascimento não sobrevive."
+},
+{
+"c": "urogenital",
+"q": "Qual espécie mantém no adulto o rim externamente lobado?",
+"o": [
+"Bovino",
+"Equino",
+"Cão",
+"Suíno"
+],
+"e": "O suíno tem superfície lisa, embora multipapilar."
+},
+{
+"c": "urogenital",
+"q": "O rim do suíno é:",
+"o": [
+"Liso por fora e multipapilar",
+"Lobado por fora e unipapilar",
+"Liso e unipapilar com crista",
+"Formado por renículos separados"
+],
+"e": "Fusão apenas do córtex."
+},
+{
+"c": "urogenital",
+"q": "Quantos néfrons tem, aproximadamente, cada rim do gato?",
+"o": [
+"Cerca de 200 mil",
+"Cerca de 2 milhões",
+"Cerca de 20 mil",
+"Cerca de 4 milhões"
+],
+"e": "Cão 300–500 mil; vaca 1,5–4 milhões."
+},
+{
+"c": "urogenital",
+"q": "Em que espécie a nefrogênese continua nas primeiras semanas de vida?",
+"o": [
+"Cão",
+"Bovino",
+"Equino",
+"Ovino"
+],
+"e": "Por isso o filhote é sensível a nefrotóxicos."
+},
+{
+"c": "urogenital",
+"q": "A ascensão do metanefro deve-se principalmente:",
+"o": [
+"Ao crescimento da região caudal do corpo",
+"À tração exercida pelo gubernáculo",
+"À contração do ducto de Wolff",
+"Ao fechamento do úraco"
+],
+"e": "Artérias acessórias são restos dessa migração."
+},
+{
+"c": "urogenital",
+"q": "O septo urorretal separa a cloaca em:",
+"o": [
+"Seio urogenital ventral e reto dorsal",
+"Bexiga dorsal e reto ventral",
+"Vagina e uretra",
+"Úraco e alantoide"
+],
+"e": "O septo vira o corpo do períneo."
+},
+{
+"c": "urogenital",
+"q": "O epitélio da bexiga é de origem:",
+"o": [
+"Endodérmica",
+"Mesodérmica intermediária",
+"Ectodérmica",
+"Da crista neural"
+],
+"e": "Vem do seio urogenital."
+},
+{
+"c": "urogenital",
+"q": "Do ponto de vista embriológico, o úraco é:",
+"o": [
+"Parte intraembrionária do pedículo do alantoide",
+"Um resto do ducto mesonéfrico do macho adulto",
+"O ducto do pronefro que persiste no recém-nascido",
+"A porção caudal fundida dos ductos de Müller"
+],
+"e": "Liga a bexiga ao alantoide."
+},
+{
+"c": "urogenital",
+"q": "Um potro de 2 dias goteja urina pelo umbigo ao urinar. O diagnóstico mais provável é:",
+"o": [
+"Úraco persistente",
+"Ruptura de bexiga",
+"Ureter ectópico",
+"Hipospádia"
+],
+"e": "Frequentemente associado a onfalite."
+},
+{
+"c": "urogenital",
+"q": "Ruptura de bexiga em potros é típica de:",
+"o": [
+"Machos com 24 a 72 h de vida",
+"Fêmeas no primeiro mês",
+"Potros prematuros de qualquer sexo ao nascer",
+"Machos castrados jovens"
+],
+"e": "Compressão da bexiga cheia no parto."
+},
+{
+"c": "urogenital",
+"q": "Qual alteração eletrolítica é típica do uroperitônio no potro?",
+"o": [
+"Hipercalemia com hiponatremia",
+"Hipocalemia com hipernatremia",
+"Hipercalcemia isolada",
+"Hipernatremia com hipercloremia"
+],
+"e": "Risco de arritmia."
+},
+{
+"c": "urogenital",
+"q": "Um achado que confirma uroperitônio é a creatinina do líquido peritoneal:",
+"o": [
+"Pelo menos o dobro da sérica",
+"Igual à sérica, sem diferença",
+"Cerca de metade da sérica",
+"Indetectável no líquido"
+],
+"e": "Uma razão de creatinina peritônio:soro ≥ 2:1 confirma uroperitônio."
+},
+{
+"c": "urogenital",
+"q": "Incontinência contínua desde o desmame numa cadela Husky sugere:",
+"o": [
+"Ureter ectópico",
+"Úraco persistente",
+"Rim em ferradura",
+"Agenesia renal unilateral"
+],
+"e": "Ureter desemboca além do esfíncter."
+},
+{
+"c": "urogenital",
+"q": "Por que o ureter ectópico causa menos incontinência no macho?",
+"o": [
+"Costuma abrir na uretra antes do esfíncter",
+"Os machos não têm trígono vesical",
+"O ureter do macho deriva do ducto de Müller",
+"A próstata absorve a urina extra"
+],
+"e": "Abre na uretra prostática."
+},
+{
+"c": "urogenital",
+"q": "O córtex da adrenal deriva de:",
+"o": [
+"Epitélio celômico (mesoderma)",
+"Crista neural",
+"Endoderma do intestino anterior",
+"Ectoderma superficial"
+],
+"e": "A medula vem da crista neural."
+},
+{
+"c": "urogenital",
+"q": "As células cromafins da medula adrenal são:",
+"o": [
+"Neurônios simpáticos pós-ganglionares modificados",
+"Células de Leydig deslocadas para a adrenal",
+"Restos diferenciados do córtex adrenal fetal",
+"Células remanescentes do túbulo mesonéfrico"
+],
+"e": "Liberam adrenalina e noradrenalina."
+},
+{
+"c": "urogenital",
+"q": "Nos ruminantes, o sinal que dispara o parto é:",
+"o": [
+"Aumento do cortisol adrenal fetal",
+"Queda do cortisol materno",
+"Aumento da progesterona placentária",
+"Pico de AMH fetal"
+],
+"e": "Cortisol fetal muda os esteroides placentários."
+},
+{
+"c": "urogenital",
+"q": "O cortisol fetal desencadeia o parto em ovinos porque:",
+"o": [
+"Induz enzimas da placenta que convertem progesterona em estrógeno",
+"Inibe diretamente a liberação de ocitocina pela hipófise materna",
+"Aumenta a produção de progesterona pelo corpo lúteo da ovelha",
+"Bloqueia a síntese de PGF2α no endométrio e nas carúnculas"
+],
+"e": "Estrógeno ↑ PGF2α e contratilidade."
+},
+{
+"c": "urogenital",
+"q": "Ovelhas que comem Veratrum californicum no dia 14 podem ter:",
+"o": [
+"Cordeiros ciclópicos e gestação prolongada",
+"Parto prematuro com cordeiros pequenos",
+"Freemartinismo",
+"Agenesia renal bilateral"
+],
+"e": "Sem hipófise fetal funcional, sem sinal de parto."
+},
+{
+"c": "urogenital",
+"q": "Para induzir o parto em vacas imita-se o sinal fetal com:",
+"o": [
+"Dexametasona",
+"Testosterona",
+"AMH recombinante",
+"Progesterona"
+],
+"e": "Aumenta risco de retenção de placenta."
+},
+{
+"c": "urogenital",
+"q": "Nos mamíferos, as células germinativas primordiais aparecem inicialmente:",
+"o": [
+"No saco vitelino, perto do alantoide",
+"Na crista gonadal desde a gastrulação",
+"No tubo neural, junto à crista neural",
+"No mesonefro, entre os túbulos em S"
+],
+"e": "Depois migram pelo mesentério dorsal."
+},
+{
+"c": "urogenital",
+"q": "Nas aves, as CGP chegam às gônadas:",
+"o": [
+"Pelo sangue dos vasos vitelinos",
+"Pelo mesentério dorsal, por movimento ameboide",
+"Pelo ducto de Wolff",
+"Pelo úraco"
+],
+"e": "Surgem no crescente germinativo."
+},
+{
+"c": "urogenital",
+"q": "CGP que se perdem na migração podem originar:",
+"o": [
+"Teratoma",
+"Seminoma do ducto de Müller",
+"Tumor de células de Sertoli",
+"Feocromocitoma"
+],
+"e": "Tumor com tecidos dos três folhetos."
+},
+{
+"c": "urogenital",
+"q": "O gene que inicia a formação do testículo nos mamíferos é:",
+"o": [
+"SRY, que ativa SOX9",
+"FOXL2, que ativa WNT4",
+"DMRT1, no cromossomo Z",
+"AMHR2, no cromossomo X"
+],
+"e": "SOX9 executa o programa."
+},
+{
+"c": "urogenital",
+"q": "As células de Sertoli fetais secretam:",
+"o": [
+"Hormônio antimülleriano",
+"Testosterona",
+"Di-hidrotestosterona",
+"Estrógeno"
+],
+"e": "Leydig produz testosterona."
+},
+{
+"c": "urogenital",
+"q": "A testosterona atua diretamente sobre:",
+"o": [
+"O ducto de Wolff",
+"O ducto de Müller",
+"O tubérculo genital, sem conversão",
+"A linha mamária, estimulando-a"
+],
+"e": "Genitália externa precisa de DHT."
+},
+{
+"c": "urogenital",
+"q": "A di-hidrotestosterona é necessária para formar:",
+"o": [
+"Próstata e genitália externa masculina",
+"Epidídimo e ducto deferente",
+"Ductos eferentes",
+"Túbulos seminíferos"
+],
+"e": "Formada pela 5α-redutase."
+},
+{
+"c": "urogenital",
+"q": "Os ductos de Müller originam na fêmea:",
+"o": [
+"Tuba, útero, cérvix e vagina cranial",
+"Vestíbulo e vagina caudal",
+"Epoóforo e paraóforo",
+"Ovário e ligamento próprio"
+],
+"e": "A vagina caudal vem do seio urogenital."
+},
+{
+"c": "urogenital",
+"q": "No macho, as estruturas derivadas dos túbulos mesonéfricos são:",
+"o": [
+"Ductos eferentes",
+"Túbulos seminíferos",
+"Glândulas bulbouretrais",
+"Rede testicular"
+],
+"e": "O ducto mesonéfrico forma epidídimo e deferente."
+},
+{
+"c": "urogenital",
+"q": "O útero com corpo grande e cornos curtos é típico da:",
+"o": [
+"Égua",
+"Porca",
+"Cadela",
+"Coelha"
+],
+"e": "Fusão extensa dos ductos de Müller."
+},
+{
+"c": "urogenital",
+"q": "Útero duplo, com duas cérvices, ocorre na:",
+"o": [
+"Coelha",
+"Vaca",
+"Égua",
+"Gata"
+],
+"e": "Fusão mínima dos ductos."
+},
+{
+"c": "urogenital",
+"q": "O tipo de útero depende principalmente:",
+"o": [
+"Do grau de fusão dos ductos de Müller",
+"Do número de ductos de Wolff persistentes",
+"Da quantidade de AMH na fêmea",
+"Do tamanho do mesonefro"
+],
+"e": "Mais fusão = corpo maior."
+},
+{
+"c": "urogenital",
+"q": "Nas fêmeas domésticas, as pregas urogenitais formam:",
+"o": [
+"Os lábios da vulva",
+"O clitóris",
+"O vestíbulo",
+"O escroto rudimentar"
+],
+"e": "No macho fecham a uretra peniana."
+},
+{
+"c": "urogenital",
+"q": "A hipospádia no cão resulta de:",
+"o": [
+"Fechamento incompleto das pregas urogenitais",
+"Excesso de AMH durante a vida fetal",
+"Falha da divisão da cloaca pelo septo urorretal",
+"Persistência do úraco após o nascimento"
+],
+"e": "Uretra abre ventralmente."
+},
+{
+"c": "urogenital",
+"q": "Em qual espécie os testículos chegam ao escroto antes do nascimento?",
+"o": [
+"Bovino",
+"Cão",
+"Equino, só meses após nascer",
+"Galo"
+],
+"e": "No cão é pós-natal."
+},
+{
+"c": "urogenital",
+"q": "No cão, o testículo chega ao fundo do escroto:",
+"o": [
+"Semanas após o nascimento",
+"Aos 3 meses de gestação",
+"Na puberdade, por volta de 1 ano",
+"Nunca, pois é intra-abdominal"
+],
+"e": "Cerca de 5 a 8 semanas de vida."
+},
+{
+"c": "urogenital",
+"q": "O primeiro estímulo para o crescimento do gubernáculo é:",
+"o": [
+"INSL3 das células de Leydig",
+"AMH das células de Sertoli",
+"Estrógeno placentário",
+"Cortisol fetal"
+],
+"e": "A fase inguinoescrotal depende de andrógenos."
+},
+{
+"c": "urogenital",
+"q": "Por que não se deve castrar apenas o testículo retido de um cão criptorquídico unilateral?",
+"o": [
+"O defeito é herdável e o animal continuaria reproduzindo",
+"O testículo que está no escroto também é sempre estéril",
+"O testículo escrotal se transforma em tumor logo depois",
+"A AMH residual impediria a cicatrização da ferida"
+],
+"e": "Castração bilateral."
+},
+{
+"c": "urogenital",
+"q": "O testículo criptorquídico:",
+"o": [
+"Não produz espermatozoides, mas produz testosterona",
+"Produz espermatozoides, mas não testosterona",
+"Não produz nenhum hormônio",
+"Transforma-se em ovário"
+],
+"e": "Por isso o roncolho tem libido."
+},
+{
+"c": "urogenital",
+"q": "Qual exame ajuda a diferenciar um cavalo roncolho de um castrado?",
+"o": [
+"Dosagem de AMH sérico",
+"Cariótipo de sangue",
+"Dosagem de cortisol",
+"Urinálise"
+],
+"e": "Também a prova da hCG."
+},
+{
+"c": "urogenital",
+"q": "No freemartinismo, a masculinização da bezerra ocorre porque:",
+"o": [
+"Anastomoses placentárias levam AMH e andrógenos do irmão",
+"Ela herda o cromossomo Y do pai",
+"O ovário dela produz testosterona em excesso",
+"A mãe recebeu progestágenos"
+],
+"e": "O sangue do irmão traz AMH e andrógenos; a bezerra é quimera XX/XY e cerca de 90% são estéreis."
+},
+{
+"c": "urogenital",
+"q": "Um achado clínico simples em bezerras freemartin é:",
+"o": [
+"Vagina curta à sondagem",
+"Cérvix dupla",
+"Úbere supranumerário",
+"Útero com corpo grande"
+],
+"e": "Cerca de 1/3 do normal."
+},
+{
+"c": "urogenital",
+"q": "Na persistência do ducto de Müller do Schnauzer miniatura, o defeito está:",
+"o": [
+"No receptor de AMH",
+"No gene SRY",
+"No receptor de andrógenos",
+"Na 5α-redutase"
+],
+"e": "Machos com útero."
+},
+{
+"c": "urogenital",
+"q": "Um animal XY com testículos inguinais, sem útero e com vulva tem provavelmente:",
+"o": [
+"Insensibilidade a andrógenos",
+"Persistência do ducto de Müller",
+"Freemartinismo",
+"Deficiência de AMH"
+],
+"e": "AMH funciona, andrógeno não."
+},
+{
+"c": "urogenital",
+"q": "A síndrome intersexo dos caprinos mochos (PIS) afeta:",
+"o": [
+"DDS XX sem SRY (sexo reverso)",
+"Freemartinismo por placentas fundidas",
+"Insensibilidade completa a andrógenos",
+"Monossomia do X (síndrome de Turner)"
+],
+"e": "Suínos XX formam testículo ou ovotéstis sem SRY; é hereditário e o DDS mais frequente na espécie."
+},
+{
+"c": "urogenital",
+"q": "O distúrbio do desenvolvimento sexual mais comum em suínos é:",
+"o": [
+"DDS XX sem SRY (sexo reverso)",
+"Freemartinismo",
+"Insensibilidade a andrógenos",
+"Síndrome de Turner"
+],
+"e": "Associada ao gene da pelagem branca: hímen imperfurado e falta de segmentos de vagina, cérvix ou útero."
+},
+{
+"c": "urogenital",
+"q": "A “doença da novilha branca” do Shorthorn é um exemplo de:",
+"o": [
+"Aplasia segmentar dos ductos de Müller",
+"Persistência do ducto de Wolff",
+"Freemartinismo",
+"Criptorquidismo"
+],
+"e": "Hímen imperfurado, falta de segmentos."
+},
+{
+"c": "urogenital",
+"q": "Na galinha, quais estruturas se desenvolvem?",
+"o": [
+"Só ovário e oviduto esquerdos",
+"Os dois ovários e só o oviduto direito",
+"Ovários e ovidutos dos dois lados",
+"Só ovário e oviduto direitos"
+],
+"e": "O direito fica rudimentar."
+},
+{
+"c": "urogenital",
+"q": "Nas aves, o sexo heterogamético é:",
+"o": [
+"A fêmea (ZW)",
+"O macho (ZW)",
+"A fêmea (XY)",
+"O macho (XY)"
+],
+"e": "O ovócito carrega Z ou W, então é a fêmea que define o sexo; o macho é ZZ e não há SRY nas aves."
+},
+{
+"c": "urogenital",
+"q": "A glândula mamária deriva:",
+"o": [
+"Do ectoderma da linha mamária",
+"Do mesoderma intermediário",
+"Do endoderma do seio urogenital",
+"Da crista neural"
+],
+"e": "Glândula cutânea modificada."
+},
+{
+"c": "urogenital",
+"q": "Quantos ductos (brotos primários) há em cada teta da vaca?",
+"o": [
+"Um",
+"Dois",
+"De 8 a 14",
+"Quatro"
+],
+"e": "Égua e porca têm dois."
+},
+{
+"c": "urogenital",
+"q": "Tetas supranumerárias em vacas resultam de:",
+"o": [
+"Brotos da linha mamária que não regrediram",
+"Divisão anômala do ducto de Müller na fêmea",
+"Excesso de testosterona durante a vida fetal",
+"Infecção da glândula mamária na bezerra"
+],
+"e": "São removidas cedo."
+},
+{
+"c": "urogenital",
+"q": "Em quais espécies as tetas se distribuem ao longo do tórax e do abdome?",
+"o": [
+"Porca e cadela",
+"Vaca e égua",
+"Ovelha e cabra",
+"Égua e ovelha"
+],
+"e": "Multíparas mantêm a linha."
+}
+]

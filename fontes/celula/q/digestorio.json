@@ -1,0 +1,596 @@
+[
+{
+"c": "digestorio",
+"q": "Qual artéria irriga o intestino médio?",
+"o": [
+"Mesentérica cranial",
+"Tronco celíaco",
+"Mesentérica caudal",
+"Artéria umbilical"
+],
+"e": "O intestino médio, eixo da alça primária, é irrigado pela mesentérica cranial."
+},
+{
+"c": "digestorio",
+"q": "O intestino anterior abdominal (estômago, duodeno proximal) é irrigado por qual artéria?",
+"o": [
+"Tronco celíaco",
+"Mesentérica cranial",
+"Mesentérica caudal",
+"Artéria vitelina caudal"
+],
+"e": "Celíaca → intestino anterior."
+},
+{
+"c": "digestorio",
+"q": "O cólon descendente e o reto derivam de qual segmento?",
+"o": [
+"Intestino posterior",
+"Intestino médio",
+"Intestino anterior",
+"Alantoide"
+],
+"e": "Intestino posterior, irrigado pela mesentérica caudal."
+},
+{
+"c": "digestorio",
+"q": "O ceco e o cólon ascendente derivam de qual parte do intestino primitivo?",
+"o": [
+"Ramo caudal da alça média",
+"Ramo cranial da alça média",
+"Intestino anterior",
+"Intestino posterior"
+],
+"e": "O broto cecal surge no ramo caudal da alça do intestino médio."
+},
+{
+"c": "digestorio",
+"q": "Qual folheto forma o epitélio da mucosa intestinal e os hepatócitos?",
+"o": [
+"Endoderma",
+"Mesoderma esplâncnico",
+"Ectoderma",
+"Crista neural"
+],
+"e": "O endoderma forma epitélio e parênquima glandular."
+},
+{
+"c": "digestorio",
+"q": "Os neurônios dos plexos entéricos derivam de:",
+"o": [
+"Crista neural",
+"Endoderma",
+"Mesoderma esplâncnico",
+"Septo transverso"
+],
+"e": "Crista neural vagal e sacral."
+},
+{
+"c": "digestorio",
+"q": "O mesentério ventral existe em qual região?",
+"o": [
+"Só no intestino anterior caudal",
+"Ao longo de todo o tubo",
+"Só no intestino médio",
+"Só no intestino posterior"
+],
+"e": "Ele deriva do septo transverso e só existe no esôfago terminal, estômago e duodeno proximal."
+},
+{
+"c": "digestorio",
+"q": "O omento maior deriva de:",
+"o": [
+"Mesogástrio dorsal",
+"Mesogástrio ventral",
+"Septo transverso",
+"Mesocólon"
+],
+"e": "O omento menor é que vem do ventral."
+},
+{
+"c": "digestorio",
+"q": "O omento menor deriva de:",
+"o": [
+"Mesogástrio ventral",
+"Mesogástrio dorsal",
+"Mesoduodeno",
+"Membrana pleuroperitoneal"
+],
+"e": "Hepatogástrico e hepatoduodenal = mesogástrio ventral."
+},
+{
+"c": "digestorio",
+"q": "O ligamento redondo do fígado é remanescente de qual vaso?",
+"o": [
+"Veia umbilical",
+"Ducto venoso",
+"Artéria umbilical",
+"Veia vitelina esquerda"
+],
+"e": "Fica na borda livre do ligamento falciforme."
+},
+{
+"c": "digestorio",
+"q": "Origem embrionária do baço:",
+"o": [
+"Mesênquima do mesogástrio dorsal",
+"Broto endodérmico do duodeno",
+"Mesogástrio ventral",
+"Endoderma do estômago"
+],
+"e": "O baço é mesodérmico, não derivado do intestino."
+},
+{
+"c": "digestorio",
+"q": "Na 1ª rotação do estômago (90°, eixo longitudinal), a curvatura maior vai para:",
+"o": [
+"A esquerda",
+"A direita",
+"Ventral",
+"Cranial"
+],
+"e": "A curvatura maior, antes dorsal, fica à esquerda; o fígado vai à direita."
+},
+{
+"c": "digestorio",
+"q": "Por que o vago esquerdo fica na face ventral do estômago?",
+"o": [
+"A face esquerda virou ventral na rotação",
+"O vago esquerdo cruza a aorta",
+"O fígado empurra o vago",
+"O esôfago gira 180°"
+],
+"e": "A rotação longitudinal leva a face esquerda para ventral."
+},
+{
+"c": "digestorio",
+"q": "A 2ª rotação do estômago, no eixo dorsoventral, leva o piloro para:",
+"o": [
+"Direita e cranial",
+"Esquerda e caudal",
+"Dorsal e caudal",
+"Ventral e esquerda"
+],
+"e": "Por isso o duodeno começa perto do fígado, à direita."
+},
+{
+"c": "digestorio",
+"q": "A bolsa omental comunica-se com a cavidade peritoneal pelo:",
+"o": [
+"Forame omental",
+"Hiato esofágico",
+"Anel umbilical",
+"Canal inguinal"
+],
+"e": "O forame omental (epiploico) fica dorsal ao ligamento hepatoduodenal."
+},
+{
+"c": "digestorio",
+"q": "Do fuso gástrico, qual região forma o omaso?",
+"o": [
+"Curvatura menor",
+"Fundo",
+"Curvatura maior",
+"Parte pilórica"
+],
+"e": "Rúmen e retículo: fundo/curvatura maior; abomaso: pilórica."
+},
+{
+"c": "digestorio",
+"q": "O abomaso deriva de:",
+"o": [
+"Parte pilórica",
+"Fundo",
+"Curvatura maior cranial",
+"Esôfago terminal"
+],
+"e": "O abomaso equivale ao estômago glandular simples."
+},
+{
+"c": "digestorio",
+"q": "Ao nascer, o maior compartimento do estômago do bezerro é o:",
+"o": [
+"Abomaso",
+"Rúmen",
+"Retículo",
+"Omaso"
+],
+"e": "Cerca de 60% da capacidade ao nascer."
+},
+{
+"c": "digestorio",
+"q": "No bovino adulto, o rúmen representa aproximadamente:",
+"o": [
+"80% da capacidade",
+"30% da capacidade",
+"50% da capacidade",
+"8% da capacidade"
+],
+"e": "Adulto: rúmen ~80%, abomaso ~8%."
+},
+{
+"c": "digestorio",
+"q": "O principal estímulo químico para o crescimento das papilas ruminais é:",
+"o": [
+"Butirato",
+"Lactose",
+"Caseína",
+"Ácido clorídrico"
+],
+"e": "AGVs, sobretudo butirato, da fermentação de alimento sólido."
+},
+{
+"c": "digestorio",
+"q": "Bezerro mantido só com leite até 12 semanas terá:",
+"o": [
+"Rúmen pequeno e papilas curtas",
+"Rúmen de adulto",
+"Abomaso atrofiado",
+"Omaso maior que rúmen"
+],
+"e": "O desenvolvimento depende da dieta sólida."
+},
+{
+"c": "digestorio",
+"q": "Qual compartimento tem mucosa glandular?",
+"o": [
+"Abomaso",
+"Rúmen",
+"Retículo",
+"Omaso"
+],
+"e": "Os três pré-estômagos têm epitélio estratificado aglandular."
+},
+{
+"c": "digestorio",
+"q": "A goteira esofágica conduz o leite da cárdia até:",
+"o": [
+"Orifício retículo-omasal",
+"Saco dorsal do rúmen",
+"Piloro diretamente",
+"Átrio ruminal"
+],
+"e": "Do omaso o leite segue ao abomaso."
+},
+{
+"c": "digestorio",
+"q": "Qual substância induz o fechamento da goteira esofágica em ovinos?",
+"o": [
+"Sulfato de cobre",
+"Cloreto de potássio",
+"Glicose",
+"Ureia"
+],
+"e": "Também o bicarbonato de sódio; usado para levar fármacos ao abomaso."
+},
+{
+"c": "digestorio",
+"q": "Bezerro com timpanismo recorrente e acidose após leite em balde sugere:",
+"o": [
+"Falha da goteira esofágica",
+"Atresia de cólon",
+"Estenose pilórica",
+"Megaesôfago"
+],
+"e": "O leite cai no rúmen e fermenta: bebedor ruminal."
+},
+{
+"c": "digestorio",
+"q": "Qual estrutura das aves é um divertículo do esôfago?",
+"o": [
+"Papo",
+"Proventrículo",
+"Moela",
+"Ceco"
+],
+"e": "O papo (inglúvio) armazena alimento."
+},
+{
+"c": "digestorio",
+"q": "A cutícula de coilina reveste:",
+"o": [
+"A moela",
+"O proventrículo",
+"O papo",
+"O coprodeu"
+],
+"e": "Secretada pelas glândulas da moela."
+},
+{
+"c": "digestorio",
+"q": "O estômago glandular das aves que secreta HCl é o:",
+"o": [
+"Proventrículo",
+"Moela",
+"Papo",
+"Ceco"
+],
+"e": "A moela é muscular, de trituração."
+},
+{
+"c": "digestorio",
+"q": "Qual espécie NÃO tem vesícula biliar?",
+"o": [
+"Equino",
+"Bovino",
+"Cão",
+"Suíno"
+],
+"e": "Também faltam em cervos, camelídeos, rato e pombo."
+},
+{
+"c": "digestorio",
+"q": "O divertículo hepático cresce para dentro do:",
+"o": [
+"Septo transverso",
+"Mesogástrio dorsal",
+"Mesocólon",
+"Cordão umbilical"
+],
+"e": "No septo transverso os cordões se entremeiam às veias vitelinas."
+},
+{
+"c": "digestorio",
+"q": "Qual a sequência da hematopoese pré-natal?",
+"o": [
+"Saco vitelino, fígado, baço, medula",
+"Fígado, saco vitelino, medula, baço",
+"Medula, baço, fígado, saco vitelino",
+"Baço, saco vitelino, fígado, medula"
+],
+"e": "O fígado é o principal órgão hematopoético fetal."
+},
+{
+"c": "digestorio",
+"q": "Shunt portossistêmico intra-hepático em cão grande geralmente é:",
+"o": [
+"Ducto venoso persistente",
+"Veia umbilical persistente",
+"Ducto vitelino pérvio",
+"Artéria hepática aberrante"
+],
+"e": "Raças pequenas tendem a desvios extra-hepáticos."
+},
+{
+"c": "digestorio",
+"q": "Urólitos típicos de cães com shunt portossistêmico:",
+"o": [
+"Biurato de amônio",
+"Oxalato de cálcio",
+"Cistina",
+"Estruvita estéril"
+],
+"e": "Por hiperamonemia e hiperuricosúria."
+},
+{
+"c": "digestorio",
+"q": "O ducto pancreático acessório deriva do:",
+"o": [
+"Broto dorsal",
+"Broto ventral",
+"Divertículo hepático",
+"Broto cístico"
+],
+"e": "Abre-se na papila menor."
+},
+{
+"c": "digestorio",
+"q": "Em qual espécie só persiste o ducto pancreático acessório?",
+"o": [
+"Bovino",
+"Ovino",
+"Gato",
+"Equino"
+],
+"e": "Bovino e suíno: só acessório."
+},
+{
+"c": "digestorio",
+"q": "Em ovinos e caprinos, o pâncreas drena por:",
+"o": [
+"Ducto principal unido ao colédoco",
+"Ducto acessório isolado",
+"Dois ductos separados",
+"Ducto que abre no estômago"
+],
+"e": "Só o ducto ventral persiste."
+},
+{
+"c": "digestorio",
+"q": "A 'triadite' felina se relaciona a qual particularidade?",
+"o": [
+"Pâncreas unido ao colédoco",
+"Ausência de vesícula biliar",
+"Só o ducto acessório",
+"Pâncreas anular congênito"
+],
+"e": "Inflamação passa entre vias biliares e pancreáticas."
+},
+{
+"c": "digestorio",
+"q": "Durante a herniação fisiológica, o intestino médio fica:",
+"o": [
+"No celoma do cordão umbilical",
+"No saco vitelino",
+"Na cavidade amniótica livre",
+"No alantoide"
+],
+"e": "Transitoriamente, até o início do período fetal."
+},
+{
+"c": "digestorio",
+"q": "Rotação total da alça do intestino médio:",
+"o": [
+"270° anti-horário em vista ventral",
+"180° horário em vista ventral",
+"90° anti-horário em vista caudal",
+"360° horário em vista dorsal"
+],
+"e": "90° no cordão e 180° no retorno."
+},
+{
+"c": "digestorio",
+"q": "Após a rotação, o cólon transverso passa:",
+"o": [
+"Cranial à artéria mesentérica cranial",
+"Caudal à artéria mesentérica cranial",
+"Dorsal à aorta",
+"Entre fígado e estômago"
+],
+"e": "O duodeno passa caudal à artéria."
+},
+{
+"c": "digestorio",
+"q": "Ao retornar ao abdome, qual parte entra por último?",
+"o": [
+"Ceco e cólon",
+"Jejuno proximal",
+"Duodeno",
+"Íleo proximal"
+],
+"e": "O intestino delgado retorna primeiro."
+},
+{
+"c": "digestorio",
+"q": "O cólon espiral em cone é característico do:",
+"o": [
+"Suíno",
+"Bovino",
+"Equino",
+"Cão"
+],
+"e": "No ruminante a espiral é em disco plano."
+},
+{
+"c": "digestorio",
+"q": "A flexura pélvica, local típico de compactação, pertence a:",
+"o": [
+"Cólon maior do equino",
+"Cólon espiral bovino",
+"Ceco do suíno",
+"Cólon menor do equino"
+],
+"e": "Ali o diâmetro diminui bruscamente."
+},
+{
+"c": "digestorio",
+"q": "O divertículo de Meckel é remanescente do:",
+"o": [
+"Ducto vitelino",
+"Úraco",
+"Ducto venoso",
+"Septo urorretal"
+],
+"e": "Na borda antimesentérica do íleo."
+},
+{
+"c": "digestorio",
+"q": "A faixa mesodiverticular do equino corresponde a:",
+"o": [
+"Artéria vitelina persistente",
+"Veia umbilical",
+"Ducto colédoco",
+"Ligamento falciforme"
+],
+"e": "Pode causar encarceramento (hérnia interna)."
+},
+{
+"c": "digestorio",
+"q": "O septo urorretal separa a cloaca em:",
+"o": [
+"Reto e seio urogenital",
+"Coprodeu e urodeu",
+"Bexiga e úraco",
+"Ânus e alantoide"
+],
+"e": "Seu tecido superficial forma o corpo do períneo."
+},
+{
+"c": "digestorio",
+"q": "A bolsa cloacal (de Fabrício) das aves fica no:",
+"o": [
+"Proctodeu",
+"Coprodeu",
+"Urodeu",
+"Proventrículo"
+],
+"e": "Órgão linfoide primário dos linfócitos B."
+},
+{
+"c": "digestorio",
+"q": "A síndrome do Overo letal resulta de mutação em:",
+"o": [
+"EDNRB",
+"KIT",
+"SRY",
+"PAX3 de bovinos"
+],
+"e": "Aganglionose e falta de melanócitos."
+},
+{
+"c": "digestorio",
+"q": "Atresia de cólon em bezerros Holandês foi associada a:",
+"o": [
+"Palpação precoce da vesícula amniótica",
+"Deficiência de selênio",
+"Infecção por BVDV no 7º mês",
+"Excesso de cobre"
+],
+"e": "Lesão isquêmica da alça herniada; há também componente genético."
+},
+{
+"c": "digestorio",
+"q": "Leitoa com atresia anal que sobrevive provavelmente tem:",
+"o": [
+"Fístula retovaginal",
+"Megacólon congênito",
+"Onfalocele persistente",
+"Estenose pilórica"
+],
+"e": "O reto drena pela vagina."
+},
+{
+"c": "digestorio",
+"q": "Vômito em jato após desmame em filhote de Boxer sugere:",
+"o": [
+"Estenose pilórica",
+"Atresia anal",
+"Divertículo de Meckel",
+"Shunt portossistêmico"
+],
+"e": "Hipertrofia congênita do piloro."
+},
+{
+"c": "digestorio",
+"q": "Vísceras no cordão cobertas só por âmnio caracterizam:",
+"o": [
+"Onfalocele",
+"Hérnia umbilical",
+"Gastrosquise",
+"Hérnia inguinal"
+],
+"e": "Falha do retorno da herniação fisiológica."
+},
+{
+"c": "digestorio",
+"q": "Por que o megaesôfago acompanha a miastenia grave no cão?",
+"o": [
+"O esôfago canino é todo estriado",
+"Falta de serosa esofágica",
+"Persistência do arco aórtico",
+"Ausência de plexo mioentérico"
+],
+"e": "Em equinos e gatos a porção caudal é lisa."
+},
+{
+"c": "digestorio",
+"q": "Qual NÃO deriva do intestino anterior?",
+"o": [
+"Ceco",
+"Fígado",
+"Pâncreas",
+"Esôfago"
+],
+"e": "O ceco vem do intestino médio."
+}
+]

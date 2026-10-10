@@ -1,0 +1,2 @@
+.dig-range{display:flex;flex-direction:column;gap:4px;width:100%;font-family:var(--f-display)}
+.dig-range input[type=range]{width:100%;accent-color:var(--hema)}

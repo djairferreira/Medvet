@@ -1,0 +1,9 @@
+#faringe .faleg{display:flex;flex-wrap:wrap;gap:6px 16px;margin:0 0 8px;font-size:.9rem;color:var(--muted)}
+#faringe .faleg span{display:inline-flex;align-items:center;gap:6px}
+#faringe .faleg span::before{content:"";width:14px;height:14px;border-radius:4px;border:2px solid}
+#faringe .faleg .fa-c::before{background:var(--sky-soft);border-color:var(--sky)}
+#faringe .faleg .fa-n::before{background:var(--amber);border-color:var(--amber);border-radius:50%}
+#faringe .faleg .fa-a::before{background:var(--bad-soft);border-color:var(--bad);border-radius:50%}
+#faringe .faleg .fa-e::before{background:var(--ok-soft);border-color:var(--ok)}
+#faringe #faSvg [data-k]{cursor:pointer}
+#faringe .fa-row{display:block;margin-top:3px}

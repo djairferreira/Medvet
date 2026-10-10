@@ -1,0 +1,596 @@
+[
+{
+"c": "cardiovascular",
+"q": "Onde surgem as primeiras células sanguíneas e vasos do embrião de mamífero?",
+"o": [
+"Nas ilhotas sanguíneas do mesoderma do saco vitelino",
+"Na medula óssea dos ossos longos em ossificação",
+"No mesênquima do fígado após a regressão do saco vitelino",
+"No endotélio das veias umbilicais dentro do cordão"
+],
+"e": "O período mesoblástico ocorre nas ilhotas sanguíneas do mesoderma esplâncnico do saco vitelino."
+},
+{
+"c": "cardiovascular",
+"q": "Nas ilhotas sanguíneas, as células periféricas originam:",
+"o": [
+"Angioblastos, que formam o endotélio",
+"Hemocitoblastos, que formam as hemácias",
+"Pericitos, que formam a túnica média",
+"Miocardiócitos do tubo cardíaco primitivo"
+],
+"e": "As centrais viram hemocitoblastos; as periféricas se achatam em angioblastos (endotélio)."
+},
+{
+"c": "cardiovascular",
+"q": "Qual a sequência correta dos locais de hematopoese no desenvolvimento?",
+"o": [
+"Saco vitelino → fígado e baço → medula óssea",
+"Fígado → saco vitelino → medula óssea",
+"Medula óssea → fígado e baço → saco vitelino",
+"Baço → medula óssea → fígado e timo"
+],
+"e": "Períodos mesoblástico, hepatoesplênico e medular-linfoide."
+},
+{
+"c": "cardiovascular",
+"q": "A formação de vasos novos a partir de angioblastos, onde não havia vaso, chama-se:",
+"o": [
+"Vasculogênese",
+"Angiogênese por brotamento",
+"Arteriogênese colateral",
+"Linfangiogênese venosa"
+],
+"e": "Vasculogênese é de novo; angiogênese é brotamento de vasos preexistentes."
+},
+{
+"c": "cardiovascular",
+"q": "Qual fator de crescimento é central para a diferenciação dos angioblastos?",
+"o": [
+"VEGF, via receptor VEGFR-2",
+"Interferon-tau do trofoblasto",
+"Hormônio antimülleriano",
+"Sonic hedgehog da notocorda"
+],
+"e": "O VEGF atua no VEGFR-2 dos angioblastos na vasculogênese e angiogênese."
+},
+{
+"c": "cardiovascular",
+"q": "Qual característica das hemácias maduras distingue aves de mamíferos?",
+"o": [
+"Nas aves as hemácias maduras mantêm o núcleo",
+"Nas aves as hemácias não têm hemoglobina",
+"Nos mamíferos as hemácias definitivas têm núcleo",
+"Nas aves só há hemácias produzidas no fígado"
+],
+"e": "Eritrócitos de aves são nucleados por toda a vida."
+},
+{
+"c": "cardiovascular",
+"q": "O coração se origina de qual tecido embrionário?",
+"o": [
+"Mesoderma esplâncnico cardiogênico",
+"Ectoderma superficial da região cervical",
+"Endoderma ventral do intestino anterior",
+"Mesoderma paraxial dos somitos occipitais"
+],
+"e": "As placas cardiogênicas são de mesoderma esplâncnico (visceral)."
+},
+{
+"c": "cardiovascular",
+"q": "Inicialmente o campo cardiogênico fica em que posição?",
+"o": [
+"Cranial à placa neural e à membrana bucofaríngea",
+"Caudal ao nó primitivo, junto à cloaca",
+"Dorsal ao tubo neural, entre os somitos",
+"Dentro do pedículo do alantoide"
+],
+"e": "O dobramento cefálico gira o primórdio para ventral e o leva ao tórax."
+},
+{
+"c": "cardiovascular",
+"q": "Do tubo endocárdico, o endotélio forma qual camada do coração?",
+"o": [
+"Endocárdio",
+"Miocárdio",
+"Epicárdio",
+"Pericárdio parietal"
+],
+"e": "O endotélio vira endocárdio; o mesoderma em volta, miocárdio; o pró-epicárdio forma o epicárdio."
+},
+{
+"c": "cardiovascular",
+"q": "Qual a ordem das dilatações do tubo cardíaco no sentido do sangue?",
+"o": [
+"Seio venoso, átrio, ventrículo, bulbo, tronco arterioso",
+"Tronco arterioso, bulbo, ventrículo, átrio, seio venoso",
+"Átrio, seio venoso, bulbo, ventrículo, tronco arterioso",
+"Seio venoso, ventrículo, átrio, tronco arterioso, bulbo"
+],
+"e": "O sangue entra caudalmente no seio venoso e sai cranialmente pelo tronco arterioso."
+},
+{
+"c": "cardiovascular",
+"q": "O corno esquerdo do seio venoso origina no adulto:",
+"o": [
+"O seio coronário",
+"A veia cava cranial",
+"A aurícula esquerda",
+"As veias pulmonares"
+],
+"e": "Perdendo suas veias, o corno esquerdo se reduz ao seio coronário."
+},
+{
+"c": "cardiovascular",
+"q": "O bulbo cardíaco forma principalmente:",
+"o": [
+"Parte trabeculada do VD e vias de saída",
+"A maior parte do ventrículo esquerdo adulto",
+"A parte lisa do átrio direito e o seio",
+"O nó sinoatrial e o seio coronário"
+],
+"e": "O ventrículo primitivo forma o VE; o bulbo, o VD trabeculado e as vias de saída."
+},
+{
+"c": "cardiovascular",
+"q": "Segundo estudos recentes, o sistema de condução cardíaco deriva de:",
+"o": [
+"Miócitos especializados do miocárdio",
+"Células migrantes da crista neural cardíaca",
+"Neuroblastos dos gânglios simpáticos",
+"Células do pró-epicárdio junto ao seio"
+],
+"e": "O coração já bate e tem ECG antes da chegada da crista neural."
+},
+{
+"c": "cardiovascular",
+"q": "A alça cardíaca é responsável por:",
+"o": [
+"Dar ao coração base e ápice ao dobrar o tubo",
+"Separar o sangue arterial do venoso nos átrios",
+"Fundir os dois tubos endocárdicos na linha média",
+"Formar as valvas semilunares da saída"
+],
+"e": "O dobramento do tubo dá a morfologia com base e ápice."
+},
+{
+"c": "cardiovascular",
+"q": "Os coxins endocárdicos dividem o canal atrioventricular e originam:",
+"o": [
+"As valvas atrioventriculares",
+"As valvas semilunares aórtica e pulmonar",
+"O septo secundo e o forame oval",
+"O ducto arterioso e o ligamento"
+],
+"e": "Mitral e tricúspide vêm dos coxins AV; as semilunares, das cristas bulbares."
+},
+{
+"c": "cardiovascular",
+"q": "O óstio secundo surge:",
+"o": [
+"Por morte celular na parte cranial do septo primo",
+"Pela falta de crescimento do septo secundo",
+"Pela fusão dos coxins dorsal e ventral",
+"Entre o septo interventricular e os coxins"
+],
+"e": "Pequenas perfurações apoptóticas confluem no septo primo antes de o óstio primo fechar."
+},
+{
+"c": "cardiovascular",
+"q": "O forame oval é delimitado pela borda livre de qual estrutura?",
+"o": [
+"Septo secundo",
+"Septo primo",
+"Septo interventricular",
+"Septo aorticopulmonar"
+],
+"e": "O septo secundo, grosso e incompleto, deixa o forame oval voltado para a cava caudal."
+},
+{
+"c": "cardiovascular",
+"q": "Por que o forame oval se fecha funcionalmente ao nascer?",
+"o": [
+"A pressão no átrio esquerdo supera a do direito",
+"O ducto arterioso libera prostaglandina no átrio",
+"O septo secundo cresce rapidamente após o parto",
+"A veia cava cranial passa a desaguar no átrio esquerdo"
+],
+"e": "O retorno pulmonar eleva a pressão do AE e empurra o septo primo contra o secundo."
+},
+{
+"c": "cardiovascular",
+"q": "A parte membranosa do septo interventricular vem de:",
+"o": [
+"Tecido do coxim endocárdico e das cristas do bulbo",
+"Proliferação muscular do ápice do coração",
+"Septo primo que desce até os ventrículos",
+"Parede do seio venoso incorporada"
+],
+"e": "Ela fecha o forame interventricular unindo coxim, septo muscular e septo aorticopulmonar."
+},
+{
+"c": "cardiovascular",
+"q": "Em que dia aproximado de gestação o forame interventricular se fecha no cão?",
+"o": [
+"Dia 32",
+"Dia 12",
+"Dia 50",
+"Dia 63"
+],
+"e": "Segundo a fonte, por volta de 32 dias de gestação no cão."
+},
+{
+"c": "cardiovascular",
+"q": "Células de qual origem participam das cristas bulbares e troncais?",
+"o": [
+"Crista neural cardíaca",
+"Mesoderma intermediário",
+"Endoderma faríngeo",
+"Mesoderma somático da parede"
+],
+"e": "A crista neural cardíaca é essencial ao septo aorticopulmonar."
+},
+{
+"c": "cardiovascular",
+"q": "Por que o tronco pulmonar se enrola em volta da aorta?",
+"o": [
+"O septo aorticopulmonar cresce em espiral",
+"O ducto arterioso puxa o tronco para a esquerda",
+"A alça cardíaca gira apenas o ventrículo direito",
+"A aorta dorsal direita regride antes"
+],
+"e": "O septo espiral gira cerca de 180°, enrolando os dois troncos."
+},
+{
+"c": "cardiovascular",
+"q": "As cordas tendíneas e os músculos papilares se formam por:",
+"o": [
+"Escavação do miocárdio sob as cúspides",
+"Crescimento do septo secundo para baixo",
+"Fusão das cristas troncais e bulbares",
+"Diferenciação do epicárdio ventricular"
+],
+"e": "Remodelação com morte celular deixa faixas musculares e tendíneas."
+},
+{
+"c": "cardiovascular",
+"q": "Em mamíferos, o arco da aorta deriva de qual arco aórtico?",
+"o": [
+"4º esquerdo",
+"4º direito",
+"3º esquerdo",
+"6º esquerdo"
+],
+"e": "Nas aves é o 4º direito."
+},
+{
+"c": "cardiovascular",
+"q": "Nas aves, o arco da aorta deriva do:",
+"o": [
+"4º arco direito",
+"4º arco esquerdo",
+"6º arco direito",
+"3º arco direito"
+],
+"e": "Aves têm aorta à direita; mamíferos, à esquerda."
+},
+{
+"c": "cardiovascular",
+"q": "As artérias carótidas comuns derivam de qual par de arcos aórticos?",
+"o": [
+"3º par",
+"1º par",
+"2º par",
+"6º par"
+],
+"e": "3 = carótidas, 4 = aorta, 6 = pulmonares."
+},
+{
+"c": "cardiovascular",
+"q": "O ducto arterioso corresponde a qual parte de qual arco?",
+"o": [
+"Parte distal do 6º arco esquerdo",
+"Parte proximal do 4º arco direito",
+"Parte distal do 3º arco esquerdo",
+"Parte proximal do 6º arco direito"
+],
+"e": "A parte proximal do 6º forma a artéria pulmonar; a distal esquerda, o ducto."
+},
+{
+"c": "cardiovascular",
+"q": "Qual afirmação sobre os ductos arteriosos das aves está correta?",
+"o": [
+"Há dois, que fecham após a eclosão",
+"Não existem, pois não há pulmão no ovo",
+"Há um só, do lado direito, permanente",
+"Há dois, que formam as carótidas"
+],
+"e": "Os dois 6º arcos mantêm a parte distal nas aves."
+},
+{
+"c": "cardiovascular",
+"q": "Por que a hemiplegia laríngea do cavalo afeta quase sempre o lado esquerdo?",
+"o": [
+"O nervo esquerdo contorna o arco aórtico e é mais longo",
+"O nervo esquerdo contorna a subclávia e é mais curto",
+"Só existe nervo laríngeo recorrente do lado esquerdo",
+"O 5º arco aórtico esquerdo comprime o nervo no tórax"
+],
+"e": "O ducto arterioso persistente prende o nervo esquerdo em volta da aorta, alongando o axônio."
+},
+{
+"c": "cardiovascular",
+"q": "A parte proximal da subclávia direita em mamíferos vem de:",
+"o": [
+"4º arco aórtico direito",
+"4º arco aórtico esquerdo",
+"3º arco aórtico direito",
+"6º arco aórtico direito"
+],
+"e": "O 4º direito forma o início da subclávia direita."
+},
+{
+"c": "cardiovascular",
+"q": "As artérias vitelinas originam no adulto:",
+"o": [
+"Tronco celíaco e mesentéricas",
+"Artérias ilíacas internas e umbilicais",
+"Artérias renais, adrenais e gonadais",
+"Artérias intercostais e lombares"
+],
+"e": "Ramos ventrais ímpares derivam das vitelinas."
+},
+{
+"c": "cardiovascular",
+"q": "A veia porta deriva principalmente de:",
+"o": [
+"Veias vitelinas",
+"Veias umbilicais",
+"Veias subcardinais",
+"Veias supracardinais"
+],
+"e": "As vitelinas formam sinusoides, porta, mesentéricas e o segmento hepático da cava caudal."
+},
+{
+"c": "cardiovascular",
+"q": "Em quais espécies o ducto venoso regride cedo na gestação?",
+"o": [
+"Equino e suíno",
+"Bovino e ovino",
+"Cão e gato",
+"Caprino e cão"
+],
+"e": "Em ruminantes e carnívoros ele funciona até o parto."
+},
+{
+"c": "cardiovascular",
+"q": "Nos carnívoros e ruminantes, as duas veias umbilicais:",
+"o": [
+"Seguem separadas e se unem perto do corpo",
+"Fundem-se logo no início do cordão umbilical",
+"Persistem as duas, entrando juntas no fígado",
+"Desaparecem e a placenta drena pela cava"
+],
+"e": "No equino e suíno, há uma única veia ao longo do cordão."
+},
+{
+"c": "cardiovascular",
+"q": "A veia ázigos esquerda é típica de quais espécies?",
+"o": [
+"Suínos e ruminantes",
+"Equinos e cães",
+"Gatos e equinos",
+"Cães e galinhas"
+],
+"e": "Ázigos direita em equinos e carnívoros; esquerda em suínos e ruminantes."
+},
+{
+"c": "cardiovascular",
+"q": "O segmento renal da veia cava caudal deriva de:",
+"o": [
+"Veia subcardinal direita",
+"Veia supracardinal esquerda",
+"Veia vitelina esquerda",
+"Veia umbilical direita"
+],
+"e": "As subcardinais drenam o mesonefro; a direita persiste."
+},
+{
+"c": "cardiovascular",
+"q": "No feto, o sangue mais oxigenado chega preferencialmente a:",
+"o": [
+"Coração e encéfalo, via aorta ascendente",
+"Pulmões, pelo tronco pulmonar e seus ramos",
+"Membros pélvicos, pela aorta descendente",
+"Fígado, pela artéria hepática própria"
+],
+"e": "A crista dividens dirige o sangue da cava caudal pelo forame oval ao lado esquerdo."
+},
+{
+"c": "cardiovascular",
+"q": "Por que quase todo o sangue do tronco pulmonar fetal vai à aorta?",
+"o": [
+"Resistência vascular pulmonar muito alta",
+"A pressão na aorta fetal é maior que na pulmonar",
+"O ducto arterioso tem uma valva unidirecional",
+"O ventrículo direito fetal quase não se contrai"
+],
+"e": "Pulmões colapsados e arteríolas contraídas desviam o fluxo pelo ducto."
+},
+{
+"c": "cardiovascular",
+"q": "Qual NÃO contribui para o fechamento do ducto arterioso ao nascer?",
+"o": [
+"Aumento da prostaglandina E2 circulante",
+"Aumento da pressão de O2 no sangue",
+"Perda da placenta como fonte de PGE2",
+"Músculo liso espesso na parede do ducto"
+],
+"e": "A PGE2 mantém o ducto aberto; ela cai ao nascer."
+},
+{
+"c": "cardiovascular",
+"q": "O remanescente adulto da veia umbilical é:",
+"o": [
+"Ligamento redondo do fígado",
+"Ligamento venoso",
+"Ligamento redondo da bexiga",
+"Ligamento arterioso"
+],
+"e": "Ducto venoso → ligamento venoso; artérias umbilicais → ligamentos redondos da bexiga."
+},
+{
+"c": "cardiovascular",
+"q": "Os ligamentos redondos da bexiga são restos de:",
+"o": [
+"Artérias umbilicais",
+"Veia umbilical esquerda",
+"Ducto venoso de Arâncio",
+"Úraco do alantoide"
+],
+"e": "Ficam nas pregas laterais da bexiga."
+},
+{
+"c": "cardiovascular",
+"q": "Potro de 2 dias com sopro contínuo na base esquerda, saudável. Conduta mais adequada?",
+"o": [
+"Reavaliar em dias: pode ser normal",
+"Cirurgia imediata para ligar o ducto",
+"Diagnosticar tetralogia de Fallot já",
+"Dar anti-inflamatório para fechar o ducto"
+],
+"e": "O ducto pode levar 2 a 4 dias para fechar em potros e bezerros."
+},
+{
+"c": "cardiovascular",
+"q": "Fêmea de Poodle, 8 semanas, sopro contínuo na axila esquerda e pulso saltitante. Diagnóstico provável?",
+"o": [
+"Ducto arterioso persistente",
+"Estenose subaórtica",
+"Tetralogia de Fallot",
+"Forame oval patente"
+],
+"e": "Sopro contínuo em maquinaria e pulso em martelo d'água sugerem PDA."
+},
+{
+"c": "cardiovascular",
+"q": "Cão com PDA reverso apresenta tipicamente:",
+"o": [
+"Cianose caudal com mucosa oral rosada",
+"Sopro contínuo intenso e pulso saltitante",
+"Cianose apenas da língua e da mucosa oral",
+"Regurgitação de sólidos após o desmame"
+],
+"e": "O sangue venoso entra na aorta após os vasos da cabeça: cianose diferencial."
+},
+{
+"c": "cardiovascular",
+"q": "Filhote de Pastor Alemão regurgita sólidos após o desmame; esôfago dilatado só cranial ao coração. Causa?",
+"o": [
+"Arco aórtico direito persistente",
+"Ducto arterioso persistente",
+"Estenose pulmonar",
+"Desvio portossistêmico"
+],
+"e": "O anel vascular (aorta direita + ligamento arterioso) prende o esôfago."
+},
+{
+"c": "cardiovascular",
+"q": "Qual o tratamento do arco aórtico direito persistente?",
+"o": [
+"Secção do ligamento arterioso",
+"Valvuloplastia pulmonar por balão",
+"Oclusão do ducto venoso com ameroide",
+"Betabloqueador oral por toda a vida"
+],
+"e": "Liga-se e secciona-se o ligamento arterioso, abrindo o anel."
+},
+{
+"c": "cardiovascular",
+"q": "Qual defeito cardíaco congênito é o mais comum em bovinos e equinos?",
+"o": [
+"Defeito do septo interventricular",
+"Ducto arterioso persistente",
+"Estenose subaórtica",
+"Arco aórtico direito persistente"
+],
+"e": "O DSV, em geral membranoso subaórtico, causa sopro mais alto à direita."
+},
+{
+"c": "cardiovascular",
+"q": "Quais são os quatro componentes da tetralogia de Fallot?",
+"o": [
+"Estenose pulmonar, DSV, aorta cavalgante, hipertrofia de VD",
+"Estenose aórtica, DSA, ducto persistente, hipertrofia de VE",
+"Estenose mitral, DSV, ducto persistente, dilatação do AE",
+"Estenose pulmonar, DSA, ectopia cordis, hipertrofia de VE"
+],
+"e": "Decorre do desvio cranial do septo da via de saída; Keeshond é predisposto."
+},
+{
+"c": "cardiovascular",
+"q": "A estenose subaórtica é especialmente associada a qual raça?",
+"o": [
+"Terra-nova",
+"Poodle toy",
+"Keeshond",
+"Chow Chow"
+],
+"e": "Também Golden, Rottweiler, Boxer; o sopro pode surgir após a 1ª vacinação."
+},
+{
+"c": "cardiovascular",
+"q": "Ducto venoso persistente (desvio intra-hepático) ocorre tipicamente em:",
+"o": [
+"Cães de raças grandes (Irish Wolfhound)",
+"Gatos persas jovens de linhagem pura",
+"Cães de raças pequenas, como Yorkshire",
+"Bezerros nascidos com ectopia cordis"
+],
+"e": "Raças pequenas e gatos tendem ao desvio extra-hepático."
+},
+{
+"c": "cardiovascular",
+"q": "Qual exame é mais útil na triagem do desvio portossistêmico?",
+"o": [
+"Ácidos biliares pré e pós-prandiais",
+"Eletrocardiograma de repouso e de esforço",
+"Esofagograma contrastado com bário",
+"Hemogasometria da veia jugular externa"
+],
+"e": "Ácidos biliares elevados indicam sangue portal desviado do fígado."
+},
+{
+"c": "cardiovascular",
+"q": "A ectopia cordis é descrita principalmente em:",
+"o": [
+"Bovinos",
+"Equinos",
+"Gatos",
+"Aves"
+],
+"e": "Coração fora do tórax, muitas vezes cervical, por falha do dobramento e do esterno."
+},
+{
+"c": "cardiovascular",
+"q": "Desvio esquerda→direita sem hipertensão pulmonar causa, em regra:",
+"o": [
+"Sobrecarga de volume sem cianose",
+"Cianose generalizada precoce",
+"Policitemia e cianose diferencial",
+"Hipoplasia dos pulmões"
+],
+"e": "Cianose aparece em desvios direita→esquerda."
+},
+{
+"c": "cardiovascular",
+"q": "Cor triatriatum dexter, descrito em Chow Chow, resulta da persistência de:",
+"o": [
+"Válvula direita do seio venoso",
+"Septo primo inteiro sem óstios",
+"Quinto arco aórtico rudimentar",
+"Veia cardinal caudal esquerda"
+],
+"e": "A membrana divide o átrio direito e obstrui o retorno, causando ascite."
+}
+]
