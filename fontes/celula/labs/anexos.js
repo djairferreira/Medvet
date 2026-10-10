@@ -173,10 +173,10 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
     /* rótulos */
     const all=[['Âmnio',A[0]-A[2]-8,A[1]-A[3]+4,'end',null],['Alantoide',k==='cadela'||k==='gata'?440:(k==='egua'?440:520),k==='egua'?120:(k==='porca'?170:180),'middle',null]].concat(Lb);
     if(k==='porca'){all[0]=['Âmnio',300,108,'middle',null];all[1]=['Alantoide',440,180,'middle',null]}
-    if(k==='vaca'||k==='ovelha'){all[0]=['Âmnio',300,80,'middle',null];all[1]=['Alantoide',450,182,'middle',null]}
-    if(k==='cadela'||k==='gata'){all[0]=['Âmnio',175,128,'middle',null];all[1]=['Alantoide',430,128,'middle',null]}
-    if(k==='egua'){all[0]=['Âmnio',190,135,'middle',null]}
-    all.forEach(([t,x,y,a,ln])=>{if(ln)E('line',{x1:a==='end'?x-(t.length*5):x+30,y1:y-14,x2:ln[0],y2:ln[1],stroke:'var(--muted)','stroke-width':1.5},svg);T(svg,x,y,t,{a,fs:19})});
+    if(k==='vaca'||k==='ovelha'){all[0]=['Âmnio',300,80,'middle',null];all[1]=['Alantoide',490,182,'middle',null]}
+    if(k==='cadela'||k==='gata'){all[0]=['Âmnio',175,128,'middle',null];all[1]=['Alantoide',410,118,'middle',null]}
+    if(k==='egua'){all[0]=['Âmnio',190,135,'middle',null];all[1]=['Alantoide',230,250,'middle',null]}
+    all.forEach(([t,x,y,a,ln])=>{if(ln)E('line',{x1:a==='end'?x-40:x+40,y1:y<100?y+8:y-22,x2:ln[0],y2:ln[1],stroke:'var(--muted)','stroke-width':1.5},svg);T(svg,x,y,t,{a,fs:19})});
     const s=S[k];
     const foco={tudo:`<b>Particularidade clínica:</b> ${s.clin}`,amnio:`<b>Âmnio:</b> ${s.amnio}`,alant:`<b>Alantoide:</b> ${s.alant}`,vit:`<b>Saco vitelino:</b> ${s.vit}`,plac:`<b>Placenta:</b> ${s.plac}`}[hi];
     out.innerHTML=`<b>${s.n}</b> · gestação ${s.gest}<br><span style="color:var(--muted)">Saco:</span> ${s.sac}<br><span style="color:var(--muted)">Placenta:</span> ${s.forma} · ${s.cam} (cap. 18)<br>${foco}`;

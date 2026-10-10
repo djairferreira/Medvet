@@ -1,0 +1,233 @@
+[
+ {
+  "c": "gametogenese",
+  "q": "Na galinha, quais ovário e oviduto são funcionais?",
+  "o": [
+   "Apenas os esquerdos",
+   "Apenas os direitos",
+   "Os dois lados, alternando a cada postura",
+   "Os dois lados, ao mesmo tempo"
+  ],
+  "e": "Os direitos regridem no embrião; só os esquerdos funcionam."
+ },
+ {
+  "c": "gametogenese",
+  "q": "A gema do ovo de galinha corresponde:",
+  "o": [
+   "Ao ovócito inteiro, uma única célula",
+   "Ao embrião já em clivagem avançada",
+   "A um envoltório terciário do oviduto",
+   "Ao conjunto do albúmen denso"
+  ],
+  "e": "A gema é o ovócito, cheio de vitelo."
+ },
+ {
+  "c": "gametogenese",
+  "q": "O vitelo depositado no ovócito da galinha é sintetizado principalmente:",
+  "o": [
+   "No fígado, sob ação do estrógeno",
+   "No magno do oviduto",
+   "Nas células da casca",
+   "No próprio disco germinativo"
+  ],
+  "e": "Vitelogenina e lipoproteínas são hepáticas."
+ },
+ {
+  "c": "gametogenese",
+  "q": "A latebra é:",
+  "o": [
+   "Uma massa central de vitelo branco",
+   "Uma camada da casca do ovo",
+   "A camada externa da membrana vitelina",
+   "O espaço de ar no polo rombo"
+  ],
+  "e": "Vitelo branco em forma de frasco, que sobe até o núcleo de Pander."
+ },
+ {
+  "c": "gametogenese",
+  "q": "Nos mamíferos, a zona pelúcida e a corona radiata são envoltórios:",
+  "o": [
+   "Secundários",
+   "Primários",
+   "Terciários",
+   "Quaternários"
+  ],
+  "e": "Formam-se no ovário, ao redor do oolema."
+ },
+ {
+  "c": "gametogenese",
+  "q": "Na galinha, o albúmen é secretado principalmente no:",
+  "o": [
+   "Magno",
+   "Infundíbulo",
+   "Istmo",
+   "Útero (glândula da casca)"
+  ],
+  "e": "O magno adiciona o albúmen em cerca de 3 h."
+ },
+ {
+  "c": "gametogenese",
+  "q": "As membranas da casca do ovo são formadas no:",
+  "o": [
+   "Istmo",
+   "Magno",
+   "Infundíbulo",
+   "Ovário"
+  ],
+  "e": "O istmo produz as duas membranas testáceas."
+ },
+ {
+  "c": "gametogenese",
+  "q": "Onde o ovo da galinha permanece mais tempo durante sua formação?",
+  "o": [
+   "No útero (glândula da casca), cerca de 20 h",
+   "No infundíbulo, cerca de 10 h",
+   "No magno, cerca de 15 h",
+   "Na vagina, cerca de 8 h"
+  ],
+  "e": "A calcificação da casca leva cerca de 20 h."
+ },
+ {
+  "c": "gametogenese",
+  "q": "As calazas têm a função de:",
+  "o": [
+   "Ancorar a gema ao albúmen",
+   "Tapar os poros da casca",
+   "Formar a câmara de ar",
+   "Produzir o vitelo branco"
+  ],
+  "e": "Cordões de mucina que prendem e deixam a gema girar."
+ },
+ {
+  "c": "gametogenese",
+  "q": "A câmara de ar do ovo forma-se:",
+  "o": [
+   "No polo rombo, quando o ovo esfria após a postura",
+   "No polo agudo, ainda dentro do magno",
+   "Ao redor da gema, logo após a fecundação",
+   "Entre o albúmen denso e o fluido"
+  ],
+  "e": "As membranas da casca se separam ao resfriar."
+ },
+ {
+  "c": "gametogenese",
+  "q": "Lavar ovos férteis antes da incubação é desaconselhado porque:",
+  "o": [
+   "Remove a cutícula que protege os poros",
+   "Dissolve as calazas",
+   "Retira a membrana vitelina",
+   "Esfria o disco germinativo abaixo de zero"
+  ],
+  "e": "Sem cutícula, bactérias entram pelos poros."
+ },
+ {
+  "c": "gametogenese",
+  "q": "Galinhas que tiveram bronquite infecciosa jovens podem pôr ovos com albúmen aquoso porque o vírus:",
+  "o": [
+   "Lesa o magno de forma permanente",
+   "Destrói o fígado produtor de vitelo",
+   "Bloqueia a ovulação",
+   "Altera a glândula da casca apenas no frio"
+  ],
+  "e": "O magno lesado secreta albúmen deficiente."
+ },
+ {
+  "c": "gametogenese",
+  "q": "Ovos de duas gemas resultam em geral de:",
+  "o": [
+   "Duas ovulações quase simultâneas",
+   "Divisão da gema no magno",
+   "Fecundação por dois espermatozoides",
+   "Formação de dois discos germinativos"
+  ],
+  "e": "Comuns no início da postura."
+ },
+ {
+  "c": "gametogenese",
+  "q": "A não disjunção meiótica produz zigotos:",
+  "o": [
+   "Aneuploides, trissômicos ou monossômicos",
+   "Sempre triploides",
+   "Haploides que se diploidizam",
+   "Com cromossomos idênticos aos da mãe"
+  ],
+  "e": "Gametas n+1 ou n−1 geram 2n+1 ou 2n−1."
+ },
+ {
+  "c": "gametogenese",
+  "q": "A égua 63,X0 apresenta tipicamente:",
+  "o": [
+   "Ovários pequenos e inativos, com infertilidade",
+   "Fenótipo masculino e testículos",
+   "Gestação gemelar frequente",
+   "Ciclos estrais curtos e muito férteis"
+  ],
+  "e": "É a anomalia cromossômica mais citada em éguas."
+ },
+ {
+  "c": "gametogenese",
+  "q": "Um gato macho tricolor geralmente tem cariótipo:",
+  "o": [
+   "39,XXY",
+   "38,XY",
+   "37,X0",
+   "38,XX"
+  ],
+  "e": "As duas cores ligadas ao X exigem dois X; é estéril."
+ },
+ {
+  "c": "gametogenese",
+  "q": "O portador bovino da translocação robertsoniana 1/29 tem:",
+  "o": [
+   "Fenótipo normal e fertilidade um pouco menor",
+   "Malformações graves ao nascer",
+   "Fertilidade aumentada",
+   "Esterilidade completa"
+  ],
+  "e": "Parte dos gametas é desbalanceada e causa perda embrionária."
+ },
+ {
+  "c": "gametogenese",
+  "q": "Por que o ovócito é mais sujeito à não disjunção que o espermatócito?",
+  "o": [
+   "Fica muito tempo em prófase I, com coesinas desgastadas",
+   "Não sofre crossing-over",
+   "Divide o citoplasma igualmente",
+   "Não possui centrômeros funcionais"
+  ],
+  "e": "O longo bloqueio favorece erros de segregação."
+ },
+ {
+  "c": "gametogenese",
+  "q": "Entre as espécies domésticas, quem ovula ovócito primário é:",
+  "o": [
+   "A cadela",
+   "A égua",
+   "A vaca",
+   "A porca"
+  ],
+  "e": "A égua ovula ovócito secundário, como a vaca."
+ },
+ {
+  "c": "gametogenese",
+  "q": "Espermatogônias do tipo A junto à membrana basal:",
+  "o": [
+   "Renovam a reserva e originam as do tipo B",
+   "Já são haploides",
+   "Sofrem espermiogênese direta",
+   "Formam a barreira hematotesticular"
+  ],
+  "e": "As do tipo B originam espermatócitos primários."
+ },
+ {
+  "c": "gametogenese",
+  "q": "As pontes citoplasmáticas entre células espermatogênicas permitem:",
+  "o": [
+   "Maturação sincronizada e partilha de produtos gênicos",
+   "A fusão de espermátides em uma só célula",
+   "Que a meiose II seja dispensada",
+   "A entrada de anticorpos no túbulo"
+  ],
+  "e": "A citocinese incompleta une as células-irmãs."
+ }
+]

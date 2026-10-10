@@ -1,0 +1,211 @@
+[
+ {
+  "c": "clivagem",
+  "q": "A frase ex ovo omnia é atribuída a:",
+  "o": [
+   "William Harvey",
+   "Aristóteles",
+   "Caspar Wolff",
+   "Leeuwenhoek"
+  ],
+  "e": "Harvey estudou úteros de corças."
+ },
+ {
+  "c": "clivagem",
+  "q": "Os animalculistas defendiam que o novo ser:",
+  "o": [
+   "Estaria pré-formado no espermatozoide",
+   "Formava-se de novo a partir de camadas",
+   "Estaria pré-formado no ovo",
+   "Surgiria do líquido folicular"
+  ],
+  "e": "Ovistas o colocavam no ovo."
+ },
+ {
+  "c": "clivagem",
+  "q": "A teoria da epigênese afirma que:",
+  "o": [
+   "Os órgãos se formam progressivamente de material indiferenciado",
+   "O embrião é um adulto em miniatura",
+   "Só o pai contribui para o embrião",
+   "Os órgãos já existem no ovócito"
+  ],
+  "e": "Demonstrada por Wolff em embriões de galinha."
+ },
+ {
+  "c": "clivagem",
+  "q": "O ovócito de mamífero foi identificado em 1827 por von Baer no ovário de:",
+  "o": [
+   "Uma cadela",
+   "Uma vaca",
+   "Uma égua",
+   "Uma coelha"
+  ],
+  "e": "Von Baer também descobriu a notocorda."
+ },
+ {
+  "c": "clivagem",
+  "q": "Driesch, separando blastômeros de ouriço, demonstrou:",
+  "o": [
+   "Totipotência dos blastômeros",
+   "Indução pelo organizador",
+   "A teoria dos folhetos",
+   "A natureza celular do espermatozoide"
+  ],
+  "e": "Cada blastômero gerou larva inteira."
+ },
+ {
+  "c": "clivagem",
+  "q": "Spemann recebeu o Nobel por demonstrar:",
+  "o": [
+   "A indução embrionária",
+   "A partenogênese",
+   "A clivagem rotacional",
+   "O imprinting"
+  ],
+  "e": "Estruturas formadas dirigem tecidos vizinhos."
+ },
+ {
+  "c": "clivagem",
+  "q": "Na cabeça de um quadrúpede, o termo que indica direção ao focinho é:",
+  "o": [
+   "Rostral",
+   "Cranial",
+   "Anterior",
+   "Proximal"
+  ],
+  "e": "Cranial é usado no tronco."
+ },
+ {
+  "c": "clivagem",
+  "q": "O plano paralelo ao dorso do animal denomina-se:",
+  "o": [
+   "Plano dorsal",
+   "Plano mediano",
+   "Plano sagital",
+   "Plano transversal"
+  ],
+  "e": "Equivale ao frontal humano."
+ },
+ {
+  "c": "clivagem",
+  "q": "Ovos de aves são classificados como:",
+  "o": [
+   "Polilécitos telolécitos",
+   "Oligolécitos isolécitos",
+   "Centrolécitos",
+   "Mesolécitos isolécitos"
+  ],
+  "e": "Muito vitelo concentrado no polo vegetal."
+ },
+ {
+  "c": "clivagem",
+  "q": "Insetos têm ovo centrolécito e clivagem:",
+  "o": [
+   "Meroblástica superficial",
+   "Holoblástica igual",
+   "Meroblástica discoidal",
+   "Holoblástica desigual"
+  ],
+  "e": "Núcleos se dividem sem citocinese e migram à periferia."
+ },
+ {
+  "c": "clivagem",
+  "q": "Nos anfíbios, a terceira divisão da clivagem é:",
+  "o": [
+   "Latitudinal, acima do equador",
+   "Meridional, como as duas primeiras",
+   "Equatorial exata",
+   "Apenas nuclear, sem citocinese"
+  ],
+  "e": "Gera micrômeros e macrômeros."
+ },
+ {
+  "c": "clivagem",
+  "q": "A clivagem dos mamíferos é descrita como:",
+  "o": [
+   "Holoblástica igual, rotacional e assíncrona",
+   "Meroblástica discoidal",
+   "Holoblástica desigual e síncrona",
+   "Meroblástica superficial"
+  ],
+  "e": "Ovo quase sem vitelo."
+ },
+ {
+  "c": "clivagem",
+  "q": "Por que os mamíferos têm ovo pequeno, apesar de ancestrais com ovos grandes?",
+  "o": [
+   "A placenta tornou o vitelo dispensável",
+   "Não fazem gastrulação",
+   "O ovo cresce depois da fecundação",
+   "O vitelo é produzido pelo embrião"
+  ],
+  "e": "Nutrição pela mãe via placenta."
+ },
+ {
+  "c": "clivagem",
+  "q": "Na ave, a área pelúcida é clara porque:",
+  "o": [
+   "Fica sobre a cavidade subgerminal",
+   "Não tem células",
+   "É coberta pela zona pelúcida",
+   "Tem vitelo branco"
+  ],
+  "e": "A área opaca fica apoiada no vitelo."
+ },
+ {
+  "c": "clivagem",
+  "q": "Nas aves, as membranas extraembrionárias vêm em grande parte da área opaca porque:",
+  "o": [
+   "As aves não têm trofoblasto",
+   "A área pelúcida degenera",
+   "O hipoblasto não se forma",
+   "A casca induz essa área"
+  ],
+  "e": "A borda do blastoderma forma o saco vitelino."
+ },
+ {
+  "c": "clivagem",
+  "q": "Ovos férteis de galinha devem ser armazenados a 15–18 °C porque:",
+  "o": [
+   "Abaixo do zero fisiológico o blastoderma fica em pausa",
+   "Nessa faixa a casca endurece",
+   "Assim o embrião acelera a gastrulação",
+   "Evita a formação da câmara de ar"
+  ],
+  "e": "Abaixo de ~20–21 °C o desenvolvimento para."
+ },
+ {
+  "c": "clivagem",
+  "q": "Nos ungulados, o epiblasto fica exposto por:",
+  "o": [
+   "Deslaminação por retração, com embriocisto",
+   "Deslaminação em superfície",
+   "Invaginação pelo blastóporo",
+   "Fagocitose do trofoblasto pelo útero"
+  ],
+  "e": "Em carnívoros, a camada de Rauber só afina e some."
+ },
+ {
+  "c": "clivagem",
+  "q": "A coleta não cirúrgica de embriões bovinos é feita entre o 5º e o 9º dia do cio porque:",
+  "o": [
+   "Antes estão no oviduto e depois começam a eclodir",
+   "Só nesse período há mórula de 2 células",
+   "É quando ocorre a implantação",
+   "A zona pelúcida só se forma no 5º dia"
+  ],
+  "e": "Após o dia 9 ficam desprotegidos."
+ },
+ {
+  "c": "clivagem",
+  "q": "Área pelúcida da ave e zona pelúcida dos mamíferos são:",
+  "o": [
+   "Estruturas sem relação",
+   "A mesma estrutura em espécies diferentes",
+   "Ambas envoltórios glicoproteicos",
+   "Ambas regiões do blastoderma"
+  ],
+  "e": "Só compartilham o nome (transparente)."
+ }
+]

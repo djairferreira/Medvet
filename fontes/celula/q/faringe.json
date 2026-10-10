@@ -48,9 +48,9 @@
 "q": "O estribo deriva da cartilagem de qual arco?",
 "o": [
 "Segundo arco (Reichert)",
-"Primeiro arco (Meckel)",
-"Terceiro arco",
-"Sexto arco"
+"Primeiro arco (cartilagem de Meckel)",
+"Terceiro arco (tíreo-hioide)",
+"Sexto arco (cricoide)"
 ],
 "e": "A cartilagem de Reichert (arco II) forma estribo e parte do aparelho hioide."
 },
@@ -59,9 +59,9 @@
 "q": "A artéria do terceiro arco aórtico forma:",
 "o": [
 "Carótida comum e início da carótida interna",
-"Arco da aorta",
-"Ducto arterioso",
-"Artéria maxilar"
+"Arco da aorta e subclávia esquerda",
+"Ducto arterioso e artéria pulmonar",
+"Artéria maxilar e artéria estapedial"
 ],
 "e": "O III arco forma as carótidas; o IV esquerdo, o arco da aorta; o VI, as pulmonares e o ducto."
 },
@@ -103,9 +103,9 @@
 "q": "Por que a hemiplegia laríngea do equino afeta quase sempre o lado esquerdo?",
 "o": [
 "O recorrente esquerdo contorna a aorta e é muito mais longo",
-"O vago esquerdo não inerva a laringe",
-"O arco VI esquerdo regride por completo",
-"O facial esquerdo comprime a laringe"
+"O vago esquerdo não envia ramos para a laringe do equino",
+"O arco VI esquerdo regride e leva junto o nervo",
+"O nervo facial esquerdo comprime a laringe no pescoço"
 ],
 "e": "O laríngeo recorrente esquerdo fica preso ao ligamento arterioso e contorna o arco aórtico: axônio longuíssimo, vulnerável."
 },
@@ -116,7 +116,7 @@
 "Sexto, inervados pelo laríngeo recorrente",
 "Quarto, inervados pelo laríngeo cranial",
 "Terceiro, inervados pelo glossofaríngeo",
-"Segundo, inervados pelo facial"
+"Segundo, inervados pelo nervo facial (VII)"
 ],
 "e": "Arco VI → intrínsecos da laringe via recorrente; o cricotireóideo é do IV (laríngeo cranial)."
 },
@@ -125,9 +125,9 @@
 "q": "Filhote de Pastor-Alemão começa a regurgitar ao passar para alimento sólido; raio X mostra esôfago dilatado cranial à base do coração. Origem embriológica provável:",
 "o": [
 "Persistência do quarto arco aórtico direito",
-"Fístula traqueoesofágica",
-"Hérnia peritônio-pericárdica",
-"Falha da segunda bolsa faríngea"
+"Fístula traqueoesofágica com atresia",
+"Hérnia peritônio-pericárdica congênita",
+"Falha da segunda bolsa faríngea esquerda"
 ],
 "e": "A aorta à direita forma, com o ligamento arterioso, um anel vascular que estrangula o esôfago."
 },
@@ -147,9 +147,9 @@
 "q": "A bolsa gutural do equino é:",
 "o": [
 "Um divertículo da tuba auditiva (1ª bolsa)",
-"Um resto do seio cervical",
+"Um resto dilatado do seio cervical",
 "Um derivado da 3ª bolsa ligado ao timo",
-"Uma dilatação da traqueia cranial"
+"Uma dilatação congênita da traqueia cranial"
 ],
 "e": "A tuba auditiva do equino forma esse grande divertículo; o timpanismo da bolsa gutural ocorre em potros."
 },
@@ -159,8 +159,8 @@
 "o": [
 "Primeira membrana faríngea",
 "Segunda bolsa faríngea",
-"Terceira fenda faríngea",
-"Cartilagem de Reichert"
+"Terceira fenda faríngea externa",
+"Cartilagem de Reichert do arco II"
 ],
 "e": "Fundo do 1º sulco + fundo da 1ª bolsa = membrana com ectoderma, mesênquima e endoderma."
 },
@@ -170,8 +170,8 @@
 "o": [
 "Primeiro sulco (fenda) faríngeo",
 "Segundo sulco faríngeo",
-"Seio cervical",
-"Recesso tubotimpânico"
+"Seio cervical do arco II",
+"Recesso tubotimpânico da 1ª bolsa"
 ],
 "e": "O 1º sulco é o único que persiste: meato acústico externo."
 },
@@ -214,8 +214,8 @@
 "o": [
 "Corpo ultimobranquial",
 "Ducto tireoglosso",
-"Forame cego",
-"Seio cervical"
+"Forame cego da língua",
+"Seio cervical persistente"
 ],
 "e": "O corpo ultimobranquial (parte caudal da 4ª bolsa) leva as células C, que secretam calcitonina."
 },
@@ -270,7 +270,7 @@
 "Restos de sulco faríngeo ou seio cervical",
 "Persistência do ducto tireoglosso",
 "Falha do septo traqueoesofágico",
-"Defeito do septo transverso"
+"Defeito ventral do septo transverso"
 ],
 "e": "Cistos branquiais são laterais e derivam de sulcos/seio cervical que não se fecharam."
 },
@@ -302,8 +302,8 @@
 "o": [
 "Da eminência hipobranquial (arcos III e IV)",
 "Das proeminências linguais laterais",
-"Do tubérculo ímpar",
-"Da cópula do segundo arco"
+"Do tubérculo ímpar do primeiro arco",
+"Da cópula do segundo arco faríngeo"
 ],
 "e": "A eminência hipobranquial cobre a cópula e forma a raiz."
 },
@@ -312,9 +312,9 @@
 "q": "O segmento intermaxilar, formado pela fusão das proeminências nasais mediais, origina:",
 "o": [
 "Filtro do lábio, osso incisivo e palato primário",
-"Palato secundário e palato mole",
+"Palato secundário, palato mole e úvula",
 "Asas do nariz e ducto nasolacrimal",
-"Mandíbula e lábio inferior"
+"Mandíbula, lábio inferior e mento"
 ],
 "e": "O segmento intermaxilar forma a parte média do lábio, o incisivo e o palato primário."
 },
@@ -345,9 +345,9 @@
 "q": "O palato secundário forma-se a partir de:",
 "o": [
 "Prateleiras palatinas das proeminências maxilares",
-"Segmento intermaxilar",
-"Proeminências mandibulares",
-"Septo transverso"
+"Segmento intermaxilar (nasais mediais)",
+"Proeminências mandibulares fundidas",
+"Septo transverso e mesênquima facial"
 ],
 "e": "As prateleiras saem das maxilares, giram para a horizontal e se fundem."
 },
@@ -400,9 +400,9 @@
 "q": "Nos órgãos respiratórios, o endoderma forma:",
 "o": [
 "O epitélio e as glândulas das vias aéreas",
-"As cartilagens da traqueia",
-"O músculo liso dos brônquios",
-"A pleura visceral"
+"As cartilagens da traqueia e dos brônquios",
+"O músculo liso da parede dos brônquios",
+"A pleura visceral que reveste o pulmão"
 ],
 "e": "Endoderma = parênquima epitelial; cartilagem, músculo liso e pleura vêm do mesoderma."
 },
@@ -411,7 +411,7 @@
 "q": "Bezerro recém-nascido tosse e engasga a cada mamada; a gestação teve hidrâmnio. Hipótese embriológica:",
 "o": [
 "Fístula traqueoesofágica com atresia de esôfago",
-"Hipoplasia do timo",
+"Hipoplasia do timo e das paratireoides",
 "Persistência do ducto arterioso",
 "Falha do primeiro sulco faríngeo"
 ],
@@ -424,7 +424,7 @@
 "Ruminantes e suínos",
 "Equinos e cães",
 "Gatos e cães",
-"Equinos e aves"
+"Equinos e aves domésticas"
 ],
 "e": "Bovinos, pequenos ruminantes e suínos têm brônquio traqueal."
 },
@@ -455,9 +455,9 @@
 "q": "A fase canalicular caracteriza-se por:",
 "o": [
 "Bronquíolos respiratórios, ductos alveolares e vascularização",
-"Formação dos brotos broncopulmonares",
-"Divisão dos sacos por septos secundários",
-"Separação da traqueia e do esôfago"
+"Formação dos brotos broncopulmonares direito e esquerdo",
+"Divisão dos sacos terminais por septos secundários",
+"Separação definitiva entre traqueia e esôfago"
 ],
 "e": "Na canalicular surgem bronquíolos respiratórios e ductos, e o mesênquima se vasculariza."
 },
@@ -478,8 +478,8 @@
 "o": [
 "Dipalmitoilfosfatidilcolina",
 "Colesterol livre",
-"Proteína SP-A",
-"Ácido hialurônico"
+"Proteína surfactante SP-A",
+"Ácido hialurônico sulfatado"
 ],
 "e": "Cerca de 90% são fosfolipídios, sobretudo DPPC."
 },
@@ -510,7 +510,7 @@
 "q": "Potro nascido aos 305 dias, com taquipneia, esforço expiratório e cianose crescentes. Mecanismo principal:",
 "o": [
 "Deficiência de surfactante com atelectasia",
-"Fístula traqueoesofágica",
+"Fístula traqueoesofágica congênita",
 "Hérnia peritônio-pericárdica",
 "Persistência do arco aórtico direito"
 ],
@@ -521,9 +521,9 @@
 "q": "Comparado a um potro ou bezerro, o filhote de cão nasce com pulmões:",
 "o": [
 "Menos maduros, alveolização sobretudo pós-natal",
-"Mais maduros, alveolização completa",
-"Sem pneumócitos tipo I",
-"Ainda na fase pseudoglandular"
+"Mais maduros, com alveolização já completa no parto",
+"Sem pneumócitos tipo I até a primeira semana",
+"Ainda na fase pseudoglandular, sem bronquíolos"
 ],
 "e": "Altriciais nascem na transição sacular-alveolar; precociais já alveolizados."
 },
@@ -532,9 +532,9 @@
 "q": "A absorção do líquido pulmonar no parto depende principalmente de:",
 "o": [
 "Canais de Na+ (ENaC) estimulados por catecolaminas",
-"Secreção ativa de Cl- pelo epitélio",
-"Contração dos músculos intercostais",
-"Fechamento do ducto arterioso"
+"Secreção ativa de Cl⁻ pelo epitélio respiratório",
+"Contração forte dos músculos intercostais",
+"Fechamento funcional do ducto arterioso"
 ],
 "e": "No feto o epitélio secreta Cl-; no parto passa a absorver Na+ e a água vai junto."
 },
@@ -543,9 +543,9 @@
 "q": "Nas aves, as trocas gasosas ocorrem em:",
 "o": [
 "Capilares aéreos dos parabrônquios",
-"Alvéolos de fundo cego",
-"Sacos aéreos abdominais",
-"Mesobrônquio"
+"Alvéolos de fundo cego, como nos mamíferos",
+"Paredes dos sacos aéreos abdominais",
+"Mucosa do mesobrônquio (brônquio primário)"
 ],
 "e": "O pulmão das aves tem fluxo unidirecional pelos parabrônquios; sacos aéreos não trocam gases."
 },
@@ -587,9 +587,9 @@
 "q": "Por que o nervo frênico sai de C5–C7?",
 "o": [
 "O diafragma começa no pescoço e desce depois",
-"Os pulmões crescem a partir do pescoço",
-"O coração é inervado por esses segmentos",
-"O esôfago cervical arrasta o nervo"
+"Os pulmões crescem a partir dos somitos do pescoço",
+"O coração é inervado pelos mesmos segmentos",
+"O esôfago cervical arrasta o nervo consigo"
 ],
 "e": "Septo e mioblastos começam em nível cervical; o órgão migra caudalmente e leva o nervo."
 },
@@ -631,9 +631,9 @@
 "q": "Qual complicação acompanha a hérnia diafragmática congênita e define o prognóstico?",
 "o": [
 "Hipoplasia pulmonar",
-"Fenda palatina",
-"Hipocalcemia",
-"Megaesôfago"
+"Fenda palatina associada",
+"Hipocalcemia neonatal",
+"Megaesôfago secundário"
 ],
 "e": "Vísceras no tórax comprimem o pulmão em desenvolvimento."
 },
@@ -653,9 +653,9 @@
 "q": "No equino, pneumotórax ou derrame pleural tendem a ser bilaterais porque:",
 "o": [
 "O mediastino caudal é fino e fenestrado",
-"Não há pregas pleuropericárdicas",
+"Não se formam pregas pleuropericárdicas",
 "As pleuras não se separam do peritônio",
-"O pulmão não tem lobos"
+"O pulmão direito não tem lobo acessório"
 ],
 "e": "O mediastino fenestrado comunica as cavidades pleurais no equino."
 },
@@ -666,7 +666,7 @@
 "Falta de desenvolvimento do primeiro arco",
 "Excesso de crescimento do segundo arco",
 "Falha da segunda bolsa faríngea",
-"Persistência do seio cervical"
+"Persistência do seio cervical lateral"
 ],
 "e": "Sem mandíbula (agnatia), as orelhas permanecem em posição ventral."
 }

@@ -1,0 +1,200 @@
+[
+ {
+  "c": "fecundacao",
+  "q": "A anfimixia corresponde a:",
+  "o": [
+   "Reunião dos cromossomos dos dois pró-núcleos",
+   "Penetração da corona radiata",
+   "Liberação do 1º corpúsculo polar",
+   "Fusão do espermatozoide ao cumulus"
+  ],
+  "e": "Encerra a fecundação e inicia a 1ª clivagem."
+ },
+ {
+  "c": "fecundacao",
+  "q": "No modelo clássico do camundongo, o receptor primário da zona pelúcida é a:",
+  "o": [
+   "ZP3",
+   "ZP2",
+   "ZP1",
+   "Juno"
+  ],
+  "e": "ZP3 liga o espermatozoide intacto; ZP2 é o receptor secundário."
+ },
+ {
+  "c": "fecundacao",
+  "q": "Nos mamíferos, os pró-núcleos:",
+  "o": [
+   "Não se fundem; os cromossomos se juntam no fuso",
+   "Fundem-se num núcleo único antes de replicar",
+   "Degeneram e são substituídos pelo núcleo do ovócito",
+   "Permanecem separados até a mórula"
+  ],
+  "e": "Envoltórios se desfazem e cromossomos se alinham juntos."
+ },
+ {
+  "c": "fecundacao",
+  "q": "O DNA mitocondrial do animal é herdado:",
+  "o": [
+   "Da mãe",
+   "Do pai",
+   "Igualmente dos dois",
+   "Do corpúsculo polar"
+  ],
+  "e": "As mitocôndrias do espermatozoide são destruídas."
+ },
+ {
+  "c": "fecundacao",
+  "q": "Nas aves, a determinação do sexo é chamada progâmica porque:",
+  "o": [
+   "É definida pelo ovócito antes da fecundação",
+   "Depende da temperatura de incubação",
+   "É definida pelo espermatozoide",
+   "Só ocorre após a eclosão"
+  ],
+  "e": "A fêmea ZW é heterogamética."
+ },
+ {
+  "c": "fecundacao",
+  "q": "Nos mamíferos, o sexo heterogamético é:",
+  "o": [
+   "O macho, XY",
+   "A fêmea, ZW",
+   "A fêmea, XX",
+   "O macho, ZZ"
+  ],
+  "e": "O espermatozoide leva X ou Y."
+ },
+ {
+  "c": "fecundacao",
+  "q": "Em crocodilianos e muitas tartarugas, o sexo é determinado por:",
+  "o": [
+   "Temperatura de incubação",
+   "Cromossomos ZW",
+   "Cromossomos XY",
+   "Número de espermatozoides"
+  ],
+  "e": "Não há cromossomos sexuais."
+ },
+ {
+  "c": "fecundacao",
+  "q": "O número diploide de cromossomos do cão é:",
+  "o": [
+   "78",
+   "60",
+   "64",
+   "38"
+  ],
+  "e": "Cão 78, bovino 60, equino 64, gato e suíno 38."
+ },
+ {
+  "c": "fecundacao",
+  "q": "A separação do sêmen sexado bovino baseia-se em:",
+  "o": [
+   "Diferença de conteúdo de DNA entre X e Y",
+   "Velocidade de natação",
+   "Tamanho do acrossomo",
+   "Carga elétrica da cauda"
+  ],
+  "e": "O X tem cerca de 4% mais DNA; citometria de fluxo."
+ },
+ {
+  "c": "fecundacao",
+  "q": "Na galinha, a fecundação ocorre no:",
+  "o": [
+   "Infundíbulo",
+   "Magno",
+   "Istmo",
+   "Útero"
+  ],
+  "e": "Antes da deposição do albúmen."
+ },
+ {
+  "c": "fecundacao",
+  "q": "A janela para fecundação na galinha após a ovulação é de cerca de:",
+  "o": [
+   "15 a 30 minutos",
+   "6 a 24 horas",
+   "2 a 3 dias",
+   "1 semana"
+  ],
+  "e": "Depois o magno cobre a gema de albúmen."
+ },
+ {
+  "c": "fecundacao",
+  "q": "Os espermatozoides do galo ficam armazenados na fêmea:",
+  "o": [
+   "Em glândulas da junção útero-vaginal",
+   "No istmo, por poucas horas",
+   "No magno, por 24 horas",
+   "No ovário"
+  ],
+  "e": "Sobrevivem 2 a 3 semanas na galinha."
+ },
+ {
+  "c": "fecundacao",
+  "q": "Sobre a polispermia nas aves, é correto:",
+  "o": [
+   "É fisiológica; só um núcleo masculino forma o zigoto",
+   "É letal, como nos mamíferos",
+   "É impedida pela reação cortical",
+   "Gera embriões triploides viáveis"
+  ],
+  "e": "Pró-núcleos acessórios degeneram na periferia."
+ },
+ {
+  "c": "fecundacao",
+  "q": "Ao examinar a camada perivitelina de um ovo não desenvolvido, a ausência de furos indica:",
+  "o": [
+   "Falta de espermatozoides: infertilidade",
+   "Morte embrionária precoce",
+   "Armazenamento muito quente",
+   "Excesso de polispermia"
+  ],
+  "e": "Cada espermatozoide deixa um furo na camada."
+ },
+ {
+  "c": "fecundacao",
+  "q": "Por que embriões partenogenéticos de mamíferos morrem cedo?",
+  "o": [
+   "Imprinting: faltam genes paternos ativos",
+   "Ficam haploides sem saída",
+   "Não conseguem formar zona pelúcida",
+   "Não ativam a reação cortical"
+  ],
+  "e": "O trofoblasto depende de genes de expressão paterna."
+ },
+ {
+  "c": "fecundacao",
+  "q": "Os raros perus partenogenéticos que eclodem são:",
+  "o": [
+   "Machos ZZ",
+   "Fêmeas ZW",
+   "Fêmeas WW",
+   "Machos XY"
+  ],
+  "e": "WW é inviável; ZZ resulta de diplodização."
+ },
+ {
+  "c": "fecundacao",
+  "q": "Na clonagem por transferência nuclear, a ativação artificial do ovócito é feita com agentes que:",
+  "o": [
+   "Elevam o cálcio intracelular",
+   "Destroem a zona pelúcida",
+   "Bloqueiam a fosfolipase C",
+   "Removem os grânulos corticais"
+  ],
+  "e": "Ionomicina, etanol, estrôncio ou pulso elétrico."
+ },
+ {
+  "c": "fecundacao",
+  "q": "Os teratomas ovarianos de cadelas e éguas são atribuídos a:",
+  "o": [
+   "Ativação partenogenética de células germinativas",
+   "Polispermia",
+   "Metástase de tumor testicular",
+   "Infecção por BVDV"
+  ],
+  "e": "Desenvolvimento embrionário desorganizado no ovário."
+ }
+]

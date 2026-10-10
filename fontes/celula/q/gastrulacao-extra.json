@@ -1,0 +1,211 @@
+[
+ {
+  "c": "gastrulacao",
+  "q": "O termo gástrula significa:",
+  "o": [
+   "Pequeno estômago",
+   "Camada dupla",
+   "Disco germinal",
+   "Linha do eixo"
+  ],
+  "e": "Refere-se ao arquêntero."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "No anfioxo, a gastrulação ocorre por:",
+  "o": [
+   "Invaginação da blástula",
+   "Linha primitiva",
+   "Deslaminação do disco",
+   "Retração do trofoblasto"
+  ],
+  "e": "Forma o arquêntero e o blastóporo."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "O arquêntero comunica-se com o exterior pelo:",
+  "o": [
+   "Blastóporo",
+   "Nó de Hensen",
+   "Neuróporo",
+   "Sulco subgerminal"
+  ],
+  "e": "Arquêntero = gastrocele, futuro intestino."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "Nos amniotas, a gastrulação é definida como o período:",
+  "o": [
+   "Do aparecimento ao desaparecimento da linha primitiva",
+   "Da fecundação à mórula",
+   "Da eclosão à implantação",
+   "Do fechamento do tubo neural ao parto"
+  ],
+  "e": "Definição clássica."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "Por que os amniotas usam linha primitiva em vez de blastóporo?",
+  "o": [
+   "O vitelo limitou o embrião a um disco",
+   "Não possuem mesoderma",
+   "Não formam arquêntero",
+   "Têm clivagem holoblástica igual"
+  ],
+  "e": "O esquema se manteve nos mamíferos."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "O primeiro sinal do eixo corporal na gastrulação é:",
+  "o": [
+   "Acúmulo de epiblasto na margem caudal do disco",
+   "O fechamento do tubo neural",
+   "O aparecimento dos somitos",
+   "A ruptura da zona pelúcida"
+  ],
+  "e": "Ali será sempre a região caudal."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "A linha primitiva atinge, no máximo, cerca de:",
+  "o": [
+   "Dois terços do comprimento do disco",
+   "Toda a extensão do disco",
+   "Um décimo do disco",
+   "A borda cranial do disco"
+  ],
+  "e": "Nunca alcança a borda cranial."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "As primeiras células a migrar pela linha primitiva formam principalmente o mesoderma:",
+  "o": [
+   "Lateral",
+   "Paraxial",
+   "Notocordal",
+   "Intermediário caudal"
+  ],
+  "e": "Vão mais longe para os lados."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "Durante a regressão da linha primitiva, o nó:",
+  "o": [
+   "Recua caudalmente, deixando a notocorda",
+   "Avança cranialmente",
+   "Permanece fixo",
+   "Desaparece antes da linha"
+  ],
+  "e": "A gastrulação termina de cranial para caudal."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "Na galinha, a linha primitiva aparece por volta de:",
+  "o": [
+   "12 a 16 horas de incubação",
+   "2 a 4 horas",
+   "3 dias",
+   "7 dias"
+  ],
+  "e": "Completa por ~18–19 h."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "O nó primitivo da ave é chamado:",
+  "o": [
+   "Nó de Hensen",
+   "Nó de Rauber",
+   "Núcleo de Pander",
+   "Foice de Koller"
+  ],
+  "e": "Fica na ponta cranial da linha."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "Na galinha, a regressão da linha primitiva está completa por volta de:",
+  "o": [
+   "50 horas",
+   "10 horas",
+   "5 dias",
+   "20 horas"
+  ],
+  "e": "Em ~30 h já está pela metade."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "O processo cefálico da ave corresponde a:",
+  "o": [
+   "Prolongamento da notocorda à frente do nó",
+   "Prega amniótica cefálica",
+   "Primeiro par de somitos",
+   "Hipoblasto deslocado"
+  ],
+  "e": "Visível a partir de ~18 h."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "Na galinha, os somitos se formam em ritmo de aproximadamente:",
+  "o": [
+   "Um par a cada 90 minutos",
+   "Um par a cada 12 horas",
+   "Dez pares por hora",
+   "Um par por dia"
+  ],
+  "e": "Relógio da segmentação."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "O número de pares de somitos é muito usado para:",
+  "o": [
+   "Estimar a idade de embriões jovens",
+   "Determinar o sexo",
+   "Avaliar a fertilidade do galo",
+   "Classificar o tipo de ovo"
+  ],
+  "e": "Estágios de Hamburger e Hamilton."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "Entre os domésticos, a gastrulação mais precoce ocorre no:",
+  "o": [
+   "Suíno",
+   "Bovino",
+   "Ovino",
+   "Equino"
+  ],
+  "e": "Linha primitiva por volta dos dias 10–12."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "Uma diferença entre gastrulação da ave e do mamífero é que na ave:",
+  "o": [
+   "Não há trofoblasto",
+   "Não há linha primitiva",
+   "Não se forma mesoderma",
+   "O hipoblasto vem do trofoblasto"
+  ],
+  "e": "O mamífero mantém trofoblasto envolvendo a vesícula."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "Cartilagens da face derivam da crista neural, o que mostra que:",
+  "o": [
+   "Folheto de origem não é destino absoluto",
+   "Toda cartilagem é endodérmica",
+   "A crista neural é mesodérmica",
+   "O mesoderma forma a epiderme"
+  ],
+  "e": "Ectomesênquima de origem ectodérmica."
+ },
+ {
+  "c": "gastrulacao",
+  "q": "Hemivértebras em cães braquicefálicos relacionam-se a falhas:",
+  "o": [
+   "Na segmentação dos somitos",
+   "No bloqueio da polispermia",
+   "Na compactação da mórula",
+   "Na formação da casca"
+  ],
+  "e": "Relógio Notch e frente FGF/Wnt."
+ }
+]
