@@ -606,14 +606,14 @@
 },
 {
 "c": "urogenital",
-"q": "A síndrome intersexo dos caprinos mochos (PIS) afeta:",
+"q": "A síndrome intersexo dos caprinos mochos (PIS) é um exemplo de:",
 "o": [
 "DDS XX sem SRY (sexo reverso)",
 "Freemartinismo por placentas fundidas",
 "Insensibilidade completa a andrógenos",
 "Monossomia do X (síndrome de Turner)"
 ],
-"e": "Suínos XX formam testículo ou ovotéstis sem SRY; é hereditário e o DDS mais frequente na espécie."
+"e": "A deleção ligada ao gene mocho desliga FOXL2; cabras XX homozigotas formam testículos sem ter SRY."
 },
 {
 "c": "urogenital",
@@ -624,7 +624,7 @@
 "Insensibilidade a andrógenos",
 "Síndrome de Turner"
 ],
-"e": "Associada ao gene da pelagem branca: hímen imperfurado e falta de segmentos de vagina, cérvix ou útero."
+"e": "Suínos XX formam testículo ou ovotéstis sem SRY; é hereditário e o DDS mais frequente na espécie."
 },
 {
 "c": "urogenital",
