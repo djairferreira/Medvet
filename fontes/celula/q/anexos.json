@@ -83,7 +83,7 @@
 "Intestino posterior",
 "Intestino anterior",
 "Saco vitelino",
-"Tubo neural"
+"Intestino anterior (faringe)"
 ],
 "e": "É uma evaginação endodérmica do intestino posterior, revestida de mesoderma esplâncnico."
 },
@@ -149,7 +149,7 @@
 "Resto do saco vitelino ligado ao jejuno-íleo",
 "Resto do alantoide preso à cloaca da ave",
 "Dilatação do úraco junto à bexiga",
-"Prega do âmnio no umbigo"
+"Prega do âmnio que persiste no umbigo"
 ],
 "e": "O saco vitelino residual é internalizado no dia 19 e deixa esse vestígio."
 },
@@ -193,7 +193,7 @@
 "Equinos e carnívoros",
 "Bovinos e ovinos",
 "Suínos e bovinos",
-"Caprinos e suínos"
+"Bovinos, ovinos e caprinos"
 ],
 "e": "Em ruminantes e suínos o saco vitelino regride cedo."
 },
@@ -259,7 +259,7 @@
 "Urina fetal que chega pelo úraco",
 "Secreção das glândulas uterinas",
 "Líquido deglutido pelo feto",
-"Transudato do saco vitelino"
+"Secreção das glândulas uterinas maternas"
 ],
 "e": "O amniótico é que é deglutido; o alantoidiano é urina diluída."
 },
@@ -270,7 +270,7 @@
 "Lubrificar o canal do parto",
 "Fornecer glicose ao feto",
 "Formar os hipomanes",
-"Estimular a ovulação"
+"Fornecer glicose e proteína ao feto"
 ],
 "e": "Ele fica mucoso e facilita a passagem do bezerro."
 },
@@ -281,7 +281,7 @@
 "Concreções no líquido alantoidiano",
 "Placas de glicogênio no âmnio",
 "Restos de cálices endometriais",
-"Cotilédones atrofiados"
+"Restos dos cálices endometriais equinos"
 ],
 "e": "Depósitos concêntricos de mucoproteínas, cálcio e fosfato, sem significado patológico."
 },
@@ -314,7 +314,7 @@
 "Para evitar choque hipovolêmico",
 "Para evitar ruptura do âmnio",
 "Para preservar o hipomanes",
-"Para não induzir o parto"
+"Para evitar a ruptura do âmnio"
 ],
 "e": "A retirada rápida de grandes volumes provoca redistribuição e choque."
 },
@@ -322,7 +322,7 @@
 "c": "anexos",
 "q": "A eCG é produzida por:",
 "o": [
-"Cálices endometriais formados por células da cinta coriônica",
+"Cálices endometriais da cinta coriônica",
 "Corpos lúteos acessórios formados na égua",
 "Microcotilédones do alantocórion equino",
 "Células binucleadas dos placentomas"
@@ -478,7 +478,7 @@
 "o": [
 "Distocia com descolamento placentário",
 "Parto normal ainda na primeira fase",
-"Subinvolução dos sítios placentários",
+"Lóquio fisiológico do pós-parto imediato",
 "Subinvolução dos sítios placentários"
 ],
 "e": "Antes do 1º filhote, secreção verde sem nascimento em 2–4 h requer intervenção."
@@ -512,7 +512,7 @@
 "A placenta epiteliocorial não deixa passar os anticorpos",
 "O fígado fetal neutraliza os anticorpos maternos",
 "A égua só forma anticorpos depois do parto",
-"A égua só forma anticorpos depois do parto"
+"Os antígenos eritrocitários só surgem após o desmame"
 ],
 "e": "Os anticorpos chegam pelo colostro após a primeira mamada."
 },
@@ -555,7 +555,7 @@
 "o": [
 "Placentoma bem amadurecido antes do parto",
 "Parto gemelar ou distócico",
-"Deficiência de selênio e vitamina E",
+"Hipocalcemia no periparto",
 "Deficiência de selênio e vitamina E"
 ],
 "e": "A retenção decorre justamente da falha de maturação do placentoma."

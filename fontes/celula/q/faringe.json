@@ -1,0 +1,673 @@
+[
+{
+"c": "faringe",
+"q": "Qual nervo craniano pertence ao primeiro arco faríngeo?",
+"o": [
+"Trigêmeo (V)",
+"Facial (VII)",
+"Glossofaríngeo (IX)",
+"Vago (X)"
+],
+"e": "O arco I (mandibular) é inervado pelo trigêmeo, que supre os músculos mastigadores."
+},
+{
+"c": "faringe",
+"q": "Os músculos da expressão facial derivam de qual arco faríngeo?",
+"o": [
+"Segundo arco (hioide)",
+"Primeiro arco (mandibular)",
+"Terceiro arco",
+"Quarto arco"
+],
+"e": "Os mímicos vêm do arco II e por isso são inervados pelo nervo facial (VII)."
+},
+{
+"c": "faringe",
+"q": "O mesênquima que forma cartilagens e ossos da face provém principalmente de:",
+"o": [
+"Células da crista neural",
+"Mesoderma intermediário",
+"Mesoderma lateral somático",
+"Endoderma da faringe"
+],
+"e": "É ectomesênquima: crista neural que migrou para os arcos. Os músculos é que vêm do mesoderma paraxial."
+},
+{
+"c": "faringe",
+"q": "A cartilagem de Meckel, do primeiro arco, origina:",
+"o": [
+"Martelo e bigorna",
+"Estribo e estilo-hioide",
+"Cartilagem tireóidea",
+"Cricoide e aritenoides"
+],
+"e": "Meckel → martelo e bigorna; a mandíbula se forma ao redor dela por ossificação intramembranosa."
+},
+{
+"c": "faringe",
+"q": "O estribo deriva da cartilagem de qual arco?",
+"o": [
+"Segundo arco (Reichert)",
+"Primeiro arco (Meckel)",
+"Terceiro arco",
+"Sexto arco"
+],
+"e": "A cartilagem de Reichert (arco II) forma estribo e parte do aparelho hioide."
+},
+{
+"c": "faringe",
+"q": "A artéria do terceiro arco aórtico forma:",
+"o": [
+"Carótida comum e início da carótida interna",
+"Arco da aorta",
+"Ducto arterioso",
+"Artéria maxilar"
+],
+"e": "O III arco forma as carótidas; o IV esquerdo, o arco da aorta; o VI, as pulmonares e o ducto."
+},
+{
+"c": "faringe",
+"q": "Nos mamíferos, o arco da aorta definitivo deriva do:",
+"o": [
+"Quarto arco aórtico esquerdo",
+"Quarto arco aórtico direito",
+"Sexto arco aórtico esquerdo",
+"Terceiro arco aórtico esquerdo"
+],
+"e": "Nos mamíferos é o IV esquerdo; nas aves, o IV direito."
+},
+{
+"c": "faringe",
+"q": "Nas aves, o arco da aorta deriva do:",
+"o": [
+"Quarto arco aórtico direito",
+"Quarto arco aórtico esquerdo",
+"Sexto arco aórtico direito",
+"Terceiro arco aórtico direito"
+],
+"e": "Nas aves a aorta curva para a direita: vem do IV arco direito."
+},
+{
+"c": "faringe",
+"q": "O ducto arterioso é derivado da parte distal de qual arco aórtico esquerdo?",
+"o": [
+"Sexto",
+"Quarto",
+"Terceiro",
+"Segundo"
+],
+"e": "O VI arco forma as artérias pulmonares e, à esquerda, o ducto arterioso."
+},
+{
+"c": "faringe",
+"q": "Por que a hemiplegia laríngea do equino afeta quase sempre o lado esquerdo?",
+"o": [
+"O recorrente esquerdo contorna a aorta e é muito mais longo",
+"O vago esquerdo não inerva a laringe",
+"O arco VI esquerdo regride por completo",
+"O facial esquerdo comprime a laringe"
+],
+"e": "O laríngeo recorrente esquerdo fica preso ao ligamento arterioso e contorna o arco aórtico: axônio longuíssimo, vulnerável."
+},
+{
+"c": "faringe",
+"q": "Os músculos intrínsecos da laringe, exceto o cricotireóideo, são do arco:",
+"o": [
+"Sexto, inervados pelo laríngeo recorrente",
+"Quarto, inervados pelo laríngeo cranial",
+"Terceiro, inervados pelo glossofaríngeo",
+"Segundo, inervados pelo facial"
+],
+"e": "Arco VI → intrínsecos da laringe via recorrente; o cricotireóideo é do IV (laríngeo cranial)."
+},
+{
+"c": "faringe",
+"q": "Filhote de Pastor-Alemão começa a regurgitar ao passar para alimento sólido; raio X mostra esôfago dilatado cranial à base do coração. Origem embriológica provável:",
+"o": [
+"Persistência do quarto arco aórtico direito",
+"Fístula traqueoesofágica",
+"Hérnia peritônio-pericárdica",
+"Falha da segunda bolsa faríngea"
+],
+"e": "A aorta à direita forma, com o ligamento arterioso, um anel vascular que estrangula o esôfago."
+},
+{
+"c": "faringe",
+"q": "A cavidade timpânica e a tuba auditiva derivam da:",
+"o": [
+"Primeira bolsa faríngea",
+"Segunda bolsa faríngea",
+"Primeira fenda e sulco ectodérmico",
+"Terceira bolsa faríngea"
+],
+"e": "1ª bolsa: recesso tubotimpânico → orelha média e tuba auditiva."
+},
+{
+"c": "faringe",
+"q": "A bolsa gutural do equino é:",
+"o": [
+"Um divertículo da tuba auditiva (1ª bolsa)",
+"Um resto do seio cervical",
+"Um derivado da 3ª bolsa ligado ao timo",
+"Uma dilatação da traqueia cranial"
+],
+"e": "A tuba auditiva do equino forma esse grande divertículo; o timpanismo da bolsa gutural ocorre em potros."
+},
+{
+"c": "faringe",
+"q": "A membrana timpânica forma-se a partir da:",
+"o": [
+"Primeira membrana faríngea",
+"Segunda bolsa faríngea",
+"Terceira fenda faríngea",
+"Cartilagem de Reichert"
+],
+"e": "Fundo do 1º sulco + fundo da 1ª bolsa = membrana com ectoderma, mesênquima e endoderma."
+},
+{
+"c": "faringe",
+"q": "O meato acústico externo deriva do:",
+"o": [
+"Primeiro sulco (fenda) faríngeo",
+"Segundo sulco faríngeo",
+"Seio cervical",
+"Recesso tubotimpânico"
+],
+"e": "O 1º sulco é o único que persiste: meato acústico externo."
+},
+{
+"c": "faringe",
+"q": "A tonsila palatina tem relação embriológica com a:",
+"o": [
+"Segunda bolsa faríngea",
+"Primeira bolsa faríngea",
+"Quarta bolsa faríngea",
+"Eminência hipobranquial"
+],
+"e": "O endoderma da 2ª bolsa forma a fossa tonsilar, depois colonizada por linfócitos."
+},
+{
+"c": "faringe",
+"q": "O timo deriva principalmente:",
+"o": [
+"Da parte ventral da 3ª bolsa",
+"Da parte dorsal da 3ª bolsa",
+"Da parte dorsal da 4ª bolsa",
+"Do assoalho da faringe na linha média"
+],
+"e": "Ventral da 3ª bolsa → timo; dorsal da 3ª → paratireoide III."
+},
+{
+"c": "faringe",
+"q": "Por que a paratireoide III termina caudal à paratireoide IV?",
+"o": [
+"É arrastada pelo timo na descida para o tórax",
+"Surge de uma bolsa mais caudal",
+"Migra junto com a tireoide pelo ducto tireoglosso",
+"É empurrada pelo arco aórtico direito"
+],
+"e": "A III acompanha o timo, que desce, e ultrapassa a IV."
+},
+{
+"c": "faringe",
+"q": "As células C (parafoliculares) da tireoide chegam a ela pelo:",
+"o": [
+"Corpo ultimobranquial",
+"Ducto tireoglosso",
+"Forame cego",
+"Seio cervical"
+],
+"e": "O corpo ultimobranquial (parte caudal da 4ª bolsa) leva as células C, que secretam calcitonina."
+},
+{
+"c": "faringe",
+"q": "Qual afirmação sobre a tireoide está correta?",
+"o": [
+"Origina-se no assoalho da faringe, na linha média",
+"Deriva da parte dorsal da 4ª bolsa",
+"Deriva da 2ª bolsa junto com a tonsila",
+"Forma-se a partir do mesoderma do 3º arco"
+],
+"e": "A tireoide brota no assoalho, no futuro forame cego, e desce pelo ducto tireoglosso."
+},
+{
+"c": "faringe",
+"q": "Massa cística na linha média ventral do pescoço de um cão, que se move ao deglutir, sugere:",
+"o": [
+"Cisto do ducto tireoglosso",
+"Cisto branquial do 2º sulco",
+"Persistência do arco aórtico",
+"Timpanismo da bolsa gutural"
+],
+"e": "O ducto tireoglosso é mediano; cistos branquiais são laterais."
+},
+{
+"c": "faringe",
+"q": "Na tireoidectomia bilateral de um gato hipertireóideo, preservar a paratireoide externa evita:",
+"o": [
+"Hipocalcemia pós-operatória",
+"Hipercalcemia pós-operatória",
+"Hipotireoidismo central",
+"Paralisia do laríngeo recorrente"
+],
+"e": "Sem paratireoides, cai o PTH e surge hipocalcemia com tremores e convulsões."
+},
+{
+"c": "faringe",
+"q": "No suíno, qual particularidade das paratireoides é correta?",
+"o": [
+"Em geral só existe o par III, perto do timo",
+"Só existe o par IV, dentro da tireoide",
+"As paratireoides ficam no tórax, junto ao coração",
+"Existem quatro pares bem definidos"
+],
+"e": "O suíno tem em geral apenas a paratireoide externa (III), frequentemente envolta pelo timo cervical."
+},
+{
+"c": "faringe",
+"q": "Cisto ou fístula na face lateral do pescoço, ventral à orelha, é típico de:",
+"o": [
+"Restos de sulco faríngeo ou seio cervical",
+"Persistência do ducto tireoglosso",
+"Falha do septo traqueoesofágico",
+"Defeito do septo transverso"
+],
+"e": "Cistos branquiais são laterais e derivam de sulcos/seio cervical que não se fecharam."
+},
+{
+"c": "faringe",
+"q": "A musculatura da língua deriva de:",
+"o": [
+"Miótomos occipitais, com o nervo hipoglosso",
+"Mesênquima do primeiro arco, com o trigêmeo",
+"Mesênquima do segundo arco, com o facial",
+"Mesoderma esplâncnico do intestino anterior"
+],
+"e": "Os músculos linguais vêm dos somitos occipitais e trazem o XII."
+},
+{
+"c": "faringe",
+"q": "O paladar da parte rostral da língua é conduzido pelo nervo:",
+"o": [
+"Facial (corda do tímpano)",
+"Trigêmeo (nervo lingual)",
+"Hipoglosso",
+"Vago (laríngeo cranial)"
+],
+"e": "A sensibilidade geral rostral é do V, mas o paladar rostral é do VII (corda do tímpano)."
+},
+{
+"c": "faringe",
+"q": "A raiz da língua deriva principalmente:",
+"o": [
+"Da eminência hipobranquial (arcos III e IV)",
+"Das proeminências linguais laterais",
+"Do tubérculo ímpar",
+"Da cópula do segundo arco"
+],
+"e": "A eminência hipobranquial cobre a cópula e forma a raiz."
+},
+{
+"c": "faringe",
+"q": "O segmento intermaxilar, formado pela fusão das proeminências nasais mediais, origina:",
+"o": [
+"Filtro do lábio, osso incisivo e palato primário",
+"Palato secundário e palato mole",
+"Asas do nariz e ducto nasolacrimal",
+"Mandíbula e lábio inferior"
+],
+"e": "O segmento intermaxilar forma a parte média do lábio, o incisivo e o palato primário."
+},
+{
+"c": "faringe",
+"q": "A fenda labial (queilosquise) resulta da falha de fusão entre:",
+"o": [
+"Proeminência maxilar e nasal medial",
+"Proeminências mandibulares",
+"Prateleiras palatinas e septo nasal",
+"Proeminência nasal lateral e frontal"
+],
+"e": "Lábio superior: maxilar + nasal medial. Se não se fundem, fenda lateral ao filtro."
+},
+{
+"c": "faringe",
+"q": "O ducto nasolacrimal forma-se no sulco entre:",
+"o": [
+"Proeminência nasal lateral e maxilar",
+"Proeminência nasal medial e maxilar",
+"Proeminências mandibular e maxilar",
+"Proeminências nasal medial e lateral"
+],
+"e": "Um cordão ectodérmico no sulco nasolacrimal se canaliza; a falha gera atresia do ponto."
+},
+{
+"c": "faringe",
+"q": "O palato secundário forma-se a partir de:",
+"o": [
+"Prateleiras palatinas das proeminências maxilares",
+"Segmento intermaxilar",
+"Proeminências mandibulares",
+"Septo transverso"
+],
+"e": "As prateleiras saem das maxilares, giram para a horizontal e se fundem."
+},
+{
+"c": "faringe",
+"q": "Por que alcaloides de lupinos e cicuta causam fenda palatina e artrogripose juntas?",
+"o": [
+"Reduzem os movimentos fetais, e a língua não desce",
+"Destroem os neurônios motores por infecção viral",
+"Inibem a síntese de colágeno das cartilagens",
+"Bloqueiam o sinal Sonic hedgehog da notocorda"
+],
+"e": "Bloqueando receptores nicotínicos, imobilizam o feto: língua entre as prateleiras e articulações fixas."
+},
+{
+"c": "faringe",
+"q": "Filhote de Bulldogue com leite saindo pelas narinas ao mamar e tosse. A suspeita principal é:",
+"o": [
+"Fenda palatina",
+"Atresia do ponto nasolacrimal",
+"Cisto do ducto tireoglosso",
+"Hérnia peritônio-pericárdica"
+],
+"e": "Sem palato não há vácuo para sugar; o leite reflui e há risco de pneumonia por aspiração."
+},
+{
+"c": "faringe",
+"q": "Qual destes NÃO é causa reconhecida de palatosquise em animais?",
+"o": [
+"Deficiência de surfactante",
+"Corticoides em doses altas",
+"Lupinos na dieta da vaca",
+"Predisposição de raças braquicefálicas"
+],
+"e": "Surfactante é do pulmão; as demais são causas clássicas de fenda palatina."
+},
+{
+"c": "faringe",
+"q": "O septo traqueoesofágico forma-se pela fusão das:",
+"o": [
+"Cristas traqueoesofágicas",
+"Pregas pleuroperitoneais",
+"Prateleiras palatinas",
+"Pregas pleuropericárdicas"
+],
+"e": "As cristas nas bordas do sulco laringotraqueal se fundem e separam traqueia de esôfago."
+},
+{
+"c": "faringe",
+"q": "Nos órgãos respiratórios, o endoderma forma:",
+"o": [
+"O epitélio e as glândulas das vias aéreas",
+"As cartilagens da traqueia",
+"O músculo liso dos brônquios",
+"A pleura visceral"
+],
+"e": "Endoderma = parênquima epitelial; cartilagem, músculo liso e pleura vêm do mesoderma."
+},
+{
+"c": "faringe",
+"q": "Bezerro recém-nascido tosse e engasga a cada mamada; a gestação teve hidrâmnio. Hipótese embriológica:",
+"o": [
+"Fístula traqueoesofágica com atresia de esôfago",
+"Hipoplasia do timo",
+"Persistência do ducto arterioso",
+"Falha do primeiro sulco faríngeo"
+],
+"e": "O feto não engole o líquido amniótico (hidrâmnio) e, após o parto, o leite passa para a traqueia."
+},
+{
+"c": "faringe",
+"q": "O brônquio traqueal, que ventila o lobo cranial direito diretamente da traqueia, ocorre em:",
+"o": [
+"Ruminantes e suínos",
+"Equinos e cães",
+"Gatos e cães",
+"Equinos e aves"
+],
+"e": "Bovinos, pequenos ruminantes e suínos têm brônquio traqueal."
+},
+{
+"c": "faringe",
+"q": "Qual espécie doméstica não tem lobo médio no pulmão direito?",
+"o": [
+"Equino",
+"Bovino",
+"Cão",
+"Suíno"
+],
+"e": "O equino tem só cranial, caudal e acessório à direita, com fissuras rasas."
+},
+{
+"c": "faringe",
+"q": "Na fase pseudoglandular do pulmão:",
+"o": [
+"Ramificam-se as vias até os bronquíolos terminais",
+"Surgem os pneumócitos tipo II e o surfactante",
+"Formam-se os septos alveolares secundários",
+"Os capilares encostam no epitélio dos sacos"
+],
+"e": "Na pseudoglandular não há bronquíolos respiratórios nem alvéolos: incompatível com a vida extrauterina."
+},
+{
+"c": "faringe",
+"q": "A fase canalicular caracteriza-se por:",
+"o": [
+"Bronquíolos respiratórios, ductos alveolares e vascularização",
+"Formação dos brotos broncopulmonares",
+"Divisão dos sacos por septos secundários",
+"Separação da traqueia e do esôfago"
+],
+"e": "Na canalicular surgem bronquíolos respiratórios e ductos, e o mesênquima se vasculariza."
+},
+{
+"c": "faringe",
+"q": "As células que produzem o surfactante são:",
+"o": [
+"Pneumócitos tipo II",
+"Pneumócitos tipo I",
+"Células caliciformes",
+"Macrófagos alveolares"
+],
+"e": "Os tipo II, cúbicos, guardam surfactante em corpos lamelares."
+},
+{
+"c": "faringe",
+"q": "O principal componente do surfactante é:",
+"o": [
+"Dipalmitoilfosfatidilcolina",
+"Colesterol livre",
+"Proteína SP-A",
+"Ácido hialurônico"
+],
+"e": "Cerca de 90% são fosfolipídios, sobretudo DPPC."
+},
+{
+"c": "faringe",
+"q": "Segundo a lei de Laplace, sem surfactante os alvéolos menores tendem a:",
+"o": [
+"Colapsar, esvaziando-se nos maiores",
+"Expandir-se mais que os maiores",
+"Encher-se apenas de ar",
+"Manter pressão igual à dos maiores"
+],
+"e": "P = 2T/r: com raio menor, maior pressão de colapso."
+},
+{
+"c": "faringe",
+"q": "O principal sinal endócrino que aumenta a produção de surfactante no fim da gestação é:",
+"o": [
+"Cortisol fetal",
+"Progesterona materna",
+"Relaxina",
+"Prolactina"
+],
+"e": "O cortisol fetal (com hormônios tireoidianos) acelera a maturação pulmonar."
+},
+{
+"c": "faringe",
+"q": "Potro nascido aos 305 dias, com taquipneia, esforço expiratório e cianose crescentes. Mecanismo principal:",
+"o": [
+"Deficiência de surfactante com atelectasia",
+"Fístula traqueoesofágica",
+"Hérnia peritônio-pericárdica",
+"Persistência do arco aórtico direito"
+],
+"e": "Prematuro: surfactante insuficiente, colapso alveolar e membranas hialinas."
+},
+{
+"c": "faringe",
+"q": "Comparado a um potro ou bezerro, o filhote de cão nasce com pulmões:",
+"o": [
+"Menos maduros, alveolização sobretudo pós-natal",
+"Mais maduros, alveolização completa",
+"Sem pneumócitos tipo I",
+"Ainda na fase pseudoglandular"
+],
+"e": "Altriciais nascem na transição sacular-alveolar; precociais já alveolizados."
+},
+{
+"c": "faringe",
+"q": "A absorção do líquido pulmonar no parto depende principalmente de:",
+"o": [
+"Canais de Na+ (ENaC) estimulados por catecolaminas",
+"Secreção ativa de Cl- pelo epitélio",
+"Contração dos músculos intercostais",
+"Fechamento do ducto arterioso"
+],
+"e": "No feto o epitélio secreta Cl-; no parto passa a absorver Na+ e a água vai junto."
+},
+{
+"c": "faringe",
+"q": "Nas aves, as trocas gasosas ocorrem em:",
+"o": [
+"Capilares aéreos dos parabrônquios",
+"Alvéolos de fundo cego",
+"Sacos aéreos abdominais",
+"Mesobrônquio"
+],
+"e": "O pulmão das aves tem fluxo unidirecional pelos parabrônquios; sacos aéreos não trocam gases."
+},
+{
+"c": "faringe",
+"q": "Por que apertar o tórax de uma ave na contenção pode ser fatal?",
+"o": [
+"Sem diafragma, a ventilação depende do esterno",
+"O pulmão rígido rompe-se facilmente",
+"Os sacos aéreos ficam no pescoço",
+"O coração fica fora da cavidade celomática"
+],
+"e": "Aves não têm diafragma muscular; imobilizar esterno e costelas impede a ventilação."
+},
+{
+"c": "faringe",
+"q": "O centro tendíneo do diafragma deriva do:",
+"o": [
+"Septo transverso",
+"Mesentério dorsal do esôfago",
+"Membranas pleuroperitoneais",
+"Miótomos da parede torácica"
+],
+"e": "O septo transverso forma a parte ventral e central, o centro tendíneo."
+},
+{
+"c": "faringe",
+"q": "Os pilares do diafragma derivam do:",
+"o": [
+"Mesentério dorsal do esôfago",
+"Septo transverso",
+"Pericárdio fibroso",
+"Mesonefro"
+],
+"e": "O mesentério do esôfago forma a porção mediana dorsal, invadida por mioblastos (pilares)."
+},
+{
+"c": "faringe",
+"q": "Por que o nervo frênico sai de C5–C7?",
+"o": [
+"O diafragma começa no pescoço e desce depois",
+"Os pulmões crescem a partir do pescoço",
+"O coração é inervado por esses segmentos",
+"O esôfago cervical arrasta o nervo"
+],
+"e": "Septo e mioblastos começam em nível cervical; o órgão migra caudalmente e leva o nervo."
+},
+{
+"c": "faringe",
+"q": "A hérnia diafragmática congênita dorsolateral resulta da falha de:",
+"o": [
+"Fechamento de um canal pleuroperitoneal",
+"Formação do septo transverso ventral",
+"Fusão das prateleiras palatinas",
+"Formação das pregas pleuropericárdicas"
+],
+"e": "As pregas pleuroperitoneais não fecham o canal, geralmente o esquerdo."
+},
+{
+"c": "faringe",
+"q": "A hérnia congênita mais comum do diafragma em cães e gatos é a:",
+"o": [
+"Peritônio-pericárdica",
+"Pleuroperitoneal esquerda",
+"De hiato esofágico",
+"Pleuroperitoneal direita"
+],
+"e": "A HPPD (defeito ventral do septo transverso) é a forma congênita mais vista em pequenos animais."
+},
+{
+"c": "faringe",
+"q": "Gato Persa jovem com silhueta cardíaca muito aumentada e gás intestinal sobreposto ao coração no raio X. Hipótese:",
+"o": [
+"Hérnia peritônio-pericárdica",
+"Fístula traqueoesofágica",
+"Persistência do ducto arterioso",
+"Cisto branquial"
+],
+"e": "Vísceras abdominais no saco pericárdico: HPPD, comum em Persas e Maine Coon."
+},
+{
+"c": "faringe",
+"q": "Qual complicação acompanha a hérnia diafragmática congênita e define o prognóstico?",
+"o": [
+"Hipoplasia pulmonar",
+"Fenda palatina",
+"Hipocalcemia",
+"Megaesôfago"
+],
+"e": "Vísceras no tórax comprimem o pulmão em desenvolvimento."
+},
+{
+"c": "faringe",
+"q": "A esplancnopleura forma:",
+"o": [
+"As serosas viscerais",
+"As serosas parietais",
+"A derme da parede",
+"Os músculos intercostais"
+],
+"e": "Somatopleura → parietais; esplancnopleura → viscerais."
+},
+{
+"c": "faringe",
+"q": "No equino, pneumotórax ou derrame pleural tendem a ser bilaterais porque:",
+"o": [
+"O mediastino caudal é fino e fenestrado",
+"Não há pregas pleuropericárdicas",
+"As pleuras não se separam do peritônio",
+"O pulmão não tem lobos"
+],
+"e": "O mediastino fenestrado comunica as cavidades pleurais no equino."
+},
+{
+"c": "faringe",
+"q": "A otocefalia em cordeiros, com orelhas ventrais quase unidas, decorre de:",
+"o": [
+"Falta de desenvolvimento do primeiro arco",
+"Excesso de crescimento do segundo arco",
+"Falha da segunda bolsa faríngea",
+"Persistência do seio cervical"
+],
+"e": "Sem mandíbula (agnatia), as orelhas permanecem em posição ventral."
+}
+]
