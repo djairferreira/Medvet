@@ -1,0 +1,673 @@
+[
+{
+"c": "dobramento",
+"q": "Qual é a principal causa do dobramento do disco embrionário?",
+"o": [
+"Crescimento rápido do tubo neural e dos somitos em relação à borda do disco",
+"Contração ativa da parede do saco vitelino, que puxa o disco para baixo",
+"Pressão do líquido amniótico sobre o dorso do embrião",
+"Apoptose maciça das células da linha média ventral"
+],
+"e": "O eixo cresce muito mais que a borda presa ao âmnio e ao saco vitelino, e o disco se curva."
+},
+{
+"c": "dobramento",
+"q": "Na dobra cefálica, qual estrutura, antes cranial à membrana bucofaríngea, passa a ficar ventral ao intestino anterior?",
+"o": [
+"Coração",
+"Alantoide",
+"Notocorda",
+"Membrana cloacal"
+],
+"e": "A área cardiogênica gira cerca de 180° e o coração fica ventral ao intestino anterior."
+},
+{
+"c": "dobramento",
+"q": "Após a dobra cefálica, onde fica o septo transverso?",
+"o": [
+"Caudal ao coração, entre a cavidade pericárdica e o pedículo vitelino",
+"Dorsal ao tubo neural, logo abaixo do ectoderma superficial do dorso",
+"Cranial ao encéfalo, junto à proeminência frontonasal",
+"Na parede do alantoide, perto da cloaca"
+],
+"e": "O septo transverso, cranial ao coração na placa, fica caudal a ele após o giro; contribui para o diafragma e abriga o fígado."
+},
+{
+"c": "dobramento",
+"q": "A dobra caudal leva para a face ventral do embrião:",
+"o": [
+"A membrana cloacal e a base do alantoide",
+"O coração e o septo transverso",
+"A membrana bucofaríngea e a bolsa de Rathke",
+"A notocorda e os somitos occipitais"
+],
+"e": "Com a curvatura da cauda, a membrana cloacal e o alantoide passam a ser ventrais."
+},
+{
+"c": "dobramento",
+"q": "Qual parte do intestino primitivo permanece ligada ao saco vitelino pelo ducto vitelino?",
+"o": [
+"Intestino médio",
+"Intestino anterior",
+"Intestino posterior",
+"Faringe primitiva"
+],
+"e": "As dobras laterais estreitam a comunicação do intestino médio com o saco vitelino até o ducto vitelino."
+},
+{
+"c": "dobramento",
+"q": "As dobras laterais são responsáveis principalmente por:",
+"o": [
+"Fechar a parede ventral do corpo e o intestino médio",
+"Formar o estomodeu e o proctodeu",
+"Segmentar o mesoderma paraxial em somitos ao longo do tronco",
+"Separar o neuroectoderma do ectoderma superficial"
+],
+"e": "A somatopleura curva-se e funde-se na linha média ventral, e a esplancnopleura fecha o intestino."
+},
+{
+"c": "dobramento",
+"q": "O plano corporal resultante do dobramento é descrito como:",
+"o": [
+"Tubo dentro de tubo, com o celoma entre os dois",
+"Disco trilaminar plano sobre o vitelo",
+"Esfera oca com uma camada de células",
+"Três tubos paralelos e maciços, sem cavidade entre eles"
+],
+"e": "Tubo externo (parede) envolve o tubo interno (intestino), separados pelo celoma."
+},
+{
+"c": "dobramento",
+"q": "As membranas bucofaríngea e cloacal têm em comum:",
+"o": [
+"Não ter mesoderma entre ectoderma e endoderma",
+"Ser formadas apenas por mesoderma lateral sem epitélio",
+"Persistir no animal adulto como diafragmas",
+"Derivar da crista neural cefálica"
+],
+"e": "São pontos onde o ectoderma toca diretamente o endoderma."
+},
+{
+"c": "dobramento",
+"q": "O estomodeu é:",
+"o": [
+"Uma depressão ectodérmica que forma a boca primitiva",
+"Uma evaginação endodérmica do intestino posterior",
+"O divertículo do teto da faringe que forma a tireoide",
+"A dilatação terminal do intestino posterior"
+],
+"e": "Fica entre a proeminência frontonasal, a saliência cardíaca e os primeiros arcos."
+},
+{
+"c": "dobramento",
+"q": "A ruptura da membrana bucofaríngea permite ao feto:",
+"o": [
+"Engolir líquido amniótico",
+"Eliminar urina pela cloaca",
+"Respirar ar pela traqueia",
+"Absorver vitelo pelo intestino médio"
+],
+"e": "A faringe passa a se comunicar com a cavidade amniótica."
+},
+{
+"c": "dobramento",
+"q": "O septo urorretal divide a cloaca em:",
+"o": [
+"Seio urogenital ventral e reto dorsal",
+"Intestino médio e intestino posterior",
+"Proctodeu e estomodeu",
+"Bexiga dorsal e ureter ventral"
+],
+"e": "E a membrana cloacal em membranas urogenital e anal."
+},
+{
+"c": "dobramento",
+"q": "Um leitão nasce normal mas fica com o abdome distendido em 2 dias, sem eliminar fezes. A causa embriológica mais provável é:",
+"o": [
+"Persistência da membrana anal (atresia anal)",
+"Falha no fechamento do neuróporo caudal (espinha bífida)",
+"Persistência do ducto vitelino",
+"Falha da dobra cefálica"
+],
+"e": "A atresia anal é das malformações mais comuns em leitões."
+},
+{
+"c": "dobramento",
+"q": "A adeno-hipófise deriva de:",
+"o": [
+"Bolsa de Rathke, do ectoderma do estomodeu",
+"Assoalho do diencéfalo (neuroectoderma)",
+"Terceira bolsa faríngea (endoderma)",
+"Crista neural cefálica que migra para a base do crânio"
+],
+"e": "A neuro-hipófise é que vem do diencéfalo."
+},
+{
+"c": "dobramento",
+"q": "Os somitômeros mais craniais (cerca de sete) originam:",
+"o": [
+"Músculos da cabeça e dos arcos faríngeos",
+"Vértebras cervicais e a base do osso occipital",
+"Derme do dorso",
+"Rins e gônadas"
+],
+"e": "Eles não chegam a formar somitos verdadeiros."
+},
+{
+"c": "dobramento",
+"q": "Num embrião, o número de pares de somitos é usado para:",
+"o": [
+"Estimar a idade do embrião",
+"Determinar o sexo genético",
+"Prever o tamanho da ninhada",
+"Medir a função placentária"
+],
+"e": "Os somitos surgem em ritmo constante; o neuróporo cranial fecha com cerca de 18–20 pares."
+},
+{
+"c": "dobramento",
+"q": "O 'relógio de segmentação' do mesoderma pré-somítico envolve oscilação de genes da via:",
+"o": [
+"Notch (família Hes)",
+"Hemoglobina",
+"Queratina",
+"Colágeno tipo I"
+],
+"e": "Notch e Wnt oscilam; a frente de onda é definida por FGF8 contra ácido retinoico."
+},
+{
+"c": "dobramento",
+"q": "O esclerótomo é induzido principalmente por:",
+"o": [
+"Shh e noggin da notocorda e da placa do assoalho",
+"Wnt do ectoderma dorsal e da parte dorsal do tubo neural",
+"FGF10 do mesênquima pulmonar",
+"Interferon-tau do trofoblasto"
+],
+"e": "Expressa Pax1 e Pax9 e forma vértebras e costelas."
+},
+{
+"c": "dobramento",
+"q": "Qual derivado do somito forma os tendões dos músculos axiais?",
+"o": [
+"Sindétomo",
+"Dermátomo",
+"Esclerótomo ventral",
+"Nefrótomo"
+],
+"e": "O sindétomo (Scleraxis) fica entre esclerótomo e miótomo."
+},
+{
+"c": "dobramento",
+"q": "Os músculos dos membros derivam de:",
+"o": [
+"Mioblastos hipaxiais que migram dos somitos",
+"Mesoderma lateral somático do próprio broto do membro",
+"Crista neural do tronco",
+"Mesoderma intermediário"
+],
+"e": "Os ossos e tendões do membro vêm da placa lateral; os músculos, dos somitos."
+},
+{
+"c": "dobramento",
+"q": "Os ossos dos membros e o esterno derivam de:",
+"o": [
+"Mesoderma lateral somático",
+"Esclerótomo dos somitos",
+"Crista neural",
+"Mesoderma esplâncnico"
+],
+"e": "A somatopleura forma o esqueleto dos membros e o esterno."
+},
+{
+"c": "dobramento",
+"q": "Músculos epaxiais são inervados por:",
+"o": [
+"Ramos dorsais dos nervos espinhais",
+"Ramos ventrais dos nervos espinhais",
+"Nervo vago",
+"Nervos cranianos dos arcos"
+],
+"e": "Os hipaxiais recebem os ramos ventrais."
+},
+{
+"c": "dobramento",
+"q": "Cada vértebra definitiva se forma:",
+"o": [
+"Da metade caudal de um esclerótomo e da cranial do seguinte",
+"De um esclerótomo inteiro somado ao dermátomo do mesmo segmento",
+"Exclusivamente da notocorda",
+"Do mesoderma intermediário segmentado"
+],
+"e": "É a ressegmentação (cap. 27)."
+},
+{
+"c": "dobramento",
+"q": "Todos os mamíferos domésticos têm 7 vértebras cervicais, mas o equino tem 18 torácicas e o bovino 13. Essa diferença reflete:",
+"o": [
+"Posição diferente das fronteiras de expressão dos genes Hox",
+"Número diferente de folhetos germinativos em cada espécie doméstica",
+"Ausência de notocorda no equino",
+"Apoptose de somitos no bovino"
+],
+"e": "O código Hox dá identidade regional aos somitos."
+},
+{
+"c": "dobramento",
+"q": "O que diz o princípio da colinearidade dos genes Hox?",
+"o": [
+"A ordem no cromossomo corresponde à ordem de expressão no eixo",
+"Cada gene Hox está localizado num cromossomo diferente do genoma",
+"Os genes Hox só se expressam no adulto",
+"Genes Hox são idênticos em todas as células"
+],
+"e": "Os primeiros genes do grupo se expressam mais cranial e mais cedo."
+},
+{
+"c": "dobramento",
+"q": "Excesso de ácido retinoico no período embrionário pode causar:",
+"o": [
+"Transformação homeótica de vértebras e fenda palatina",
+"Freemartinismo em gêmeas bovinas de gestação com macho",
+"Persistência do ducto arterioso",
+"Hipoplasia cerebelar viral"
+],
+"e": "O ácido retinoico ativa genes Hox e desloca o código."
+},
+{
+"c": "dobramento",
+"q": "Competência, no contexto da indução, significa:",
+"o": [
+"Capacidade do tecido responsivo de reagir ao sinal",
+"Capacidade do tecido indutor de produzir e liberar o sinal",
+"Velocidade de difusão do morfógeno",
+"Número de divisões que a célula ainda faz"
+],
+"e": "Depende de receptores e fatores presentes naquele momento."
+},
+{
+"c": "dobramento",
+"q": "Nos mamíferos e aves, o equivalente ao organizador de Spemann é:",
+"o": [
+"O nó primitivo",
+"O saco vitelino",
+"O septo transverso",
+"A membrana cloacal"
+],
+"e": "Na galinha é chamado nó de Hensen."
+},
+{
+"c": "dobramento",
+"q": "Qual família de sinais NÃO está entre as quatro grandes famílias parácrinas do desenvolvimento?",
+"o": [
+"Insulinas",
+"Hedgehog",
+"Wnt",
+"TGF-β"
+],
+"e": "As quatro são Hedgehog, Wnt, FGF e TGF-β (BMP, Nodal)."
+},
+{
+"c": "dobramento",
+"q": "A ciclopia de cordeiros cujas mães ingeriram Veratrum se explica porque a ciclopamina:",
+"o": [
+"Bloqueia a via Sonic hedgehog",
+"Ativa genes Hox posteriores",
+"Destrói o saco vitelino",
+"Impede a ruptura da membrana bucofaríngea"
+],
+"e": "Sem Shh a linha média da face e do prosencéfalo não se forma."
+},
+{
+"c": "dobramento",
+"q": "O modelo da 'bandeira francesa' explica:",
+"o": [
+"Destinos celulares diferentes conforme a concentração de um morfógeno",
+"A formação das três cores da pelagem em gatas tricolores heterozigotas",
+"A divisão do celoma em três cavidades",
+"A migração dos melanócitos"
+],
+"e": "Cada célula lê a concentração e ultrapassa ou não limiares."
+},
+{
+"c": "dobramento",
+"q": "Por que o pato tem membrana interdigital e o frango não?",
+"o": [
+"No pato a apoptose interdigital é bloqueada",
+"No frango falta mesoderma nos membros",
+"O pato não tem genes Hox nos membros",
+"No frango a crista neural destrói a membrana"
+],
+"e": "Uma proteína antagonista de BMP protege as células interdigitais no pato."
+},
+{
+"c": "dobramento",
+"q": "Na transição epitélio–mesênquima, a célula:",
+"o": [
+"Perde E-caderina e passa a migrar",
+"Ganha junções oclusivas e para de migrar",
+"Forma uma lâmina basal nova",
+"Torna-se totipotente"
+],
+"e": "Exemplos: ingressão na linha primitiva, crista neural, esclerótomo."
+},
+{
+"c": "dobramento",
+"q": "Qual afirmação sobre mesênquima é correta?",
+"o": [
+"É um tipo de tecido que pode vir do mesoderma ou da crista neural",
+"É sinônimo exato de mesoderma, usado só para tecido embrionário",
+"Origina apenas epitélios",
+"Só existe no embrião de aves"
+],
+"e": "O ectomesênquima da crista forma ossos da face e dentina."
+},
+{
+"c": "dobramento",
+"q": "A bipartição de embriões bovinos para gerar gêmeos idênticos é possível porque:",
+"o": [
+"O ovo de mamífero tem capacidade de regulação",
+"Os blastômeros já estão determinados como em mosaico",
+"O trofoblasto é pluripotente",
+"Cada blastômero tem metade do genoma"
+],
+"e": "As partes reorganizam o plano corporal."
+},
+{
+"c": "dobramento",
+"q": "A somatopleura é formada por:",
+"o": [
+"Mesoderma somático e ectoderma",
+"Mesoderma esplâncnico e endoderma",
+"Neuroectoderma e notocorda",
+"Mesoderma intermediário e endoderma"
+],
+"e": "A esplancnopleura é mesoderma esplâncnico + endoderma."
+},
+{
+"c": "dobramento",
+"q": "O pericárdio, a pleura e o peritônio visceral são revestidos por mesotélio derivado de:",
+"o": [
+"Mesoderma esplâncnico",
+"Endoderma",
+"Ectoderma",
+"Crista neural"
+],
+"e": "O mesotélio parietal vem do mesoderma somático."
+},
+{
+"c": "dobramento",
+"q": "Celoma intraembrionário e extraembrionário se comunicam:",
+"o": [
+"Pelo umbigo",
+"Pela membrana bucofaríngea",
+"Pelo neuróporo caudal",
+"Pelo ducto arterioso"
+],
+"e": "Por essa comunicação as alças intestinais herniam fisiologicamente no cordão."
+},
+{
+"c": "dobramento",
+"q": "O mesoderma intermediário origina principalmente:",
+"o": [
+"Rins, gônadas e ductos genitais",
+"Vértebras e costelas",
+"Coração e vasos",
+"Músculos da parede abdominal"
+],
+"e": "Detalhes no cap. 26."
+},
+{
+"c": "dobramento",
+"q": "O epitélio dos pré-estômagos dos ruminantes deriva de:",
+"o": [
+"Endoderma",
+"Ectoderma",
+"Mesoderma esplâncnico",
+"Crista neural"
+],
+"e": "Apesar de estratificado e queratinizado, é endodérmico."
+},
+{
+"c": "dobramento",
+"q": "O epitélio da bexiga urinária deriva principalmente de:",
+"o": [
+"Endoderma do seio urogenital",
+"Mesoderma intermediário",
+"Ectoderma do proctodeu",
+"Mesoderma lateral somático"
+],
+"e": "Só o trígono recebe contribuição mesodérmica do ducto mesonéfrico."
+},
+{
+"c": "dobramento",
+"q": "Qual artéria irriga os derivados do intestino médio?",
+"o": [
+"Mesentérica cranial",
+"Celíaca",
+"Mesentérica caudal",
+"Ilíaca interna"
+],
+"e": "Celíaca: intestino anterior; mesentérica caudal: posterior."
+},
+{
+"c": "dobramento",
+"q": "Em quais espécies o saco vitelino forma uma placenta coriovitelina transitória importante?",
+"o": [
+"Equinos e carnívoros",
+"Ruminantes e suínos",
+"Apenas aves",
+"Apenas primatas"
+],
+"e": "Em ruminantes e suínos ele regride cedo."
+},
+{
+"c": "dobramento",
+"q": "No pintinho recém-eclodido, o divertículo vitelino:",
+"o": [
+"Fornece nutrientes nos primeiros dias de vida",
+"Forma a bolsa cloacal",
+"Origina o fígado definitivo",
+"É eliminado antes da eclosão através dos poros da casca"
+],
+"e": "O saco vitelino é internalizado por volta do 19º dia de incubação."
+},
+{
+"c": "dobramento",
+"q": "Qual par está CORRETO quanto à origem?",
+"o": [
+"Dentina – crista neural",
+"Esmalte – crista neural",
+"Córtex da adrenal – crista neural",
+"Timo – mesoderma"
+],
+"e": "Esmalte é ectoderma; córtex da adrenal, mesoderma; timo, endoderma."
+},
+{
+"c": "dobramento",
+"q": "Os músculos esfíncter e dilatador da pupila derivam de:",
+"o": [
+"Neuroectoderma",
+"Mesoderma paraxial",
+"Mesoderma lateral",
+"Endoderma"
+],
+"e": "Exceção: músculo liso de origem neuroectodérmica (cálice óptico)."
+},
+{
+"c": "dobramento",
+"q": "Qual estrutura deriva da crista neural?",
+"o": [
+"Medula da adrenal",
+"Córtex da adrenal",
+"Baço",
+"Epitélio da tireoide"
+],
+"e": "As células cromafins são neurônios simpáticos modificados."
+},
+{
+"c": "dobramento",
+"q": "O ligamento redondo do fígado é o remanescente de:",
+"o": [
+"Veia umbilical",
+"Artéria umbilical",
+"Úraco",
+"Ducto vitelino"
+],
+"e": "As artérias umbilicais formam os ligamentos redondos da bexiga."
+},
+{
+"c": "dobramento",
+"q": "Potro com urina gotejando pelo umbigo nos primeiros dias de vida sugere:",
+"o": [
+"Úraco persistente",
+"Divertículo de Meckel",
+"Atresia anal",
+"Onfalocele"
+],
+"e": "O úraco é o pedículo do alantoide que liga a bexiga ao umbigo."
+},
+{
+"c": "dobramento",
+"q": "O divertículo de Meckel resulta da persistência de:",
+"o": [
+"Parte proximal do ducto vitelino",
+"Membrana cloacal que não se rompeu",
+"Úraco",
+"Septo transverso"
+],
+"e": "Fica no íleo e pode causar volvo ou estrangulamento."
+},
+{
+"c": "dobramento",
+"q": "Bezerro com abscesso hepático após infecção umbilical: a via mais provável foi a:",
+"o": [
+"Veia umbilical (onfaloflebite)",
+"Artéria umbilical (onfaloarterite)",
+"Úraco (uraquite)",
+"Ducto vitelino persistente"
+],
+"e": "A veia umbilical leva ao fígado."
+},
+{
+"c": "dobramento",
+"q": "Vísceras expostas, sem membrana, ao lado de um cordão umbilical normal caracterizam:",
+"o": [
+"Gastrosquise",
+"Onfalocele",
+"Hérnia umbilical",
+"Ectopia cordis"
+],
+"e": "Na onfalocele as vísceras ficam num saco de âmnio e peritônio."
+},
+{
+"c": "dobramento",
+"q": "Na onfalocele, o defeito básico é:",
+"o": [
+"Não retorno das alças da hérnia umbilical fisiológica",
+"Ruptura precoce da membrana bucofaríngea no estomodeu",
+"Falta de fusão do palato",
+"Persistência do neuróporo caudal"
+],
+"e": "As vísceras ficam cobertas por membrana na base do cordão."
+},
+{
+"c": "dobramento",
+"q": "Feto bovino com vísceras expostas, coluna dobrada para trás e membros posteriores junto à cabeça causando distocia é um:",
+"o": [
+"Esquistossomo reflexo",
+"Acárdio amorfo",
+"Perosomus elumbis",
+"Freemartin"
+],
+"e": "Falha grave do fechamento ventral; exige fetotomia ou cesariana."
+},
+{
+"c": "dobramento",
+"q": "Gêmeos unidos simétricos ligados pelo tórax são chamados:",
+"o": [
+"Toracópagos",
+"Pigópagos",
+"Isquiópagos",
+"Cefalópagos"
+],
+"e": "É o tipo mais frequente."
+},
+{
+"c": "dobramento",
+"q": "O acárdio amorfo de bovinos é um exemplo de:",
+"o": [
+"Gêmeo assimétrico parasita",
+"Gêmeo dizigótico normal",
+"Quimera sanguínea freemartin",
+"Duplicação cefálica parcial"
+],
+"e": "É nutrido pela circulação do gêmeo normal."
+},
+{
+"c": "dobramento",
+"q": "Uma agressão ao concepto antes da implantação geralmente resulta em:",
+"o": [
+"Morte do embrião ou nenhum efeito",
+"Malformações graves de membros",
+"Hipoplasia cerebelar",
+"Fenda palatina isolada"
+],
+"e": "É o período do 'tudo ou nada'."
+},
+{
+"c": "dobramento",
+"q": "Alcaloides de Lupinus e Conium causam artrogripose e fenda palatina principalmente porque:",
+"o": [
+"Reduzem os movimentos fetais",
+"Destroem o tubo neural",
+"Bloqueiam a síntese de hemoglobina",
+"Impedem o dobramento lateral"
+],
+"e": "Bloqueio nicotínico imobiliza o feto na janela crítica."
+},
+{
+"c": "dobramento",
+"q": "Cabras no semiárido brasileiro com filhotes com artrogripose e microftalmia: qual planta investigar?",
+"o": [
+"Mimosa tenuiflora",
+"Veratrum californicum",
+"Lupinus formosus",
+"Nicotiana glauca"
+],
+"e": "A jurema-preta é teratogênica para pequenos ruminantes."
+},
+{
+"c": "dobramento",
+"q": "Hemivértebras são comuns em:",
+"o": [
+"Cães braquicefálicos de cauda em saca-rolhas",
+"Equinos puro-sangue inglês de linhagem de corrida",
+"Suínos de linhagem Landrace",
+"Gatos persas de pelagem longa"
+],
+"e": "Buldogue francês, Pug e Boston terrier."
+},
+{
+"c": "dobramento",
+"q": "Por que um membro tem ossos e músculos de origens diferentes?",
+"o": [
+"Ossos vêm da placa lateral e músculos migram dos somitos",
+"Ossos vêm da crista neural e músculos do ectoderma",
+"Ambos vêm do esclerótomo",
+"Os músculos vêm do mesoderma intermediário"
+],
+"e": "Mioblastos hipaxiais migram para o broto (Pax3, c-Met)."
+},
+{
+"c": "dobramento",
+"q": "As células germinativas primordiais:",
+"o": [
+"Passam pela parede do saco vitelino antes de chegar à gônada",
+"Surgem já na crista gonadal a partir do mesotélio celômico local",
+"Derivam da crista neural do tronco",
+"São produzidas pelo alantoide das aves"
+],
+"e": "Originam-se no epiblasto e migram pelo intestino posterior e mesentério."
+}
+]
