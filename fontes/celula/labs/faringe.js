@@ -68,7 +68,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
     ['Defeito 2: hérnia peritônio-pericárdica','Falha na parte <b>ventral</b> do septo transverso: o peritônio fica aberto para o <b>saco pericárdico</b>, e fígado, vesícula, omento ou alças ficam junto ao coração. É a hérnia congênita mais comum em <b>cães e gatos</b> (Persa, Maine Coon, Weimaraner), muitas vezes com hérnia umbilical e defeitos do esterno.']];
   const arcPath=(x1,y1,x2,y2,large)=>`M${x1},${y1} A${R},${R} 0 ${large} 1 ${x2},${y2}`;
   const lbl=(x,y,a,b,anchor,lx,ly)=>{T(s,x,y,a,{fs:18,a:anchor});if(b)T(s,x,y+22,b,{fs:18,a:anchor});
-    E('line',{x1:anchor==='start'?x+2:x-2,y1:y+(b?30:8),x2:lx,y2:ly,stroke:'var(--muted)','stroke-width':1.5},s)};
+    E('line',{x1:anchor==='start'?x+2:x-2,y1:y>200?y-20:y+(b?30:8),x2:lx,y2:ly,stroke:'var(--muted)','stroke-width':1.5},s)};
   const draw=(svg,i)=>{
     E('circle',{cx:CX,cy:CY,r:149,fill:'none',stroke:'var(--line)','stroke-width':18},s);
     const pp=i>=1?'var(--amber-soft)':'var(--panel)';

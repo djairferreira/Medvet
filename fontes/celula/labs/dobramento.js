@@ -30,8 +30,8 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
 
   function drawSag(k){
     const f=F[k],cx=300,cy=136;
-    const kc=f*3.9/120,kk=f*3.5/80;
-    const cran=turtle(cx,cy,Math.PI,[[100,0],[120,-kc]]),caud=turtle(cx,cy,0,[[100,0],[80,kk]]);
+    const kc=f*3.9/150,kk=f*3.6/110;
+    const cran=turtle(cx,cy,Math.PI,[[70,0],[150,-kc]]),caud=turtle(cx,cy,0,[[70,0],[110,kk]]);
     const C=cran.slice().reverse().concat(caud.slice(1));
     const iMid=cran.length-1,sOf=s=>Math.round(iMid+s/4);/* s<0 cranial, s>0 caudal */
     const ecto=off(C,11),endo=off(C,-10),meso=off(C,-1),neur=off(C,5);
@@ -67,12 +67,17 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
     if(k===0){lab(96,cy+64,'Coração',{fill:'var(--eosin)',a:'start'});lab(150,cy+38,'M. bucofaríngea',{a:'start',fill:'var(--ink)'});lab(450,cy+38,'M. cloacal',{fill:'var(--ink)'});lab(300,cy-20,'Placa neural',{fill:'var(--hema)'})}
     else{
       lab(cx,cy-24,'Tubo neural',{fill:'var(--hema)'});
-      lab(h[0]-6,h[1]+42,'Coração',{fill:'var(--eosin)',a:'middle'});
-      const fg=P(C,-175),hg=P(C,150);
+      lab(h[0]-22,h[1]+6,'Coração',{fill:'var(--eosin)',a:'end'});
+      const mid=(a,b)=>[(a[0]+b[0])/2,(a[1]+b[1])/2];
       if(k<=1)lab(cx,cy+40,'Intestino',{fill:'var(--amber)'});
-      else{lab(fg[0]+(k>=3?70:40),fg[1]-(k>=3?34:12),'I. anterior',{a:'start',fill:'var(--ink)'});lab(hg[0]-(k>=3?60:40),hg[1]-(k>=3?34:12),'I. posterior',{a:'end',fill:'var(--ink)'});lab(cx,cy+(k>=3?44:56),'I. médio',{fill:'var(--ink)'})}
-      if(k>=2){const al=P(endo,165);lab(al[0]+26,al[1]+48,'Alantoide',{a:'start',fill:'var(--amber)'})}
-      if(k>=3)lab(mx-14,(nC[1]+nK[1])/2+30,'Ducto vitelino',{a:'end',fill:'var(--ink)'});
+      else{const fg=mid(P(endo,-110),P(endo,-200)),hg=mid(P(endo,95),P(endo,170));
+        const lx=mx-150,rx=mx+150,ly=yb-80;
+        E('line',{x1:lx+4,y1:ly+34,x2:fg[0],y2:fg[1],stroke:'var(--muted)','stroke-width':1.5},svg);E('circle',{cx:fg[0],cy:fg[1],r:3,fill:'var(--ink)'},svg);
+        E('line',{x1:rx-4,y1:ly+34,x2:hg[0],y2:hg[1],stroke:'var(--muted)','stroke-width':1.5},svg);E('circle',{cx:hg[0],cy:hg[1],r:3,fill:'var(--ink)'},svg);
+        lab(lx,ly+52,'I. anterior',{a:'end',fill:'var(--ink)'});lab(rx,ly+52,'I. posterior',{a:'start',fill:'var(--ink)'});
+        lab(cx,cy+(k>=3?40:56),'I. médio',{fill:'var(--ink)'})}
+      if(k>=2){const al=P(endo,165);lab(al[0]+28,al[1]+30,'Alantoide',{a:'start',fill:'var(--amber)'})}
+      if(k>=3)lab(mx,(nC[1]+nK[1])/2+36,'Ducto vitelino',{fill:'var(--ink)'});
     }
     legend();
   }
