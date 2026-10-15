@@ -1,0 +1,442 @@
+[
+ {
+  "c": "ztn",
+  "q": "A zona de termoneutralidade é a faixa de temperatura ambiente em que o animal:",
+  "o": [
+   "mantém a temperatura com gasto energético mínimo",
+   "produz o máximo de calor que seu metabolismo permite",
+   "depende exclusivamente da sudorese para manter a temperatura",
+   "apresenta hipotermia compensada pelo tremor contínuo"
+  ],
+  "e": "Usa apenas ajustes vasomotores e posturais."
+ },
+ {
+  "c": "ztn",
+  "q": "Abaixo da temperatura crítica inferior, o animal precisa:",
+  "o": [
+   "aumentar a produção de calor",
+   "aumentar a sudorese",
+   "reduzir a ingestão de alimento",
+   "fazer vasodilatação periférica"
+  ],
+  "e": "O isolamento já está no máximo."
+ },
+ {
+  "c": "ztn",
+  "q": "A zona de termoneutralidade aproximada do leitão recém-nascido é:",
+  "o": [
+   "32 a 35 °C",
+   "15 a 22 °C",
+   "5 a 25 °C",
+   "−5 a 10 °C"
+  ],
+  "e": "Por isso o escamoteador aquecido."
+ },
+ {
+  "c": "ztn",
+  "q": "Uma ovelha recém-tosquiada, comparada a uma lanada, tem:",
+  "o": [
+   "temperatura crítica inferior muito mais alta",
+   "temperatura crítica inferior bem mais baixa que antes",
+   "zona de termoneutralidade idêntica à da lanada",
+   "menor risco de hipotermia em dias frios e com vento"
+  ],
+  "e": "Perde o isolamento da lã."
+ },
+ {
+  "c": "ztn",
+  "q": "A temperatura do pinteiro na primeira semana deve ficar em torno de:",
+  "o": [
+   "32 a 33 °C, reduzindo ~3 °C por semana",
+   "20 a 22 °C desde o primeiro dia",
+   "38 a 40 °C nas três primeiras semanas",
+   "15 a 18 °C para estimular o empenamento"
+  ],
+  "e": "A termorregulação do pinto é imatura."
+ },
+ {
+  "c": "ztn",
+  "q": "Pintos amontoados sob a campânula indicam:",
+  "o": [
+   "frio",
+   "calor",
+   "excesso de umidade",
+   "falta de ração"
+  ],
+  "e": "Com calor afastam-se e ofegam de asas abertas."
+ },
+ {
+  "c": "ztn",
+  "q": "O Índice de Temperatura e Umidade (ITU) combina:",
+  "o": [
+   "temperatura do ar e umidade relativa",
+   "radiação solar e velocidade do vento",
+   "temperatura retal e frequência respiratória",
+   "produção de leite e ingestão de matéria seca"
+  ],
+  "e": "Acima de ~68–72 indica estresse para vacas leiteiras."
+ },
+ {
+  "c": "ztn",
+  "q": "Uma vaca holandesa em estresse térmico reduz a ingestão de matéria seca para:",
+  "o": [
+   "diminuir o calor de fermentação e metabolismo",
+   "aumentar a produção de gordura do leite no verão",
+   "compensar a alcalose metabólica causada pelo suor",
+   "aumentar o tempo de ruminação e a salivação"
+  ],
+  "e": "Menos alimento, menos calor produzido."
+ },
+ {
+  "c": "ztn",
+  "q": "A fertilidade de vacas leiteiras demora 40 a 60 dias para se recuperar após o verão porque:",
+  "o": [
+   "o folículo ovulatório começou a crescer semanas antes",
+   "o útero fica refratário à progesterona por várias semanas",
+   "o ciclo estral passa a durar cerca de 60 dias no verão",
+   "a espermatogênese do touro é afetada e reduz a fertilidade"
+  ],
+  "e": "Oócitos expostos ao calor na fase de crescimento têm pior qualidade."
+ },
+ {
+  "c": "ztn",
+  "q": "Qual medida é mais eficaz para reduzir o estresse térmico em vacas confinadas?",
+  "o": [
+   "aspersão da pele seguida de ventilação",
+   "nebulização sem ventilação em galpão fechado",
+   "redução do fornecimento de água",
+   "aumento da fibra de baixa qualidade na dieta"
+  ],
+  "e": "Molhar e ventilar maximiza a evaporação."
+ },
+ {
+  "c": "ztn",
+  "q": "A transferência de embriões é útil no verão em rebanhos leiteiros porque:",
+  "o": [
+   "o embrião de 7 dias já passou da fase mais sensível ao calor",
+   "elimina a necessidade de progesterona durante a gestação",
+   "aumenta a produção de leite da receptora imediatamente",
+   "o embrião transferido não é afetado pela luteólise uterina"
+  ],
+  "e": "Contorna a baixa qualidade oocitária e a morte embrionária precoce."
+ },
+ {
+  "c": "ztn",
+  "q": "A hipotermia anestésica ocorre porque os anestésicos:",
+  "o": [
+   "deprimem o hipotálamo, o tremor e causam vasodilatação",
+   "estimulam a gordura parda e o tremor de forma intensa",
+   "bloqueiam a sudorese e a vasodilatação por ação central",
+   "aumentam o ponto de ajuste térmico por liberação de PGE2"
+  ],
+  "e": "Somam-se tricotomia, fluidos frios e cavidades abertas."
+ },
+ {
+  "c": "ztn",
+  "q": "Uma consequência da hipotermia pós-anestésica é:",
+  "o": [
+   "recuperação anestésica mais lenta",
+   "menor risco de infecção da ferida",
+   "aceleração do metabolismo dos fármacos",
+   "maior agregação plaquetária e coagulação"
+  ],
+  "e": "Também causa bradicardia e coagulopatia."
+ },
+ {
+  "c": "ztn",
+  "q": "A inclinação da reta de produção de calor abaixo da TCI representa:",
+  "o": [
+   "A condutância térmica do animal",
+   "O ponto de ajuste do hipotálamo anterior",
+   "A taxa de sudorese",
+   "O ITU"
+  ],
+  "e": "Quanto melhor o isolamento, menor a inclinação."
+ },
+ {
+  "c": "ztn",
+  "q": "Aumentar o nível de alimentação de um bovino tende a:",
+  "o": [
+   "Baixar a TCI",
+   "Elevar a TCI",
+   "Não alterar a ZTN",
+   "Abolir a TCS"
+  ],
+  "e": "Mais calor metabólico permite tolerar mais frio."
+ },
+ {
+  "c": "ztn",
+  "q": "Comparada ao taurino, a ZTN do zebuíno tem:",
+  "o": [
+   "TCS mais alta",
+   "TCS mais baixa",
+   "TCI mais baixa e TCS igual",
+   "Faixa idêntica"
+  ],
+  "e": "Zebuínos toleram mais calor."
+ },
+ {
+  "c": "ztn",
+  "q": "A ZTN da porca em lactação está aproximadamente entre:",
+  "o": [
+   "16 e 22 °C",
+   "32 e 35 °C",
+   "−5 e 10 °C",
+   "28 e 34 °C"
+  ],
+  "e": "Bem abaixo da ZTN dos leitões."
+ },
+ {
+  "c": "ztn",
+  "q": "O conflito térmico na maternidade suína é resolvido com:",
+  "o": [
+   "Escamoteador aquecido para os leitões",
+   "Aquecimento geral do galpão a 34 °C",
+   "Ventilação forte sobre os leitões",
+   "Aspersão sobre o ninho"
+  ],
+  "e": "Cria-se um microclima separado."
+ },
+ {
+  "c": "ztn",
+  "q": "Na primeira semana de vida, o ninho de filhotes de cão deve ficar em torno de:",
+  "o": [
+   "29 a 32 °C",
+   "18 a 20 °C",
+   "38 a 40 °C",
+   "10 a 15 °C"
+  ],
+  "e": "Filhotes não termorregulam bem."
+ },
+ {
+  "c": "ztn",
+  "q": "Um filhote hipotérmico deve ser:",
+  "o": [
+   "Reaquecido antes de alimentado",
+   "Alimentado imediatamente",
+   "Banhado em água fria",
+   "Mantido sobre piso frio"
+  ],
+  "e": "Hipotermia causa íleo paralítico."
+ },
+ {
+  "c": "ztn",
+  "q": "A temperatura retal normal de um filhote de cão na 1ª semana é cerca de:",
+  "o": [
+   "35 a 37 °C",
+   "39 a 40 °C",
+   "32 a 33 °C",
+   "40 a 41 °C"
+  ],
+  "e": "Mais baixa que a do adulto."
+ },
+ {
+  "c": "ztn",
+  "q": "No ITU, para T = 30 °C e UR = 70%, o valor aproximado é:",
+  "o": [
+   "81",
+   "68",
+   "72",
+   "95"
+  ],
+  "e": "0,8·30 + 0,7·15,6 + 46,4 ≈ 81."
+ },
+ {
+  "c": "ztn",
+  "q": "Para vacas leiteiras, ITU acima de cerca de 68–72 indica:",
+  "o": [
+   "Início de estresse térmico",
+   "Conforto pleno",
+   "Estresse por frio",
+   "Risco de morte imediata em todo o rebanho"
+  ],
+  "e": "Vacas de alta produção já reagem."
+ },
+ {
+  "c": "ztn",
+  "q": "Uma limitação do ITU é não considerar:",
+  "o": [
+   "Radiação solar e vento",
+   "Umidade relativa",
+   "Temperatura do ar",
+   "A fórmula de cálculo"
+  ],
+  "e": "Ambiente efetivo inclui sol e vento."
+ },
+ {
+  "c": "ztn",
+  "q": "Noites com ITU baixo são importantes porque:",
+  "o": [
+   "Permitem dissipar o calor acumulado",
+   "Elevam a TCS das vacas no dia seguinte",
+   "Aumentam o ofego",
+   "Reduzem a ingestão de água"
+  ],
+  "e": "A recuperação noturna reduz o estresse."
+ },
+ {
+  "c": "ztn",
+  "q": "Frequência respiratória acima de 60–70 mpm em vacas indica:",
+  "o": [
+   "Estresse térmico",
+   "Hipotermia",
+   "Conforto",
+   "Hipocalcemia"
+  ],
+  "e": "O ofego aumenta com o calor."
+ },
+ {
+  "c": "ztn",
+  "q": "O ofego crônico da vaca favorece acidose ruminal porque:",
+  "o": [
+   "Reduz o bicarbonato salivar que chega ao rúmen",
+   "Aumenta a ingestão de fibra",
+   "Eleva demais o pH do conteúdo ruminal",
+   "Diminui a produção de AGV"
+  ],
+  "e": "A saliva perdida e a compensação renal reduzem o tampão."
+ },
+ {
+  "c": "ztn",
+  "q": "O calor no terço final da gestação leva a:",
+  "o": [
+   "Bezerros mais leves e com pior imunidade",
+   "Bezerros mais pesados e mais vigorosos",
+   "Gestação prolongada sempre",
+   "Maior produção na lactação seguinte"
+  ],
+  "e": "O fluxo placentário cai."
+ },
+ {
+  "c": "ztn",
+  "q": "O embrião bovino fica mais resistente ao calor a partir de:",
+  "o": [
+   "Cerca de 5–7 dias",
+   "1 dia",
+   "30 dias",
+   "Somente após o parto"
+  ],
+  "e": "Mórula/blastocisto têm mais defesas."
+ },
+ {
+  "c": "ztn",
+  "q": "Poedeiras em estresse térmico botam ovos de casca fina porque:",
+  "o": [
+   "Alcalose respiratória reduz bicarbonato e Ca²⁺",
+   "Bebem menos água e comem mais calcário",
+   "Aumentam o cálcio ionizado disponível ao útero",
+   "Produzem mais estrogênio"
+  ],
+  "e": "O ofego altera o ácido-base."
+ },
+ {
+  "c": "ztn",
+  "q": "O sistema de painel evaporativo em aviários funciona melhor em:",
+  "o": [
+   "Clima seco",
+   "Clima muito úmido",
+   "Dias de chuva",
+   "Noites frias"
+  ],
+  "e": "A evaporação é limitada pela umidade."
+ },
+ {
+  "c": "ztn",
+  "q": "Suínos que passam a defecar na área de descanso estão indicando:",
+  "o": [
+   "Estresse por calor",
+   "Conforto térmico",
+   "Estresse por frio",
+   "Deficiência mineral"
+  ],
+  "e": "Molham-se nas excretas para resfriar."
+ },
+ {
+  "c": "ztn",
+  "q": "A infertilidade sazonal da porca ocorre:",
+  "o": [
+   "No verão",
+   "No inverno",
+   "Somente na primavera",
+   "Apenas em leitoas"
+  ],
+  "e": "Calor atrasa o cio pós-desmame."
+ },
+ {
+  "c": "ztn",
+  "q": "Uma medida específica para resfriar porcas em lactação é:",
+  "o": [
+   "Gotejamento sobre o pescoço",
+   "Lâmpada infravermelha",
+   "Cama profunda de palha",
+   "Fechar as cortinas"
+  ],
+  "e": "Molha a pele sem molhar o ninho."
+ },
+ {
+  "c": "ztn",
+  "q": "A área de sombra recomendada por vaca adulta é cerca de:",
+  "o": [
+   "3,5 a 4,5 m²",
+   "0,5 m²",
+   "20 m²",
+   "1 m²"
+  ],
+  "e": "Sombra insuficiente gera disputa."
+ },
+ {
+  "c": "ztn",
+  "q": "Em clima úmido, para vacas, é preferível:",
+  "o": [
+   "Aspersão com gotas grandes e ventilação",
+   "Nebulização fina contínua",
+   "Ventilação forte sem molhar e sem oferecer sombra",
+   "Fechar o galpão"
+  ],
+  "e": "Molhar a pele, não o ar."
+ },
+ {
+  "c": "ztn",
+  "q": "O vento só ajuda a resfriar por convecção quando:",
+  "o": [
+   "O ar é mais frio que a pele",
+   "O ar é mais quente que a pele",
+   "A umidade é de 100%",
+   "O animal está seco e ao sol"
+  ],
+  "e": "Convecção depende do gradiente térmico."
+ },
+ {
+  "c": "ztn",
+  "q": "No frio, a combinação mais perigosa para bezerros é:",
+  "o": [
+   "Pelo molhado e vento",
+   "Cama seca e abrigo",
+   "Sol e ar parado",
+   "Colostro e cama profunda"
+  ],
+  "e": "Água e vento multiplicam a perda de calor."
+ },
+ {
+  "c": "ztn",
+  "q": "Durante a anestesia, a ZTN do paciente:",
+  "o": [
+   "Fica muito acima da temperatura da sala",
+   "Fica igual à do animal acordado",
+   "Desaparece completamente",
+   "Cai abaixo de 10 °C"
+  ],
+  "e": "Anestésicos abolem respostas ao frio."
+ },
+ {
+  "c": "ztn",
+  "q": "No reaquecimento de hipotermia grave, recomenda-se:",
+  "o": [
+   "Aquecer o tronco antes das extremidades",
+   "Aquecer primeiro as patas e as orelhas",
+   "Usar água gelada",
+   "Evitar fluidos aquecidos"
+  ],
+  "e": "Evita retorno brusco de sangue frio e ácido."
+ }
+]

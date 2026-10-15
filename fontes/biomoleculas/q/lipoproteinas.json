@@ -4,7 +4,7 @@
 "q": "Qual lipoproteína é a menos densa e a maior de todas?",
 "o": [
 "Quilomícron",
-"VLDL",
+"VLDL hepática",
 "LDL",
 "HDL"
 ],
@@ -26,7 +26,7 @@
 "q": "Qual apolipoproteína é reconhecida pelo receptor de LDL?",
 "o": [
 "Apo B-100",
-"Apo B-48",
+"Apo B-48 e C-III",
 "Apo C-II",
 "Apo A-I"
 ],
@@ -136,9 +136,9 @@
 "q": "O que ancora a lipase lipoproteica ao endotélio?",
 "o": [
 "Proteoglicanos de heparam sulfato",
-"Apolipoproteína A-I",
-"Receptor de LDL",
-"Perilipina"
+"Apolipoproteína A-I da HDL",
+"Receptor de LDL do endotélio",
+"Perilipina da gotícula lipídica"
 ],
 "e": "A LPL fica presa a proteoglicanos (e à GPIHBP1); a heparina a libera para o plasma."
 },
@@ -147,7 +147,7 @@
 "q": "Por que a LPL do coração tem Km baixo?",
 "o": [
 "Para captar ácidos graxos mesmo no jejum",
-"Para armazenar gordura após a refeição",
+"Para armazenar gordura logo após a refeição",
 "Para formar quilomícrons no endotélio",
 "Para inibir a lipólise do adipócito"
 ],
@@ -180,7 +180,7 @@
 "q": "Depois de entrar na célula pelo receptor de LDL, o colesterol:",
 "o": [
 "Inibe a HMG-CoA redutase e reduz novos receptores",
-"Estimula a síntese de mais receptores de LDL",
+"Estimula a síntese de mais receptores de LDL na célula",
 "É convertido em apo B-100 no lisossomo",
 "Volta ao plasma ligado à albumina"
 ],
@@ -202,7 +202,7 @@
 "q": "A HDL nascente tem forma discoidal e torna-se esférica quando:",
 "o": [
 "A LCAT forma ésteres de colesterol no núcleo",
-"A LPL retira o TAG da superfície",
+"A LPL retira o TAG presente na superfície dela",
 "A CETP lhe transfere apo B-100",
 "O fígado a capta pelo receptor de LDL"
 ],
@@ -235,7 +235,7 @@
 "q": "Que lipoproteína o fígado da galinha poedeira produz em maior quantidade sob estrógeno?",
 "o": [
 "VLDL específica da gema",
-"Quilomícron hepático",
+"Quilomícron de origem hepática",
 "LDL rica em apo B-48",
 "HDL discoidal nascente"
 ],
@@ -301,7 +301,7 @@
 "q": "Os ácidos graxos C4 a C14 do leite de vaca vêm:",
 "o": [
 "Da síntese na própria glândula mamária",
-"Da LPL mamária sobre quilomícrons",
+"Da LPL mamária agindo sobre quilomícrons",
 "Do fígado, exportados como VLDL",
 "Do tecido adiposo via albumina"
 ],
@@ -313,7 +313,7 @@
 "o": [
 "Efluxo de colesterol celular para a apo A-I",
 "Entrada de LDL no hepatócito",
-"Formação de quilomícron no enterócito",
+"Formação de quilomícron no enterócito duodenal",
 "Ancoragem da LPL ao endotélio"
 ],
 "e": "O ABCA1 transfere colesterol e fosfolipídios para a apo A-I pobre em lipídio, formando HDL nascente."
@@ -334,7 +334,7 @@
 "q": "O transporte reverso do colesterol termina com:",
 "o": [
 "Excreção de colesterol e sais biliares na bile",
-"Depósito de colesterol no tecido adiposo",
+"Depósito de colesterol no tecido adiposo subcutâneo",
 "Conversão de colesterol em ácido graxo",
 "Formação de quilomícrons no fígado"
 ],
@@ -367,7 +367,7 @@
 "q": "A heparina “clareia” o plasma lipêmico porque:",
 "o": [
 "Libera a LPL do endotélio para o plasma",
-"Precipita as lipoproteínas no tubo",
+"Precipita as lipoproteínas no fundo do tubo",
 "Inibe a síntese hepática de VLDL",
 "Ativa diretamente a LCAT plasmática"
 ],
@@ -378,7 +378,7 @@
 "q": "Qual tecido produz a LPL que age em seus próprios capilares?",
 "o": [
 "O tecido adiposo, o músculo e a mama",
-"O fígado, para os sinusoides",
+"O fígado, para seus sinusoides hepáticos",
 "O enterócito, para a linfa",
 "O endotélio, para todos os tecidos"
 ],
@@ -422,7 +422,7 @@
 "q": "Por que os animais domésticos são resistentes à aterosclerose?",
 "o": [
 "Têm pouca CETP e colesterol na HDL",
-"Não absorvem colesterol da dieta",
+"Não absorvem colesterol algum da dieta",
 "Não possuem receptores de LDL",
 "Produzem apenas quilomícrons"
 ],
@@ -433,7 +433,7 @@
 "q": "Qual destes NÃO é função das apolipoproteínas?",
 "o": [
 "Hidrolisar os triacilgliceróis do núcleo",
-"Dar estrutura à partícula",
+"Dar estrutura e estabilidade à partícula",
 "Ativar ou inibir enzimas",
 "Servir de ligante para receptores"
 ],

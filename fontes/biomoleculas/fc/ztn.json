@@ -1,0 +1,47 @@
+[
+ [
+  "ztn",
+  "ZTN, TCI e TCS",
+  "Faixa de gasto mínimo; abaixo da TCI aumenta a produção de calor; acima da TCS gasta para perder calor"
+ ],
+ [
+  "ztn",
+  "ITU",
+  "0,8×T + (UR/100)×(T−14,4) + 46,4; > 68–72 = estresse em vaca leiteira"
+ ],
+ [
+  "ztn",
+  "TCI",
+  "Temperatura crítica inferior: abaixo dela o animal precisa aumentar a produção de calor."
+ ],
+ [
+  "ztn",
+  "TCS",
+  "Temperatura crítica superior: acima dela gasta água e energia para perder calor."
+ ],
+ [
+  "ztn",
+  "ZTN do leitão recém-nascido",
+  "32 a 35 °C; a da porca é ~16–22 °C: escamoteador aquecido."
+ ],
+ [
+  "ztn",
+  "Pinteiro",
+  "Começa em 32–33 °C e cai ~3 °C por semana; amontoados = frio."
+ ],
+ [
+  "ztn",
+  "Estresse térmico e reprodução",
+  "Estro fraco, oócito ruim, morte embrionária precoce; recuperação em 40–60 dias."
+ ],
+ [
+  "ztn",
+  "Aspersão + ventilação",
+  "Molhar a pele com gotas grandes e depois ventilar, em ciclos."
+ ],
+ [
+  "ztn",
+  "Casca fina no calor",
+  "Ofego → alcalose respiratória → menos bicarbonato e Ca ionizado para a casca."
+ ]
+]

@@ -15,7 +15,7 @@
 "q": "Como a acetil-CoA produzida na mitocôndria chega ao citosol para a lipogênese?",
 "o": [
 "Sai na forma de citrato e é liberada pela ATP-citrato liase",
-"Atravessa a membrana ligada à carnitina e à CPT-II",
+"Atravessa a membrana interna ligada à carnitina e à CPT-II",
 "Sai como malonil-CoA pela translocase de acil",
 "Atravessa livremente a membrana mitocondrial interna"
 ],
@@ -81,7 +81,7 @@
 "q": "Qual é a origem do ácido butírico encontrado no leite de vaca?",
 "o": [
 "Síntese na glândula mamária a partir de acetato e BHB",
-"Absorção direta do butirato do rúmen pela mama",
+"Absorção direta do butirato ruminal pela glândula mamária",
 "Degradação da caseína pelas bactérias do leite",
 "Hidrólise da lactose dentro dos alvéolos mamários"
 ],
@@ -136,9 +136,9 @@
 "q": "Qual molécula inibe a acetil-CoA carboxilase por retroalimentação?",
 "o": [
 "Acil-CoA de cadeia longa",
-"Citrato",
-"Insulina",
-"Biotina"
+"Citrato citosólico",
+"Insulina circulante",
+"Biotina livre"
 ],
 "e": "O produto final da via (acil-CoA) inibe a ACC."
 },
@@ -158,9 +158,9 @@
 "q": "Na ácido graxo sintase, os intermediários ficam ligados a:",
 "o": [
 "Proteína carreadora de acila (ACP)",
-"Coenzima A livre",
-"Carnitina",
-"Albumina"
+"Coenzima A livre no citosol",
+"Carnitina da membrana",
+"Albumina plasmática"
 ],
 "e": "Na síntese o carreador é a ACP; na β-oxidação, a CoA."
 },
@@ -169,7 +169,7 @@
 "q": "Por que a malonil-CoA libera CO2 na condensação?",
 "o": [
 "A descarboxilação torna a reação favorável",
-"Para gerar NADPH para a redução",
+"Para gerar o NADPH usado na redução",
 "Para formar biotina livre",
 "Para produzir acetil-CoA mitocondrial"
 ],
@@ -203,8 +203,8 @@
 "o": [
 "Via das pentoses-fosfato",
 "Ciclo da ureia",
-"Gliconeogênese",
-"β-oxidação"
+"Gliconeogênese hepática",
+"β-oxidação mitocondrial"
 ],
 "e": "A glicose-6-fosfato desidrogenase e a 6-fosfogliconato desidrogenase produzem NADPH."
 },
@@ -213,7 +213,7 @@
 "q": "No ruminante, uma fonte importante de NADPH para a lipogênese no adiposo é:",
 "o": [
 "Isocitrato desidrogenase NADP citosólica",
-"Enzima málica muito ativa",
+"Enzima málica muito ativa no adiposo",
 "Lactato desidrogenase",
 "Piruvato carboxilase"
 ],
@@ -224,7 +224,7 @@
 "q": "Por que o ruminante poupa glicose na síntese de gordura?",
 "o": [
 "Precisa dela para lactose, cérebro e feto",
-"Não possui enzimas da glicólise",
+"Não possui as enzimas da via glicolítica",
 "A glicose é tóxica ao adipócito",
 "A insulina não age no ruminante"
 ],
@@ -279,7 +279,7 @@
 "q": "Por que mamíferos não sintetizam linoleico?",
 "o": [
 "Não têm dessaturases além do carbono 9",
-"Não têm elongases no retículo",
+"Não têm elongases no retículo endoplasmático",
 "Não produzem malonil-CoA",
 "Não possuem NADPH citosólico"
 ],
@@ -334,7 +334,7 @@
 "q": "Qual etapa é comprometida na síntese de triacilgliceróis?",
 "o": [
 "Glicerol-3-fosfato aciltransferase",
-"Diacilglicerol aciltransferase",
+"Diacilglicerol aciltransferase (DGAT)",
 "Fosfatidato fosfatase",
 "Lipase hormônio-sensível"
 ],
@@ -356,7 +356,7 @@
 "q": "A gliceroneogênese no adipócito em jejum:",
 "o": [
 "Forma glicerol-3-fosfato a partir de piruvato",
-"Libera glicose para o sangue",
+"Libera glicose livre para o sangue",
 "Converte ácido graxo em glicerol",
 "Depende de glicerol-quinase"
 ],
@@ -379,7 +379,7 @@
 "o": [
 "Intramuscular (marmoreio)",
 "Perirrenal",
-"Omental",
+"Omental e mesentérica",
 "Subcutânea"
 ],
 "e": "A ordem é visceral, subcutânea, intermuscular e intramuscular."
@@ -423,7 +423,7 @@
 "o": [
 "Em animais jovens e no ganho prolongado de peso",
 "Somente após a castração",
-"Apenas em ruminantes adultos",
+"Apenas em ruminantes adultos castrados",
 "Exclusivamente no tecido marrom"
 ],
 "e": "Pré-adipócitos se diferenciam sob PPAR-γ."
@@ -433,7 +433,7 @@
 "q": "Na glândula mamária de ruminantes, a ácido graxo sintase libera:",
 "o": [
 "Cadeias curtas e médias (C4 a C14)",
-"Somente palmitato (C16)",
+"Somente palmitato (C16:0) livre",
 "Apenas ácidos de 18 carbonos",
 "Ácidos poli-insaturados"
 ],

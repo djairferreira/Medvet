@@ -26,7 +26,7 @@
 "q": "Quais são os três corpos cetônicos?",
 "o": [
 "Acetoacetato, β-hidroxibutirato e acetona",
-"Acetato, propionato e butirato",
+"Acetato, propionato e butirato do rúmen",
 "Acetil-CoA, malonil-CoA e HMG-CoA",
 "Piruvato, lactato e oxaloacetato"
 ],
@@ -48,7 +48,7 @@
 "q": "De onde vem o hálito cetônico de um animal com cetose?",
 "o": [
 "Da acetona formada por descarboxilação do acetoacetato",
-"Do β-hidroxibutirato eliminado pelos pulmões",
+"Do β-hidroxibutirato volátil eliminado pelos pulmões",
 "Do acetoacetato secretado pelas glândulas salivares",
 "Do excesso de acetil-CoA exalado pelos alvéolos"
 ],
@@ -94,7 +94,7 @@
 "O pico de produção vem antes do pico de ingestão de alimento",
 "A insulina alta impede o uso dos ácidos graxos pela mama",
 "O rúmen deixa de produzir propionato após o parto",
-"A glândula mamária passa a sintetizar glicose"
+"A glândula mamária passa a sintetizar glicose a partir de gordura"
 ],
 "e": "A produção sobe mais rápido que o consumo de matéria seca."
 },
@@ -103,7 +103,7 @@
 "q": "Qual vaca tem mais risco de cetose tipo II com fígado gorduroso?",
 "o": [
 "A vaca obesa ao parto, com resistência à insulina",
-"A vaca magra no pico de lactação",
+"A vaca magra no pico de lactação, com alta produção",
 "A novilha em crescimento antes do primeiro parto",
 "A vaca seca no meio do período seco"
 ],
@@ -137,7 +137,7 @@
 "o": [
 "Ovelhas com gêmeos ou trigêmeos no terço final",
 "Ovelhas no início da gestação com um feto",
-"Ovelhas vazias em pastagem abundante",
+"Ovelhas vazias em pastagem abundante e de boa qualidade",
 "Ovelhas em lactação após o desmame"
 ],
 "e": "A demanda fetal de glicose é máxima nas últimas semanas."
@@ -160,7 +160,7 @@
 "Alimentação enteral, geralmente por sonda de esofagostomia",
 "Jejum para reduzir a chegada de gordura ao fígado",
 "Glicocorticoide em dose imunossupressora prolongada",
-"Dieta sem proteína para proteger o fígado"
+"Dieta sem proteína para proteger o fígado da sobrecarga"
 ],
 "e": "O gato precisa de energia e proteína para reverter a lipidose."
 },
@@ -180,7 +180,7 @@
 "q": "Por que é preciso repor potássio e fósforo no tratamento da cetoacidose diabética?",
 "o": [
 "A insulina e a correção da acidose os levam para dentro das células",
-"A insulina aumenta a perda renal de potássio e fósforo",
+"A insulina aumenta muito a perda renal de potássio e fósforo",
 "Os corpos cetônicos se ligam ao potássio no plasma",
 "O fósforo é necessário para formar acetoacetato"
 ],
@@ -257,7 +257,7 @@
 "q": "O cérebro, após alguns dias de jejum, passa a usar corpos cetônicos. Qual a vantagem?",
 "o": [
 "Poupa glicose e proteína muscular",
-"Aumenta a produção de lactato",
+"Aumenta a produção de lactato pelos neurônios",
 "Eleva a glicemia acima do normal",
 "Dispensa o oxigênio na oxidação"
 ],
@@ -269,7 +269,7 @@
 "o": [
 "Ocorrer no pico de lactação com hipoglicemia",
 "Ocorrer antes do parto em vacas magras",
-"Fígado muito gorduroso e mau prognóstico",
+"Fígado muito gorduroso, com mau prognóstico, logo após o parto",
 "Resistência ao tratamento com glicose"
 ],
 "e": "Tipo I: 3 a 6 semanas pós-parto, BHB alto, hipoglicemia, pouca lipidose, boa resposta."
@@ -279,7 +279,7 @@
 "q": "A cetose tipo II está associada a:",
 "o": [
 "Vacas gordas ao parto e lipidose hepática",
-"Silagem rica em ácido butírico",
+"Silagem rica em ácido butírico consumida no pré-parto",
 "Excesso de propionato no rúmen",
 "Vacas magras no pico de lactação"
 ],
@@ -323,7 +323,7 @@
 "q": "A monensina ajuda a prevenir a cetose porque:",
 "o": [
 "Aumenta a produção ruminal de propionato",
-"Inibe a lipase lipoproteica mamária",
+"Inibe a lipase lipoproteica da glândula mamária",
 "Aumenta a absorção de butirato",
 "Bloqueia a tiolase hepática"
 ],
@@ -345,7 +345,7 @@
 "q": "Na toxemia da prenhez da ovelha, a indução do parto é feita com dexametasona porque:",
 "o": [
 "A gestação é mantida pela progesterona placentária",
-"O corpo lúteo é muito sensível ao cortisol",
+"O corpo lúteo da ovelha é muito sensível ao cortisol",
 "A prostaglandina é tóxica para ovelhas",
 "A dexametasona inibe a lipólise materna"
 ],
@@ -356,7 +356,7 @@
 "q": "Os sinais predominantes da toxemia da prenhez em ovelhas são:",
 "o": [
 "Neurológicos, como cegueira e tremores",
-"Diarreia profusa e desidratação",
+"Digestivos, com diarreia profusa e desidratação",
 "Tosse e secreção nasal",
 "Claudicação e laminite"
 ],
@@ -368,7 +368,7 @@
 "o": [
 "Nas últimas 4 a 6 semanas",
 "No primeiro terço",
-"Logo após a cobertura",
+"Logo após a cobertura, na implantação",
 "Somente após o parto"
 ],
 "e": "É quando ocorre cerca de 70% do crescimento fetal e o útero comprime o rúmen."
@@ -380,7 +380,7 @@
 "Separar fêmeas com gêmeos para dieta mais energética",
 "Identificar fêmeas não prenhes para abate",
 "Medir a espessura do rúmen",
-"Detectar lipidose hepática precoce"
+"Detectar lipidose hepática precoce nas fêmeas gordas"
 ],
 "e": "Fêmeas com mais de um feto têm maior demanda e devem receber mais energia no terço final."
 },
@@ -402,7 +402,7 @@
 "Para melhorar a entrada de ácidos graxos na mitocôndria",
 "Para inibir a lipólise no adiposo",
 "Para substituir a insulina endógena",
-"Para aumentar a produção de corpos cetônicos"
+"Para aumentar a produção hepática de corpos cetônicos"
 ],
 "e": "A carnitina é necessária para a CPT; gatos anoréticos ficam deficientes."
 },
@@ -411,7 +411,7 @@
 "q": "Na cetoacidose diabética, a acidose é do tipo:",
 "o": [
 "Metabólica com ânion gap aumentado",
-"Respiratória por hipoventilação",
+"Respiratória, por hipoventilação alveolar",
 "Metabólica com ânion gap normal",
 "Alcalose metabólica compensada"
 ],
@@ -424,7 +424,7 @@
 "Compensação respiratória da acidose",
 "Sinal de edema pulmonar",
 "Consequência da hipercalemia",
-"Efeito direto da acetona no pulmão"
+"Efeito irritante direto da acetona no pulmão"
 ],
 "e": "A respiração de Kussmaul elimina CO2 para compensar a acidose metabólica."
 },

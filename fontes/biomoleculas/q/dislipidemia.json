@@ -26,7 +26,7 @@
 "q": "Após 12 h na geladeira, um soro lipêmico forma creme no topo e fica límpido embaixo. Isso indica excesso de:",
 "o": [
 "Quilomícrons",
-"VLDL",
+"VLDL hepática",
 "LDL",
 "HDL"
 ],
@@ -125,7 +125,7 @@
 "q": "Qual medida dietética é indicada no manejo da hipertrigliceridemia canina?",
 "o": [
 "Dieta com baixo teor de gordura",
-"Dieta rica em gordura saturada",
+"Dieta rica em gordura saturada animal",
 "Jejum prolongado semanal",
 "Suplementar ácido araquidônico"
 ],
@@ -158,7 +158,7 @@
 "q": "O pico da lipemia pós-prandial ocorre em geral:",
 "o": [
 "Entre 2 e 6 horas após a refeição",
-"Nos primeiros 10 minutos",
+"Nos primeiros 10 minutos após a refeição",
 "Apenas após 24 horas",
 "Somente em jejum prolongado"
 ],
@@ -169,7 +169,7 @@
 "q": "No hipotireoidismo canino, a hipercolesterolemia resulta principalmente de:",
 "o": [
 "Menos receptores de LDL e menos sais biliares",
-"Mais apo B-48 produzida no intestino",
+"Mais apo B-48 produzida pelo intestino delgado",
 "Maior atividade de LPL no adiposo",
 "Ausência de LCAT no plasma"
 ],
@@ -180,7 +180,7 @@
 "q": "Qual achado acompanha a hipercolesterolemia da síndrome nefrótica?",
 "o": [
 "Hipoalbuminemia com proteinúria",
-"Hiperglicemia com cetonúria",
+"Hiperglicemia com cetonúria acentuada",
 "Hipercalcemia com fosfatúria",
 "Hiponatremia com hipercalemia"
 ],
@@ -224,7 +224,7 @@
 "q": "Raças como Pastor-de-Shetland e Briard estão associadas a:",
 "o": [
 "Hipercolesterolemia primária",
-"Deficiência de LPL",
+"Deficiência hereditária de LPL",
 "Hiperlipemia equina",
 "Lipidose hepática"
 ],
@@ -235,7 +235,7 @@
 "q": "A hiperlipidemia primária é um diagnóstico:",
 "o": [
 "De exclusão, após descartar causas secundárias",
-"Feito apenas pelo aspecto do soro",
+"Feito apenas pelo aspecto visual do soro",
 "Confirmado por um teste genético único",
 "Estabelecido pela idade do animal"
 ],
@@ -257,7 +257,7 @@
 "q": "Qual nível de gordura costuma ser alvo na dieta de um cão hipertrigliceridêmico?",
 "o": [
 "Menos de cerca de 20 a 25 g/1.000 kcal",
-"Mais de 50 g/1.000 kcal",
+"Mais de 50 g/1.000 kcal, para saciedade",
 "Gordura livre, sem restrição",
 "Exclusivamente gordura animal"
 ],
@@ -290,7 +290,7 @@
 "q": "Em cavalos de grande porte em balanço energético negativo, o mais comum é:",
 "o": [
 "Hipertrigliceridemia leve com soro claro",
-"Hiperlipemia com soro leitoso",
+"Hiperlipemia grave com soro leitoso",
 "Cetoacidose com hálito cetônico",
 "Lipidose hepática grave fatal"
 ],
@@ -301,8 +301,8 @@
 "q": "Por que pôneis e asininos são predispostos à hiperlipemia?",
 "o": [
 "São mais resistentes à insulina e exportam muita VLDL",
-"Não têm lipase hormônio-sensível",
-"Produzem corpos cetônicos em excesso",
+"Não possuem lipase hormônio-sensível no adiposo",
+"Produzem corpos cetônicos em grande excesso no jejum",
 "Não absorvem gordura no intestino"
 ],
 "e": "A resistência à insulina e a grande produção hepática de VLDL explicam a predisposição."
@@ -323,7 +323,7 @@
 "q": "No jumento, a hiperlipemia é perigosa porque:",
 "o": [
 "Os sinais são discretos até fases avançadas",
-"Sempre causa febre alta e diarreia",
+"Sempre causa febre alta e diarreia profusa",
 "Responde só à cirurgia de urgência",
 "Acomete apenas animais muito magros"
 ],
@@ -334,7 +334,7 @@
 "q": "Qual endocrinopatia equina predispõe à hiperlipemia?",
 "o": [
 "Disfunção da pars intermedia da hipófise",
-"Hipoparatireoidismo primário",
+"Hipoparatireoidismo primário nutricional",
 "Insulinoma pancreático",
 "Hipoadrenocorticismo"
 ],
@@ -345,9 +345,9 @@
 "q": "Na hiperlipemia equina, a heparina é pouco usada porque:",
 "o": [
 "Seu benefício é controverso e há risco de sangramento",
-"Ela aumenta a síntese de VLDL",
-"É contraindicada por ser hepatotóxica",
-"Não libera LPL em equídeos"
+"Ela aumenta muito a síntese hepática de VLDL",
+"É contraindicada por ser fortemente hepatotóxica",
+"Não consegue liberar LPL nos equídeos"
 ],
 "e": "O uso é controverso; o tratamento central é fornecer energia."
 },
@@ -356,7 +356,7 @@
 "q": "Um Schnauzer miniatura de 8 anos tem soro leitoso em jejum. Qual o primeiro passo?",
 "o": [
 "Confirmar o jejum e investigar causas secundárias",
-"Iniciar estatina imediatamente",
+"Iniciar estatina imediatamente, sem outros exames",
 "Suspender toda a alimentação por 48 h",
 "Fazer biópsia hepática de rotina"
 ],
@@ -378,7 +378,7 @@
 "q": "Qual nível de colesterol é associado a risco de aterosclerose no cão?",
 "o": [
 "Acima de cerca de 750 mg/dL, crônico",
-"Acima de 150 mg/dL, eventual",
+"Acima de 150 mg/dL, mesmo que eventual",
 "Abaixo de 100 mg/dL",
 "Qualquer valor pós-prandial"
 ],
@@ -400,7 +400,7 @@
 "q": "Uma pônei com hiperlipemia está com refluxo gástrico. Como fornecer energia?",
 "o": [
 "Nutrição parenteral ou glicose intravenosa",
-"Sonda nasogástrica com óleo vegetal",
+"Sonda nasogástrica com óleo vegetal concentrado",
 "Jejum até o refluxo cessar",
 "Feno à vontade no cocho"
 ],
@@ -433,7 +433,7 @@
 "q": "Qual destes NÃO é causa secundária de hiperlipidemia no cão?",
 "o": [
 "Insuficiência pancreática exócrina",
-"Hipotireoidismo",
+"Hipotireoidismo primário",
 "Diabetes mellitus",
 "Síndrome nefrótica"
 ],

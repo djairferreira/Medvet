@@ -1,0 +1,442 @@
+[
+ {
+  "c": "hipotalamo",
+  "q": "Os neurônios que comparam a temperatura com o ponto de ajuste ficam principalmente na:",
+  "o": [
+   "área pré-óptica do hipotálamo anterior",
+   "medula espinal lombar, junto aos motoneurônios",
+   "neuro-hipófise, junto aos terminais de ocitocina",
+   "formação reticular do bulbo, junto ao centro vasomotor"
+  ],
+  "e": "É o termostato central."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "O canal iônico típico dos termorreceptores de frio da pele é o:",
+  "o": [
+   "TRPM8",
+   "TRPV1",
+   "Nav1.7",
+   "ENaC"
+  ],
+  "e": "TRPV1 responde ao calor."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "A temperatura retal normal de um equino adulto é de aproximadamente:",
+  "o": [
+   "37,5 a 38,5 °C",
+   "39,5 a 40,5 °C",
+   "36,0 a 37,0 °C",
+   "40,6 a 42,0 °C"
+  ],
+  "e": "Valores da tabela de referência."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Qual espécie tem a temperatura corporal normal mais alta?",
+  "o": [
+   "galinha",
+   "bovino",
+   "equino",
+   "cão"
+  ],
+  "e": "Aves: cerca de 40,6–42 °C."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Uma cadela no fim da gestação com temperatura retal caindo para ~37 °C sugere:",
+  "o": [
+   "parto nas próximas 12 a 24 horas",
+   "infecção uterina grave",
+   "hipotireoidismo gestacional",
+   "febre de origem desconhecida"
+  ],
+  "e": "A queda da progesterona reduz a temperatura."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Nos animais diurnos, a temperatura corporal costuma ser:",
+  "o": [
+   "mínima pela manhã e máxima à tarde",
+   "máxima de madrugada e mínima ao entardecer",
+   "constante ao longo de todo o dia",
+   "mínima ao meio-dia, quando o sol é mais forte"
+  ],
+  "e": "Variação circadiana de 0,5 a 1,5 °C."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "O mentol produz sensação de frio por ativar o canal:",
+  "o": [
+   "TRPM8",
+   "TRPV1",
+   "TRPA1",
+   "TRPV4"
+  ],
+  "e": "TRPM8 é o sensor de frio moderado e também responde ao mentol."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "A capsaicina da pimenta ativa o canal:",
+  "o": [
+   "TRPV1",
+   "TRPM8",
+   "TRPM2",
+   "TRPC1"
+  ],
+  "e": "TRPV1 responde ao calor nocivo e à capsaicina."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "As aves comem pimenta sem desconforto porque:",
+  "o": [
+   "Seu TRPV1 é insensível à capsaicina",
+   "Não têm termorreceptores na boca",
+   "Têm TRPM8 em excesso",
+   "Possuem glândulas que neutralizam a capsaicina"
+  ],
+  "e": "Uma variante do TRPV1 das aves não liga a capsaicina."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Na pele, em comparação com os receptores de calor, os de frio são:",
+  "o": [
+   "Mais numerosos",
+   "Ausentes",
+   "Restritos às mucosas",
+   "Iguais em número"
+  ],
+  "e": "Predominam os receptores de frio, úteis para antecipar a perda de calor."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "O núcleo que retransmite o sinal térmico da pele para a área pré-óptica é o:",
+  "o": [
+   "Parabraquial lateral",
+   "Supraquiasmático, que gera o ritmo diário",
+   "Arqueado",
+   "Rubro"
+  ],
+  "e": "A via termorreguladora passa pelo núcleo parabraquial lateral."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Os neurônios sensíveis ao calor da área pré-óptica, em sua maioria, são:",
+  "o": [
+   "GABAérgicos inibitórios",
+   "Colinérgicos excitatórios",
+   "Dopaminérgicos",
+   "Serotoninérgicos excitatórios"
+  ],
+  "e": "Eles freiam continuamente os circuitos de produção de calor."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "No frio, a produção de calor aumenta porque a área pré-óptica:",
+  "o": [
+   "Desinibe o hipotálamo dorsomedial",
+   "Libera ADH em excesso",
+   "Ativa diretamente as glândulas sudoríparas",
+   "Inibe o núcleo pálido da rafe"
+  ],
+  "e": "Menos disparo dos neurônios sensíveis ao calor solta o freio."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "A estação de saída bulbar para vasoconstrição, gordura parda e tremor é o:",
+  "o": [
+   "Núcleo pálido da rafe",
+   "Núcleo ambíguo",
+   "Núcleo do trato solitário",
+   "Locus ceruleus"
+  ],
+  "e": "A rafe rostral projeta-se para pré-ganglionares e motoneurônios."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "O núcleo hipotalâmico que libera TRH no frio é o:",
+  "o": [
+   "Paraventricular",
+   "Supraquiasmático",
+   "Ventromedial",
+   "Mamilar"
+  ],
+  "e": "O NPV comanda os eixos tireoidiano e adrenal."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "A sudorese das glândulas écrinas é mediada por:",
+  "o": [
+   "Fibras simpáticas colinérgicas",
+   "Fibras parassimpáticas",
+   "Adrenalina circulante agindo em receptores α1",
+   "Histamina"
+  ],
+  "e": "É uma exceção simpática: o neurotransmissor é acetilcolina."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "A zona interlimiar corresponde à faixa em que:",
+  "o": [
+   "Nenhuma resposta térmica ativa é acionada",
+   "Sudorese e tremor ocorrem juntos, em equilíbrio",
+   "Só a gordura parda está ativa",
+   "O animal entra em torpor"
+  ],
+  "e": "Entre os limiares de vasoconstrição e vasodilatação não há resposta ativa."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Qual efetor é recrutado primeiro por ser o mais barato?",
+  "o": [
+   "Comportamento e ajuste vasomotor",
+   "Tremor",
+   "Sudorese",
+   "Termogênese sem tremor pela gordura parda"
+  ],
+  "e": "Respostas caras (água ou energia) entram depois."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Aquecer apenas o escroto de um carneiro provoca:",
+  "o": [
+   "Ofego e queda da temperatura corporal",
+   "Tremor generalizado",
+   "Febre por PGE2",
+   "Vasoconstrição cutânea e piloereção generalizadas"
+  ],
+  "e": "Termorreceptores escrotais influenciam fortemente a termorregulação."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Nas aves, além do hipotálamo, um termossensor central importante é:",
+  "o": [
+   "A medula espinal",
+   "O cerebelo",
+   "A glândula uropigiana",
+   "O baço"
+  ],
+  "e": "Aquecer a medula da galinha induz ofego."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "A variação circadiana da temperatura é comandada pelo núcleo:",
+  "o": [
+   "Supraquiasmático",
+   "Paraventricular",
+   "Arqueado",
+   "Pré-óptico mediano"
+  ],
+  "e": "O relógio central impõe o ritmo diário."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Num gato, animal de hábito crepuscular-noturno, espera-se:",
+  "o": [
+   "Ritmo térmico diferente do de animais diurnos",
+   "Temperatura idêntica em qualquer hora",
+   "Ausência de ritmo circadiano",
+   "Máxima obrigatória ao meio-dia"
+  ],
+  "e": "Nos noturnos o pico ocorre na fase ativa."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "A progesterona na fase lútea tende a:",
+  "o": [
+   "Elevar levemente o ponto de ajuste",
+   "Abaixar muito a temperatura durante o diestro",
+   "Bloquear o ofego",
+   "Ativar a sudorese écrina"
+  ],
+  "e": "Ela age na área pré-óptica e eleva alguns décimos de grau."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "No exercício intenso, a temperatura sobe porque:",
+  "o": [
+   "A produção supera a perda de calor",
+   "O ponto de ajuste sobe pela ação da PGE2",
+   "A COX-2 é induzida no músculo",
+   "O hipotálamo é inibido"
+  ],
+  "e": "O exercício gera hipertermia, não febre."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Durante a hibernação, o hipotálamo:",
+  "o": [
+   "Rebaixa o ponto de ajuste e continua vigiando",
+   "Deixa de funcionar completamente",
+   "Mantém 38 °C com tremor",
+   "Eleva o ponto de ajuste para economizar energia"
+  ],
+  "e": "Se o frio ameaça, a gordura parda desperta o animal."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Em um animal desidratado e hiperosmótico, o hipotálamo:",
+  "o": [
+   "Eleva o limiar de sudorese e ofego",
+   "Aumenta a sudorese para resfriar mais rápido",
+   "Reduz a secreção de ADH",
+   "Abaixa o ponto de ajuste"
+  ],
+  "e": "Prioriza o volume sanguíneo e aceita temperatura maior."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Os osmorreceptores próximos à área pré-óptica ficam:",
+  "o": [
+   "No OVLT e órgão subfornical",
+   "No cerebelo",
+   "Na neuro-hipófise",
+   "Na medula adrenal"
+  ],
+  "e": "São órgãos circunventriculares da lâmina terminal."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "No calor, a redução do apetite do animal tem como função:",
+  "o": [
+   "Diminuir o incremento calórico",
+   "Aumentar a sudorese",
+   "Elevar o T4",
+   "Estimular a gordura parda e o tremor"
+  ],
+  "e": "Comer menos reduz o calor da digestão e fermentação."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Um animal em jejum prolongado tolera pior o frio porque:",
+  "o": [
+   "Reduz o T3 e a produção de calor",
+   "Aumenta a gordura parda e a termogênese",
+   "Eleva o ponto de ajuste",
+   "Perde a vasoconstrição"
+  ],
+  "e": "O jejum diminui a conversão de T4 em T3."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Bovinos a pasto no verão costumam:",
+  "o": [
+   "Pastar mais à noite e de madrugada",
+   "Pastar só ao meio-dia",
+   "Parar de beber água",
+   "Ficar ao sol para secar"
+  ],
+  "e": "Mudança comportamental do horário de pastejo."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "O estresse térmico reduz a expressão do estro porque:",
+  "o": [
+   "CRH e cortisol suprimem GnRH e LH",
+   "A progesterona desaparece totalmente do sangue",
+   "O FSH aumenta muito",
+   "A ocitocina é bloqueada"
+  ],
+  "e": "O eixo do estresse inibe o eixo reprodutivo."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Uma lesão da área pré-óptica tende a causar:",
+  "o": [
+   "Hipertermia que não responde a antipiréticos",
+   "Febre que responde à dipirona",
+   "Hipotermia por tremor excessivo e contínuo",
+   "Sudorese contínua"
+  ],
+  "e": "Perde-se a resposta ao calor; não há PGE2 envolvida."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Lesões extensas do hipotálamo posterior tendem a causar:",
+  "o": [
+   "Hipotermia ou poiquilotermia",
+   "Febre contínua",
+   "Sudorese profusa",
+   "Hipertermia maligna"
+  ],
+  "e": "Perde-se a defesa contra o frio."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "A acepromazina causa hipotermia principalmente por:",
+  "o": [
+   "Bloqueio α1 com vasodilatação",
+   "Ativação de β3",
+   "Indução de COX-2",
+   "Desacoplamento da fosforilação oxidativa"
+  ],
+  "e": "A vasodilatação e a depressão central aumentam a perda de calor."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Opioides como a hidromorfona, em gatos, podem causar:",
+  "o": [
+   "Hipertermia pós-anestésica",
+   "Hipotermia profunda obrigatória",
+   "Febre por endotoxina",
+   "Anidrose"
+  ],
+  "e": "Efeito central típico da espécie."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "A festuca tóxica causa hipertermia em bovinos porque seus alcaloides:",
+  "o": [
+   "São vasoconstritores periféricos",
+   "Induzem PGE2 no hipotálamo pré-óptico",
+   "Ativam a gordura parda",
+   "Bloqueiam o RyR1"
+  ],
+  "e": "Sem vasodilatação cutânea, o calor não é dissipado."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Dinitrofenol eleva a temperatura porque:",
+  "o": [
+   "Desacopla a fosforilação oxidativa",
+   "Inibe a COX-2",
+   "Bloqueia receptores EP3",
+   "Inibe a tireoide"
+  ],
+  "e": "A energia da cadeia respiratória vira calor."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "Termômetros infravermelhos de superfície medem principalmente:",
+  "o": [
+   "A temperatura da casca",
+   "A temperatura do núcleo",
+   "O ponto de ajuste",
+   "A temperatura do encéfalo"
+  ],
+  "e": "Servem para triagem, não substituem a medida retal."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "A hipertermia de estresse em gatos no consultório pode elevar a temperatura em:",
+  "o": [
+   "Cerca de 0,5 a 1 °C",
+   "Cerca de 4 a 5 °C",
+   "Exatamente 0 °C",
+   "Mais de 6 °C"
+  ],
+  "e": "A contenção eleva a temperatura sem febre verdadeira."
+ },
+ {
+  "c": "hipotalamo",
+  "q": "A sensação consciente de frio é gerada pela via que chega:",
+  "o": [
+   "Ao córtex pelo tálamo",
+   "Ao cerebelo pela ponte",
+   "À rafe pelo bulbo",
+   "À hipófise pelo infundíbulo"
+  ],
+  "e": "A via termorreguladora e a sensorial são paralelas."
+ }
+]

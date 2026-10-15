@@ -4,7 +4,7 @@
 "q": "Qual efeito da insulina sobre o metabolismo lipídico é correto?",
 "o": [
 "Ativa a acetil-CoA carboxilase e inibe a lipólise",
-"Ativa a lipase hormônio-sensível no adipócito",
+"Ativa a lipase hormônio-sensível no adipócito em jejum",
 "Inibe a lipase lipoproteica do tecido adiposo",
 "Estimula a CPT-I e a cetogênese hepática"
 ],
@@ -26,7 +26,7 @@
 "q": "Qual é a principal ação da leptina?",
 "o": [
 "Sinalizar ao hipotálamo que os estoques de gordura estão cheios",
-"Ativar a lipase lipoproteica do músculo esquelético",
+"Ativar a lipase lipoproteica do músculo esquelético no exercício",
 "Estimular a síntese hepática de corpos cetônicos",
 "Inibir a absorção intestinal de ácidos graxos"
 ],
@@ -37,7 +37,7 @@
 "q": "Agonistas β-adrenérgicos usados como repartidores em suínos aumentam a carne magra porque:",
 "o": [
 "Estimulam a lipólise e a deposição de músculo",
-"Inibem a CPT-I e a oxidação de gordura",
+"Inibem a CPT-I e a oxidação de gordura no músculo",
 "Aumentam a insulina e a lipogênese hepática",
 "Bloqueiam a lipase lipoproteica muscular"
 ],
@@ -82,7 +82,7 @@
 "o": [
 "SREBP-1c",
 "PPAR-α",
-"CREB",
+"CREB fosforilado",
 "NF-κB"
 ],
 "e": "SREBP-1c aumenta a expressão de ACC, AGS e outras enzimas."
@@ -103,7 +103,7 @@
 "q": "O efeito do glucagon sobre o metabolismo lipídico concentra-se:",
 "o": [
 "No fígado, aumentando β-oxidação e cetogênese",
-"No tecido adiposo, como principal lipolítico",
+"No tecido adiposo, como o principal lipolítico",
 "No intestino, aumentando a absorção",
 "No músculo, inibindo a LPL"
 ],
@@ -114,7 +114,7 @@
 "q": "O efeito permissivo do cortisol na lipólise significa que ele:",
 "o": [
 "Aumenta a resposta do adipócito às catecolaminas",
-"Ativa diretamente a LHS por fosforilação",
+"Ativa diretamente a LHS por fosforilação rápida",
 "Inibe a ATGL e a perilipina",
 "Reduz os receptores β no adiposo"
 ],
@@ -125,7 +125,7 @@
 "q": "Qual efeito o GH tem no tecido adiposo?",
 "o": [
 "Antagoniza a insulina e aumenta a lipólise",
-"Aumenta a captação de glicose",
+"Aumenta a captação de glicose pelo adipócito",
 "Estimula a lipogênese de novo",
 "Ativa a LPL e o estoque"
 ],
@@ -136,7 +136,7 @@
 "q": "No periparto da vaca leiteira, o eixo GH–IGF-1 está:",
 "o": [
 "Desacoplado: GH alto e IGF-1 baixo",
-"Acoplado: GH e IGF-1 altos",
+"Acoplado: GH e IGF-1 altos ao mesmo tempo",
 "Suprimido: GH e IGF-1 baixos",
 "Invertido: GH baixo e IGF-1 alto"
 ],
@@ -147,7 +147,7 @@
 "q": "Na vaca em início de lactação, a glicose entra na glândula mamária por:",
 "o": [
 "GLUT1, independente de insulina",
-"GLUT4, dependente de insulina",
+"GLUT4, dependente de insulina, como no músculo",
 "SGLT1, acoplado ao sódio",
 "Difusão simples pela membrana"
 ],
@@ -160,7 +160,7 @@
 "Mudança coordenada do metabolismo para uma nova prioridade",
 "Manutenção da glicemia em jejum curto",
 "Regulação da temperatura corporal",
-"Equilíbrio entre lipólise e lipogênese no adiposo"
+"Equilíbrio constante entre lipólise e lipogênese no adiposo"
 ],
 "e": "É a reorientação fisiológica que prioriza a lactação no periparto."
 },
@@ -180,7 +180,7 @@
 "q": "A adiponectina:",
 "o": [
 "Aumenta a sensibilidade à insulina e cai na obesidade",
-"Aumenta o apetite e sobe na obesidade",
+"Aumenta o apetite e sobe na obesidade como a leptina",
 "Inibe a oxidação de ácidos graxos",
 "É produzida pelo fígado no jejum"
 ],
@@ -202,7 +202,7 @@
 "q": "Onde a leptina age para reduzir o apetite?",
 "o": [
 "Núcleo arqueado do hipotálamo",
-"Córtex adrenal",
+"Córtex da glândula adrenal",
 "Ilhotas pancreáticas",
 "Neuro-hipófise"
 ],
@@ -213,7 +213,7 @@
 "q": "A niacina em doses altas é usada em vacas periparto para:",
 "o": [
 "Reduzir a lipólise via receptor acoplado a Gi",
-"Aumentar a produção de propionato",
+"Aumentar a produção ruminal de propionato e glicose",
 "Estimular a exportação de VLDL",
 "Elevar a secreção de glucagon"
 ],
@@ -224,7 +224,7 @@
 "q": "A somatotropina bovina recombinante aumenta a produção de leite porque:",
 "o": [
 "Desvia nutrientes do adiposo para a mama",
-"Aumenta a lipogênese no tecido adiposo",
+"Aumenta a lipogênese no tecido adiposo da vaca",
 "Reduz o fluxo sanguíneo mamário",
 "Inibe a gliconeogênese hepática"
 ],
@@ -279,7 +279,7 @@
 "q": "A síndrome metabólica equina caracteriza-se por:",
 "o": [
 "Obesidade regional, resistência à insulina e risco de laminite",
-"Hipoglicemia, cetose e cegueira",
+"Hipoglicemia, cetose e cegueira súbita em éguas prenhes",
 "Magreza extrema e hipertireoidismo",
 "Hipercalcemia e cálculos renais"
 ],
@@ -334,7 +334,7 @@
 "q": "Na lipólise ativada pela PKA, a LHS:",
 "o": [
 "É fosforilada e migra para a gotícula",
-"É desfosforilada e fica no citosol",
+"É desfosforilada e permanece no citosol",
 "É secretada no capilar",
 "É degradada no lisossomo"
 ],
@@ -367,7 +367,7 @@
 "q": "A noradrenalina liberada no tecido adiposo marrom no frio:",
 "o": [
 "Ativa a lipólise e a termogenina",
-"Inibe a UCP1 e reduz o calor",
+"Inibe a UCP1 e reduz a produção de calor",
 "Estimula a lipogênese local",
 "Bloqueia a cadeia respiratória"
 ],
@@ -378,7 +378,7 @@
 "q": "Por que a vaca gorda ao parto tem mais risco de cetose?",
 "o": [
 "Maior resistência à insulina, mais lipólise e menor ingestão",
-"Maior produção de insulina e lipogênese",
+"Maior produção de insulina e maior lipogênese no adiposo",
 "Menor secreção de GH e cortisol",
 "Menor reserva de gordura para mobilizar"
 ],
@@ -389,7 +389,7 @@
 "q": "A cetoacidose diabética ocorre quando a insulina está:",
 "o": [
 "Muito baixa e os hormônios contrarreguladores altos",
-"Alta e o glucagon baixo",
+"Alta, com glucagon baixo e cortisol normal",
 "Normal e o cortisol baixo",
 "Alta com resistência leve"
 ],
@@ -433,7 +433,7 @@
 "q": "O propilenoglicol, além de gliconeogênico, ajuda na cetose porque:",
 "o": [
 "Eleva a insulina e freia a lipólise",
-"Aumenta diretamente a CPT-I",
+"Aumenta diretamente a atividade da CPT-I hepática",
 "Inibe a síntese de propionato",
 "Estimula a cetogênese hepática"
 ],

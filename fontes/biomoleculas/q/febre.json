@@ -1,0 +1,486 @@
+[
+ {
+  "c": "febre",
+  "q": "Febre difere de hipertermia porque, na febre:",
+  "o": [
+   "o ponto de ajuste hipotalâmico está elevado",
+   "os mecanismos de perda de calor estão no máximo",
+   "a temperatura nunca passa de 39 °C",
+   "os antipiréticos não têm efeito"
+  ],
+  "e": "Na hipertermia o ponto de ajuste é normal."
+ },
+ {
+  "c": "febre",
+  "q": "Pirógenos endógenos clássicos são:",
+  "o": [
+   "IL-1, IL-6 e TNF-α",
+   "endotoxina e peptidoglicano",
+   "histamina e serotonina",
+   "insulina e glucagon"
+  ],
+  "e": "São citocinas produzidas por macrófagos."
+ },
+ {
+  "c": "febre",
+  "q": "O lipopolissacarídeo de bactérias gram-negativas é um exemplo de:",
+  "o": [
+   "pirógeno exógeno",
+   "pirógeno endógeno",
+   "antipirético endógeno",
+   "hormônio termogênico"
+  ],
+  "e": "Estimula macrófagos a liberar citocinas."
+ },
+ {
+  "c": "febre",
+  "q": "O mediador final que eleva o ponto de ajuste no hipotálamo é a:",
+  "o": [
+   "prostaglandina E2",
+   "prostaciclina",
+   "bradicinina",
+   "noradrenalina"
+  ],
+  "e": "Formada pela COX-2 e age em receptores EP3."
+ },
+ {
+  "c": "febre",
+  "q": "Os AINEs reduzem a febre porque:",
+  "o": [
+   "inibem as ciclo-oxigenases e a síntese de PGE2",
+   "bloqueiam diretamente os receptores de IL-1",
+   "aumentam a sudorese por ação periférica",
+   "matam os microrganismos pirogênicos"
+  ],
+  "e": "O ponto de ajuste volta ao normal."
+ },
+ {
+  "c": "febre",
+  "q": "Durante a subida da febre, o animal tipicamente apresenta:",
+  "o": [
+   "calafrios, vasoconstrição e extremidades frias",
+   "sudorese intensa, vasodilatação e pele úmida",
+   "ofego intenso com pele quente e avermelhada",
+   "bradicardia, hipotermia e redução do metabolismo"
+  ],
+  "e": "O hipotálamo interpreta a temperatura atual como baixa."
+ },
+ {
+  "c": "febre",
+  "q": "Na defervescência ('crise') da febre, predominam:",
+  "o": [
+   "vasodilatação, sudorese e ofego",
+   "tremor e piloereção",
+   "vasoconstrição e calafrio",
+   "redução do fluxo sanguíneo cutâneo"
+  ],
+  "e": "O ponto de ajuste caiu e o corpo está quente demais."
+ },
+ {
+  "c": "febre",
+  "q": "Um possível benefício da febre contra infecções bacterianas é:",
+  "o": [
+   "redução do ferro sérico disponível",
+   "aumento da glicose disponível às bactérias",
+   "imunossupressão que reduz a inflamação",
+   "maior oferta de ferro às bactérias"
+  ],
+  "e": "A hipoferremia limita o crescimento microbiano."
+ },
+ {
+  "c": "febre",
+  "q": "Febre em que a temperatura oscila durante o dia sem voltar ao normal é chamada:",
+  "o": [
+   "remitente",
+   "intermitente",
+   "atípica",
+   "recorrente pós-crise"
+  ],
+  "e": "Na intermitente há períodos de normotermia."
+ },
+ {
+  "c": "febre",
+  "q": "O paracetamol não deve ser usado como antitérmico em gatos porque causa:",
+  "o": [
+   "metemoglobinemia e lesão hepática",
+   "hipotermia irreversível",
+   "alcalose metabólica grave",
+   "hipercalcemia e cálculos"
+  ],
+  "e": "Gatos glicuronidam mal o fármaco."
+ },
+ {
+  "c": "febre",
+  "q": "Num cão com insolação, o antipirético é ineficaz porque:",
+  "o": [
+   "o ponto de ajuste está normal",
+   "a PGE2 está muito elevada",
+   "os receptores de IL-1 estão bloqueados",
+   "a temperatura está abaixo de 40 °C"
+  ],
+  "e": "O tratamento é resfriamento físico."
+ },
+ {
+  "c": "febre",
+  "q": "No resfriamento de um cão com intermação, recomenda-se:",
+  "o": [
+   "água à temperatura ambiente com ventilação",
+   "imersão em água gelada até 37 °C",
+   "antitérmico intravenoso como primeira medida",
+   "manter o animal coberto para evitar choque"
+  ],
+  "e": "Água gelada causa vasoconstrição cutânea."
+ },
+ {
+  "c": "febre",
+  "q": "A hipertermia maligna dos suínos decorre de mutação no:",
+  "o": [
+   "receptor de rianodina (RyR1)",
+   "canal de sódio dependente de voltagem",
+   "receptor de acetilcolina",
+   "transportador de glicose GLUT4"
+  ],
+  "e": "O Ca2+ sai do retículo sem controle."
+ },
+ {
+  "c": "febre",
+  "q": "O fármaco específico para a crise de hipertermia maligna é o:",
+  "o": [
+   "dantroleno",
+   "halotano",
+   "dipirona",
+   "propranolol"
+  ],
+  "e": "Bloqueia a liberação de Ca2+ pelo RyR1."
+ },
+ {
+  "c": "febre",
+  "q": "O LPS é entregue ao TLR4 com a participação de:",
+  "o": [
+   "LBP e CD14",
+   "Albumina e transferrina",
+   "Hepcidina e ferritina",
+   "IL-10 e TGF-β"
+  ],
+  "e": "A LBP transporta o LPS e o CD14 o apresenta ao TLR4."
+ },
+ {
+  "c": "febre",
+  "q": "A citocina que melhor se correlaciona com a altura da febre e induz fase aguda é a:",
+  "o": [
+   "IL-6",
+   "IL-10",
+   "IL-4",
+   "IL-2"
+  ],
+  "e": "A IL-6 é tardia e central na resposta de fase aguda."
+ },
+ {
+  "c": "febre",
+  "q": "O OVLT é importante na febre porque:",
+  "o": [
+   "Não tem barreira hematoencefálica",
+   "Produz IL-1",
+   "Fica no bulbo",
+   "Secreta vasopressina diretamente no sangue"
+  ],
+  "e": "Citocinas circulantes atuam no endotélio do OVLT."
+ },
+ {
+  "c": "febre",
+  "q": "A via neural rápida da febre utiliza fibras aferentes:",
+  "o": [
+   "Vagais",
+   "Do nervo frênico",
+   "Do nervo facial",
+   "Do nervo óptico"
+  ],
+  "e": "O vago detecta citocinas no fígado e intestino."
+ },
+ {
+  "c": "febre",
+  "q": "A PGE2 eleva o ponto de ajuste agindo em receptores:",
+  "o": [
+   "EP3",
+   "EP1 de músculo",
+   "H1",
+   "β2"
+  ],
+  "e": "EP3 reduz o AMPc dos neurônios sensíveis ao calor."
+ },
+ {
+  "c": "febre",
+  "q": "A enzima induzível que forma prostaglandinas no endotélio cerebral na febre é a:",
+  "o": [
+   "COX-2",
+   "COX-1 constitutiva",
+   "Lipoxigenase",
+   "Fosfolipase C"
+  ],
+  "e": "A COX-2 é induzida pelas citocinas."
+ },
+ {
+  "c": "febre",
+  "q": "O substrato para a síntese de PGE2 é o:",
+  "o": [
+   "Ácido araquidônico",
+   "Ácido oleico",
+   "Colesterol",
+   "Ácido láctico"
+  ],
+  "e": "A fosfolipase A2 libera araquidonato das membranas."
+ },
+ {
+  "c": "febre",
+  "q": "No platô da febre, espera-se:",
+  "o": [
+   "Temperatura estável no novo ponto de ajuste",
+   "Calafrios intensos",
+   "Sudorese profusa",
+   "Extremidades frias, tremor e piloereção"
+  ],
+  "e": "Produção e perda se equilibram no novo valor."
+ },
+ {
+  "c": "febre",
+  "q": "A defervescência em 'lise' significa:",
+  "o": [
+   "Queda gradual em dias",
+   "Queda súbita em horas",
+   "Subida rápida",
+   "Febre bifásica"
+  ],
+  "e": "Crise é rápida; lise é gradual."
+ },
+ {
+  "c": "febre",
+  "q": "Febre bifásica é descrita em:",
+  "o": [
+   "Cinomose canina",
+   "Hipertermia maligna",
+   "Insolação",
+   "Hipertireoidismo felino"
+  ],
+  "e": "Algumas viroses têm dois picos."
+ },
+ {
+  "c": "febre",
+  "q": "Febre recorrente em ciclos é sugestiva de:",
+  "o": [
+   "Hemoparasitoses e anemia infecciosa equina",
+   "Insolação crônica e repetida no verão",
+   "Hipotireoidismo",
+   "Lesão hipotalâmica"
+  ],
+  "e": "Ciclos de parasitemia ou viremia geram picos."
+ },
+ {
+  "c": "febre",
+  "q": "Na mastite aguda por coliformes, uma vaca prostrada com temperatura normal sugere:",
+  "o": [
+   "Choque endotóxico grave",
+   "Cura da infecção e fim da endotoxemia",
+   "Ausência de mastite",
+   "Febre controlada"
+  ],
+  "e": "No choque a temperatura pode cair."
+ },
+ {
+  "c": "febre",
+  "q": "A hepcidina contribui para a defesa febril porque:",
+  "o": [
+   "Sequestra o ferro",
+   "Destrói o LPS",
+   "Inibe a COX-2",
+   "Aumenta a sudorese"
+  ],
+  "e": "Menos ferro disponível às bactérias."
+ },
+ {
+  "c": "febre",
+  "q": "Cada grau de febre aumenta o metabolismo em cerca de:",
+  "o": [
+   "10 a 13%",
+   "1%",
+   "50%",
+   "100%"
+  ],
+  "e": "Efeito Q10 sobre as reações."
+ },
+ {
+  "c": "febre",
+  "q": "Febre alta no início da gestação pode causar:",
+  "o": [
+   "Morte embrionária ou aborto",
+   "Aumento da fertilidade",
+   "Parto prematuro obrigatório",
+   "Gestação gemelar"
+  ],
+  "e": "Embriões precoces são muito sensíveis ao calor."
+ },
+ {
+  "c": "febre",
+  "q": "Em um touro, alguns dias de febre causam:",
+  "o": [
+   "Sêmen de pior qualidade por cerca de 60 dias",
+   "Aumento da libido permanente",
+   "Esterilidade irreversível em todos os casos",
+   "Nenhuma alteração seminal"
+  ],
+  "e": "Degeneração testicular é reversível em semanas."
+ },
+ {
+  "c": "febre",
+  "q": "A flunixina não deve ser aplicada por via IM em equinos porque:",
+  "o": [
+   "Pode causar miosite clostridial",
+   "O fármaco é inativo quando aplicado por essa via",
+   "Causa hipertermia maligna",
+   "Provoca anidrose"
+  ],
+  "e": "Lesão muscular favorece clostrídios."
+ },
+ {
+  "c": "febre",
+  "q": "O gato é sensível ao paracetamol pela baixa atividade de:",
+  "o": [
+   "Glicuronidação (UGT1A6)",
+   "Citocromo P450",
+   "Catalase",
+   "Lipase hepática"
+  ],
+  "e": "Sem glicuronidação, forma-se NAPQI."
+ },
+ {
+  "c": "febre",
+  "q": "O antídoto principal na intoxicação por paracetamol em gatos é:",
+  "o": [
+   "N-acetilcisteína",
+   "Dantroleno",
+   "Atropina",
+   "Vitamina K1"
+  ],
+  "e": "Repõe a glutationa que neutraliza o NAPQI."
+ },
+ {
+  "c": "febre",
+  "q": "O metabólito tóxico do paracetamol é o:",
+  "o": [
+   "NAPQI",
+   "Salicilato",
+   "Ácido araquidônico",
+   "Metilglioxal"
+  ],
+  "e": "Formado pelo citocromo P450."
+ },
+ {
+  "c": "febre",
+  "q": "Mucosas marrom-acinzentadas num gato que recebeu paracetamol indicam:",
+  "o": [
+   "Metemoglobinemia",
+   "Icterícia pré-hepática",
+   "Cianose por pneumonia",
+   "Hiperemia por febre"
+  ],
+  "e": "A hemoglobina é oxidada a metemoglobina."
+ },
+ {
+  "c": "febre",
+  "q": "O ácido acetilsalicílico acumula em gatos porque sua meia-vida nessa espécie é de cerca de:",
+  "o": [
+   "22 a 45 horas",
+   "1 a 2 horas",
+   "10 minutos",
+   "7 dias"
+  ],
+  "e": "A glicuronidação deficiente prolonga a eliminação."
+ },
+ {
+  "c": "febre",
+  "q": "Na febre verdadeira, compressas frias sem antipirético tendem a:",
+  "o": [
+   "Fazer o animal gastar energia para reaquecer",
+   "Baixar o ponto de ajuste ao normal rapidamente",
+   "Bloquear a COX-2",
+   "Eliminar o pirógeno"
+  ],
+  "e": "O ponto de ajuste continua elevado."
+ },
+ {
+  "c": "febre",
+  "q": "A mutação clássica da hipertermia maligna suína é:",
+  "o": [
+   "Arg615Cys no RYR1",
+   "Deleção de UCP1",
+   "Mutação no TRPV1",
+   "Mutação na COX-2"
+  ],
+  "e": "É o gene halotano."
+ },
+ {
+  "c": "febre",
+  "q": "Na crise de hipertermia maligna, um sinal precoce durante a anestesia é:",
+  "o": [
+   "Aumento súbito do CO2 expirado",
+   "Bradicardia, hipotermia e flacidez muscular",
+   "Queda do lactato",
+   "Flacidez muscular"
+  ],
+  "e": "O hipermetabolismo eleva o CO2."
+ },
+ {
+  "c": "febre",
+  "q": "A carne PSE resulta de:",
+  "o": [
+   "Queda rápida do pH com a carcaça quente",
+   "Glicogênio muscular esgotado muito antes do abate",
+   "Excesso de gordura intramuscular",
+   "Congelamento lento"
+  ],
+  "e": "Típica de suínos portadores do gene halotano."
+ },
+ {
+  "c": "febre",
+  "q": "Febre de origem indeterminada é definida como:",
+  "o": [
+   "Febre persistente sem causa após investigação básica",
+   "Qualquer febre acima de 40 °C, independentemente da causa",
+   "Febre que cede com AINE",
+   "Hipertermia por exercício"
+  ],
+  "e": "Duração de ~2 semanas sem diagnóstico."
+ },
+ {
+  "c": "febre",
+  "q": "Antes de iniciar antibiótico empírico numa FOI, deve-se:",
+  "o": [
+   "Coletar hemoculturas e amostras",
+   "Aplicar corticoide para testar a resposta",
+   "Suspender a fluidoterapia",
+   "Aguardar mais 30 dias"
+  ],
+  "e": "Tratar antes de coletar mascara o agente."
+ },
+ {
+  "c": "febre",
+  "q": "Uma causa clássica de FOI em potros é:",
+  "o": [
+   "Rhodococcus equi",
+   "Hipertermia maligna",
+   "Anidrose",
+   "Festuca tóxica"
+  ],
+  "e": "Causa abscessos pulmonares e abdominais."
+ },
+ {
+  "c": "febre",
+  "q": "Uma causa imunomediada de febre recorrente em cães é:",
+  "o": [
+   "Poliartrite imunomediada",
+   "Insolação",
+   "Hipotireoidismo",
+   "Diabetes insípido"
+  ],
+  "e": "Marcha rígida e febre sem agente."
+ }
+]
