@@ -301,8 +301,8 @@
   "q": "A enzima que forma GABA a partir do glutamato depende de qual vitamina?",
   "o": [
    "B6 (piridoxal-fosfato)",
-   "B1 (tiamina)",
-   "B12 (cobalamina)",
+   "B1 (tiamina pirofosfato)",
+   "B12 (cobalamina, metilcobalamina)",
    "C (ácido ascórbico)"
   ],
   "e": "A glutamato descarboxilase usa piridoxal-fosfato."
@@ -322,9 +322,9 @@
   "c": "neurotrans",
   "q": "No ciclo glutamato-glutamina, os astrócitos:",
   "o": [
-   "Captam glutamato e o convertem em glutamina",
-   "Liberam GABA na fenda sináptica",
-   "Sintetizam acetilcolina",
+   "Captam glutamato e o devolvem como glutamina",
+   "Liberam GABA na fenda sináptica central",
+   "Sintetizam acetilcolina a partir de colina",
    "Degradam glicina em serina"
   ],
   "e": "A glutamina sintetase dos astrócitos converte glutamato em glutamina, devolvida ao neurônio."
@@ -345,8 +345,8 @@
   "q": "O receptor GABA-B atua:",
   "o": [
    "Por proteína G, abrindo canais de K⁺",
-   "Como canal de Cl⁻",
-   "Como canal de Na⁺",
+   "Como canal de Cl⁻ ativado por ligante",
+   "Como canal de Na⁺ ativado por ligante",
    "Inibindo a acetilcolinesterase"
   ],
   "e": "GABA-B é metabotrópico (Gi) e gera PIPS lento."
@@ -366,7 +366,7 @@
   "c": "neurotrans",
   "q": "Por que a perda da inibição na medula produz extensão rígida dos membros?",
   "o": [
-   "Os extensores são mais fortes que os flexores",
+   "Os extensores são mais fortes",
    "Só os extensores perdem inibição",
    "Os flexores ficam paralisados",
    "A placa motora fica bloqueada"
@@ -400,8 +400,8 @@
   "q": "A estricnina age como:",
   "o": [
    "Antagonista do receptor de glicina",
-   "Agonista do receptor GABA-A",
-   "Bloqueadora do canal NMDA",
+   "Agonista do receptor GABA-A central",
+   "Bloqueadora do canal do receptor NMDA",
    "Inibidora da acetilcolinesterase"
   ],
   "e": "Bloqueia competitivamente o receptor de glicina na medula."
@@ -444,8 +444,8 @@
   "q": "A substância P é cotransmitida principalmente com:",
   "o": [
    "Glutamato nas fibras de dor",
-   "GABA no cerebelo",
-   "Glicina na medula",
+   "GABA nas células de Purkinje",
+   "Glicina nas células de Renshaw",
    "Noradrenalina no coração"
   ],
   "e": "Fibras nociceptivas liberam glutamato e substância P."
@@ -454,7 +454,7 @@
   "c": "neurotrans",
   "q": "Na encefalopatia hepática, a amônia prejudica o SNC em parte porque:",
   "o": [
-   "Sobrecarrega a glutamina sintetase dos astrócitos",
+   "Sobrecarrega a glutamina sintetase",
    "Bloqueia o receptor de glicina",
    "Inibe a acetilcolinesterase",
    "Destrói a bainha de mielina"

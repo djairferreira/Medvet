@@ -279,8 +279,8 @@
   "q": "Uma vantagem da sinapse química sobre a elétrica é:",
   "o": [
    "Poder amplificar e inibir o sinal",
-   "Ser mais rápida",
-   "Ser sempre bidirecional",
+   "Ser bem mais rápida que a elétrica",
+   "Ser sempre bidirecional na passagem",
    "Dispensar proteínas de membrana"
   ],
   "e": "A química amplifica, inibe, integra e é muito modulável."
@@ -366,9 +366,9 @@
   "c": "sinapse",
   "q": "Na inibição por derivação (curto-circuito):",
   "o": [
-   "Canais de Cl⁻ abertos anulam correntes excitatórias",
-   "A membrana hiperpolariza fortemente",
-   "O terminal pré-sináptico se despolariza",
+   "Canais de Cl⁻ abertos desviam correntes excitatórias",
+   "A membrana hiperpolariza fortemente até −90 mV",
+   "O terminal pré-sináptico se despolariza mais",
    "O neurônio dispara mais facilmente"
   ],
   "e": "Mesmo sem mudar a voltagem, a alta condutância de Cl⁻ desvia correntes excitatórias."
@@ -399,7 +399,7 @@
   "c": "sinapse",
   "q": "Na LTP, o Mg²⁺ é removido do receptor NMDA por:",
   "o": [
-   "Despolarização da membrana pós-sináptica",
+   "Despolarização pós-sináptica",
    "Ligação de GABA ao receptor",
    "Hiperpolarização intensa",
    "Ação da acetilcolinesterase"
@@ -411,8 +411,8 @@
   "q": "A sensibilização central à dor tem base em mecanismo semelhante a:",
   "o": [
    "Potenciação de longa duração",
-   "Inibição pré-sináptica",
-   "Depressão sináptica",
+   "Inibição pré-sináptica axoaxônica",
+   "Depressão sináptica de curto prazo",
    "Sinapse elétrica"
   ],
   "e": "Ativação de NMDA e aumento de AMPA amplificam a transmissão da dor na medula."
@@ -422,8 +422,8 @@
   "q": "Na sinapse química, o efeito excitatório ou inibitório é definido:",
   "o": [
    "Pelo receptor pós-sináptico",
-   "Pelo tamanho da vesícula",
-   "Pela largura da fenda",
+   "Pelo tamanho da vesícula sináptica",
+   "Pela largura da fenda sináptica",
    "Pela velocidade do axônio"
   ],
   "e": "O mesmo transmissor pode excitar ou inibir dependendo do receptor."

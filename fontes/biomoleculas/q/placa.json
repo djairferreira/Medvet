@@ -191,8 +191,8 @@
   "q": "A enzima que sintetiza acetilcolina no terminal motor é a:",
   "o": [
    "Colina acetiltransferase",
-   "Acetilcolinesterase",
-   "Butirilcolinesterase",
+   "Acetilcolinesterase da fenda",
+   "Butirilcolinesterase plasmática",
    "Tirosina hidroxilase"
   ],
   "e": "A colina acetiltransferase une acetil-CoA e colina."
@@ -202,8 +202,8 @@
   "q": "A etapa limitante da síntese de acetilcolina é:",
   "o": [
    "A captação de colina pelo terminal",
-   "A produção de acetil-CoA",
-   "A ação da acetilcolinesterase",
+   "A produção mitocondrial de acetil-CoA",
+   "A ação da acetilcolinesterase na fenda",
    "A entrada de Na⁺ na placa"
   ],
   "e": "O transportador de colina (CHT), bloqueado pelo hemicolínio, limita a síntese."
@@ -235,8 +235,8 @@
   "q": "Na placa motora, os receptores nicotínicos concentram-se:",
   "o": [
    "Nas cristas das dobras juncionais",
-   "No fundo das dobras juncionais",
-   "Ao longo dos túbulos T",
+   "No fundo das dobras juncionais da placa",
+   "Ao longo de todos os túbulos T",
    "No terminal pré-sináptico"
   ],
   "e": "Os receptores ficam nas cristas, em frente às zonas ativas; os canais de Na⁺, no fundo."
@@ -257,8 +257,8 @@
   "q": "Para abrir o receptor nicotínico muscular, é necessário:",
   "o": [
    "Ligar duas moléculas de ACh",
-   "Ligar uma ACh e um Ca²⁺",
-   "Fosforilar a subunidade β",
+   "Ligar uma ACh e um íon Ca²⁺ ao poro",
+   "Fosforilar a subunidade β por PKA",
    "Ativar uma proteína G"
   ],
   "e": "Os dois sítios nas subunidades α precisam estar ocupados."
@@ -268,8 +268,8 @@
   "q": "O canal do receptor nicotínico é:",
   "o": [
    "Não seletivo para cátions",
-   "Seletivo para Cl⁻",
-   "Seletivo para Ca²⁺",
+   "Seletivo apenas para Cl⁻",
+   "Seletivo apenas para Ca²⁺",
    "Seletivo para K⁺"
   ],
   "e": "Deixa passar Na⁺ e K⁺; o efeito líquido é entrada de carga positiva."
@@ -378,8 +378,8 @@
   "q": "Na estimulação nervosa repetitiva de um cão miastênico observa-se:",
   "o": [
    "Decremento progressivo da resposta",
-   "Aumento progressivo da resposta",
-   "Resposta normal e constante",
+   "Aumento progressivo da resposta muscular",
+   "Resposta normal e constante em todos",
    "Ausência total de resposta"
   ],
   "e": "Com menos receptores, a perda do fator de segurança causa falha crescente."
@@ -455,8 +455,8 @@
   "q": "O atracúrio é boa escolha em pacientes com doença renal e hepática porque:",
   "o": [
    "Degrada-se espontaneamente no plasma",
-   "É eliminado só pela bile",
-   "Não atravessa a placa motora",
+   "É eliminado inteiramente pela bile",
+   "Não atravessa a fenda da placa motora",
    "Tem duração de poucos segundos"
   ],
   "e": "A eliminação de Hofmann independe de fígado e rim."
@@ -477,8 +477,8 @@
   "q": "A peçonha da coral-verdadeira causa paralisia porque:",
   "o": [
    "Bloqueia o receptor nicotínico",
-   "Inibe a acetilcolinesterase",
-   "Ativa o receptor de rianodina",
+   "Inibe a acetilcolinesterase da fenda",
+   "Ativa o receptor de rianodina do RS",
    "Destrói a bainha de mielina"
   ],
   "e": "As α-neurotoxinas das corais ligam-se ao receptor nicotínico pós-sináptico."
