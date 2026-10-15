@@ -1,0 +1,486 @@
+[
+ {
+  "c": "musculo",
+  "q": "Durante a contração do músculo esquelético, qual região do sarcômero mantém o comprimento?",
+  "o": [
+   "Banda A",
+   "Banda I",
+   "Zona H",
+   "Distância entre linhas Z"
+  ],
+  "e": "A banda A corresponde ao comprimento do filamento grosso, que não encurta."
+ },
+ {
+  "c": "musculo",
+  "q": "Qual proteína do complexo troponina liga o cálcio?",
+  "o": [
+   "Troponina C",
+   "Troponina I",
+   "Troponina T",
+   "Tropomiosina"
+  ],
+  "e": "TnC liga Ca²⁺; TnI inibe; TnT prende à tropomiosina."
+ },
+ {
+  "c": "musculo",
+  "q": "Em repouso, o que impede a miosina de se ligar à actina?",
+  "o": [
+   "A tropomiosina cobrindo os sítios",
+   "A titina segurando a miosina longe",
+   "A calmodulina presa à actina",
+   "A falta de ATP no citosol"
+  ],
+  "e": "A tropomiosina, mantida pela troponina, bloqueia os sítios de ligação."
+ },
+ {
+  "c": "musculo",
+  "q": "A proteína gigante que funciona como mola e centraliza a miosina no sarcômero é:",
+  "o": [
+   "Titina",
+   "Nebulina",
+   "Distrofina",
+   "Desmina"
+  ],
+  "e": "A titina vai da linha Z à linha M e gera tensão passiva."
+ },
+ {
+  "c": "musculo",
+  "q": "A creatina-fosfato regenera ATP por meio da enzima:",
+  "o": [
+   "Creatina quinase",
+   "Adenilato ciclase",
+   "Lactato desidrogenase",
+   "Piruvato quinase"
+  ],
+  "e": "Creatina-P + ADP → creatina + ATP."
+ },
+ {
+  "c": "musculo",
+  "q": "Qual sistema energético sustenta um enduro equestre de várias horas?",
+  "o": [
+   "Fosforilação oxidativa",
+   "Creatina-fosfato muscular",
+   "Glicólise anaeróbica",
+   "ATP armazenado na fibra"
+  ],
+  "e": "Ácidos graxos e glicose oxidados na mitocôndria sustentam esforços longos."
+ },
+ {
+  "c": "musculo",
+  "q": "As fibras do tipo I caracterizam-se por:",
+  "o": [
+   "Muita mioglobina e resistência à fadiga",
+   "Pouca mitocôndria e contração rápida",
+   "Muito glicogênio e fadiga precoce",
+   "Cor branca e ATPase muito rápida"
+  ],
+  "e": "São lentas, oxidativas e vermelhas."
+ },
+ {
+  "c": "musculo",
+  "q": "O peito do frango é branco porque predominam fibras:",
+  "o": [
+   "Rápidas glicolíticas",
+   "Lentas oxidativas",
+   "Rápidas oxidativas com muita mioglobina",
+   "Lisas multiunitárias"
+  ],
+  "e": "Voo curto de fuga exige força explosiva, não resistência."
+ },
+ {
+  "c": "musculo",
+  "q": "Qual enzima sérica é marcador clássico de lesão de fibra muscular?",
+  "o": [
+   "Creatina quinase (CK)",
+   "Fosfatase alcalina",
+   "Gama-glutamiltransferase",
+   "Lipase pancreática"
+  ],
+  "e": "CK e AST sobem quando fibras se rompem."
+ },
+ {
+  "c": "musculo",
+  "q": "O tecido conjuntivo que envolve cada fibra muscular individualmente é o:",
+  "o": [
+   "Endomísio",
+   "Perimísio",
+   "Epimísio",
+   "Sarcolema"
+  ],
+  "e": "O endomísio envolve cada fibra; o perimísio, os fascículos; o epimísio, o músculo inteiro."
+ },
+ {
+  "c": "musculo",
+  "q": "O perimísio envolve:",
+  "o": [
+   "Cada fascículo de fibras",
+   "Cada miofibrila",
+   "O músculo inteiro",
+   "Cada sarcômero"
+  ],
+  "e": "O perimísio separa os fascículos e conduz vasos e nervos maiores."
+ },
+ {
+  "c": "musculo",
+  "q": "A gordura de marmoreio da carne bovina se deposita principalmente:",
+  "o": [
+   "No perimísio, entre fascículos",
+   "No interior das miofibrilas",
+   "No retículo sarcoplasmático",
+   "Na linha Z dos sarcômeros"
+  ],
+  "e": "O marmoreio é gordura intramuscular depositada entre os fascículos, no perimísio."
+ },
+ {
+  "c": "musculo",
+  "q": "Por que a carne de vaca velha de descarte costuma ser mais dura que a de novilho?",
+  "o": [
+   "Colágeno com mais ligações cruzadas estáveis",
+   "Menos miofibrilas por fibra muscular",
+   "Ausência de troponina nas fibras velhas",
+   "Retículo sarcoplasmático mais desenvolvido"
+  ],
+  "e": "Com a idade o colágeno do conjuntivo forma ligações cruzadas termoestáveis que não amolecem no cozimento."
+ },
+ {
+  "c": "musculo",
+  "q": "As células responsáveis pela regeneração da fibra muscular lesada são as:",
+  "o": [
+   "Células satélite",
+   "Células de Schwann",
+   "Células de Cajal",
+   "Células de Renshaw"
+  ],
+  "e": "Células satélite, sob a lâmina basal, proliferam e se fundem para regenerar a fibra."
+ },
+ {
+  "c": "musculo",
+  "q": "Os túbulos T são:",
+  "o": [
+   "Invaginações do sarcolema",
+   "Expansões do retículo sarcoplasmático",
+   "Feixes de filamentos intermediários",
+   "Canais entre fibras vizinhas"
+  ],
+  "e": "O túbulo T é extensão da membrana; seu interior é líquido extracelular."
+ },
+ {
+  "c": "musculo",
+  "q": "A tríade do músculo esquelético é formada por:",
+  "o": [
+   "Um túbulo T e duas cisternas terminais",
+   "Duas linhas Z e uma linha M",
+   "Um túbulo T e uma cisterna terminal",
+   "Actina, miosina e titina"
+  ],
+  "e": "Tríade = 1 túbulo T + 2 cisternas terminais do RS. No coração há díade."
+ },
+ {
+  "c": "musculo",
+  "q": "Nos mamíferos, os túbulos T do músculo esquelético ficam localizados:",
+  "o": [
+   "Na junção entre as bandas A e I",
+   "No centro da zona H",
+   "Exatamente sobre a linha M",
+   "Só na região da placa motora"
+  ],
+  "e": "Nos mamíferos há dois túbulos T por sarcômero, nas junções A-I; no coração ficam na linha Z."
+ },
+ {
+  "c": "musculo",
+  "q": "No retículo sarcoplasmático, o Ca²⁺ fica armazenado ligado principalmente à:",
+  "o": [
+   "Calsequestrina",
+   "Calmodulina",
+   "Parvalbumina",
+   "Troponina C"
+  ],
+  "e": "A calsequestrina das cisternas terminais liga grande quantidade de cálcio em baixa afinidade."
+ },
+ {
+  "c": "musculo",
+  "q": "A parte longitudinal do retículo sarcoplasmático é rica em:",
+  "o": [
+   "SERCA, que recolhe o cálcio",
+   "Receptores nicotínicos",
+   "Canais de Na⁺ dependentes de voltagem",
+   "Receptores de di-hidropiridina"
+  ],
+  "e": "A SERCA bombeia o Ca²⁺ de volta para o RS; o RYR1 fica nas cisternas terminais."
+ },
+ {
+  "c": "musculo",
+  "q": "O interior do túbulo T contém:",
+  "o": [
+   "Líquido extracelular",
+   "Cálcio ligado à calsequestrina",
+   "Citosol com miofibrilas",
+   "Mitocôndrias e glicogênio"
+  ],
+  "e": "O túbulo T é contínuo com a superfície; o lúmen é meio extracelular."
+ },
+ {
+  "c": "musculo",
+  "q": "No músculo cardíaco, o contato entre túbulo T e retículo forma geralmente:",
+  "o": [
+   "Uma díade",
+   "Uma tríade",
+   "Um disco Z",
+   "Uma cavéola"
+  ],
+  "e": "No miocárdio o túbulo T se associa a uma cisterna só: díade."
+ },
+ {
+  "c": "musculo",
+  "q": "O potencial de repouso típico da fibra muscular esquelética é cerca de:",
+  "o": [
+   "−90 mV",
+   "−55 mV",
+   "−20 mV",
+   "+30 mV"
+  ],
+  "e": "A fibra esquelética repousa perto de −90 mV, mais negativa que o neurônio."
+ },
+ {
+  "c": "musculo",
+  "q": "A miotonia congênita de cães e das cabras “desmaiadas” deve-se a defeito no canal de:",
+  "o": [
+   "Cl⁻ (ClC-1)",
+   "Ca²⁺ (RYR1)",
+   "Na⁺ (Nav1.4)",
+   "K⁺ (Kir)"
+  ],
+  "e": "Sem a condutância de cloreto, o sarcolema dispara repetidamente e o relaxamento demora."
+ },
+ {
+  "c": "musculo",
+  "q": "Os filamentos finos estão ancorados na linha Z pela:",
+  "o": [
+   "α-actinina",
+   "Miomesina",
+   "Desmina",
+   "Nebulina"
+  ],
+  "e": "A α-actinina prende as extremidades + dos filamentos finos ao disco Z."
+ },
+ {
+  "c": "musculo",
+  "q": "A banda A corresponde:",
+  "o": [
+   "Ao comprimento do filamento grosso",
+   "À região só de filamentos finos",
+   "À distância entre duas linhas Z",
+   "À região sem sobreposição"
+  ],
+  "e": "A banda A tem o comprimento dos filamentos grossos (≈1,6 µm) e não muda na contração."
+ },
+ {
+  "c": "musculo",
+  "q": "A zona H corresponde à região:",
+  "o": [
+   "Só com filamentos grossos",
+   "Só com filamentos finos",
+   "De ancoragem dos finos",
+   "Com titina e nebulina apenas"
+  ],
+  "e": "No centro da banda A, onde os finos não chegam, fica a zona H."
+ },
+ {
+  "c": "musculo",
+  "q": "Num sarcômero contraído, o que acontece com as bandas?",
+  "o": [
+   "I e H diminuem; A não muda",
+   "A e I diminuem; H aumenta",
+   "Todas encurtam igualmente",
+   "A diminui; I e H não mudam"
+  ],
+  "e": "Deslizamento dos filamentos: banda A constante, I e H encurtam."
+ },
+ {
+  "c": "musculo",
+  "q": "Em corte transversal na região de sobreposição, cada filamento grosso é cercado por:",
+  "o": [
+   "Seis filamentos finos",
+   "Dois filamentos finos",
+   "Três filamentos grossos",
+   "Doze filamentos finos"
+  ],
+  "e": "Arranjo hexagonal: 6 finos ao redor de cada grosso, 3 grossos ao redor de cada fino."
+ },
+ {
+  "c": "musculo",
+  "q": "A cabeça da miosina II contém:",
+  "o": [
+   "Sítio de ligação à actina e atividade ATPase",
+   "Sítio de ligação ao Ca²⁺ e à tropomiosina",
+   "O canal de liberação de cálcio do RS",
+   "Os sítios que se ligam à linha Z"
+  ],
+  "e": "A cabeça liga actina e hidrolisa ATP; o pescoço com cadeias leves funciona como alavanca."
+ },
+ {
+  "c": "musculo",
+  "q": "Quantas cadeias formam uma molécula de miosina II?",
+  "o": [
+   "Duas pesadas e quatro leves",
+   "Uma pesada e duas leves",
+   "Três pesadas e três leves",
+   "Quatro pesadas e duas leves"
+  ],
+  "e": "Miosina II: 2 cadeias pesadas (caudas e cabeças) e 4 leves."
+ },
+ {
+  "c": "musculo",
+  "q": "A subunidade da troponina que prende o complexo à tropomiosina é a:",
+  "o": [
+   "TnT",
+   "TnC",
+   "TnI",
+   "TnM"
+  ],
+  "e": "TnT liga à tropomiosina; TnC liga Ca²⁺; TnI inibe a interação actina-miosina."
+ },
+ {
+  "c": "musculo",
+  "q": "A troponina I cardíaca no soro é usada como marcador de:",
+  "o": [
+   "Lesão do miocárdio",
+   "Lesão de fibra esquelética",
+   "Insuficiência renal",
+   "Hipocalcemia puerperal"
+  ],
+  "e": "As isoformas cardíacas de troponina são específicas do coração."
+ },
+ {
+  "c": "musculo",
+  "q": "A proteína que funciona como “régua” do filamento fino é a:",
+  "o": [
+   "Nebulina",
+   "Titina",
+   "Distrofina",
+   "Desmina"
+  ],
+  "e": "A nebulina se estende ao longo do filamento fino e define seu comprimento."
+ },
+ {
+  "c": "musculo",
+  "q": "A tensão passiva de um músculo estirado deve-se principalmente à:",
+  "o": [
+   "Titina",
+   "Actina",
+   "Troponina",
+   "Calsequestrina"
+  ],
+  "e": "A titina funciona como mola entre a linha Z e a linha M."
+ },
+ {
+  "c": "musculo",
+  "q": "A desmina é um filamento intermediário que:",
+  "o": [
+   "Une as miofibrilas vizinhas pelas linhas Z",
+   "Forma o canal de cálcio do retículo",
+   "Liga o Ca²⁺ no filamento fino",
+   "Hidrolisa ATP na cabeça da miosina"
+  ],
+  "e": "A desmina mantém as miofibrilas alinhadas entre si e ligadas à membrana."
+ },
+ {
+  "c": "musculo",
+  "q": "A distrofina liga:",
+  "o": [
+   "A actina do citoesqueleto à matriz extracelular",
+   "A miosina à linha M do sarcômero",
+   "O túbulo T ao retículo sarcoplasmático",
+   "A troponina à tropomiosina"
+  ],
+  "e": "Distrofina + complexo distroglicano-sarcoglicano conectam o citoesqueleto à laminina da lâmina basal."
+ },
+ {
+  "c": "musculo",
+  "q": "A distrofia muscular do Golden Retriever é modelo animal de qual doença humana?",
+  "o": [
+   "Distrofia de Duchenne",
+   "Miastenia gravis",
+   "Esclerose lateral amiotrófica",
+   "Hipertermia maligna"
+  ],
+  "e": "O GRMD é causado pela falta de distrofina, como Duchenne."
+ },
+ {
+  "c": "musculo",
+  "q": "Por que a distrofia por falta de distrofina afeta sobretudo machos?",
+  "o": [
+   "O gene fica no cromossomo X",
+   "A testosterona destrói a distrofina",
+   "As fêmeas não têm fibras do tipo II",
+   "O gene é transmitido só pelo pai"
+  ],
+  "e": "Herança ligada ao X recessiva: machos hemizigotos manifestam a doença."
+ },
+ {
+  "c": "musculo",
+  "q": "A doença do músculo branco de bezerros e cordeiros está ligada à deficiência de:",
+  "o": [
+   "Selênio e vitamina E",
+   "Cálcio e fósforo",
+   "Cobre e cobalto",
+   "Vitamina A e zinco"
+  ],
+  "e": "Falta de antioxidantes leva à peroxidação das membranas e necrose das fibras."
+ },
+ {
+  "c": "musculo",
+  "q": "A dupla musculatura do bovino Belgian Blue resulta da inativação da:",
+  "o": [
+   "Miostatina",
+   "Distrofina",
+   "Titina",
+   "Calsequestrina"
+  ],
+  "e": "A miostatina freia o crescimento muscular; sem ela há mais fibras."
+ },
+ {
+  "c": "musculo",
+  "q": "Fibras do tipo IIX/IIB caracterizam-se por:",
+  "o": [
+   "Muito glicogênio e pouca mioglobina",
+   "Muitas mitocôndrias e capilares",
+   "Resistência alta à fadiga",
+   "Miosina com ATPase lenta"
+  ],
+  "e": "São fibras rápidas glicolíticas, brancas e fatigáveis."
+ },
+ {
+  "c": "musculo",
+  "q": "Pelo princípio do tamanho, as primeiras unidades motoras recrutadas são as de fibras:",
+  "o": [
+   "Tipo I, pequenas",
+   "Tipo IIX, grandes",
+   "Tipo IIB, glicolíticas",
+   "De qualquer tipo, ao acaso"
+  ],
+  "e": "Motoneurônios pequenos, que inervam fibras tipo I, atingem o limiar primeiro."
+ },
+ {
+  "c": "musculo",
+  "q": "Qual destes é o sistema energético mais rápido para regenerar ATP no músculo?",
+  "o": [
+   "Creatina-fosfato",
+   "Oxidação de ácidos graxos",
+   "Glicólise anaeróbica",
+   "Oxidação de corpos cetônicos"
+  ],
+  "e": "A creatina quinase regenera ATP imediatamente, mas dura cerca de 10 segundos."
+ },
+ {
+  "c": "musculo",
+  "q": "O tipo de uma fibra muscular é determinado principalmente:",
+  "o": [
+   "Pelo motoneurônio que a inerva",
+   "Pela quantidade de colágeno do endomísio",
+   "Pelo número de núcleos da fibra",
+   "Pela posição do túbulo T"
+  ],
+  "e": "Experimentos de reinervação cruzada mostram que o padrão de disparo do nervo define o tipo."
+ }
+]

@@ -1,0 +1,486 @@
+[
+ {
+  "c": "placa",
+  "q": "A unidade motora é formada por:",
+  "o": [
+   "Um motoneurônio e todas as fibras que ele inerva",
+   "Uma fibra muscular e todos os seus sarcômeros",
+   "Um fascículo muscular e o nervo que o atravessa inteiro",
+   "Uma placa motora e a fenda sináptica"
+  ],
+  "e": "Quando o neurônio dispara, todas as suas fibras contraem."
+ },
+ {
+  "c": "placa",
+  "q": "Músculos de controle fino, como os extraoculares, têm unidades motoras:",
+  "o": [
+   "Pequenas, com poucas fibras por neurônio",
+   "Grandes, com milhares de fibras por neurônio",
+   "Sem placa motora definida",
+   "Formadas só por fibras do tipo IIB"
+  ],
+  "e": "Poucas fibras por neurônio permitem gradação fina da força."
+ },
+ {
+  "c": "placa",
+  "q": "Qual evento dispara a exocitose da acetilcolina no terminal motor?",
+  "o": [
+   "Entrada de Ca²⁺ por canais de voltagem",
+   "Saída de K⁺ pelo canal de repouso",
+   "Entrada de Cl⁻ pelo receptor GABA",
+   "Ligação da ACh ao autorreceptor"
+  ],
+  "e": "O Ca²⁺ ativa a sinaptotagmina e o complexo SNARE."
+ },
+ {
+  "c": "placa",
+  "q": "O receptor de acetilcolina da placa motora é do tipo:",
+  "o": [
+   "Nicotínico, canal iônico",
+   "Muscarínico M2, ligado a Gi",
+   "Muscarínico M3, ligado a Gq",
+   "Adrenérgico β2, ligado a Gs"
+  ],
+  "e": "É um canal de cátions aberto por duas moléculas de ACh."
+ },
+ {
+  "c": "placa",
+  "q": "O potencial de placa motora é causado principalmente por:",
+  "o": [
+   "Entrada de Na⁺ pelo receptor nicotínico",
+   "Saída de Ca²⁺ do retículo sarcoplasmático",
+   "Entrada de Cl⁻ pela placa",
+   "Saída de Na⁺ pela bomba"
+  ],
+  "e": "O canal nicotínico deixa entrar Na⁺ (e sair um pouco de K⁺)."
+ },
+ {
+  "c": "placa",
+  "q": "A acetilcolinesterase hidrolisa a ACh em:",
+  "o": [
+   "Acetato e colina",
+   "Acetil-CoA e colina",
+   "Ácido lático e colina",
+   "Acetona e etanolamina"
+  ],
+  "e": "A colina é recaptada e reaproveitada na síntese."
+ },
+ {
+  "c": "placa",
+  "q": "A toxina botulínica causa paralisia flácida porque:",
+  "o": [
+   "Cliva proteínas SNARE e impede liberar ACh",
+   "Bloqueia o receptor nicotínico da placa",
+   "Inibe a acetilcolinesterase na fenda",
+   "Destrói o retículo sarcoplasmático"
+  ],
+  "e": "Sem exocitose de ACh não há potencial de placa."
+ },
+ {
+  "c": "placa",
+  "q": "Bovinos com paralisia flácida progressiva, língua fraca e consciência preservada, após comer cama de frango:",
+  "o": [
+   "Botulismo",
+   "Tétano",
+   "Intoxicação por organofosforado",
+   "Hipomagnesemia"
+  ],
+  "e": "A cama de frango pode conter carcaças com toxina botulínica."
+ },
+ {
+  "c": "placa",
+  "q": "Os bloqueadores neuromusculares competitivos (atracúrio, rocurônio) agem:",
+  "o": [
+   "Ocupando o receptor nicotínico sem abri-lo",
+   "Inibindo a acetilcolinesterase",
+   "Bloqueando o RYR1 do retículo",
+   "Impedindo a síntese de acetilcolina no terminal"
+  ],
+  "e": "Competem com a ACh; podem ser revertidos com neostigmina."
+ },
+ {
+  "c": "placa",
+  "q": "A succinilcolina causa fasciculações antes da paralisia porque:",
+  "o": [
+   "Despolariza a placa de forma mantida",
+   "Bloqueia canais de cálcio do terminal",
+   "Impede a recaptação de colina",
+   "Estimula diretamente a SERCA"
+  ],
+  "e": "Agonista nicotínico não hidrolisado pela AChE; depois os canais de Na⁺ se inativam."
+ },
+ {
+  "c": "placa",
+  "q": "Por que se usa neostigmina para reverter bloqueio competitivo?",
+  "o": [
+   "Aumenta a ACh na fenda ao inibir a AChE",
+   "Bloqueia diretamente o receptor nicotínico",
+   "Libera cálcio do retículo",
+   "Ativa receptores muscarínicos da placa"
+  ],
+  "e": "Mais ACh vence a competição com o bloqueador."
+ },
+ {
+  "c": "placa",
+  "q": "Cão intoxicado por carbamato apresenta salivação, miose, bradicardia e fasciculações. A atropina corrige:",
+  "o": [
+   "Os efeitos muscarínicos",
+   "As fasciculações musculares",
+   "Os efeitos nicotínicos e muscarínicos",
+   "A inibição da acetilcolinesterase"
+  ],
+  "e": "A atropina não age no receptor nicotínico da placa."
+ },
+ {
+  "c": "placa",
+  "q": "A pralidoxima é útil na intoxicação por organofosforado porque:",
+  "o": [
+   "Reativa a acetilcolinesterase fosforilada",
+   "Bloqueia o receptor muscarínico",
+   "Aumenta a síntese de acetilcolina",
+   "Antagoniza o GABA no SNC"
+  ],
+  "e": "Deve ser dada antes do envelhecimento da ligação."
+ },
+ {
+  "c": "placa",
+  "q": "Na miastenia grave adquirida do cão, os anticorpos são dirigidos contra:",
+  "o": [
+   "Receptores nicotínicos de acetilcolina",
+   "Canais de cálcio do terminal motor",
+   "A acetilcolinesterase da fenda",
+   "O receptor de rianodina do retículo"
+  ],
+  "e": "Menos receptores reduzem o fator de segurança da placa."
+ },
+ {
+  "c": "placa",
+  "q": "Por que a miastenia grave no cão pode se manifestar como megaesôfago?",
+  "o": [
+   "O esôfago canino é todo de músculo esquelético",
+   "O esôfago canino é todo de músculo liso",
+   "O vago deixa de inervar o estômago",
+   "A toxina destrói o plexo mioentérico"
+  ],
+  "e": "No gato, o terço distal é liso; no cão, todo o esôfago é estriado."
+ },
+ {
+  "c": "placa",
+  "q": "Qual fármaco é usado no tratamento crônico da miastenia grave?",
+  "o": [
+   "Piridostigmina",
+   "Atropina",
+   "Succinilcolina",
+   "Dantroleno"
+  ],
+  "e": "Anticolinesterásico de ação prolongada."
+ },
+ {
+  "c": "placa",
+  "q": "Bovinos com deficiência de fósforo que roem ossos de carcaças correm risco de:",
+  "o": [
+   "Botulismo",
+   "Tétano",
+   "Intoxicação por estricnina",
+   "Síndrome de Horner"
+  ],
+  "e": "A osteofagia expõe os animais à toxina de C. botulinum."
+ },
+ {
+  "c": "placa",
+  "q": "A enzima que sintetiza acetilcolina no terminal motor é a:",
+  "o": [
+   "Colina acetiltransferase",
+   "Acetilcolinesterase",
+   "Butirilcolinesterase",
+   "Tirosina hidroxilase"
+  ],
+  "e": "A colina acetiltransferase une acetil-CoA e colina."
+ },
+ {
+  "c": "placa",
+  "q": "A etapa limitante da síntese de acetilcolina é:",
+  "o": [
+   "A captação de colina pelo terminal",
+   "A produção de acetil-CoA",
+   "A ação da acetilcolinesterase",
+   "A entrada de Na⁺ na placa"
+  ],
+  "e": "O transportador de colina (CHT), bloqueado pelo hemicolínio, limita a síntese."
+ },
+ {
+  "c": "placa",
+  "q": "O conteúdo de ACh de uma vesícula é chamado de:",
+  "o": [
+   "Quantum",
+   "Potencial em miniatura",
+   "Zona ativa",
+   "Unidade motora"
+  ],
+  "e": "Cada vesícula guarda cerca de 5 a 10 mil moléculas: um quantum."
+ },
+ {
+  "c": "placa",
+  "q": "Os potenciais de placa em miniatura resultam de:",
+  "o": [
+   "Fusão espontânea de vesículas isoladas",
+   "Disparo de um potencial de ação no nervo",
+   "Abertura de canais de Na⁺ da fibra",
+   "Liberação de Ca²⁺ do retículo"
+  ],
+  "e": "Sem estímulo, vesículas isoladas se fundem e geram despolarizações de ≈0,5 mV."
+ },
+ {
+  "c": "placa",
+  "q": "Na placa motora, os receptores nicotínicos concentram-se:",
+  "o": [
+   "Nas cristas das dobras juncionais",
+   "No fundo das dobras juncionais",
+   "Ao longo dos túbulos T",
+   "No terminal pré-sináptico"
+  ],
+  "e": "Os receptores ficam nas cristas, em frente às zonas ativas; os canais de Na⁺, no fundo."
+ },
+ {
+  "c": "placa",
+  "q": "A composição do receptor nicotínico muscular adulto é:",
+  "o": [
+   "α₂βδε",
+   "α₂βδγ",
+   "α₃β₄",
+   "α₁β₁γ₂"
+  ],
+  "e": "No adulto α₂βδε; no feto e na fibra desnervada a ε é trocada pela γ."
+ },
+ {
+  "c": "placa",
+  "q": "Para abrir o receptor nicotínico muscular, é necessário:",
+  "o": [
+   "Ligar duas moléculas de ACh",
+   "Ligar uma ACh e um Ca²⁺",
+   "Fosforilar a subunidade β",
+   "Ativar uma proteína G"
+  ],
+  "e": "Os dois sítios nas subunidades α precisam estar ocupados."
+ },
+ {
+  "c": "placa",
+  "q": "O canal do receptor nicotínico é:",
+  "o": [
+   "Não seletivo para cátions",
+   "Seletivo para Cl⁻",
+   "Seletivo para Ca²⁺",
+   "Seletivo para K⁺"
+  ],
+  "e": "Deixa passar Na⁺ e K⁺; o efeito líquido é entrada de carga positiva."
+ },
+ {
+  "c": "placa",
+  "q": "O potencial de placa motora difere do potencial de ação muscular por ser:",
+  "o": [
+   "Graduado e restrito à placa",
+   "Tudo ou nada e propagado",
+   "Produzido por canais de voltagem",
+   "Bloqueado por anestésico local"
+  ],
+  "e": "O potencial de placa é local e proporcional à ACh liberada."
+ },
+ {
+  "c": "placa",
+  "q": "O fator de segurança da placa motora significa que:",
+  "o": [
+   "O potencial de placa excede o necessário",
+   "A AChE nunca é inibida",
+   "Cada fibra tem duas placas motoras",
+   "O nervo libera apenas um quantum"
+  ],
+  "e": "O potencial de placa (≈40–50 mV) é 3 a 4 vezes o necessário para atingir o limiar."
+ },
+ {
+  "c": "placa",
+  "q": "A proteína liberada pelo nervo que organiza o agrupamento de receptores na placa é a:",
+  "o": [
+   "Agrina",
+   "Distrofina",
+   "Sinaptotagmina",
+   "Calsequestrina"
+  ],
+  "e": "A agrina ativa a MuSK, que, com a rapsina, agrupa os receptores."
+ },
+ {
+  "c": "placa",
+  "q": "O magnésio em excesso reduz a transmissão neuromuscular porque:",
+  "o": [
+   "Compete com o Ca²⁺ na entrada do terminal",
+   "Bloqueia a acetilcolinesterase",
+   "Ativa o receptor nicotínico",
+   "Aumenta a síntese de colina"
+  ],
+  "e": "Menos Ca²⁺ entra no terminal e menos ACh é liberada."
+ },
+ {
+  "c": "placa",
+  "q": "Os organofosforados inibem a acetilcolinesterase porque:",
+  "o": [
+   "Fosforilam a serina do sítio ativo",
+   "Ocupam o receptor nicotínico",
+   "Clivam as proteínas SNARE",
+   "Bloqueiam o transportador de colina"
+  ],
+  "e": "A enzima fosforilada fica inativa; a ligação pode envelhecer."
+ },
+ {
+  "c": "placa",
+  "q": "A pralidoxima não é indicada na intoxicação por carbamatos porque:",
+  "o": [
+   "A carbamilação se desfaz sozinha",
+   "Ela potencializa a atropina",
+   "Carbamatos não inibem a AChE",
+   "Ela só age em receptores"
+  ],
+  "e": "A ligação do carbamato à enzima é reversível em horas."
+ },
+ {
+  "c": "placa",
+  "q": "Exame laboratorial que confirma a intoxicação por organofosforado:",
+  "o": [
+   "Atividade da colinesterase no sangue",
+   "Dosagem de CK sérica",
+   "Titulação de anticorpos anti-receptor",
+   "Cálcio ionizado no plasma"
+  ],
+  "e": "Queda acima de 75% da atividade da colinesterase confirma a exposição."
+ },
+ {
+  "c": "placa",
+  "q": "O teste do edrofônio é usado para:",
+  "o": [
+   "Sugerir miastenia gravis",
+   "Diagnosticar botulismo",
+   "Reverter succinilcolina",
+   "Medir a atividade da AChE"
+  ],
+  "e": "A melhora rápida da força após o anticolinesterásico sugere miastenia."
+ },
+ {
+  "c": "placa",
+  "q": "O exame padrão-ouro para miastenia gravis adquirida no cão é:",
+  "o": [
+   "Anticorpos anti-receptor de ACh",
+   "Biópsia muscular com tipagem",
+   "Dosagem de colinesterase",
+   "Radiografia de esôfago"
+  ],
+  "e": "A titulação de anticorpos por radioimunoensaio é o padrão-ouro."
+ },
+ {
+  "c": "placa",
+  "q": "Na estimulação nervosa repetitiva de um cão miastênico observa-se:",
+  "o": [
+   "Decremento progressivo da resposta",
+   "Aumento progressivo da resposta",
+   "Resposta normal e constante",
+   "Ausência total de resposta"
+  ],
+  "e": "Com menos receptores, a perda do fator de segurança causa falha crescente."
+ },
+ {
+  "c": "placa",
+  "q": "No gato, a miastenia gravis adquirida está frequentemente associada a:",
+  "o": [
+   "Timoma",
+   "Hipertireoidismo",
+   "Diabetes mellitus",
+   "Linfoma renal"
+  ],
+  "e": "Massas tímicas são achado comum em gatos miastênicos."
+ },
+ {
+  "c": "placa",
+  "q": "A cadeia leve das toxinas botulínicas é:",
+  "o": [
+   "Uma protease dependente de zinco",
+   "Um antagonista do receptor nicotínico",
+   "Um inibidor da acetilcolinesterase",
+   "Um bloqueador de canal de Na⁺"
+  ],
+  "e": "A cadeia leve cliva SNAREs dentro do terminal."
+ },
+ {
+  "c": "placa",
+  "q": "Medida que previne botulismo em bovinos no Brasil:",
+  "o": [
+   "Vacinação com toxoide C e D",
+   "Uso de aminoglicosídeo na ração",
+   "Antitoxina a cada seis meses",
+   "Suplementação de magnésio"
+  ],
+  "e": "Vacina C e D, fósforo na mineralização e retirada de carcaças."
+ },
+ {
+  "c": "placa",
+  "q": "Num bovino com botulismo, deve-se evitar aminoglicosídeos porque:",
+  "o": [
+   "Reduzem ainda mais a liberação de ACh",
+   "Neutralizam a antitoxina aplicada",
+   "Inibem a colinesterase do plasma",
+   "Causam hipercalcemia grave"
+  ],
+  "e": "Aminoglicosídeos diminuem a entrada de Ca²⁺ no terminal e pioram o bloqueio."
+ },
+ {
+  "c": "placa",
+  "q": "Por que bloqueadores neuromusculares exigem ventilação controlada?",
+  "o": [
+   "Paralisam também o diafragma",
+   "Deprimem o centro respiratório",
+   "Causam broncoespasmo intenso",
+   "Bloqueiam receptores muscarínicos"
+  ],
+  "e": "Não são anestésicos; paralisam todos os músculos esqueléticos, inclusive os respiratórios."
+ },
+ {
+  "c": "placa",
+  "q": "O sugamadex reverte o bloqueio por:",
+  "o": [
+   "Encapsular o rocurônio",
+   "Inibir a acetilcolinesterase",
+   "Ativar o receptor muscarínico",
+   "Liberar mais ACh do terminal"
+  ],
+  "e": "O sugamadex forma complexo com rocurônio e vecurônio."
+ },
+ {
+  "c": "placa",
+  "q": "O atracúrio é boa escolha em pacientes com doença renal e hepática porque:",
+  "o": [
+   "Degrada-se espontaneamente no plasma",
+   "É eliminado só pela bile",
+   "Não atravessa a placa motora",
+   "Tem duração de poucos segundos"
+  ],
+  "e": "A eliminação de Hofmann independe de fígado e rim."
+ },
+ {
+  "c": "placa",
+  "q": "Na sequência de quatro estímulos (TOF), o bloqueio competitivo mostra:",
+  "o": [
+   "Respostas que decaem do 1º ao 4º",
+   "Quatro respostas iguais e pequenas",
+   "Aumento da 4ª resposta",
+   "Ausência só da 1ª resposta"
+  ],
+  "e": "O decaimento (fadiga) é típico do bloqueio não despolarizante."
+ },
+ {
+  "c": "placa",
+  "q": "A peçonha da coral-verdadeira causa paralisia porque:",
+  "o": [
+   "Bloqueia o receptor nicotínico",
+   "Inibe a acetilcolinesterase",
+   "Ativa o receptor de rianodina",
+   "Destrói a bainha de mielina"
+  ],
+  "e": "As α-neurotoxinas das corais ligam-se ao receptor nicotínico pós-sináptico."
+ }
+]

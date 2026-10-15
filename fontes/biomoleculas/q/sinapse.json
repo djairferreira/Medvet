@@ -1,508 +1,442 @@
 [
-{
-"c": "sinapse",
-"q": "Os três elementos de uma sinapse química são:",
-"o": [
-"Membrana pré, fenda e membrana pós-sináptica",
-"Axônio, mielina e nodo de Ranvier do neurônio",
-"Núcleo, dendrito e cone de implantação",
-"Vesícula, mitocôndria e retículo endoplasmático"
-],
-"e": "A sinapse química tem membrana pré-sináptica, fenda e membrana pós-sináptica."
-},
-{
-"c": "sinapse",
-"q": "As junções comunicantes das sinapses elétricas são formadas por:",
-"o": [
-"Conexinas",
-"Proteínas SNARE",
-"Receptores nicotínicos",
-"Canais de Ca²⁺ do tipo N"
-],
-"e": "Seis conexinas formam um conéxon; dois conéxons alinhados formam o poro."
-},
-{
-"c": "sinapse",
-"q": "Qual característica é típica da sinapse elétrica?",
-"o": [
-"Transmissão bidirecional e sem retardo",
-"Retardo sináptico de vários milissegundos",
-"Amplificação do sinal por vesículas",
-"Capacidade de converter excitação em inibição"
-],
-"e": "A corrente passa direto pelas junções comunicantes."
-},
-{
-"c": "sinapse",
-"q": "Onde as sinapses elétricas têm papel fisiológico de destaque?",
-"o": [
-"Entre células do miocárdio",
-"Na placa motora esquelética",
-"Nos gânglios simpáticos",
-"Nos terminais dos nociceptores"
-],
-"e": "As junções comunicantes sincronizam a contração cardíaca."
-},
-{
-"c": "sinapse",
-"q": "A liberação do neurotransmissor é disparada pela entrada de:",
-"o": [
-"Ca²⁺ no terminal pré-sináptico",
-"Na⁺ na membrana pós-sináptica",
-"Cl⁻ no terminal pré-sináptico",
-"K⁺ na fenda sináptica a partir da glia"
-],
-"e": "Canais de Ca²⁺ dependentes de voltagem da zona ativa abrem com o potencial de ação."
-},
-{
-"c": "sinapse",
-"q": "Qual proteína é o sensor de Ca²⁺ que dispara a fusão da vesícula?",
-"o": [
-"Sinaptotagmina",
-"Sinaptobrevina",
-"Acetilcolinesterase",
-"Conexina"
-],
-"e": "O Ca²⁺ liga-se à sinaptotagmina, que aciona o complexo SNARE."
-},
-{
-"c": "sinapse",
-"q": "Sinaptobrevina, sintaxina e SNAP-25 formam o complexo:",
-"o": [
-"SNARE",
-"Conéxon",
-"Receptor GABA-A",
-"Canal de Na⁺ dependente de voltagem"
-],
-"e": "As SNARE aproximam e fundem a vesícula com a membrana."
-},
-{
-"c": "sinapse",
-"q": "A toxina botulínica causa paralisia flácida porque:",
-"o": [
-"Cliva SNARE e impede a liberação de ACh",
-"Bloqueia o receptor nicotínico muscular",
-"Inibe a acetilcolinesterase na placa motora",
-"Abre canais de Cl⁻ no músculo esquelético"
-],
-"e": "É uma protease de SNARE nos terminais colinérgicos."
-},
-{
-"c": "sinapse",
-"q": "Bovinos com deficiência de fósforo que roem ossos de carcaças correm risco de:",
-"o": [
-"Botulismo",
-"Tétano",
-"Intoxicação por estricnina",
-"Síndrome de Horner"
-],
-"e": "A osteofagia expõe os animais à toxina de C. botulinum."
-},
-{
-"c": "sinapse",
-"q": "A toxina tetânica causa paralisia espástica porque:",
-"o": [
-"Bloqueia a liberação de glicina e GABA",
-"Bloqueia a liberação de ACh na placa",
-"Estimula diretamente os receptores AMPA",
-"Inibe a acetilcolinesterase da medula"
-],
-"e": "Ela age nos interneurônios inibitórios da medula, após transporte retrógrado."
-},
-{
-"c": "sinapse",
-"q": "Qual espécie é mais sensível à toxina tetânica?",
-"o": [
-"Equina",
-"Canina",
-"Felina",
-"Galinha doméstica"
-],
-"e": "Equinos são extremamente sensíveis; cães e gatos, bem mais resistentes."
-},
-{
-"c": "sinapse",
-"q": "Sinal clássico de tétano em equinos:",
-"o": [
-"Prolapso da terceira pálpebra",
-"Miose com salivação intensa",
-"Paralisia flácida dos quatro membros",
-"Bradicardia com diarreia aquosa"
-],
-"e": "Rigidez, trismo, cauda erguida e protrusão da terceira pálpebra são típicos."
-},
-{
-"c": "sinapse",
-"q": "Um receptor ionotrópico é aquele que:",
-"o": [
-"É ele próprio um canal iônico",
-"Ativa proteína G e AMPc",
-"Fica no núcleo da célula",
-"Degrada o neurotransmissor"
-],
-"e": "A ligação do transmissor abre diretamente o poro."
-},
-{
-"c": "sinapse",
-"q": "Qual receptor é metabotrópico?",
-"o": [
-"Muscarínico",
-"Nicotínico",
-"GABA-A",
-"AMPA"
-],
-"e": "Muscarínicos são acoplados à proteína G."
-},
-{
-"c": "sinapse",
-"q": "Comparados aos ionotrópicos, os receptores metabotrópicos produzem respostas:",
-"o": [
-"Mais lentas e duradouras",
-"Mais rápidas e mais curtas",
-"Sempre excitatórias",
-"Sem amplificação intracelular"
-],
-"e": "Dependem de proteína G e segundos mensageiros."
-},
-{
-"c": "sinapse",
-"q": "Um PEPS resulta tipicamente de:",
-"o": [
-"Entrada de cátions, sobretudo Na⁺",
-"Entrada de Cl⁻ por canais GABA-A",
-"Saída de K⁺ por canais GABA-B",
-"Bloqueio da bomba de Na⁺/K⁺"
-],
-"e": "A entrada de cátions despolariza a membrana pós-sináptica."
-},
-{
-"c": "sinapse",
-"q": "Um PIPS típico é causado por:",
-"o": [
-"Entrada de Cl⁻ ou saída de K⁺",
-"Entrada de Na⁺ pelos canais AMPA",
-"Entrada de Ca²⁺ pelo receptor NMDA",
-"Abertura de junções comunicantes"
-],
-"e": "Ambos tornam o interior mais negativo ou o prendem perto do repouso."
-},
-{
-"c": "sinapse",
-"q": "A somação temporal ocorre quando:",
-"o": [
-"A mesma sinapse dispara em sequência rápida",
-"Várias sinapses disparam ao mesmo tempo",
-"Uma sinapse elétrica se abre",
-"O neurônio está no período refratário"
-],
-"e": "Cada PEPS chega antes de o anterior desaparecer."
-},
-{
-"c": "sinapse",
-"q": "A somação espacial ocorre quando:",
-"o": [
-"Sinapses diferentes disparam juntas",
-"Uma só sinapse dispara muitas vezes",
-"O PEPS se propaga sem perder força",
-"O axônio está mielinizado"
-],
-"e": "As correntes de vários pontos somam-se no cone de implantação."
-},
-{
-"c": "sinapse",
-"q": "A decisão de disparar um potencial de ação é tomada principalmente:",
-"o": [
-"No cone de implantação",
-"Na fenda sináptica",
-"Nas vesículas sinápticas",
-"Nos dendritos distais"
-],
-"e": "Ali a densidade de canais de Na⁺ é maior e o limiar, menor."
-},
-{
-"c": "sinapse",
-"q": "Na inibição pré-sináptica:",
-"o": [
-"Um terminal age sobre outro terminal",
-"O neurônio pós-sináptico hiperpolariza todo",
-"A acetilcolinesterase é inibida",
-"O PEPS passa a ser maior que o normal"
-],
-"e": "Sinapse axoaxônica reduz a entrada de Ca²⁺ e a liberação de transmissor."
-},
-{
-"c": "sinapse",
-"q": "A vantagem da inibição pré-sináptica é:",
-"o": [
-"Silenciar uma única entrada específica",
-"Bloquear todas as entradas ao mesmo tempo",
-"Acelerar a condução no axônio",
-"Aumentar a liberação de glutamato"
-],
-"e": "Ela não muda a excitabilidade do neurônio pós-sináptico inteiro."
-},
-{
-"c": "sinapse",
-"q": "Qual é o principal neurotransmissor excitatório do SNC?",
-"o": [
-"Glutamato",
-"GABA",
-"Glicina",
-"Serotonina"
-],
-"e": "O glutamato age em AMPA, NMDA, cainato e mGluR."
-},
-{
-"c": "sinapse",
-"q": "Principal neurotransmissor inibitório da medula espinal:",
-"o": [
-"Glicina",
-"Glutamato",
-"Dopamina",
-"Histamina"
-],
-"e": "Na medula e no tronco, a glicina; no encéfalo, o GABA."
-},
-{
-"c": "sinapse",
-"q": "O GABA é sintetizado a partir de:",
-"o": [
-"Glutamato",
-"Tirosina",
-"Triptofano",
-"Histidina"
-],
-"e": "A glutamato descarboxilase depende de vitamina B6."
-},
-{
-"c": "sinapse",
-"q": "A serotonina é sintetizada a partir de:",
-"o": [
-"Triptofano",
-"Tirosina",
-"Colina",
-"Glutamina"
-],
-"e": "Triptofano → 5-hidroxitriptofano → 5-HT."
-},
-{
-"c": "sinapse",
-"q": "A sequência correta de síntese das catecolaminas é:",
-"o": [
-"Tirosina → DOPA → dopamina → noradrenalina",
-"Triptofano → DOPA → noradrenalina → dopamina",
-"Tirosina → serotonina → dopamina → adrenalina",
-"Histidina → DOPA → adrenalina → noradrenalina"
-],
-"e": "A adrenalina vem da noradrenalina pela PNMT."
-},
-{
-"c": "sinapse",
-"q": "A ACh excita o músculo esquelético e freia o coração porque:",
-"o": [
-"Age em receptores diferentes",
-"É degradada mais rápido no coração",
-"Só o músculo tem acetilcolinesterase",
-"No coração ela vira noradrenalina"
-],
-"e": "Nicotínico no músculo, M2 no coração: o receptor decide o efeito."
-},
-{
-"c": "sinapse",
-"q": "A ação da acetilcolina na fenda termina principalmente por:",
-"o": [
-"Hidrólise pela acetilcolinesterase",
-"Recaptação da ACh intacta",
-"Degradação pela MAO mitocondrial",
-"Difusão para o sangue apenas"
-],
-"e": "A enzima a cliva em acetato e colina em microssegundos."
-},
-{
-"c": "sinapse",
-"q": "As catecolaminas recaptadas podem ser degradadas pela:",
-"o": [
-"MAO e COMT",
-"Acetilcolinesterase",
-"Colina acetiltransferase",
-"Glutamato descarboxilase"
-],
-"e": "A MAO está nas mitocôndrias; a COMT, no citosol e em outros tecidos."
-},
-{
-"c": "sinapse",
-"q": "Sobre os neuropeptídios, é correto:",
-"o": [
-"São feitos no corpo celular e não são recaptados",
-"São sintetizados no terminal e recaptados",
-"Agem só em receptores ionotrópicos rápidos",
-"São liberados apenas em baixa frequência"
-],
-"e": "Cotransmitidos, agem em receptores metabotrópicos e são degradados por peptidases."
-},
-{
-"c": "sinapse",
-"q": "A narcolepsia hereditária do Dobermann envolve mutação no receptor de:",
-"o": [
-"Orexina (hipocretina)",
-"Glicina",
-"Dopamina D2",
-"Acetilcolina nicotínica"
-],
-"e": "A orexina mantém a vigília."
-},
-{
-"c": "sinapse",
-"q": "Os benzodiazepínicos atuam no receptor GABA-A:",
-"o": [
-"Aumentando a frequência de abertura",
-"Aumentando a duração da abertura",
-"Abrindo o canal sem nenhum GABA",
-"Bloqueando o canal de Cl⁻"
-],
-"e": "Só agem na presença de GABA, o que os torna mais seguros."
-},
-{
-"c": "sinapse",
-"q": "Por que barbitúricos em dose alta deprimem mais a respiração que benzodiazepínicos?",
-"o": [
-"Abrem o canal de Cl⁻ mesmo sem GABA",
-"Bloqueiam receptores NMDA respiratórios",
-"Inibem a acetilcolinesterase do bulbo",
-"Agem só nos receptores de glicina"
-],
-"e": "Em dose alta, barbitúricos são agonistas diretos do GABA-A."
-},
-{
-"c": "sinapse",
-"q": "Fármaco de primeira escolha para interromper uma convulsão ativa no cão:",
-"o": [
-"Diazepam ou midazolam",
-"Fenobarbital por via oral",
-"Atropina intravenosa",
-"Xilazina intramuscular"
-],
-"e": "Benzodiazepínicos IV, intranasais ou retais agem em minutos."
-},
-{
-"c": "sinapse",
-"q": "A estricnina causa convulsões porque:",
-"o": [
-"Bloqueia o receptor de glicina",
-"Bloqueia o receptor de glutamato",
-"Inibe a liberação de GABA",
-"Estimula a acetilcolinesterase"
-],
-"e": "Sem o freio da glicina na medula, qualquer estímulo dispara contração generalizada."
-},
-{
-"c": "sinapse",
-"q": "Cão com rigidez extrema e convulsões desencadeadas por barulho, consciente entre as crises. Suspeita principal:",
-"o": [
-"Estricnina",
-"Organofosforado",
-"Botulismo",
-"Ivermectina"
-],
-"e": "Convulsões tônicas reflexas a som, luz e toque sugerem estricnina."
-},
-{
-"c": "sinapse",
-"q": "Por que cães Collie com mutação MDR1 se intoxicam com ivermectina?",
-"o": [
-"A glicoproteína P falha na barreira hematoencefálica",
-"Eles não têm receptores GABA-A no SNC",
-"Eles metabolizam a ivermectina em estricnina",
-"A ivermectina bloqueia neles os canais de Na⁺"
-],
-"e": "Sem a bomba de efluxo, o fármaco entra no SNC e potencializa o GABA."
-},
-{
-"c": "sinapse",
-"q": "A ivermectina é segura para mamíferos sem mutação MDR1 porque:",
-"o": [
-"É bombeada para fora do SNC",
-"Não age em canais de Cl⁻",
-"É eliminada antes de absorver",
-"Só atua em bactérias Gram-negativas"
-],
-"e": "Nos parasitas ela age em canais de Cl⁻ ligados a glutamato; nos mamíferos o SNC fica protegido."
-},
-{
-"c": "sinapse",
-"q": "A xilazina produz sedação por:",
-"o": [
-"Agonismo α2 pré-sináptico",
-"Antagonismo β1 cardíaco",
-"Bloqueio do canal de Na⁺",
-"Agonismo do receptor μ opioide"
-],
-"e": "Reduz a liberação de noradrenalina no locus cerúleo."
-},
-{
-"c": "sinapse",
-"q": "Qual fármaco reverte a sedação por xilazina?",
-"o": [
-"Ioimbina",
-"Naloxona",
-"Flumazenil",
-"Neostigmina"
-],
-"e": "Ioimbina, tolazolina e atipamezol são antagonistas α2."
-},
-{
-"c": "sinapse",
-"q": "Os opioides produzem analgesia porque:",
-"o": [
-"Reduzem a liberação de glutamato e hiperpolarizam",
-"Bloqueiam canais de Na⁺ dos nociceptores",
-"Aumentam a liberação de substância P",
-"Inibem a síntese de prostaglandinas"
-],
-"e": "Fecham canais de Ca²⁺ pré-sinápticos e abrem canais de K⁺ pós-sinápticos."
-},
-{
-"c": "sinapse",
-"q": "A cetamina produz anestesia dissociativa por:",
-"o": [
-"Bloqueio do canal do receptor NMDA",
-"Agonismo do receptor GABA-A",
-"Bloqueio do receptor nicotínico",
-"Inibição da recaptação de serotonina"
-],
-"e": "Bloqueia o poro do NMDA, perto do sítio do Mg²⁺, quando o canal está aberto."
-},
-{
-"c": "sinapse",
-"q": "A potenciação de longa duração (LTP) depende da ativação de receptores:",
-"o": [
-"NMDA",
-"Nicotínicos musculares",
-"Muscarínicos M2",
-"α2-adrenérgicos"
-],
-"e": "A despolarização remove o Mg²⁺ e o Ca²⁺ entra pelo NMDA."
-},
-{
-"c": "sinapse",
-"q": "Em neurônios de neonatos, o GABA pode ser excitatório porque:",
-"o": [
-"O Cl⁻ intracelular é alto (NKCC1)",
-"Os receptores GABA-A ainda não existem",
-"O GABA é convertido em glutamato",
-"O K⁺ extracelular é muito baixo"
-],
-"e": "Com Cl⁻ alto dentro, abrir canais de Cl⁻ despolariza."
-},
-{
-"c": "sinapse",
-"q": "A metoclopramida tem efeito antiemético por:",
-"o": [
-"Antagonismo D2 na zona de gatilho",
-"Agonismo α2 no centro do vômito",
-"Bloqueio do receptor de glicina",
-"Inibição da acetilcolinesterase"
-],
-"e": "A dopamina estimula a zona de gatilho quimiorreceptora."
-}
+ {
+  "c": "sinapse",
+  "q": "Os três elementos de uma sinapse química são:",
+  "o": [
+   "Membrana pré, fenda e membrana pós-sináptica",
+   "Axônio, mielina e nodo de Ranvier do neurônio",
+   "Núcleo, dendrito e cone de implantação",
+   "Vesícula, mitocôndria e retículo endoplasmático"
+  ],
+  "e": "A sinapse química tem membrana pré-sináptica, fenda e membrana pós-sináptica."
+ },
+ {
+  "c": "sinapse",
+  "q": "As junções comunicantes das sinapses elétricas são formadas por:",
+  "o": [
+   "Conexinas",
+   "Proteínas SNARE",
+   "Receptores nicotínicos",
+   "Canais de Ca²⁺ do tipo N"
+  ],
+  "e": "Seis conexinas formam um conéxon; dois conéxons alinhados formam o poro."
+ },
+ {
+  "c": "sinapse",
+  "q": "Qual característica é típica da sinapse elétrica?",
+  "o": [
+   "Transmissão bidirecional e sem retardo",
+   "Retardo sináptico de vários milissegundos",
+   "Amplificação do sinal por vesículas",
+   "Capacidade de converter excitação em inibição"
+  ],
+  "e": "A corrente passa direto pelas junções comunicantes."
+ },
+ {
+  "c": "sinapse",
+  "q": "Onde as sinapses elétricas têm papel fisiológico de destaque?",
+  "o": [
+   "Entre células do miocárdio",
+   "Na placa motora esquelética",
+   "Nos gânglios simpáticos",
+   "Nos terminais dos nociceptores"
+  ],
+  "e": "As junções comunicantes sincronizam a contração cardíaca."
+ },
+ {
+  "c": "sinapse",
+  "q": "A liberação do neurotransmissor é disparada pela entrada de:",
+  "o": [
+   "Ca²⁺ no terminal pré-sináptico",
+   "Na⁺ na membrana pós-sináptica",
+   "Cl⁻ no terminal pré-sináptico",
+   "K⁺ na fenda sináptica a partir da glia"
+  ],
+  "e": "Canais de Ca²⁺ dependentes de voltagem da zona ativa abrem com o potencial de ação."
+ },
+ {
+  "c": "sinapse",
+  "q": "Qual proteína é o sensor de Ca²⁺ que dispara a fusão da vesícula?",
+  "o": [
+   "Sinaptotagmina",
+   "Sinaptobrevina",
+   "Acetilcolinesterase",
+   "Conexina"
+  ],
+  "e": "O Ca²⁺ liga-se à sinaptotagmina, que aciona o complexo SNARE."
+ },
+ {
+  "c": "sinapse",
+  "q": "Sinaptobrevina, sintaxina e SNAP-25 formam o complexo:",
+  "o": [
+   "SNARE",
+   "Conéxon",
+   "Receptor GABA-A",
+   "Canal de Na⁺ dependente de voltagem"
+  ],
+  "e": "As SNARE aproximam e fundem a vesícula com a membrana."
+ },
+ {
+  "c": "sinapse",
+  "q": "A toxina botulínica causa paralisia flácida porque:",
+  "o": [
+   "Cliva SNARE e impede a liberação de ACh",
+   "Bloqueia o receptor nicotínico muscular",
+   "Inibe a acetilcolinesterase na placa motora",
+   "Abre canais de Cl⁻ no músculo esquelético"
+  ],
+  "e": "É uma protease de SNARE nos terminais colinérgicos."
+ },
+ {
+  "c": "sinapse",
+  "q": "Um receptor ionotrópico é aquele que:",
+  "o": [
+   "É ele próprio um canal iônico",
+   "Ativa proteína G e AMPc",
+   "Fica no núcleo da célula",
+   "Degrada o neurotransmissor"
+  ],
+  "e": "A ligação do transmissor abre diretamente o poro."
+ },
+ {
+  "c": "sinapse",
+  "q": "Qual receptor é metabotrópico?",
+  "o": [
+   "Muscarínico",
+   "Nicotínico",
+   "GABA-A",
+   "AMPA"
+  ],
+  "e": "Muscarínicos são acoplados à proteína G."
+ },
+ {
+  "c": "sinapse",
+  "q": "Comparados aos ionotrópicos, os receptores metabotrópicos produzem respostas:",
+  "o": [
+   "Mais lentas e duradouras",
+   "Mais rápidas e mais curtas",
+   "Sempre excitatórias",
+   "Sem amplificação intracelular"
+  ],
+  "e": "Dependem de proteína G e segundos mensageiros."
+ },
+ {
+  "c": "sinapse",
+  "q": "Um PEPS resulta tipicamente de:",
+  "o": [
+   "Entrada de cátions, sobretudo Na⁺",
+   "Entrada de Cl⁻ por canais GABA-A",
+   "Saída de K⁺ por canais GABA-B",
+   "Bloqueio da bomba de Na⁺/K⁺"
+  ],
+  "e": "A entrada de cátions despolariza a membrana pós-sináptica."
+ },
+ {
+  "c": "sinapse",
+  "q": "Um PIPS típico é causado por:",
+  "o": [
+   "Entrada de Cl⁻ ou saída de K⁺",
+   "Entrada de Na⁺ pelos canais AMPA",
+   "Entrada de Ca²⁺ pelo receptor NMDA",
+   "Abertura de junções comunicantes"
+  ],
+  "e": "Ambos tornam o interior mais negativo ou o prendem perto do repouso."
+ },
+ {
+  "c": "sinapse",
+  "q": "A somação temporal ocorre quando:",
+  "o": [
+   "A mesma sinapse dispara em sequência rápida",
+   "Várias sinapses disparam ao mesmo tempo",
+   "Uma sinapse elétrica se abre",
+   "O neurônio está no período refratário"
+  ],
+  "e": "Cada PEPS chega antes de o anterior desaparecer."
+ },
+ {
+  "c": "sinapse",
+  "q": "A somação espacial ocorre quando:",
+  "o": [
+   "Sinapses diferentes disparam juntas",
+   "Uma só sinapse dispara muitas vezes",
+   "O PEPS se propaga sem perder força",
+   "O axônio está mielinizado"
+  ],
+  "e": "As correntes de vários pontos somam-se no cone de implantação."
+ },
+ {
+  "c": "sinapse",
+  "q": "A decisão de disparar um potencial de ação é tomada principalmente:",
+  "o": [
+   "No cone de implantação",
+   "Na fenda sináptica",
+   "Nas vesículas sinápticas",
+   "Nos dendritos distais"
+  ],
+  "e": "Ali a densidade de canais de Na⁺ é maior e o limiar, menor."
+ },
+ {
+  "c": "sinapse",
+  "q": "Na inibição pré-sináptica:",
+  "o": [
+   "Um terminal age sobre outro terminal",
+   "O neurônio pós-sináptico hiperpolariza todo",
+   "A acetilcolinesterase é inibida",
+   "O PEPS passa a ser maior que o normal"
+  ],
+  "e": "Sinapse axoaxônica reduz a entrada de Ca²⁺ e a liberação de transmissor."
+ },
+ {
+  "c": "sinapse",
+  "q": "A vantagem da inibição pré-sináptica é:",
+  "o": [
+   "Silenciar uma única entrada específica",
+   "Bloquear todas as entradas ao mesmo tempo",
+   "Acelerar a condução no axônio",
+   "Aumentar a liberação de glutamato"
+  ],
+  "e": "Ela não muda a excitabilidade do neurônio pós-sináptico inteiro."
+ },
+ {
+  "c": "sinapse",
+  "q": "A potenciação de longa duração (LTP) depende da ativação de receptores:",
+  "o": [
+   "NMDA",
+   "Nicotínicos musculares",
+   "Muscarínicos M2",
+   "α2-adrenérgicos"
+  ],
+  "e": "A despolarização remove o Mg²⁺ e o Ca²⁺ entra pelo NMDA."
+ },
+ {
+  "c": "sinapse",
+  "q": "Em neurônios de neonatos, o GABA pode ser excitatório porque:",
+  "o": [
+   "O Cl⁻ intracelular é alto (NKCC1)",
+   "Os receptores GABA-A ainda não existem",
+   "O GABA é convertido em glutamato",
+   "O K⁺ extracelular é muito baixo"
+  ],
+  "e": "Com Cl⁻ alto dentro, abrir canais de Cl⁻ despolariza."
+ },
+ {
+  "c": "sinapse",
+  "q": "Sinapse axossomática é aquela em que o terminal contata:",
+  "o": [
+   "O corpo celular",
+   "Um dendrito",
+   "Outro terminal axonal",
+   "Uma fibra muscular"
+  ],
+  "e": "Axo-somática: terminal sobre o soma, perto do cone de implantação."
+ },
+ {
+  "c": "sinapse",
+  "q": "A base estrutural da inibição pré-sináptica é a sinapse:",
+  "o": [
+   "Axoaxônica",
+   "Axodendrítica",
+   "Axossomática",
+   "Dendrodendrítica"
+  ],
+  "e": "Um terminal inibitório faz sinapse sobre outro terminal."
+ },
+ {
+  "c": "sinapse",
+  "q": "A distância entre as membranas numa sinapse elétrica é de cerca de:",
+  "o": [
+   "3 nm",
+   "30 nm",
+   "300 nm",
+   "3 µm"
+  ],
+  "e": "Junções comunicantes aproximam as membranas a ≈3 nm."
+ },
+ {
+  "c": "sinapse",
+  "q": "Cada conéxon é formado por quantas conexinas?",
+  "o": [
+   "Seis",
+   "Duas",
+   "Quatro",
+   "Doze"
+  ],
+  "e": "Seis conexinas formam um hemicanal (conéxon)."
+ },
+ {
+  "c": "sinapse",
+  "q": "O retardo sináptico típico de uma sinapse química é de:",
+  "o": [
+   "0,3 a 5 ms",
+   "10 a 50 ms",
+   "1 a 5 s",
+   "Menos de 1 µs"
+  ],
+  "e": "Liberação, difusão e ação no receptor somam frações de milissegundo a poucos ms."
+ },
+ {
+  "c": "sinapse",
+  "q": "Uma vantagem da sinapse química sobre a elétrica é:",
+  "o": [
+   "Poder amplificar e inibir o sinal",
+   "Ser mais rápida",
+   "Ser sempre bidirecional",
+   "Dispensar proteínas de membrana"
+  ],
+  "e": "A química amplifica, inibe, integra e é muito modulável."
+ },
+ {
+  "c": "sinapse",
+  "q": "Os canais de Ca²⁺ que disparam a liberação nos terminais centrais são principalmente dos tipos:",
+  "o": [
+   "N e P/Q",
+   "L e T",
+   "Nav e Kv",
+   "IP₃ e RYR"
+  ],
+  "e": "Canais N e P/Q concentram-se nas zonas ativas."
+ },
+ {
+  "c": "sinapse",
+  "q": "Sem Ca²⁺ no meio extracelular, a sinapse química:",
+  "o": [
+   "Não libera neurotransmissor",
+   "Libera transmissor em excesso",
+   "Passa a funcionar como elétrica",
+   "Fica com PEPS maiores"
+  ],
+  "e": "A exocitose depende do influxo de Ca²⁺."
+ },
+ {
+  "c": "sinapse",
+  "q": "O transmissor é bombeado para dentro da vesícula graças a:",
+  "o": [
+   "Gradiente de H⁺ criado por ATPase",
+   "Difusão simples pela membrana",
+   "Canais de Ca²⁺ da vesícula",
+   "Proteínas SNARE da vesícula"
+  ],
+  "e": "Transportadores trocam o transmissor por H⁺; a vesícula é acidificada por bomba de prótons."
+ },
+ {
+  "c": "sinapse",
+  "q": "A membrana das vesículas é recuperada após a exocitose por:",
+  "o": [
+   "Endocitose mediada por clatrina",
+   "Fusão com a mitocôndria",
+   "Degradação pela MAO",
+   "Transporte retrógrado ao núcleo"
+  ],
+  "e": "Clatrina e dinamina reciclam a membrana vesicular."
+ },
+ {
+  "c": "sinapse",
+  "q": "A recaptação de transmissores como noradrenalina e GABA depende de:",
+  "o": [
+   "Transportadores acoplados ao Na⁺",
+   "Canais de Ca²⁺ do terminal",
+   "Receptores ionotrópicos",
+   "Proteína G inibitória"
+  ],
+  "e": "Os transportadores usam o gradiente de Na⁺."
+ },
+ {
+  "c": "sinapse",
+  "q": "Um PEPS isolado numa sinapse central típica tem amplitude de cerca de:",
+  "o": [
+   "0,5 a 1 mV",
+   "15 a 20 mV",
+   "50 a 60 mV",
+   "100 mV"
+  ],
+  "e": "Por isso o neurônio precisa somar muitos PEPS para chegar ao limiar."
+ },
+ {
+  "c": "sinapse",
+  "q": "Por que sinapses axossomáticas inibitórias têm grande peso no disparo?",
+  "o": [
+   "Ficam perto do cone de implantação",
+   "Liberam mais vesículas",
+   "Usam receptores metabotrópicos",
+   "Têm fenda mais larga"
+  ],
+  "e": "A proximidade do cone de implantação dá mais influência sobre o limiar."
+ },
+ {
+  "c": "sinapse",
+  "q": "Na inibição por derivação (curto-circuito):",
+  "o": [
+   "Canais de Cl⁻ abertos anulam correntes excitatórias",
+   "A membrana hiperpolariza fortemente",
+   "O terminal pré-sináptico se despolariza",
+   "O neurônio dispara mais facilmente"
+  ],
+  "e": "Mesmo sem mudar a voltagem, a alta condutância de Cl⁻ desvia correntes excitatórias."
+ },
+ {
+  "c": "sinapse",
+  "q": "A facilitação sináptica de curto prazo deve-se a:",
+  "o": [
+   "Ca²⁺ residual no terminal",
+   "Esgotamento das vesículas",
+   "Inserção de receptores NMDA",
+   "Bloqueio da recaptação"
+  ],
+  "e": "O cálcio que sobra de um disparo aumenta a liberação no seguinte."
+ },
+ {
+  "c": "sinapse",
+  "q": "A depressão sináptica de curto prazo resulta de:",
+  "o": [
+   "Esgotamento temporário de vesículas",
+   "Acúmulo de Ca²⁺ residual",
+   "Inserção de receptores AMPA",
+   "Abertura de junções comunicantes"
+  ],
+  "e": "Disparos repetidos esgotam as vesículas prontas."
+ },
+ {
+  "c": "sinapse",
+  "q": "Na LTP, o Mg²⁺ é removido do receptor NMDA por:",
+  "o": [
+   "Despolarização da membrana pós-sináptica",
+   "Ligação de GABA ao receptor",
+   "Hiperpolarização intensa",
+   "Ação da acetilcolinesterase"
+  ],
+  "e": "A despolarização expulsa o Mg²⁺ do poro e permite a entrada de Ca²⁺."
+ },
+ {
+  "c": "sinapse",
+  "q": "A sensibilização central à dor tem base em mecanismo semelhante a:",
+  "o": [
+   "Potenciação de longa duração",
+   "Inibição pré-sináptica",
+   "Depressão sináptica",
+   "Sinapse elétrica"
+  ],
+  "e": "Ativação de NMDA e aumento de AMPA amplificam a transmissão da dor na medula."
+ },
+ {
+  "c": "sinapse",
+  "q": "Na sinapse química, o efeito excitatório ou inibitório é definido:",
+  "o": [
+   "Pelo receptor pós-sináptico",
+   "Pelo tamanho da vesícula",
+   "Pela largura da fenda",
+   "Pela velocidade do axônio"
+  ],
+  "e": "O mesmo transmissor pode excitar ou inibir dependendo do receptor."
+ },
+ {
+  "c": "sinapse",
+  "q": "Qual destes fenômenos é exclusivo da sinapse química?",
+  "o": [
+   "Retardo sináptico",
+   "Passagem de íons",
+   "Sincronização de células",
+   "Condução bidirecional"
+  ],
+  "e": "O retardo vem da liberação e difusão do transmissor."
+ }
 ]

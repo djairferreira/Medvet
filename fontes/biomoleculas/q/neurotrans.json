@@ -1,0 +1,464 @@
+[
+ {
+  "c": "neurotrans",
+  "q": "Qual é o principal neurotransmissor excitatório do SNC?",
+  "o": [
+   "Glutamato",
+   "GABA",
+   "Glicina",
+   "Serotonina"
+  ],
+  "e": "O glutamato age em AMPA, NMDA, cainato e mGluR."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Principal neurotransmissor inibitório da medula espinal:",
+  "o": [
+   "Glicina",
+   "Glutamato",
+   "Dopamina",
+   "Histamina"
+  ],
+  "e": "Na medula e no tronco, a glicina; no encéfalo, o GABA."
+ },
+ {
+  "c": "neurotrans",
+  "q": "O GABA é sintetizado a partir de:",
+  "o": [
+   "Glutamato",
+   "Tirosina",
+   "Triptofano",
+   "Histidina"
+  ],
+  "e": "A glutamato descarboxilase depende de vitamina B6."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A serotonina é sintetizada a partir de:",
+  "o": [
+   "Triptofano",
+   "Tirosina",
+   "Colina",
+   "Glutamina"
+  ],
+  "e": "Triptofano → 5-hidroxitriptofano → 5-HT."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A sequência correta de síntese das catecolaminas é:",
+  "o": [
+   "Tirosina → DOPA → dopamina → noradrenalina",
+   "Triptofano → DOPA → noradrenalina → dopamina",
+   "Tirosina → serotonina → dopamina → adrenalina",
+   "Histidina → DOPA → adrenalina → noradrenalina"
+  ],
+  "e": "A adrenalina vem da noradrenalina pela PNMT."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A ACh excita o músculo esquelético e freia o coração porque:",
+  "o": [
+   "Age em receptores diferentes",
+   "É degradada mais rápido no coração",
+   "Só o músculo tem acetilcolinesterase",
+   "No coração ela vira noradrenalina"
+  ],
+  "e": "Nicotínico no músculo, M2 no coração: o receptor decide o efeito."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A ação da acetilcolina na fenda termina principalmente por:",
+  "o": [
+   "Hidrólise pela acetilcolinesterase",
+   "Recaptação da ACh intacta",
+   "Degradação pela MAO mitocondrial",
+   "Difusão para o sangue apenas"
+  ],
+  "e": "A enzima a cliva em acetato e colina em microssegundos."
+ },
+ {
+  "c": "neurotrans",
+  "q": "As catecolaminas recaptadas podem ser degradadas pela:",
+  "o": [
+   "MAO e COMT",
+   "Acetilcolinesterase",
+   "Colina acetiltransferase",
+   "Glutamato descarboxilase"
+  ],
+  "e": "A MAO está nas mitocôndrias; a COMT, no citosol e em outros tecidos."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Sobre os neuropeptídios, é correto:",
+  "o": [
+   "São feitos no corpo celular e não são recaptados",
+   "São sintetizados no terminal e recaptados",
+   "Agem só em receptores ionotrópicos rápidos",
+   "São liberados apenas em baixa frequência"
+  ],
+  "e": "Cotransmitidos, agem em receptores metabotrópicos e são degradados por peptidases."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A narcolepsia hereditária do Dobermann envolve mutação no receptor de:",
+  "o": [
+   "Orexina (hipocretina)",
+   "Glicina",
+   "Dopamina D2",
+   "Acetilcolina nicotínica"
+  ],
+  "e": "A orexina mantém a vigília."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Os benzodiazepínicos atuam no receptor GABA-A:",
+  "o": [
+   "Aumentando a frequência de abertura",
+   "Aumentando a duração da abertura",
+   "Abrindo o canal sem nenhum GABA",
+   "Bloqueando o canal de Cl⁻"
+  ],
+  "e": "Só agem na presença de GABA, o que os torna mais seguros."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Por que barbitúricos em dose alta deprimem mais a respiração que benzodiazepínicos?",
+  "o": [
+   "Abrem o canal de Cl⁻ mesmo sem GABA",
+   "Bloqueiam receptores NMDA respiratórios",
+   "Inibem a acetilcolinesterase do bulbo",
+   "Agem só nos receptores de glicina"
+  ],
+  "e": "Em dose alta, barbitúricos são agonistas diretos do GABA-A."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Fármaco de primeira escolha para interromper uma convulsão ativa no cão:",
+  "o": [
+   "Diazepam ou midazolam",
+   "Fenobarbital por via oral",
+   "Atropina intravenosa",
+   "Xilazina intramuscular"
+  ],
+  "e": "Benzodiazepínicos IV, intranasais ou retais agem em minutos."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A estricnina causa convulsões porque:",
+  "o": [
+   "Bloqueia o receptor de glicina",
+   "Bloqueia o receptor de glutamato",
+   "Inibe a liberação de GABA",
+   "Estimula a acetilcolinesterase"
+  ],
+  "e": "Sem o freio da glicina na medula, qualquer estímulo dispara contração generalizada."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Cão com rigidez extrema e convulsões desencadeadas por barulho, consciente entre as crises. Suspeita principal:",
+  "o": [
+   "Estricnina",
+   "Organofosforado",
+   "Botulismo",
+   "Ivermectina"
+  ],
+  "e": "Convulsões tônicas reflexas a som, luz e toque sugerem estricnina."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Por que cães Collie com mutação MDR1 se intoxicam com ivermectina?",
+  "o": [
+   "A glicoproteína P falha na barreira hematoencefálica",
+   "Eles não têm receptores GABA-A no SNC",
+   "Eles metabolizam a ivermectina em estricnina",
+   "A ivermectina bloqueia neles os canais de Na⁺"
+  ],
+  "e": "Sem a bomba de efluxo, o fármaco entra no SNC e potencializa o GABA."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A ivermectina é segura para mamíferos sem mutação MDR1 porque:",
+  "o": [
+   "É bombeada para fora do SNC",
+   "Não age em canais de Cl⁻",
+   "É eliminada antes de absorver",
+   "Só atua em bactérias Gram-negativas"
+  ],
+  "e": "Nos parasitas ela age em canais de Cl⁻ ligados a glutamato; nos mamíferos o SNC fica protegido."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A xilazina produz sedação por:",
+  "o": [
+   "Agonismo α2 pré-sináptico",
+   "Antagonismo β1 cardíaco",
+   "Bloqueio do canal de Na⁺",
+   "Agonismo do receptor μ opioide"
+  ],
+  "e": "Reduz a liberação de noradrenalina no locus cerúleo."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Qual fármaco reverte a sedação por xilazina?",
+  "o": [
+   "Ioimbina",
+   "Naloxona",
+   "Flumazenil",
+   "Neostigmina"
+  ],
+  "e": "Ioimbina, tolazolina e atipamezol são antagonistas α2."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Os opioides produzem analgesia porque:",
+  "o": [
+   "Reduzem a liberação de glutamato e hiperpolarizam",
+   "Bloqueiam canais de Na⁺ dos nociceptores",
+   "Aumentam a liberação de substância P",
+   "Inibem a síntese de prostaglandinas"
+  ],
+  "e": "Fecham canais de Ca²⁺ pré-sinápticos e abrem canais de K⁺ pós-sinápticos."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A cetamina produz anestesia dissociativa por:",
+  "o": [
+   "Bloqueio do canal do receptor NMDA",
+   "Agonismo do receptor GABA-A",
+   "Bloqueio do receptor nicotínico",
+   "Inibição da recaptação de serotonina"
+  ],
+  "e": "Bloqueia o poro do NMDA, perto do sítio do Mg²⁺, quando o canal está aberto."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A metoclopramida tem efeito antiemético por:",
+  "o": [
+   "Antagonismo D2 na zona de gatilho",
+   "Agonismo α2 no centro do vômito",
+   "Bloqueio do receptor de glicina",
+   "Inibição da acetilcolinesterase"
+  ],
+  "e": "A dopamina estimula a zona de gatilho quimiorreceptora."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A toxina tetânica causa paralisia espástica porque:",
+  "o": [
+   "Bloqueia a liberação de glicina e GABA",
+   "Bloqueia a liberação de ACh na placa",
+   "Estimula diretamente os receptores AMPA",
+   "Inibe a acetilcolinesterase da medula"
+  ],
+  "e": "Ela age nos interneurônios inibitórios da medula, após transporte retrógrado."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Qual espécie é mais sensível à toxina tetânica?",
+  "o": [
+   "Equina",
+   "Canina",
+   "Felina",
+   "Galinha doméstica"
+  ],
+  "e": "Equinos são extremamente sensíveis; cães e gatos, bem mais resistentes."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Sinal clássico de tétano em equinos:",
+  "o": [
+   "Prolapso da terceira pálpebra",
+   "Miose com salivação intensa",
+   "Paralisia flácida dos quatro membros",
+   "Bradicardia com diarreia aquosa"
+  ],
+  "e": "Rigidez, trismo, cauda erguida e protrusão da terceira pálpebra são típicos."
+ },
+ {
+  "c": "neurotrans",
+  "q": "No tétano, a toxina age principalmente em:",
+  "o": [
+   "Interneurônios inibitórios da medula",
+   "Receptores nicotínicos da placa",
+   "Bombas SERCA do retículo do músculo",
+   "Canais de sódio do sarcolema"
+  ],
+  "e": "Bloqueia a liberação de glicina e GABA; os motoneurônios ficam sem freio."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Cavalo com trismo, terceira pálpebra exposta, orelhas eretas e postura de cavalete após ferida no casco. Diagnóstico:",
+  "o": [
+   "Tétano",
+   "Botulismo",
+   "Miastenia grave",
+   "HYPP"
+  ],
+  "e": "Paralisia espástica com hiperestesia é típica do tétano."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A enzima que forma GABA a partir do glutamato depende de qual vitamina?",
+  "o": [
+   "B6 (piridoxal-fosfato)",
+   "B1 (tiamina)",
+   "B12 (cobalamina)",
+   "C (ácido ascórbico)"
+  ],
+  "e": "A glutamato descarboxilase usa piridoxal-fosfato."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A isoniazida causa convulsões em cães porque:",
+  "o": [
+   "Reduz a síntese de GABA",
+   "Bloqueia o receptor de glicina",
+   "Ativa receptores NMDA",
+   "Inibe a acetilcolinesterase"
+  ],
+  "e": "Ela antagoniza a vitamina B6, cofator da GAD."
+ },
+ {
+  "c": "neurotrans",
+  "q": "No ciclo glutamato-glutamina, os astrócitos:",
+  "o": [
+   "Captam glutamato e o convertem em glutamina",
+   "Liberam GABA na fenda sináptica",
+   "Sintetizam acetilcolina",
+   "Degradam glicina em serina"
+  ],
+  "e": "A glutamina sintetase dos astrócitos converte glutamato em glutamina, devolvida ao neurônio."
+ },
+ {
+  "c": "neurotrans",
+  "q": "O receptor NMDA precisa, para abrir, de glutamato, despolarização e do coagonista:",
+  "o": [
+   "Glicina",
+   "GABA",
+   "Serotonina",
+   "Dopamina"
+  ],
+  "e": "Glicina (ou D-serina) é coagonista obrigatória do NMDA."
+ },
+ {
+  "c": "neurotrans",
+  "q": "O receptor GABA-B atua:",
+  "o": [
+   "Por proteína G, abrindo canais de K⁺",
+   "Como canal de Cl⁻",
+   "Como canal de Na⁺",
+   "Inibindo a acetilcolinesterase"
+  ],
+  "e": "GABA-B é metabotrópico (Gi) e gera PIPS lento."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Células de Renshaw inibem os motoneurônios usando principalmente:",
+  "o": [
+   "Glicina",
+   "Glutamato",
+   "Noradrenalina",
+   "Dopamina"
+  ],
+  "e": "São interneurônios glicinérgicos da inibição recorrente."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Por que a perda da inibição na medula produz extensão rígida dos membros?",
+  "o": [
+   "Os extensores são mais fortes que os flexores",
+   "Só os extensores perdem inibição",
+   "Os flexores ficam paralisados",
+   "A placa motora fica bloqueada"
+  ],
+  "e": "Flexores e extensores contraem juntos; prevalecem os antigravitacionais."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A ivermectina mata nematódeos ao agir em:",
+  "o": [
+   "Canais de Cl⁻ dependentes de glutamato",
+   "Receptores nicotínicos da placa",
+   "Canais de Na⁺ dependentes de voltagem",
+   "Receptores NMDA de glutamato"
+  ],
+  "e": "Esses canais existem só em invertebrados; abri-los paralisa o parasita."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Qual raça canina é classicamente associada à mutação MDR1?",
+  "o": [
+   "Collie",
+   "Rottweiler",
+   "Dobermann",
+   "Boxer"
+  ],
+  "e": "Collie, Pastor-de-shetland, Pastor-australiano e afins."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A estricnina age como:",
+  "o": [
+   "Antagonista do receptor de glicina",
+   "Agonista do receptor GABA-A",
+   "Bloqueadora do canal NMDA",
+   "Inibidora da acetilcolinesterase"
+  ],
+  "e": "Bloqueia competitivamente o receptor de glicina na medula."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Um cão intoxicado por ivermectina com mutação MDR1 tende a apresentar:",
+  "o": [
+   "Depressão, ataxia e coma",
+   "Convulsões tônicas ao som",
+   "Fasciculações e miose",
+   "Paralisia flácida ascendente"
+  ],
+  "e": "O excesso de ação GABAérgica no SNC deprime o animal."
+ },
+ {
+  "c": "neurotrans",
+  "q": "O maropitant é antiemético porque bloqueia o receptor:",
+  "o": [
+   "NK1 da substância P",
+   "D2 da dopamina",
+   "5-HT₃ da serotonina",
+   "H1 da histamina"
+  ],
+  "e": "Antagonista NK1, age no centro do vômito."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A apomorfina é usada para induzir vômito em cães por ser:",
+  "o": [
+   "Agonista dopaminérgico D2",
+   "Antagonista serotoninérgico",
+   "Agonista GABA-A",
+   "Antagonista NMDA"
+  ],
+  "e": "Ativa receptores D2 na zona de gatilho quimiorreceptora."
+ },
+ {
+  "c": "neurotrans",
+  "q": "A substância P é cotransmitida principalmente com:",
+  "o": [
+   "Glutamato nas fibras de dor",
+   "GABA no cerebelo",
+   "Glicina na medula",
+   "Noradrenalina no coração"
+  ],
+  "e": "Fibras nociceptivas liberam glutamato e substância P."
+ },
+ {
+  "c": "neurotrans",
+  "q": "Na encefalopatia hepática, a amônia prejudica o SNC em parte porque:",
+  "o": [
+   "Sobrecarrega a glutamina sintetase dos astrócitos",
+   "Bloqueia o receptor de glicina",
+   "Inibe a acetilcolinesterase",
+   "Destrói a bainha de mielina"
+  ],
+  "e": "Astrócitos acumulam glutamina e incham; o equilíbrio glutamato/GABA se altera."
+ }
+]
