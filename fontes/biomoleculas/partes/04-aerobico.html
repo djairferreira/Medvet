@@ -1,19 +1,98 @@
-
 <section class="chapter" id="aerobico">
   <div class="ch-head">
-    <div class="ch-num">05</div>
-    <div><span class="eyebrow">Unidade II · 02.02 Metabolismo aeróbico dos carboidratos</span><h2>Metabolismo aeróbico: piruvato desidrogenase, ciclo de Krebs e cadeia respiratória</h2></div>
-    <div class="ch-meta"><button class="done-btn" data-done="aerobico" aria-pressed="false">Marcar como estudado</button><span class="chip">~75 min</span></div>
+    <div class="ch-num">04</div>
+    <div><span class="eyebrow">Unidade II · Metabolismo dos carboidratos · 02.02 Metabolismo aeróbico</span><h2>Metabolismo aeróbico</h2></div>
+    <div class="ch-meta"><button class="done-btn" data-done="aerobico" aria-pressed="false">Marcar como estudado</button><span class="chip">~30 min</span></div>
   </div>
   <div class="col">
-    <p class="oneliner">A glicólise extrai só uma pequena parte da energia da glicose. Na mitocôndria, o piruvato vira acetil-CoA, o ciclo de Krebs arranca dele os elétrons (NADH e FADH₂) e a cadeia respiratória usa esses elétrons para bombear prótons. O fluxo de volta dos prótons pela ATP sintase produz a maior parte do ATP do animal, e o oxigênio é o destino final dos elétrons.</p>
+    <p class="oneliner">PENDENTE</p>
     <div class="goals rv"><h4>Objetivos</h4><ul>
-      <li>Descrever a entrada do piruvato na mitocôndria e o complexo piruvato desidrogenase, com suas cinco coenzimas e sua regulação.</li>
-      <li>Percorrer as oito reações do ciclo de Krebs, com enzimas, produtos e pontos de controle, e explicar seu papel anfibólico.</li>
-      <li>Explicar a cadeia transportadora de elétrons, a teoria quimiosmótica e a ATP sintase, e calcular o saldo de cerca de 30 a 32 ATP por glicose.</li>
-      <li>Relacionar inibidores, desacopladores e espécies reativas de oxigênio a intoxicações e doenças de animais domésticos (deficiência de tiamina, plantas cianogênicas, fluoroacetato, gordura parda, deficiência de selênio).</li></ul></div>
+      <li>PENDENTE</li></ul></div>
 
-    <h3><span class="tag">5.1</span>Da glicólise à mitocôndria</h3>
+    <h3><span class="tag">4.1</span>A glicose precisa entrar: transportadores GLUT</h3>
+    <p>A glicose é polar e não atravessa a bicamada lipídica sozinha. Ela entra nas células por <strong>transportadores de difusão facilitada</strong>, a família <b>GLUT</b>, sempre a favor do gradiente de concentração e sem gasto de energia. Nos epitélios que precisam absorver glicose contra o gradiente (intestino delgado e túbulo proximal renal), atuam os cotransportadores <b>SGLT</b>, movidos pelo gradiente de Na⁺ (cap. 1 e cap. 3). Cada tecido tem os GLUTs adequados à sua função:</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Transportador</th><th>Onde</th><th>Afinidade (K<sub>m</sub>)</th><th>Função</th></tr></thead>
+      <tbody>
+        <tr><td><b>GLUT1</b></td><td>Hemácias, barreira hematoencefálica, placenta, a maioria dos tecidos</td><td>Alta (≈ 1-2 mM)</td><td>Captação basal e constante, mesmo em glicemia baixa</td></tr>
+        <tr><td><b>GLUT2</b></td><td>Fígado, células β do pâncreas, face basolateral do enterócito e do túbulo renal</td><td>Baixa (≈ 15-20 mM)</td><td>Bidirecional; a entrada acompanha a glicemia. Funciona como “sensor” de glicose no fígado e no pâncreas</td></tr>
+        <tr><td><b>GLUT3</b></td><td>Neurônios</td><td>Muito alta (≈ 1 mM)</td><td>Garante glicose ao cérebro mesmo em hipoglicemia leve</td></tr>
+        <tr><td><b>GLUT4</b></td><td>Músculo esquelético e cardíaco, tecido adiposo</td><td>Média (≈ 5 mM)</td><td><b>Dependente de insulina</b>: fica em vesículas e vai para a membrana quando a insulina age (e também com a contração muscular)</td></tr>
+        <tr><td><b>GLUT5</b></td><td>Borda em escova do enterócito, espermatozoides</td><td>—</td><td>Transporta <b>frutose</b></td></tr>
+        <tr><td><b>SGLT1 / SGLT2</b></td><td>Intestino / túbulo proximal</td><td>—</td><td>Cotransporte com Na⁺ (ativo secundário): absorção e reabsorção</td></tr>
+      </tbody></table></div>
+    <p>Assim que entra, a glicose é <strong>fosforilada</strong> a glicose-6-fosfato (primeira reação da glicólise). A molécula fosforilada tem carga negativa, não é reconhecida pelos GLUTs e fica <b>presa</b> no citosol. Isso também mantém a glicose livre baixa dentro da célula, de modo que o gradiente continua favorecendo a entrada.</p>
+    <div class="note clin"><b>Na clínica: limiar renal e diabetes</b><p>Os SGLT do túbulo proximal (o SGLT2 faz cerca de 90% do trabalho e o SGLT1 completa) reabsorvem toda a glicose filtrada até um limite. Acima do <b>limiar renal</b>, a glicose sobra na urina (<b>glicosúria</b>) e leva água junto (poliúria e polidipsia). O limiar é de cerca de 180 a 220 mg/dL no cão, de 250 a 300 mg/dL no gato e bem mais baixo nos bovinos (≈ 100 a 140 mg/dL). No diabetes mellitus, a falta de insulina deixa o GLUT4 dentro das vesículas: músculo e tecido adiposo não captam glicose, a glicemia sobe e o animal emagrece mesmo comendo muito. Os inibidores de SGLT2 (como a velagliflozina) já são usados no tratamento do diabetes felino.</p></div>
+    <figure class="fig"><img src="img/gl-visao.webp" loading="lazy" alt="Visão geral da respiração celular: glicólise no citosol, ciclo de Krebs e fosforilação oxidativa na mitocôndria"><figcaption><b>Onde fica a glicólise.</b> A glicose dos alimentos é quebrada até piruvato no <b>citosol</b> (1. Glicólise). Com oxigênio, o piruvato entra na mitocôndria e é oxidado no ciclo de Krebs e na fosforilação oxidativa (cap. 5), com liberação de CO<sub>2</sub> e água.</figcaption></figure>
+
+    <h3><span class="tag">4.2</span>Fase de investimento: reações 1 a 5</h3>
+    <p>A glicólise (do grego <i>glykys</i>, doce, e <i>lysis</i>, quebra) acontece no <strong>citosol</strong> de todas as células do organismo. É a via mais antiga e universal do metabolismo energético: funciona em bactérias, leveduras, plantas e animais, com ou sem oxigênio. As dez reações se dividem em duas fases. Na primeira, a célula <b>gasta 2 ATP</b> para ativar a glicose e quebrá-la em duas trioses-fosfato.</p>
+    <figure class="fig"><img src="img/gl-fase1.webp" loading="lazy" alt="Reações 1 a 5 da glicólise, de glicose até gliceraldeído-3-fosfato e di-hidroxiacetona-fosfato"><figcaption><b>Fase de investimento.</b> Hexoquinase e fosfofrutoquinase (em vermelho) gastam um ATP cada. A aldolase quebra a frutose-1,6-bisfosfato em duas trioses, e a triose-fosfato isomerase converte a di-hidroxiacetona-fosfato em gliceraldeído-3-fosfato.</figcaption></figure>
+    <ol class="steps">
+      <li><b>1. Hexoquinase: glicose → glicose-6-fosfato</b><span>Transfere o fosfato terminal do ATP para o C6 da glicose (exige Mg²⁺). <b>Gasta 1 ATP</b>. Reação <b>irreversível</b> nas condições da célula. Prende a glicose no citosol. No fígado e no pâncreas, a enzima é a isoforma <b>glicoquinase</b> (hexoquinase IV).</span></li>
+      <li><b>2. Fosfoglicose isomerase: glicose-6-fosfato ⇄ frutose-6-fosfato</b><span>Converte a aldose em cetose, deixando o C1 livre para receber outro fosfato. Reversível.</span></li>
+      <li><b>3. Fosfofrutoquinase-1 (PFK-1): frutose-6-fosfato → frutose-1,6-bisfosfato</b><span>Segundo fosfato, agora no C1. <b>Gasta 1 ATP</b>. <b>Irreversível</b> e principal ponto de controle: é o <b>passo comprometido</b> da glicólise, porque a frutose-1,6-bisfosfato não tem outro destino senão seguir pela via.</span></li>
+      <li><b>4. Aldolase: frutose-1,6-bisfosfato ⇄ di-hidroxiacetona-fosfato + gliceraldeído-3-fosfato</b><span>Quebra a hexose em <b>duas trioses-fosfato</b>, cada uma com um fosfato. É a “lise” da glicólise.</span></li>
+      <li><b>5. Triose-fosfato isomerase: di-hidroxiacetona-fosfato ⇄ gliceraldeído-3-fosfato</b><span>Só o gliceraldeído-3-fosfato (G3P) segue pela via; a isomerase converte a di-hidroxiacetona-fosfato (DHAP) nele. A partir daqui, <b>tudo acontece em dobro</b>: são 2 G3P por glicose. A DHAP também é a ponte com o glicerol e os triglicerídeos (cap. 7).</span></li>
+    </ol>
+
+    <h3><span class="tag">4.3</span>Fase de pagamento: reações 6 a 10</h3>
+    <p>Na segunda fase, cada gliceraldeído-3-fosfato é <b>oxidado</b> e a energia da oxidação é guardada em ATP e NADH. Como são duas trioses por glicose, cada número abaixo vale <b>×2</b>.</p>
+    <figure class="fig"><img src="img/gl-fase2.webp" loading="lazy" alt="Reações 6 a 10 da glicólise, de gliceraldeído-3-fosfato até piruvato"><figcaption><b>Fase de pagamento.</b> A gliceraldeído-3-fosfato desidrogenase forma NADH; a fosfoglicerato-cinase e a piruvato quinase formam ATP por fosforilação no nível do substrato.</figcaption></figure>
+    <ol class="steps">
+      <li><b>6. Gliceraldeído-3-fosfato desidrogenase (GAPDH): G3P + NAD⁺ + Pi ⇄ 1,3-bisfosfoglicerato + NADH + H⁺</b><span>A única <b>oxidação</b> da glicólise. O aldeído é oxidado, os elétrons vão para o <b>NAD⁺</b> (forma <b>NADH</b>) e a energia liberada prende um <b>fosfato inorgânico</b> (não vem do ATP) numa ligação de alta energia (acil-fosfato). <b>2 NADH por glicose.</b></span></li>
+      <li><b>7. Fosfoglicerato-cinase: 1,3-bisfosfoglicerato + ADP ⇄ 3-fosfoglicerato + ATP</b><span>O fosfato de alta energia passa para o ADP: <b>fosforilação no nível do substrato</b>. <b>2 ATP por glicose</b>; aqui o investimento é “devolvido” e o saldo fica zero.</span></li>
+      <li><b>8. Fosfoglicerato mutase: 3-fosfoglicerato ⇄ 2-fosfoglicerato</b><span>O fosfato muda do C3 para o C2, preparando a próxima reação.</span></li>
+      <li><b>9. Enolase: 2-fosfoglicerato ⇄ fosfoenolpiruvato + H<sub>2</sub>O</b><span>Retira uma molécula de água e cria o <b>fosfoenolpiruvato (PEP)</b>, um dos compostos de maior energia de transferência de fosfato da célula. Exige Mg²⁺ e é <b>inibida pelo fluoreto</b>.</span></li>
+      <li><b>10. Piruvato quinase: fosfoenolpiruvato + ADP → piruvato + ATP</b><span>Segunda fosforilação no nível do substrato. <b>2 ATP por glicose</b>. <b>Irreversível</b> e regulada.</span></li>
+    </ol>
+    <section class="labbox rv" aria-labelledby="glstTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="glstTitle">A glicólise reação a reação</h4></div>
+        <div class="ctrl" style="margin:0"><button class="tbtn" type="button" id="glstPrev" aria-label="Etapa anterior">←</button><button class="tbtn" type="button" id="glstNext">Próxima etapa →</button></div></header>
+      <div class="svgwrap"><svg id="glstSvg" viewBox="0 0 600 340" role="img" aria-label="Reação atual da glicólise, esqueleto de carbonos e contadores de ATP e NADH"></svg></div>
+      <div class="readout" id="glstOut" aria-live="polite"></div>
+    </section>
+    <div class="tbl min"><table>
+      <thead><tr><th>Nº</th><th>Enzima</th><th>Produto</th><th>ATP / NADH (por glicose)</th><th>Reversível?</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>Hexoquinase / glicoquinase</td><td>Glicose-6-fosfato</td><td>−1 ATP</td><td><b>Não</b> (regulada)</td></tr>
+        <tr><td>2</td><td>Fosfoglicose isomerase</td><td>Frutose-6-fosfato</td><td>—</td><td>Sim</td></tr>
+        <tr><td>3</td><td>Fosfofrutoquinase-1</td><td>Frutose-1,6-bisfosfato</td><td>−1 ATP</td><td><b>Não</b> (principal controle)</td></tr>
+        <tr><td>4</td><td>Aldolase</td><td>DHAP + G3P</td><td>—</td><td>Sim</td></tr>
+        <tr><td>5</td><td>Triose-fosfato isomerase</td><td>G3P (2 por glicose)</td><td>—</td><td>Sim</td></tr>
+        <tr><td>6</td><td>G3P desidrogenase</td><td>1,3-bisfosfoglicerato</td><td>+2 NADH</td><td>Sim</td></tr>
+        <tr><td>7</td><td>Fosfoglicerato-cinase</td><td>3-fosfoglicerato</td><td>+2 ATP</td><td>Sim</td></tr>
+        <tr><td>8</td><td>Fosfoglicerato mutase</td><td>2-fosfoglicerato</td><td>—</td><td>Sim</td></tr>
+        <tr><td>9</td><td>Enolase</td><td>Fosfoenolpiruvato</td><td>— (sai H<sub>2</sub>O)</td><td>Sim</td></tr>
+        <tr><td>10</td><td>Piruvato quinase</td><td>Piruvato</td><td>+2 ATP</td><td><b>Não</b> (regulada)</td></tr>
+      </tbody></table></div>
+    <div class="note mem"><b>Saldo da glicólise</b><p>Glicose + 2 NAD⁺ + 2 ADP + 2 Pi → 2 piruvato + 2 NADH + 2 H⁺ + 2 ATP + 2 H<sub>2</sub>O. São <b>4 ATP formados − 2 ATP gastos = 2 ATP líquidos</b> e <b>2 NADH</b>. Nenhum CO<sub>2</sub> é liberado e nenhum O<sub>2</sub> é consumido: os 6 carbonos da glicose continuam todos nos 2 piruvatos.</p></div>
+    <div class="note trap"><b>Pegadinha</b><p>“A glicólise produz 4 ATP” está incompleto: produz 4, mas gasta 2, e o <b>saldo é 2</b>. Outra armadilha: os ATP da glicólise vêm de <b>fosforilação no nível do substrato</b> (reações 7 e 10), não da cadeia respiratória. Por isso a glicólise funciona sem oxigênio.</p></div>
+    <div class="note lab"><b>Na prática: o tubo de tampa cinza</b><p>As hemácias e os leucócitos continuam consumindo glicose pela glicólise depois da coleta: num tubo comum, sem separar o soro, a glicose cai de 5 a 10% por hora em temperatura ambiente, e o animal parece hipoglicêmico. O tubo de <b>fluoreto de sódio</b> (tampa cinza) <b>inibe a enolase</b> e bloqueia a glicólise das células, preservando a glicose (e o lactato) da amostra. Alternativa: centrifugar e separar o plasma em até 30 minutos.</p></div>
+    <div class="note clin"><b>Na clínica: arsênico</b><p>O <b>arsenato</b> (pentavalente) se parece com o fosfato e entra no lugar dele na reação 6. O produto, 1-arseno-3-fosfoglicerato, se desfaz espontaneamente em 3-fosfoglicerato, e a reação 7 é “pulada”: a glicólise continua, mas <b>sem formar ATP</b>. Já o <b>arsenito</b> (trivalente) bloqueia enzimas com ácido lipoico, como a piruvato desidrogenase (cap. 5). Bovinos que lambem restos de banhos carrapaticidas antigos ou de madeira tratada com arseniato apresentam gastroenterite grave e choque.</p></div>
+
+    <h3><span class="tag">4.4</span>Regulação: as três reações irreversíveis</h3>
+    <p>Das dez reações, três têm variação de energia livre muito negativa e funcionam como “válvulas de mão única”: as catalisadas pela <b>hexoquinase</b>, pela <b>PFK-1</b> e pela <b>piruvato quinase</b>. São elas que a célula regula, e são elas que a gliconeogênese precisa contornar com outras enzimas (cap. 6).</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Enzima</th><th>Ativadores</th><th>Inibidores</th><th>Sentido fisiológico</th></tr></thead>
+      <tbody>
+        <tr><td><b>Hexoquinase</b> (I a III)</td><td>—</td><td>Glicose-6-fosfato (o próprio produto)</td><td>Se a G6P acumula, a célula não precisa de mais glicose</td></tr>
+        <tr><td><b>Glicoquinase</b> (fígado, célula β)</td><td>Glicose alta; insulina aumenta sua síntese</td><td>Proteína reguladora (frutose-6-fosfato) que a prende no núcleo em jejum</td><td>K<sub>m</sub> alto (≈ 8-10 mM) e não inibida pela G6P: só trabalha muito depois da refeição, quando há glicose sobrando para guardar</td></tr>
+        <tr><td><b>PFK-1</b></td><td>AMP, ADP, <b>frutose-2,6-bisfosfato</b></td><td><b>ATP</b> em excesso, <b>citrato</b>, H⁺ (pH baixo)</td><td>Acelera quando falta energia; freia quando há ATP e citrato (Krebs abastecido) ou acidose</td></tr>
+        <tr><td><b>Piruvato quinase</b></td><td>Frutose-1,6-bisfosfato (ativação “por antecipação”)</td><td>ATP, alanina, acetil-CoA; no fígado, fosforilação pelo glucagon</td><td>No jejum, o fígado desliga a glicólise para fazer gliconeogênese</td></tr>
+      </tbody></table></div>
+    <p>A <b>frutose-2,6-bisfosfato</b> (não confundir com a 1,6-bisfosfato da via) é o elo com os hormônios: a <b>insulina</b> aumenta sua concentração no fígado e acelera a glicólise; o <b>glucagon</b> a diminui, freia a glicólise e libera a gliconeogênese. Os detalhes desse controle hormonal estão no cap. 6.</p>
+    <div class="cards">
+      <div class="card"><span class="role">Músculo</span><h5>Hexoquinase</h5><p>K<sub>m</sub> muito baixo (&lt; 0,1 mM): saturada mesmo em glicemia normal. O músculo usa a glicose que precisa, quando precisa, e o freio é o acúmulo de G6P.</p></div>
+      <div class="card"><span class="role">Fígado</span><h5>Glicoquinase</h5><p>Trabalha em proporção à glicemia do sangue portal. Depois da refeição, captura o excesso para fazer glicogênio e gordura; em jejum, quase para e deixa a glicose para os outros tecidos.</p></div>
+      <div class="card"><span class="role">Gato</span><h5>Quase sem glicoquinase</h5><p>O fígado felino tem atividade de glicoquinase muito baixa. Depois de uma refeição rica em carboidrato, o gato demora mais a baixar a glicemia: um dos motivos pelos quais dietas com muito carboidrato não são indicadas para ele.</p></div>
+    </div>
+    <div class="note clin"><b>Na clínica: deficiências hereditárias em cães e gatos</b><ul>
+      <li><b>Deficiência de piruvato quinase</b> (Basenji, Beagle, West Highland White Terrier, Cairn Terrier; gatos Abissínio e Somali): a hemácia, que depende só da glicólise, fica sem ATP, perde a forma e é destruída. Causa <b>anemia hemolítica crônica</b> regenerativa; em cães evolui com mielofibrose e osteosclerose.</li>
+      <li><b>Deficiência de fosfofrutoquinase muscular</b> (English Springer Spaniel, Cocker Spaniel, Whippet): crises de <b>hemólise com hemoglobinúria</b> depois de exercício intenso, latidos ou calor, quando a hiperventilação causa alcalose e as hemácias, já fragilizadas, se rompem. Também causa intolerância ao exercício e cãibras. Manejo: evitar excitação, exercício extenuante e ambientes quentes.</li>
+      <li>Há testes genéticos para as duas, usados na seleção de reprodutores.</li></ul></div>
+
+    <h3><span class="tag">4.5</span>Da glicólise à mitocôndria</h3>
     <p>A <strong>respiração celular</strong> é a oxidação completa da glicose a CO₂ e água, usando o O₂ como oxidante: C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O + energia. Ela acontece em três grandes etapas, em compartimentos diferentes da célula:</p>
     <ol class="steps">
       <li><b>Glicólise (citosol)</b><span>Glicose (6C) → 2 piruvato (3C), com saldo de 2 ATP e 2 NADH. Não precisa de O₂ (cap. 4).</span></li>
@@ -32,7 +111,7 @@
     </div>
     <div class="note deep"><b>Aprofundamento</b><p>Os tecidos diferem muito na densidade de mitocôndrias. O <b>coração</b> e os músculos posturais (fibras tipo I, vermelhas) são essencialmente aeróbicos; os músculos de explosão (fibras tipo IIb, brancas) dependem mais da glicólise. O cavalo de corrida e o cão de trenó treinados aumentam o número de mitocôndrias por fibra (biogênese mitocondrial), o que melhora a resistência. O músculo peitoral das aves migratórias está entre os tecidos mais ricos em mitocôndrias que existem.</p></div>
 
-    <h3><span class="tag">5.2</span>O complexo piruvato desidrogenase</h3>
+    <h3><span class="tag">4.6</span>O complexo piruvato desidrogenase</h3>
     <p>Na matriz, o piruvato sofre <strong>descarboxilação oxidativa</strong>: perde a carboxila como CO₂, o restante (acetil, 2C) é ligado à coenzima A e os elétrons vão para o NAD⁺:</p>
     <p style="text-align:center"><b>Piruvato + CoA + NAD⁺ → acetil-CoA + CO₂ + NADH + H⁺</b></p>
     <p>Quem catalisa é o <strong>complexo piruvato desidrogenase (PDH)</strong>, um conjunto gigante de três enzimas que passam o substrato de mão em mão, sem soltá-lo no meio do caminho:</p>
@@ -62,7 +141,7 @@
       <p><b>Gatos, peixe cru:</b> o gato tem necessidade alta de tiamina. Dietas à base de <b>peixe cru</b> (rico em tiaminase) ou alimentos conservados com <b>sulfito</b> (que destrói a tiamina) levam a anorexia, midríase, ataxia vestibular, <b>ventroflexão do pescoço</b> e convulsões. Cozinhar o peixe inativa a tiaminase.</p></div>
     <div class="note trap"><b>Pegadinha</b><p>O <b>arsênico</b> (arsenito, presente em antigos carrapaticidas e herbicidas) se liga aos dois grupos –SH do <b>lipoato</b> e bloqueia a PDH e a α-cetoglutarato desidrogenase. O quadro lembra a falta de tiamina, mas a coenzima atingida é outra.</p></div>
 
-    <h3><span class="tag">5.3</span>O ciclo de Krebs, reação por reação</h3>
+    <h3><span class="tag">4.7</span>O ciclo de Krebs, reação por reação</h3>
     <p>O <strong>ciclo de Krebs</strong> (ciclo do ácido cítrico ou dos ácidos tricarboxílicos) é uma roda de oito reações na matriz. O acetil (2C) entra se juntando ao <strong>oxaloacetato</strong> (4C) para formar <strong>citrato</strong> (6C); duas descarboxilações removem dois carbonos como CO₂, e o resto da volta regenera o oxaloacetato. O oxaloacetato funciona como um <b>catalisador</b>: não é consumido, só reciclado.</p>
     <div class="figrow">
       <figure class="fig"><img src="img/kr-ciclo.webp" loading="lazy" alt="Ciclo de Krebs com acetil-CoA, citrato, isocitrato, alfa-cetoglutarato, succinil-CoA, succinato, fumarato, malato e oxaloacetato, mostrando NADH, FADH2, GTP e CO2"><figcaption><b>Os intermediários do ciclo.</b> Três NADH (isocitrato, α-cetoglutarato e malato), um FADH₂ (succinato), um GTP (succinil-CoA) e dois CO₂ (nas duas descarboxilações) por volta.</figcaption></figure>
@@ -90,7 +169,7 @@
     <div class="note trap"><b>Pegadinha</b><p>Os dois CO₂ liberados numa volta <b>não são</b> os dois carbonos do acetil que acabou de entrar: eles vêm da porção derivada do oxaloacetato. Em termos de balanço, porém, a volta oxida o equivalente a um acetil. Outra: o ciclo de Krebs <b>não usa O₂ diretamente</b>, mas para sem ele, porque o NAD⁺ e o FAD só são regenerados pela cadeia respiratória.</p></div>
     <div class="note clin"><b>Na clínica: fluoroacetato e morte súbita</b><p>O <b>monofluoroacetato</b> é convertido em fluoroacetil-CoA e depois em <b>fluorocitrato</b>, que bloqueia a <b>aconitase</b>: o citrato se acumula e o ciclo para. No Brasil, é o princípio tóxico da <b><i>Palicourea marcgravii</i></b> (“erva-de-rato”, “cafezinho”) e de espécies de <i>Amorimia</i>, as principais causas de <b>morte súbita de bovinos</b> associada a exercício (o animal cai ao ser movimentado), por falha cardíaca. O mesmo composto é o raticida “1080”, proibido; cães intoxicados (diretamente ou comendo roedores) mostram sobretudo convulsões e hiperexcitação. A espécie muda o órgão-alvo principal, mas a lesão bioquímica é a mesma.</p></div>
 
-    <h3><span class="tag">5.4</span>Regulação e papel anfibólico do ciclo</h3>
+    <h3><span class="tag">4.8</span>Regulação e papel anfibólico do ciclo</h3>
     <p>O ciclo é controlado pela <strong>carga energética</strong> da célula. Quando sobra ATP e NADH (célula em repouso, “cheia”), a citrato sintase, a isocitrato desidrogenase e a α-cetoglutarato desidrogenase são freadas. Quando o músculo contrai, o <b>Ca²⁺</b> e o <b>ADP</b> sobem e aceleram essas mesmas enzimas, além da PDH. A disponibilidade de <b>oxaloacetato</b> e de <b>NAD⁺</b> também limita o ritmo.</p>
     <p>O ciclo é <strong>anfibólico</strong>: serve ao catabolismo (oxidar acetil-CoA) e ao anabolismo (fornecer esqueletos de carbono). Retirar intermediários é a <b>cataplerose</b>; repô-los é a <b>anaplerose</b>.</p>
     <div class="tbl"><table>
@@ -105,7 +184,7 @@
     <div class="note clin"><b>Na produção: o propionato e o cobalto</b><p>Nos ruminantes, quase todo carboidrato da dieta é fermentado no rúmen a ácidos graxos voláteis. O <b>propionato</b> é o principal (praticamente o único) deles que gera glicose: vira propionil-CoA, depois metilmalonil-CoA (enzima dependente de <b>biotina</b>) e então <b>succinil-CoA</b> pela metilmalonil-CoA mutase, que exige <b>vitamina B12</b>. A B12 é sintetizada pelas bactérias do rúmen a partir do <b>cobalto</b>. Em pastagens pobres em cobalto, falta B12, o propionato não entra no ciclo e o animal emagrece apesar de comer (no Brasil, quadros de “peste de secar”), com anemia e queda de produção.</p></div>
     <div class="note deep"><b>Ponte para o cap. 8</b><p>Na vaca leiteira em início de lactação, o oxaloacetato do fígado é desviado intensamente para a gliconeogênese. O acetil-CoA vindo da mobilização de gordura não encontra oxaloacetato suficiente para entrar no ciclo e é desviado para formar <b>corpos cetônicos</b>: esse é o núcleo bioquímico da <b>cetose</b>.</p></div>
 
-    <h3><span class="tag">5.5</span>A cadeia transportadora de elétrons</h3>
+    <h3><span class="tag">4.9</span>A cadeia transportadora de elétrons</h3>
     <p>NADH e FADH₂ são <b>transportadores de elétrons de alta energia</b>. Na membrana interna, uma série de complexos proteicos passa esses elétrons de um carreador para o seguinte, sempre para quem tem <b>maior afinidade por elétrons</b> (potencial de redução mais positivo), até o <strong>O₂</strong>, o aceptor final. A cada passagem uma parte da energia é liberada, e três dos complexos a usam para <b>bombear prótons</b> da matriz para o espaço intermembranas.</p>
     <div class="figrow">
       <figure class="fig"><img src="img/kr-cadeia.webp" loading="lazy" alt="Complexos da cadeia respiratória na membrana interna, com NADH e FADH2 doando elétrons, ubiquinona, citocromo c, formação de água a partir de oxigênio e ATP sintase produzindo ATP"><figcaption><b>A cadeia em funcionamento.</b> O NADH entra pelo complexo I (flavoproteína), o FADH₂ pelo complexo II; ambos reduzem a <b>ubiquinona (Q)</b>. Os elétrons seguem pelo complexo III, pelo citocromo c e pelo complexo IV até o O₂, formando água. Os prótons bombeados voltam pela ATP sintase.</figcaption></figure>
@@ -137,7 +216,7 @@
       <div class="readout" id="krrOut" aria-live="polite"></div>
     </section>
 
-    <h3><span class="tag">5.6</span>Teoria quimiosmótica, ATP sintase e o saldo final</h3>
+    <h3><span class="tag">4.10</span>Teoria quimiosmótica, ATP sintase e o saldo final</h3>
     <p>A pergunta que ficou décadas sem resposta era: como o transporte de elétrons se “liga” à síntese de ATP? Peter Mitchell propôs a <strong>teoria quimiosmótica</strong> (Nobel de 1978): a energia dos elétrons é guardada como um <b>gradiente eletroquímico de prótons</b> através da membrana interna, a <b>força próton-motriz</b>, com dois componentes: diferença de pH (matriz mais alcalina) e diferença de potencial elétrico (matriz negativa). Para isso, a membrana interna precisa ser <b>impermeável a H⁺</b>; qualquer “vazamento” desperdiça a energia como calor.</p>
     <div class="cards">
       <div class="card"><span class="role">Na membrana</span><h5>F₀: a turbina</h5><p>Um anel de subunidades c gira à medida que os prótons atravessam, voltando do espaço intermembranas para a matriz.</p></div>
@@ -158,7 +237,7 @@
     <div class="note trap"><b>Pegadinha</b><p>Muitos livros mais antigos e slides ainda trazem <b>36 a 38 ATP</b> por glicose, porque usavam 3 ATP por NADH e 2 por FADH₂, sem descontar os prótons gastos no transporte de ATP, ADP e Pi. O valor aceito hoje é <b>cerca de 30 a 32</b>. Em prova, leia o que o enunciado pede; se ele não especificar, explique a diferença. De qualquer forma, a via aeróbica rende cerca de <b>15 vezes mais ATP</b> que a glicólise anaeróbica (2 ATP).</p></div>
     <div class="note deep"><b>Aprofundamento: eficiência</b><p>A oxidação completa da glicose libera cerca de 2.870 kJ/mol; 30 a 32 ATP guardam em torno de 30 a 35% disso em condições padrão (bem mais em condições celulares). O resto vira <b>calor</b>, e é esse calor que mantém a temperatura corporal dos endotérmicos. Os animais pequenos, com maior superfície relativa, têm taxa metabólica por kg muito mais alta (um camundongo consome, por kg, cerca de 10 a 20 vezes mais O₂ que um cavalo).</p></div>
 
-    <h3><span class="tag">5.7</span>Inibidores, desacopladores e termogênese</h3>
+    <h3><span class="tag">4.11</span>Inibidores, desacopladores e termogênese</h3>
     <p>Como transporte de elétrons e síntese de ATP são acoplados, existem três formas de “quebrar” o sistema: <b>bloquear o fluxo de elétrons</b> (inibidores da cadeia), <b>bloquear a ATP sintase</b> ou <b>abrir um atalho para os prótons</b> (desacopladores).</p>
     <div class="tbl min"><table>
       <thead><tr><th>Agente</th><th>Alvo</th><th>Efeito</th><th>Importância veterinária</th></tr></thead>
@@ -183,7 +262,7 @@
     <div class="note trap"><b>Pegadinha</b><p>Desacoplador <b>aumenta</b> o consumo de O₂ (os elétrons correm livres, sem contrapressão do gradiente) e <b>diminui</b> o ATP; inibidor da cadeia <b>diminui</b> os dois. Ambos levam à produção de lactato pela glicólise compensatória, mas só o desacoplador causa <b>hipertermia</b>. Foi assim que o dinitrofenol, vendido como emagrecedor na década de 1930, matou pessoas por febre incontrolável.</p></div>
     <div class="note clin"><b>Na clínica: hipertermia maligna dos suínos</b><p>Não é desacoplamento mitocondrial, mas costuma cair junto em prova: suínos com mutação no receptor de rianodina (<b>RYR1</b>, gene do halotano, “síndrome do estresse suíno”) liberam Ca²⁺ descontroladamente no músculo sob estresse ou anestesia com halotano. O músculo contrai, hidrolisa ATP sem parar e acelera glicólise e respiração: rigidez, hipertermia, acidose láctica e carne PSE (pálida, mole e exsudativa) no abate.</p></div>
 
-    <h3><span class="tag">5.8</span>Espécies reativas de oxigênio e defesas antioxidantes</h3>
+    <h3><span class="tag">4.12</span>Espécies reativas de oxigênio e defesas antioxidantes</h3>
     <p>Cerca de 0,1 a 2% dos elétrons “escapam” da cadeia, principalmente nos <b>complexos I e III</b> e na ubiquinona, e reduzem o O₂ só parcialmente, formando <strong>superóxido</strong> (O₂•⁻). Dele derivam o <b>peróxido de hidrogênio</b> (H₂O₂) e, na presença de Fe²⁺ (reação de Fenton), o <b>radical hidroxila</b> (•OH), o mais agressivo. Essas <strong>espécies reativas de oxigênio (EROs)</strong> oxidam lipídios de membrana (peroxidação), proteínas e DNA. Em pequenas quantidades são sinais celulares; em excesso causam <b>estresse oxidativo</b>.</p>
     <div class="tbl"><table>
       <thead><tr><th>Defesa</th><th>O que faz</th><th>Nutriente necessário</th></tr></thead>

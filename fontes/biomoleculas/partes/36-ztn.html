@@ -1,0 +1,51 @@
+<section class="chapter" id="ztn">
+  <div class="ch-head">
+    <div class="ch-num">36</div>
+    <div><span class="eyebrow">Unidade VIII · Fisiologia respiratória e regulação da temperatura corporal · 08.06 Zona de termoneutralidade</span><h2>Zona de termoneutralidade</h2></div>
+    <div class="ch-meta"><button class="done-btn" data-done="ztn" aria-pressed="false">Marcar como estudado</button><span class="chip">~30 min</span></div>
+  </div>
+  <div class="col">
+    <p class="oneliner">PENDENTE</p>
+    <div class="goals rv"><h4>Objetivos</h4><ul>
+      <li>PENDENTE</li></ul></div>
+
+    <h3><span class="tag">36.1</span>Zona de termoneutralidade e manejo na produção</h3>
+    <p>A <strong>zona de termoneutralidade (ZTN)</strong> é a faixa de temperatura ambiente em que o animal mantém a temperatura corporal com o <strong>menor gasto de energia</strong>, só com ajustes vasomotores, de postura e de pelagem. Abaixo da <strong>temperatura crítica inferior (TCI)</strong>, ele precisa aumentar a produção de calor; acima da <strong>temperatura crítica superior (TCS)</strong>, precisa gastar energia e água para perder calor. Fora de limites ainda mais extremos, nem isso basta: surge hipotermia ou hipertermia.</p>
+    <figure class="fig"><img src="img/te-ztn.webp" loading="lazy" alt="Gráfico da zona de termoneutralidade com temperaturas críticas inferior e superior"><figcaption><b>Zona de termoneutralidade.</b> Linha contínua: temperatura corporal; linha tracejada: energia gasta na termorregulação. Entre a TCI e a TCS está o conforto térmico; além delas, reações fisiológicas e comportamentais; nos extremos, hipotermia, hipertermia e morte.</figcaption></figure>
+    <p>A ZTN depende de espécie, idade, pelagem, nível de alimentação, produção, vento, umidade e radiação. Neonatos (grande superfície em relação à massa, pouca gordura) têm ZTN alta e estreita; vacas leiteiras de alta produção (grande calor metabólico e de fermentação) toleram muito frio e pouco calor.</p>
+    <section class="labbox rv" aria-labelledby="tzTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="tzTitle">Zona de termoneutralidade por espécie e idade</h4></div></header>
+      <div class="ctrl" id="tzSp" role="group" aria-label="Espécie e categoria">
+        <button class="tbtn" type="button" data-k="vaca" aria-pressed="true">Vaca holandesa em lactação</button>
+        <button class="tbtn" type="button" data-k="zebu" aria-pressed="false">Zebuíno (Nelore)</button>
+        <button class="tbtn" type="button" data-k="bez" aria-pressed="false">Bezerro recém-nascido</button>
+        <button class="tbtn" type="button" data-k="leitao" aria-pressed="false">Leitão recém-nascido</button>
+        <button class="tbtn" type="button" data-k="porca" aria-pressed="false">Suíno em terminação</button>
+        <button class="tbtn" type="button" data-k="pinto" aria-pressed="false">Pinto de 1 dia</button>
+        <button class="tbtn" type="button" data-k="frango" aria-pressed="false">Frango adulto</button>
+        <button class="tbtn" type="button" data-k="ovelha" aria-pressed="false">Ovelha lanada</button>
+        <button class="tbtn" type="button" data-k="tosq" aria-pressed="false">Ovelha recém-tosquiada</button>
+        <button class="tbtn" type="button" data-k="cao" aria-pressed="false">Cão adulto</button>
+      </div>
+      <div class="te-sl"><label>Temperatura ambiente: <b id="tzTaV">20 °C</b><input id="tzTa" type="range" min="-20" max="45" step="1" value="20"></label></div>
+      <div class="svgwrap"><svg id="tzSvg" viewBox="0 0 600 340" role="img" aria-label="Gráfico da produção de calor em função da temperatura ambiente com a zona de termoneutralidade destacada"></svg></div>
+      <div class="readout" id="tzOut" aria-live="polite"></div>
+    </section>
+    <h4>Neonatos, leitões e pintos</h4>
+    <p>O leitão nasce molhado, com cerca de 1 a 1,5 kg, quase sem gordura e sem gordura parda funcional, num ambiente de maternidade ajustado para a porca (que prefere ~18–20 °C). Sua ZTN fica em torno de 32–35 °C. A <strong>hipotermia</strong> leva à fraqueza, menor ingestão de colostro, hipoglicemia, maior risco de esmagamento pela mãe e de diarreia: por isso se usam <strong>escamoteadores com lâmpada ou piso aquecido</strong> e secagem ao nascer. Pintos não regulam bem a temperatura nas primeiras semanas: a temperatura do pinteiro começa em 32–33 °C e é reduzida cerca de 3 °C por semana, observando o comportamento (pintos amontoados sob a fonte de calor estão com frio; afastados, ofegantes e de asas abertas, com calor). Cordeiros nascidos no inverno em campo aberto morrem pelo complexo <strong>hipotermia-inanição</strong> quando não mamam colostro cedo.</p>
+    <h4>Estresse térmico em vacas leiteiras</h4>
+    <p>A vaca holandesa de alta produção gera muito calor e o perde com dificuldade em clima tropical. O <strong>Índice de Temperatura e Umidade (ITU)</strong> combina as duas variáveis; uma fórmula comum é:</p>
+    <p class="mono" style="text-align:center">ITU = 0,8 × T + (UR/100) × (T − 14,4) + 46,4</p>
+    <p>(T em °C, UR = umidade relativa em %). Valores acima de cerca de <strong>68–72</strong> já indicam estresse para vacas leiteiras de alta produção; acima de ~79 o estresse é grave. Por exemplo, 30 °C com 70% de umidade dão ITU ≈ 81.</p>
+    <div class="cards">
+      <div class="card"><span class="role">Produção</span><h5>Menos leite</h5><p>A vaca reduz a ingestão de matéria seca para produzir menos calor de fermentação; a produção cai (10 a 30% ou mais), e o teor de gordura também. O ofego leva à alcalose respiratória e, pela perda de bicarbonato e saliva, a maior risco de acidose ruminal.</p></div>
+      <div class="card"><span class="role">Reprodução</span><h5>Menos prenhez</h5><p>Estro mais curto e menos intenso (mais difícil de detectar), menor qualidade do oócito e do folículo, queda da progesterona, maior <strong>mortalidade embrionária precoce</strong>. O folículo que ovula foi “recrutado” semanas antes, por isso a fertilidade demora 40 a 60 dias para se recuperar após o calor.</p></div>
+      <div class="card"><span class="role">Saúde</span><h5>Mais doenças</h5><p>Imunidade reduzida, mais mastite e problemas de casco; bezerros de vacas estressadas no fim da gestação nascem menores e com pior imunidade.</p></div>
+    </div>
+    <div class="note clin"><b>Manejo do calor</b><p><strong>Sombra</strong> (natural ou artificial, com área suficiente por vaca), <strong>aspersão + ventilação</strong> (molhar a pele e o pelo e depois ventilar, em ciclos, inclusive na sala de espera da ordenha), água fresca abundante e de fácil acesso, alimentação nas horas mais frescas, dietas mais densas em energia e com menos fibra de baixa qualidade, tamponantes, potássio e sódio extras, e escolha genética (cruzamentos com zebuínos, como o Girolando). Para a reprodução, IATF (dispensa a detecção de cio) e transferência de embriões (o embrião de 7 dias já passou pela fase mais sensível ao calor).</p></div>
+    <h4>Hipotermia anestésica e neonatal</h4>
+    <p>Durante a anestesia, os fármacos deprimem o hipotálamo e o tremor, causam vasodilatação (acepromazina, anestésicos inalatórios) e o paciente perde calor pela tricotomia, pela antissepsia com líquidos, por cavidades abertas, por fluidos frios e pelo ar seco do circuito. Pacientes pequenos (gatos, filhotes, aves, répteis) esfriam muito rápido. A hipotermia retarda o metabolismo dos anestésicos e a recuperação, causa bradicardia, arritmias, coagulopatia e maior infecção da ferida; ao acordar, o tremor multiplica o consumo de O<sub>2</sub>. Previnem-se com colchões de ar ou água aquecidos, fluidos aquecidos, isolamento das extremidades e redução do tempo cirúrgico. Neonatos, animais caquéticos e animais molhados após o banho são igualmente vulneráveis.</p>
+
+    <div class="quiz" data-quiz="ztn"></div>
+  </div>
+</section>

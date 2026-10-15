@@ -1,0 +1,54 @@
+<section class="chapter" id="lipoproteinas">
+  <div class="ch-head">
+    <div class="ch-num">11</div>
+    <div><span class="eyebrow">Unidade III · Metabolismo dos lipídios · 03.04 Transporte de lipídios no sangue</span><h2>Transporte de lipídios no sangue</h2></div>
+    <div class="ch-meta"><button class="done-btn" data-done="lipoproteinas" aria-pressed="false">Marcar como estudado</button><span class="chip">~30 min</span></div>
+  </div>
+  <div class="col">
+    <p class="oneliner">PENDENTE</p>
+    <div class="goals rv"><h4>Objetivos</h4><ul>
+      <li>PENDENTE</li></ul></div>
+
+    <h3><span class="tag">11.1</span>Lipoproteínas: como a gordura viaja no sangue</h3>
+    <p>Plasma é água. TAG e ésteres de colesterol só circulam dentro de <strong>lipoproteínas</strong>: partículas esféricas com um <strong>núcleo apolar</strong> (TAG e ésteres de colesterol) e uma <strong>casca anfipática</strong> de fosfolipídios, colesterol livre e <strong>apolipoproteínas</strong>. Quanto mais lipídio, maior e mais leve a partícula; quanto mais proteína, menor e mais densa. É exatamente assim que elas foram classificadas: pela <strong>densidade</strong> na ultracentrifugação.</p>
+    <div class="figrow">
+      <figure class="fig"><img src="img/li-lipoproteina.webp" loading="lazy" alt="Partícula de lipoproteína em corte, com núcleo de triacilglicerol e éster de colesterol e superfície de fosfolipídios, colesterol livre e apoproteína"><figcaption><b>Anatomia de uma lipoproteína.</b> Núcleo apolar (TAG e ésteres de colesterol) e superfície polar (fosfolipídios, colesterol livre e apoproteínas), que deixa a partícula “solúvel” no plasma.</figcaption></figure>
+    </div>
+    <div class="tbl min"><table>
+      <thead><tr><th>Classe</th><th>Densidade (g/mL)</th><th>Diâmetro</th><th>Lipídio principal</th><th>Apos principais</th><th>Origem → função</th></tr></thead>
+      <tbody>
+        <tr><td><b>Quilomícron</b></td><td>&lt; 0,95</td><td>75–1.200 nm</td><td>TAG da dieta (~85%)</td><td>B-48, C-II, E</td><td>Intestino → leva gordura da dieta a músculo, tecido adiposo e glândula mamária</td></tr>
+        <tr><td><b>VLDL</b></td><td>0,95–1,006</td><td>30–80 nm</td><td>TAG endógeno (~55%)</td><td>B-100, C-II, E</td><td>Fígado → exporta TAG fabricado ou reciclado no fígado</td></tr>
+        <tr><td><b>IDL</b></td><td>1,006–1,019</td><td>25–35 nm</td><td>TAG e colesterol</td><td>B-100, E</td><td>Restos de VLDL → captada pelo fígado ou convertida em LDL</td></tr>
+        <tr><td><b>LDL</b></td><td>1,019–1,063</td><td>18–25 nm</td><td>Ésteres de colesterol</td><td>B-100</td><td>Entrega colesterol aos tecidos pelo receptor de LDL</td></tr>
+        <tr><td><b>HDL</b></td><td>1,063–1,21</td><td>5–12 nm</td><td>Proteína (~50%) e fosfolipídio</td><td>A-I, C, E</td><td>Fígado e intestino → recolhe colesterol dos tecidos (transporte reverso)</td></tr>
+      </tbody></table></div>
+
+    <section class="labbox rv" aria-labelledby="lpdTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="lpdTitle">Ultracentrífuga: densidade × composição das lipoproteínas</h4></div></header>
+      <div class="ctrl" id="lpdBtns" role="group" aria-label="Escolha a lipoproteína">
+        <button class="tbtn" type="button" data-k="qm" aria-pressed="true">Quilomícron</button>
+        <button class="tbtn" type="button" data-k="vldl" aria-pressed="false">VLDL</button>
+        <button class="tbtn" type="button" data-k="idl" aria-pressed="false">IDL</button>
+        <button class="tbtn" type="button" data-k="ldl" aria-pressed="false">LDL</button>
+        <button class="tbtn" type="button" data-k="hdl" aria-pressed="false">HDL</button>
+      </div>
+      <div class="svgwrap"><svg id="lpdSvg" viewBox="0 0 600 300" role="img" aria-label="Tubo de ultracentrifugação com as faixas de lipoproteínas, a partícula escolhida em escala e barras de composição"></svg></div>
+      <div class="readout" id="lpdOut" aria-live="polite"></div>
+    </section>
+
+    <h4>As três rotas do transporte</h4>
+    <figure class="fig"><img src="img/li-transporte.webp" loading="lazy" alt="Esquema do metabolismo das lipoproteínas: quilomícrons do intestino, lipase lipoproteica liberando ácidos graxos para músculo e tecido adiposo, VLDL do fígado convertida em IDL e LDL, e HDL levando colesterol de volta ao fígado"><figcaption><b>Visão geral.</b> Quilomícrons (gordura da dieta) e VLDL (gordura do fígado) perdem TAG pela <b>lipoproteína-lipase (1)</b> nos capilares; LDL entrega colesterol por endocitose mediada por receptor; HDL recolhe o colesterol dos tecidos com a ajuda da <b>LCAT (2)</b>.</figcaption></figure>
+    <div class="cards">
+      <div class="card"><span class="role">Via exógena</span><h5>Quilomícron → remanescente</h5><p>No sangue, o quilomícron recebe apo C-II e apo E da HDL. A apo C-II ativa a <b>lipase lipoproteica (LPL)</b>, presa ao endotélio dos capilares de músculo, coração, tecido adiposo e mama. A LPL libera ácidos graxos, que entram nas células. O quilomícron encolhe e vira <b>remanescente</b>, rico em colesterol, captado pelo fígado via apo E.</p></div>
+      <div class="card"><span class="role">Via endógena</span><h5>VLDL → IDL → LDL</h5><p>O fígado empacota TAG e colesterol com apo B-100 em <b>VLDL</b>. A LPL retira TAG e a partícula vira <b>IDL</b>; parte volta ao fígado, parte perde mais TAG (lipase hepática) e vira <b>LDL</b>, rica em colesterol, que entra nas células pelo <b>receptor de LDL</b> (reconhece apo B-100).</p></div>
+      <div class="card"><span class="role">Transporte reverso</span><h5>HDL</h5><p>A HDL nasce “vazia” (discoidal) no fígado e no intestino, recolhe colesterol das membranas, e a <b>LCAT</b> (ativada pela apo A-I) o esterifica e o empurra para o núcleo: a HDL amadurece e fica esférica. O colesterol volta ao fígado e sai como sais biliares.</p></div>
+    </div>
+    <figure class="fig"><img src="img/li-hdl.webp" loading="lazy" alt="Ciclo da HDL: síntese no fígado e intestino, HDL nascente recebe colesterol dos tecidos, HDL madura devolve colesterol ao fígado ou o transfere a VLDL e LDL, e o fígado transforma colesterol em sais biliares"><figcaption><b>Metabolismo da HDL.</b> (1) HDL nascente, (2) captação de colesterol dos tecidos, (3) transferência para VLDL/LDL, que em humanos ocorre pela CETP, e (4) retorno ao fígado, que excreta o excesso como sais biliares.</figcaption></figure>
+    <div class="note mem"><b>Regulação da lipase lipoproteica</b><p>A <b>insulina</b> aumenta a LPL do <b>tecido adiposo</b> (após a refeição, a gordura vai para o estoque). No jejum, a LPL do adiposo cai e a do <b>músculo e coração</b> se mantém (a gordura vai para quem precisa queimar). Na <b>lactação</b>, a LPL da <b>glândula mamária</b> dispara e a do adiposo cai: a vaca desvia os ácidos graxos da dieta para a gordura do leite. A <b>heparina</b> solta a LPL do endotélio e “clareia” um plasma lipêmico.</p></div>
+    <div class="note deep"><b>Cães, gatos, equinos e bovinos são “animais HDL”</b><p>Em humanos e coelhos, a maior parte do colesterol plasmático está na <b>LDL</b>, em boa parte porque a <b>CETP</b> (proteína de transferência de ésteres de colesterol) passa colesterol da HDL para as partículas com apo B. Cães, gatos, equinos e ruminantes têm <b>CETP ausente ou muito baixa</b>: o colesterol fica principalmente na <b>HDL</b>. Por isso esses animais são muito resistentes à aterosclerose; no cão, ela só aparece com hipercolesterolemia intensa e prolongada (hipotireoidismo, diabetes). E por isso o perfil “colesterol LDL alto = risco cardiovascular” da medicina humana não se aplica diretamente a eles. O suíno, um “animal LDL”, é bom modelo experimental de aterosclerose.</p></div>
+    <div class="note clin"><b>Ruminantes, aves e o leite</b><p>O <b>fígado bovino exporta VLDL muito devagar</b> (produz pouca apo B-100): quando recebe muitos ácidos graxos, acumula TAG. É a base da <b>lipidose hepática</b> da vaca no pós-parto (cap. 8). Na <b>galinha poedeira</b>, o estrógeno faz o fígado produzir uma VLDL especial que leva lipídio ao ovário para formar a <b>gema</b>. Na <b>vaca em lactação</b>, cerca de metade dos ácidos graxos do leite vem do sangue (todo o C18 e parte do C16, via LPL mamária) e a outra metade é sintetizada na própria glândula (C4 a C14 e parte do C16) a partir de acetato e β-hidroxibutirato.</p></div>
+
+    <div class="quiz" data-quiz="lipoproteinas"></div>
+  </div>
+</section>
