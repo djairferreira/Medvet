@@ -1,0 +1,52 @@
+[
+ [
+  "anaerobico",
+  "Por que fazer lactato?",
+  "Para regenerar o NAD⁺ que a GAPDH consome quando falta O₂"
+ ],
+ [
+  "anaerobico",
+  "Ciclo de Cori",
+  "Lactato do músculo → fígado → glicose (gasta 6 ATP) → volta ao músculo"
+ ],
+ [
+  "anaerobico",
+  "Acidose lática ruminal",
+  "Excesso de grão → S. bovis e lactobacilos → lactato, pH < 5, desidratação, ruminite, laminite, abscesso hepático"
+ ],
+ [
+  "anaerobico",
+  "Produtos da via das pentoses",
+  "NADPH (glutationa, síntese de lipídios) e ribose-5-fosfato (nucleotídeos)"
+ ],
+ [
+  "anaerobico",
+  "Paracetamol no gato",
+  "Pouca glicuronidação → NAPQI esgota GSH → metemoglobinemia e Heinz; antídoto N-acetilcisteína"
+ ],
+ [
+  "anaerobico",
+  "Aeróbico × anaeróbico: destino do piruvato?",
+  "Com O₂: acetil-CoA → Krebs (≈30-32 ATP). Sem O₂: lactato pela LDH, só para regenerar NAD⁺ (2 ATP)."
+ ],
+ [
+  "anaerobico",
+  "Três sistemas de ATP no músculo em esforço?",
+  "Fosfocreatina (segundos), glicólise anaeróbica até lactato (até ~2 min) e oxidativo (minutos a horas)."
+ ],
+ [
+  "anaerobico",
+  "Carne PSE × DFD?",
+  "PSE: queda rápida do pH com a carcaça quente (suíno halotano-positivo). DFD: pouco glicogênio no abate, pH final alto."
+ ],
+ [
+  "anaerobico",
+  "Lactato alto no paciente crítico indica?",
+  "Hipóxia/má perfusão tecidual (choque, DVG, anemia grave); acompanhar em série."
+ ],
+ [
+  "anaerobico",
+  "Desvio de Rapoport-Luebering?",
+  "1,3-BPG → 2,3-BPG na hemácia; reduz a afinidade da hemoglobina pelo O₂ e facilita a entrega aos tecidos."
+ ]
+]

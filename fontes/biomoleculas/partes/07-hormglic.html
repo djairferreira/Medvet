@@ -2,15 +2,21 @@
   <div class="ch-head">
     <div class="ch-num">07</div>
     <div><span class="eyebrow">Unidade II · Metabolismo dos carboidratos · 02.05 Hormônios que influenciam o metabolismo dos carboidratos</span><h2>Hormônios que influenciam o metabolismo dos carboidratos</h2></div>
-    <div class="ch-meta"><button class="done-btn" data-done="hormglic" aria-pressed="false">Marcar como estudado</button><span class="chip">~30 min</span></div>
+    <div class="ch-meta"><button class="done-btn" data-done="hormglic" aria-pressed="false">Marcar como estudado</button><span class="chip">~60 min</span></div>
   </div>
   <div class="col">
-    <p class="oneliner">PENDENTE</p>
+    <p class="oneliner">A glicemia é mantida por um único hormônio que a baixa, a insulina, contra vários que a elevam: glucagon, adrenalina, cortisol, GH e, de forma permissiva, os hormônios tireoidianos. Cada um age por um receptor e uma via de sinalização próprios, em tecidos diferentes e em escalas de tempo diferentes; no ruminante o mesmo sistema é recalibrado para uma vida com pouca glicose absorvida.</p>
     <div class="goals rv"><h4>Objetivos</h4><ul>
-      <li>PENDENTE</li></ul></div>
+      <li>Descrever a secreção de insulina pela célula β, o receptor tirosina-cinase, a via PI3K/Akt e os efeitos da insulina no fígado, no músculo e no tecido adiposo.</li>
+      <li>Explicar a ação do glucagon (AMPc/PKA, frutose-2,6-bisfosfato) e a importância da razão insulina:glucagon.</li>
+      <li>Comparar os efeitos de adrenalina, cortisol, GH/IGF-1 e hormônios tireoidianos sobre a glicemia, com suas escalas de tempo e mecanismos.</li>
+      <li>Explicar como o ruminante regula a glicemia de outra forma: glicemia baixa, propionato e butirato como secretagogos, gliconeogênese contínua e a homeorrese da lactação.</li>
+      <li>Interpretar glicemias de referência por espécie e reconhecer os distúrbios principais: diabetes em cães e gatos, síndrome metabólica equina e hipoglicemias.</li></ul></div>
 
-    <h3><span class="tag">7.1</span>Os hormônios da glicemia</h3>
-    <p>A glicemia é mantida por um sistema de “acelerador e freio”: um único hormônio <b>hipoglicemiante</b>, a <strong>insulina</strong>, contra vários <b>hiperglicemiantes</b> (contrarreguladores): <strong>glucagon, adrenalina, cortisol, GH</strong> e, de forma permissiva, os <strong>hormônios tireoidianos</strong>. As ilhotas pancreáticas medem a glicose diretamente: na célula β, a glicose entra pelo GLUT2, é fosforilada pela glicocinase, gera ATP, fecha canais de K⁺ dependentes de ATP, despolariza a célula e abre canais de Ca²⁺, que disparam a exocitose da insulina.</p>
+    <p>O cap. 6 mostrou as <b>vias</b> que guardam e fabricam glicose e as enzimas-chave que elas têm (glicogênio sintase, fosforilase, piruvato carboxilase, PEPCK, frutose-1,6-bisfosfatase, glicose-6-fosfatase). Agora a pergunta é <b>quem liga e desliga</b> essas vias. A resposta está nos hormônios, cada um com um receptor, um segundo mensageiro e uma escala de tempo próprios: segundos (adrenalina), minutos (insulina e glucagon), horas a dias (cortisol, GH, tireoide).</p>
+
+    <h3><span class="tag">7.1</span>Os hormônios da glicemia: visão geral</h3>
+    <p>A glicemia é mantida por um sistema de “acelerador e freio”: um único hormônio <b>hipoglicemiante</b>, a <strong>insulina</strong>, contra vários <b>hiperglicemiantes</b> (contrarreguladores): <strong>glucagon, adrenalina, cortisol, GH</strong> e, de forma permissiva, os <strong>hormônios tireoidianos</strong>. As seções 7.2 a 7.6 detalham cada um; a tabela abaixo é o mapa geral.</p>
     <figure class="fig"><img src="img/gg-controle-hormonal.webp" loading="lazy" alt="Pâncreas libera insulina quando há muito açúcar no sangue e glucagon quando há pouco; o glucagon estimula a quebra do glicogênio hepático e a insulina estimula a formação de glicogênio e o consumo de glicose pelos tecidos"><figcaption><b>Alça de controle.</b> Glicemia alta → insulina → fígado guarda glicogênio e os tecidos captam glicose. Glicemia baixa → glucagon → fígado quebra glicogênio (e faz gliconeogênese).</figcaption></figure>
     <div class="tbl min"><table>
       <thead><tr><th>Hormônio</th><th>Origem / estímulo</th><th>Fígado</th><th>Músculo</th><th>Tecido adiposo</th></tr></thead>
@@ -32,7 +38,116 @@
       <div class="readout" id="ggsOut" aria-live="polite"></div>
     </section>
 
-    <h3><span class="tag">7.2</span>Glicemia normal: cada espécie tem a sua</h3>
+    <h3><span class="tag">7.2</span>Insulina: o hormônio da abundância</h3>
+    <h4>Síntese</h4>
+    <p>A insulina é um peptídeo produzido pelas <b>células β</b> das ilhotas de Langerhans (60 a 80% das células da ilhota). O gene codifica a <b>pré-pró-insulina</b>; no retículo endoplasmático ela perde o peptídeo-sinal e forma a <b>pró-insulina</b>, que se dobra e forma três pontes dissulfeto. Nos grânulos de secreção, enzimas (pró-hormônio convertases) retiram o <b>peptídeo C</b>, deixando duas cadeias, A (21 aminoácidos) e B (30), unidas por pontes S–S. Insulina e peptídeo C são liberados em quantidades iguais; como o peptídeo C não é removido pelo fígado, ele serve para medir a secreção endógena.</p>
+    <h4>Secreção: a célula β mede a glicose</h4>
+    <ol class="steps">
+      <li><b>Entrada</b><span>A glicose entra pelo <b>GLUT2</b> (GLUT1 em parte das espécies), na proporção da glicemia.</span></li>
+      <li><b>Sensor</b><span>A <b>glicocinase</b>, de baixa afinidade, fosforila a glicose de acordo com a concentração: é o “glicostato” da célula β.</span></li>
+      <li><b>ATP sobe</b><span>Glicólise e mitocôndria aumentam a razão ATP/ADP.</span></li>
+      <li><b>Canal K<sub>ATP</sub> fecha</b><span>O ATP fecha o canal de K⁺ sensível a ATP (alvo das <b>sulfonilureias</b>, como a glipizida, usada em alguns gatos; o <b>diazóxido</b>, usado no insulinoma canino, faz o contrário e o mantém aberto).</span></li>
+      <li><b>Despolarização e Ca²⁺</b><span>A membrana despolariza, canais de Ca²⁺ dependentes de voltagem abrem e o Ca²⁺ dispara a <b>exocitose</b> dos grânulos.</span></li>
+    </ol>
+    <p>A secreção é <b>bifásica</b>: um pico rápido (grânulos já prontos junto à membrana) nos primeiros minutos e uma segunda fase sustentada enquanto a glicemia continuar alta. A perda da primeira fase é um dos primeiros sinais de falha da célula β no gato diabético.</p>
+    <div class="cards">
+      <div class="card"><span class="role">Estimulam</span><h5>Glicose, aminoácidos, incretinas, vago</h5><p>Aminoácidos (arginina, leucina), <b>incretinas</b> intestinais (GLP-1 e GIP: a mesma glicose dada por via oral libera mais insulina do que por via venosa) e acetilcolina vagal na fase cefálica da refeição. Nos ruminantes, <b>propionato e butirato</b> (seção 7.6).</p></div>
+      <div class="card"><span class="role">Inibem</span><h5>Adrenalina, somatostatina, jejum</h5><p>Catecolaminas via receptor <b>α₂</b> da célula β (o mesmo receptor dos sedativos xilazina e dexmedetomidina), somatostatina das células δ, hipoglicemia, hipocalemia.</p></div>
+    </div>
+    <h4>Ação: receptor tirosina-cinase</h4>
+    <p>O receptor de insulina é um dímero (α₂β₂) com atividade <b>tirosina-cinase</b>. Ao ligar a insulina, ele se autofosforila e fosforila os <b>substratos do receptor de insulina (IRS)</b>. Daí partem duas vias:</p>
+    <div class="flow">
+      <div class="lane up"><h5>Via PI3K → Akt (metabólica)</h5><ol>
+        <li>Leva as vesículas de <b>GLUT4</b> à membrana no músculo e no adipócito.</li>
+        <li>Inibe a GSK-3 e ativa a fosfatase PP1: <b>glicogênio sintase ativa</b>, fosforilase inativa (cap. 6).</li>
+        <li>Ativa a <b>fosfodiesterase 3B</b>: derruba o AMPc e anula o efeito do glucagon e da adrenalina (inclusive a lipólise).</li>
+        <li>No fígado, reprime a transcrição de PEPCK e glicose-6-fosfatase e induz glicocinase e enzimas lipogênicas.</li></ol></div>
+      <div class="lane down"><h5>Via MAPK (crescimento)</h5><ol>
+        <li>Estimula síntese proteica e proliferação celular.</li>
+        <li>Explica o efeito anabólico da insulina no crescimento do animal jovem.</li>
+        <li>Na hiperinsulinemia crônica, contribui para lesões como a da lâmina do casco equino.</li></ol></div>
+    </div>
+    <p>A insulina dura poucos minutos no sangue (meia-vida de ~5 a 6 min): cerca de metade é removida na primeira passagem pelo fígado, que recebe a insulina diretamente pela veia porta. Por isso o fígado “vê” uma concentração muito maior do que o resto do corpo.</p>
+    <div class="note deep"><b>Insulinas de uma espécie na outra</b><p>A insulina é muito conservada. A <b>canina é idêntica à suína</b>, por isso a insulina lenta de origem suína é a base do tratamento do cão. A <b>felina difere da bovina em um só aminoácido</b>; hoje os gatos são tratados principalmente com análogos de ação longa (glargina, detemir) ou insulina PZI. Anticorpos contra insulina de outra espécie são possíveis, mas raramente causam resistência clínica.</p></div>
+    <div class="note clin"><b>Na clínica: insulina e potássio</b><p>A insulina estimula a Na⁺/K⁺-ATPase (cap. 1) e leva K⁺ para dentro das células. Por isso a terapia da cetoacidose diabética exige reposição de K⁺, e insulina com glicose é usada na emergência da <b>hipercalemia</b> (obstrução uretral do gato, hipoadrenocorticismo) para baixar o K⁺ plasmático em minutos.</p></div>
+
+    <h3><span class="tag">7.3</span>Glucagon e a razão insulina:glucagon</h3>
+    <p>O <b>glucagon</b> (29 aminoácidos) é produzido pelas <b>células α</b> das ilhotas a partir do pró-glucagon (no intestino, o mesmo precursor gera o GLP-1). É secretado quando a glicemia cai, quando aminoácidos sobem no sangue e por estímulo adrenérgico β; é inibido pela glicose, pela insulina (efeito parácrino dentro da ilhota) e pela somatostatina.</p>
+    <p>Seu alvo principal é o <b>fígado</b> (o músculo quase não tem receptores). O receptor é acoplado à proteína G<sub>s</sub>: adenilato ciclase → <b>AMPc → proteína cinase A (PKA)</b>. A PKA fosforila, em minutos:</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Alvo fosforilado pela PKA</th><th>Resultado</th></tr></thead>
+      <tbody>
+        <tr><td>Fosforilase cinase / glicogênio sintase</td><td>Glicogenólise ligada, glicogênese desligada (cap. 6)</td></tr>
+        <tr><td>Enzima bifuncional PFK-2/FBPase-2</td><td><b>Frutose-2,6-bisfosfato cai</b>: PFK-1 freada, frutose-1,6-bisfosfatase liberada → gliconeogênese</td></tr>
+        <tr><td>Piruvato quinase hepática (forma L)</td><td>Inativada: o PEP não volta a piruvato e segue para a glicose</td></tr>
+        <tr><td>Fator de transcrição CREB (horas)</td><td>Mais PEPCK e glicose-6-fosfatase sintetizadas</td></tr>
+        <tr><td>Acetil-CoA carboxilase</td><td>Inativada: lipogênese parada, ácidos graxos entram na mitocôndria → β-oxidação e <b>cetogênese</b> (cap. 9 e 10)</td></tr>
+      </tbody></table></div>
+    <p>Insulina e glucagon raramente agem sozinhos: o fígado responde à <b>razão insulina:glucagon</b> que chega pela veia porta. Depois de uma refeição de carboidrato, a razão é alta (guardar). No jejum, é baixa (produzir glicose e corpos cetônicos). Numa refeição <b>só de proteína</b>, os aminoácidos estimulam os dois: a insulina promove a síntese proteica e o glucagon impede que a insulina provoque hipoglicemia, já que não entrou glicose. Esse arranjo é especialmente importante no <b>gato</b>, cuja dieta natural é quase só proteína.</p>
+    <div class="note mem"><b>Memorize</b><p>Glucagon = <b>fígado</b> + <b>AMPc/PKA</b> + <b>frutose-2,6-bisfosfato baixa</b>. Ele liga glicogenólise, gliconeogênese e cetogênese. Não age no músculo: quem quebra o glicogênio muscular é a adrenalina (e o Ca²⁺ da contração).</p></div>
+    <div class="note clin"><b>Na clínica: glucagonoma e dermatite necrolítica superficial</b><p>No cão, tumores de células α (raros) ou, muito mais comum, doença hepática crônica grave levam a aminoácidos plasmáticos muito baixos (o glucagon e o fígado doente consomem aminoácidos na gliconeogênese). Resultado: <b>dermatite necrolítica superficial</b> (síndrome hepatocutânea), com crostas nos coxins, focinho e junções mucocutâneas, frequentemente com diabetes associado. A infusão de aminoácidos melhora as lesões de pele.</p></div>
+
+    <h3><span class="tag">7.4</span>Adrenalina e cortisol: os hormônios do estresse</h3>
+    <div class="flow">
+      <div class="lane up"><h5>Adrenalina (segundos a minutos)</h5><ol>
+        <li>Medula adrenal; estímulo: medo, dor, exercício, hipoglicemia.</li>
+        <li><b>Fígado:</b> receptores β₂ (AMPc) e α₁ (Ca²⁺/IP₃) → glicogenólise e gliconeogênese.</li>
+        <li><b>Músculo:</b> β₂ → AMPc → glicogenólise para uso local; o lactato produzido volta ao fígado (ciclo de Cori).</li>
+        <li><b>Ilhota:</b> α₂ inibe a insulina; β estimula o glucagon.</li>
+        <li><b>Adipócito:</b> β → lipase sensível a hormônio → ácidos graxos e glicerol.</li></ol></div>
+      <div class="lane down"><h5>Cortisol (horas a dias)</h5><ol>
+        <li>Córtex adrenal (zona fasciculada), sob ACTH; estímulo: estresse prolongado, jejum.</li>
+        <li>Receptor <b>nuclear</b>: muda a transcrição de genes.</li>
+        <li><b>Fígado:</b> ↑ PEPCK e glicose-6-fosfatase; aumenta o glicogênio hepático (guarda a glicose produzida).</li>
+        <li><b>Músculo:</b> proteólise → aminoácidos para a gliconeogênese; ↓ translocação do GLUT4.</li>
+        <li><b>Permissivo:</b> sem cortisol, glucagon e adrenalina perdem boa parte do efeito. Gera <b>resistência à insulina</b>.</li></ol></div>
+    </div>
+    <div class="note clin"><b>Na clínica: sedativos α₂-agonistas e hiperglicemia</b><p>Xilazina, detomidina e dexmedetomidina ativam o receptor α₂ da célula β, a insulina cai e a glicemia sobe de forma transitória. Em <b>bovinos</b>, <b>equinos</b> e gatos, a hiperglicemia pode passar o limiar renal e causar <b>glicosúria e poliúria</b> nas horas seguintes à sedação. Não confundir com diabetes: colher glicemia e urina antes de sedar, ou repetir depois.</p></div>
+    <div class="note clin"><b>Na clínica: corticoides</b><p>O <b>hiperadrenocorticismo</b> (síndrome de Cushing) do cão causa resistência à insulina, e cerca de 10% dos cães com Cushing ficam diabéticos. Em <b>vacas com cetose</b>, uma dose de dexametasona é usada justamente pelo efeito hiperglicemiante (gliconeogênese a partir de aminoácidos) e por reduzir a produção de leite por um ou dois dias. No outro extremo, o <b>hipoadrenocorticismo</b> (doença de Addison) pode causar hipoglicemia, junto com hiponatremia e hipercalemia.</p></div>
+    <div class="note trap"><b>Pegadinha</b><p>O cortisol <b>aumenta</b> o glicogênio do fígado, apesar de ser hiperglicemiante. Não há contradição: ele estimula muito a gliconeogênese, e parte da glicose fabricada é guardada no fígado como reserva para o próximo estresse. Quem quebra o glicogênio hepático são o glucagon e a adrenalina.</p></div>
+
+    <h3><span class="tag">7.5</span>GH, IGF-1 e hormônios tireoidianos</h3>
+    <h4>Hormônio do crescimento (GH, somatotropina)</h4>
+    <p>Liberado pela adeno-hipófise em pulsos (sono, jejum, exercício, hipoglicemia), sob controle do GHRH (estimula) e da somatostatina (inibe). O GH tem dois braços:</p>
+    <div class="cards">
+      <div class="card"><span class="role">Efeito direto</span><h5>Diabetogênico</h5><p>Reduz a captação de glicose pelo músculo e pelo adipócito (resistência à insulina pós-receptor), estimula a lipólise e a gliconeogênese. Poupa glicose e desvia o metabolismo para gordura.</p></div>
+      <div class="card"><span class="role">Efeito indireto</span><h5>IGF-1 (somatomedina)</h5><p>Produzido pelo fígado sob estímulo do GH, promove crescimento de osso, músculo e órgãos, com ação parecida com a da insulina. Só é produzido em boa quantidade quando há <b>nutrição adequada</b> e insulina.</p></div>
+    </div>
+    <p>No jejum e na vaca no início da lactação, o GH sobe mas o IGF-1 cai: o fígado reduz seus receptores de GH (“desacoplamento” do eixo). Assim o GH continua mobilizando gordura e poupando glicose, mas sem gastar energia em crescimento. A <b>somatotropina bovina recombinante (bST)</b>, usada em rebanhos leiteiros em vários países (inclusive no Brasil), aproveita esse efeito: mais glicose e nutrientes vão para a glândula mamária.</p>
+    <div class="note clin"><b>Na clínica: GH em excesso</b><p><b>Acromegalia felina</b> (adenoma hipofisário secretor de GH): gato diabético que precisa de doses enormes de insulina, ganha peso apesar do diabetes, tem cabeça e patas largas, prognatismo. Diagnóstico por IGF-1 alto. Na <b>cadela</b>, a progesterona do diestro (ou de progestágenos) induz GH de origem <b>mamária</b>, com resistência à insulina e, às vezes, acromegalia leve; a castração costuma resolver.</p></div>
+    <h4>Hormônios tireoidianos (T4 e T3)</h4>
+    <p>Agem por receptores nucleares e aumentam a taxa metabólica de quase todas as células. Sobre a glicose: aumentam a <b>absorção intestinal</b>, a gliconeogênese e a glicogenólise hepáticas, a captação e o consumo periféricos e a degradação da insulina. O efeito sobre a glicemia é modesto, mas eles são <b>permissivos</b>: potencializam a ação da adrenalina (mais receptores β) e do glucagon.</p>
+    <div class="note clin"><b>Na clínica: tireoide e diabetes</b><p>O <b>gato hipertireóideo</b> (adenoma tireoidiano, doença endócrina mais comum do gato idoso) tem hiperglicemia leve e perde peso apesar de comer muito. Atenção: a <b>frutosamina</b> fica falsamente baixa no hipertireoidismo, porque as proteínas plasmáticas se renovam mais depressa, o que pode mascarar um diabetes concomitante. No <b>cão hipotireóideo</b>, há tendência a hiperlipidemia e o controle de um diabetes associado fica mais difícil.</p></div>
+    <div class="tbl"><table>
+      <thead><tr><th>Hormônio</th><th>Receptor / mensageiro</th><th>Início do efeito</th><th>Efeito líquido na glicemia</th></tr></thead>
+      <tbody>
+        <tr><td>Insulina</td><td>Tirosina-cinase → IRS → PI3K/Akt</td><td>Minutos</td><td>↓</td></tr>
+        <tr><td>Glucagon</td><td>G<sub>s</sub> → AMPc → PKA</td><td>Minutos</td><td>↑ (fígado)</td></tr>
+        <tr><td>Adrenalina</td><td>β (AMPc) e α₁ (Ca²⁺); α₂ na célula β</td><td>Segundos</td><td>↑ rápido</td></tr>
+        <tr><td>Cortisol</td><td>Nuclear</td><td>Horas</td><td>↑ sustentado</td></tr>
+        <tr><td>GH</td><td>JAK-STAT; IGF-1 pelo fígado</td><td>Horas</td><td>↑ (antagoniza a insulina)</td></tr>
+        <tr><td>T3/T4</td><td>Nuclear</td><td>Dias</td><td>↑ leve, permissivo</td></tr>
+      </tbody></table></div>
+
+    <h3><span class="tag">7.6</span>O ruminante: outra lógica hormonal</h3>
+    <p>Quase todo o amido da dieta do ruminante é fermentado no rúmen (cap. 3), e pouca glicose chega ao intestino. O sistema hormonal foi recalibrado para essa realidade:</p>
+    <div class="tbl min"><table>
+      <thead><tr><th>Aspecto</th><th>Monogástrico (cão, suíno)</th><th>Ruminante adulto</th></tr></thead>
+      <tbody>
+        <tr><td>Glicemia</td><td>~70 a 120 mg/dL</td><td><b>~45 a 75 mg/dL</b></td></tr>
+        <tr><td>Fígado após a refeição</td><td>Capta glicose (glicocinase) e faz glicogênio e gordura</td><td><b>Continua produzindo glicose</b>; glicocinase hepática quase ausente; gliconeogênese a partir de propionato nunca desliga</td></tr>
+        <tr><td>Principal secretagogo de insulina</td><td>Glicose</td><td><b>Propionato e butirato</b> (e aminoácidos); a glicose é um estímulo mais fraco</td></tr>
+        <tr><td>Precursor da gordura</td><td>Glicose (via acetil-CoA citosólico)</td><td><b>Acetato</b>; a ATP-citrato liase do adipócito é baixa, a glicose é poupada (usada só para NADPH e glicerol)</td></tr>
+        <tr><td>Sensibilidade à insulina</td><td>Alta</td><td>Menor nos tecidos periféricos; a glândula mamária capta glicose por GLUT1, <b>sem insulina</b></td></tr>
+        <tr><td>Efeito do glucagon</td><td>Domina no jejum</td><td>Age de forma contínua, junto com o propionato, para manter a gliconeogênese</td></tr>
+      </tbody></table></div>
+    <h4>Homeorrese: a lactação manda</h4>
+    <p>No início da lactação, uma vaca leiteira precisa de 2 a 4 kg de glicose por dia só para a lactose. Para garantir isso, o organismo muda o “ponto de ajuste” (<b>homeorrese</b>, em oposição à homeostase): a insulina cai, os tecidos periféricos ficam resistentes a ela, o GH sobe (com IGF-1 baixo, seção 7.5) e a glândula mamária, que não depende de insulina, recebe a glicose disponível. O preço é a mobilização maciça de gordura: ácidos graxos livres altos, fígado gorduroso e <b>cetose</b> quando a gliconeogênese não acompanha (cap. 10). Na ovelha e na cabra com gestação gemelar, o útero faz o mesmo papel: a placenta capta glicose por GLUT1 e GLUT3, sem insulina, e a mãe pode desenvolver <b>toxemia da prenhez</b>.</p>
+    <div class="note clin"><b>Na produção: como dar mais glicose a uma vaca</b><p>Glicose venosa (dextrose a 50%) sobe a glicemia rapidamente, mas o efeito dura poucas horas e parte se perde na urina. Medidas duradouras aumentam a gliconeogênese: <b>propilenoglicol</b> oral (vira propionato/lactato no fígado), dietas com mais amido fermentável na medida certa e ionóforos como a <b>monensina</b>, que desviam a fermentação para mais propionato. A dexametasona (seção 7.4) e, em casos refratários, insulina de ação longa (para frear a lipólise) completam o arsenal contra a cetose.</p></div>
+    <div class="note trap"><b>Pegadinha</b><p>O bezerro lactente <b>não</b> segue a lógica do ruminante: o leite passa pela goteira esofágica, a lactose é absorvida como glicose e galactose, e a glicemia (~80 a 120 mg/dL) e a resposta à insulina são de monogástrico. A virada acontece com o desenvolvimento do rúmen, entre o desmame e os primeiros meses. Diabetes mellitus em bovinos é raríssimo (às vezes após infecção pelo vírus da diarreia viral bovina, que lesa as ilhotas).</p></div>
+    <div class="note deep"><b>E as aves?</b><p>As aves têm glicemia de 200 a 300 mg/dL ou mais, muito <b>glucagon</b> e pouca sensibilidade à insulina. Em aves granívoras, a retirada do pâncreas causa <b>hipoglicemia</b> (falta de glucagon), e não diabetes; o diabetes ocorre em psitacídeos e em aves carnívoras e costuma envolver excesso de glucagon.</p></div>
+
+    <h3><span class="tag">7.7</span>Glicemia normal: cada espécie tem a sua</h3>
     <div class="tbl"><table>
       <thead><tr><th>Espécie</th><th>Glicemia de referência aproximada (mg/dL)</th><th>Observação</th></tr></thead>
       <tbody>
@@ -47,7 +162,7 @@
     <p>Os valores variam entre laboratórios, métodos e glicosímetros (muitos glicosímetros humanos subestimam a glicemia de cães e gatos; existem aparelhos calibrados para uso veterinário). A amostra precisa ser processada rápido ou colhida em tubo com <b>fluoreto</b>: as hemácias continuam consumindo glicose no tubo e a glicemia cai cerca de 5 a 10% por hora.</p>
     <div class="note clin"><b>Na clínica: hiperglicemia de estresse no gato</b><p>O gato contido, assustado ou em dor libera catecolaminas e cortisol, e a glicemia pode subir a níveis de diabetes, às vezes com glicosúria leve. Para diferenciar: a <b>frutosamina</b> (proteínas séricas glicadas) reflete a glicemia média das últimas <b>1 a 3 semanas</b> e não sobe com o estresse agudo; repetir a glicemia em casa ou após adaptação; procurar glicosúria persistente na urina colhida em casa.</p></div>
 
-    <h3><span class="tag">7.3</span>Distúrbios da glicemia na clínica</h3>
+    <h3><span class="tag">7.8</span>Distúrbios da glicemia na clínica</h3>
     <h4>Diabetes mellitus em cães e gatos</h4>
     <div class="flow">
       <div class="lane up"><h5>Cão: parecido com o tipo 1</h5><ol>
@@ -70,7 +185,7 @@
       <div class="card"><span class="role">Outras causas</span><h5>Insulinoma, xilitol, sepse, overdose de insulina</h5><p>O <b>insulinoma</b> (tumor de células β) é comum em cães idosos e em <b>furões</b>. O <b>xilitol</b> (adoçante de gomas e doces) causa liberação maciça de insulina no cão, com hipoglicemia em minutos e, em doses maiores, necrose hepática. Erro de dose de insulina em diabético é causa frequente.</p></div>
     </div>
     <div class="note mem"><b>Memorize</b><p>Tríade de Whipple da hipoglicemia: sinais compatíveis (fraqueza, tremores, convulsão, alteração de comportamento) + glicemia baixa medida (em geral &lt; 60 mg/dL no cão) + melhora dos sinais com a administração de glicose.</p></div>
-    <div class="note deep"><b>Ponte para o cap. 8: cetose e toxemia da prenhez</b><p>Na vaca leiteira no início da lactação e na ovelha ou cabra com gestação gemelar no terço final, a demanda de glicose (lactose ou fetos) supera a capacidade da gliconeogênese. A insulina cai, a gordura é mobilizada em massa e o fígado, sem oxaloacetato sobrando, transforma o acetil-CoA em <b>corpos cetônicos</b>: hipoglicemia + cetonemia. O detalhamento (β-oxidação, cetogênese, fígado gorduroso e tratamento com precursores de glicose como propilenoglicol) está no cap. 8.</p></div>
+    <div class="note deep"><b>Ponte para o cap. 10: cetose e toxemia da prenhez</b><p>Na vaca leiteira no início da lactação e na ovelha ou cabra com gestação gemelar no terço final, a demanda de glicose (lactose ou fetos) supera a capacidade da gliconeogênese. A insulina cai, a gordura é mobilizada em massa e o fígado, sem oxaloacetato sobrando, transforma o acetil-CoA em <b>corpos cetônicos</b>: hipoglicemia + cetonemia. O detalhamento (β-oxidação, cetogênese, fígado gorduroso e tratamento com precursores de glicose como propilenoglicol) está no cap. 10.</p></div>
     <div class="note mem"><b>Resumo do capítulo</b><p>Comeu → <b>insulina</b> → glicogênese, lipogênese, captação por GLUT4. Jejum curto → <b>glucagon</b> → glicogenólise hepática (glicose-6-fosfatase só no fígado e no rim). Jejum longo → <b>gliconeogênese</b> a partir de lactato, alanina, glicerol e propionato, contornando três etapas (piruvato carboxilase + PEPCK, frutose-1,6-bisfosfatase, glicose-6-fosfatase). Estresse → adrenalina e cortisol elevam a glicemia. Ruminante tem glicemia baixa e gliconeogênese contínua; gato tem gliconeogênese sempre ligada e hiperglicemia de estresse.</p></div>
 
     <div class="quiz" data-quiz="hormglic"></div>

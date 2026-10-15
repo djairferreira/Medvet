@@ -1,0 +1,453 @@
+[
+ {
+  "c": "hormglic",
+  "q": "Qual hormônio é o único hipoglicemiante?",
+  "o": [
+   "Insulina",
+   "Glucagon",
+   "Cortisol",
+   "Hormônio do crescimento"
+  ],
+  "e": "Todos os outros listados são contrarreguladores."
+ },
+ {
+  "c": "hormglic",
+  "q": "Em quais tecidos a captação de glicose depende de insulina (GLUT4)?",
+  "o": [
+   "Músculo esquelético, coração e adiposo",
+   "Cérebro, hemácias, hepatócitos e fígado fetal",
+   "Rim, cristalino e célula β",
+   "Intestino, fígado e cérebro"
+  ],
+  "e": "Cérebro (GLUT1/3), hemácias (GLUT1) e fígado (GLUT2) independem de insulina."
+ },
+ {
+  "c": "hormglic",
+  "q": "O exercício aumenta a captação de glicose pelo músculo porque:",
+  "o": [
+   "A contração leva o GLUT4 à membrana sem insulina",
+   "Aumenta muito a secreção de insulina pelo pâncreas",
+   "Inibe a glicogenólise muscular",
+   "Aumenta o glucagon no músculo"
+  ],
+  "e": "Por isso a atividade física ajuda no controle do diabetes."
+ },
+ {
+  "c": "hormglic",
+  "q": "Por que a insulinoterapia da cetoacidose exige monitorar o potássio?",
+  "o": [
+   "A insulina leva K⁺ para dentro das células",
+   "A insulina aumenta a excreção renal de Na⁺",
+   "A insulina libera K⁺ do músculo",
+   "A insulina causa hipercalemia grave"
+  ],
+  "e": "Pode ocorrer hipocalemia grave durante o tratamento."
+ },
+ {
+  "c": "hormglic",
+  "q": "Cadela inteira diabetiza logo após o cio. O mecanismo provável é:",
+  "o": [
+   "Progesterona do diestro estimula GH mamário",
+   "Estrógeno do proestro destrói as células β",
+   "Prolactina inibe o glucagon",
+   "Ocitocina aumenta a gliconeogênese"
+  ],
+  "e": "O GH antagoniza a insulina; a castração pode levar à remissão."
+ },
+ {
+  "c": "hormglic",
+  "q": "Gato com glicemia de 280 mg/dL na consulta, frutosamina normal e sem sinais clínicos. A interpretação mais provável é:",
+  "o": [
+   "Hiperglicemia de estresse",
+   "Diabetes mellitus descompensado",
+   "Insulinoma",
+   "Hipotireoidismo"
+  ],
+  "e": "A frutosamina reflete 1 a 3 semanas e não sobe com estresse agudo."
+ },
+ {
+  "c": "hormglic",
+  "q": "O diabetes mellitus felino se parece com o tipo 2 humano porque envolve:",
+  "o": [
+   "Resistência à insulina e amiloide nas ilhotas",
+   "Destruição autoimune completa das células β",
+   "Ausência congênita de pâncreas endócrino",
+   "Excesso de glucagon sem alteração da insulina"
+  ],
+  "e": "Obesidade, sedentarismo e glicotoxicidade; remissão é possível."
+ },
+ {
+  "c": "hormglic",
+  "q": "A catarata diabética, muito comum em cães, resulta de:",
+  "o": [
+   "Acúmulo de sorbitol no cristalino",
+   "Depósito de cálcio na retina e no cristalino",
+   "Deficiência de vitamina A",
+   "Hipertensão intraocular"
+  ],
+  "e": "A aldose redutase converte glicose em sorbitol, que atrai água."
+ },
+ {
+  "c": "hormglic",
+  "q": "Qual dieta favorece a remissão do diabetes em gatos?",
+  "o": [
+   "Rica em proteína e pobre em carboidrato",
+   "Rica em amido e pobre em proteína",
+   "Rica em gordura e sem proteína",
+   "Rica em fibra e pobre em gordura apenas"
+  ],
+  "e": "Reduz a demanda sobre a célula β e o pico glicêmico."
+ },
+ {
+  "c": "hormglic",
+  "q": "Na síndrome metabólica equina, a laminite é causada principalmente por:",
+  "o": [
+   "Hiperinsulinemia",
+   "Hipoglicemia crônica",
+   "Excesso de glucagon",
+   "Deficiência de cortisol"
+  ],
+  "e": "A desregulação da insulina é o fator direto da laminite endocrinopática."
+ },
+ {
+  "c": "hormglic",
+  "q": "Teste usado para avaliar desregulação da insulina em cavalos:",
+  "o": [
+   "Teste do açúcar oral",
+   "Teste de supressão com dexametasona",
+   "Dosagem de frutosamina",
+   "Teste de tolerância ao lactato"
+  ],
+  "e": "Mede a insulina 60 a 90 min após xarope de milho oral."
+ },
+ {
+  "c": "hormglic",
+  "q": "Por que leitões neonatos têm alto risco de hipoglicemia?",
+  "o": [
+   "Pouco glicogênio e gliconeogênese imatura",
+   "Excesso de gordura parda",
+   "Produção excessiva de glucagon pelo pâncreas",
+   "Absorção intestinal de glicose acelerada"
+  ],
+  "e": "Sem mamada e com frio, a glicemia cai em horas."
+ },
+ {
+  "c": "hormglic",
+  "q": "Um cão ingeriu goma de mascar com xilitol. O risco imediato é:",
+  "o": [
+   "Hipoglicemia por liberação de insulina",
+   "Hiperglicemia por glicogenólise",
+   "Cetoacidose diabética",
+   "Intoxicação por cianeto liberado do adoçante"
+  ],
+  "e": "O xilitol estimula fortemente a secreção de insulina no cão."
+ },
+ {
+  "c": "hormglic",
+  "q": "O insulinoma é um tumor comum de células β em:",
+  "o": [
+   "Cães idosos e furões",
+   "Bovinos jovens",
+   "Equinos atletas de alto desempenho",
+   "Aves de postura"
+  ],
+  "e": "Causa hipoglicemia com insulina inapropriadamente alta."
+ },
+ {
+  "c": "hormglic",
+  "q": "O cortisol eleva a glicemia principalmente por:",
+  "o": [
+   "Induzir PEPCK e fornecer aminoácidos",
+   "Inibir a glicose-6-fosfatase",
+   "Estimular a secreção de insulina",
+   "Aumentar a captação de glicose pelo músculo"
+  ],
+  "e": "Aumenta gliconeogênese e causa resistência à insulina."
+ },
+ {
+  "c": "hormglic",
+  "q": "A adrenalina reduz a secreção de insulina por ação em receptores:",
+  "o": [
+   "α₂ adrenérgicos da célula β",
+   "β₁ cardíacos",
+   "Nicotínicos da medula adrenal",
+   "Muscarínicos do pâncreas"
+  ],
+  "e": "Assim a glicose liberada no estresse não é recaptada pelos tecidos."
+ },
+ {
+  "c": "hormglic",
+  "q": "Tubo com fluoreto é indicado para dosar glicose porque:",
+  "o": [
+   "Inibe a glicólise das células da amostra",
+   "Aumenta a glicose da amostra",
+   "Impede a coagulação por quelar o cálcio do sangue",
+   "Conserva a insulina da amostra"
+  ],
+  "e": "Sem ele, a glicemia cai cerca de 5 a 10% por hora."
+ },
+ {
+  "c": "hormglic",
+  "q": "Na vaca em início de lactação com cetose, o que falta no fígado para oxidar o acetil-CoA?",
+  "o": [
+   "Oxaloacetato",
+   "Glicogênio sintase",
+   "Insulina em excesso",
+   "Lactato"
+  ],
+  "e": "O oxaloacetato é desviado para a gliconeogênese; o acetil-CoA vira corpos cetônicos."
+ },
+ {
+  "c": "hormglic",
+  "q": "O peptídeo C é útil clinicamente porque:",
+  "o": [
+   "Indica a secreção endógena de insulina",
+   "É o hormônio mais hipoglicemiante",
+   "Ativa diretamente o GLUT4",
+   "Mede a glicemia média de 3 semanas"
+  ],
+  "e": "É liberado com a insulina e não é removido pelo fígado."
+ },
+ {
+  "c": "hormglic",
+  "q": "Na célula β, o aumento de ATP leva à liberação de insulina porque:",
+  "o": [
+   "Fecha canais de K⁺ sensíveis a ATP",
+   "Abre canais de K⁺ sensíveis a ATP",
+   "Inibe os canais de Ca²⁺",
+   "Hiperpolariza a membrana"
+  ],
+  "e": "A despolarização abre canais de Ca²⁺ e dispara a exocitose."
+ },
+ {
+  "c": "hormglic",
+  "q": "O diazóxido é usado no insulinoma canino porque:",
+  "o": [
+   "Mantém abertos os canais K-ATP",
+   "Destrói as células β",
+   "Bloqueia o receptor de glucagon",
+   "Aumenta a frutose-2,6-bisfosfato"
+  ],
+  "e": "Hiperpolariza a célula β e reduz a secreção de insulina."
+ },
+ {
+  "c": "hormglic",
+  "q": "O receptor de insulina pertence à classe dos receptores:",
+  "o": [
+   "Tirosina-cinase",
+   "Acoplados à proteína Gs",
+   "Nucleares de esteroides",
+   "Canais iônicos de ligante"
+  ],
+  "e": "Autofosforila e fosforila os IRS."
+ },
+ {
+  "c": "hormglic",
+  "q": "A via intracelular da insulina que leva o GLUT4 à membrana é a:",
+  "o": [
+   "PI3K → Akt",
+   "AMPc → PKA",
+   "IP3 → Ca²⁺",
+   "JAK → STAT"
+  ],
+  "e": "A via PI3K/Akt é a via metabólica da insulina."
+ },
+ {
+  "c": "hormglic",
+  "q": "A insulina antagoniza o glucagon dentro do hepatócito ao ativar:",
+  "o": [
+   "Fosfodiesterase 3B",
+   "Adenilato ciclase",
+   "Fosforilase cinase",
+   "Lipase sensível a hormônio"
+  ],
+  "e": "Reduz o AMPc e desliga a PKA."
+ },
+ {
+  "c": "hormglic",
+  "q": "O 'efeito incretina' significa que:",
+  "o": [
+   "Glicose oral libera mais insulina que a venosa",
+   "Glicose venosa libera mais insulina que a oral",
+   "O glucagon é liberado pelo intestino",
+   "A insulina é absorvida no intestino"
+  ],
+  "e": "GLP-1 e GIP potencializam a secreção de insulina."
+ },
+ {
+  "c": "hormglic",
+  "q": "A insulina suína é a escolha clássica para cães porque:",
+  "o": [
+   "É idêntica à insulina canina",
+   "Tem ação mais curta que a humana",
+   "Não gera hipoglicemia",
+   "É idêntica à felina"
+  ],
+  "e": "Canina e suína têm a mesma sequência."
+ },
+ {
+  "c": "hormglic",
+  "q": "O principal órgão-alvo do glucagon é:",
+  "o": [
+   "Fígado",
+   "Músculo esquelético",
+   "Cérebro",
+   "Hemácia"
+  ],
+  "e": "O músculo praticamente não tem receptores de glucagon."
+ },
+ {
+  "c": "hormglic",
+  "q": "O glucagon favorece a gliconeogênese hepática ao:",
+  "o": [
+   "Reduzir a frutose-2,6-bisfosfato",
+   "Ativar a piruvato quinase L",
+   "Ativar a acetil-CoA carboxilase",
+   "Estimular a glicocinase"
+  ],
+  "e": "F2,6BP baixa libera a frutose-1,6-bisfosfatase."
+ },
+ {
+  "c": "hormglic",
+  "q": "Após refeição só de proteína, o glucagon também sobe para:",
+  "o": [
+   "Evitar hipoglicemia induzida pela insulina",
+   "Estimular a lipogênese no tecido adiposo",
+   "Inibir a síntese de proteínas musculares",
+   "Aumentar o glicogênio do músculo esquelético"
+  ],
+  "e": "Aminoácidos estimulam insulina e glucagon simultaneamente."
+ },
+ {
+  "c": "hormglic",
+  "q": "No músculo, a adrenalina estimula a glicogenólise via receptor:",
+  "o": [
+   "β₂ e AMPc",
+   "α₂ e queda do AMPc",
+   "Nuclear de esteroide",
+   "Tirosina-cinase"
+  ],
+  "e": "β₂ → AMPc → PKA → fosforilase."
+ },
+ {
+  "c": "hormglic",
+  "q": "Vaca sedada com xilazina apresenta glicosúria horas depois. A causa é:",
+  "o": [
+   "Inibição α₂ da secreção de insulina",
+   "Diabetes mellitus tipo 1",
+   "Excesso de glucagon tumoral",
+   "Lesão renal tubular aguda"
+  ],
+  "e": "Hiperglicemia transitória pelo agonista α₂."
+ },
+ {
+  "c": "hormglic",
+  "q": "Paradoxalmente, o cortisol aumenta no fígado o conteúdo de:",
+  "o": [
+   "Glicogênio",
+   "Insulina",
+   "Lactato",
+   "Corpos cetônicos apenas"
+  ],
+  "e": "Parte da glicose produzida pela gliconeogênese é armazenada."
+ },
+ {
+  "c": "hormglic",
+  "q": "O efeito direto do GH sobre o metabolismo da glicose é:",
+  "o": [
+   "Diabetogênico, antagonizando a insulina",
+   "Hipoglicemiante imediato e prolongado",
+   "Neutro sobre a glicemia em todas as espécies",
+   "Inibidor da lipólise no tecido adiposo"
+  ],
+  "e": "Reduz captação periférica e estimula lipólise e gliconeogênese."
+ },
+ {
+  "c": "hormglic",
+  "q": "Gato diabético que precisa de doses muito altas de insulina e ganha peso sugere:",
+  "o": [
+   "Acromegalia",
+   "Hipoadrenocorticismo",
+   "Insulinoma",
+   "Hipotireoidismo"
+  ],
+  "e": "GH em excesso causa resistência grave à insulina; IGF-1 alto."
+ },
+ {
+  "c": "hormglic",
+  "q": "No gato hipertireóideo, a frutosamina tende a:",
+  "o": [
+   "Ficar falsamente baixa",
+   "Ficar falsamente alta",
+   "Não se alterar nunca",
+   "Aumentar com o estresse agudo"
+  ],
+  "e": "A renovação acelerada das proteínas reduz a frutosamina."
+ },
+ {
+  "c": "hormglic",
+  "q": "No ruminante, os principais secretagogos de insulina são:",
+  "o": [
+   "Propionato e butirato",
+   "Acetato e glicose",
+   "Lactato e cetonas",
+   "Ureia e amônia"
+  ],
+  "e": "Os AGV glicogênicos e o butirato estimulam a célula β."
+ },
+ {
+  "c": "hormglic",
+  "q": "Na vaca, os ácidos graxos do tecido adiposo são sintetizados principalmente a partir de:",
+  "o": [
+   "Acetato",
+   "Glicose",
+   "Propionato",
+   "Lactato"
+  ],
+  "e": "A glicose é poupada; ATP-citrato liase é baixa no ruminante."
+ },
+ {
+  "c": "hormglic",
+  "q": "A homeorrese do início da lactação inclui:",
+  "o": [
+   "Insulina baixa e resistência à insulina",
+   "Insulina alta e lipogênese intensa",
+   "GH baixo e IGF-1 muito alto",
+   "Glucagon suprimido e glicemia alta"
+  ],
+  "e": "A glicose é direcionada à glândula mamária."
+ },
+ {
+  "c": "hormglic",
+  "q": "A glândula mamária capta glicose para a lactose por:",
+  "o": [
+   "GLUT1, independente de insulina",
+   "GLUT4, dependente de insulina",
+   "SGLT1 com sódio",
+   "Endocitose de glicogênio"
+  ],
+  "e": "Por isso continua captando com insulina baixa."
+ },
+ {
+  "c": "hormglic",
+  "q": "Monensina ajuda a prevenir cetose porque:",
+  "o": [
+   "Aumenta a produção ruminal de propionato",
+   "Bloqueia a lipólise diretamente",
+   "Estimula a secreção de GH",
+   "Inibe a glicose-6-fosfatase"
+  ],
+  "e": "Mais propionato = mais substrato gliconeogênico."
+ },
+ {
+  "c": "hormglic",
+  "q": "Em aves granívoras, a pancreatectomia causa:",
+  "o": [
+   "Hipoglicemia por falta de glucagon",
+   "Diabetes grave por falta de insulina",
+   "Nenhuma alteração da glicemia",
+   "Cetoacidose imediata"
+  ],
+  "e": "O glucagon predomina no controle glicêmico dessas aves."
+ }
+]

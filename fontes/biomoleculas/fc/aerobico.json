@@ -1,72 +1,72 @@
 [
-[
-"aerobico",
-"Cinco coenzimas da piruvato desidrogenase?",
-"TPP (B1), lipoato, CoA (B5), FAD (B2) e NAD⁺ (B3)."
-],
-[
-"aerobico",
-"Saldo de uma volta do ciclo de Krebs?",
-"3 NADH, 1 FADH₂, 1 GTP e 2 CO₂ por acetil-CoA."
-],
-[
-"aerobico",
-"Ordem dos intermediários do ciclo?",
-"Citrato, isocitrato, α-cetoglutarato, succinil-CoA, succinato, fumarato, malato, oxaloacetato."
-],
-[
-"aerobico",
-"Saldo atual de ATP por glicose?",
-"Cerca de 30 a 32 (2,5 por NADH, 1,5 por FADH₂)."
-],
-[
-"aerobico",
-"Complexos que bombeiam prótons?",
-"I (4 H⁺), III (4 H⁺) e IV (2 H⁺); o II não bombeia."
-],
-[
-"aerobico",
-"Aceptor final de elétrons?",
-"O oxigênio, reduzido a água no complexo IV."
-],
-[
-"aerobico",
-"Alvo do cianeto e do monóxido de carbono?",
-"Complexo IV (citocromo c oxidase); o CO também bloqueia a hemoglobina."
-],
-[
-"aerobico",
-"Tratamento da intoxicação por cianeto?",
-"Nitrito de sódio + tiossulfato de sódio."
-],
-[
-"aerobico",
-"Efeito de um desacoplador?",
-"O₂ consumido sobe, ATP cai, energia vira calor (hipertermia)."
-],
-[
-"aerobico",
-"O que é a UCP1?",
-"Termogenina da gordura parda: canal de H⁺ que gera calor; leitões não a têm funcional."
-],
-[
-"aerobico",
-"Polioencefalomalácia?",
-"Necrose do córtex cerebral em ruminantes por deficiência de tiamina; trata-se com tiamina."
-],
-[
-"aerobico",
-"Mecanismo do fluoroacetato (Palicourea)?",
-"Forma fluorocitrato, que inibe a aconitase: morte súbita em bovinos."
-],
-[
-"aerobico",
-"Principal reação anaplerótica?",
-"Piruvato carboxilase (biotina): piruvato → oxaloacetato."
-],
-[
-"aerobico",
-"Selênio e vitamina E protegem contra?",
-"Peroxidação lipídica; a falta causa doença do músculo branco."
-]
+ [
+  "aerobico",
+  "Saldo da glicólise por glicose",
+  "2 piruvato + 2 ATP líquidos + 2 NADH (4 ATP formados − 2 gastos)"
+ ],
+ [
+  "aerobico",
+  "Três enzimas reguladoras (irreversíveis)",
+  "Hexoquinase/glicoquinase, PFK-1 e piruvato quinase"
+ ],
+ [
+  "aerobico",
+  "Ativadores e inibidores da PFK-1",
+  "Ativam: AMP, ADP, frutose-2,6-bisfosfato. Inibem: ATP, citrato, H⁺"
+ ],
+ [
+  "aerobico",
+  "GLUT dependente de insulina",
+  "GLUT4 (músculo e tecido adiposo)"
+ ],
+ [
+  "aerobico",
+  "Cinco coenzimas da piruvato desidrogenase?",
+  "TPP (B1), lipoato, CoA (B5), FAD (B2) e NAD⁺ (B3)."
+ ],
+ [
+  "aerobico",
+  "Saldo de uma volta do ciclo de Krebs?",
+  "3 NADH, 1 FADH₂, 1 GTP e 2 CO₂ por acetil-CoA."
+ ],
+ [
+  "aerobico",
+  "Saldo atual de ATP por glicose?",
+  "Cerca de 30 a 32 (2,5 por NADH, 1,5 por FADH₂)."
+ ],
+ [
+  "aerobico",
+  "Complexos que bombeiam prótons?",
+  "I (4 H⁺), III (4 H⁺) e IV (2 H⁺); o II não bombeia."
+ ],
+ [
+  "aerobico",
+  "Aceptor final de elétrons?",
+  "O oxigênio, reduzido a água no complexo IV."
+ ],
+ [
+  "aerobico",
+  "Alvo do cianeto e do monóxido de carbono?",
+  "Complexo IV (citocromo c oxidase); o CO também bloqueia a hemoglobina."
+ ],
+ [
+  "aerobico",
+  "Efeito de um desacoplador?",
+  "O₂ consumido sobe, ATP cai, energia vira calor (hipertermia)."
+ ],
+ [
+  "aerobico",
+  "O que é a UCP1?",
+  "Termogenina da gordura parda: canal de H⁺ que gera calor; leitões não a têm funcional."
+ ],
+ [
+  "aerobico",
+  "Polioencefalomalácia?",
+  "Necrose do córtex cerebral em ruminantes por deficiência de tiamina; trata-se com tiamina."
+ ],
+ [
+  "aerobico",
+  "Mecanismo do fluoroacetato (Palicourea)?",
+  "Forma fluorocitrato, que inibe a aconitase: morte súbita em bovinos."
+ ]
 ]

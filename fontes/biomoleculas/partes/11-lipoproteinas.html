@@ -2,12 +2,18 @@
   <div class="ch-head">
     <div class="ch-num">11</div>
     <div><span class="eyebrow">Unidade III · Metabolismo dos lipídios · 03.04 Transporte de lipídios no sangue</span><h2>Transporte de lipídios no sangue</h2></div>
-    <div class="ch-meta"><button class="done-btn" data-done="lipoproteinas" aria-pressed="false">Marcar como estudado</button><span class="chip">~30 min</span></div>
+    <div class="ch-meta"><button class="done-btn" data-done="lipoproteinas" aria-pressed="false">Marcar como estudado</button><span class="chip">~40 min</span></div>
   </div>
   <div class="col">
-    <p class="oneliner">PENDENTE</p>
+    <p class="oneliner">Gordura não se dissolve no plasma: viaja dentro de lipoproteínas, partículas com núcleo de triacilglicerol e colesterol e casca de fosfolipídios e apolipoproteínas. As apolipoproteínas dizem para onde cada partícula vai, e a espécie animal decide se o colesterol fica na LDL ou na HDL.</p>
     <div class="goals rv"><h4>Objetivos</h4><ul>
-      <li>PENDENTE</li></ul></div>
+      <li>Descrever a estrutura das lipoproteínas e classificá-las por densidade, tamanho, composição e origem.</li>
+      <li>Relacionar as principais apolipoproteínas (A-I, B-48, B-100, C-II, E) às suas funções.</li>
+      <li>Explicar a ação e a regulação da lipase lipoproteica, da lipase hepática, da LCAT e da CETP.</li>
+      <li>Percorrer as vias exógena, endógena e de transporte reverso do colesterol.</li>
+      <li>Comparar o perfil lipoproteico de cães, gatos, equinos, ruminantes, suínos e aves e explicar por que os domésticos resistem à aterosclerose.</li></ul></div>
+
+    <p>A digestão e a absorção (cap. 8) terminam com a gordura da dieta empacotada em quilomícrons. A partir daí, e também para a gordura que o fígado fabrica (cap. 13) ou recicla, o problema é o mesmo: levar moléculas insolúveis em água por um meio aquoso até o tecido certo.</p>
 
     <h3><span class="tag">11.1</span>Lipoproteínas: como a gordura viaja no sangue</h3>
     <p>Plasma é água. TAG e ésteres de colesterol só circulam dentro de <strong>lipoproteínas</strong>: partículas esféricas com um <strong>núcleo apolar</strong> (TAG e ésteres de colesterol) e uma <strong>casca anfipática</strong> de fosfolipídios, colesterol livre e <strong>apolipoproteínas</strong>. Quanto mais lipídio, maior e mais leve a partícula; quanto mais proteína, menor e mais densa. É exatamente assim que elas foram classificadas: pela <strong>densidade</strong> na ultracentrifugação.</p>
@@ -37,7 +43,33 @@
       <div class="readout" id="lpdOut" aria-live="polite"></div>
     </section>
 
-    <h4>As três rotas do transporte</h4>
+    <h3><span class="tag">11.2</span>Apolipoproteínas e enzimas: o endereço e as tesouras</h3>
+    <p>As <strong>apolipoproteínas</strong> não são só embalagem. Elas dão estrutura à partícula, ativam ou inibem enzimas e servem de ligante para receptores. Algumas são <b>fixas</b> (apo B: uma molécula por partícula, do nascimento ao fim) e outras <b>trocáveis</b> (apo C e apo E passam de uma partícula para outra, com a HDL funcionando como reservatório).</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Apo</th><th>Onde está</th><th>Função</th></tr></thead>
+      <tbody>
+        <tr><td><b>A-I</b></td><td>HDL</td><td>Estrutura da HDL; <b>ativa a LCAT</b>; aceita colesterol pelo transportador ABCA1</td></tr>
+        <tr><td><b>B-48</b></td><td>Quilomícron</td><td>Estrutural; é a metade N-terminal da apo B-100, gerada por edição do RNA no intestino; <b>não</b> se liga ao receptor de LDL</td></tr>
+        <tr><td><b>B-100</b></td><td>VLDL, IDL, LDL</td><td>Estrutural; <b>ligante do receptor de LDL</b>. Uma por partícula</td></tr>
+        <tr><td><b>C-II</b></td><td>QM, VLDL, HDL</td><td><b>Ativadora da LPL</b></td></tr>
+        <tr><td><b>C-III</b></td><td>QM, VLDL, HDL</td><td>Inibe a LPL e a captação de remanescentes</td></tr>
+        <tr><td><b>E</b></td><td>QM remanescente, VLDL, IDL, HDL</td><td>Ligante dos receptores de LDL e LRP1: <b>captação hepática dos remanescentes</b></td></tr>
+      </tbody></table></div>
+    <div class="cards">
+      <div class="card"><span class="role">Capilar</span><h5>Lipase lipoproteica (LPL)</h5><p>Sintetizada por adipócitos, miócitos e células da mama, é levada ao lado luminal do endotélio e ancorada por proteoglicanos de heparam sulfato (e pela proteína GPIHBP1). Hidrolisa o TAG de quilomícrons e VLDL quando ativada pela apo C-II. A isoforma do adiposo tem K<sub>m</sub> alto (funciona bem quando há muito TAG, após a refeição); a do coração tem K<sub>m</sub> baixo (captura ácidos graxos mesmo no jejum).</p></div>
+      <div class="card"><span class="role">Fígado</span><h5>Lipase hepática</h5><p>Presa ao endotélio dos sinusoides hepáticos; termina de retirar TAG e fosfolipídios da IDL (formando LDL) e da HDL grande. Não precisa de apo C-II.</p></div>
+      <div class="card"><span class="role">Plasma</span><h5>LCAT</h5><p>Lecitina-colesterol aciltransferase: transfere um ácido graxo da fosfatidilcolina para o colesterol livre na superfície da HDL. O éster formado afunda para o núcleo, criando espaço para mais colesterol. Ativada pela apo A-I.</p></div>
+      <div class="card"><span class="role">Plasma</span><h5>CETP</h5><p>Proteína de transferência de ésteres de colesterol: troca ésteres de colesterol da HDL por TAG das partículas com apo B. Abundante em humanos, coelhos e aves; ausente ou mínima em cães, gatos, equinos e ruminantes.</p></div>
+    </div>
+    <h4>Receptores que retiram as partículas</h4>
+    <ul>
+      <li><b>Receptor de LDL</b>: reconhece apo B-100 e apo E; após a endocitose, a partícula é digerida no lisossomo, o colesterol liberado inibe a HMG-CoA redutase (cap. 13) e reduz a síntese de novos receptores (via SREBP-2). Os hormônios tireoidianos e a insulina aumentam esses receptores.</li>
+      <li><b>LRP1</b> (proteína relacionada ao receptor de LDL): capta remanescentes de quilomícron pela apo E no fígado.</li>
+      <li><b>SR-BI</b> (receptor scavenger B-I): retira seletivamente ésteres de colesterol da HDL no fígado e nas glândulas que fazem esteroides (adrenal, ovário, testículo), sem destruir a partícula.</li>
+    </ul>
+    <div class="note mem"><b>Regulação da lipase lipoproteica</b><p>A <b>insulina</b> aumenta a LPL do <b>tecido adiposo</b> (após a refeição, a gordura vai para o estoque). No jejum, a LPL do adiposo cai e a do <b>músculo e coração</b> se mantém (a gordura vai para quem precisa queimar). Na <b>lactação</b>, a LPL da <b>glândula mamária</b> dispara e a do adiposo cai: a vaca desvia os ácidos graxos da dieta para a gordura do leite. A <b>heparina</b> solta a LPL do endotélio e “clareia” um plasma lipêmico.</p></div>
+
+    <h3><span class="tag">11.3</span>As três rotas do transporte</h3>
     <figure class="fig"><img src="img/li-transporte.webp" loading="lazy" alt="Esquema do metabolismo das lipoproteínas: quilomícrons do intestino, lipase lipoproteica liberando ácidos graxos para músculo e tecido adiposo, VLDL do fígado convertida em IDL e LDL, e HDL levando colesterol de volta ao fígado"><figcaption><b>Visão geral.</b> Quilomícrons (gordura da dieta) e VLDL (gordura do fígado) perdem TAG pela <b>lipoproteína-lipase (1)</b> nos capilares; LDL entrega colesterol por endocitose mediada por receptor; HDL recolhe o colesterol dos tecidos com a ajuda da <b>LCAT (2)</b>.</figcaption></figure>
     <div class="cards">
       <div class="card"><span class="role">Via exógena</span><h5>Quilomícron → remanescente</h5><p>No sangue, o quilomícron recebe apo C-II e apo E da HDL. A apo C-II ativa a <b>lipase lipoproteica (LPL)</b>, presa ao endotélio dos capilares de músculo, coração, tecido adiposo e mama. A LPL libera ácidos graxos, que entram nas células. O quilomícron encolhe e vira <b>remanescente</b>, rico em colesterol, captado pelo fígado via apo E.</p></div>
@@ -45,9 +77,32 @@
       <div class="card"><span class="role">Transporte reverso</span><h5>HDL</h5><p>A HDL nasce “vazia” (discoidal) no fígado e no intestino, recolhe colesterol das membranas, e a <b>LCAT</b> (ativada pela apo A-I) o esterifica e o empurra para o núcleo: a HDL amadurece e fica esférica. O colesterol volta ao fígado e sai como sais biliares.</p></div>
     </div>
     <figure class="fig"><img src="img/li-hdl.webp" loading="lazy" alt="Ciclo da HDL: síntese no fígado e intestino, HDL nascente recebe colesterol dos tecidos, HDL madura devolve colesterol ao fígado ou o transfere a VLDL e LDL, e o fígado transforma colesterol em sais biliares"><figcaption><b>Metabolismo da HDL.</b> (1) HDL nascente, (2) captação de colesterol dos tecidos, (3) transferência para VLDL/LDL, que em humanos ocorre pela CETP, e (4) retorno ao fígado, que excreta o excesso como sais biliares.</figcaption></figure>
-    <div class="note mem"><b>Regulação da lipase lipoproteica</b><p>A <b>insulina</b> aumenta a LPL do <b>tecido adiposo</b> (após a refeição, a gordura vai para o estoque). No jejum, a LPL do adiposo cai e a do <b>músculo e coração</b> se mantém (a gordura vai para quem precisa queimar). Na <b>lactação</b>, a LPL da <b>glândula mamária</b> dispara e a do adiposo cai: a vaca desvia os ácidos graxos da dieta para a gordura do leite. A <b>heparina</b> solta a LPL do endotélio e “clareia” um plasma lipêmico.</p></div>
+    <div class="tbl"><table>
+      <thead><tr><th>Etapa</th><th>Via exógena</th><th>Via endógena</th><th>Transporte reverso</th></tr></thead>
+      <tbody>
+        <tr><td>Origem</td><td>Enterócito</td><td>Hepatócito</td><td>Fígado e intestino (apo A-I)</td></tr>
+        <tr><td>Partícula</td><td>Quilomícron</td><td>VLDL → IDL → LDL</td><td>HDL discoidal → esférica</td></tr>
+        <tr><td>Enzima-chave</td><td>LPL (apo C-II)</td><td>LPL e lipase hepática</td><td>LCAT (apo A-I)</td></tr>
+        <tr><td>Retirada</td><td>Remanescente → fígado (apo E)</td><td>Receptor de LDL (apo B-100/E)</td><td>SR-BI no fígado e nas glândulas esteroidogênicas</td></tr>
+        <tr><td>Carga entregue</td><td>Ácidos graxos da dieta</td><td>TAG do fígado, depois colesterol</td><td>Colesterol de volta ao fígado → bile</td></tr>
+      </tbody></table></div>
+
+    <h3><span class="tag">11.4</span>Particularidades por espécie</h3>
+    <p>As mesmas partículas existem em todos os mamíferos, mas a proporção entre elas muda muito. A diferença principal está na atividade da CETP e no tipo de dieta. Isso tem consequência direta na interpretação de exames: os valores de referência e o raciocínio da medicina humana não se transferem para os animais.</p>
     <div class="note deep"><b>Cães, gatos, equinos e bovinos são “animais HDL”</b><p>Em humanos e coelhos, a maior parte do colesterol plasmático está na <b>LDL</b>, em boa parte porque a <b>CETP</b> (proteína de transferência de ésteres de colesterol) passa colesterol da HDL para as partículas com apo B. Cães, gatos, equinos e ruminantes têm <b>CETP ausente ou muito baixa</b>: o colesterol fica principalmente na <b>HDL</b>. Por isso esses animais são muito resistentes à aterosclerose; no cão, ela só aparece com hipercolesterolemia intensa e prolongada (hipotireoidismo, diabetes). E por isso o perfil “colesterol LDL alto = risco cardiovascular” da medicina humana não se aplica diretamente a eles. O suíno, um “animal LDL”, é bom modelo experimental de aterosclerose.</p></div>
-    <div class="note clin"><b>Ruminantes, aves e o leite</b><p>O <b>fígado bovino exporta VLDL muito devagar</b> (produz pouca apo B-100): quando recebe muitos ácidos graxos, acumula TAG. É a base da <b>lipidose hepática</b> da vaca no pós-parto (cap. 8). Na <b>galinha poedeira</b>, o estrógeno faz o fígado produzir uma VLDL especial que leva lipídio ao ovário para formar a <b>gema</b>. Na <b>vaca em lactação</b>, cerca de metade dos ácidos graxos do leite vem do sangue (todo o C18 e parte do C16, via LPL mamária) e a outra metade é sintetizada na própria glândula (C4 a C14 e parte do C16) a partir de acetato e β-hidroxibutirato.</p></div>
+    <div class="note clin"><b>Ruminantes, aves e o leite</b><p>O <b>fígado bovino exporta VLDL muito devagar</b> (produz pouca apo B-100): quando recebe muitos ácidos graxos, acumula TAG. É a base da <b>lipidose hepática</b> da vaca no pós-parto (cap. 10). Na <b>galinha poedeira</b>, o estrógeno faz o fígado produzir uma VLDL especial que leva lipídio ao ovário para formar a <b>gema</b>. Na <b>vaca em lactação</b>, cerca de metade dos ácidos graxos do leite vem do sangue (todo o C18 e parte do C16, via LPL mamária) e a outra metade é sintetizada na própria glândula (C4 a C14 e parte do C16) a partir de acetato e β-hidroxibutirato.</p></div>
+
+    <div class="tbl"><table>
+      <thead><tr><th>Espécie</th><th>Lipoproteína predominante</th><th>Particularidades</th></tr></thead>
+      <tbody>
+        <tr><td><b>Cão</b></td><td>HDL (inclui uma HDL grande, rica em apo E, chamada HDL<sub>1</sub>)</td><td>Na hipercolesterolemia, o excesso vai para HDL<sub>1</sub> e LDL; aterosclerose só com colesterol muito alto e prolongado</td></tr>
+        <tr><td><b>Gato</b></td><td>HDL</td><td>Deficiência hereditária de LPL descrita; colesterol de referência mais baixo que o do cão</td></tr>
+        <tr><td><b>Equino</b></td><td>HDL</td><td>Fígado responde ao balanço energético negativo exportando muita VLDL (hiperlipemia em pôneis e asininos)</td></tr>
+        <tr><td><b>Bovino</b></td><td>HDL (cerca de 80% do colesterol)</td><td>Exporta VLDL devagar (lipidose no periparto); colesterol sobe ao longo da lactação, cai na lipidose</td></tr>
+        <tr><td><b>Suíno</b></td><td>LDL</td><td>Modelo de aterosclerose; perfil parecido com o humano</td></tr>
+        <tr><td><b>Aves</b></td><td>HDL nos machos; VLDL específica da gema nas poedeiras</td><td>Lipogênese hepática e quilomícrons (portomícrons) que vão direto ao fígado pela veia porta, porque o sistema linfático intestinal é pouco desenvolvido</td></tr>
+      </tbody></table></div>
+    <div class="note clin"><b>Na clínica</b><p>Como o colesterol do cão e do gato está sobretudo na HDL, o laudo de rotina com “colesterol total” e “triglicerídeos” é suficiente na maioria dos casos; fórmulas humanas que calculam LDL (como a de Friedewald) <b>não são válidas</b> para essas espécies. A eletroforese ou a ultracentrifugação de lipoproteínas fica para casos de pesquisa ou hiperlipidemias primárias. As dislipidemias e a amostra lipêmica estão no cap. 12.</p></div>
 
     <div class="quiz" data-quiz="lipoproteinas"></div>
   </div>

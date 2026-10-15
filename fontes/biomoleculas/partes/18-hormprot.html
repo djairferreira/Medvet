@@ -2,45 +2,125 @@
   <div class="ch-head">
     <div class="ch-num">18</div>
     <div><span class="eyebrow">Unidade IV · Metabolismo das proteínas · 04.04 Hormônios que influenciam o metabolismo das proteínas</span><h2>Hormônios que influenciam o metabolismo das proteínas</h2></div>
-    <div class="ch-meta"><button class="done-btn" data-done="hormprot" aria-pressed="false">Marcar como estudado</button><span class="chip">~30 min</span></div>
+    <div class="ch-meta"><button class="done-btn" data-done="hormprot" aria-pressed="false">Marcar como estudado</button><span class="chip">~45 min</span></div>
   </div>
   <div class="col">
-    <p class="oneliner">PENDENTE</p>
+    <p class="oneliner">A massa muscular é o resultado de uma disputa diária entre síntese e degradação de proteínas. Insulina, GH/IGF-1, andrógenos e β-agonistas inclinam a balança para a síntese; cortisol, glucagon, excesso de hormônio tireoidiano e citocinas inclinam para a degradação, transformando o músculo em fonte de glicose e de aminoácidos no jejum, no estresse e na doença.</p>
     <div class="goals rv"><h4>Objetivos</h4><ul>
-      <li>PENDENTE</li></ul></div>
+      <li>Explicar o músculo como reserva de aminoácidos e os mecanismos celulares que controlam síntese (mTOR) e degradação (ubiquitina-proteassomo, autofagia).</li>
+      <li>Descrever as ações da insulina e do eixo GH/IGF-1 sobre as proteínas e reconhecer diabetes, nanismo hipofisário e acromegalia felina.</li>
+      <li>Explicar como o cortisol e o glucagon promovem catabolismo muscular, gliconeogênese e ureagênese, e aplicar ao hiperadrenocorticismo e ao uso de corticoides.</li>
+      <li>Diferenciar os efeitos dos hormônios tireoidianos em nível fisiológico e em excesso (gato hipertireóideo).</li>
+      <li>Explicar o modo de ação de andrógenos, anabolizantes e β-agonistas (ractopamina) e sua situação legal e sanitária.</li>
+      <li>Integrar a resposta hormonal ao estresse, ao trauma e à sepse com o balanço nitrogenado negativo e o suporte nutricional.</li></ul></div>
 
-    <h3><span class="tag">18.1</span>Derivados de aminoácidos e controle hormonal</h3>
-    <p>Além de formar proteínas, os aminoácidos são precursores de muitas moléculas especializadas, quase todas em quantidades pequenas, mas vitais.</p>
+    <p>Os capítulos anteriores mostraram o que acontece com o aminoácido: degradação e ureia (cap. 16) e biossíntese (cap. 17). Quem decide <b>quanto</b> de proteína o corpo constrói ou desmonta a cada momento são os hormônios. O alvo principal é o <b>músculo esquelético</b>, que contém cerca de 40% da proteína corporal e funciona como a grande reserva de aminoácidos que o organismo não tem em outra forma.</p>
+
+    <h3><span class="tag">18.1</span>A balança do músculo: síntese contra degradação</h3>
+    <p>A massa muscular só muda quando a velocidade de síntese difere da de degradação. Pequenas diferenças, sustentadas por dias, produzem grandes efeitos: um bezerro em crescimento acumula músculo porque sintetiza um pouco mais do que degrada; um cão com doença grave perde massa visível em uma semana porque a degradação dispara.</p>
+    <div class="flow">
+      <div class="lane up"><h5>Síntese: a via mTOR</h5><ol>
+        <li>O complexo <b>mTORC1</b> é o “interruptor” da tradução: quando ativo, fosforila proteínas que liberam os ribossomos para iniciar a síntese.</li>
+        <li>É ligado por <b>insulina e IGF-1</b> (via PI3K-Akt), por <b>aminoácidos</b>, sobretudo a <b>leucina</b>, e pela <b>contração muscular</b> (exercício resistido).</li>
+        <li>É desligado pela falta de energia (AMPK ativa), pelo cortisol e pela falta de aminoácidos.</li></ol></div>
+      <div class="lane down"><h5>Degradação: proteassomo e autofagia</h5><ol>
+        <li>Quando Akt está inativa, os fatores de transcrição <b>FoxO</b> entram no núcleo e induzem as ubiquitina-ligases musculares (atrogina-1/MAFbx e MuRF1).</li>
+        <li>As proteínas miofibrilares marcadas com ubiquitina são destruídas no <b>proteassomo</b>; a autofagia lisossomal e as calpaínas completam o trabalho.</li>
+        <li>Ativam essa via: <b>cortisol</b>, <b>citocinas</b> (TNF-α, IL-6), <b>miostatina</b>, jejum, inatividade e acidose.</li></ol></div>
+    </div>
+    <div class="note deep"><b>Miostatina e a dupla musculatura</b><p>A <b>miostatina</b> (GDF-8) é um freio natural do crescimento muscular. Bovinos <b>Belgian Blue</b> e <b>Piemontês</b> têm mutações que a inativam: hiperplasia muscular (“dupla musculatura”), carcaça magra e com mais rendimento, mas maior frequência de partos distócicos. Em cães Whippet, a mutação em heterozigose dá velocidade em corrida; em homozigose, o fenótipo “bully whippet”.</p></div>
+
+    <section class="labbox rv" aria-labelledby="hpbTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="hpbTitle">A balança da proteína muscular</h4></div></header>
+      <p style="margin:0 0 6px;font-size:.95rem">Ajuste os hormônios ou escolha uma situação. A balança mostra a síntese e a degradação no músculo e o saldo de nitrogênio.</p>
+      <div class="ctrl" id="hpbBtns" role="group" aria-label="Situações prontas">
+        <button class="tbtn" type="button" data-k="pos" aria-pressed="true">Após a refeição</button><button class="tbtn" type="button" data-k="jejum">Jejum</button><button class="tbtn" type="button" data-k="cush">Cushing</button><button class="tbtn" type="button" data-k="hiper">Gato hipertireóideo</button><button class="tbtn" type="button" data-k="sepse">Sepse</button><button class="tbtn" type="button" data-k="ract">Suíno com ractopamina</button>
+      </div>
+      <div class="ur-sl">
+        <label>Insulina: <output id="hpbInV"></output><input type="range" id="hpbIn" min="0" max="4" step="1" value="3"></label>
+        <label>GH / IGF-1: <output id="hpbGhV"></output><input type="range" id="hpbGh" min="0" max="4" step="1" value="2"></label>
+        <label>Cortisol: <output id="hpbCoV"></output><input type="range" id="hpbCo" min="0" max="4" step="1" value="1"></label>
+        <label>Hormônio tireoidiano: <output id="hpbT4V"></output><input type="range" id="hpbT4" min="0" max="4" step="1" value="2"></label>
+        <label>Citocinas inflamatórias: <output id="hpbCiV"></output><input type="range" id="hpbCi" min="0" max="4" step="1" value="0"></label>
+        <label>Andrógeno / β-agonista: <output id="hpbAnV"></output><input type="range" id="hpbAn" min="0" max="4" step="1" value="0"></label>
+      </div>
+      <div class="svgwrap"><svg id="hpbSvg" viewBox="0 0 600 300" role="img" aria-label="Balança com síntese de proteína de um lado e degradação do outro"></svg></div>
+      <div class="readout" id="hpbOut" aria-live="polite"></div>
+    </section>
+
+    <h3><span class="tag">18.2</span>Insulina: o hormônio anabólico da refeição</h3>
+    <p>Depois de uma refeição, a insulina sobe junto com a glicose e os aminoácidos. No músculo, ela <b>aumenta a captação de aminoácidos</b> (transportadores do sistema A), <b>liga a mTOR</b> e, sobretudo, <b>inibe a proteólise</b> (Akt fosforila FoxO e o mantém fora do núcleo). Alguns aminoácidos, como a <b>leucina</b> e a <b>arginina</b>, também estimulam a própria secreção de insulina: a refeição proteica é, por si, um sinal anabólico.</p>
+    <div class="note clin"><b>Na clínica: o diabético que come muito e emagrece</b><p>No cão e no gato com <b>diabetes mellitus</b> descompensado, sem ação da insulina, o músculo entra em proteólise contínua; os aminoácidos vão ao fígado para a gliconeogênese, piorando a hiperglicemia, e o nitrogênio sai como ureia. O animal tem <b>polifagia com perda de peso e de massa muscular</b>, pelos opacos e má cicatrização. Com a insulinoterapia, o balanço nitrogenado volta a ser positivo e o animal recupera peso. No gato, a dieta <b>rica em proteína e pobre em carboidrato</b> ajuda o controle glicêmico e preserva massa magra.</p></div>
+    <div class="note deep"><b>Ruminantes: insulina baixa, mesmo após comer</b><p>Como o ruminante absorve pouca glicose, sua insulina é cronicamente mais baixa que a de monogástricos. No <b>início da lactação</b>, a vaca fica ainda mais resistente à insulina nos tecidos periféricos: músculo e gordura cedem aminoácidos e ácidos graxos, enquanto a glândula mamária, que capta glicose sem depender de insulina, recebe prioridade. É uma estratégia hormonal (homeorrese) para sustentar o leite.</p></div>
+
+    <h3><span class="tag">18.3</span>GH e IGF-1: o eixo do crescimento</h3>
+    <p>O <b>hormônio do crescimento (GH, somatotropina)</b> da adeno-hipófise é liberado em pulsos, estimulado pelo GHRH e pela grelina e inibido pela somatostatina. Ele age de duas formas:</p>
+    <div class="cards">
+      <div class="card"><span class="role">Ação indireta</span><h5>Via IGF-1</h5><p>O GH faz o <b>fígado</b> (e outros tecidos) produzir <b>IGF-1</b>, que circula ligado a proteínas transportadoras. O IGF-1 é o grande mediador anabólico: estimula a síntese proteica no músculo e a proliferação dos condrócitos da placa de crescimento.</p></div>
+      <div class="card"><span class="role">Ação direta</span><h5>Poupa proteína e glicose</h5><p>O GH estimula a <b>lipólise</b> e reduz a captação de glicose (efeito <b>diabetogênico</b>, anti-insulina). O animal passa a queimar gordura e preserva proteína: o GH é anabólico para proteína e catabólico para gordura.</p></div>
+      <div class="card"><span class="role">Nutrição</span><h5>Desacoplamento</h5><p>Na desnutrição e no balanço energético negativo, o GH sobe mas o fígado deixa de responder com IGF-1 (receptores reduzidos). Resultado: muita lipólise e pouco anabolismo. Na vaca no pós-parto, esse desacoplamento direciona nutrientes para o leite.</p></div>
+    </div>
+    <div class="note clin"><b>Na clínica e na produção</b><ul>
+      <li><b>Nanismo hipofisário</b> do <b>Pastor-alemão</b> (e do Cão-lobo-checoslovaco): falta de GH e de outros hormônios hipofisários. Filhotes proporcionais, pequenos, com pelagem lanosa de filhote e alopecia.</li>
+      <li><b>Acromegalia felina</b> (hipersomatotropismo): adenoma hipofisário secretor de GH em gatos idosos. Cabeça e patas grandes, ganho de peso com massa magra, organomegalia e, quase sempre, <b>diabetes resistente à insulina</b>. Dosa-se IGF-1.</li>
+      <li>Em cadelas, a <b>progesterona</b> (diestro ou progestágenos) induz produção de GH na glândula mamária: acromegalia e resistência à insulina reversíveis com castração.</li>
+      <li><b>Somatotropina bovina recombinante (bST)</b>: aumenta a produção de leite em 10 a 15% por redirecionar nutrientes à glândula mamária. Seu uso é permitido no Brasil e nos Estados Unidos e proibido na União Europeia e no Canadá.</li></ul></div>
+
+    <h3><span class="tag">18.4</span>Cortisol e glucagon: o músculo vira glicose</h3>
+    <p>O <b>cortisol</b> é o principal hormônio catabólico para as proteínas. Ele age de forma coordenada em vários tecidos, sempre com o mesmo objetivo: manter a glicemia e fornecer aminoácidos para a resposta ao estresse.</p>
+    <ol class="steps">
+      <li><b>Músculo e pele</b><span>Reduz a captação de aminoácidos e a síntese proteica (inibe mTOR) e ativa o sistema ubiquitina-proteassomo (atrogina-1, MuRF1) e a miostatina. Libera alanina e glutamina.</span></li>
+      <li><b>Fígado</b><span>Aumenta a captação dos aminoácidos e <b>induz enzimas da gliconeogênese</b> (PEPCK, glicose-6-fosfatase) e das <b>transaminases</b> e do <b>ciclo da ureia</b>. Paradoxalmente, aumenta a síntese de proteínas no fígado (enzimas, proteínas de fase aguda).</span></li>
+      <li><b>Tecido conjuntivo e osso</b><span>Inibe fibroblastos e osteoblastos: menos colágeno, pele fina, cicatrização lenta, osteoporose (cap. 22).</span></li>
+      <li><b>Resultado</b><span>Ureia urinária maior, <b>balanço nitrogenado negativo</b>, hiperglicemia e perda de massa magra.</span></li>
+    </ol>
+    <p>O <b>glucagon</b> atua sobretudo no fígado: aumenta a captação de aminoácidos (principalmente alanina), a gliconeogênese e a ureagênese. Ele é secretado no jejum e também após refeições muito proteicas, o que impede a hipoglicemia que a insulina estimulada pelos aminoácidos poderia causar. A <b>adrenalina</b> complementa, mobilizando glicogênio e gordura.</p>
+    <div class="note clin"><b>Na clínica: hiperadrenocorticismo e corticoterapia</b><p>No <b>hiperadrenocorticismo</b> canino (síndrome de Cushing), espontâneo ou pelo uso prolongado de glicocorticoides: músculos temporais e da coxa atrofiados, <b>abdômen pendular</b> (fraqueza da musculatura abdominal somada à hepatomegalia e à gordura abdominal), pele fina com veias visíveis, calcinose cutânea, alopecia, cicatrização ruim e ruptura de ligamentos. Em equinos, a <b>disfunção da pars intermedia da hipófise</b> (PPID, “Cushing equino”) causa perda muscular na linha dorsal, pelos longos que não caem e laminite. Corticoides em doses altas por longos períodos devem ser retirados de forma gradual e acompanhados de dieta com proteína de boa qualidade.</p></div>
+    <div class="note trap"><b>Pegadinha</b><p>“O cortisol é catabólico em todos os tecidos”: <b>falso</b>. No <b>fígado</b> ele é anabólico, aumentando a síntese de enzimas e de proteínas de fase aguda, alimentadas pelos aminoácidos retirados do músculo. É uma transferência de proteína da periferia para o fígado.</p></div>
+
+    <h3><span class="tag">18.5</span>Hormônios tireoidianos: necessários em dose certa</h3>
+    <p>T<sub>3</sub> e T<sub>4</sub> aumentam o metabolismo basal e o <b>turnover</b> proteico: aceleram a síntese e a degradação ao mesmo tempo. Em nível fisiológico, são <b>permissivos</b> ao crescimento: potencializam a ação do GH e do IGF-1 e são indispensáveis à maturação do esqueleto e do sistema nervoso. Em excesso, a degradação supera a síntese.</p>
     <div class="tbl"><table>
-      <thead><tr><th>Precursor</th><th>Produto</th><th>Importância veterinária</th></tr></thead>
+      <thead><tr><th>Situação</th><th>Efeito sobre a proteína</th><th>Quadro veterinário</th></tr></thead>
       <tbody>
-        <tr><td><b>Glicina + succinil-CoA</b></td><td><b>Heme</b> (via ALA sintase, com PLP)</td><td>Hemoglobina, mioglobina, citocromos. O <b>chumbo</b> inibe a ALA desidratase e a ferroquelatase. Na <b>porfiria eritropoética congênita</b> de bovinos, porfirinas acumulam e deixam dentes e urina avermelhados e fluorescentes, com fotossensibilização</td></tr>
-        <tr><td><b>Glicina + arginina + metionina</b> (SAM)</td><td><b>Creatina</b> → fosfocreatina → creatinina</td><td>Reserva rápida de energia do músculo. A creatinina é produzida em ritmo constante, proporcional à massa muscular (Galgos têm creatinina mais alta; animais caquéticos, mais baixa)</td></tr>
-        <tr><td><b>Tirosina</b></td><td>L-DOPA → <b>dopamina → noradrenalina → adrenalina</b>; <b>melanina</b>; <b>T<sub>3</sub> e T<sub>4</sub></b> (tirosinas iodadas na tireoglobulina)</td><td>Catecolaminas da medula adrenal e do sistema simpático; pigmentação (tirosinase: albinismo); hormônios tireoidianos (bócio por deficiência de iodo em bezerros e cordeiros)</td></tr>
-        <tr><td><b>Triptofano</b></td><td><b>Serotonina</b> → <b>melatonina</b>; niacina</td><td>A melatonina da pineal traduz o fotoperíodo: controla a estacionalidade reprodutiva de ovinos, caprinos (dias curtos) e equinos (dias longos). O gato <b>não</b> converte triptofano em niacina de forma eficiente: precisa de niacina pronta</td></tr>
-        <tr><td><b>Histidina</b></td><td><b>Histamina</b> (histidina descarboxilase)</td><td>Mastócitos e basófilos: alergia, anafilaxia, secreção gástrica de HCl. Peixe mal conservado acumula histamina (intoxicação escombroide); laminite e acidose ruminal também envolvem aminas</td></tr>
-        <tr><td><b>Glutamato</b></td><td><b>GABA</b> (com PLP)</td><td>Principal neurotransmissor inibitório; deficiência de B<sub>6</sub> pode causar convulsões</td></tr>
-        <tr><td><b>Arginina</b></td><td><b>Óxido nítrico</b> (NO sintase); ornitina → poliaminas</td><td>Vasodilatação, ereção, defesa dos macrófagos. Poliaminas são necessárias para a divisão celular</td></tr>
-        <tr><td><b>Glutamato + cisteína + glicina</b></td><td><b>Glutationa</b> (GSH)</td><td>Principal antioxidante da célula. Gatos com pouca glutationa e baixa glicuronidação desenvolvem metemoglobinemia e corpúsculos de Heinz com <b>paracetamol</b>; cebola e alho também esgotam a GSH das hemácias</td></tr>
-        <tr><td><b>Cisteína</b></td><td><b>Taurina</b></td><td>Conjugação de ácidos biliares, contração cardíaca, retina (essencial para gatos)</td></tr>
-        <tr><td><b>Lisina + metionina</b></td><td><b>Carnitina</b></td><td>Transporte de ácidos graxos para a mitocôndria (β-oxidação)</td></tr>
-        <tr><td><b>Glicina, glutamina, aspartato</b></td><td>Bases <b>purinas e pirimidinas</b></td><td>DNA, RNA, ATP; nas aves, ácido úrico</td></tr>
+        <tr><td><b>Hipotireoidismo congênito</b></td><td>Síntese e crescimento reduzidos; ação do GH prejudicada</td><td>Nanismo desproporcional (membros curtos), atraso na erupção dentária, letargia; “cretinismo” em filhotes de cão e gato; bócio em bezerros e cordeiros com deficiência de iodo</td></tr>
+        <tr><td><b>Hipotireoidismo adquirido</b></td><td>Turnover lento; acúmulo de glicosaminoglicanos na derme</td><td>Cão de meia-idade obeso, letárgico, intolerante ao frio, com alopecia e “expressão trágica” (mixedema facial)</td></tr>
+        <tr><td><b>Hipertireoidismo</b></td><td>Degradação &gt; síntese; balanço nitrogenado negativo</td><td><b>Gato idoso</b> com adenoma de tireoide: polifagia, perda de peso, <b>perda muscular evidente</b>, taquicardia, hiperatividade; ALT e fosfatase alcalina altas</td></tr>
       </tbody></table></div>
-    <h4>Controle hormonal do metabolismo proteico</h4>
+    <div class="note clin"><b>Na clínica: o gato hipertireóideo e o rim</b><p>A perda de massa muscular reduz a produção de <b>creatinina</b>, e o hipertireoidismo aumenta a filtração glomerular: os dois efeitos <b>mascaram</b> uma doença renal crônica concomitante. Depois do tratamento (metimazol, iodo radioativo, cirurgia ou dieta pobre em iodo), a creatinina pode subir. Por isso, avalia-se a função renal antes e depois de controlar a tireoide.</p></div>
+
+    <h3><span class="tag">18.6</span>Andrógenos, anabolizantes e β-agonistas</h3>
+    <h4>Testosterona e esteroides anabolizantes</h4>
+    <p>A <b>testosterona</b> entra na fibra muscular e se liga ao <b>receptor de andrógeno</b> nuclear, aumentando a transcrição de proteínas contráteis e o número de núcleos (ativa as células satélites). Também estimula o IGF-1 local e antagoniza o efeito catabólico do cortisol. Por isso <b>machos inteiros</b> têm carcaça mais musculosa e magra que castrados, crescem mais rápido e convertem melhor o alimento; a castração reduz a massa muscular e aumenta a deposição de gordura (e o marmoreio).</p>
+    <p>Os <b>esteroides anabolizantes sintéticos</b> (trembolona, nandrolona, boldenona, estanozolol) e os implantes de estrógenos (zeranol, estradiol) foram usados para acelerar o ganho de peso de bovinos. No <b>Brasil, o uso de anabolizantes hormonais em bovinos de corte é proibido</b>, assim como na União Europeia; nos Estados Unidos e em outros países os implantes são permitidos. Em equinos de esporte, a boldenona e o estanozolol são substâncias de <b>doping</b>; em cães, o uso terapêutico é restrito (estimular apetite e eritropoese) e traz riscos hepáticos e comportamentais.</p>
+    <h4>β-agonistas: repartidores de nutrientes</h4>
+    <p>Os <b>β-agonistas adrenérgicos</b> (ractopamina, zilpaterol, clenbuterol) ligam-se a receptores β no músculo e no tecido adiposo, aumentam o AMPc e:</p>
+    <ul>
+      <li>no <b>músculo</b>: aumentam a síntese e <b>reduzem a degradação</b> de proteína (inibem calpaínas, por aumento da calpastatina), com hipertrofia das fibras;</li>
+      <li>no <b>tecido adiposo</b>: estimulam a lipólise e inibem a lipogênese.</li>
+    </ul>
+    <p>O resultado é <b>mais carne magra com menos gordura</b> para a mesma ração: são “repartidores de nutrientes”. A <b>ractopamina</b> é usada na fase final de terminação de suínos (e, em alguns países, de bovinos), por poucas semanas; o efeito diminui com o tempo porque os receptores são dessensibilizados. Seu uso é <b>proibido em muitos mercados</b> (União Europeia, China, Rússia, entre outros), e por isso, no Brasil, frigoríficos que exportam para esses destinos exigem programas livres de ractopamina. O <b>clenbuterol</b> é proibido como promotor de crescimento em praticamente todo o mundo: tem meia-vida longa, deixa resíduos em fígado e carne e já causou intoxicações humanas (tremores, taquicardia). Em equinos, é usado apenas como broncodilatador, com prescrição.</p>
+    <div class="note clin"><b>Na produção: efeitos indesejados dos β-agonistas</b><p>Suínos e bovinos tratados com ractopamina ou zilpaterol, sobretudo em altas doses ou no calor, ficam mais agitados e podem apresentar <b>taquicardia, dificuldade de locomoção</b> e mais animais caídos no transporte e no abate, além de carne um pouco menos macia (menos atividade das calpaínas). O bem-estar animal pesa cada vez mais na decisão de uso.</p></div>
+    <div class="note trap"><b>Pegadinha</b><p>A ractopamina <b>não é um hormônio esteroide</b>: é um agonista β-adrenérgico, parente da adrenalina, que age em receptor de membrana (AMPc). Por isso ela não se confunde com os “anabolizantes hormonais” proibidos pela legislação brasileira, que são esteroides e agem em receptor nuclear.</p></div>
+
+    <h3><span class="tag">18.7</span>Estresse, trauma e sepse: o balanço nitrogenado negativo</h3>
+    <p>Em qualquer agressão importante (cirurgia, trauma, queimadura, infecção grave, febre), o organismo muda de prioridade: precisa de glicose para feridas e células de defesa, de aminoácidos para proteínas de fase aguda, anticorpos e reparo tecidual, e de glutamina para enterócitos e linfócitos. Para isso, a resposta neuroendócrina transforma o músculo em fornecedor.</p>
     <div class="flow">
       <div class="lane up"><h5>Anabólicos (síntese ↑)</h5><ol>
-        <li><b>Insulina</b>: aumenta a captação de aminoácidos pelo músculo, estimula a síntese proteica (via mTOR) e inibe a proteólise. No diabetes descontrolado, o animal perde massa muscular apesar de comer muito.</li>
-        <li><b>GH e IGF-1</b>: o hormônio do crescimento age por meio do IGF-1 produzido no fígado; aumenta a síntese proteica e o crescimento ósseo e muscular. A somatotropina bovina recombinante (bST) aumenta a produção de leite (permitida no Brasil, proibida na União Europeia).</li>
-        <li><b>Andrógenos</b> (testosterona): aumentam massa muscular; machos inteiros têm carcaça mais musculosa. O uso de anabolizantes em bovinos de corte é <b>proibido</b> no Brasil.</li>
-        <li><b>Hormônios tireoidianos em nível normal</b>: necessários ao crescimento (cretinismo no hipotireoidismo congênito).</li></ol></div>
+        <li><b>Insulina</b>: captação de aminoácidos, mTOR, inibição da proteólise.</li>
+        <li><b>GH e IGF-1</b>: síntese proteica, crescimento ósseo e muscular.</li>
+        <li><b>Andrógenos</b> e <b>β-agonistas</b>: hipertrofia muscular, menos gordura.</li>
+        <li><b>Hormônios tireoidianos em nível normal</b>: permissivos ao crescimento.</li></ol></div>
       <div class="lane down"><h5>Catabólicos (degradação ↑)</h5><ol>
-        <li><b>Cortisol</b>: estimula a proteólise muscular e a captação hepática de aminoácidos para a gliconeogênese, além de induzir as enzimas do ciclo da ureia. No <b>hiperadrenocorticismo</b> canino: músculos atrofiados, abdômen pendular, pele fina e cicatrização ruim. No estresse de transporte, os bovinos perdem peso e massa.</li>
-        <li><b>Glucagon</b>: aumenta a captação de aminoácidos pelo fígado, a gliconeogênese e a ureagênese.</li>
-        <li><b>Hormônios tireoidianos em excesso</b>: aceleram o turnover com predomínio da degradação. O <b>gato hipertireóideo</b> come muito e emagrece, com perda muscular evidente.</li>
-        <li><b>Catecolaminas</b> e citocinas inflamatórias (TNF-α, IL-1, IL-6): na sepse e no câncer, causam <b>caquexia</b>.</li></ol></div>
+        <li><b>Cortisol</b>: proteólise muscular, gliconeogênese, ureagênese.</li>
+        <li><b>Glucagon</b> e <b>catecolaminas</b>: gliconeogênese e ureagênese hepáticas.</li>
+        <li><b>Hormônios tireoidianos em excesso</b>: turnover com predomínio da degradação.</li>
+        <li><b>Citocinas</b> (TNF-α, IL-1, IL-6): na sepse e no câncer, <b>caquexia</b>; resistência à insulina e ao GH.</li></ol></div>
     </div>
-    <div class="note clin"><b>Na clínica: o animal internado</b><p>Cães e gatos hospitalizados com febre, trauma ou cirurgia estão em <b>balanço nitrogenado negativo</b>: cortisol, glucagon, catecolaminas e citocinas aceleram a proteólise muscular para fornecer glicose, proteínas de fase aguda e substrato para o sistema imune. Sem alimentação, perdem músculo rapidamente, cicatrizam mal e respondem pior à infecção. Por isso a <b>nutrição precoce</b> (sonda, se necessário) em até 3 a 5 dias de anorexia faz parte do tratamento, com atenção especial ao gato, que entra em lipidose hepática.</p></div>
-    <div class="note mem"><b>Resumo do capítulo em uma linha</b><p>Aminoácido sobrando → <b>transaminação</b> (PLP) → <b>glutamato</b> → <b>GDH</b> → NH<sub>4</sub><sup>+</sup> → <b>ciclo da ureia</b> no fígado (5 enzimas, 4 ~P) → ureia na urina, no leite ou, no ruminante, de volta ao rúmen; esqueleto → <b>glicose</b> (glicogênicos) ou <b>corpos cetônicos</b> (cetogênicos, leucina e lisina).</p></div>
+    <p>A diferença entre a perda de massa no <b>jejum simples</b> e na <b>doença</b> é importante. No jejum, depois de alguns dias, o organismo se adapta: corpos cetônicos substituem parte da glicose no cérebro e a proteólise <b>diminui</b> para poupar músculo. Na doença grave, citocinas e hormônios do estresse <b>impedem essa adaptação</b>: a proteólise continua alta mesmo com cetose, e a perda de massa magra é muito mais rápida (caquexia). Alimentar só com glicose não corrige o quadro, porque a resistência à insulina persiste.</p>
+    <div class="note clin"><b>Na clínica: o animal internado</b><p>Cães e gatos hospitalizados com febre, trauma ou cirurgia estão em <b>balanço nitrogenado negativo</b>: cortisol, glucagon, catecolaminas e citocinas aceleram a proteólise muscular para fornecer glicose, proteínas de fase aguda e substrato para o sistema imune. Sem alimentação, perdem músculo rapidamente, cicatrizam mal e respondem pior à infecção. Por isso a <b>nutrição precoce</b> (sonda, se necessário) em até 3 a 5 dias de anorexia faz parte do tratamento, com atenção especial ao gato, que entra em lipidose hepática. A avaliação do <b>escore de condição muscular</b> (palpação da musculatura temporal, escapular e lombar) complementa o escore de condição corporal: um animal obeso pode estar perdendo músculo.</p></div>
+    <div class="note clin"><b>Na produção: estresse de transporte e desmame</b><p>Bovinos transportados por longas distâncias, leitões no desmame e frangos em estresse térmico têm cortisol elevado, menor consumo e balanço nitrogenado negativo: perdem peso (“quebra”), ficam mais suscetíveis a doenças respiratórias e entéricas e demoram a retomar o ganho. Manejo calmo, água, sombra, dietas de transição palatáveis e com proteína de boa qualidade reduzem as perdas. No pré-abate, o estresse prolongado esgota o glicogênio muscular e resulta em <b>carne DFD</b> (escura, firme e seca).</p></div>
+    <div class="note mem"><b>Memorize</b><p><b>Anabólicos</b>: insulina, GH/IGF-1, andrógenos, β-agonistas, T<sub>3</sub>/T<sub>4</sub> em dose fisiológica. <b>Catabólicos</b>: cortisol, glucagon, catecolaminas, T<sub>3</sub>/T<sub>4</sub> em excesso, citocinas. Doença grave = <b>balanço nitrogenado negativo</b> que o jejum adaptado não explica: alimente cedo.</p></div>
 
     <div class="quiz" data-quiz="hormprot"></div>
   </div>

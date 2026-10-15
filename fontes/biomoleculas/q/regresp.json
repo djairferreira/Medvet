@@ -1,0 +1,453 @@
+[
+ {
+  "c": "regresp",
+  "q": "Os quimiorreceptores centrais respondem diretamente a:",
+  "o": [
+   "H+ do líquor gerado pelo CO2",
+   "queda da PaO2 no sangue arterial",
+   "HCO3− plasmático que atravessa a barreira",
+   "concentração de hemoglobina no sangue"
+  ],
+  "e": "O CO2 atravessa a barreira hematoencefálica e forma H+ no líquor."
+ },
+ {
+  "c": "regresp",
+  "q": "Os únicos receptores que respondem à hipoxemia estimulando a ventilação são:",
+  "o": [
+   "os corpos carotídeos e aórticos",
+   "os quimiorreceptores bulbares",
+   "os receptores de estiramento",
+   "os receptores J"
+  ],
+  "e": "Os quimiorreceptores periféricos disparam com PaO2 < ~60 mmHg."
+ },
+ {
+  "c": "regresp",
+  "q": "O gerador do ritmo respiratório está no:",
+  "o": [
+   "complexo pré-Bötzinger do bulbo",
+   "córtex motor primário do telencéfalo",
+   "cerebelo, junto ao núcleo do vago",
+   "hipotálamo anterior (área pré-óptica)"
+  ],
+  "e": "Faz parte do grupo respiratório ventral."
+ },
+ {
+  "c": "regresp",
+  "q": "O reflexo de Hering-Breuer:",
+  "o": [
+   "encerra a inspiração pelo estiramento pulmonar",
+   "inicia a tosse ao detectar partículas",
+   "estimula a ventilação durante a hipóxia",
+   "contrai a musculatura lisa dos brônquios"
+  ],
+  "e": "Receptores de estiramento, via vago, inibem a inspiração."
+ },
+ {
+  "c": "regresp",
+  "q": "Na intoxicação por monóxido de carbono, os quimiorreceptores não são estimulados porque:",
+  "o": [
+   "a PaO2 permanece normal",
+   "o CO bloqueia o bulbo",
+   "o pH fica alcalino",
+   "o CO2 desaparece do sangue"
+  ],
+  "e": "O O2 dissolvido é normal; só o conteúdo cai."
+ },
+ {
+  "c": "regresp",
+  "q": "Partículas menores que 2 µm que chegam aos alvéolos são removidas principalmente por:",
+  "o": [
+   "macrófagos alveolares",
+   "aparelho mucociliar",
+   "espirro",
+   "cornetos nasais"
+  ],
+  "e": "Nos alvéolos não há cílios; quem age são os macrófagos."
+ },
+ {
+  "c": "regresp",
+  "q": "Em galpões de frangos, concentrações altas de amônia predispõem a doença respiratória porque:",
+  "o": [
+   "paralisam os cílios e lesam o epitélio",
+   "aumentam a produção de surfactante",
+   "estimulam os macrófagos",
+   "reduzem a frequência respiratória"
+  ],
+  "e": "A ciliostase compromete a depuração mucociliar."
+ },
+ {
+  "c": "regresp",
+  "q": "No cavalo, macrófagos intravasculares pulmonares ajudam a explicar:",
+  "o": [
+   "a sensibilidade pulmonar à endotoxemia",
+   "a respiração exclusivamente nasal",
+   "o acoplamento passo-respiração",
+   "a hemorragia por exercício"
+  ],
+  "e": "Eles captam endotoxinas e bactérias do sangue e liberam mediadores."
+ },
+ {
+  "c": "regresp",
+  "q": "A intoxicação por nitrato em bovinos produz sangue de cor:",
+  "o": [
+   "marrom-chocolate",
+   "vermelho-cereja",
+   "vermelho-vivo venoso",
+   "amarelado"
+  ],
+  "e": "A metemoglobina (Fe3+) é marrom."
+ },
+ {
+  "c": "regresp",
+  "q": "O tratamento específico da metemoglobinemia por nitrito em ruminantes é:",
+  "o": [
+   "azul de metileno intravenoso",
+   "tiossulfato de sódio",
+   "oxigênio hiperbárico apenas",
+   "vitamina K"
+  ],
+  "e": "Acelera a redução da meta-Hb via NADPH."
+ },
+ {
+  "c": "regresp",
+  "q": "A intoxicação por cianeto distingue-se da por nitrito porque:",
+  "o": [
+   "o sangue venoso fica vermelho-vivo",
+   "o sangue fica marrom-chocolate como no nitrito",
+   "há metemoglobina abundante no sangue venoso",
+   "a Hb perde a capacidade de ligar O2"
+  ],
+  "e": "O tecido não usa O2 (citocromo oxidase bloqueada)."
+ },
+ {
+  "c": "regresp",
+  "q": "Um gato com mucosas acastanhadas e edema de face após o tutor dar paracetamol tem:",
+  "o": [
+   "metemoglobinemia",
+   "intoxicação por CO",
+   "deficiência de surfactante",
+   "hipercapnia por obstrução"
+  ],
+  "e": "Gatos glicuronidam mal o paracetamol."
+ },
+ {
+  "c": "regresp",
+  "q": "Em cães braquicefálicos, a intolerância ao calor ocorre porque:",
+  "o": [
+   "a obstrução alta torna o ofego ineficiente",
+   "eles não têm glândulas sudoríparas nas patas",
+   "o surfactante é deficiente",
+   "a Hb tem P50 muito baixa"
+  ],
+  "e": "Narinas estenóticas e palato longo dificultam o fluxo de ar."
+ },
+ {
+  "c": "regresp",
+  "q": "O oxímetro de pulso comum em um cão resgatado de incêndio pode:",
+  "o": [
+   "superestimar a oxigenação",
+   "subestimar a PaO2",
+   "medir carboxi-Hb separadamente",
+   "detectar cianeto"
+  ],
+  "e": "Lê a carboxi-Hb como oxi-Hb."
+ },
+ {
+  "c": "regresp",
+  "q": "O grupo respiratório dorsal do bulbo localiza-se principalmente no:",
+  "o": [
+   "Núcleo do trato solitário",
+   "Núcleo ambíguo do vago",
+   "Locus coeruleus da ponte",
+   "Hipotálamo dorsomedial"
+  ],
+  "e": "O GRD fica no núcleo do trato solitário e recebe aferências vagais e glossofaríngeas."
+ },
+ {
+  "c": "regresp",
+  "q": "A função atribuída ao grupo respiratório pontino (antigo centro pneumotáxico) é:",
+  "o": [
+   "Encerrar a inspiração e ajustar a frequência",
+   "Gerar sozinho o ritmo respiratório basal",
+   "Detectar a queda de PaO2 no sangue arterial",
+   "Contrair diretamente o diafragma via frênico"
+  ],
+  "e": "O grupo pontino limita a inspiração e modula a frequência; o ritmo nasce no pré-Bötzinger."
+ },
+ {
+  "c": "regresp",
+  "q": "As células glomosas (tipo I) do corpo carotídeo respondem à hipóxia porque:",
+  "o": [
+   "Canais de K+ se fecham, a célula despolariza e libera transmissores",
+   "A hipóxia abre canais de Cl- e hiperpolariza a célula sensorial",
+   "O O2 dissolvido ativa diretamente as fibras do nervo frênico",
+   "A hemoglobina das células libera óxido nítrico sobre o vago"
+  ],
+  "e": "Hipóxia fecha canais de K+, entra Ca2+ e há liberação de ATP e dopamina."
+ },
+ {
+  "c": "regresp",
+  "q": "Por que uma variação de PaCO2 altera rapidamente o pH do líquor?",
+  "o": [
+   "O CO2 atravessa livremente a barreira hematoencefálica",
+   "O HCO3- atravessa a barreira mais rápido que o CO2",
+   "O líquor tem grande capacidade tamponante proteica",
+   "Os plexos coroides secretam H+ conforme a PaO2"
+  ],
+  "e": "CO2 difunde para o líquor, que tem pouco tampão; o pH muda e estimula os quimiorreceptores centrais."
+ },
+ {
+  "c": "regresp",
+  "q": "Partículas de 2 a 10 µm depositam-se principalmente:",
+  "o": [
+   "Na traqueia e nos brônquios",
+   "Nos cornetos nasais",
+   "Nos alvéolos",
+   "Nos sacos alveolares terminais"
+  ],
+  "e": "Partículas médias sedimentam nas vias condutoras e são removidas pela escada mucociliar."
+ },
+ {
+  "c": "regresp",
+  "q": "A camada periciliar (fase sol) do muco é importante porque:",
+  "o": [
+   "Permite que os cílios batam livremente sob o gel",
+   "Aprisiona as partículas inaladas maiores",
+   "Contém as mucinas que dão viscosidade ao muco",
+   "Secreta surfactante para os bronquíolos"
+  ],
+  "e": "Os cílios batem na fase sol líquida e tocam o gel apenas no golpe efetivo."
+ },
+ {
+  "c": "regresp",
+  "q": "A espessura da camada periciliar depende do transporte iônico por:",
+  "o": [
+   "CFTR (secreção de Cl-) e ENaC (absorção de Na+)",
+   "Bomba de prótons e trocador Na+/H+",
+   "Canais de Ca2+ tipo L e trocador Na+/Ca2+",
+   "Aquaporina-2 regulada pelo ADH"
+  ],
+  "e": "CFTR secreta Cl- e ENaC reabsorve Na+; a água segue os íons."
+ },
+ {
+  "c": "regresp",
+  "q": "O golpe efetivo do cílio respiratório caracteriza-se por ser:",
+  "o": [
+   "Rápido e rígido, tocando a camada de gel",
+   "Lento e dobrado, dentro da fase sol",
+   "Aleatório, sem coordenação entre cílios",
+   "Dependente de actina e miosina II"
+  ],
+  "e": "Golpe efetivo rápido e estendido; recuperação lenta e dobrada; motor de dineína."
+ },
+ {
+  "c": "regresp",
+  "q": "Em um cão com rinite e broncopneumonias de repetição desde filhote, situs inversus e infertilidade, suspeita-se de:",
+  "o": [
+   "Discinesia ciliar primária",
+   "Colapso de traqueia",
+   "Asma felina transmitida",
+   "Deficiência de surfactante"
+  ],
+  "e": "Defeito dos braços de dineína afeta cílios e flagelo; situs inversus na síndrome de Kartagener."
+ },
+ {
+  "c": "regresp",
+  "q": "Qual espécie NÃO possui macrófagos intravasculares pulmonares em número relevante?",
+  "o": [
+   "Cão",
+   "Bovino",
+   "Equino",
+   "Gato"
+  ],
+  "e": "Ruminantes, suínos, equinos e gatos têm; cães, roedores e humanos não."
+ },
+ {
+  "c": "regresp",
+  "q": "Nas vias aéreas superiores, a imunoglobulina predominante na proteção da mucosa é:",
+  "o": [
+   "IgA secretora",
+   "IgE",
+   "IgM",
+   "IgD"
+  ],
+  "e": "IgA secretora impede a adesão; nos alvéolos predomina IgG plasmática."
+ },
+ {
+  "c": "regresp",
+  "q": "A via aferente do reflexo do espirro é o nervo:",
+  "o": [
+   "Trigêmeo",
+   "Vago",
+   "Frênico",
+   "Hipoglosso"
+  ],
+  "e": "A mucosa nasal é inervada pelo trigêmeo; tosse é vagal."
+ },
+ {
+  "c": "regresp",
+  "q": "Na tosse, a fase que gera a pressão necessária para o jato de ar é:",
+  "o": [
+   "Contração abdominal forte com a glote fechada",
+   "Relaxamento do diafragma com a glote aberta",
+   "Broncodilatação com inspiração lenta",
+   "Fechamento do palato mole com expiração passiva"
+  ],
+  "e": "Glote fechada mais contração expiratória eleva a pressão; abertura súbita gera o jato."
+ },
+ {
+  "c": "regresp",
+  "q": "Por que antitussígenos são contraindicados na broncopneumonia com secreção abundante?",
+  "o": [
+   "A tosse é a via de saída do exsudato",
+   "Eles causam broncoconstrição intensa",
+   "Eles aumentam a produção de muco",
+   "Eles bloqueiam os macrófagos alveolares"
+  ],
+  "e": "Suprimir a tosse produtiva retém secreção; usam-se em tosse seca, como no colapso traqueal."
+ },
+ {
+  "c": "regresp",
+  "q": "O laringoespasmo durante a intubação é particularmente comum em:",
+  "o": [
+   "Gatos e coelhos",
+   "Cavalos e bovinos",
+   "Cães e suínos",
+   "Ovinos e caprinos"
+  ],
+  "e": "Gatos e coelhos têm reflexo laríngeo forte; usa-se lidocaína tópica."
+ },
+ {
+  "c": "regresp",
+  "q": "A concentração de amônia acima da qual ocorre ciliostase e lesão do epitélio em galpões é de cerca de:",
+  "o": [
+   "20 a 25 ppm",
+   "1 a 2 ppm",
+   "200 a 250 ppm",
+   "0,1 ppm"
+  ],
+  "e": "Acima de ~20–25 ppm a amônia paralisa cílios e favorece doença respiratória."
+ },
+ {
+  "c": "regresp",
+  "q": "O principal fator de virulência da Mannheimia haemolytica na pneumonia do transporte é:",
+  "o": [
+   "Leucotoxina que lisa leucócitos de ruminantes",
+   "Toxina que bloqueia a acetilcolinesterase",
+   "Urease que gera amônia no alvéolo",
+   "Neuraminidase que destrói o surfactante"
+  ],
+  "e": "A leucotoxina mata neutrófilos e macrófagos de ruminantes, que liberam enzimas lesivas."
+ },
+ {
+  "c": "regresp",
+  "q": "A lesão pulmonar típica da pneumonia do transporte bovina localiza-se:",
+  "o": [
+   "Na região cranioventral",
+   "Na região dorsocaudal",
+   "Apenas na pleura parietal",
+   "Difusamente no interstício"
+  ],
+  "e": "Broncopneumonia fibrinosa cranioventral, onde a deposição é maior e a depuração menor."
+ },
+ {
+  "c": "regresp",
+  "q": "Qual sequência resume a patogênese da febre do transporte?",
+  "o": [
+   "Estresse, vírus, proliferação bacteriana, leucotoxina",
+   "Leucotoxina, vírus, estresse, febre",
+   "Proliferação bacteriana, estresse, vírus, recuperação",
+   "Vírus, recuperação, estresse, leucotoxina"
+  ],
+  "e": "Cortisol e vírus derrubam a depuração; a Mannheimia prolifera e lesa o pulmão."
+ },
+ {
+  "c": "regresp",
+  "q": "Qual medida melhor previne a pneumonia do transporte em bezerros de corte?",
+  "o": [
+   "Pré-condicionamento: vacinar e desmamar antes do transporte",
+   "Antitussígeno no dia da chegada ao confinamento",
+   "Transporte longo sem paradas para reduzir estresse",
+   "Misturar lotes de origens diferentes na viagem"
+  ],
+  "e": "Vacinação e desmama prévias, viagem curta, água e descanso reduzem o risco."
+ },
+ {
+  "c": "regresp",
+  "q": "No cavalo estabulado, a asma equina é desencadeada principalmente por:",
+  "o": [
+   "Poeira e fungos do feno e da cama",
+   "Mannheimia haemolytica do pasto",
+   "Amônia produzida por aves no galpão",
+   "Exercício em dia frio e seco"
+  ],
+  "e": "Hipersensibilidade a poeira orgânica e esporos; o manejo ambiental é o tratamento mais eficaz."
+ },
+ {
+  "c": "regresp",
+  "q": "A pleuropneumonia do transporte equina relaciona-se a:",
+  "o": [
+   "Cabeça mantida elevada por horas, impedindo a drenagem do muco",
+   "Excesso de exercício no galope antes da viagem",
+   "Deficiência de selênio na dieta do potro",
+   "Uso de furosemida antes do transporte"
+  ],
+  "e": "Com a cabeça elevada o muco e as bactérias não drenam; contaminação das vias baixas."
+ },
+ {
+  "c": "regresp",
+  "q": "O frio e o ar seco prejudicam a depuração porque:",
+  "o": [
+   "Reduzem a fase sol e tornam o muco espesso",
+   "Aumentam a velocidade dos cílios excessivamente",
+   "Estimulam a fagocitose de forma descontrolada",
+   "Elevam a IgA nas secreções nasais"
+  ],
+  "e": "Ar frio e seco desidrata a mucosa, os cílios desaceleram e o muco engrossa."
+ },
+ {
+  "c": "regresp",
+  "q": "Vírus como BoHV-1 e BRSV favorecem pneumonia bacteriana porque:",
+  "o": [
+   "Lesam células ciliadas e deprimem macrófagos",
+   "Produzem leucotoxina contra neutrófilos",
+   "Estimulam a tosse e eliminam bactérias",
+   "Aumentam a produção de surfactante"
+  ],
+  "e": "A lesão viral do epitélio e dos macrófagos dura 1 a 2 semanas e abre caminho a bactérias."
+ },
+ {
+  "c": "regresp",
+  "q": "Bovinos com pneumonia frequentemente tossem pouco. Na triagem de bezerros, isso implica que:",
+  "o": [
+   "A ausência de tosse não exclui pneumonia",
+   "A tosse é o melhor marcador de pneumonia",
+   "Sem tosse o animal está imunizado",
+   "A pneumonia bovina não afeta as vias baixas"
+  ],
+  "e": "Usam-se temperatura, frequência respiratória e ultrassonografia torácica."
+ },
+ {
+  "c": "regresp",
+  "q": "Os agonistas β2-adrenérgicos atuam sobre a depuração mucociliar:",
+  "o": [
+   "Acelerando o transporte do muco",
+   "Paralisando os cílios temporariamente",
+   "Eliminando a fase sol do muco",
+   "Reduzindo o número de células ciliadas"
+  ],
+  "e": "β2-agonistas aumentam a frequência do batimento ciliar e o transporte."
+ },
+ {
+  "c": "regresp",
+  "q": "O reflexo que impede a aspiração durante a deglutição falha com mais frequência em:",
+  "o": [
+   "Megaesôfago, botulismo e anestesia",
+   "Febre, desidratação e anemia",
+   "Hipertireoidismo e diabetes",
+   "Obesidade e sedentarismo"
+  ],
+  "e": "Disfagia ou depressão de reflexos levam à pneumonia por aspiração."
+ }
+]

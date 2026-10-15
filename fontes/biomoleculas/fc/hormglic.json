@@ -1,0 +1,57 @@
+[
+ [
+  "hormglic",
+  "Ações da insulina?",
+  "GLUT4, glicogênese, lipogênese; inibe lipólise e gliconeogênese; leva K⁺ às células."
+ ],
+ [
+  "hormglic",
+  "Hormônios contrarreguladores?",
+  "Glucagon, adrenalina, cortisol, GH e hormônios tireoidianos."
+ ],
+ [
+  "hormglic",
+  "Glicemia de referência: vaca, cão e gato?",
+  "Vaca ~45–75; cão ~70–120; gato ~70–150 mg/dL (estresse pode passar de 250)."
+ ],
+ [
+  "hormglic",
+  "Diabetes canino × felino?",
+  "Cão: tipo 1-like, insulina para sempre, catarata. Gato: tipo 2-like, resistência e amiloide, remissão possível."
+ ],
+ [
+  "hormglic",
+  "Síndrome metabólica equina?",
+  "Obesidade regional + hiperinsulinemia → laminite; dieta pobre em carboidrato e exercício."
+ ],
+ [
+  "hormglic",
+  "Causas de hipoglicemia em cães?",
+  "Filhotes toy, cão de caça em esforço, insulinoma, xilitol, overdose de insulina, sepse."
+ ],
+ [
+  "hormglic",
+  "Como a célula β libera insulina?",
+  "GLUT2 → glicocinase → ↑ATP → fecha K-ATP → despolariza → Ca²⁺ entra → exocitose."
+ ],
+ [
+  "hormglic",
+  "Via de sinalização do glucagon?",
+  "Receptor Gs → AMPc → PKA → ↓ frutose-2,6-bisfosfato, fosforilase ativa, PK-L inativa; age no fígado."
+ ],
+ [
+  "hormglic",
+  "Insulina no ruminante?",
+  "Secretagogos: propionato e butirato; glicemia 45-75 mg/dL; tecidos menos sensíveis; glândula mamária capta glicose por GLUT1."
+ ],
+ [
+  "hormglic",
+  "GH e IGF-1 no início da lactação?",
+  "GH alto, IGF-1 baixo (desacoplamento): lipólise, poupa glicose para o leite (homeorrese)."
+ ],
+ [
+  "hormglic",
+  "Xilazina e glicemia?",
+  "Agonista α₂ inibe a insulina: hiperglicemia e glicosúria transitórias (bovinos, equinos, gatos)."
+ ]
+]

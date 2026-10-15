@@ -1,0 +1,47 @@
+[
+ [
+  "regresp",
+  "Quimiorreceptores periféricos",
+  "Corpos carotídeos e aórticos; únicos que respondem à hipoxemia (PaO2 < ~60)"
+ ],
+ [
+  "regresp",
+  "Nitrato × cianeto",
+  "Nitrito: metemoglobina, sangue marrom (azul de metileno). Cianeto: bloqueia citocromo oxidase, sangue vermelho-vivo"
+ ],
+ [
+  "regresp",
+  "Gerador do ritmo respiratório",
+  "Complexo pré-Bötzinger, no grupo respiratório ventral do bulbo."
+ ],
+ [
+  "regresp",
+  "Partícula × local de remoção",
+  ">10 µm: nariz e espirro; 2–10 µm: escada mucociliar e tosse; <2 µm: macrófagos alveolares."
+ ],
+ [
+  "regresp",
+  "Fase sol × gel do muco",
+  "Sol: periciliar, líquida, onde os cílios batem (CFTR/ENaC). Gel: viscosa, aprisiona partículas."
+ ],
+ [
+  "regresp",
+  "Aferências da tosse e do espirro",
+  "Espirro: trigêmeo (mucosa nasal). Tosse: vago (laringe, traqueia, brônquios)."
+ ],
+ [
+  "regresp",
+  "Fatores que derrubam a depuração",
+  "Frio/ar seco, amônia >20–25 ppm, poeira, vírus (BoHV-1, BRSV), cortisol do estresse e do transporte."
+ ],
+ [
+  "regresp",
+  "Pneumonia do transporte bovina",
+  "Estresse + vírus → Mannheimia haemolytica A1 (leucotoxina) → broncopneumonia fibrinosa cranioventral."
+ ],
+ [
+  "regresp",
+  "Macrófagos intravasculares pulmonares",
+  "Ruminantes, suínos, equinos e gatos (não cão): retiram endotoxina do sangue e explicam lesão pulmonar na endotoxemia."
+ ]
+]

@@ -1,0 +1,486 @@
+[
+ {
+  "c": "exercicio",
+  "q": "No galope, o cavalo apresenta acoplamento locomoção-respiração de:",
+  "o": [
+   "uma respiração por passada",
+   "duas respirações por passada",
+   "uma respiração a cada quatro passadas",
+   "nenhuma relação fixa"
+  ],
+  "e": "Relação 1:1 no cânter e no galope."
+ },
+ {
+  "c": "exercicio",
+  "q": "A hemorragia pulmonar induzida por exercício no cavalo resulta principalmente de:",
+  "o": [
+   "ruptura de capilares por pressão vascular muito alta",
+   "coagulopatia hereditária de raças de corrida",
+   "deficiência de surfactante nos alvéolos dorsais",
+   "infecção bacteriana crônica das vias aéreas"
+  ],
+  "e": "Falha por estresse da parede capilar nas regiões dorsocaudais."
+ },
+ {
+  "c": "exercicio",
+  "q": "O fármaco usado antes de corridas para reduzir a hemorragia pulmonar no cavalo é:",
+  "o": [
+   "furosemida",
+   "atropina",
+   "dexametasona",
+   "azul de metileno"
+  ],
+  "e": "Reduz as pressões vasculares pulmonares."
+ },
+ {
+  "c": "exercicio",
+  "q": "A hipoxemia do cavalo em exercício máximo deve-se em parte a:",
+  "o": [
+   "tempo de trânsito capilar muito curto",
+   "excesso de surfactante nos alvéolos",
+   "baixo débito cardíaco durante o galope",
+   "alta afinidade da mioglobina muscular"
+  ],
+  "e": "O débito enorme limita o tempo para equilíbrio (limitação por difusão)."
+ },
+ {
+  "c": "exercicio",
+  "q": "O aumento abrupto da ventilação nos primeiros segundos de exercício deve-se principalmente a:",
+  "o": [
+   "Comando central e mecanorreceptores dos membros",
+   "Queda da PaO2 detectada pelo corpo carotídeo",
+   "Acúmulo de lactato no sangue arterial",
+   "Aumento da PaCO2 no líquor"
+  ],
+  "e": "A fase I é neural e precede mudanças nos gases sanguíneos."
+ },
+ {
+  "c": "exercicio",
+  "q": "No exercício moderado em estado estável, a PaCO2 arterial:",
+  "o": [
+   "Permanece próxima à de repouso",
+   "Sobe para cerca de 60 mmHg",
+   "Cai para cerca de 20 mmHg",
+   "Oscila sem relação com a carga"
+  ],
+  "e": "Hiperpneia: a ventilação acompanha a produção de CO2."
+ },
+ {
+  "c": "exercicio",
+  "q": "Hiperpneia difere de hiperventilação porque, na hiperpneia:",
+  "o": [
+   "A ventilação é proporcional à produção de CO2",
+   "A PaCO2 cai abaixo de 30 mmHg",
+   "Há alcalose respiratória obrigatória",
+   "O volume corrente fica abaixo do espaço morto"
+  ],
+  "e": "Na hiperventilação a ventilação excede o CO2 produzido e a PaCO2 cai."
+ },
+ {
+  "c": "exercicio",
+  "q": "Acima do limiar de lactato, a ventilação passa a crescer mais que a produção de CO2 porque:",
+  "o": [
+   "O H+ do lactato estimula os corpos carotídeos",
+   "A PaO2 sobe e estimula o bulbo",
+   "O comando cortical cessa",
+   "O espaço morto diminui a zero"
+  ],
+  "e": "Compensação respiratória da acidose metabólica: a PaCO2 cai."
+ },
+ {
+  "c": "exercicio",
+  "q": "No início do exercício, o aumento da ventilação minuto ocorre principalmente por aumento:",
+  "o": [
+   "Do volume corrente",
+   "Do espaço morto anatômico",
+   "Da capacidade residual funcional",
+   "Da resistência das vias aéreas"
+  ],
+  "e": "Aumentar o VC é mais eficiente, pois o espaço morto é fixo; depois sobe a frequência."
+ },
+ {
+  "c": "exercicio",
+  "q": "Pela equação de Fick, o V̇O2 é igual a:",
+  "o": [
+   "Débito cardíaco × diferença arteriovenosa de O2",
+   "Ventilação minuto × PaCO2",
+   "Frequência cardíaca × hematócrito",
+   "Volume corrente × frequência respiratória"
+  ],
+  "e": "V̇O2 = DC × (CaO2 − CvO2)."
+ },
+ {
+  "c": "exercicio",
+  "q": "O V̇O2máx de um cavalo Puro-Sangue treinado é de cerca de:",
+  "o": [
+   "160 a 200 mL/kg/min",
+   "20 a 30 mL/kg/min",
+   "50 a 60 mL/kg/min",
+   "400 a 500 mL/kg/min"
+  ],
+  "e": "Cerca de duas vezes o de um humano de elite."
+ },
+ {
+  "c": "exercicio",
+  "q": "Comparado a um bovino de mesmo peso, o cavalo tem V̇O2máx maior principalmente por:",
+  "o": [
+   "Coração, baço e músculos com mais mitocôndrias",
+   "Pulmão proporcionalmente muito maior",
+   "Hemoglobina sem efeito Bohr",
+   "Espaço morto muito menor"
+  ],
+  "e": "Espécies atléticas melhoram todos os elos, exceto proporcionalmente o pulmão."
+ },
+ {
+  "c": "exercicio",
+  "q": "A V_La4 usada em cavalos corresponde à velocidade em que:",
+  "o": [
+   "O lactato sanguíneo atinge 4 mmol/L",
+   "A frequência cardíaca atinge 400 bpm",
+   "O V̇O2 atinge 4 L/min",
+   "A PaO2 cai 4 mmHg"
+  ],
+  "e": "Quanto maior a V_La4, melhor o condicionamento aeróbico."
+ },
+ {
+  "c": "exercicio",
+  "q": "O lactato sobe acima do limiar mesmo com O2 disponível em parte porque:",
+  "o": [
+   "Fibras IIx são recrutadas e a glicólise supera a PDH",
+   "A mioglobina deixa de liberar O2",
+   "O ciclo de Krebs é inibido pela adrenalina",
+   "O fígado passa a produzir lactato"
+  ],
+  "e": "Recrutamento glicolítico e glicólise rápida fazem sobrar piruvato."
+ },
+ {
+  "c": "exercicio",
+  "q": "O excesso de consumo de O2 pós-exercício (débito de O2) serve para:",
+  "o": [
+   "Ressintetizar fosfocreatina e remover lactato",
+   "Produzir mais lactato no fígado",
+   "Aumentar o hematócrito em repouso",
+   "Reduzir a temperatura abaixo do normal"
+  ],
+  "e": "Também recarrega a mioglobina e paga o custo da temperatura elevada."
+ },
+ {
+  "c": "exercicio",
+  "q": "No galope, a relação entre passadas e ciclos respiratórios no cavalo é:",
+  "o": [
+   "1:1, obrigatória",
+   "2:1, opcional",
+   "1:3, variável",
+   "Ausente, respiração livre"
+  ],
+  "e": "Cada passada corresponde a um ciclo respiratório."
+ },
+ {
+  "c": "exercicio",
+  "q": "Durante o galope, a inspiração do cavalo ocorre quando:",
+  "o": [
+   "Os anteriores estão no ar e as vísceras recuam",
+   "Os anteriores tocam o solo e comprimem o tórax",
+   "A cabeça abaixa ao máximo",
+   "Os posteriores estão apoiados e o tórax se fecha"
+  ],
+  "e": "O pistão visceral puxa o diafragma caudalmente na fase aérea."
+ },
+ {
+  "c": "exercicio",
+  "q": "Para aumentar a ventilação no galope, o cavalo depende sobretudo de:",
+  "o": [
+   "Aumentar o volume corrente alongando a passada",
+   "Respirar pela boca",
+   "Dobrar a frequência sem mudar o passo",
+   "Reduzir o espaço morto fechando narinas"
+  ],
+  "e": "A frequência está presa à passada; só o VC pode crescer."
+ },
+ {
+  "c": "exercicio",
+  "q": "O cavalo é respirador nasal obrigatório porque:",
+  "o": [
+   "O palato mole envolve a epiglote",
+   "A língua bloqueia a orofaringe",
+   "Não possui músculos dilatadores da faringe",
+   "A traqueia se abre na cavidade nasal"
+  ],
+  "e": "A vedação palato-epiglote impede a respiração oral."
+ },
+ {
+  "c": "exercicio",
+  "q": "A hemiplegia laríngea recorrente do cavalo resulta da degeneração do:",
+  "o": [
+   "Nervo laríngeo recorrente esquerdo",
+   "Nervo frênico direito",
+   "Nervo facial bilateral",
+   "Nervo hipoglosso esquerdo"
+  ],
+  "e": "Paralisa o cricoaritenóideo dorsal e causa ruído inspiratório (cavalo roncador)."
+ },
+ {
+  "c": "exercicio",
+  "q": "Em relação ao cavalo, o acoplamento locomotor-respiratório do cão é:",
+  "o": [
+   "Mais flexível, podendo desacoplar e ofegar",
+   "Igualmente obrigatório em todas as marchas",
+   "Inexistente em qualquer velocidade",
+   "Sempre 1:4 no galope"
+  ],
+  "e": "O cão pode alternar padrões e respirar pela boca."
+ },
+ {
+  "c": "exercicio",
+  "q": "No galope máximo, a PaO2 de um cavalo saudável fica em torno de:",
+  "o": [
+   "60 a 75 mmHg",
+   "95 a 105 mmHg",
+   "30 a 40 mmHg",
+   "120 a 140 mmHg"
+  ],
+  "e": "Hipoxemia induzida pelo exercício, típica do equino."
+ },
+ {
+  "c": "exercicio",
+  "q": "A principal causa da hipoxemia de exercício no cavalo é:",
+  "o": [
+   "Limitação por difusão pelo trânsito capilar curto",
+   "Shunt anatômico pelo forame oval",
+   "Intoxicação por CO no hipódromo",
+   "Anemia por sequestro esplênico"
+  ],
+  "e": "Com DC enorme, o sangue passa menos de 0,3 s no capilar."
+ },
+ {
+  "c": "exercicio",
+  "q": "Durante o galope máximo, a PaCO2 do cavalo tende a:",
+  "o": [
+   "Subir para 50–60 mmHg",
+   "Cair para 20 mmHg",
+   "Permanecer em 40 mmHg",
+   "Zerar por hiperventilação"
+  ],
+  "e": "Hipoventilação relativa imposta pelo acoplamento e pela resistência."
+ },
+ {
+  "c": "exercicio",
+  "q": "Em cavalos mais condicionados, a hipoxemia de exercício tende a ser:",
+  "o": [
+   "Igual ou pior",
+   "Ausente",
+   "Sempre menor",
+   "Revertida pelo treino pulmonar"
+  ],
+  "e": "Débito maior com barreira inalterada agrava a limitação por difusão."
+ },
+ {
+  "c": "exercicio",
+  "q": "A HPIE é explicada principalmente por:",
+  "o": [
+   "Falha por estresse dos capilares sob alta pressão transmural",
+   "Ruptura de grandes artérias brônquicas por trauma",
+   "Infecção bacteriana das vias aéreas superiores",
+   "Deficiência de vitamina K adquirida no pasto"
+  ],
+  "e": "Pressão vascular alta e pressão alveolar muito negativa rompem a barreira."
+ },
+ {
+  "c": "exercicio",
+  "q": "A região pulmonar mais afetada pela HPIE é a:",
+  "o": [
+   "Dorsocaudal",
+   "Cranioventral",
+   "Hilar",
+   "Apical cranial"
+  ],
+  "e": "Lobos caudais dorsais; cranioventral é padrão de broncopneumonia."
+ },
+ {
+  "c": "exercicio",
+  "q": "O achado do lavado broncoalveolar que indica sangramento pulmonar prévio é:",
+  "o": [
+   "Hemossiderófagos",
+   "Eosinófilos",
+   "Mastócitos",
+   "Células de Curschmann"
+  ],
+  "e": "Macrófagos com hemossiderina persistem semanas após a HPIE."
+ },
+ {
+  "c": "exercicio",
+  "q": "A furosemida antes da corrida reduz a HPIE porque:",
+  "o": [
+   "Diminui a volemia e as pressões vasculares pulmonares",
+   "Aumenta a coagulação do sangue",
+   "Broncodilata e corrige a hipoxemia",
+   "Eleva o hematócrito por contração esplênica"
+  ],
+  "e": "Menor pressão capilar reduz a pressão transmural."
+ },
+ {
+  "c": "exercicio",
+  "q": "Qual sinal é o MENOS frequente nos cavalos com HPIE?",
+  "o": [
+   "Epistaxe",
+   "Queda de desempenho",
+   "Sangue na traqueia à endoscopia",
+   "Hemossiderófagos no lavado"
+  ],
+  "e": "Só 1–5% mostram epistaxe visível."
+ },
+ {
+  "c": "exercicio",
+  "q": "A contração esplênica no exercício é mediada principalmente por:",
+  "o": [
+   "Receptores α1-adrenérgicos do músculo liso capsular",
+   "Receptores muscarínicos M2 do endotélio",
+   "Receptores β2 que relaxam a cápsula",
+   "Aldosterona agindo sobre a polpa vermelha"
+  ],
+  "e": "Descarga simpática e adrenalina contraem a cápsula esplênica."
+ },
+ {
+  "c": "exercicio",
+  "q": "No galope máximo, o hematócrito do cavalo pode atingir:",
+  "o": [
+   "60 a 70%",
+   "25 a 30%",
+   "35 a 40%",
+   "85 a 95%"
+  ],
+  "e": "Autotransfusão a partir do baço."
+ },
+ {
+  "c": "exercicio",
+  "q": "O limite do benefício da esplenocontração é dado por:",
+  "o": [
+   "Aumento da viscosidade sanguínea",
+   "Queda da afinidade da Hb pelo O2",
+   "Redução do débito cardíaco",
+   "Hemólise intravascular imediata"
+  ],
+  "e": "Acima de ~60–65% de hematócrito a viscosidade anula o ganho."
+ },
+ {
+  "c": "exercicio",
+  "q": "Um cavalo agitado na coleta apresenta hematócrito de 52%. A interpretação mais prudente é:",
+  "o": [
+   "Pode ser contração esplênica, não desidratação",
+   "Policitemia vera confirmada",
+   "Anemia regenerativa compensada",
+   "Erro do analisador sem significado"
+  ],
+  "e": "Excitação contrai o baço; avalie junto com proteína total e clínica."
+ },
+ {
+  "c": "exercicio",
+  "q": "O ofego térmico do cão em repouso evita alcalose grave porque:",
+  "o": [
+   "O volume corrente fica próximo do espaço morto",
+   "A frequência respiratória diminui",
+   "O CO2 é retido nos sacos aéreos",
+   "O rim retém bicarbonato em segundos"
+  ],
+  "e": "V̇A = (VC − VEM) × f quase não muda."
+ },
+ {
+  "c": "exercicio",
+  "q": "A umidade alta favorece a hipertermia por esforço no cão porque:",
+  "o": [
+   "Reduz a evaporação no ofego",
+   "Aumenta a sudorese nos coxins",
+   "Diminui a produção de calor",
+   "Eleva a ventilação alveolar"
+  ],
+  "e": "Sem evaporação, o ofego não resfria."
+ },
+ {
+  "c": "exercicio",
+  "q": "No resfriamento de um cão com insolação por esforço, recomenda-se:",
+  "o": [
+   "Água em temperatura ambiente e ventilação",
+   "Banho de gelo prolongado",
+   "Cobrir com mantas térmicas",
+   "Restringir completamente a água"
+  ],
+  "e": "Água gelada causa vasoconstrição periférica e dificulta a perda de calor."
+ },
+ {
+  "c": "exercicio",
+  "q": "Qual adaptação ao treinamento aeróbico é MÍNIMA?",
+  "o": [
+   "Estrutura do pulmão e das vias aéreas",
+   "Densidade mitocondrial do músculo",
+   "Volume sistólico do coração",
+   "Densidade capilar muscular"
+  ],
+  "e": "O pulmão quase não muda; vira elo limitante."
+ },
+ {
+  "c": "exercicio",
+  "q": "O treinamento aeróbico eleva o limiar de lactato porque:",
+  "o": [
+   "Aumenta mitocôndrias, capilares e remoção de lactato",
+   "Reduz o número de fibras tipo I",
+   "Diminui o volume plasmático",
+   "Elimina a glicólise anaeróbica"
+  ],
+  "e": "Mais oxidação e remoção deslocam o limiar para velocidades maiores."
+ },
+ {
+  "c": "exercicio",
+  "q": "As aves voam em altitudes extremas em grande parte graças a:",
+  "o": [
+   "Fluxo unidirecional e troca em corrente cruzada",
+   "Diafragma muscular muito potente",
+   "Alvéolos maiores que os dos mamíferos",
+   "Hemoglobina sem cooperatividade"
+  ],
+  "e": "O sistema de parabrônquios permite extrair mais O2 do ar rarefeito."
+ },
+ {
+  "c": "exercicio",
+  "q": "Em frangos de corte de crescimento rápido, a demanda alta de O2 com coração e pulmão pequenos predispõe a:",
+  "o": [
+   "Hipertensão pulmonar e ascite",
+   "Hemorragia pulmonar por exercício",
+   "Asma por poeira de feno",
+   "Alcalose metabólica por vômito"
+  ],
+  "e": "Síndrome da hipertensão pulmonar (ascite) dos frangos."
+ },
+ {
+  "c": "exercicio",
+  "q": "A endoscopia dinâmica em exercício é indicada para diagnosticar:",
+  "o": [
+   "Obstruções das vias aéreas que só surgem em esforço",
+   "Anemia por perda crônica",
+   "Arritmias cardíacas de repouso",
+   "Laminite incipiente"
+  ],
+  "e": "Ex.: deslocamento dorsal do palato mole e colapso faríngeo."
+ },
+ {
+  "c": "exercicio",
+  "q": "A V200 em um teste de esteira equino é a velocidade em que:",
+  "o": [
+   "A frequência cardíaca chega a 200 bpm",
+   "O lactato chega a 200 mg/dL",
+   "A ventilação chega a 200 L/min",
+   "A temperatura sobe 2,0 °C"
+  ],
+  "e": "Índice de condicionamento cardiovascular."
+ },
+ {
+  "c": "exercicio",
+  "q": "Queda de desempenho, perda de peso e alteração da FC de repouso após meses de treino intenso sem descanso sugerem:",
+  "o": [
+   "Síndrome do sobretreinamento",
+   "Supercompensação adequada",
+   "Limiar de lactato elevado",
+   "Adaptação esplênica normal"
+  ],
+  "e": "Excesso de carga sem recuperação."
+ }
+]

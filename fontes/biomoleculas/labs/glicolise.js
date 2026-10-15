@@ -32,7 +32,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
     ['Mutase','O fosfato muda do C3 para o C2 (3-fosfoglicerato → 2-fosfoglicerato).'],
     ['Enolase','Sai uma água e forma-se o <b>fosfoenolpiruvato (PEP)</b>, de energia muito alta. O fluoreto do tubo de tampa cinza inibe esta enzima e preserva a glicose da amostra.'],
     ['Piruvato quinase','Segunda fosforilação no nível do substrato: <b>+2 ATP</b>. Irreversível e regulada (ativada pela frutose-1,6-bisfosfato; no fígado, desligada pelo glucagon).'],
-    ['Saldo','Glicose + 2 NAD⁺ + 2 ADP + 2 Pi → <b>2 piruvato + 2 NADH + 2 ATP</b> + 2 H₂O. Sem O₂, o piruvato vira lactato para devolver o NAD⁺; com O₂, vai para a mitocôndria (cap. 5).']
+    ['Saldo','Glicose + 2 NAD⁺ + 2 ADP + 2 Pi → <b>2 piruvato + 2 NADH + 2 ATP</b> + 2 H₂O. Sem O₂, o piruvato vira lactato para devolver o NAD⁺; com O₂, segue para a mitocôndria (Krebs e cadeia, adiante neste capítulo).']
   ];
   function box(svg,x,txt,col){E('rect',{x,y:78,width:262,height:52,rx:12,fill:'var(--panel)',stroke:col,'stroke-width':2.5},svg);T(svg,x+131,111,txt,{fs:txt.length>17?18:20,w:700})}
   function stat(svg,x,lab,v,col){E('rect',{x,y:262,width:140,height:70,rx:12,fill:'var(--panel)',stroke:'var(--line)'},svg);T(svg,x+70,286,lab,{fs:18,fill:'var(--muted)'});T(svg,x+70,322,v,{fs:28,w:800,fill:col})}
@@ -86,7 +86,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
       T(s,592,y+35,b[3],{fs:20,a:'end',w:800})});
     let msg;
     if(tipo==='hem')msg='<b>Hemácia</b>: sem mitocôndria, todo piruvato vira <b>lactato</b>, mesmo com muito oxigênio ao redor. Rende só <b>2 ATP por glicose</b>, por isso ela consome glicose sem parar. O lactato vai para o fígado (ciclo de Cori).';
-    else if(f>=0.9)msg='<b>Oxigênio suficiente</b>: o NADH devolve elétrons à cadeia respiratória, o NAD⁺ é regenerado na mitocôndria e o piruvato vira acetil-CoA. Cerca de <b>'+atp.toFixed(0)+' ATP por glicose</b> (cap. 5): pouca glicose gasta e quase nada de lactato.';
+    else if(f>=0.9)msg='<b>Oxigênio suficiente</b>: o NADH devolve elétrons à cadeia respiratória, o NAD⁺ é regenerado na mitocôndria e o piruvato vira acetil-CoA. Cerca de <b>'+atp.toFixed(0)+' ATP por glicose</b> (cap. 4): pouca glicose gasta e quase nada de lactato.';
     else if(f>0.1)msg='<b>Oxigênio parcial</b> (exercício intenso, anemia, choque leve): parte do piruvato não cabe na mitocôndria e vira lactato. O rendimento médio cai para <b>'+atp.toFixed(0)+' ATP por glicose</b>, e o consumo de glicose e o lactato sobem.';
     else msg='<b>Sem oxigênio</b> (sprint máximo, isquemia, choque grave): só a glicólise, <b>2 ATP por glicose</b>. Para a mesma energia são necessárias cerca de <b>15 vezes mais glicose</b>, e cada glicose vira 2 lactatos. É o cenário da hiperlactatemia.';
     out.innerHTML=msg+'<br><span style="color:var(--muted)">Considerando ≈ 30 ATP por glicose na oxidação completa.</span>';

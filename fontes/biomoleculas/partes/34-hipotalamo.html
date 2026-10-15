@@ -2,16 +2,23 @@
   <div class="ch-head">
     <div class="ch-num">34</div>
     <div><span class="eyebrow">Unidade VIII · Fisiologia respiratória e regulação da temperatura corporal · 08.04 Papel do hipotálamo</span><h2>Papel do hipotálamo</h2></div>
-    <div class="ch-meta"><button class="done-btn" data-done="hipotalamo" aria-pressed="false">Marcar como estudado</button><span class="chip">~30 min</span></div>
+    <div class="ch-meta"><button class="done-btn" data-done="hipotalamo" aria-pressed="false">Marcar como estudado</button><span class="chip">~45 min</span></div>
   </div>
   <div class="col">
-    <p class="oneliner">PENDENTE</p>
+    <p class="oneliner">O hipotálamo funciona como um termostato com sensores próprios: a área pré-óptica soma a informação dos termorreceptores da pele, do núcleo e do próprio encéfalo, compara com um ponto de ajuste e comanda, por vias simpáticas, motoras, endócrinas e comportamentais, os efetores que ganham ou perdem calor.</p>
     <div class="goals rv"><h4>Objetivos</h4><ul>
-      <li>PENDENTE</li></ul></div>
+      <li>Diferenciar termorreceptores periféricos e centrais, seus canais TRP e o papel de cada um.</li>
+      <li>Explicar como a área pré-óptica integra os sinais e compara a temperatura com o ponto de ajuste.</li>
+      <li>Traçar as vias efetoras do hipotálamo até vasos, gordura parda, músculo, glândulas e eixos endócrinos.</li>
+      <li>Reconhecer as variações fisiológicas do ponto de ajuste e da temperatura retal entre espécies.</li>
+      <li>Relacionar a termorregulação com sede, fome, comportamento e reprodução.</li>
+      <li>Prever o efeito de lesões hipotalâmicas, fármacos e toxinas sobre a temperatura corporal.</li>
+    </ul></div>
+
+    <p>No capítulo anterior (cap. 33) vimos os efetores: vasos da pele, glândulas sudoríparas, ofego, piloereção, tremor e gordura parda. Eles não agem por conta própria. Alguém precisa medir a temperatura, decidir se está alta ou baixa e acionar a combinação certa de respostas. Esse “alguém” é um conjunto de núcleos na base do encéfalo, o <strong>hipotálamo</strong>, que também controla sede, fome, reprodução e a hipófise. É por isso que a termorregulação está sempre entrelaçada com essas outras funções.</p>
 
     <h3><span class="tag">34.1</span>O hipotálamo: termostato do corpo</h3>
-    <p>Os <strong>termorreceptores</strong> estão em dois lugares. Os <strong>periféricos</strong>, na pele, são terminações nervosas livres com canais TRP (TRPM8 para o frio, TRPV1 e outros para o calor) e avisam com antecedência que o ambiente mudou. Os <strong>centrais</strong> ficam no próprio hipotálamo, na medula espinal e em vísceras e grandes veias, medindo a temperatura do núcleo.</p>
-    <p>A <strong>área pré-óptica do hipotálamo anterior</strong> contém neurônios sensíveis ao calor que integram essas informações e as comparam com um <strong>ponto de ajuste</strong> (cerca de 38 a 39 °C na maioria dos mamíferos domésticos, ~41 °C nas aves). Se a temperatura está acima do ponto de ajuste, ativam-se os mecanismos de perda (vasodilatação, sudorese, ofego); se está abaixo, os de conservação e produção, comandados por centros do hipotálamo posterior (vasoconstrição, piloereção, tremor, termogênese sem tremor) e pelos eixos endócrinos.</p>
+    <p>A <strong>área pré-óptica do hipotálamo anterior (APO)</strong>, logo à frente do quiasma óptico e junto à lâmina terminal, é o centro integrador. Ela recebe a informação dos termorreceptores, compara-a com um <strong>ponto de ajuste</strong> (cerca de 38 a 39 °C na maioria dos mamíferos domésticos, ~41 °C nas aves) e distribui comandos. Classicamente se dizia que o hipotálamo anterior era o “centro de perda de calor” e o posterior o “centro de conservação e produção”; hoje se sabe que os neurônios efetores estão espalhados (hipotálamo dorsomedial, núcleo paraventricular, tronco encefálico), mas a ideia funcional continua útil: <strong>calor → APO ativa a perda; frio → a APO libera os circuitos de produção e conservação</strong>.</p>
     <div class="tbl"><table>
       <thead><tr><th>Efetor</th><th>No calor</th><th>No frio</th></tr></thead>
       <tbody>
@@ -22,6 +29,54 @@
         <tr><td><b>Endócrino</b></td><td>↓ T<sub>4</sub>, ↓ apetite</td><td>↑ TRH/TSH/T<sub>4</sub>, ↑ catecolaminas, ↑ apetite</td></tr>
         <tr><td><b>Comportamento</b></td><td>Sombra, água, deitar esticado</td><td>Abrigo, agrupar-se, enrolar-se</td></tr>
       </tbody></table></div>
+    <p>Os efetores são recrutados numa <strong>ordem econômica</strong>. Perto do ponto de ajuste bastam o comportamento e os ajustes vasomotores, que custam quase nada. Só quando eles não bastam entram os caros: evaporação (gasta água) no calor; tremor e termogênese sem tremor (gastam energia) no frio. Cada efetor tem seu próprio <strong>limiar</strong>: entre o limiar de vasoconstrição e o de vasodilatação há uma pequena faixa, a <strong>zona interlimiar</strong>, em que nenhuma resposta ativa é acionada. É essa faixa, vista do lado do ambiente, que corresponde à zona de termoneutralidade (cap. 36).</p>
+    <section class="labbox rv" aria-labelledby="hyTitle">
+      <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="hyTitle">O termostato hipotalâmico em ação</h4></div></header>
+      <div class="ctrl" id="hyCond" role="group" aria-label="Situação do hipotálamo">
+        <button class="tbtn" type="button" data-k="normal" aria-pressed="true">Animal saudável</button>
+        <button class="tbtn" type="button" data-k="febre" aria-pressed="false">PGE₂ (febre)</button>
+        <button class="tbtn" type="button" data-k="lesao" aria-pressed="false">Lesão da área pré-óptica</button>
+        <button class="tbtn" type="button" data-k="aneste" aria-pressed="false">Anestesia geral</button>
+      </div>
+      <div class="te-sl"><label>Temperatura central: <b id="hyTcV">38,5 °C</b><input id="hyTc" type="range" min="35" max="42" step="0.1" value="38.5"></label></div>
+      <div class="svgwrap"><svg id="hySvg" viewBox="0 0 600 330" role="img" aria-label="Escala de temperatura central com o ponto de ajuste e a intensidade de cada efetor térmico"></svg></div>
+      <div class="readout" id="hyOut" aria-live="polite"></div>
+    </section>
+
+    <h3><span class="tag">34.2</span>Termorreceptores periféricos e centrais</h3>
+    <p>Os <strong>termorreceptores periféricos</strong> ficam na pele e nas mucosas. São terminações nervosas livres de fibras Aδ (frio) e C (calor) cujas membranas têm canais da família <strong>TRP</strong> (receptor de potencial transitório), canais catiônicos que se abrem em faixas de temperatura específicas:</p>
+    <div class="tbl min"><table>
+      <thead><tr><th>Canal</th><th>Ativado por</th><th>Curiosidade</th></tr></thead>
+      <tbody>
+        <tr><td><b>TRPM8</b></td><td>Frio moderado (&lt; ~25 °C)</td><td>Também ativado pelo <strong>mentol</strong>: por isso a pomada mentolada “esfria” sem baixar a temperatura.</td></tr>
+        <tr><td><b>TRPA1</b></td><td>Frio intenso e irritantes</td><td>Ativado por óleo de mostarda e alho; participa da dor ao frio.</td></tr>
+        <tr><td><b>TRPV3 e TRPV4</b></td><td>Calor ameno (~30–39 °C)</td><td>Abundantes nos queratinócitos, que “conversam” com as terminações nervosas.</td></tr>
+        <tr><td><b>TRPV1</b></td><td>Calor nocivo (&gt; ~43 °C) e prótons</td><td>Ativado pela <strong>capsaicina</strong> da pimenta. As aves têm um TRPV1 insensível à capsaicina, por isso comem pimenta sem desconforto.</td></tr>
+        <tr><td><b>TRPM2</b></td><td>Calor, em neurônios da APO</td><td>Ajuda a tornar alguns neurônios hipotalâmicos sensíveis à temperatura do próprio sangue.</td></tr>
+      </tbody></table></div>
+    <p>Os receptores de frio são muito mais numerosos que os de calor na pele, o que faz sentido: a pele quase sempre está mais fria que o núcleo, e o sinal de frio da superfície permite <strong>antecipar</strong> a perda de calor antes que o núcleo esfrie. O sinal sobe pelo corno dorsal da medula até o <strong>núcleo parabraquial lateral</strong> da ponte, que o retransmite à APO (essa via serve à termorregulação; a via talâmica até o córtex gera a <em>sensação</em> consciente de frio ou calor).</p>
+    <p>Os <strong>termorreceptores centrais</strong> medem a temperatura do núcleo. Estão na própria APO (neurônios <strong>sensíveis ao calor</strong>, que aumentam sua frequência de disparo quando o sangue que os banha esquenta), no tronco encefálico, na <strong>medula espinal</strong>, nas vísceras abdominais (aferências vagais e esplâncnicas) e nas paredes das grandes veias. A APO soma tudo numa espécie de “temperatura média ponderada”, em que o núcleo pesa mais que a pele.</p>
+    <div class="cards">
+      <div class="card"><span class="role">Carneiro</span><h5>Termostato no escroto</h5><p>O escroto do carneiro tem termorreceptores tão influentes que aquecê-lo isoladamente dispara o ofego e baixa a temperatura do corpo inteiro, protegendo a espermatogênese (cap. 38).</p></div>
+      <div class="card"><span class="role">Aves</span><h5>A medula manda</h5><p>Nas aves a medula espinal é um sensor térmico tão importante quanto o hipotálamo: aquecer a medula da galinha provoca ofego mesmo com o encéfalo frio.</p></div>
+      <div class="card"><span class="role">Ruminantes</span><h5>Encéfalo mais frio que o corpo</h5><p>Com a rede carotídea (cap. 33), o hipotálamo do ruminante desidratado pode ficar mais frio que o sangue do tronco; ele “lê” menos calor, ofega menos e economiza água.</p></div>
+    </div>
+    <div class="note trap"><b>Pegadinha</b><p>A sensação de frio na pele não significa que o animal esteja hipotérmico, e vice-versa. A APO usa a pele como aviso antecipado, mas a decisão final pesa sobretudo a temperatura central. Um animal febril em fase de subida está quente no núcleo e mesmo assim treme.</p></div>
+
+    <h3><span class="tag">34.3</span>Da área pré-óptica aos efetores: núcleos e vias</h3>
+    <p>Grande parte dos neurônios sensíveis ao calor da APO é <strong>inibitória (GABAérgica)</strong>. Em repouso eles freiam continuamente os circuitos que produzem e conservam calor. A lógica é elegante:</p>
+    <ol class="steps">
+      <li><b>Calor</b><span>O sangue e a pele esquentam → os neurônios sensíveis ao calor disparam mais → <strong>mais freio</strong> sobre os circuitos de produção (menos tremor, menos gordura parda, menos vasoconstrição) e ativação das vias de perda (vasodilatação ativa, sudorese, ofego).</span></li>
+      <li><b>Frio</b><span>Os neurônios sensíveis ao calor disparam menos e, além disso, o sinal de frio da pele chega à APO e inibe esses mesmos neurônios → o freio é solto (<strong>desinibição</strong>).</span></li>
+      <li><b>Hipotálamo dorsomedial (HDM)</b><span>Liberado do freio, envia sinais excitatórios ao tronco encefálico.</span></li>
+      <li><b>Núcleo pálido da rafe (bulbo rostral)</b><span>É a “estação de saída”: projeta-se para os neurônios simpáticos pré-ganglionares da medula torácica (vasoconstrição cutânea, gordura parda via β<sub>3</sub>, coração) e, por vias somáticas, aos motoneurônios do corno ventral (tônus muscular e <strong>tremor</strong>).</span></li>
+      <li><b>Núcleo paraventricular (NPV)</b><span>Libera <strong>TRH</strong> (eixo tireoidiano, termogênese de longo prazo), <strong>CRH</strong> (cortisol no estresse térmico) e, junto com o núcleo supraóptico, <strong>vasopressina</strong>, que poupa água quando o animal ofega ou sua.</span></li>
+    </ol>
+    <p>As vias de <strong>perda</strong> de calor também partem da APO: a inibição do tônus simpático vasoconstritor libera o fluxo cutâneo; em algumas regiões (orelhas do coelho, cauda do rato, pele do equino) há ainda fibras <strong>vasodilatadoras ativas</strong>. O <strong>ofego</strong> é comandado por um centro na ponte e no hipotálamo que acelera a frequência respiratória sem aumentar proporcionalmente o volume corrente, ventilando sobretudo o espaço morto (cap. 32). A sudorese é simpática: <strong>colinérgica</strong> nas glândulas écrinas (humanos, coxins dos carnívoros) e predominantemente <strong>adrenérgica</strong> (β<sub>2</sub>, adrenalina circulante) nas glândulas apócrinas do cavalo e do bovino.</p>
+    <div class="note deep"><b>Por que o hipotálamo e não o córtex?</b><p>Animais descerebrados (sem córtex) continuam termorregulando razoavelmente, porque o circuito APO–HDM–rafe–medula fica todo abaixo do córtex. O córtex entra no <strong>comportamento</strong> voluntário: procurar sombra, abrir a boca, entrar na água, deitar no piso frio, escolher o ninho. Esse comportamento é motivado pelo hipotálamo lateral e pelo sistema de recompensa, e costuma ser a primeira e mais eficiente resposta.</p></div>
+
+    <h3><span class="tag">34.4</span>O ponto de ajuste e suas variações normais</h3>
+    <p>“Ponto de ajuste” é um modelo: não há um número gravado num neurônio, e sim o <strong>equilíbrio</strong> entre a atividade de neurônios sensíveis ao calor e as entradas sensíveis ao frio. Qualquer substância ou estado que mude esse equilíbrio desloca a temperatura que o corpo defende. Na febre, a PGE<sub>2</sub> inibe os neurônios sensíveis ao calor e a temperatura defendida sobe (cap. 35). Mesmo sem doença, o ponto de ajuste varia.</p>
     <h4>Temperatura retal normal</h4>
     <div class="tbl"><table>
       <thead><tr><th>Espécie</th><th>Jovens (°C)</th><th>Adultos (°C)</th></tr></thead>
@@ -36,9 +91,43 @@
         <tr><td><b>Coelho</b></td><td colspan="2">38,5 – 39,5</td></tr>
         <tr><td><b>Galinha</b></td><td colspan="2">40,6 – 42,0</td></tr>
       </tbody></table></div>
-    <p>A temperatura também varia normalmente com o <strong>ritmo circadiano</strong> (0,5 a 1,5 °C nos animais diurnos: mínima de manhã, máxima à tarde), com o exercício, a digestão, a excitação na contenção, o ciclo estral e o fim da gestação.</p>
-    <div class="note lab"><b>Na prática: medir direito</b><p>Use termômetro digital lubrificado, encostado na mucosa do reto, e espere o sinal; afira em repouso, antes de exercício ou de manipulação estressante. Fezes no reto, ar no reto (pneumorreto) e animais recém-transportados ou expostos ao sol distorcem o valor. Para triagem, a palpação com o dorso da mão serve apenas como indício.</p></div>
-    <div class="note clin"><b>Temperatura que anuncia o parto</b><p>A queda da progesterona antes do parto reduz a temperatura: na <strong>cadela</strong>, a temperatura retal cai para cerca de 37 °C (ou ~1 °C abaixo da média dela) 12 a 24 horas antes do parto; na <strong>vaca</strong>, cai cerca de 0,5 °C nas 24 horas anteriores. Medir a temperatura duas vezes ao dia na última semana ajuda a prever o parto (cap. 19).</p></div>
+    <div class="cards">
+      <div class="card"><span class="role">Ritmo circadiano</span><h5>0,5 a 1,5 °C por dia</h5><p>Comandado pelo núcleo supraquiasmático: nos animais diurnos a mínima é no fim da madrugada e a máxima no fim da tarde; nos noturnos (gato, roedores), o contrário. Compare sempre medidas no mesmo horário.</p></div>
+      <div class="card"><span class="role">Progesterona</span><h5>Fase lútea mais quente</h5><p>A progesterona age na APO e sobe o ponto de ajuste em alguns décimos de grau. Na vaca, a temperatura sobe no estro e ao redor da ovulação, princípio usado por sensores de detecção de cio.</p></div>
+      <div class="card"><span class="role">Exercício</span><h5>Não é febre</h5><p>No exercício o ponto de ajuste praticamente não muda: a temperatura sobe porque a produção supera a perda (cap. 37). Um cavalo de corrida pode chegar a 41–42 °C e voltar ao normal em minutos a horas.</p></div>
+      <div class="card"><span class="role">Torpor e hibernação</span><h5>Termostato rebaixado</h5><p>Hibernantes baixam ativamente o ponto de ajuste para poucos graus acima do ambiente, mas o hipotálamo continua vigiando: se o frio ameaça congelar, ele dispara a gordura parda e o animal desperta.</p></div>
+    </div>
+    <div class="note lab"><b>Na prática: medir direito</b><p>Use termômetro digital lubrificado, encostado na mucosa do reto, e espere o sinal; afira em repouso, antes de exercício ou de manipulação estressante. Fezes no reto, ar no reto (pneumorreto) e animais recém-transportados ou expostos ao sol distorcem o valor. Termômetros auriculares e infravermelhos de superfície medem a casca e servem para triagem; em gatos estressados a contenção sozinha pode elevar a temperatura em 0,5–1 °C (hipertermia de estresse).</p></div>
+    <div class="note clin"><b>Temperatura que anuncia o parto</b><p>A queda da progesterona antes do parto reduz a temperatura: na <strong>cadela</strong>, a temperatura retal cai para cerca de 37 °C (ou ~1 °C abaixo da média dela) 12 a 24 horas antes do parto; na <strong>vaca</strong>, cai cerca de 0,5 °C nas 24 horas anteriores. Medir a temperatura duas vezes ao dia na última semana ajuda a prever o parto (cap. 38).</p></div>
+
+    <h3><span class="tag">34.5</span>Integração com sede, fome e comportamento</h3>
+    <p>Os mesmos núcleos que regulam a temperatura regulam a água e a energia, e as três funções competem entre si.</p>
+    <div class="flow">
+      <div class="lane up"><h5>Calor × água</h5><ol><li>Sudorese e ofego custam água. Um cavalo em enduro perde 10 a 15 L/h; uma vaca no verão pode beber mais de 100 L/dia.</li><li>A APO fica junto aos <strong>osmorreceptores</strong> da lâmina terminal (OVLT e órgão subfornical). Com o plasma hiperosmótico, o hipotálamo <strong>eleva o limiar da sudorese e do ofego</strong> e aceita uma temperatura maior: prioriza o volume sanguíneo.</li><li>A vasopressina (ADH) aumenta e a sede é estimulada; beber água fresca, por sua vez, reduz rapidamente o ofego mesmo antes de a água ser absorvida (sinal da orofaringe).</li><li>O dromedário e as gazelas do deserto são o exemplo extremo: deixam a temperatura subir de dia e economizam litros de água (cap. 33).</li></ol></div>
+      <div class="lane down"><h5>Calor × alimento</h5><ol><li>A digestão e o metabolismo produzem calor (incremento calórico). No calor, o hipotálamo <strong>reduz o apetite</strong>: a vaca come menos matéria seca e o frango e o suíno ganham menos peso.</li><li>No frio, o apetite aumenta para abastecer a termogênese; animais a pasto no inverno precisam de mais energia na dieta.</li><li>A leptina (gordura) e o estado nutricional modulam o eixo tireoidiano: o animal em jejum baixa o T<sub>3</sub> e a produção de calor, e tolera pior o frio.</li><li>Neonatos sem colostro param de produzir calor por falta de substrato (hipotermia-inanição, cap. 36).</li></ol></div>
+    </div>
+    <p>O <strong>comportamento</strong> é o efetor mais barato e é comandado pelo hipotálamo com o córtex: posição de deitar, busca de sombra ou de sol, agrupamento, mergulho na água ou na lama (suíno, búfalo), escavação (cão), alteração do horário de pastejo (bovinos pastam de madrugada e à noite no verão). Animais em confinamento perdem boa parte dessas opções; por isso o manejo das instalações substitui o comportamento (cap. 36). A <strong>reprodução</strong> também é modulada: o estresse térmico ativa o CRH e o cortisol, que suprimem os pulsos de GnRH e LH, reduzindo a expressão do estro (cap. 38).</p>
+    <div class="note clin"><b>Água antes de tudo</b><p>Em ondas de calor, a primeira medida em qualquer rebanho é água limpa, fresca e com bebedouros suficientes (vazão e espaço). Um animal desidratado não sua nem ofega com eficiência e entra em hipertermia mais cedo; ao mesmo tempo, o próprio calor reduz o apetite e a produção.</p></div>
+
+    <h3><span class="tag">34.6</span>Lesões, doenças e fármacos que mexem no termostato</h3>
+    <div class="tbl min"><table>
+      <thead><tr><th>Situação</th><th>O que acontece</th><th>Exemplos</th></tr></thead>
+      <tbody>
+        <tr><td><b>Lesão do hipotálamo anterior / APO</b></td><td>Perde-se a resposta ao calor: <strong>hipertermia</strong> (às vezes chamada “febre central”), sem resposta a antipiréticos</td><td>Traumatismo craniano, hemorragia, tumores (hipófise, meningioma), hidrocefalia, encefalites</td></tr>
+        <tr><td><b>Lesão do hipotálamo posterior ou do tronco</b></td><td>Perde-se a defesa contra o frio: <strong>hipotermia</strong> ou poiquilotermia (a temperatura acompanha o ambiente)</td><td>Lesões extensas, edema cerebral grave, fase terminal de doenças neurológicas</td></tr>
+        <tr><td><b>Lesão da medula cervical</b></td><td>A vasomotricidade e a sudorese abaixo da lesão se perdem; o animal não regula bem nem no calor nem no frio</td><td>Mielopatias cervicais graves, trauma</td></tr>
+        <tr><td><b>Neonato e idoso</b></td><td>Circuitos imaturos ou respostas efetoras fracas</td><td>Filhotes de cão e gato não tremem bem até ~1 semana; idosos respondem pouco ao frio</td></tr>
+      </tbody></table></div>
+    <h4>Fármacos e toxinas</h4>
+    <div class="cards">
+      <div class="card"><span class="role">Hipotermia</span><h5>Acepromazina e anestésicos</h5><p>A acepromazina (bloqueio α<sub>1</sub> e dopaminérgico) causa vasodilatação e deprime o hipotálamo; anestésicos inalatórios e o propofol baixam os limiares de resposta ao frio em vários graus, por isso o paciente anestesiado esfria (cap. 36).</p></div>
+      <div class="card"><span class="role">Variável</span><h5>Agonistas α<sub>2</sub></h5><p>Xilazina, detomidina e dexmedetomidina deprimem a termorregulação e o tremor; em geral causam hipotermia, mas em ruminantes ao sol podem levar à hipertermia por imobilidade e menor perda de calor.</p></div>
+      <div class="card"><span class="role">Hipertermia</span><h5>Opioides em gatos</h5><p>Hidromorfona, morfina e outros opioides podem causar hipertermia em gatos após a anestesia (até 41–42 °C), por ação central; costuma ceder sozinha ou com reversão parcial.</p></div>
+      <div class="card"><span class="role">Hipertermia</span><h5>Festuca e ergotismo</h5><p>Alcaloides do ergot (fungo endófito da festuca, esporão do centeio) são vasoconstritores e agonistas dopaminérgicos: bovinos não conseguem perder calor, ofegam, comem menos e caem a produção no verão; no frio surge necrose das extremidades.</p></div>
+      <div class="card"><span class="role">Hipertermia</span><h5>Serotoninérgicos e estimulantes</h5><p>Anfetaminas, cocaína e síndrome serotoninérgica (tramadol associado a outros fármacos, antidepressivos ingeridos por cães) aumentam a atividade muscular e a termogênese central.</p></div>
+      <div class="card"><span class="role">Hipertermia</span><h5>Desacopladores e convulsivantes</h5><p>Dinitrofenóis e pentaclorofenol desacoplam a fosforilação oxidativa; metaldeído (iscas para lesmas), estricnina e organofosforados geram convulsões ou tremores contínuos e calor intenso.</p></div>
+    </div>
+    <div class="note trap"><b>Pegadinha</b><p>Hipertermia por lesão hipotalâmica, por exercício ou por fármaco <strong>não é febre</strong>: não há PGE<sub>2</sub> elevando o ponto de ajuste, e antipiréticos não resolvem. O tratamento é resfriamento físico e correção da causa (cap. 35).</p></div>
 
     <div class="quiz" data-quiz="hipotalamo"></div>
   </div>
