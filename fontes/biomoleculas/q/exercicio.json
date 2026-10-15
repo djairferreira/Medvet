@@ -81,7 +81,7 @@
   "q": "Acima do limiar de lactato, a ventilação passa a crescer mais que a produção de CO2 porque:",
   "o": [
    "O H+ do lactato estimula os corpos carotídeos",
-   "A PaO2 sobe e estimula o bulbo",
+   "A PaO2 sobe e estimula diretamente os neurônios do bulbo",
    "O comando cortical cessa",
    "O espaço morto diminui a zero"
   ],
@@ -103,7 +103,7 @@
   "q": "Pela equação de Fick, o V̇O2 é igual a:",
   "o": [
    "Débito cardíaco × diferença arteriovenosa de O2",
-   "Ventilação minuto × PaCO2",
+   "Ventilação minuto × PaCO2 × constante de difusão",
    "Frequência cardíaca × hematócrito",
    "Volume corrente × frequência respiratória"
   ],
@@ -125,7 +125,7 @@
   "q": "Comparado a um bovino de mesmo peso, o cavalo tem V̇O2máx maior principalmente por:",
   "o": [
    "Coração, baço e músculos com mais mitocôndrias",
-   "Pulmão proporcionalmente muito maior",
+   "Pulmão proporcionalmente muito maior e mais complacente",
    "Hemoglobina sem efeito Bohr",
    "Espaço morto muito menor"
   ],
@@ -147,7 +147,7 @@
   "q": "O lactato sobe acima do limiar mesmo com O2 disponível em parte porque:",
   "o": [
    "Fibras IIx são recrutadas e a glicólise supera a PDH",
-   "A mioglobina deixa de liberar O2",
+   "A mioglobina deixa de liberar O2 para as mitocôndrias",
    "O ciclo de Krebs é inibido pela adrenalina",
    "O fígado passa a produzir lactato"
   ],
@@ -191,7 +191,7 @@
   "q": "Para aumentar a ventilação no galope, o cavalo depende sobretudo de:",
   "o": [
    "Aumentar o volume corrente alongando a passada",
-   "Respirar pela boca",
+   "Respirar pela boca durante a fase de suspensão",
    "Dobrar a frequência sem mudar o passo",
    "Reduzir o espaço morto fechando narinas"
   ],
@@ -246,7 +246,7 @@
   "q": "A principal causa da hipoxemia de exercício no cavalo é:",
   "o": [
    "Limitação por difusão pelo trânsito capilar curto",
-   "Shunt anatômico pelo forame oval",
+   "Shunt anatômico pelo forame oval que reabre no esforço",
    "Intoxicação por CO no hipódromo",
    "Anemia por sequestro esplênico"
   ],
@@ -312,7 +312,7 @@
   "q": "A furosemida antes da corrida reduz a HPIE porque:",
   "o": [
    "Diminui a volemia e as pressões vasculares pulmonares",
-   "Aumenta a coagulação do sangue",
+   "Aumenta a coagulação do sangue e a agregação plaquetária",
    "Broncodilata e corrige a hipoxemia",
    "Eleva o hematócrito por contração esplênica"
   ],
@@ -367,7 +367,7 @@
   "q": "Um cavalo agitado na coleta apresenta hematócrito de 52%. A interpretação mais prudente é:",
   "o": [
    "Pode ser contração esplênica, não desidratação",
-   "Policitemia vera confirmada",
+   "Policitemia vera confirmada, exigindo flebotomia",
    "Anemia regenerativa compensada",
    "Erro do analisador sem significado"
   ],
@@ -400,7 +400,7 @@
   "q": "No resfriamento de um cão com insolação por esforço, recomenda-se:",
   "o": [
    "Água em temperatura ambiente e ventilação",
-   "Banho de gelo prolongado",
+   "Banho de gelo prolongado até a temperatura chegar a 37 °C",
    "Cobrir com mantas térmicas",
    "Restringir completamente a água"
   ],
@@ -422,7 +422,7 @@
   "q": "O treinamento aeróbico eleva o limiar de lactato porque:",
   "o": [
    "Aumenta mitocôndrias, capilares e remoção de lactato",
-   "Reduz o número de fibras tipo I",
+   "Reduz o número de fibras tipo I e aumenta as fibras IIx",
    "Diminui o volume plasmático",
    "Elimina a glicólise anaeróbica"
   ],
@@ -433,7 +433,7 @@
   "q": "As aves voam em altitudes extremas em grande parte graças a:",
   "o": [
    "Fluxo unidirecional e troca em corrente cruzada",
-   "Diafragma muscular muito potente",
+   "Diafragma muscular muito potente e alvéolos amplos",
    "Alvéolos maiores que os dos mamíferos",
    "Hemoglobina sem cooperatividade"
   ],
@@ -455,7 +455,7 @@
   "q": "A endoscopia dinâmica em exercício é indicada para diagnosticar:",
   "o": [
    "Obstruções das vias aéreas que só surgem em esforço",
-   "Anemia por perda crônica",
+   "Anemia por perda crônica de sangue no trato digestório",
    "Arritmias cardíacas de repouso",
    "Laminite incipiente"
   ],

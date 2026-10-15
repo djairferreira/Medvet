@@ -1,0 +1,442 @@
+[
+{
+"c": "cetose",
+"q": "Por que o fígado produz corpos cetônicos no jejum prolongado?",
+"o": [
+"O oxaloacetato é desviado para a gliconeogênese",
+"O fígado perde a capacidade de fazer β-oxidação",
+"A insulina alta estimula a HMG-CoA sintase",
+"O excesso de glicose inibe o ciclo de Krebs"
+],
+"e": "Sem oxaloacetato, o acetil-CoA não entra no ciclo."
+},
+{
+"c": "cetose",
+"q": "Qual é a enzima limitante da cetogênese?",
+"o": [
+"HMG-CoA sintase mitocondrial",
+"HMG-CoA redutase do retículo",
+"β-hidroxibutirato desidrogenase",
+"Succinil-CoA transferase"
+],
+"e": "É induzida no jejum e pelo glucagon."
+},
+{
+"c": "cetose",
+"q": "Quais são os três corpos cetônicos?",
+"o": [
+"Acetoacetato, β-hidroxibutirato e acetona",
+"Acetato, propionato e butirato",
+"Acetil-CoA, malonil-CoA e HMG-CoA",
+"Piruvato, lactato e oxaloacetato"
+],
+"e": "Acetato, propionato e butirato são AGV do rúmen."
+},
+{
+"c": "cetose",
+"q": "Por que o fígado produz, mas não consome corpos cetônicos?",
+"o": [
+"Não possui a succinil-CoA:acetoacetato CoA-transferase",
+"Não possui a HMG-CoA liase mitocondrial",
+"Os corpos cetônicos não atravessam a membrana do hepatócito",
+"O fígado não possui ciclo de Krebs ativo"
+],
+"e": "Sem a tioforase, o fígado não ativa o acetoacetato."
+},
+{
+"c": "cetose",
+"q": "De onde vem o hálito cetônico de um animal com cetose?",
+"o": [
+"Da acetona formada por descarboxilação do acetoacetato",
+"Do β-hidroxibutirato eliminado pelos pulmões",
+"Do acetoacetato secretado pelas glândulas salivares",
+"Do excesso de acetil-CoA exalado pelos alvéolos"
+],
+"e": "A acetona é volátil e sai pela respiração."
+},
+{
+"c": "cetose",
+"q": "Por que fitas de nitroprussiato podem subestimar a cetose?",
+"o": [
+"Não detectam o β-hidroxibutirato, o mais abundante",
+"Detectam apenas a acetona, que é muito volátil",
+"Reagem com a glicose e mascaram o resultado",
+"Só funcionam com amostras de sangue total"
+],
+"e": "O padrão é medir BHB no sangue."
+},
+{
+"c": "cetose",
+"q": "Em ruminantes bem alimentados, a principal origem do β-hidroxibutirato circulante é:",
+"o": [
+"O epitélio do rúmen, a partir do butirato",
+"O fígado, a partir de ácidos graxos da dieta",
+"A glândula mamária, a partir da lactose",
+"O músculo, a partir de aminoácidos"
+],
+"e": "O BHB é rotina no ruminante; o excesso é que preocupa."
+},
+{
+"c": "cetose",
+"q": "Uma vaca com 5 semanas de lactação tem BHB sanguíneo de 1,6 mmol/L e nenhum sinal clínico. A interpretação é:",
+"o": [
+"Cetose subclínica",
+"Cetose clínica",
+"Valor normal da lactação",
+"Cetoacidose diabética"
+],
+"e": "BHB ≥ 1,2 mmol/L indica cetose subclínica; ≥ 3,0, clínica."
+},
+{
+"c": "cetose",
+"q": "Por que a vaca de alta produção entra em balanço energético negativo no início da lactação?",
+"o": [
+"O pico de produção vem antes do pico de ingestão de alimento",
+"A insulina alta impede o uso dos ácidos graxos pela mama",
+"O rúmen deixa de produzir propionato após o parto",
+"A glândula mamária passa a sintetizar glicose"
+],
+"e": "A produção sobe mais rápido que o consumo de matéria seca."
+},
+{
+"c": "cetose",
+"q": "Qual vaca tem mais risco de cetose tipo II com fígado gorduroso?",
+"o": [
+"A vaca obesa ao parto, com resistência à insulina",
+"A vaca magra no pico de lactação",
+"A novilha em crescimento antes do primeiro parto",
+"A vaca seca no meio do período seco"
+],
+"e": "Vacas gordas comem menos e mobilizam mais gordura."
+},
+{
+"c": "cetose",
+"q": "Qual tratamento oral é usado na cetose bovina por ser precursor de glicose?",
+"o": [
+"Propilenoglicol",
+"Bicarbonato de sódio",
+"Óleo mineral",
+"Ureia pecuária"
+],
+"e": "É absorvido e convertido em glicose no fígado."
+},
+{
+"c": "cetose",
+"q": "Na toxemia da prenhez da cabra, a indução do parto com prostaglandina funciona porque:",
+"o": [
+"A gestação da cabra depende do corpo lúteo",
+"A prostaglandina eleva a glicemia materna",
+"A prostaglandina reduz a demanda fetal de glicose",
+"A prostaglandina inibe a lipólise materna"
+],
+"e": "PGF2α causa luteólise e queda da progesterona."
+},
+{
+"c": "cetose",
+"q": "Quais ovelhas têm mais risco de toxemia da prenhez?",
+"o": [
+"Ovelhas com gêmeos ou trigêmeos no terço final",
+"Ovelhas no início da gestação com um feto",
+"Ovelhas vazias em pastagem abundante",
+"Ovelhas em lactação após o desmame"
+],
+"e": "A demanda fetal de glicose é máxima nas últimas semanas."
+},
+{
+"c": "cetose",
+"q": "Qual é o paciente típico da lipidose hepática felina?",
+"o": [
+"Gato obeso que parou de comer por alguns dias",
+"Gato magro alimentado com ração rica em gordura",
+"Gato jovem com diarreia por excesso de lactose",
+"Gato idoso com hipertireoidismo e polifagia"
+],
+"e": "Anorexia em gato obeso desencadeia lipólise maciça."
+},
+{
+"c": "cetose",
+"q": "Qual é a base do tratamento da lipidose hepática felina?",
+"o": [
+"Alimentação enteral, geralmente por sonda de esofagostomia",
+"Jejum para reduzir a chegada de gordura ao fígado",
+"Glicocorticoide em dose imunossupressora prolongada",
+"Dieta sem proteína para proteger o fígado"
+],
+"e": "O gato precisa de energia e proteína para reverter a lipidose."
+},
+{
+"c": "cetose",
+"q": "Na cetoacidose diabética de um cão, qual combinação laboratorial é esperada?",
+"o": [
+"Hiperglicemia, cetonemia e acidose metabólica",
+"Hipoglicemia, cetonemia e alcalose metabólica",
+"Hiperglicemia, sem cetonas e alcalose respiratória",
+"Glicemia normal, cetonúria e acidose respiratória"
+],
+"e": "A falta de insulina libera lipólise e cetogênese."
+},
+{
+"c": "cetose",
+"q": "Por que é preciso repor potássio e fósforo no tratamento da cetoacidose diabética?",
+"o": [
+"A insulina e a correção da acidose os levam para dentro das células",
+"A insulina aumenta a perda renal de potássio e fósforo",
+"Os corpos cetônicos se ligam ao potássio no plasma",
+"O fósforo é necessário para formar acetoacetato"
+],
+"e": "A queda pode causar fraqueza e, no gato, hemólise."
+},
+{
+"c": "cetose",
+"q": "Qual corpo cetônico predomina no sangue de uma vaca com cetose?",
+"o": [
+"β-hidroxibutirato",
+"Acetoacetato",
+"Acetona",
+"Isopropanol"
+],
+"e": "O NADH mitocondrial alto desloca o equilíbrio para o BHB, que costuma ser 3 vezes mais abundante."
+},
+{
+"c": "cetose",
+"q": "Qual molécula, quando alta, fecha a CPT-I e reduz a cetogênese?",
+"o": [
+"Malonil-CoA",
+"Acetoacetil-CoA",
+"Succinil-CoA",
+"Acil-carnitina"
+],
+"e": "A malonil-CoA, produzida pela ACC sob insulina, inibe a CPT-I e impede a entrada de ácidos graxos."
+},
+{
+"c": "cetose",
+"q": "Por que pequenas quantidades de insulina já bastam para frear a cetogênese?",
+"o": [
+"Mantêm a ACC ativa e a lipólise contida",
+"Ativam diretamente a HMG-CoA liase",
+"Aumentam a acetona exalada pelos pulmões",
+"Estimulam a tioforase no hepatócito"
+],
+"e": "A insulina inibe a LHS e mantém a malonil-CoA, que fecha a CPT-I; por isso a cetoacidose exige deficiência acentuada."
+},
+{
+"c": "cetose",
+"q": "No jejum, falta oxaloacetato na mitocôndria hepática porque:",
+"o": [
+"É desviado para a gliconeogênese",
+"É convertido em acetil-CoA",
+"É exportado como citrato para o adiposo",
+"É consumido pela HMG-CoA sintase"
+],
+"e": "A gliconeogênese retira oxaloacetato, e o NADH alto desloca o equilíbrio para malato."
+},
+{
+"c": "cetose",
+"q": "Em qual espécie a resposta ao balanço energético negativo é hiperlipemia em vez de cetose?",
+"o": [
+"Pônei",
+"Vaca leiteira",
+"Ovelha prenhe",
+"Cabra leiteira"
+],
+"e": "Equídeos têm baixa capacidade cetogênica e exportam muita VLDL quando mobilizam gordura."
+},
+{
+"c": "cetose",
+"q": "Cetose difere de cetoacidose porque, na cetose:",
+"o": [
+"O pH sanguíneo permanece normal",
+"Não há corpos cetônicos na urina",
+"A glicemia está sempre elevada",
+"O BHB está abaixo do normal"
+],
+"e": "Na cetose o tampão bicarbonato compensa; a cetoacidose é quando o pH cai."
+},
+{
+"c": "cetose",
+"q": "O cérebro, após alguns dias de jejum, passa a usar corpos cetônicos. Qual a vantagem?",
+"o": [
+"Poupa glicose e proteína muscular",
+"Aumenta a produção de lactato",
+"Eleva a glicemia acima do normal",
+"Dispensa o oxigênio na oxidação"
+],
+"e": "Menos glicose consumida significa menos aminoácidos retirados do músculo para a gliconeogênese."
+},
+{
+"c": "cetose",
+"q": "A cetose tipo I da vaca leiteira caracteriza-se por:",
+"o": [
+"Ocorrer no pico de lactação com hipoglicemia",
+"Ocorrer antes do parto em vacas magras",
+"Fígado muito gorduroso e mau prognóstico",
+"Resistência ao tratamento com glicose"
+],
+"e": "Tipo I: 3 a 6 semanas pós-parto, BHB alto, hipoglicemia, pouca lipidose, boa resposta."
+},
+{
+"c": "cetose",
+"q": "A cetose tipo II está associada a:",
+"o": [
+"Vacas gordas ao parto e lipidose hepática",
+"Silagem rica em ácido butírico",
+"Excesso de propionato no rúmen",
+"Vacas magras no pico de lactação"
+],
+"e": "Vacas com escore alto ao parto são resistentes à insulina, mobilizam muita gordura e acumulam TAG no fígado."
+},
+{
+"c": "cetose",
+"q": "Qual doença deve sempre ser investigada numa vaca com cetose no pós-parto?",
+"o": [
+"Deslocamento de abomaso à esquerda",
+"Hipotireoidismo primário",
+"Insuficiência pancreática exócrina",
+"Hiperadrenocorticismo hipofisário"
+],
+"e": "Cetose secundária a doenças que reduzem o apetite é comum; o deslocamento de abomaso é a principal."
+},
+{
+"c": "cetose",
+"q": "A partir de quanto de BHB sanguíneo se considera cetose subclínica na vaca?",
+"o": [
+"1,2 mmol/L",
+"0,3 mmol/L",
+"3,0 mmol/L",
+"6,0 mmol/L"
+],
+"e": "BHB ≥ 1,2 mmol/L é subclínica; ≥ 3,0 mmol/L costuma ser clínica."
+},
+{
+"c": "cetose",
+"q": "A forma nervosa da cetose bovina é atribuída em parte a:",
+"o": [
+"Isopropanol formado da acetona",
+"Excesso de propionato hepático",
+"Hipercalcemia do pós-parto",
+"Ácido láctico do rúmen"
+],
+"e": "A acetona pode ser reduzida a isopropanol, ligado a lambedura compulsiva, agressividade e incoordenação."
+},
+{
+"c": "cetose",
+"q": "A monensina ajuda a prevenir a cetose porque:",
+"o": [
+"Aumenta a produção ruminal de propionato",
+"Inibe a lipase lipoproteica mamária",
+"Aumenta a absorção de butirato",
+"Bloqueia a tiolase hepática"
+],
+"e": "Mais propionato significa mais glicose hepática e mais insulina, reduzindo a lipólise."
+},
+{
+"c": "cetose",
+"q": "Por que se usa colina protegida na dieta de transição?",
+"o": [
+"Facilita a exportação de TAG em VLDL",
+"Inibe a HMG-CoA sintase mitocondrial",
+"Fornece glicose pela via do glicerol",
+"Substitui o propilenoglicol oral"
+],
+"e": "A colina é necessária para a fosfatidilcolina da VLDL, ajudando o fígado a exportar gordura."
+},
+{
+"c": "cetose",
+"q": "Na toxemia da prenhez da ovelha, a indução do parto é feita com dexametasona porque:",
+"o": [
+"A gestação é mantida pela progesterona placentária",
+"O corpo lúteo é muito sensível ao cortisol",
+"A prostaglandina é tóxica para ovelhas",
+"A dexametasona inibe a lipólise materna"
+],
+"e": "Na ovelha, a placenta assume a progesterona; a prostaglandina não é eficaz como na cabra."
+},
+{
+"c": "cetose",
+"q": "Os sinais predominantes da toxemia da prenhez em ovelhas são:",
+"o": [
+"Neurológicos, como cegueira e tremores",
+"Diarreia profusa e desidratação",
+"Tosse e secreção nasal",
+"Claudicação e laminite"
+],
+"e": "Hipoglicemia e cetonemia afetam o sistema nervoso: isolamento, cegueira aparente, olhar as estrelas, pressão da cabeça."
+},
+{
+"c": "cetose",
+"q": "Em que período da gestação ocorre a toxemia da prenhez?",
+"o": [
+"Nas últimas 4 a 6 semanas",
+"No primeiro terço",
+"Logo após a cobertura",
+"Somente após o parto"
+],
+"e": "É quando ocorre cerca de 70% do crescimento fetal e o útero comprime o rúmen."
+},
+{
+"c": "cetose",
+"q": "Qual medida preventiva da toxemia da prenhez usa a ultrassonografia?",
+"o": [
+"Separar fêmeas com gêmeos para dieta mais energética",
+"Identificar fêmeas não prenhes para abate",
+"Medir a espessura do rúmen",
+"Detectar lipidose hepática precoce"
+],
+"e": "Fêmeas com mais de um feto têm maior demanda e devem receber mais energia no terço final."
+},
+{
+"c": "cetose",
+"q": "Achado laboratorial característico da lipidose hepática felina:",
+"o": [
+"Fosfatase alcalina muito alta com GGT pouco alterada",
+"GGT muito alta com fosfatase alcalina normal",
+"Hipoglicemia grave com cetonúria ausente",
+"Colesterol baixo com triglicerídeos normais"
+],
+"e": "O padrão FA muito alta e GGT normal ajuda a diferenciar de doenças biliares primárias."
+},
+{
+"c": "cetose",
+"q": "Por que gatos com lipidose hepática recebem suplementação de L-carnitina?",
+"o": [
+"Para melhorar a entrada de ácidos graxos na mitocôndria",
+"Para inibir a lipólise no adiposo",
+"Para substituir a insulina endógena",
+"Para aumentar a produção de corpos cetônicos"
+],
+"e": "A carnitina é necessária para a CPT; gatos anoréticos ficam deficientes."
+},
+{
+"c": "cetose",
+"q": "Na cetoacidose diabética, a acidose é do tipo:",
+"o": [
+"Metabólica com ânion gap aumentado",
+"Respiratória por hipoventilação",
+"Metabólica com ânion gap normal",
+"Alcalose metabólica compensada"
+],
+"e": "Acetoacetato e BHB são ânions não medidos; o bicarbonato cai e o ânion gap sobe."
+},
+{
+"c": "cetose",
+"q": "A respiração profunda do paciente em cetoacidose é:",
+"o": [
+"Compensação respiratória da acidose",
+"Sinal de edema pulmonar",
+"Consequência da hipercalemia",
+"Efeito direto da acetona no pulmão"
+],
+"e": "A respiração de Kussmaul elimina CO2 para compensar a acidose metabólica."
+},
+{
+"c": "cetose",
+"q": "Na cetoacidose diabética, o primeiro passo do tratamento costuma ser:",
+"o": [
+"Fluidoterapia",
+"Insulina de ação longa subcutânea",
+"Bicarbonato em bolus",
+"Jejum completo por 24 h"
+],
+"e": "A desidratação é grave; a fluidoterapia precede a insulina regular em dose baixa."
+}
+]

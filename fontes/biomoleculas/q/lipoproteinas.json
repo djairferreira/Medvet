@@ -1,0 +1,442 @@
+[
+{
+"c": "lipoproteinas",
+"q": "Qual lipoproteína é a menos densa e a maior de todas?",
+"o": [
+"Quilomícron",
+"VLDL",
+"LDL",
+"HDL"
+],
+"e": "Tem ~85% de TAG e flutua no topo."
+},
+{
+"c": "lipoproteinas",
+"q": "Qual apolipoproteína ativa a lipase lipoproteica?",
+"o": [
+"Apo C-II",
+"Apo B-48",
+"Apo A-I",
+"Apo B-100"
+],
+"e": "A apo C-II é cofator obrigatório da LPL."
+},
+{
+"c": "lipoproteinas",
+"q": "Qual apolipoproteína é reconhecida pelo receptor de LDL?",
+"o": [
+"Apo B-100",
+"Apo B-48",
+"Apo C-II",
+"Apo A-I"
+],
+"e": "A LDL tem uma molécula de apo B-100, o ligante do receptor."
+},
+{
+"c": "lipoproteinas",
+"q": "Qual é a função da LCAT ligada à HDL?",
+"o": [
+"Esterificar o colesterol captado dos tecidos",
+"Hidrolisar o TAG dos quilomícrons",
+"Transferir ésteres de colesterol para a LDL",
+"Captar remanescentes de quilomícron no fígado"
+],
+"e": "A LCAT, ativada pela apo A-I, esterifica o colesterol e amadurece a HDL."
+},
+{
+"c": "lipoproteinas",
+"q": "Por que cães e equinos são chamados de “animais HDL”?",
+"o": [
+"Têm pouca CETP e o colesterol fica principalmente na HDL",
+"Produzem HDL em vez de LDL no fígado",
+"Não possuem receptores de LDL em nenhum dos tecidos periféricos",
+"Têm LDL com mais proteína do que a HDL"
+],
+"e": "Sem CETP ativa, o colesterol não migra da HDL para a LDL."
+},
+{
+"c": "lipoproteinas",
+"q": "Onde fica a lipase lipoproteica?",
+"o": [
+"Ancorada ao endotélio dos capilares dos tecidos",
+"Dentro dos hepatócitos, no retículo endoplasmático",
+"Na luz do intestino, junto à colipase",
+"Livre no plasma, ligada à albumina"
+],
+"e": "A LPL age na superfície endotelial do músculo, adiposo e mama."
+},
+{
+"c": "lipoproteinas",
+"q": "No estado alimentado, a insulina direciona os ácidos graxos dos quilomícrons para o adiposo porque:",
+"o": [
+"Aumenta a lipase lipoproteica do tecido adiposo",
+"Inibe a lipase lipoproteica de todos os tecidos",
+"Aumenta a lipase hormônio-sensível do adiposo",
+"Estimula a secreção de VLDL pelo fígado"
+],
+"e": "A insulina induz a LPL do adiposo."
+},
+{
+"c": "lipoproteinas",
+"q": "Por que a vaca leiteira é predisposta à lipidose hepática?",
+"o": [
+"O fígado bovino exporta VLDL muito lentamente",
+"O fígado bovino não oxida ácidos graxos",
+"A vaca não produz lipase hormônio-sensível",
+"O fígado bovino não sintetiza triacilglicerol"
+],
+"e": "Com pouca exportação de VLDL, o TAG se acumula no hepatócito."
+},
+{
+"c": "lipoproteinas",
+"q": "Qual apolipoproteína é exclusiva do quilomícron?",
+"o": [
+"Apo B-48",
+"Apo B-100",
+"Apo A-I",
+"Apo C-II"
+],
+"e": "A apo B-48 é produzida no intestino por edição do RNA da apo B."
+},
+{
+"c": "lipoproteinas",
+"q": "Qual apolipoproteína permite a captação hepática dos remanescentes de quilomícron?",
+"o": [
+"Apo E",
+"Apo A-I",
+"Apo B-48",
+"Apo C-III"
+],
+"e": "A apo E se liga ao receptor de LDL e ao LRP1 no fígado."
+},
+{
+"c": "lipoproteinas",
+"q": "A apo C-III atua como:",
+"o": [
+"Inibidora da LPL",
+"Ativadora da LCAT",
+"Ligante do receptor de LDL",
+"Proteína estrutural da HDL"
+],
+"e": "A apo C-III inibe a LPL e a captação de remanescentes, opondo-se à apo C-II."
+},
+{
+"c": "lipoproteinas",
+"q": "Qual enzima converte IDL em LDL retirando o TAG restante?",
+"o": [
+"Lipase hepática",
+"Lipase pancreática",
+"LCAT plasmática",
+"Lipase hormônio-sensível"
+],
+"e": "A lipase hepática termina a remoção de TAG e fosfolipídios da IDL e da HDL grande."
+},
+{
+"c": "lipoproteinas",
+"q": "O que ancora a lipase lipoproteica ao endotélio?",
+"o": [
+"Proteoglicanos de heparam sulfato",
+"Apolipoproteína A-I",
+"Receptor de LDL",
+"Perilipina"
+],
+"e": "A LPL fica presa a proteoglicanos (e à GPIHBP1); a heparina a libera para o plasma."
+},
+{
+"c": "lipoproteinas",
+"q": "Por que a LPL do coração tem Km baixo?",
+"o": [
+"Para captar ácidos graxos mesmo no jejum",
+"Para armazenar gordura após a refeição",
+"Para formar quilomícrons no endotélio",
+"Para inibir a lipólise do adipócito"
+],
+"e": "Com Km baixo, a LPL cardíaca funciona mesmo com pouco TAG circulante."
+},
+{
+"c": "lipoproteinas",
+"q": "O que faz a CETP?",
+"o": [
+"Troca ésteres de colesterol da HDL por TAG",
+"Esterifica o colesterol na superfície da HDL",
+"Hidrolisa o TAG das VLDL nos capilares",
+"Capta LDL para dentro dos hepatócitos"
+],
+"e": "A CETP transfere ésteres de colesterol da HDL para partículas com apo B em troca de TAG."
+},
+{
+"c": "lipoproteinas",
+"q": "Qual receptor retira seletivamente ésteres de colesterol da HDL na adrenal?",
+"o": [
+"SR-BI",
+"Receptor de LDL",
+"LRP1",
+"Receptor de insulina"
+],
+"e": "O SR-BI capta o colesterol da HDL sem destruir a partícula, fornecendo substrato para esteroides."
+},
+{
+"c": "lipoproteinas",
+"q": "Depois de entrar na célula pelo receptor de LDL, o colesterol:",
+"o": [
+"Inibe a HMG-CoA redutase e reduz novos receptores",
+"Estimula a síntese de mais receptores de LDL",
+"É convertido em apo B-100 no lisossomo",
+"Volta ao plasma ligado à albumina"
+],
+"e": "O colesterol intracelular desliga a SREBP-2, reduzindo a síntese e a captação."
+},
+{
+"c": "lipoproteinas",
+"q": "Na via exógena, os quilomícrons recebem apo C-II e apo E de qual partícula?",
+"o": [
+"HDL",
+"LDL",
+"IDL",
+"VLDL"
+],
+"e": "A HDL funciona como reservatório de apo C e apo E."
+},
+{
+"c": "lipoproteinas",
+"q": "A HDL nascente tem forma discoidal e torna-se esférica quando:",
+"o": [
+"A LCAT forma ésteres de colesterol no núcleo",
+"A LPL retira o TAG da superfície",
+"A CETP lhe transfere apo B-100",
+"O fígado a capta pelo receptor de LDL"
+],
+"e": "Os ésteres formados pela LCAT, apolares, afundam e formam um núcleo."
+},
+{
+"c": "lipoproteinas",
+"q": "Qual hormônio aumenta a LPL do tecido adiposo?",
+"o": [
+"Insulina",
+"Glucagon",
+"Cortisol",
+"Adrenalina"
+],
+"e": "Após a refeição, a insulina dirige os ácidos graxos dos quilomícrons para o estoque."
+},
+{
+"c": "lipoproteinas",
+"q": "Na lactação, a LPL da glândula mamária:",
+"o": [
+"Aumenta, e a do adiposo diminui",
+"Diminui, e a do adiposo aumenta",
+"Fica inalterada, como a do coração",
+"Desaparece e é substituída pela lipase hepática"
+],
+"e": "A mama capta ácidos graxos do sangue para a gordura do leite."
+},
+{
+"c": "lipoproteinas",
+"q": "Que lipoproteína o fígado da galinha poedeira produz em maior quantidade sob estrógeno?",
+"o": [
+"VLDL específica da gema",
+"Quilomícron hepático",
+"LDL rica em apo B-48",
+"HDL discoidal nascente"
+],
+"e": "O estrógeno induz uma VLDL pequena que leva lipídios ao ovócito."
+},
+{
+"c": "lipoproteinas",
+"q": "Em aves, a gordura da dieta é absorvida principalmente como:",
+"o": [
+"Portomícrons, pela veia porta",
+"Quilomícrons, pelo ducto torácico",
+"Micelas, direto ao tecido adiposo",
+"LDL, pela circulação linfática"
+],
+"e": "Aves têm sistema linfático intestinal pouco desenvolvido; as partículas vão pelo sangue portal."
+},
+{
+"c": "lipoproteinas",
+"q": "Qual espécie é considerada “animal LDL” e modelo de aterosclerose?",
+"o": [
+"Suíno",
+"Cão",
+"Equino",
+"Bovino"
+],
+"e": "O suíno tem perfil lipoproteico semelhante ao humano."
+},
+{
+"c": "lipoproteinas",
+"q": "No cão, a hipercolesterolemia tende a acumular colesterol em:",
+"o": [
+"HDL1, uma HDL grande rica em apo E",
+"Quilomícrons ricos em apo B-48",
+"IDL ricas em apo C-II",
+"Micelas de sais biliares no plasma"
+],
+"e": "O cão desloca o excesso de colesterol para a HDL1 e para a LDL."
+},
+{
+"c": "lipoproteinas",
+"q": "Por que a fórmula de Friedewald não deve ser usada em cães e gatos?",
+"o": [
+"O perfil lipoproteico é dominado pela HDL",
+"Os cães não possuem LDL no plasma",
+"O colesterol canino é sempre esterificado",
+"Os gatos não sintetizam VLDL"
+],
+"e": "Fórmulas humanas assumem relações entre partículas que não valem para animais HDL."
+},
+{
+"c": "lipoproteinas",
+"q": "Na vaca, cerca de que proporção do colesterol plasmático está na HDL?",
+"o": [
+"Cerca de 80%",
+"Cerca de 10%",
+"Cerca de 30%",
+"Menos de 5%"
+],
+"e": "Os bovinos são fortemente HDL-predominantes."
+},
+{
+"c": "lipoproteinas",
+"q": "Os ácidos graxos C4 a C14 do leite de vaca vêm:",
+"o": [
+"Da síntese na própria glândula mamária",
+"Da LPL mamária sobre quilomícrons",
+"Do fígado, exportados como VLDL",
+"Do tecido adiposo via albumina"
+],
+"e": "A mama sintetiza cadeias curtas e médias a partir de acetato e BHB; o C18 vem do sangue."
+},
+{
+"c": "lipoproteinas",
+"q": "O transportador ABCA1 participa de qual processo?",
+"o": [
+"Efluxo de colesterol celular para a apo A-I",
+"Entrada de LDL no hepatócito",
+"Formação de quilomícron no enterócito",
+"Ancoragem da LPL ao endotélio"
+],
+"e": "O ABCA1 transfere colesterol e fosfolipídios para a apo A-I pobre em lipídio, formando HDL nascente."
+},
+{
+"c": "lipoproteinas",
+"q": "Qual partícula contém apenas uma molécula de apo B-100?",
+"o": [
+"LDL",
+"HDL",
+"Quilomícron",
+"Micela"
+],
+"e": "Cada VLDL contém uma apo B-100, que permanece até virar LDL."
+},
+{
+"c": "lipoproteinas",
+"q": "O transporte reverso do colesterol termina com:",
+"o": [
+"Excreção de colesterol e sais biliares na bile",
+"Depósito de colesterol no tecido adiposo",
+"Conversão de colesterol em ácido graxo",
+"Formação de quilomícrons no fígado"
+],
+"e": "O fígado recebe o colesterol da HDL e o elimina na bile."
+},
+{
+"c": "lipoproteinas",
+"q": "A via endógena começa com a secreção de qual partícula?",
+"o": [
+"VLDL hepática",
+"Quilomícron intestinal",
+"HDL discoidal",
+"LDL madura"
+],
+"e": "A VLDL leva o TAG produzido ou reciclado no fígado."
+},
+{
+"c": "lipoproteinas",
+"q": "Qual sequência descreve a via endógena?",
+"o": [
+"VLDL → IDL → LDL",
+"Quilomícron → remanescente → HDL",
+"HDL → LDL → VLDL",
+"LDL → IDL → VLDL"
+],
+"e": "A VLDL perde TAG pela LPL e lipase hepática e vira IDL e LDL."
+},
+{
+"c": "lipoproteinas",
+"q": "A heparina “clareia” o plasma lipêmico porque:",
+"o": [
+"Libera a LPL do endotélio para o plasma",
+"Precipita as lipoproteínas no tubo",
+"Inibe a síntese hepática de VLDL",
+"Ativa diretamente a LCAT plasmática"
+],
+"e": "A LPL liberada hidrolisa o TAG circulante (efeito pós-heparina)."
+},
+{
+"c": "lipoproteinas",
+"q": "Qual tecido produz a LPL que age em seus próprios capilares?",
+"o": [
+"O tecido adiposo, o músculo e a mama",
+"O fígado, para os sinusoides",
+"O enterócito, para a linfa",
+"O endotélio, para todos os tecidos"
+],
+"e": "A LPL é sintetizada pelas células parenquimatosas e transportada para o lúmen capilar."
+},
+{
+"c": "lipoproteinas",
+"q": "As lipoproteínas são classificadas principalmente pela:",
+"o": [
+"Densidade na ultracentrifugação",
+"Cor do soro após coleta",
+"Quantidade de glicose ligada",
+"Velocidade de difusão na membrana"
+],
+"e": "Mais lipídio, menor densidade; mais proteína, maior densidade."
+},
+{
+"c": "lipoproteinas",
+"q": "Qual lipoproteína tem a maior proporção de proteína?",
+"o": [
+"HDL",
+"LDL",
+"VLDL",
+"Quilomícron"
+],
+"e": "Cerca de metade da massa da HDL é proteína."
+},
+{
+"c": "lipoproteinas",
+"q": "Os quilomícrons chegam ao sangue sistêmico pelo:",
+"o": [
+"Ducto torácico",
+"Sistema porta-hepático",
+"Ducto colédoco",
+"Seio venoso coronário"
+],
+"e": "Saem do enterócito para os vasos quilíferos e a linfa, chegando às veias da entrada do tórax."
+},
+{
+"c": "lipoproteinas",
+"q": "Por que os animais domésticos são resistentes à aterosclerose?",
+"o": [
+"Têm pouca CETP e colesterol na HDL",
+"Não absorvem colesterol da dieta",
+"Não possuem receptores de LDL",
+"Produzem apenas quilomícrons"
+],
+"e": "Sem CETP, o colesterol fica na HDL, que o retira das artérias."
+},
+{
+"c": "lipoproteinas",
+"q": "Qual destes NÃO é função das apolipoproteínas?",
+"o": [
+"Hidrolisar os triacilgliceróis do núcleo",
+"Dar estrutura à partícula",
+"Ativar ou inibir enzimas",
+"Servir de ligante para receptores"
+],
+"e": "Quem hidrolisa o TAG são as lipases; as apos estruturam, regulam enzimas e servem de ligantes."
+}
+]

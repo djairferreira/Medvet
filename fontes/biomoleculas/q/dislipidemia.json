@@ -1,0 +1,442 @@
+[
+{
+"c": "dislipidemia",
+"q": "A lipemia (soro leitoso) costuma ser visível quando:",
+"o": [
+"Os triglicerídeos passam de cerca de 200 a 300 mg/dL",
+"O colesterol total passa de 200 mg/dL, mesmo com TAG normal",
+"A HDL ultrapassa metade do colesterol total",
+"Os ácidos graxos livres excedem 0,4 mEq/L"
+],
+"e": "TAG em partículas grandes espalha luz; colesterol sozinho não turva."
+},
+{
+"c": "dislipidemia",
+"q": "Qual é a recomendação antes de coletar sangue para perfil lipídico em um cão?",
+"o": [
+"Jejum de cerca de 12 horas",
+"Refeição gordurosa 2 horas antes",
+"Jejum hídrico de 24 horas",
+"Exercício intenso antes da coleta"
+],
+"e": "Evita a lipemia pós-prandial por quilomícrons."
+},
+{
+"c": "dislipidemia",
+"q": "Após 12 h na geladeira, um soro lipêmico forma creme no topo e fica límpido embaixo. Isso indica excesso de:",
+"o": [
+"Quilomícrons",
+"VLDL",
+"LDL",
+"HDL"
+],
+"e": "Quilomícrons são leves e flutuam; VLDL deixa turvação difusa."
+},
+{
+"c": "dislipidemia",
+"q": "Qual efeito a lipemia pode causar no exame laboratorial?",
+"o": [
+"Pseudo-hiponatremia em métodos que diluem a amostra",
+"Hipoglicemia verdadeira por consumo de glicose pelas partículas",
+"Redução real da concentração de proteínas",
+"Aumento da contagem de plaquetas"
+],
+"e": "A fase lipídica ocupa volume e falseia o sódio medido."
+},
+{
+"c": "dislipidemia",
+"q": "Qual dislipidemia primária é clássica do Schnauzer miniatura?",
+"o": [
+"Hipertrigliceridemia idiopática",
+"Hipercolesterolemia por falta de receptor de LDL",
+"Deficiência hereditária de HDL",
+"Hipolipidemia por má absorção"
+],
+"e": "É frequente na raça e associada a pancreatite e mucocele."
+},
+{
+"c": "dislipidemia",
+"q": "Qual é a causa endócrina mais comum de hipercolesterolemia em cães?",
+"o": [
+"Hipotireoidismo",
+"Hipoadrenocorticismo",
+"Hiperparatireoidismo",
+"Insulinoma"
+],
+"e": "Menos receptores de LDL e menos excreção biliar de colesterol."
+},
+{
+"c": "dislipidemia",
+"q": "No diabetes mellitus, a hipertrigliceridemia ocorre principalmente porque:",
+"o": [
+"A LPL cai e a lipólise aumenta a produção de VLDL",
+"A insulina em excesso estimula a síntese hepática de TAG",
+"O intestino deixa de produzir quilomícrons",
+"A HDL passa a carregar todo o triacilglicerol"
+],
+"e": "Sem insulina, a remoção cai e a oferta de ácidos graxos sobe."
+},
+{
+"c": "dislipidemia",
+"q": "Hipertrigliceridemia grave no cão é fator de risco para qual doença?",
+"o": [
+"Pancreatite",
+"Hipotireoidismo",
+"Urolitíase por estruvita",
+"Displasia coxofemoral"
+],
+"e": "Ácidos graxos liberados no pâncreas lesam o tecido."
+},
+{
+"c": "dislipidemia",
+"q": "Gato com lipemia intensa, xantomas cutâneos e lipemia retinalis desde jovem sugere:",
+"o": [
+"Deficiência hereditária de lipase lipoproteica",
+"Hipertireoidismo felino",
+"Insuficiência pancreática exócrina com má absorção de gordura",
+"Deficiência de taurina na dieta"
+],
+"e": "Sem LPL, os quilomícrons persistem no plasma."
+},
+{
+"c": "dislipidemia",
+"q": "Uma pônei obesa, em fim de gestação, para de comer e o soro fica leitoso. O diagnóstico mais provável é:",
+"o": [
+"Hiperlipemia equina",
+"Cetose do tipo I",
+"Rabdomiólise por esforço",
+"Hipotireoidismo primário"
+],
+"e": "Balanço energético negativo em pôneis obesos causa VLDL muito alta."
+},
+{
+"c": "dislipidemia",
+"q": "Qual é o tratamento central da hiperlipemia de pôneis e asininos?",
+"o": [
+"Fornecer energia, por sonda ou glicose intravenosa",
+"Manter jejum completo para reduzir a gordura circulante no sangue",
+"Administrar glicocorticoide em dose alta",
+"Suspender qualquer fluido intravenoso"
+],
+"e": "Reverter o balanço energético negativo desliga a lipólise."
+},
+{
+"c": "dislipidemia",
+"q": "Qual medida dietética é indicada no manejo da hipertrigliceridemia canina?",
+"o": [
+"Dieta com baixo teor de gordura",
+"Dieta rica em gordura saturada",
+"Jejum prolongado semanal",
+"Suplementar ácido araquidônico"
+],
+"e": "Menos gordura reduz quilomícrons; ω-3 e fibratos podem ser associados."
+},
+{
+"c": "dislipidemia",
+"q": "Qual é o achado que define lipemia?",
+"o": [
+"Soro turvo ou leitoso",
+"Colesterol acima de 300 mg/dL",
+"Presença de LDL no plasma",
+"Glicose elevada no soro"
+],
+"e": "Lipemia é o aspecto visual; o colesterol sozinho não turva o soro."
+},
+{
+"c": "dislipidemia",
+"q": "Uma amostra lipêmica pode causar qual erro no sódio medido por métodos com diluição?",
+"o": [
+"Pseudo-hiponatremia",
+"Pseudo-hipernatremia",
+"Hipercalemia verdadeira",
+"Hipoglicemia artefatual"
+],
+"e": "A fase lipídica ocupa volume e reduz a água por volume de amostra."
+},
+{
+"c": "dislipidemia",
+"q": "O pico da lipemia pós-prandial ocorre em geral:",
+"o": [
+"Entre 2 e 6 horas após a refeição",
+"Nos primeiros 10 minutos",
+"Apenas após 24 horas",
+"Somente em jejum prolongado"
+],
+"e": "Quilomícrons turvam o plasma por várias horas após a refeição."
+},
+{
+"c": "dislipidemia",
+"q": "No hipotireoidismo canino, a hipercolesterolemia resulta principalmente de:",
+"o": [
+"Menos receptores de LDL e menos sais biliares",
+"Mais apo B-48 produzida no intestino",
+"Maior atividade de LPL no adiposo",
+"Ausência de LCAT no plasma"
+],
+"e": "O T4 aumenta receptores de LDL e a conversão do colesterol em sais biliares."
+},
+{
+"c": "dislipidemia",
+"q": "Qual achado acompanha a hipercolesterolemia da síndrome nefrótica?",
+"o": [
+"Hipoalbuminemia com proteinúria",
+"Hiperglicemia com cetonúria",
+"Hipercalcemia com fosfatúria",
+"Hiponatremia com hipercalemia"
+],
+"e": "A perda de proteína estimula o fígado a produzir lipoproteínas."
+},
+{
+"c": "dislipidemia",
+"q": "Por que a colestase eleva o colesterol plasmático?",
+"o": [
+"O colesterol não é eliminado pela bile",
+"A LPL deixa de ser produzida",
+"O intestino passa a absorver mais apo E",
+"A HDL deixa de ser formada"
+],
+"e": "A bile é a principal via de eliminação do colesterol."
+},
+{
+"c": "dislipidemia",
+"q": "O hiperadrenocorticismo causa hiperlipidemia porque o cortisol:",
+"o": [
+"Estimula lipólise e produção de VLDL",
+"Ativa a LPL do tecido adiposo",
+"Aumenta os receptores de LDL hepáticos",
+"Inibe a síntese de colesterol"
+],
+"e": "O cortisol aumenta o fluxo de ácidos graxos ao fígado e causa resistência à insulina."
+},
+{
+"c": "dislipidemia",
+"q": "Qual fármaco pode causar hiperlipidemia secundária em cães?",
+"o": [
+"Fenobarbital",
+"Levotiroxina",
+"Insulina NPH",
+"Furosemida"
+],
+"e": "Fenobarbital, glicocorticoides e progestágenos estão associados a hiperlipidemia."
+},
+{
+"c": "dislipidemia",
+"q": "Raças como Pastor-de-Shetland e Briard estão associadas a:",
+"o": [
+"Hipercolesterolemia primária",
+"Deficiência de LPL",
+"Hiperlipemia equina",
+"Lipidose hepática"
+],
+"e": "São descritas famílias com hipercolesterolemia primária."
+},
+{
+"c": "dislipidemia",
+"q": "A hiperlipidemia primária é um diagnóstico:",
+"o": [
+"De exclusão, após descartar causas secundárias",
+"Feito apenas pelo aspecto do soro",
+"Confirmado por um teste genético único",
+"Estabelecido pela idade do animal"
+],
+"e": "Só se considera primária após jejum confirmado e exclusão de endocrinopatias e outras causas."
+},
+{
+"c": "dislipidemia",
+"q": "Além da pancreatite, a hipertrigliceridemia do Schnauzer associa-se a:",
+"o": [
+"Mucocele da vesícula biliar",
+"Cardiomiopatia hipertrófica",
+"Displasia coxofemoral",
+"Urolitíase de cistina"
+],
+"e": "Mucocele, resistência à insulina, proteinúria e convulsões foram associadas."
+},
+{
+"c": "dislipidemia",
+"q": "Qual nível de gordura costuma ser alvo na dieta de um cão hipertrigliceridêmico?",
+"o": [
+"Menos de cerca de 20 a 25 g/1.000 kcal",
+"Mais de 50 g/1.000 kcal",
+"Gordura livre, sem restrição",
+"Exclusivamente gordura animal"
+],
+"e": "Dietas com baixo teor de gordura reduzem os quilomícrons e a carga de TAG."
+},
+{
+"c": "dislipidemia",
+"q": "Como o óleo de peixe reduz os triglicerídeos?",
+"o": [
+"Reduz a VLDL hepática e ativa a LPL",
+"Inibe a HMG-CoA redutase",
+"Bloqueia a lipase pancreática",
+"Aumenta a absorção de sais biliares"
+],
+"e": "EPA e DHA diminuem a síntese hepática de TAG e favorecem sua remoção."
+},
+{
+"c": "dislipidemia",
+"q": "Os fibratos agem principalmente por:",
+"o": [
+"Ativação de PPAR-α",
+"Inibição da HMG-CoA redutase",
+"Sequestro de sais biliares",
+"Bloqueio do receptor de LDL"
+],
+"e": "Aumentam a β-oxidação e a LPL, reduzindo TAG."
+},
+{
+"c": "dislipidemia",
+"q": "Em cavalos de grande porte em balanço energético negativo, o mais comum é:",
+"o": [
+"Hipertrigliceridemia leve com soro claro",
+"Hiperlipemia com soro leitoso",
+"Cetoacidose com hálito cetônico",
+"Lipidose hepática grave fatal"
+],
+"e": "Cavalos grandes raramente desenvolvem a síndrome; pôneis, asininos e miniaturas sim."
+},
+{
+"c": "dislipidemia",
+"q": "Por que pôneis e asininos são predispostos à hiperlipemia?",
+"o": [
+"São mais resistentes à insulina e exportam muita VLDL",
+"Não têm lipase hormônio-sensível",
+"Produzem corpos cetônicos em excesso",
+"Não absorvem gordura no intestino"
+],
+"e": "A resistência à insulina e a grande produção hepática de VLDL explicam a predisposição."
+},
+{
+"c": "dislipidemia",
+"q": "Qual valor de TAG, com soro leitoso, caracteriza hiperlipemia em equídeos?",
+"o": [
+"Acima de 500 mg/dL",
+"Acima de 50 mg/dL",
+"Entre 100 e 150 mg/dL",
+"Abaixo de 20 mg/dL"
+],
+"e": "Hiperlipemia: TAG > 500 mg/dL com lipemia visível e sinais clínicos."
+},
+{
+"c": "dislipidemia",
+"q": "No jumento, a hiperlipemia é perigosa porque:",
+"o": [
+"Os sinais são discretos até fases avançadas",
+"Sempre causa febre alta e diarreia",
+"Responde só à cirurgia de urgência",
+"Acomete apenas animais muito magros"
+],
+"e": "Asininos escondem os sinais; muitas vezes a doença é descoberta tarde."
+},
+{
+"c": "dislipidemia",
+"q": "Qual endocrinopatia equina predispõe à hiperlipemia?",
+"o": [
+"Disfunção da pars intermedia da hipófise",
+"Hipoparatireoidismo primário",
+"Insulinoma pancreático",
+"Hipoadrenocorticismo"
+],
+"e": "A PPID causa resistência à insulina e é fator de risco."
+},
+{
+"c": "dislipidemia",
+"q": "Na hiperlipemia equina, a heparina é pouco usada porque:",
+"o": [
+"Seu benefício é controverso e há risco de sangramento",
+"Ela aumenta a síntese de VLDL",
+"É contraindicada por ser hepatotóxica",
+"Não libera LPL em equídeos"
+],
+"e": "O uso é controverso; o tratamento central é fornecer energia."
+},
+{
+"c": "dislipidemia",
+"q": "Um Schnauzer miniatura de 8 anos tem soro leitoso em jejum. Qual o primeiro passo?",
+"o": [
+"Confirmar o jejum e investigar causas secundárias",
+"Iniciar estatina imediatamente",
+"Suspender toda a alimentação por 48 h",
+"Fazer biópsia hepática de rotina"
+],
+"e": "Mesmo em raça predisposta, descartam-se diabetes, hipotireoidismo e Cushing."
+},
+{
+"c": "dislipidemia",
+"q": "A lipemia retinalis é observada como:",
+"o": [
+"Vasos da retina com cor de creme",
+"Hemorragias retinianas puntiformes",
+"Descolamento total da retina",
+"Catarata nuclear bilateral"
+],
+"e": "O sangue lipêmico deixa os vasos da retina pálidos, cor de creme."
+},
+{
+"c": "dislipidemia",
+"q": "Qual nível de colesterol é associado a risco de aterosclerose no cão?",
+"o": [
+"Acima de cerca de 750 mg/dL, crônico",
+"Acima de 150 mg/dL, eventual",
+"Abaixo de 100 mg/dL",
+"Qualquer valor pós-prandial"
+],
+"e": "Aterosclerose canina exige hipercolesterolemia intensa e prolongada."
+},
+{
+"c": "dislipidemia",
+"q": "O tratamento da hiperlipidemia do hipotireoidismo canino é:",
+"o": [
+"Levotiroxina",
+"Atorvastatina",
+"Insulina",
+"Prednisolona"
+],
+"e": "Com a reposição hormonal, colesterol e TAG costumam normalizar."
+},
+{
+"c": "dislipidemia",
+"q": "Uma pônei com hiperlipemia está com refluxo gástrico. Como fornecer energia?",
+"o": [
+"Nutrição parenteral ou glicose intravenosa",
+"Sonda nasogástrica com óleo vegetal",
+"Jejum até o refluxo cessar",
+"Feno à vontade no cocho"
+],
+"e": "Com refluxo, a via enteral não é possível; usa-se a via intravenosa."
+},
+{
+"c": "dislipidemia",
+"q": "Para avaliar diabetes num cão hiperlipidêmico, além da glicemia, dosa-se:",
+"o": [
+"Frutosamina",
+"TLI sérico",
+"Ácidos biliares",
+"Cortisol basal isolado"
+],
+"e": "A frutosamina reflete a glicemia das últimas semanas."
+},
+{
+"c": "dislipidemia",
+"q": "O teste da refrigeração com soro uniformemente turvo e sem creme sugere excesso de:",
+"o": [
+"VLDL",
+"Quilomícrons",
+"HDL",
+"LDL"
+],
+"e": "VLDL são menores e não flutuam como os quilomícrons."
+},
+{
+"c": "dislipidemia",
+"q": "Qual destes NÃO é causa secundária de hiperlipidemia no cão?",
+"o": [
+"Insuficiência pancreática exócrina",
+"Hipotireoidismo",
+"Diabetes mellitus",
+"Síndrome nefrótica"
+],
+"e": "A IPE causa má absorção de gordura, não hiperlipidemia."
+}
+]

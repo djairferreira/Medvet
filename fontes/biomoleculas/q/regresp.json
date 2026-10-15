@@ -180,7 +180,7 @@
   "q": "As células glomosas (tipo I) do corpo carotídeo respondem à hipóxia porque:",
   "o": [
    "Canais de K+ se fecham, a célula despolariza e libera transmissores",
-   "A hipóxia abre canais de Cl- e hiperpolariza a célula sensorial",
+   "A hipóxia abre canais de Cl- e hiperpolariza a célula sensorial do glomo",
    "O O2 dissolvido ativa diretamente as fibras do nervo frênico",
    "A hemoglobina das células libera óxido nítrico sobre o vago"
   ],
@@ -191,7 +191,7 @@
   "q": "Por que uma variação de PaCO2 altera rapidamente o pH do líquor?",
   "o": [
    "O CO2 atravessa livremente a barreira hematoencefálica",
-   "O HCO3- atravessa a barreira mais rápido que o CO2",
+   "O HCO3- atravessa a barreira hematoencefálica mais rápido que o CO2",
    "O líquor tem grande capacidade tamponante proteica",
    "Os plexos coroides secretam H+ conforme a PaO2"
   ],
@@ -213,7 +213,7 @@
   "q": "A camada periciliar (fase sol) do muco é importante porque:",
   "o": [
    "Permite que os cílios batam livremente sob o gel",
-   "Aprisiona as partículas inaladas maiores",
+   "Aprisiona as partículas inaladas maiores e as bactérias",
    "Contém as mucinas que dão viscosidade ao muco",
    "Secreta surfactante para os bronquíolos"
   ],
@@ -224,7 +224,7 @@
   "q": "A espessura da camada periciliar depende do transporte iônico por:",
   "o": [
    "CFTR (secreção de Cl-) e ENaC (absorção de Na+)",
-   "Bomba de prótons e trocador Na+/H+",
+   "Bomba de prótons apical e trocador Na+/H+ basolateral",
    "Canais de Ca2+ tipo L e trocador Na+/Ca2+",
    "Aquaporina-2 regulada pelo ADH"
   ],
@@ -334,7 +334,7 @@
   "q": "O principal fator de virulência da Mannheimia haemolytica na pneumonia do transporte é:",
   "o": [
    "Leucotoxina que lisa leucócitos de ruminantes",
-   "Toxina que bloqueia a acetilcolinesterase",
+   "Toxina que bloqueia a acetilcolinesterase das placas motoras",
    "Urease que gera amônia no alvéolo",
    "Neuraminidase que destrói o surfactante"
   ],
@@ -367,7 +367,7 @@
   "q": "Qual medida melhor previne a pneumonia do transporte em bezerros de corte?",
   "o": [
    "Pré-condicionamento: vacinar e desmamar antes do transporte",
-   "Antitussígeno no dia da chegada ao confinamento",
+   "Antitussígeno e antibiótico no dia da chegada ao confinamento",
    "Transporte longo sem paradas para reduzir estresse",
    "Misturar lotes de origens diferentes na viagem"
   ],
@@ -389,7 +389,7 @@
   "q": "A pleuropneumonia do transporte equina relaciona-se a:",
   "o": [
    "Cabeça mantida elevada por horas, impedindo a drenagem do muco",
-   "Excesso de exercício no galope antes da viagem",
+   "Excesso de exercício intenso em galope nas horas que antecedem a viagem",
    "Deficiência de selênio na dieta do potro",
    "Uso de furosemida antes do transporte"
   ],
@@ -411,7 +411,7 @@
   "q": "Vírus como BoHV-1 e BRSV favorecem pneumonia bacteriana porque:",
   "o": [
    "Lesam células ciliadas e deprimem macrófagos",
-   "Produzem leucotoxina contra neutrófilos",
+   "Produzem leucotoxina específica contra neutrófilos",
    "Estimulam a tosse e eliminam bactérias",
    "Aumentam a produção de surfactante"
   ],

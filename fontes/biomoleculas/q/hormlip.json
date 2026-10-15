@@ -1,0 +1,442 @@
+[
+{
+"c": "hormlip",
+"q": "Qual efeito da insulina sobre o metabolismo lipídico é correto?",
+"o": [
+"Ativa a acetil-CoA carboxilase e inibe a lipólise",
+"Ativa a lipase hormônio-sensível no adipócito",
+"Inibe a lipase lipoproteica do tecido adiposo",
+"Estimula a CPT-I e a cetogênese hepática"
+],
+"e": "A insulina é o hormônio lipogênico."
+},
+{
+"c": "hormlip",
+"q": "Como o glucagon favorece a cetogênese no fígado?",
+"o": [
+"Inibe a ACC, reduz malonil-CoA e libera a CPT-I",
+"Ativa a ACC, aumenta malonil-CoA e inibe a CPT-I",
+"Estimula a ácido graxo sintase e o NADPH",
+"Aumenta a glicólise e o oxaloacetato"
+],
+"e": "Menos malonil-CoA abre a entrada de ácidos graxos."
+},
+{
+"c": "hormlip",
+"q": "Qual é a principal ação da leptina?",
+"o": [
+"Sinalizar ao hipotálamo que os estoques de gordura estão cheios",
+"Ativar a lipase lipoproteica do músculo esquelético",
+"Estimular a síntese hepática de corpos cetônicos",
+"Inibir a absorção intestinal de ácidos graxos"
+],
+"e": "A leptina reduz o apetite e aumenta o gasto energético."
+},
+{
+"c": "hormlip",
+"q": "Agonistas β-adrenérgicos usados como repartidores em suínos aumentam a carne magra porque:",
+"o": [
+"Estimulam a lipólise e a deposição de músculo",
+"Inibem a CPT-I e a oxidação de gordura",
+"Aumentam a insulina e a lipogênese hepática",
+"Bloqueiam a lipase lipoproteica muscular"
+],
+"e": "A via β-adrenérgica eleva AMPc e ativa a LHS."
+},
+{
+"c": "hormlip",
+"q": "Qual hormônio causa redistribuição da gordura com abdômen penduloso em cães?",
+"o": [
+"Cortisol em excesso",
+"Tiroxina em excesso",
+"Insulina em falta",
+"Leptina em falta"
+],
+"e": "Hiperadrenocorticismo: lipólise e resistência à insulina."
+},
+{
+"c": "hormlip",
+"q": "Qual é o único grande hormônio lipogênico?",
+"o": [
+"Insulina",
+"Glucagon",
+"GH",
+"Cortisol"
+],
+"e": "Todos os demais favorecem a mobilização de gordura."
+},
+{
+"c": "hormlip",
+"q": "Como a insulina reduz o AMPc no adipócito?",
+"o": [
+"Ativando a fosfodiesterase 3B via Akt",
+"Inibindo diretamente a proteína Gs",
+"Fosforilando a lipase hormônio-sensível",
+"Bloqueando o receptor β-adrenérgico"
+],
+"e": "A Akt ativa a PDE3B, que degrada o AMPc e desliga a PKA."
+},
+{
+"c": "hormlip",
+"q": "Qual fator de transcrição media a indução das enzimas lipogênicas pela insulina?",
+"o": [
+"SREBP-1c",
+"PPAR-α",
+"CREB",
+"NF-κB"
+],
+"e": "SREBP-1c aumenta a expressão de ACC, AGS e outras enzimas."
+},
+{
+"c": "hormlip",
+"q": "Receptores α2-adrenérgicos no adipócito:",
+"o": [
+"Inibem a lipólise via proteína Gi",
+"Estimulam a lipólise via proteína Gs",
+"Ativam a LPL do capilar",
+"Aumentam a captação de glicose"
+],
+"e": "Reduzem o AMPc e se opõem aos receptores β."
+},
+{
+"c": "hormlip",
+"q": "O efeito do glucagon sobre o metabolismo lipídico concentra-se:",
+"o": [
+"No fígado, aumentando β-oxidação e cetogênese",
+"No tecido adiposo, como principal lipolítico",
+"No intestino, aumentando a absorção",
+"No músculo, inibindo a LPL"
+],
+"e": "Nos animais domésticos adultos o glucagon é pouco lipolítico no adiposo."
+},
+{
+"c": "hormlip",
+"q": "O efeito permissivo do cortisol na lipólise significa que ele:",
+"o": [
+"Aumenta a resposta do adipócito às catecolaminas",
+"Ativa diretamente a LHS por fosforilação",
+"Inibe a ATGL e a perilipina",
+"Reduz os receptores β no adiposo"
+],
+"e": "O cortisol aumenta a expressão de lipases e de receptores β."
+},
+{
+"c": "hormlip",
+"q": "Qual efeito o GH tem no tecido adiposo?",
+"o": [
+"Antagoniza a insulina e aumenta a lipólise",
+"Aumenta a captação de glicose",
+"Estimula a lipogênese de novo",
+"Ativa a LPL e o estoque"
+],
+"e": "O GH poupa glicose e mobiliza gordura."
+},
+{
+"c": "hormlip",
+"q": "No periparto da vaca leiteira, o eixo GH–IGF-1 está:",
+"o": [
+"Desacoplado: GH alto e IGF-1 baixo",
+"Acoplado: GH e IGF-1 altos",
+"Suprimido: GH e IGF-1 baixos",
+"Invertido: GH baixo e IGF-1 alto"
+],
+"e": "O fígado expressa menos receptores de GH; sem IGF-1, o GH segue alto."
+},
+{
+"c": "hormlip",
+"q": "Na vaca em início de lactação, a glicose entra na glândula mamária por:",
+"o": [
+"GLUT1, independente de insulina",
+"GLUT4, dependente de insulina",
+"SGLT1, acoplado ao sódio",
+"Difusão simples pela membrana"
+],
+"e": "A mama capta glicose sem depender da insulina, que fica baixa."
+},
+{
+"c": "hormlip",
+"q": "O que é homeorrese?",
+"o": [
+"Mudança coordenada do metabolismo para uma nova prioridade",
+"Manutenção da glicemia em jejum curto",
+"Regulação da temperatura corporal",
+"Equilíbrio entre lipólise e lipogênese no adiposo"
+],
+"e": "É a reorientação fisiológica que prioriza a lactação no periparto."
+},
+{
+"c": "hormlip",
+"q": "A leptina baixa na vaca no pós-parto contribui para:",
+"o": [
+"Atraso da retomada da ovulação",
+"Aumento da produção de VLDL",
+"Redução da ingestão de alimento",
+"Inibição da lipólise"
+],
+"e": "A leptina é necessária para a atividade reprodutiva."
+},
+{
+"c": "hormlip",
+"q": "A adiponectina:",
+"o": [
+"Aumenta a sensibilidade à insulina e cai na obesidade",
+"Aumenta o apetite e sobe na obesidade",
+"Inibe a oxidação de ácidos graxos",
+"É produzida pelo fígado no jejum"
+],
+"e": "É um sinal do adipócito magro que ativa a AMPK."
+},
+{
+"c": "hormlip",
+"q": "Animais obesos têm leptina:",
+"o": [
+"Alta, mas com resistência central",
+"Baixa, por falta de adipócitos",
+"Ausente, por mutação",
+"Normal, sem relação com a gordura"
+],
+"e": "A leptina sobe com a gordura, mas o hipotálamo responde mal."
+},
+{
+"c": "hormlip",
+"q": "Onde a leptina age para reduzir o apetite?",
+"o": [
+"Núcleo arqueado do hipotálamo",
+"Córtex adrenal",
+"Ilhotas pancreáticas",
+"Neuro-hipófise"
+],
+"e": "Inibe neurônios NPY/AgRP e estimula POMC."
+},
+{
+"c": "hormlip",
+"q": "A niacina em doses altas é usada em vacas periparto para:",
+"o": [
+"Reduzir a lipólise via receptor acoplado a Gi",
+"Aumentar a produção de propionato",
+"Estimular a exportação de VLDL",
+"Elevar a secreção de glucagon"
+],
+"e": "O receptor do ácido nicotínico reduz o AMPc no adipócito."
+},
+{
+"c": "hormlip",
+"q": "A somatotropina bovina recombinante aumenta a produção de leite porque:",
+"o": [
+"Desvia nutrientes do adiposo para a mama",
+"Aumenta a lipogênese no tecido adiposo",
+"Reduz o fluxo sanguíneo mamário",
+"Inibe a gliconeogênese hepática"
+],
+"e": "Ação de GH e IGF-1: lipólise, gliconeogênese e maior atividade mamária."
+},
+{
+"c": "hormlip",
+"q": "Por que a bST não é aplicada logo após o parto?",
+"o": [
+"A vaca já está em balanço energético negativo",
+"O GH endógeno está baixo nessa fase",
+"A mama não tem receptores de GH",
+"Causa hipocalcemia imediata"
+],
+"e": "Aumentaria a mobilização de gordura justamente na fase crítica."
+},
+{
+"c": "hormlip",
+"q": "Qual destes é proibido para animais de produção pelo risco ao consumidor?",
+"o": [
+"Clembuterol",
+"Monensina",
+"Propilenoglicol",
+"Colina protegida"
+],
+"e": "O clembuterol é β-agonista potente com resíduos perigosos."
+},
+{
+"c": "hormlip",
+"q": "A ractopamina age em receptores:",
+"o": [
+"β-adrenérgicos",
+"Muscarínicos",
+"Glicocorticoides",
+"De insulina"
+],
+"e": "É um β-agonista repartidor usado na terminação."
+},
+{
+"c": "hormlip",
+"q": "Gatos obesos têm maior risco de diabetes porque:",
+"o": [
+"A obesidade causa resistência à insulina",
+"A leptina destrói as células β",
+"O adiposo produz glucagon",
+"A obesidade aumenta a adiponectina"
+],
+"e": "A sensibilidade à insulina cai pela metade ou mais."
+},
+{
+"c": "hormlip",
+"q": "A síndrome metabólica equina caracteriza-se por:",
+"o": [
+"Obesidade regional, resistência à insulina e risco de laminite",
+"Hipoglicemia, cetose e cegueira",
+"Magreza extrema e hipertireoidismo",
+"Hipercalcemia e cálculos renais"
+],
+"e": "Pescoço em crista e resistência à insulina predispõem à laminite."
+},
+{
+"c": "hormlip",
+"q": "Na lipidose hepática felina, por que não se usa insulina em gatos não diabéticos?",
+"o": [
+"A alimentação já eleva a insulina endógena",
+"A insulina aumenta a lipólise no gato",
+"Gatos não têm receptor de insulina no fígado",
+"Ela piora a exportação de VLDL"
+],
+"e": "A comida fornecida por sonda faz esse papel."
+},
+{
+"c": "hormlip",
+"q": "O gato com lipidose não exporta bem VLDL porque faltam:",
+"o": [
+"Aminoácidos e fosfatidilcolina",
+"Ácidos graxos livres no fígado",
+"Corpos cetônicos no sangue",
+"Sais biliares no intestino"
+],
+"e": "Arginina, metionina e taurina são necessárias; a síntese proteica cai na anorexia."
+},
+{
+"c": "hormlip",
+"q": "No hipotireoidismo canino, além da hipercolesterolemia, é comum:",
+"o": [
+"Ganho de peso",
+"Polifagia com emagrecimento",
+"Hipoglicemia grave",
+"Cetoacidose"
+],
+"e": "Metabolismo reduzido leva a ganho de peso."
+},
+{
+"c": "hormlip",
+"q": "O gato hipertireóideo idoso:",
+"o": [
+"Emagrece apesar da polifagia",
+"Ganha peso e fica letárgico",
+"Desenvolve hiperlipemia",
+"Apresenta lipidose por excesso de comida"
+],
+"e": "Os hormônios tireoidianos aceleram o catabolismo."
+},
+{
+"c": "hormlip",
+"q": "Na lipólise ativada pela PKA, a LHS:",
+"o": [
+"É fosforilada e migra para a gotícula",
+"É desfosforilada e fica no citosol",
+"É secretada no capilar",
+"É degradada no lisossomo"
+],
+"e": "A fosforilação e a translocação aumentam muito a atividade."
+},
+{
+"c": "hormlip",
+"q": "A proteína G0S2, induzida pela insulina:",
+"o": [
+"Inibe a ATGL",
+"Ativa a LHS",
+"Ativa a LPL",
+"Inibe a PDE3B"
+],
+"e": "É um freio da primeira etapa da lipólise."
+},
+{
+"c": "hormlip",
+"q": "Qual destes hormônios NÃO favorece a mobilização de gordura?",
+"o": [
+"Insulina",
+"Noradrenalina",
+"Hormônio do crescimento",
+"Glucagon"
+],
+"e": "A insulina é lipogênica e antilipolítica."
+},
+{
+"c": "hormlip",
+"q": "A noradrenalina liberada no tecido adiposo marrom no frio:",
+"o": [
+"Ativa a lipólise e a termogenina",
+"Inibe a UCP1 e reduz o calor",
+"Estimula a lipogênese local",
+"Bloqueia a cadeia respiratória"
+],
+"e": "Via receptor β3, os ácidos graxos liberados ativam a UCP1."
+},
+{
+"c": "hormlip",
+"q": "Por que a vaca gorda ao parto tem mais risco de cetose?",
+"o": [
+"Maior resistência à insulina, mais lipólise e menor ingestão",
+"Maior produção de insulina e lipogênese",
+"Menor secreção de GH e cortisol",
+"Menor reserva de gordura para mobilizar"
+],
+"e": "O excesso de gordura agrava a mobilização e reduz o apetite."
+},
+{
+"c": "hormlip",
+"q": "A cetoacidose diabética ocorre quando a insulina está:",
+"o": [
+"Muito baixa e os hormônios contrarreguladores altos",
+"Alta e o glucagon baixo",
+"Normal e o cortisol baixo",
+"Alta com resistência leve"
+],
+"e": "Sem freio insulínico, lipólise e cetogênese disparam."
+},
+{
+"c": "hormlip",
+"q": "O acetato de megestrol em gatas pode causar:",
+"o": [
+"Resistência à insulina e diabetes",
+"Hipotireoidismo e ganho de peso",
+"Hiperlipemia equina",
+"Deficiência de carnitina"
+],
+"e": "Progestágenos antagonizam a insulina."
+},
+{
+"c": "hormlip",
+"q": "No hiperadrenocorticismo, a hepatomegalia é causada principalmente por:",
+"o": [
+"Acúmulo de glicogênio",
+"Acúmulo de corpos cetônicos",
+"Hiperplasia de adipócitos",
+"Fibrose hepática difusa"
+],
+"e": "O cortisol induz glicogênio hepático (hepatopatia esteroide)."
+},
+{
+"c": "hormlip",
+"q": "Adipócitos hipertrofiados secretam quais citocinas que pioram a sensibilidade à insulina?",
+"o": [
+"TNF-α e IL-6",
+"IL-2 e interferon-γ",
+"IL-10 e TGF-β",
+"Eritropoetina e trombopoetina"
+],
+"e": "Mantêm inflamação crônica de baixo grau."
+},
+{
+"c": "hormlip",
+"q": "O propilenoglicol, além de gliconeogênico, ajuda na cetose porque:",
+"o": [
+"Eleva a insulina e freia a lipólise",
+"Aumenta diretamente a CPT-I",
+"Inibe a síntese de propionato",
+"Estimula a cetogênese hepática"
+],
+"e": "Mais glicose leva a mais insulina e menos AGNE."
+}
+]

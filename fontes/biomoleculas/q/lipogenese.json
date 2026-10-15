@@ -1,0 +1,442 @@
+[
+{
+"c": "lipogenese",
+"q": "Em que compartimento ocorre a síntese de ácidos graxos?",
+"o": [
+"Citosol",
+"Matriz mitocondrial",
+"Peroxissomo",
+"Núcleo celular"
+],
+"e": "Síntese no citosol; degradação na mitocôndria."
+},
+{
+"c": "lipogenese",
+"q": "Como a acetil-CoA produzida na mitocôndria chega ao citosol para a lipogênese?",
+"o": [
+"Sai na forma de citrato e é liberada pela ATP-citrato liase",
+"Atravessa a membrana ligada à carnitina e à CPT-II",
+"Sai como malonil-CoA pela translocase de acil",
+"Atravessa livremente a membrana mitocondrial interna"
+],
+"e": "O citrato é exportado e clivado no citosol."
+},
+{
+"c": "lipogenese",
+"q": "Qual enzima catalisa a etapa limitante da síntese de ácidos graxos?",
+"o": [
+"Acetil-CoA carboxilase",
+"Ácido graxo sintase",
+"HMG-CoA redutase",
+"Carnitina palmitoiltransferase I"
+],
+"e": "Forma malonil-CoA; depende de biotina."
+},
+{
+"c": "lipogenese",
+"q": "Qual coenzima redutora é consumida pela ácido graxo sintase?",
+"o": [
+"NADPH",
+"NADH",
+"FADH2",
+"Coenzima Q reduzida"
+],
+"e": "São 14 NADPH para formar um palmitato."
+},
+{
+"c": "lipogenese",
+"q": "Qual é o produto principal liberado pela ácido graxo sintase nos mamíferos?",
+"o": [
+"Palmitato (C16:0)",
+"Estearato (C18:0)",
+"Oleato (C18:1)",
+"Butirato (C4:0)"
+],
+"e": "Alongamento e dessaturação ocorrem depois, no retículo."
+},
+{
+"c": "lipogenese",
+"q": "Qual é o principal substrato para a síntese de gordura no tecido adiposo de ruminantes?",
+"o": [
+"Acetato",
+"Glicose",
+"Lactato",
+"Propionato"
+],
+"e": "O ruminante poupa glicose; usa acetato do rúmen."
+},
+{
+"c": "lipogenese",
+"q": "Em aves, o principal órgão de lipogênese é:",
+"o": [
+"O fígado",
+"O tecido adiposo",
+"O músculo peitoral",
+"A glândula uropigiana"
+],
+"e": "O fígado exporta VLDL para o adiposo e para a gema."
+},
+{
+"c": "lipogenese",
+"q": "Qual é a origem do ácido butírico encontrado no leite de vaca?",
+"o": [
+"Síntese na glândula mamária a partir de acetato e BHB",
+"Absorção direta do butirato do rúmen pela mama",
+"Degradação da caseína pelas bactérias do leite",
+"Hidrólise da lactose dentro dos alvéolos mamários"
+],
+"e": "A AGS mamária termina cadeias curtas e médias."
+},
+{
+"c": "lipogenese",
+"q": "Por que o tecido adiposo precisa de glicose para armazenar triacilglicerol?",
+"o": [
+"Obtém glicerol-3-fosfato sobretudo pela glicólise",
+"Usa glicose como fonte direta dos ácidos graxos",
+"Usa glicose para ativar a lipase hormônio-sensível",
+"Converte glicose em carnitina para o estoque"
+],
+"e": "Quase sem glicerol-quinase, o glicerol-3-P vem principalmente da DHAP glicolítica; a gliceroneogênese cobre só uma parte."
+},
+{
+"c": "lipogenese",
+"q": "Qual enzima é inibida pelas estatinas?",
+"o": [
+"HMG-CoA redutase",
+"HMG-CoA sintase mitocondrial",
+"Acetil-CoA carboxilase",
+"Lipase lipoproteica"
+],
+"e": "É a enzima limitante da síntese de colesterol."
+},
+{
+"c": "lipogenese",
+"q": "Qual vitamina é cofator da acetil-CoA carboxilase?",
+"o": [
+"Biotina",
+"Tiamina",
+"Cobalamina",
+"Riboflavina"
+],
+"e": "A ACC carboxila a acetil-CoA com biotina como carreador de CO2."
+},
+{
+"c": "lipogenese",
+"q": "Qual molécula ativa alostericamente a acetil-CoA carboxilase?",
+"o": [
+"Citrato",
+"Palmitoil-CoA",
+"AMP",
+"Malonil-CoA"
+],
+"e": "O citrato sinaliza abundância de acetil-CoA e polimeriza/ativa a ACC."
+},
+{
+"c": "lipogenese",
+"q": "Qual molécula inibe a acetil-CoA carboxilase por retroalimentação?",
+"o": [
+"Acil-CoA de cadeia longa",
+"Citrato",
+"Insulina",
+"Biotina"
+],
+"e": "O produto final da via (acil-CoA) inibe a ACC."
+},
+{
+"c": "lipogenese",
+"q": "A AMPK inibe a lipogênese porque:",
+"o": [
+"Fosforila e inativa a ACC",
+"Ativa a ácido graxo sintase",
+"Aumenta o citrato citosólico",
+"Estimula a ATP-citrato liase"
+],
+"e": "Com energia baixa (AMP alto), a AMPK desliga a síntese."
+},
+{
+"c": "lipogenese",
+"q": "Na ácido graxo sintase, os intermediários ficam ligados a:",
+"o": [
+"Proteína carreadora de acila (ACP)",
+"Coenzima A livre",
+"Carnitina",
+"Albumina"
+],
+"e": "Na síntese o carreador é a ACP; na β-oxidação, a CoA."
+},
+{
+"c": "lipogenese",
+"q": "Por que a malonil-CoA libera CO2 na condensação?",
+"o": [
+"A descarboxilação torna a reação favorável",
+"Para gerar NADPH para a redução",
+"Para formar biotina livre",
+"Para produzir acetil-CoA mitocondrial"
+],
+"e": "A perda do CO2 incorporado pela ACC impulsiona a condensação."
+},
+{
+"c": "lipogenese",
+"q": "Quantos NADPH são gastos para sintetizar um palmitato?",
+"o": [
+"14",
+"7",
+"8",
+"16"
+],
+"e": "São 7 voltas, cada uma com 2 reduções que usam NADPH."
+},
+{
+"c": "lipogenese",
+"q": "Quantas malonil-CoA são usadas na síntese de um palmitato?",
+"o": [
+"7",
+"8",
+"14",
+"16"
+],
+"e": "O palmitato vem de 1 acetil-CoA inicial e 7 malonil-CoA."
+},
+{
+"c": "lipogenese",
+"q": "Qual via fornece NADPH para a lipogênese em monogástricos, junto com a enzima málica?",
+"o": [
+"Via das pentoses-fosfato",
+"Ciclo da ureia",
+"Gliconeogênese",
+"β-oxidação"
+],
+"e": "A glicose-6-fosfato desidrogenase e a 6-fosfogliconato desidrogenase produzem NADPH."
+},
+{
+"c": "lipogenese",
+"q": "No ruminante, uma fonte importante de NADPH para a lipogênese no adiposo é:",
+"o": [
+"Isocitrato desidrogenase NADP citosólica",
+"Enzima málica muito ativa",
+"Lactato desidrogenase",
+"Piruvato carboxilase"
+],
+"e": "Ruminantes têm pouca enzima málica e ATP-citrato liase no adiposo."
+},
+{
+"c": "lipogenese",
+"q": "Por que o ruminante poupa glicose na síntese de gordura?",
+"o": [
+"Precisa dela para lactose, cérebro e feto",
+"Não possui enzimas da glicólise",
+"A glicose é tóxica ao adipócito",
+"A insulina não age no ruminante"
+],
+"e": "O ruminante absorve pouca glicose e depende da gliconeogênese."
+},
+{
+"c": "lipogenese",
+"q": "Como o acetato é ativado no citosol do adipócito ruminante?",
+"o": [
+"Pela acetil-CoA sintetase",
+"Pela ATP-citrato liase",
+"Pela piruvato desidrogenase",
+"Pela tiolase"
+],
+"e": "A acetil-CoA sintetase citosólica liga o acetato à CoA com ATP."
+},
+{
+"c": "lipogenese",
+"q": "No gato, a lipogênese de novo é:",
+"o": [
+"Baixa, e ele depende da gordura da dieta",
+"Muito alta, a partir de amido",
+"Exclusiva do fígado, como nas aves",
+"Igual à do ruminante, a partir de acetato"
+],
+"e": "O carnívoro estrito tem pouca capacidade de transformar carboidrato em gordura."
+},
+{
+"c": "lipogenese",
+"q": "O principal local de lipogênese no suíno é:",
+"o": [
+"Tecido adiposo",
+"Fígado",
+"Glândula mamária",
+"Intestino delgado"
+],
+"e": "Em suínos e ruminantes, o adiposo é o principal local."
+},
+{
+"c": "lipogenese",
+"q": "Qual enzima forma o ácido oleico a partir do esteárico?",
+"o": [
+"Δ9-dessaturase",
+"Δ6-dessaturase",
+"Δ12-dessaturase",
+"Elongase"
+],
+"e": "A estearoil-CoA dessaturase introduz a dupla no C9."
+},
+{
+"c": "lipogenese",
+"q": "Por que mamíferos não sintetizam linoleico?",
+"o": [
+"Não têm dessaturases além do carbono 9",
+"Não têm elongases no retículo",
+"Não produzem malonil-CoA",
+"Não possuem NADPH citosólico"
+],
+"e": "Faltam as Δ12 e Δ15, presentes nas plantas."
+},
+{
+"c": "lipogenese",
+"q": "O alongamento de ácidos graxos no retículo usa como doador de carbonos:",
+"o": [
+"Malonil-CoA",
+"Acetoacetato",
+"Propionil-CoA",
+"Glicerol-3-fosfato"
+],
+"e": "As elongases usam malonil-CoA e NADPH."
+},
+{
+"c": "lipogenese",
+"q": "O ácido araquidônico é sintetizado a partir de:",
+"o": [
+"Linoleico (n-6)",
+"α-linolênico (n-3)",
+"Oleico (n-9)",
+"Palmitoleico (n-7)"
+],
+"e": "Linoleico → γ-linolênico → di-homo-γ-linolênico → araquidônico."
+},
+{
+"c": "lipogenese",
+"q": "Por que excesso de n-6 na dieta reduz EPA e DHA?",
+"o": [
+"As famílias competem pelas mesmas dessaturases",
+"O n-6 destrói os ácidos n-3 no intestino",
+"O n-6 inibe a absorção de gordura",
+"O n-6 é convertido em n-3 no fígado"
+],
+"e": "n-3 e n-6 disputam as Δ6 e Δ5."
+},
+{
+"c": "lipogenese",
+"q": "Qual enzima converte ácido vacênico em ácido rumênico (CLA)?",
+"o": [
+"Δ9-dessaturase",
+"Lipase lipoproteica",
+"Isomerase bacteriana ruminal",
+"Elongase mitocondrial"
+],
+"e": "A Δ9-dessaturase da mama e do adiposo forma o CLA cis-9, trans-11."
+},
+{
+"c": "lipogenese",
+"q": "Qual etapa é comprometida na síntese de triacilgliceróis?",
+"o": [
+"Glicerol-3-fosfato aciltransferase",
+"Diacilglicerol aciltransferase",
+"Fosfatidato fosfatase",
+"Lipase hormônio-sensível"
+],
+"e": "A GPAT liga o primeiro acil-CoA e é estimulada pela insulina."
+},
+{
+"c": "lipogenese",
+"q": "O ácido fosfatídico é ponto de bifurcação entre:",
+"o": [
+"Triacilgliceróis e fosfolipídios",
+"Colesterol e sais biliares",
+"Corpos cetônicos e glicose",
+"Esfingolipídios e eicosanoides"
+],
+"e": "Pode virar DAG e TAG, ou fosfolipídios."
+},
+{
+"c": "lipogenese",
+"q": "A gliceroneogênese no adipócito em jejum:",
+"o": [
+"Forma glicerol-3-fosfato a partir de piruvato",
+"Libera glicose para o sangue",
+"Converte ácido graxo em glicerol",
+"Depende de glicerol-quinase"
+],
+"e": "Usa a PEPCK para reesterificar parte dos ácidos graxos."
+},
+{
+"c": "lipogenese",
+"q": "O tecido adiposo marrom gera calor graças à:",
+"o": [
+"Termogenina (UCP1)",
+"Lipase lipoproteica",
+"ATP sintase",
+"Perilipina"
+],
+"e": "A UCP1 desacopla a cadeia respiratória."
+},
+{
+"c": "lipogenese",
+"q": "Qual é a última gordura a ser depositada durante o crescimento?",
+"o": [
+"Intramuscular (marmoreio)",
+"Perirrenal",
+"Omental",
+"Subcutânea"
+],
+"e": "A ordem é visceral, subcutânea, intermuscular e intramuscular."
+},
+{
+"c": "lipogenese",
+"q": "A enzima limitante da síntese de colesterol é:",
+"o": [
+"HMG-CoA redutase",
+"HMG-CoA sintase mitocondrial",
+"HMG-CoA liase",
+"Esqualeno sintase"
+],
+"e": "A redutase converte HMG-CoA em mevalonato com NADPH."
+},
+{
+"c": "lipogenese",
+"q": "A HMG-CoA usada na síntese de colesterol é formada:",
+"o": [
+"No citosol",
+"Na matriz mitocondrial",
+"No peroxissomo",
+"No lisossomo"
+],
+"e": "A HMG-CoA sintase citosólica é distinta da mitocondrial, que leva aos corpos cetônicos."
+},
+{
+"c": "lipogenese",
+"q": "Qual hormônio ativa a HMG-CoA redutase?",
+"o": [
+"Insulina",
+"Glucagon",
+"Adrenalina",
+"Cortisol"
+],
+"e": "A insulina favorece a forma desfosforilada ativa; o glucagon e a AMPK a inibem."
+},
+{
+"c": "lipogenese",
+"q": "A hiperplasia de adipócitos ocorre sobretudo:",
+"o": [
+"Em animais jovens e no ganho prolongado de peso",
+"Somente após a castração",
+"Apenas em ruminantes adultos",
+"Exclusivamente no tecido marrom"
+],
+"e": "Pré-adipócitos se diferenciam sob PPAR-γ."
+},
+{
+"c": "lipogenese",
+"q": "Na glândula mamária de ruminantes, a ácido graxo sintase libera:",
+"o": [
+"Cadeias curtas e médias (C4 a C14)",
+"Somente palmitato (C16)",
+"Apenas ácidos de 18 carbonos",
+"Ácidos poli-insaturados"
+],
+"e": "Uma tioesterase específica encerra a síntese precocemente."
+}
+]

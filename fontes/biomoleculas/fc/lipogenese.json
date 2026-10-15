@@ -1,0 +1,42 @@
+[
+[
+"lipogenese",
+"Enzima limitante e coenzima da síntese de ácidos graxos",
+"Acetil-CoA carboxilase (biotina) → malonil-CoA; a ácido graxo sintase usa NADPH (14 por palmitato)."
+],
+[
+"lipogenese",
+"Síntese × β-oxidação",
+"Síntese: citosol, ACP, malonil-CoA, NADPH, insulina. β-oxidação: mitocôndria, CoA, FAD/NAD+, glucagon."
+],
+[
+"lipogenese",
+"Balanço do palmitato",
+"8 acetil-CoA + 7 ATP + 14 NADPH → palmitato."
+],
+[
+"lipogenese",
+"Fontes de NADPH",
+"Via das pentoses e enzima málica; no ruminante, isocitrato desidrogenase NADP citosólica."
+],
+[
+"lipogenese",
+"Lipogênese no ruminante",
+"Adiposo, a partir de acetato (acetil-CoA sintetase); poupa glicose para lactose."
+],
+[
+"lipogenese",
+"Por que linoleico e α-linolênico são essenciais",
+"Animais não têm dessaturases além do C9 (Δ12, Δ15)."
+],
+[
+"lipogenese",
+"Síntese de TAG",
+"Glicerol-3-fosfato + 2 acil-CoA → ácido fosfatídico → DAG → TAG (GPAT, lipina, DGAT)."
+],
+[
+"lipogenese",
+"HMG-CoA redutase",
+"Enzima limitante do colesterol; inibida por colesterol, glucagon, AMPK e estatinas; ativada por insulina."
+]
+]
