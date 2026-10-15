@@ -1,0 +1,442 @@
+[
+{
+"c": "hormosso",
+"q": "O PTH tem qual efeito sobre o fosfato no rim?",
+"o": [
+"Reduz a reabsorção no túbulo proximal",
+"Aumenta a reabsorção no túbulo distal",
+"Não age sobre o fosfato",
+"Aumenta a secreção no ducto coletor"
+],
+"e": "O PTH é fosfatúrico: menos reabsorção proximal de fosfato."
+},
+{
+"c": "hormosso",
+"q": "A 1α-hidroxilação da vitamina D ocorre principalmente em qual órgão?",
+"o": [
+"Rim",
+"Fígado",
+"Pele",
+"Intestino"
+],
+"e": "Pele (D₃) → fígado (25-OH, calcidiol) → rim (1,25-(OH)₂, calcitriol)."
+},
+{
+"c": "hormosso",
+"q": "Qual forma da vitamina D é a melhor indicadora das reservas corporais?",
+"o": [
+"25-hidroxivitamina D (calcidiol)",
+"1,25-di-hidroxivitamina D",
+"7-desidrocolesterol",
+"24,25-di-hidroxivitamina D, a forma inativada"
+],
+"e": "O calcidiol circula em maior quantidade e tem meia-vida longa."
+},
+{
+"c": "hormosso",
+"q": "Por que cães e gatos dependem de vitamina D na dieta?",
+"o": [
+"Sua pele tem pouco 7-desidrocolesterol",
+"Seu fígado não faz 25-hidroxilação",
+"Seu rim não tem 1α-hidroxilase",
+"Seu intestino não absorve gordura"
+],
+"e": "A 7-desidrocolesterol redutase converte o precursor em colesterol, e quase não sobra substrato."
+},
+{
+"c": "hormosso",
+"q": "O principal efeito do calcitriol no intestino é:",
+"o": [
+"Aumentar a absorção de cálcio e fosfato",
+"Reduzir a absorção de fosfato e aumentar a de cálcio",
+"Aumentar a secreção de cálcio",
+"Estimular a produção de calcitonina"
+],
+"e": "Induz canais apicais, calbindina e bomba basolateral."
+},
+{
+"c": "hormosso",
+"q": "Qual dupla de efeitos descreve corretamente o PTH no sangue?",
+"o": [
+"Eleva o cálcio e reduz o fósforo",
+"Eleva o cálcio e o fósforo",
+"Reduz o cálcio e o fósforo",
+"Reduz o cálcio e eleva o fósforo"
+],
+"e": "Mobiliza cálcio e provoca fosfatúria."
+},
+{
+"c": "hormosso",
+"q": "Qual mineral é necessário para que a paratireoide secrete PTH adequadamente?",
+"o": [
+"Magnésio",
+"Zinco, cofator da fosfatase",
+"Cobre",
+"Ferro"
+],
+"e": "Hipomagnesemia prejudica a secreção e a ação do PTH."
+},
+{
+"c": "hormosso",
+"q": "A calcitonina é produzida por:",
+"o": [
+"Células parafoliculares da tireoide",
+"Células principais da paratireoide",
+"Células foliculares da tireoide",
+"Células oxífilas da paratireoide"
+],
+"e": "Também chamadas células C; nas aves, corpos ultimobranquiais."
+},
+{
+"c": "hormosso",
+"q": "Vaca Jersey de 4ª lactação, 12 h pós-parto, em decúbito esternal, pescoço em S e focinho seco. Diagnóstico mais provável:",
+"o": [
+"Hipocalcemia puerperal",
+"Tetania hipomagnesêmica das pastagens",
+"Cetose nervosa",
+"Botulismo tipo C"
+],
+"e": "Quadro clássico do estágio II da febre do leite."
+},
+{
+"c": "hormosso",
+"q": "Por que a vaca com febre do leite fica flácida e não em tetania?",
+"o": [
+"Falta cálcio para liberar ACh na placa",
+"Sobra magnésio no líquido cefalorraquidiano",
+"O PTH bloqueia os canais de sódio",
+"A calcitonina paralisa o músculo liso"
+],
+"e": "A exocitose de ACh depende da entrada de Ca²⁺ no terminal; a transmissão falha."
+},
+{
+"c": "hormosso",
+"q": "Como a dieta aniônica (DCAD negativa) no pré-parto previne a febre do leite?",
+"o": [
+"Acidose leve melhora a resposta ao PTH",
+"Alcalose leve aumenta a calcitonina",
+"Excesso de potássio estimula o osso",
+"Mais sódio aumenta a absorção ruminal"
+],
+"e": "A acidose metabólica restaura a sensibilidade de osso e rim ao PTH e eleva o ionizado."
+},
+{
+"c": "hormosso",
+"q": "Qual medida de campo monitora a eficácia da dieta aniônica?",
+"o": [
+"pH urinário",
+"Cálcio no leite",
+"Fósforo fecal",
+"Glicemia"
+],
+"e": "Meta em torno de 6,0 a 6,8 em vacas holandesas."
+},
+{
+"c": "hormosso",
+"q": "Fornecer muito cálcio na dieta pré-parto aumenta o risco de febre do leite porque:",
+"o": [
+"Mantém o PTH desligado até o parto",
+"Causa alcalose respiratória e hipoventilação",
+"Reduz a albumina plasmática",
+"Inibe a ocitocina"
+],
+"e": "Com cálcio sobrando, os mecanismos de mobilização chegam “dormindo” ao parto."
+},
+{
+"c": "hormosso",
+"q": "Na eclâmpsia da cadela, qual sinal é esperado?",
+"o": [
+"Tremores e tetania com hipertermia",
+"Paralisia flácida com hipotermia",
+"Ataxia com nistagmo e cegueira",
+"Poliúria com desidratação"
+],
+"e": "Na cadela predomina a hiperexcitabilidade neuronal."
+},
+{
+"c": "hormosso",
+"q": "Qual perfil é típico da eclâmpsia?",
+"o": [
+"Cadela pequena, ninhada grande, 1–4 semanas pós-parto",
+"Cadela de raça gigante, no pré-parto imediato, primípara",
+"Gata idosa em anestro",
+"Cadela castrada e idosa, em dieta renal comercial"
+],
+"e": "Pico de lactação com grande demanda de cálcio."
+},
+{
+"c": "hormosso",
+"q": "Equino alimentado com muito farelo de trigo desenvolve aumento dos ossos da face. O mecanismo é:",
+"o": [
+"PTH elevado por dieta pobre em cálcio e rica em fósforo",
+"Excesso de vitamina D na ração comercial do animal",
+"Deficiência de magnésio no capim da pastagem nova",
+"Tumor de paratireoide"
+],
+"e": "Hiperparatireoidismo secundário nutricional: osteodistrofia fibrosa (“cara inchada”)."
+},
+{
+"c": "hormosso",
+"q": "Pastagens ricas em oxalato causam doença óssea em equinos porque o oxalato:",
+"o": [
+"Prende o cálcio no intestino",
+"Inibe a 1α-hidroxilase",
+"Destrói os osteoblastos",
+"Aumenta a calcitonina"
+],
+"e": "O oxalato de cálcio não é absorvido, e o PTH sobe."
+},
+{
+"c": "hormosso",
+"q": "Gato filhote alimentado só com carne apresenta fraturas espontâneas. A causa é:",
+"o": [
+"Relação Ca:P muito baixa na dieta",
+"Excesso de cálcio na carne",
+"Deficiência de vitamina K",
+"Hipervitaminose A aguda"
+],
+"e": "A carne tem Ca:P de cerca de 1:15 a 1:20 → HPT secundário nutricional."
+},
+{
+"c": "hormosso",
+"q": "Na doença óssea metabólica de répteis em cativeiro, os fatores principais são:",
+"o": [
+"Pouco cálcio na dieta e falta de luz UVB",
+"Excesso de proteína e de luz solar",
+"Deficiência de ferro e de iodo",
+"Excesso de fibra e de água"
+],
+"e": "Sem UVB não há síntese cutânea de vitamina D₃."
+},
+{
+"c": "hormosso",
+"q": "No hiperparatireoidismo secundário renal, o principal gatilho é:",
+"o": [
+"Retenção de fosfato e queda do calcitriol",
+"Excesso de calcitonina",
+"Hipercalcemia causada pela secreção de PTHrP",
+"Excesso de vitamina D dietética"
+],
+"e": "O rim doente retém fosfato e produz pouco calcitriol."
+},
+{
+"c": "hormosso",
+"q": "Qual medida faz parte do manejo do hiperparatireoidismo renal em gatos?",
+"o": [
+"Dieta pobre em fósforo e quelantes de fosfato",
+"Suplementação de fósforo",
+"Dieta rica em proteína animal",
+"Calcitonina injetável diária por toda a vida do gato"
+],
+"e": "Reduzir o fosfato é o pilar do controle do PTH."
+},
+{
+"c": "hormosso",
+"q": "Diferença entre raquitismo e osteomalácia:",
+"o": [
+"Raquitismo ocorre com placas de crescimento abertas",
+"Osteomalácia ocorre apenas em filhotes de até um ano",
+"Raquitismo é o excesso de mineral depositado no osteoide",
+"Osteomalácia é perda de colágeno"
+],
+"e": "Ambos são falha de mineralização; o raquitismo atinge animais em crescimento."
+},
+{
+"c": "hormosso",
+"q": "Bovinos com deficiência de fósforo que roem ossos no pasto correm maior risco de:",
+"o": [
+"Botulismo",
+"Tétano",
+"Tetania das pastagens",
+"Hipertermia maligna"
+],
+"e": "Carcaças contêm toxina botulínica; a osteofagia é o elo."
+},
+{
+"c": "hormosso",
+"q": "Cão que ingeriu rodenticida com colecalciferol tende a apresentar:",
+"o": [
+"Hipercalcemia com PTH suprimido",
+"Hipocalcemia com PTH alto",
+"Hipercalcemia com PTH alto",
+"Hipocalcemia com calcitonina alta"
+],
+"e": "O excesso de vitamina D eleva o cálcio, e a paratireoide é suprimida."
+},
+{
+"c": "hormosso",
+"q": "Por que Solanum malacoxylon causa calcinose mesmo com o rim saudável?",
+"o": [
+"Contém calcitriol já ativo",
+"Bloqueia a calcitonina",
+"Contém PTH vegetal",
+"Inibe a 24-hidroxilase hepática"
+],
+"e": "O glicosídeo de 1,25-(OH)₂D₃ dispensa a 1α-hidroxilase e escapa do controle."
+},
+{
+"c": "hormosso",
+"q": "Qual nome popular da calcinose enzoótica causada por Solanum malacoxylon?",
+"o": [
+"Espichamento",
+"Cara inchada",
+"Doença da segunda-feira",
+"Mal do sono"
+],
+"e": "Os bovinos ficam emagrecidos, rígidos e em posição esticada."
+},
+{
+"c": "hormosso",
+"q": "Na tetania das pastagens, o fator que mais reduz a absorção ruminal de magnésio é:",
+"o": [
+"Excesso de potássio no capim",
+"Excesso de sódio no sal",
+"Falta de fósforo",
+"Excesso de fibra no feno"
+],
+"e": "O potássio altera o potencial da parede ruminal e diminui o transporte de Mg²⁺."
+},
+{
+"c": "hormosso",
+"q": "Cálcio alto com PTH baixo e PTHrP elevado em cão idoso sugere:",
+"o": [
+"Hipercalcemia de origem tumoral",
+"Hiperparatireoidismo primário",
+"Hiperparatireoidismo secundário renal",
+"Eclâmpsia"
+],
+"e": "Linfoma e adenocarcinoma de saco anal secretam PTHrP."
+},
+{
+"c": "hormosso",
+"q": "O receptor sensor de cálcio (CaSR) está presente em:",
+"o": [
+"Paratireoide, células C da tireoide e rim",
+"Fígado, baço e pulmão",
+"Adipócito e hemácia",
+"Músculo esquelético apenas"
+],
+"e": "Ele detecta o Ca2+ ionizado e ajusta a secreção hormonal."
+},
+{
+"c": "hormosso",
+"q": "Quando o Ca2+ ionizado cai, a secreção de PTH aumenta em:",
+"o": [
+"Segundos",
+"Dias",
+"Semanas",
+"Meses"
+],
+"e": "A resposta é rápida e sigmoide na faixa normal."
+},
+{
+"c": "hormosso",
+"q": "A forma de vitamina D que age em receptor nuclear nos alvos é:",
+"o": [
+"Calcitriol",
+"Calcidiol",
+"Colecalciferol",
+"7-desidrocolesterol"
+],
+"e": "O calcitriol (1,25-di-hidroxivitamina D) liga-se ao VDR."
+},
+{
+"c": "hormosso",
+"q": "Qual fator inibe a 1α-hidroxilase renal?",
+"o": [
+"FGF23",
+"PTH",
+"Fosfato baixo",
+"Hipocalcemia"
+],
+"e": "FGF23, cálcio alto e o próprio calcitriol inibem a enzima."
+},
+{
+"c": "hormosso",
+"q": "Quando não há necessidade de calcitriol, o calcidiol é desviado pela:",
+"o": [
+"24-hidroxilase",
+"1α-hidroxilase",
+"25-hidroxilase hepática",
+"Fosfatase alcalina"
+],
+"e": "Forma metabólitos inativos."
+},
+{
+"c": "hormosso",
+"q": "Nas aves e peixes, a calcitonina é produzida pelos:",
+"o": [
+"Corpos ultimobranquiais",
+"Corpos lúteos",
+"Ilhotas pancreáticas",
+"Glomus carotídeo"
+],
+"e": "Nos mamíferos, as células C da tireoide."
+},
+{
+"c": "hormosso",
+"q": "O escape da calcitonina significa que:",
+"o": [
+"Os osteoclastos deixam de responder com uso prolongado",
+"A calcitonina passa a elevar o cálcio",
+"A tireoide para de produzi-la",
+"A calcitonina vira PTH"
+],
+"e": "A resposta diminui com o uso contínuo."
+},
+{
+"c": "hormosso",
+"q": "A hipercalcemia paraneoplásica em cães com linfoma é mediada principalmente por:",
+"o": [
+"PTHrP",
+"Calcitonina",
+"FGF23",
+"Estrógeno"
+],
+"e": "O PTHrP age no receptor do PTH."
+},
+{
+"c": "hormosso",
+"q": "Cálcio alto com PTH alto em Keeshond idoso sugere:",
+"o": [
+"Hiperparatireoidismo primário",
+"Intoxicação por vitamina D",
+"Hiperparatireoidismo secundário renal",
+"Hipoparatireoidismo"
+],
+"e": "Adenoma de paratireoide produz PTH sem controle."
+},
+{
+"c": "hormosso",
+"q": "Répteis em cativeiro sem luz UVB tendem a desenvolver:",
+"o": [
+"Doença óssea metabólica",
+"Hipercalcemia",
+"Osteopetrose",
+"Gota articular"
+],
+"e": "Sem UVB, não produzem vitamina D3 na pele."
+},
+{
+"c": "hormosso",
+"q": "O hipoparatireoidismo provoca qual perfil?",
+"o": [
+"Cálcio baixo e fósforo alto",
+"Cálcio alto e fósforo baixo",
+"Cálcio e fósforo altos",
+"Cálcio e fósforo baixos"
+],
+"e": "Sem PTH, o rim retém fosfato e o osso não libera cálcio."
+},
+{
+"c": "hormosso",
+"q": "A hipomagnesemia pode causar hipocalcemia porque o magnésio é necessário para:",
+"o": [
+"Secreção e ação do PTH",
+"Absorção de vitamina K",
+"Síntese de calcitonina",
+"Formação de colágeno"
+],
+"e": "Sem magnésio, a paratireoide não responde adequadamente."
+}
+]

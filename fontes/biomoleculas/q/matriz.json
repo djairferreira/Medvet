@@ -1,0 +1,453 @@
+[
+{
+"c": "matriz",
+"q": "A parte orgânica da matriz óssea é composta principalmente de:",
+"o": [
+"Colágeno tipo I",
+"Colágeno tipo II",
+"Elastina",
+"Queratina"
+],
+"e": "Cerca de 90 a 95% da matriz orgânica é colágeno tipo I; o tipo II é da cartilagem."
+},
+{
+"c": "matriz",
+"q": "O principal mineral do osso é:",
+"o": [
+"Hidroxiapatita",
+"Carbonato de magnésio",
+"Oxalato de cálcio",
+"Fosfato de amônio"
+],
+"e": "Cristais de Ca₁₀(PO₄)₆(OH)₂ ao longo das fibras de colágeno."
+},
+{
+"c": "matriz",
+"q": "Qual enzima do osteoblasto favorece a mineralização ao destruir o pirofosfato?",
+"o": [
+"Fosfatase alcalina",
+"Fosfatase ácida tartarato-resistente",
+"Catepsina K",
+"Anidrase carbônica II"
+],
+"e": "A fosfatase alcalina remove o pirofosfato inibidor e fornece fosfato para os cristais."
+},
+{
+"c": "matriz",
+"q": "A osteocalcina depende de qual vitamina para ser funcional?",
+"o": [
+"Vitamina K",
+"Vitamina C",
+"Vitamina A",
+"Vitamina E"
+],
+"e": "A osteocalcina sofre gama-carboxilação dependente de vitamina K para ligar cálcio."
+},
+{
+"c": "matriz",
+"q": "O osteoide é:",
+"o": [
+"Matriz orgânica ainda não mineralizada",
+"Osso compacto já remodelado e organizado em ósteons",
+"Cartilagem calcificada da placa",
+"Tecido fibroso de reparo tardio"
+],
+"e": "É a matriz recém-secretada pelo osteoblasto antes da deposição de mineral."
+},
+{
+"c": "matriz",
+"q": "Na sequência de reparo de fratura, o que vem logo após o hematoma e a inflamação?",
+"o": [
+"Calo mole fibrocartilaginoso",
+"Calo ósseo lamelar já remodelado pela carga",
+"Remodelação final",
+"Osteoporose localizada"
+],
+"e": "Hematoma → calo mole → calo duro → remodelação."
+},
+{
+"c": "matriz",
+"q": "Qual fator acopla reabsorção e formação na remodelação óssea?",
+"o": [
+"Fatores de crescimento liberados da matriz",
+"Calcitonina secretada localmente",
+"Pirofosfato produzido pelos osteócitos",
+"Queda transitória do fosfato no líquido extracelular"
+],
+"e": "TGF-β e IGF retidos na matriz são liberados na reabsorção e recrutam osteoblastos."
+},
+{
+"c": "matriz",
+"q": "O uso prolongado de glicocorticoides tende a causar:",
+"o": [
+"Osteoporose",
+"Osteopetrose",
+"Hipercalcemia por vitamina D",
+"Osteodistrofia por fósforo baixo"
+],
+"e": "Inibem osteoblastos, reduzem absorção de cálcio e aumentam reabsorção."
+},
+{
+"c": "matriz",
+"q": "O osso medular das galinhas poedeiras é formado sob ação de:",
+"o": [
+"Estrógeno",
+"Calcitonina",
+"Glicocorticoides",
+"Glucagon"
+],
+"e": "É um estoque lábil de cálcio para a casca."
+},
+{
+"c": "matriz",
+"q": "Em massa seca, a matriz óssea adulta tem aproximadamente:",
+"o": [
+"30% orgânica e 70% inorgânica",
+"70% orgânica e 30% inorgânica",
+"50% orgânica e 50% inorgânica",
+"10% orgânica e 90% inorgânica"
+],
+"e": "O colágeno dá flexibilidade; o mineral, dureza."
+},
+{
+"c": "matriz",
+"q": "Osso tratado com ácido até perder o mineral fica:",
+"o": [
+"Flexível como borracha",
+"Duro e quebradiço",
+"Igual ao osso normal",
+"Transformado em cartilagem"
+],
+"e": "Sobra o colágeno, que resiste à tração mas não à compressão."
+},
+{
+"c": "matriz",
+"q": "Osso calcinado, sem colágeno, comporta-se como:",
+"o": [
+"Material duro, mas quebradiço",
+"Material elástico e flexível",
+"Cartilagem hialina",
+"Tendão desidratado"
+],
+"e": "O mineral sozinho resiste à compressão, mas quebra facilmente."
+},
+{
+"c": "matriz",
+"q": "A repetição de aminoácidos característica das cadeias de colágeno é:",
+"o": [
+"Gly–X–Y",
+"Ala–Ser–Gly",
+"Pro–Pro–Lys",
+"Cys–X–Cys"
+],
+"e": "A glicina, a cada três resíduos, é a única que cabe no centro da tripla hélice."
+},
+{
+"c": "matriz",
+"q": "A hidroxilação da prolina no colágeno exige:",
+"o": [
+"Vitamina C, ferro e oxigênio",
+"Vitamina K e cálcio",
+"Vitamina B12 e folato",
+"Cobre e zinco apenas"
+],
+"e": "Prolil e lisil hidroxilases dependem do ascorbato."
+},
+{
+"c": "matriz",
+"q": "Qual espécie doméstica depende de vitamina C na dieta e desenvolve escorbuto?",
+"o": [
+"Porquinho-da-índia",
+"Coelho",
+"Cão",
+"Bovino"
+],
+"e": "Cobaias, como primatas, não sintetizam ascorbato."
+},
+{
+"c": "matriz",
+"q": "A lisil oxidase, que forma as ligações cruzadas do colágeno, depende de:",
+"o": [
+"Cobre",
+"Ferro",
+"Selênio",
+"Iodo"
+],
+"e": "Na deficiência de cobre, ossos ficam frágeis e cordeiros apresentam ataxia enzoótica."
+},
+{
+"c": "matriz",
+"q": "Excesso de molibdênio na pastagem pode causar fragilidade óssea em ruminantes porque induz deficiência de:",
+"o": [
+"Cobre",
+"Cálcio",
+"Vitamina D",
+"Fósforo"
+],
+"e": "Molibdênio e enxofre formam tiomolibdatos que sequestram o cobre."
+},
+{
+"c": "matriz",
+"q": "A osteogênese imperfeita resulta de mutações no:",
+"o": [
+"Colágeno tipo I",
+"Receptor de PTH",
+"Gene da calcitonina",
+"Receptor de vitamina D"
+],
+"e": "Ossos finos e múltiplas fraturas desde o nascimento."
+},
+{
+"c": "matriz",
+"q": "O pró-colágeno se transforma em fibrilas quando:",
+"o": [
+"Peptidases removem suas extremidades fora da célula",
+"A lisil oxidase o hidroxila no núcleo",
+"O osteoclasto o digere parcialmente",
+"A fosfatase alcalina o fosforila"
+],
+"e": "Os pró-peptídeos são retirados no meio extracelular."
+},
+{
+"c": "matriz",
+"q": "Qual proteína não colagenosa depende da vitamina K para prender cálcio?",
+"o": [
+"Osteocalcina",
+"Osteonectina",
+"Osteopontina",
+"Sialoproteína óssea"
+],
+"e": "A osteocalcina precisa ser carboxilada."
+},
+{
+"c": "matriz",
+"q": "Os fatores de crescimento retidos na matriz e liberados na reabsorção incluem:",
+"o": [
+"TGF-β, IGF e BMP",
+"Insulina e glucagon",
+"PTH e calcitonina",
+"Cortisol e aldosterona"
+],
+"e": "Eles ajudam a acoplar a reabsorção à formação."
+},
+{
+"c": "matriz",
+"q": "O pirofosfato, no contexto da mineralização, funciona como:",
+"o": [
+"Inibidor natural da cristalização",
+"Fonte principal de cálcio",
+"Componente do colágeno",
+"Ativador do osteoclasto"
+],
+"e": "A fosfatase alcalina o destrói e libera fosfato, permitindo a mineralização."
+},
+{
+"c": "matriz",
+"q": "As vesículas de matriz são importantes porque:",
+"o": [
+"Formam os primeiros núcleos de cristal",
+"Digerem o colágeno velho",
+"Transportam PTH até o osso",
+"Armazenam glicogênio"
+],
+"e": "Brotam do osteoblasto e acumulam cálcio e fosfato."
+},
+{
+"c": "matriz",
+"q": "A mineralização secundária, que torna o osso mais denso, leva:",
+"o": [
+"Meses",
+"Minutos",
+"Horas",
+"Poucos dias"
+],
+"e": "A primária é rápida (dias); a secundária leva meses."
+},
+{
+"c": "matriz",
+"q": "Se faltar vitamina D ou fósforo, o osteoblasto:",
+"o": [
+"Produz osteoide que não mineraliza",
+"Para de produzir colágeno",
+"Vira osteoclasto",
+"Produz cartilagem em vez de osso"
+],
+"e": "É a base do raquitismo e da osteomalácia."
+},
+{
+"c": "matriz",
+"q": "O osso esponjoso remodela mais rápido que o compacto porque tem:",
+"o": [
+"Maior superfície",
+"Menos colágeno",
+"Mais osteócitos por lacuna",
+"Mais vitamina D"
+],
+"e": "A superfície ampla permite troca de cálcio e ação celular mais intensa."
+},
+{
+"c": "matriz",
+"q": "Os ossos chatos do crânio formam-se por ossificação:",
+"o": [
+"Intramembranosa",
+"Endocondral",
+"Pericondral exclusiva",
+"Metaplásica"
+],
+"e": "Direto do mesênquima, sem molde de cartilagem."
+},
+{
+"c": "matriz",
+"q": "Na placa de crescimento, os condrócitos que incham e secretam colágeno X estão na zona de:",
+"o": [
+"Hipertrofia",
+"Repouso",
+"Proliferação",
+"Invasão vascular"
+],
+"e": "Depois a matriz se calcifica e é substituída por osso."
+},
+{
+"c": "matriz",
+"q": "O fechamento das placas de crescimento na puberdade é promovido por:",
+"o": [
+"Estrógenos e andrógenos",
+"Calcitonina",
+"Insulina",
+"Prolactina"
+],
+"e": "Os esteroides sexuais encerram o crescimento longitudinal."
+},
+{
+"c": "matriz",
+"q": "A osteocondrose é uma falha da:",
+"o": [
+"Ossificação endocondral",
+"Mineralização do osso cortical adulto",
+"Reabsorção osteoclástica",
+"Síntese de calcitriol"
+],
+"e": "Ocorre em potros, suínos e cães de raças grandes em crescimento rápido."
+},
+{
+"c": "matriz",
+"q": "A osteocondrite dissecante caracteriza-se por:",
+"o": [
+"Fragmentos de cartilagem soltos na articulação",
+"Fratura da diáfise por estresse",
+"Calcificação de tendões",
+"Inflamação do periósteo"
+],
+"e": "É uma complicação da osteocondrose."
+},
+{
+"c": "matriz",
+"q": "O fechamento precoce de uma placa do rádio ou da ulna em cão jovem causa:",
+"o": [
+"Desvio angular do membro",
+"Osteoporose generalizada",
+"Hipercalcemia",
+"Osteopetrose"
+],
+"e": "Um osso continua crescendo e o outro não."
+},
+{
+"c": "matriz",
+"q": "Na remodelação, a fase de reabsorção dura aproximadamente:",
+"o": [
+"2 a 3 semanas",
+"2 a 3 dias",
+"2 a 3 meses",
+"2 a 3 anos"
+],
+"e": "A formação, em seguida, leva cerca de 3 meses."
+},
+{
+"c": "matriz",
+"q": "A unidade multicelular básica é formada por:",
+"o": [
+"Osteoclastos e osteoblastos em equipe",
+"Osteócitos e condrócitos",
+"Fibroblastos e adipócitos",
+"Hemácias e plaquetas"
+],
+"e": "Osteoclastos escavam e osteoblastos preenchem."
+},
+{
+"c": "matriz",
+"q": "Cerca de quanto do osso esponjoso adulto é renovado por ano?",
+"o": [
+"25%",
+"2%",
+"75%",
+"100%"
+],
+"e": "O compacto renova apenas 2 a 5% ao ano."
+},
+{
+"c": "matriz",
+"q": "Qual é um marcador sanguíneo de reabsorção óssea?",
+"o": [
+"Telopeptídeo do colágeno (CTX)",
+"Fosfatase alcalina óssea",
+"Osteocalcina",
+"Propeptídeo do pró-colágeno I"
+],
+"e": "Fosfatase alcalina e osteocalcina são marcadores de formação."
+},
+{
+"c": "matriz",
+"q": "Um filhote de cão saudável com fosfatase alcalina alta provavelmente reflete:",
+"o": [
+"Crescimento ósseo",
+"Doença hepática grave",
+"Hipotireoidismo",
+"Intoxicação por chumbo"
+],
+"e": "A isoenzima óssea é fisiologicamente alta em animais jovens."
+},
+{
+"c": "matriz",
+"q": "A osteoporose difere da osteomalácia porque na osteoporose:",
+"o": [
+"A matriz é normal, mas reduzida",
+"A matriz não se mineraliza",
+"O colágeno é anormal",
+"Há excesso de osso"
+],
+"e": "Na osteomalácia há osteoide sem mineral."
+},
+{
+"c": "matriz",
+"q": "Na consolidação de fratura com fixação muito rígida, ocorre:",
+"o": [
+"Consolidação primária sem calo visível",
+"Formação de calo cartilaginoso grande",
+"Não união obrigatória",
+"Reabsorção completa das bordas"
+],
+"e": "Os ósteons atravessam diretamente o traço da fratura."
+},
+{
+"c": "matriz",
+"q": "Na fase de calo mole, forma-se mais cartilagem onde há:",
+"o": [
+"Pouco oxigênio e muito movimento",
+"Muito oxigênio e estabilidade",
+"Excesso de cálcio local",
+"Infecção bacteriana"
+],
+"e": "Condições instáveis e hipóxicas favorecem a condrogênese."
+},
+{
+"c": "matriz",
+"q": "Qual região é clássica de retardo de consolidação em cães miniatura?",
+"o": [
+"Terço distal do rádio e da ulna",
+"Diáfise do fêmur",
+"Crânio",
+"Costelas"
+],
+"e": "A irrigação precária dificulta a consolidação."
+}
+]

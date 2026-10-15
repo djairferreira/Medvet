@@ -1,0 +1,62 @@
+[
+ [
+  "neurotrans",
+  "Principal excitatório e inibitórios",
+  "Glutamato excita; GABA (encéfalo) e glicina (medula) inibem."
+ ],
+ [
+  "neurotrans",
+  "Benzodiazepínico × barbitúrico",
+  "Ambos GABA-A: BZD ↑ frequência de abertura; barbitúrico ↑ duração (e abre sem GABA em dose alta)."
+ ],
+ [
+  "neurotrans",
+  "Estricnina",
+  "Antagonista do receptor de glicina: convulsões tônicas reflexas em cães."
+ ],
+ [
+  "neurotrans",
+  "Ivermectina e MDR1",
+  "Sem glicoproteína P funcional (Collie e afins), a ivermectina entra no SNC."
+ ],
+ [
+  "neurotrans",
+  "Xilazina",
+  "Agonista α2: sedação e analgesia; reverte com ioimbina, tolazolina ou atipamezol."
+ ],
+ [
+  "neurotrans",
+  "Cetamina",
+  "Bloqueia o canal NMDA: anestesia dissociativa."
+ ],
+ [
+  "neurotrans",
+  "Botulínica × tetânica",
+  "Botulínica: bloqueia ACh, paralisia flácida. Tetânica: bloqueia glicina/GABA, paralisia espástica."
+ ],
+ [
+  "neurotrans",
+  "Receptores do glutamato",
+  "AMPA, NMDA, cainato (ionotrópicos) e mGluR (metabotrópicos)."
+ ],
+ [
+  "neurotrans",
+  "GABA-A × GABA-B",
+  "A: canal de Cl⁻, rápido. B: proteína G, abre K⁺, lento."
+ ],
+ [
+  "neurotrans",
+  "Síntese do GABA",
+  "Glutamato → GABA pela GAD, dependente de vitamina B6."
+ ],
+ [
+  "neurotrans",
+  "Glicina",
+  "Inibitório da medula (células de Renshaw); receptor-canal de Cl⁻; bloqueado pela estricnina."
+ ],
+ [
+  "neurotrans",
+  "Quem define excitação ou inibição?",
+  "O receptor: ACh excita a placa (nicotínico) e freia o coração (M2)."
+ ]
+]

@@ -1,0 +1,57 @@
+[
+ [
+  "placa",
+  "Unidade motora",
+  "Um motoneurônio α e todas as fibras que ele inerva."
+ ],
+ [
+  "placa",
+  "Liberação de ACh",
+  "PA abre canais de Ca²⁺ do terminal → sinaptotagmina/SNARE → exocitose."
+ ],
+ [
+  "placa",
+  "Receptor da placa motora",
+  "Nicotínico (canal de cátions); a atropina não o bloqueia."
+ ],
+ [
+  "placa",
+  "Fim do sinal na placa",
+  "Acetilcolinesterase: ACh → acetato + colina (≈1 ms)."
+ ],
+ [
+  "placa",
+  "Miastenia grave no cão",
+  "Anticorpos anti-receptor nicotínico; fraqueza ao exercício; megaesôfago; piridostigmina."
+ ],
+ [
+  "placa",
+  "Receptor nicotínico muscular",
+  "Pentâmero α₂βδε; 2 ACh nas subunidades α; canal de cátions."
+ ],
+ [
+  "placa",
+  "Potencial de placa",
+  "Graduado, local, ≈40–50 mV; fator de segurança de 3 a 4 vezes o necessário."
+ ],
+ [
+  "placa",
+  "Organofosforado × carbamato",
+  "OP fosforila a AChE (envelhece; pralidoxima precoce). Carbamato: reversível, sem oxima."
+ ],
+ [
+  "placa",
+  "Botulismo bovino",
+  "Tipos C e D; osteofagia por falta de fósforo, cama de frango; paralisia flácida; vacina."
+ ],
+ [
+  "placa",
+  "Competitivo × despolarizante",
+  "Atracúrio: sem fasciculação, revertido por neostigmina. Succinilcolina: fasciculação, não revertida."
+ ],
+ [
+  "placa",
+  "Sugamadex",
+  "Encapsula rocurônio/vecurônio e reverte o bloqueio."
+ ]
+]

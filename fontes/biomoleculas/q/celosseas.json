@@ -1,0 +1,442 @@
+[
+{
+"c": "celosseas",
+"q": "Qual célula óssea deriva da linhagem monócito-macrófago?",
+"o": [
+"Osteoclasto",
+"Osteoblasto",
+"Osteócito",
+"Célula de revestimento"
+],
+"e": "Osteoclastos resultam da fusão de precursores hematopoéticos monocíticos."
+},
+{
+"c": "celosseas",
+"q": "Qual célula atua como principal sensor mecânico do osso?",
+"o": [
+"Osteócito",
+"Osteoclasto",
+"Condrócito",
+"Fibroblasto do periósteo"
+],
+"e": "Osteócitos percebem o fluxo de líquido nos canalículos e ajustam esclerostina e RANKL."
+},
+{
+"c": "celosseas",
+"q": "A osteoprotegerina (OPG) reduz a reabsorção óssea porque:",
+"o": [
+"Funciona como receptor isca do RANKL",
+"Bloqueia a bomba de prótons do osteoclasto",
+"Ativa o receptor de calcitonina",
+"Estimula a secreção de colágeno"
+],
+"e": "A OPG agarra o RANKL antes que ele chegue ao RANK do pré-osteoclasto."
+},
+{
+"c": "celosseas",
+"q": "Onde estão os receptores de PTH que levam ao aumento da reabsorção óssea?",
+"o": [
+"Em osteoblastos e osteócitos",
+"Diretamente nos osteoclastos",
+"Nas células C da tireoide",
+"Nos condrócitos hipertróficos"
+],
+"e": "O PTH age indiretamente: osteoblastos e osteócitos aumentam RANKL e reduzem OPG."
+},
+{
+"c": "celosseas",
+"q": "Qual hormônio tem receptor diretamente no osteoclasto e o inibe em minutos?",
+"o": [
+"Calcitonina",
+"Paratormônio",
+"Calcitriol",
+"Hormônio do crescimento"
+],
+"e": "A calcitonina faz o osteoclasto se retrair e parar de reabsorver."
+},
+{
+"c": "celosseas",
+"q": "Como o osteoclasto dissolve a hidroxiapatita?",
+"o": [
+"Secretando H⁺ por bomba de prótons",
+"Secretando fosfatase alcalina",
+"Fagocitando cristais inteiros",
+"Liberando pirofosfato na lacuna"
+],
+"e": "A anidrase carbônica II gera H⁺, que a H⁺-ATPase lança na zona vedada (pH ≈ 4,5)."
+},
+{
+"c": "celosseas",
+"q": "A cavidade escavada pelo osteoclasto na superfície do osso chama-se:",
+"o": [
+"Lacuna de Howship",
+"Canal de Volkmann",
+"Sistema de Havers",
+"Zona de vedação"
+],
+"e": "É a depressão de reabsorção sob a borda pregueada."
+},
+{
+"c": "celosseas",
+"q": "Qual hormônio reduz o RANKL e aumenta a OPG, protegendo a massa óssea?",
+"o": [
+"Estrógeno",
+"Cortisol",
+"PTH",
+"Tiroxina em excesso"
+],
+"e": "Por isso a deficiência de estrógeno acelera a perda óssea."
+},
+{
+"c": "celosseas",
+"q": "Os bisfosfonatos reduzem a reabsorção óssea porque:",
+"o": [
+"Induzem apoptose dos osteoclastos",
+"Estimulam a secreção de PTH",
+"Bloqueiam a fosfatase alcalina",
+"Aumentam a expressão de RANKL nos osteoblastos"
+],
+"e": "Fixam-se à hidroxiapatita e são ingeridos pelo osteoclasto, que morre."
+},
+{
+"c": "celosseas",
+"q": "Na maioria dos casos de osteopetrose em bezerros, a falha está em:",
+"o": [
+"Osteoclastos que não reabsorvem",
+"Osteoblastos que não produzem colágeno",
+"Excesso de calcitonina fetal",
+"Falta de vitamina K materna"
+],
+"e": "O osso acumula sem ser remodelado."
+},
+{
+"c": "celosseas",
+"q": "O fator de transcrição considerado o gene mestre do osteoblasto é:",
+"o": [
+"RUNX2",
+"PPARγ",
+"NFAT",
+"FoxO"
+],
+"e": "Sem RUNX2 não há formação de osso."
+},
+{
+"c": "celosseas",
+"q": "O osteoblasto deriva de:",
+"o": [
+"Célula-tronco mesenquimal",
+"Monócito do sangue",
+"Linfócito T",
+"Megacariócito"
+],
+"e": "A mesma célula pode originar condrócito, adipócito e fibroblasto."
+},
+{
+"c": "celosseas",
+"q": "Qual via de sinalização favorece a diferenciação em osteoblasto e é bloqueada pela esclerostina?",
+"o": [
+"Wnt/β-catenina",
+"JAK/STAT",
+"NF-κB",
+"Via do AMPc"
+],
+"e": "A esclerostina do osteócito freia a formação óssea bloqueando a via Wnt."
+},
+{
+"c": "celosseas",
+"q": "O destino mais comum do osteoblasto ao fim de seu período de trabalho é:",
+"o": [
+"Apoptose",
+"Virar osteoclasto",
+"Virar condrócito",
+"Migrar para a medula"
+],
+"e": "50 a 70% morrem; os demais viram osteócitos ou células de revestimento."
+},
+{
+"c": "celosseas",
+"q": "A célula mesenquimal que recebe sinais de PPARγ tende a virar:",
+"o": [
+"Adipócito",
+"Osteoblasto",
+"Osteócito",
+"Osteoclasto"
+],
+"e": "Envelhecimento, desuso e glicocorticoides desviam o progenitor para gordura."
+},
+{
+"c": "celosseas",
+"q": "O osteoblasto ativo tem citoplasma basofílico porque possui:",
+"o": [
+"Muito retículo rugoso para sintetizar colágeno",
+"Muitos lisossomos",
+"Muitos núcleos",
+"Muito glicogênio"
+],
+"e": "É uma célula secretora de proteína."
+},
+{
+"c": "celosseas",
+"q": "Qual tipo celular representa 90 a 95% das células do osso?",
+"o": [
+"Osteócito",
+"Osteoblasto",
+"Osteoclasto",
+"Célula de revestimento"
+],
+"e": "Os osteócitos ficam em lacunas ligados por canalículos."
+},
+{
+"c": "celosseas",
+"q": "Os osteócitos se comunicam entre si por:",
+"o": [
+"Prolongamentos em canalículos com junções comunicantes",
+"Vasos linfáticos",
+"Sinapses químicas",
+"Fibras nervosas"
+],
+"e": "A rede permite troca de sinais e de cálcio."
+},
+{
+"c": "celosseas",
+"q": "Na mecanotransdução, o estímulo percebido pelo osteócito é principalmente:",
+"o": [
+"Fluxo de líquido nos canalículos",
+"Variação da glicemia",
+"Concentração de PTH",
+"Temperatura do osso"
+],
+"e": "A carga move o líquido e gera cisalhamento na membrana."
+},
+{
+"c": "celosseas",
+"q": "Diante de carga mecânica, o osteócito reduz a produção de:",
+"o": [
+"Esclerostina e RANKL",
+"OPG e osteocalcina",
+"Colágeno e fosfatase alcalina",
+"Óxido nítrico e PGE2"
+],
+"e": "Assim libera a formação e freia a reabsorção."
+},
+{
+"c": "celosseas",
+"q": "Qual hormônio é produzido pelo osteócito e aumenta a eliminação renal de fósforo?",
+"o": [
+"FGF23",
+"Calcitonina",
+"PTHrP",
+"Calcitriol"
+],
+"e": "O FGF23 também inibe a 1α-hidroxilase renal."
+},
+{
+"c": "celosseas",
+"q": "A lei de Wolff afirma que:",
+"o": [
+"O osso se adapta à carga que recebe",
+"O osso cresce só na puberdade",
+"O cálcio do osso é fixo",
+"O osteoclasto é independente do osteoblasto"
+],
+"e": "Mais carga, mais osso; desuso, perda óssea."
+},
+{
+"c": "celosseas",
+"q": "Fraturas por estresse em cavalos de corrida ocorrem porque:",
+"o": [
+"Microdanos superam a capacidade de reparo",
+"O cálcio da dieta é excessivo",
+"Os osteoclastos estão ausentes",
+"A carga é insuficiente"
+],
+"e": "O treino intenso gera microfissuras mais rápido que a remodelação."
+},
+{
+"c": "celosseas",
+"q": "Quando um osteócito morre perto de uma microfissura, ele:",
+"o": [
+"Sinaliza aos vizinhos para expressarem RANKL",
+"Vira osteoblasto novamente",
+"Produz mais OPG",
+"Calcifica a fissura sozinho"
+],
+"e": "Os osteoclastos são guiados ao local danificado."
+},
+{
+"c": "celosseas",
+"q": "As células de revestimento são:",
+"o": [
+"Osteoblastos inativos achatados",
+"Osteoclastos em repouso",
+"Condrócitos da superfície",
+"Fibroblastos do periósteo"
+],
+"e": "Cobrem a superfície em repouso."
+},
+{
+"c": "celosseas",
+"q": "No início da remodelação, as células de revestimento:",
+"o": [
+"Retraem-se e removem a camada não mineralizada",
+"Formam osteoide novo",
+"Fundem-se em osteoclastos",
+"Produzem calcitonina"
+],
+"e": "O osteoclasto só adere ao osso mineralizado."
+},
+{
+"c": "celosseas",
+"q": "O PTH aplicado em pulsos intermitentes tende a:",
+"o": [
+"Aumentar a massa óssea",
+"Causar osteoporose rápida",
+"Inibir os osteoblastos",
+"Destruir as células de revestimento"
+],
+"e": "Reativa células de revestimento e osteoblastos; o PTH contínuo favorece a reabsorção."
+},
+{
+"c": "celosseas",
+"q": "Os precursores dos osteoclastos precisam de quais dois sinais da linhagem osteoblástica?",
+"o": [
+"M-CSF e RANKL",
+"PTH e calcitonina",
+"OPG e esclerostina",
+"IGF-1 e insulina"
+],
+"e": "M-CSF para proliferar; RANKL para diferenciar e fundir."
+},
+{
+"c": "celosseas",
+"q": "A vida média de um osteoclasto é de cerca de:",
+"o": [
+"2 semanas",
+"2 horas",
+"2 anos",
+"2 meses"
+],
+"e": "Termina em apoptose, acelerada por estrógeno e bisfosfonatos."
+},
+{
+"c": "celosseas",
+"q": "Qual enzima do osteoclasto produz o H+ para dissolver o mineral?",
+"o": [
+"Anidrase carbônica II",
+"Fosfatase alcalina",
+"Lisil oxidase",
+"Glutaminase"
+],
+"e": "O H+ é bombeado pela H+-ATPase na borda pregueada."
+},
+{
+"c": "celosseas",
+"q": "A digestão do colágeno pelo osteoclasto é feita principalmente pela:",
+"o": [
+"Catepsina K",
+"Tripsina",
+"Pepsina",
+"Colagenase bacteriana"
+],
+"e": "Junto com metaloproteinases."
+},
+{
+"c": "celosseas",
+"q": "A zona de vedação do osteoclasto serve para:",
+"o": [
+"Isolar o compartimento ácido",
+"Fixar o osteoblasto",
+"Permitir a entrada de vasos",
+"Produzir osteoide"
+],
+"e": "Integrinas prendem a célula à matriz, criando um compartimento fechado."
+},
+{
+"c": "celosseas",
+"q": "Qual marcador é típico do osteoclasto?",
+"o": [
+"Fosfatase ácida resistente ao tartarato",
+"Fosfatase alcalina",
+"Osteocalcina",
+"Colágeno tipo I"
+],
+"e": "A TRAP é usada para identificar osteoclastos em cortes."
+},
+{
+"c": "celosseas",
+"q": "A osteopetrose resulta de falha na:",
+"o": [
+"Reabsorção pelos osteoclastos",
+"Formação pelos osteoblastos",
+"Mineralização do osteoide",
+"Síntese de colágeno"
+],
+"e": "Osso denso, porém frágil, e medula sem espaço."
+},
+{
+"c": "celosseas",
+"q": "A osteoprotegerina é descrita como receptor isca porque:",
+"o": [
+"Sequestra o RANKL antes do RANK",
+"Ativa o RANK do osteoclasto",
+"Bloqueia o receptor de PTH",
+"Liga-se à calcitonina"
+],
+"e": "Sem efeito direto no osteoclasto, apenas neutraliza o RANKL."
+},
+{
+"c": "celosseas",
+"q": "Qual combinação aumenta a razão RANKL/OPG?",
+"o": [
+"PTH contínuo e citocinas inflamatórias",
+"Estrógeno e carga mecânica",
+"Bisfosfonato e calcitonina",
+"OPG recombinante e exercício"
+],
+"e": "PTH, calcitriol, glicocorticoides e IL-1/IL-6/TNF aumentam a razão."
+},
+{
+"c": "celosseas",
+"q": "A destruição do osso alveolar na periodontite canina é mediada por:",
+"o": [
+"RANKL e citocinas das células inflamatórias",
+"Excesso de osteoprotegerina",
+"Deficiência de calcitonina",
+"Excesso de vitamina K"
+],
+"e": "Bactérias e inflamação ativam osteoclastos."
+},
+{
+"c": "celosseas",
+"q": "As lesões de reabsorção dentária felinas são causadas por:",
+"o": [
+"Odontoclastos",
+"Osteoblastos",
+"Ameloblastos",
+"Fibroblastos gengivais"
+],
+"e": "Parentes do osteoclasto destroem raiz e coroa."
+},
+{
+"c": "celosseas",
+"q": "A osteonecrose da cabeça do fêmur em cães de raças pequenas é chamada de:",
+"o": [
+"Doença de Legg-Calvé-Perthes",
+"Osteocondrite dissecante",
+"Osteodistrofia fibrosa",
+"Panosteíte eosinofílica"
+],
+"e": "A falha de irrigação mata os osteócitos e a cabeça colapsa."
+},
+{
+"c": "celosseas",
+"q": "O enxerto de osso esponjoso autógeno é eficaz porque fornece:",
+"o": [
+"Células osteogênicas, matriz e BMP",
+"Apenas cálcio e fósforo",
+"Somente colágeno inerte",
+"Células hematopoéticas apenas"
+],
+"e": "É osteogênico, osteocondutor e osteoindutor."
+}
+]

@@ -1,0 +1,453 @@
+[
+{
+"c": "biossintese",
+"q": "Quais aminoácidos são exclusivamente cetogênicos?",
+"o": [
+"Leucina e lisina",
+"Alanina e glicina",
+"Glutamato e aspartato",
+"Serina e cisteína"
+],
+"e": "Geram apenas acetil-CoA ou acetoacetil-CoA."
+},
+{
+"c": "biossintese",
+"q": "Por que a acetil-CoA não forma glicose nos animais?",
+"o": [
+"A piruvato desidrogenase é irreversível",
+"Falta a enzima citrato sintase",
+"A acetil-CoA não entra no ciclo de Krebs",
+"O fígado não possui acetil-CoA"
+],
+"e": "Sem volta de acetil-CoA a piruvato, não há ganho líquido de oxaloacetato."
+},
+{
+"c": "biossintese",
+"q": "A alanina é um aminoácido glicogênico porque:",
+"o": [
+"Por transaminação vira piruvato",
+"Forma acetoacetil-CoA diretamente",
+"É convertida em corpos cetônicos",
+"Origina ácidos graxos de cadeia longa"
+],
+"e": "O piruvato pode seguir para oxaloacetato e glicose."
+},
+{
+"c": "biossintese",
+"q": "Qual aminoácido não essencial é formado a partir do 3-fosfoglicerato?",
+"o": [
+"Serina",
+"Alanina",
+"Aspartato",
+"Glutamato"
+],
+"e": "A serina origina também glicina e o esqueleto da cisteína."
+},
+{
+"c": "biossintese",
+"q": "A tirosina é sintetizada a partir de:",
+"o": [
+"Fenilalanina, pela fenilalanina hidroxilase",
+"Triptofano, pela triptofano hidroxilase",
+"Glutamato, por transaminação",
+"Serina, pela cistationina sintase"
+],
+"e": "Por isso a tirosina é poupadora de fenilalanina."
+},
+{
+"c": "biossintese",
+"q": "O enxofre da cisteína vem de qual aminoácido?",
+"o": [
+"Metionina",
+"Taurina",
+"Serina",
+"Lisina, via carnitina"
+],
+"e": "A metionina doa o enxofre via homocisteína; a serina fornece o esqueleto."
+},
+{
+"c": "biossintese",
+"q": "O heme é sintetizado a partir de:",
+"o": [
+"Glicina e succinil-CoA",
+"Tirosina e iodo",
+"Triptofano e serotonina",
+"Arginina e ornitina"
+],
+"e": "A ALA sintase, dependente de PLP, inicia a via."
+},
+{
+"c": "biossintese",
+"q": "A creatina é formada a partir de:",
+"o": [
+"Glicina, arginina e metionina",
+"Tirosina, fenilalanina e lisina",
+"Glutamato, cisteína e glicina",
+"Histidina, serina e valina"
+],
+"e": "A metionina doa o metil via SAM."
+},
+{
+"c": "biossintese",
+"q": "As catecolaminas derivam de qual aminoácido?",
+"o": [
+"Tirosina",
+"Triptofano",
+"Histidina",
+"Glutamato"
+],
+"e": "Tirosina → L-DOPA → dopamina → noradrenalina → adrenalina."
+},
+{
+"c": "biossintese",
+"q": "A melatonina, que regula a estacionalidade reprodutiva de ovinos e equinos, deriva do:",
+"o": [
+"Triptofano",
+"Glutamato",
+"Tirosina iodada",
+"Histidina"
+],
+"e": "Triptofano → serotonina → melatonina na pineal."
+},
+{
+"c": "biossintese",
+"q": "A histamina é formada por descarboxilação de:",
+"o": [
+"Histidina",
+"Arginina",
+"Glutamina",
+"Lisina"
+],
+"e": "A histidina descarboxilase age em mastócitos e basófilos."
+},
+{
+"c": "biossintese",
+"q": "O óxido nítrico, vasodilatador, é produzido a partir de:",
+"o": [
+"Arginina",
+"Ornitina",
+"Citrulina dietética",
+"Glicina"
+],
+"e": "A NO sintase converte arginina em NO e citrulina."
+},
+{
+"c": "biossintese",
+"q": "A glutationa é um tripeptídeo formado por:",
+"o": [
+"Glutamato, cisteína e glicina",
+"Glutamina, serina e alanina",
+"Glicina, arginina e metionina",
+"Tirosina, lisina e valina"
+],
+"e": "É o principal antioxidante celular; gatos com pouca GSH sofrem com paracetamol."
+},
+{
+"c": "biossintese",
+"q": "Do ponto de vista bioquímico, um aminoácido é essencial porque o animal não consegue:",
+"o": [
+"Fabricar o esqueleto de carbono",
+"Transferir o grupo amino a ele",
+"Absorvê-lo no intestino delgado",
+"Incorporá-lo às proteínas do músculo"
+],
+"e": "O amino vem do glutamato por transaminação; falta a via para o esqueleto de carbono (α-cetoácido)."
+},
+{
+"c": "biossintese",
+"q": "Qual destes aminoácidos é condicionalmente essencial por depender do enxofre da metionina?",
+"o": [
+"Cisteína",
+"Serina",
+"Glutamina",
+"Alanina"
+],
+"e": "A cisteína recebe o esqueleto da serina e o enxofre da metionina, via homocisteína e cistationina."
+},
+{
+"c": "biossintese",
+"q": "As vias que os animais perderam ao longo da evolução incluem a síntese de:",
+"o": [
+"Anéis aromáticos e cadeias ramificadas",
+"Alanina e aspartato a partir de cetoácidos",
+"Glutamina a partir de glutamato e amônia",
+"Serina a partir do 3-fosfoglicerato"
+],
+"e": "Fenilalanina, triptofano, valina, leucina e isoleucina dependem de vias ausentes nos animais."
+},
+{
+"c": "biossintese",
+"q": "Nos mamíferos, o nitrogênio de quase todos os aminoácidos não essenciais vem de:",
+"o": [
+"Glutamato ou glutamina",
+"Ureia circulante",
+"Ácido úrico",
+"Carbamoil fosfato"
+],
+"e": "GDH e glutamina sintetase incorporam NH4+; o amino é distribuído por transaminação e amidotransferases."
+},
+{
+"c": "biossintese",
+"q": "Qual enzima incorpora amônia ao glutamato, gastando ATP?",
+"o": [
+"Glutamina sintetase",
+"Glutamato desidrogenase",
+"Asparagina sintetase",
+"Alanina aminotransferase"
+],
+"e": "Glutamato + NH4+ + ATP → glutamina; é também a via de destoxificação da amônia nos tecidos."
+},
+{
+"c": "biossintese",
+"q": "A alanina pertence à família biossintética do:",
+"o": [
+"Piruvato",
+"Oxaloacetato",
+"α-cetoglutarato",
+"3-fosfoglicerato"
+],
+"e": "Um passo de transaminação (ALT) converte piruvato em alanina."
+},
+{
+"c": "biossintese",
+"q": "Prolina e ornitina são formadas a partir do:",
+"o": [
+"Glutamato",
+"Aspartato",
+"Piruvato",
+"Triptofano"
+],
+"e": "O glutamato-γ-semialdeído (via P5C sintase) origina prolina e ornitina, que leva à arginina."
+},
+{
+"c": "biossintese",
+"q": "A via do chiquimato, que forma os aminoácidos aromáticos, existe em:",
+"o": [
+"Plantas e micro-organismos",
+"Fígado de mamíferos",
+"Rim de aves",
+"Músculo de carnívoros"
+],
+"e": "Por isso fenilalanina e triptofano são essenciais; a via é alvo do herbicida glifosato."
+},
+{
+"c": "biossintese",
+"q": "A glicina é formada a partir da serina pela:",
+"o": [
+"Serina hidroximetiltransferase",
+"Fenilalanina hidroxilase",
+"Glutamina sintetase",
+"Cistationina sintase"
+],
+"e": "A serina doa um carbono ao tetra-hidrofolato e vira glicina."
+},
+{
+"c": "biossintese",
+"q": "A S-adenosilmetionina (SAM) funciona principalmente como:",
+"o": [
+"Doador de grupos metila",
+"Transportador de amônia",
+"Coenzima das transaminases",
+"Doador de grupos amino"
+],
+"e": "A SAM metila DNA, fosfolipídios, guanidinoacetato (creatina) e noradrenalina (adrenalina)."
+},
+{
+"c": "biossintese",
+"q": "A remetilação da homocisteína a metionina pela metionina sintase depende de:",
+"o": [
+"Vitamina B12 e folato",
+"Vitamina C e ferro",
+"Vitamina K e cálcio",
+"Biotina e magnésio"
+],
+"e": "A metionina sintase usa metil-tetra-hidrofolato e cobalamina."
+},
+{
+"c": "biossintese",
+"q": "Em solos pobres em cobalto, ruminantes emagrecem porque falta:",
+"o": [
+"Vitamina B12 microbiana",
+"Vitamina A da forragem",
+"Vitamina D da pele",
+"Niacina do triptofano"
+],
+"e": "Sem cobalto, as bactérias do rúmen não sintetizam B12; falham a metilmalonil-CoA mutase e a metionina sintase."
+},
+{
+"c": "biossintese",
+"q": "Por que o gato desenvolve hiperamonemia após uma refeição sem arginina?",
+"o": [
+"Falta ornitina para o ciclo da ureia",
+"Falta a enzima arginase hepática",
+"O rim deixa de filtrar a ureia",
+"A glutamina sintetase fica inibida"
+],
+"e": "O gato quase não produz ornitina/citrulina no intestino; sem arginina dietética, o ciclo trava por falta de substrato."
+},
+{
+"c": "biossintese",
+"q": "No gato, quais enzimas intestinais têm atividade muito baixa, limitando a síntese de arginina?",
+"o": [
+"P5C sintase e ornitina aminotransferase",
+"Arginase e argininossuccinato liase",
+"Carbamoil fosfato sintetase e OTC",
+"Glutaminase e glutamato desidrogenase"
+],
+"e": "Sem elas, o intestino do gato não exporta citrulina para o rim produzir arginina."
+},
+{
+"c": "biossintese",
+"q": "Qual enzima, pouco ativa no gato, limita a síntese de taurina?",
+"o": [
+"Cisteína sulfinato descarboxilase",
+"Cistationina β-sintase",
+"Metionina adenosiltransferase",
+"Fenilalanina hidroxilase"
+],
+"e": "A CSAD converte cisteína sulfinato em hipotaurina; no gato o substrato é desviado para piruvato e sulfato."
+},
+{
+"c": "biossintese",
+"q": "Além da síntese limitada, o gato precisa de taurina na dieta porque:",
+"o": [
+"Conjuga ácidos biliares só com taurina",
+"Usa taurina para formar ureia",
+"Excreta taurina como ácido úrico",
+"Converte taurina em niacina"
+],
+"e": "A perda fecal contínua de sais biliares conjugados com taurina aumenta a necessidade."
+},
+{
+"c": "biossintese",
+"q": "Para refazer valina, leucina e isoleucina, muitas bactérias celulolíticas do rúmen precisam de:",
+"o": [
+"Ácidos graxos de cadeia ramificada",
+"Ácidos graxos de cadeia longa",
+"Glicose absorvida do intestino",
+"Ureia em excesso na dieta"
+],
+"e": "Isobutirato, isovalerato e 2-metilbutirato vêm da degradação dos aminoácidos ramificados."
+},
+{
+"c": "biossintese",
+"q": "O principal fator que limita a síntese de proteína microbiana no rúmen costuma ser:",
+"o": [
+"A energia fermentável disponível",
+"A quantidade de água ingerida",
+"A concentração de oxigênio",
+"O pH do abomaso"
+],
+"e": "Sem ATP e esqueletos de carbono, a amônia sobra e é convertida em ureia no fígado."
+},
+{
+"c": "biossintese",
+"q": "Ao usar ureia na dieta de bovinos, recomenda-se suplementar enxofre porque ele é necessário para:",
+"o": [
+"Síntese microbiana de metionina e cisteína",
+"Hidrólise da ureia pela urease",
+"Absorção da amônia pelo rúmen",
+"Ativar a carbamoil fosfato sintetase"
+],
+"e": "As bactérias usam sulfato/sulfeto para os aminoácidos sulfurados; meta de N:S perto de 10–12:1."
+},
+{
+"c": "biossintese",
+"q": "Em vacas de alta produção, quais aminoácidos costumam limitar a síntese de proteína do leite?",
+"o": [
+"Lisina e metionina",
+"Glicina e alanina",
+"Glutamato e aspartato",
+"Serina e prolina"
+],
+"e": "Por isso usam-se lisina e metionina protegidas da degradação ruminal."
+},
+{
+"c": "biossintese",
+"q": "Por que o equino aproveita pouco a proteína microbiana do intestino grosso?",
+"o": [
+"A fermentação ocorre depois do intestino delgado",
+"O ceco não contém bactérias proteolíticas",
+"A proteína microbiana é rica em ureia",
+"O cólon absorve aminoácidos melhor que o jejuno"
+],
+"e": "Ceco e cólon ficam após o local de digestão e absorção de proteínas."
+},
+{
+"c": "biossintese",
+"q": "O coelho aproveita a proteína microbiana do ceco por meio de:",
+"o": [
+"Cecotrofia",
+"Ruminação",
+"Reciclagem salivar de ureia",
+"Fermentação gástrica"
+],
+"e": "O coelho ingere os cecotrofos e digere a proteína microbiana no estômago e intestino delgado."
+},
+{
+"c": "biossintese",
+"q": "As aminas biogênicas, como histamina e serotonina, são formadas por:",
+"o": [
+"Descarboxilação com PLP",
+"Transaminação com NAD+",
+"Hidroxilação com vitamina C",
+"Metilação com SAM"
+],
+"e": "Descarboxilases dependentes de piridoxal fosfato retiram o grupo carboxila como CO2."
+},
+{
+"c": "biossintese",
+"q": "Qual é a etapa limitante da síntese de catecolaminas?",
+"o": [
+"Tirosina hidroxilase",
+"DOPA descarboxilase",
+"Dopamina β-hidroxilase",
+"PNMT da medula adrenal"
+],
+"e": "A tirosina hidroxilase converte tirosina em L-DOPA e é inibida pelas catecolaminas."
+},
+{
+"c": "biossintese",
+"q": "A conversão de noradrenalina em adrenalina ocorre principalmente na:",
+"o": [
+"Medula adrenal, com SAM",
+"Terminação simpática, com PLP",
+"Neuro-hipófise, com cobre",
+"Tireoide, com iodo"
+],
+"e": "A PNMT é induzida pelo cortisol que chega do córtex adrenal."
+},
+{
+"c": "biossintese",
+"q": "A NO sintase produz óxido nítrico a partir de arginina, gerando também:",
+"o": [
+"Citrulina",
+"Ornitina",
+"Ureia",
+"Creatina"
+],
+"e": "Arginina + O2 + NADPH → citrulina + NO."
+},
+{
+"c": "biossintese",
+"q": "Em cavalos com endotoxemia, a hipotensão grave está associada ao excesso de:",
+"o": [
+"NO produzido pela iNOS",
+"Histamina dos eosinófilos",
+"Serotonina das plaquetas",
+"Dopamina do hipotálamo"
+],
+"e": "A forma induzível da NO sintase nos macrófagos gera muito NO, causando vasodilatação."
+},
+{
+"c": "biossintese",
+"q": "Isoniazida e a linatina da linhaça podem causar convulsões porque antagonizam a vitamina:",
+"o": [
+"B6, reduzindo o GABA",
+"B1, reduzindo o ATP",
+"B12, reduzindo a metionina",
+"C, reduzindo o colágeno"
+],
+"e": "Sem PLP, a glutamato descarboxilase forma menos GABA, o principal neurotransmissor inibitório."
+}
+]

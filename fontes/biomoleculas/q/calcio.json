@@ -1,0 +1,442 @@
+[
+{
+"c": "calcio",
+"q": "Qual fração do cálcio plasmático é biologicamente ativa e regulada pelos hormônios?",
+"o": [
+"Ionizada (livre)",
+"Ligada à albumina",
+"Complexada ao citrato",
+"Ligada às globulinas"
+],
+"e": "Só o Ca²⁺ ionizado, cerca de metade do total, age nas células e é percebido pelo CaSR da paratireoide."
+},
+{
+"c": "calcio",
+"q": "Em um cão com alcalose respiratória por hiperventilação, o que acontece com o cálcio ionizado?",
+"o": [
+"Diminui, pois a albumina prende mais cálcio",
+"Aumenta, pois a albumina libera o cálcio ligado",
+"Não se altera, só o total muda",
+"Aumenta, pois o rim deixa de excretá-lo"
+],
+"e": "Na alcalose a albumina perde H⁺, fica mais negativa e liga mais Ca²⁺, reduzindo a fração livre."
+},
+{
+"c": "calcio",
+"q": "Uma cadela com hipoalbuminemia grave tem cálcio total baixo. A melhor conduta inicial é:",
+"o": [
+"Medir o cálcio ionizado",
+"Infundir gluconato de cálcio",
+"Administrar calcitriol oral",
+"Suplementar fósforo"
+],
+"e": "A hipoalbuminemia reduz a fração ligada; o ionizado pode ser normal (pseudo-hipocalcemia)."
+},
+{
+"c": "calcio",
+"q": "Por que uma amostra colhida em tubo com EDTA não serve para dosar cálcio?",
+"o": [
+"O EDTA quelata o cálcio",
+"O EDTA hemolisa as hemácias",
+"O EDTA eleva o pH da amostra",
+"O EDTA degrada a albumina"
+],
+"e": "O EDTA sequestra cátions divalentes; o resultado sai falsamente baixíssimo."
+},
+{
+"c": "calcio",
+"q": "Qual destas afirmações sobre o magnésio é correta?",
+"o": [
+"Não tem hormônio regulador próprio",
+"É controlado diretamente pelo PTH",
+"É armazenado no fígado e liberado rapidamente",
+"É absorvido principalmente no cólon em bovinos"
+],
+"e": "O nível depende da ingestão diária; não há reserva rapidamente mobilizável."
+},
+{
+"c": "calcio",
+"q": "Por que a urina normal de equinos e coelhos é turva?",
+"o": [
+"Excretam o excesso de cálcio pelo rim",
+"Têm proteinúria fisiológica",
+"Eliminam muito fosfato de magnésio",
+"Concentram ureia em cristais"
+],
+"e": "Absorvem cálcio proporcionalmente à ingestão e excretam o excedente como carbonato."
+},
+{
+"c": "calcio",
+"q": "Aproximadamente que fração do cálcio corporal está no esqueleto?",
+"o": [
+"99%",
+"75%",
+"50%",
+"90% do total mais os dentes à parte"
+],
+"e": "Só cerca de 1% está nos líquidos e células, mas é o que faz o organismo funcionar."
+},
+{
+"c": "calcio",
+"q": "A concentração de Ca2+ no citosol em repouso é aproximadamente:",
+"o": [
+"0,1 µmol/L",
+"1,2 mmol/L",
+"2,5 mmol/L",
+"10 mmol/L"
+],
+"e": "Cerca de 10.000 vezes menor que o ionizado extracelular."
+},
+{
+"c": "calcio",
+"q": "O pool de cálcio extracelular de uma vaca adulta é de cerca de:",
+"o": [
+"8 a 10 g",
+"80 a 100 g",
+"800 g a 1 kg",
+"8 kg"
+],
+"e": "É menor que a perda de cálcio de um dia de colostro, por isso o parto é crítico."
+},
+{
+"c": "calcio",
+"q": "Qual transportador expulsa Ca2+ da célula usando o gradiente de sódio?",
+"o": [
+"Trocador Na+/Ca2+ (NCX)",
+"SERCA",
+"Uniporte mitocondrial",
+"Canal tipo L"
+],
+"e": "Troca 3 Na+ que entram por 1 Ca2+ que sai."
+},
+{
+"c": "calcio",
+"q": "A SERCA é responsável por:",
+"o": [
+"Bombear Ca2+ para dentro do retículo",
+"Liberar Ca2+ do retículo",
+"Expulsar Ca2+ pela membrana plasmática",
+"Trocar Ca2+ por Na+"
+],
+"e": "Ao recolher o cálcio do citosol, permite o relaxamento muscular."
+},
+{
+"c": "calcio",
+"q": "Os digitálicos aumentam a força do miocárdio porque:",
+"o": [
+"Reduzem a saída de Ca2+ pelo NCX",
+"Abrem canais de Ca2+ do retículo",
+"Ativam a SERCA",
+"Aumentam a calmodulina"
+],
+"e": "Inibindo a Na+/K+-ATPase, o gradiente de Na+ cai e o NCX expulsa menos cálcio."
+},
+{
+"c": "calcio",
+"q": "Na falta de ATP, a invasão de cálcio no citosol leva à morte celular ao ativar:",
+"o": [
+"Fosfolipases, calpaínas e endonucleases",
+"Calcitonina e osteoprotegerina",
+"Bombas PMCA e SERCA",
+"Glicogênio sintase e insulina"
+],
+"e": "É a via final comum da necrose; explica a calcificação distrófica."
+},
+{
+"c": "calcio",
+"q": "No músculo esquelético, o Ca2+ que desencadeia a contração vem principalmente:",
+"o": [
+"Do retículo sarcoplasmático",
+"Do líquido extracelular",
+"Das mitocôndrias",
+"Do osso por troca rápida"
+],
+"e": "Os receptores de rianodina liberam o cálcio do retículo."
+},
+{
+"c": "calcio",
+"q": "No músculo cardíaco, a entrada de Ca2+ pelos canais tipo L provoca:",
+"o": [
+"Liberação de cálcio induzida por cálcio",
+"Relaxamento imediato",
+"Hiperpolarização da membrana",
+"Fechamento da SERCA"
+],
+"e": "O pequeno influxo dispara a liberação do retículo pelos receptores de rianodina."
+},
+{
+"c": "calcio",
+"q": "No músculo liso, o Ca2+ ativa a contração ligando-se à:",
+"o": [
+"Calmodulina",
+"Troponina C",
+"Tropomiosina",
+"Calsequestrina"
+],
+"e": "Ca2+-calmodulina ativa a quinase da cadeia leve da miosina."
+},
+{
+"c": "calcio",
+"q": "A atonia ruminal e a retenção de placenta na vaca hipocalcêmica refletem falha do:",
+"o": [
+"Músculo liso",
+"Músculo esquelético",
+"Miocárdio",
+"Tecido adiposo"
+],
+"e": "O músculo liso depende de cálcio extracelular e perde tônus."
+},
+{
+"c": "calcio",
+"q": "Na coagulação, o Ca2+ liga os fatores II, VII, IX e X à:",
+"o": [
+"Fosfatidilserina das plaquetas",
+"Albumina do plasma",
+"Hemoglobina das hemácias",
+"Fibrina já estabilizada"
+],
+"e": "Os resíduos γ-carboxiglutamato prendem Ca2+, que faz a ponte com os fosfolipídios."
+},
+{
+"c": "calcio",
+"q": "Os resíduos de γ-carboxiglutamato dos fatores de coagulação dependem de:",
+"o": [
+"Vitamina K",
+"Vitamina D",
+"Vitamina C",
+"Vitamina B12"
+],
+"e": "A carboxilase hepática dependente de vitamina K forma esses resíduos."
+},
+{
+"c": "calcio",
+"q": "O tubo de citrato de sódio é usado no coagulograma porque:",
+"o": [
+"Sequestra o cálcio e impede a coagulação",
+"Ativa a trombina de forma controlada",
+"Preserva as plaquetas intactas",
+"Inibe a vitamina K da amostra"
+],
+"e": "O laboratório recalcifica a amostra ao iniciar o teste."
+},
+{
+"c": "calcio",
+"q": "Na intoxicação por rodenticida cumarínico, o sangramento ocorre porque:",
+"o": [
+"Os fatores não prendem cálcio",
+"A calcemia cai muito",
+"As plaquetas não se formam",
+"O fibrinogênio é destruído"
+],
+"e": "Sem vitamina K reciclada, faltam γ-carboxiglutamatos; a calcemia é normal."
+},
+{
+"c": "calcio",
+"q": "Receptores acoplados à proteína Gq elevam o Ca2+ citosólico por meio de:",
+"o": [
+"IP3 produzido pela fosfolipase C",
+"AMPc produzido pela adenilato ciclase",
+"GMPc produzido pela guanilato ciclase",
+"DAG liberando cálcio do osso"
+],
+"e": "O IP3 abre canais do retículo endoplasmático."
+},
+{
+"c": "calcio",
+"q": "A ciclosporina, usada na dermatite atópica canina, inibe a:",
+"o": [
+"Calcineurina",
+"Calmodulina",
+"Proteína quinase C",
+"Fosfolipase C"
+],
+"e": "A calcineurina é uma fosfatase dependente de Ca2+ que ativa NFAT nos linfócitos T."
+},
+{
+"c": "calcio",
+"q": "A proteína que detecta o Ca2+ e dispara a fusão das vesículas na exocitose é a:",
+"o": [
+"Sinaptotagmina",
+"Calsequestrina",
+"Calbindina",
+"Troponina C"
+],
+"e": "Ela aciona as proteínas SNARE após a entrada de cálcio."
+},
+{
+"c": "calcio",
+"q": "Na célula β pancreática, a insulina é liberada quando:",
+"o": [
+"Canais de Ca2+ se abrem após a despolarização",
+"Canais de K+ se abrem e hiperpolarizam",
+"O AMPc cai abaixo do basal",
+"A glicose bloqueia a entrada de cálcio"
+],
+"e": "O ATP fecha canais de K+, despolariza e abre canais de Ca2+."
+},
+{
+"c": "calcio",
+"q": "A toxina botulínica impede a liberação de acetilcolina mesmo com cálcio normal porque:",
+"o": [
+"Cliva as proteínas SNARE",
+"Bloqueia os canais de cálcio",
+"Degrada a acetilcolina",
+"Ocupa o receptor nicotínico"
+],
+"e": "Sem SNARE funcionais, as vesículas não se fundem."
+},
+{
+"c": "calcio",
+"q": "A proteína quinase C é ativada por:",
+"o": [
+"DAG e Ca2+",
+"IP3 isoladamente",
+"AMPc e PKA",
+"GMPc e NO"
+],
+"e": "A fosfolipase C gera DAG e IP3; o IP3 libera Ca2+, e DAG + Ca2+ ativam a PKC."
+},
+{
+"c": "calcio",
+"q": "A absorção transcelular de cálcio no duodeno depende de:",
+"o": [
+"Calbindina induzida pelo calcitriol",
+"Gradiente passivo entre as células",
+"Ligação ao oxalato da dieta",
+"Fosfatase alcalina intestinal"
+],
+"e": "Canal TRPV6, calbindina e PMCA basolateral; predomina com dieta pobre em cálcio."
+},
+{
+"c": "calcio",
+"q": "Quando a dieta é rica em cálcio, a absorção predominante é:",
+"o": [
+"Paracelular passiva",
+"Transcelular ativa",
+"Por pinocitose",
+"Por troca com sódio no cólon"
+],
+"e": "A via paracelular é proporcional à concentração no lúmen."
+},
+{
+"c": "calcio",
+"q": "Qual composto da dieta reduz a absorção de cálcio ao formar sais insolúveis?",
+"o": [
+"Oxalato",
+"Lactose",
+"Vitamina D3",
+"Citrato em baixa dose"
+],
+"e": "O oxalato forma oxalato de cálcio; o fitato dos grãos também atrapalha."
+},
+{
+"c": "calcio",
+"q": "Uma galinha poedeira deposita em cada casca cerca de:",
+"o": [
+"2 g de cálcio",
+"20 mg de cálcio",
+"200 mg de cálcio",
+"20 g de cálcio"
+],
+"e": "Quase 10% do cálcio corporal em cerca de 20 horas."
+},
+{
+"c": "calcio",
+"q": "A relação Ca:P considerada adequada para a maioria das espécies é:",
+"o": [
+"1:1 a 2:1",
+"1:5 a 1:10",
+"5:1 a 10:1",
+"1:15 a 1:20"
+],
+"e": "Carne pura tem Ca:P de cerca de 1:15 a 1:20, favorecendo o hiperparatireoidismo."
+},
+{
+"c": "calcio",
+"q": "Filhotes de cães de raças gigantes não devem receber excesso de cálcio porque:",
+"o": [
+"Absorvem passivamente e prejudicam a ossificação",
+"Não absorvem cálcio no intestino",
+"Excretam todo o cálcio pela urina",
+"Desenvolvem hipocalcemia de rebote"
+],
+"e": "A absorção passiva alta impede a proteção contra o excesso; há risco de osteocondrose."
+},
+{
+"c": "calcio",
+"q": "O ponto de virada da eclâmpsia da cadela em relação à lactação costuma ser:",
+"o": [
+"2 a 4 semanas após o parto",
+"Antes do parto, no 1º trimestre",
+"Logo após o desmame",
+"No anestro"
+],
+"e": "Corresponde ao pico de produção de leite."
+},
+{
+"c": "calcio",
+"q": "Qual compartimento funciona como tampão de emergência de cálcio dentro da célula?",
+"o": [
+"Mitocôndria",
+"Núcleo",
+"Lisossomo",
+"Peroxissomo"
+],
+"e": "O uniporte mitocondrial capta cálcio quando o citosol sobe."
+},
+{
+"c": "calcio",
+"q": "Na hipocalcemia, o coração tende a apresentar:",
+"o": [
+"Contração mais fraca e QT prolongado",
+"Taquicardia e QT curto",
+"Fibrilação imediata",
+"Aumento da força de contração"
+],
+"e": "Menos cálcio reduz a contratilidade e prolonga a repolarização."
+},
+{
+"c": "calcio",
+"q": "Por que a hipocalcemia favorece a cetose na vaca pós-parto?",
+"o": [
+"Reduz a secreção de insulina",
+"Aumenta a secreção de insulina",
+"Estimula a lipogênese hepática",
+"Bloqueia a lipólise"
+],
+"e": "A exocitose da insulina depende de cálcio; com menos insulina, a lipólise e a cetogênese aumentam."
+},
+{
+"c": "calcio",
+"q": "Uma vaca com hipocalcemia subclínica tem maior risco de:",
+"o": [
+"Deslocamento de abomaso e metrite",
+"Hiperglicemia e obesidade",
+"Hipercalcemia de rebote",
+"Urolitíase por estruvita"
+],
+"e": "Atonia de músculo liso e imunidade reduzida favorecem essas doenças."
+},
+{
+"c": "calcio",
+"q": "Qual célula de defesa depende de cálcio para se ativar, ficando prejudicada na hipocalcemia puerperal?",
+"o": [
+"Neutrófilo",
+"Hemácia",
+"Plaqueta inativa",
+"Osteócito"
+],
+"e": "A ativação de neutrófilos depende de sinalização por cálcio."
+},
+{
+"c": "calcio",
+"q": "A forma do cálcio extracelular que estabiliza os canais de sódio das membranas é a:",
+"o": [
+"Ionizada",
+"Ligada à albumina",
+"Complexada ao citrato",
+"Intracelular"
+],
+"e": "Pouco Ca2+ ionizado deixa nervos e músculos hiperexcitáveis."
+}
+]

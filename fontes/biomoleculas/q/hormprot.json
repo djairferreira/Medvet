@@ -1,0 +1,442 @@
+[
+{
+"c": "hormprot",
+"q": "Qual hormônio é catabólico para a proteína muscular?",
+"o": [
+"Cortisol",
+"Insulina",
+"IGF-1",
+"Testosterona"
+],
+"e": "O cortisol estimula a proteólise e a gliconeogênese."
+},
+{
+"c": "hormprot",
+"q": "Cão com abdômen pendular, pele fina e atrofia muscular. Hormônio responsável:",
+"o": [
+"Cortisol em excesso",
+"Insulina em excesso",
+"GH em falta",
+"Glucagon em falta"
+],
+"e": "Hiperadrenocorticismo: proteólise muscular e gliconeogênese."
+},
+{
+"c": "hormprot",
+"q": "A insulina favorece o anabolismo proteico porque:",
+"o": [
+"Aumenta a captação de aminoácidos e a síntese",
+"Estimula a proteólise no proteassomo",
+"Induz as enzimas do ciclo da ureia",
+"Inibe a captação de aminoácidos pelo músculo"
+],
+"e": "Age também via mTOR e reduz a proteólise."
+},
+{
+"c": "hormprot",
+"q": "O gato hipertireóideo emagrece apesar da polifagia porque:",
+"o": [
+"O turnover acelera com predomínio da degradação",
+"A tireoide destrói as proteínas da dieta",
+"Os hormônios tireoidianos bloqueiam a digestão",
+"O fígado deixa de produzir albumina"
+],
+"e": "O excesso de T3/T4 acelera o catabolismo proteico."
+},
+{
+"c": "hormprot",
+"q": "O complexo mTORC1 controla principalmente:",
+"o": [
+"O início da tradução proteica",
+"A degradação de ureia no rim",
+"A síntese de glicogênio hepático",
+"A abertura de canais de cálcio"
+],
+"e": "Quando ativo, mTORC1 libera os ribossomos para a síntese de proteínas."
+},
+{
+"c": "hormprot",
+"q": "Qual aminoácido é o sinal mais potente para ativar a mTOR no músculo?",
+"o": [
+"Leucina",
+"Glicina",
+"Alanina",
+"Glutamato"
+],
+"e": "A leucina sinaliza disponibilidade de aminoácidos e estimula a síntese proteica."
+},
+{
+"c": "hormprot",
+"q": "Os fatores FoxO, quando entram no núcleo da fibra muscular, induzem:",
+"o": [
+"Ubiquitina-ligases da atrofia",
+"Enzimas da glicólise",
+"Proteínas contráteis novas",
+"Receptores de insulina"
+],
+"e": "Atrogina-1 e MuRF1 marcam proteínas para o proteassomo."
+},
+{
+"c": "hormprot",
+"q": "A insulina inibe a proteólise muscular porque:",
+"o": [
+"Akt mantém FoxO fora do núcleo",
+"Ativa diretamente as calpaínas",
+"Bloqueia a entrada de aminoácidos",
+"Inibe a glutamina sintetase"
+],
+"e": "A via PI3K-Akt fosforila FoxO e impede a transcrição dos genes de atrofia."
+},
+{
+"c": "hormprot",
+"q": "Bovinos Belgian Blue têm dupla musculatura por mutação que inativa a:",
+"o": [
+"Miostatina",
+"Somatotropina",
+"Calpastatina",
+"Insulina"
+],
+"e": "A miostatina é um freio natural do crescimento muscular."
+},
+{
+"c": "hormprot",
+"q": "O IGF-1 circulante é produzido principalmente no:",
+"o": [
+"Fígado, sob ação do GH",
+"Pâncreas, sob ação da glicose",
+"Músculo, sob ação do cortisol",
+"Rim, sob ação do PTH"
+],
+"e": "O GH age no fígado, que produz IGF-1, mediador anabólico."
+},
+{
+"c": "hormprot",
+"q": "O efeito direto do GH sobre o metabolismo energético inclui:",
+"o": [
+"Lipólise e efeito anti-insulina",
+"Lipogênese e hipoglicemia",
+"Glicogênese e cetogênese",
+"Proteólise e ureagênese"
+],
+"e": "O GH poupa proteína e glicose estimulando a queima de gordura; é diabetogênico."
+},
+{
+"c": "hormprot",
+"q": "Na vaca em balanço energético negativo, o GH alto com IGF-1 baixo caracteriza:",
+"o": [
+"Desacoplamento do eixo somatotrófico",
+"Acromegalia bovina",
+"Hipotireoidismo secundário",
+"Excesso de insulina"
+],
+"e": "O fígado deixa de responder ao GH; a lipólise aumenta e os nutrientes vão ao leite."
+},
+{
+"c": "hormprot",
+"q": "Gato idoso com cabeça e patas grandes e diabetes resistente à insulina sugere:",
+"o": [
+"Acromegalia por adenoma secretor de GH",
+"Hiperadrenocorticismo por adenoma adrenal",
+"Hipotireoidismo com mixedema",
+"Nanismo hipofisário tardio"
+],
+"e": "No hipersomatotropismo felino, dosa-se IGF-1."
+},
+{
+"c": "hormprot",
+"q": "O nanismo hipofisário com pelagem de filhote é classicamente descrito em:",
+"o": [
+"Pastor-alemão",
+"Dálmata",
+"Yorkshire Terrier",
+"Golden Retriever"
+],
+"e": "Deficiência de GH e outros hormônios hipofisários; filhote pequeno e proporcional."
+},
+{
+"c": "hormprot",
+"q": "A somatotropina bovina recombinante (bST) aumenta a produção de leite porque:",
+"o": [
+"Direciona nutrientes para a glândula mamária",
+"Aumenta a secreção de insulina pós-prandial",
+"Reduz a lipólise do tecido adiposo",
+"Aumenta a síntese de ureia hepática"
+],
+"e": "O GH desvia glicose, aminoácidos e ácidos graxos para a síntese de leite."
+},
+{
+"c": "hormprot",
+"q": "No fígado, o cortisol:",
+"o": [
+"Aumenta a síntese de enzimas e proteínas de fase aguda",
+"Reduz a gliconeogênese e a ureagênese",
+"Inibe a captação de aminoácidos",
+"Bloqueia a síntese de glicose-6-fosfatase"
+],
+"e": "No fígado o cortisol é anabólico; no músculo, catabólico."
+},
+{
+"c": "hormprot",
+"q": "Qual sinal NÃO é típico do hiperadrenocorticismo canino?",
+"o": [
+"Ganho de massa muscular nos membros",
+"Abdômen pendular",
+"Pele fina com veias visíveis",
+"Atrofia dos músculos temporais"
+],
+"e": "O excesso de cortisol causa proteólise e atrofia muscular."
+},
+{
+"c": "hormprot",
+"q": "No Cushing equino (PPID), espera-se:",
+"o": [
+"Perda muscular na linha dorsal e pelos longos",
+"Ganho de massa e pelagem curta",
+"Hipoglicemia e bradicardia",
+"Hipocalcemia e tetania"
+],
+"e": "A disfunção da pars intermedia causa perda muscular, hirsutismo e laminite."
+},
+{
+"c": "hormprot",
+"q": "O glucagon age sobre o metabolismo proteico principalmente:",
+"o": [
+"Aumentando a captação hepática de aminoácidos",
+"Estimulando a síntese proteica no músculo",
+"Reduzindo a produção de ureia",
+"Inibindo a gliconeogênese hepática"
+],
+"e": "Mais aminoácidos no fígado para gliconeogênese e ureagênese."
+},
+{
+"c": "hormprot",
+"q": "Por que o glucagon também sobe após uma refeição muito proteica?",
+"o": [
+"Evita hipoglicemia pela insulina estimulada",
+"Bloqueia a absorção dos aminoácidos",
+"Estimula a síntese de glicogênio",
+"Reduz a excreção de nitrogênio"
+],
+"e": "Aminoácidos estimulam insulina e glucagon; o glucagon mantém a glicemia."
+},
+{
+"c": "hormprot",
+"q": "Em nível fisiológico, os hormônios tireoidianos são para o crescimento:",
+"o": [
+"Permissivos, potencializando GH e IGF-1",
+"Inibidores da síntese proteica",
+"Indiferentes ao esqueleto",
+"Antagonistas da insulina no músculo"
+],
+"e": "São necessários à maturação do esqueleto e do sistema nervoso."
+},
+{
+"c": "hormprot",
+"q": "O gato hipertireóideo pode ter creatinina falsamente baixa porque:",
+"o": [
+"Perde massa muscular e aumenta a filtração",
+"Retém creatinina no músculo",
+"Converte creatinina em ureia",
+"Excreta creatinina pelas fezes"
+],
+"e": "Os dois efeitos mascaram doença renal crônica, que aparece após o tratamento."
+},
+{
+"c": "hormprot",
+"q": "Um sinal típico de hipotireoidismo congênito em filhotes é:",
+"o": [
+"Nanismo desproporcional com membros curtos",
+"Crescimento acelerado e magreza",
+"Pelagem longa e brilhante",
+"Taquicardia e hiperatividade"
+],
+"e": "A falta de T3/T4 prejudica a ossificação e a ação do GH."
+},
+{
+"c": "hormprot",
+"q": "A testosterona aumenta a massa muscular principalmente ao:",
+"o": [
+"Ligar-se a receptor nuclear e ativar transcrição",
+"Abrir canais de cálcio na membrana",
+"Aumentar o AMPc via receptor β",
+"Ativar o proteassomo muscular"
+],
+"e": "O receptor de andrógeno aumenta a síntese de proteínas contráteis e ativa células satélites."
+},
+{
+"c": "hormprot",
+"q": "Comparados aos castrados, bovinos machos inteiros tendem a ter:",
+"o": [
+"Carcaça mais musculosa e menos gordura",
+"Mais gordura e mais marmoreio",
+"Crescimento mais lento",
+"Menor conversão alimentar"
+],
+"e": "Os andrógenos favorecem a síntese proteica e reduzem a deposição de gordura."
+},
+{
+"c": "hormprot",
+"q": "No Brasil, o uso de anabolizantes hormonais em bovinos de corte é:",
+"o": [
+"Proibido",
+"Permitido sem restrição",
+"Permitido só em machos",
+"Obrigatório na terminação"
+],
+"e": "A legislação brasileira proíbe esses promotores de crescimento em bovinos."
+},
+{
+"c": "hormprot",
+"q": "A ractopamina é classificada como:",
+"o": [
+"Agonista β-adrenérgico",
+"Esteroide anabolizante",
+"Análogo da insulina",
+"Somatotropina recombinante"
+],
+"e": "Age em receptor β de membrana via AMPc, não em receptor nuclear."
+},
+{
+"c": "hormprot",
+"q": "No músculo, os β-agonistas reduzem a degradação de proteínas principalmente ao:",
+"o": [
+"Aumentar a calpastatina",
+"Ativar o proteassomo",
+"Reduzir a entrada de aminoácidos",
+"Inibir a mTOR"
+],
+"e": "Mais calpastatina inibe as calpaínas; também por isso a carne pode ficar menos macia."
+},
+{
+"c": "hormprot",
+"q": "No tecido adiposo, a ractopamina:",
+"o": [
+"Estimula a lipólise e inibe a lipogênese",
+"Estimula a lipogênese e o marmoreio",
+"Bloqueia a ação do glucagon",
+"Aumenta a captação de glicose"
+],
+"e": "Por isso é um repartidor de nutrientes: mais carne magra e menos gordura."
+},
+{
+"c": "hormprot",
+"q": "Por que o efeito da ractopamina diminui depois de algumas semanas?",
+"o": [
+"Os receptores β são dessensibilizados",
+"O fígado passa a produzir mais IGF-1",
+"O animal deixa de absorver a droga",
+"A miostatina é inativada"
+],
+"e": "A exposição contínua reduz a resposta dos receptores; por isso usa-se só na terminação."
+},
+{
+"c": "hormprot",
+"q": "O clenbuterol é proibido como promotor de crescimento sobretudo porque:",
+"o": [
+"Deixa resíduos e já intoxicou pessoas",
+"Reduz o ganho de peso dos animais",
+"Aumenta a gordura da carcaça",
+"Não tem efeito em ruminantes"
+],
+"e": "Meia-vida longa e resíduos em fígado e carne causaram tremores e taquicardia em humanos."
+},
+{
+"c": "hormprot",
+"q": "Um efeito indesejado de β-agonistas em suínos, sobretudo no calor, é:",
+"o": [
+"Mais animais com dificuldade de locomoção",
+"Redução da massa muscular",
+"Aumento da espessura de toucinho",
+"Hipoglicemia grave no abate"
+],
+"e": "Agitação, taquicardia e animais caídos no transporte foram descritos."
+},
+{
+"c": "hormprot",
+"q": "Na doença grave, a perda muscular é maior que no jejum simples porque:",
+"o": [
+"Citocinas impedem a adaptação poupadora de proteína",
+"A insulina fica muito alta",
+"O cortisol cai abaixo do normal",
+"Os corpos cetônicos estimulam a proteólise"
+],
+"e": "No jejum adaptado a proteólise diminui; na sepse ela continua alta."
+},
+{
+"c": "hormprot",
+"q": "Qual combinação define o estado hormonal de um cão no pós-operatório?",
+"o": [
+"Cortisol, glucagon e catecolaminas altos",
+"Insulina alta e cortisol baixo",
+"GH baixo e IGF-1 alto",
+"Tiroxina baixa e insulina alta"
+],
+"e": "A resposta ao estresse torna o músculo fornecedor de aminoácidos."
+},
+{
+"c": "hormprot",
+"q": "Na sepse, a glutamina liberada pelo músculo é usada principalmente por:",
+"o": [
+"Enterócitos e linfócitos",
+"Hemácias e plaquetas",
+"Osteoclastos e condrócitos",
+"Adipócitos e hepatócitos perivenosos"
+],
+"e": "A glutamina é combustível de células de divisão rápida do intestino e do sistema imune."
+},
+{
+"c": "hormprot",
+"q": "Por que alimentar um paciente séptico só com glicose não reverte a perda muscular?",
+"o": [
+"Há resistência à insulina",
+"Falta glucagon no plasma",
+"A glicose inibe a absorção intestinal",
+"O cortisol fica suprimido"
+],
+"e": "A resistência à insulina e ao GH persiste; é preciso fornecer proteína e tratar a causa."
+},
+{
+"c": "hormprot",
+"q": "Para avaliar perda de massa magra num cão obeso internado, deve-se usar:",
+"o": [
+"Escore de condição muscular",
+"Escore de condição corporal apenas",
+"Peso corporal isolado",
+"Dosagem de colesterol"
+],
+"e": "Um animal obeso pode estar perdendo músculo; palpa-se a musculatura temporal, escapular e lombar."
+},
+{
+"c": "hormprot",
+"q": "O estresse prolongado antes do abate causa carne DFD porque:",
+"o": [
+"Esgota o glicogênio muscular",
+"Aumenta a proteólise pós-abate",
+"Eleva a gordura intramuscular",
+"Acelera a queda do pH"
+],
+"e": "Sem glicogênio, forma-se pouco ácido lático; o pH final fica alto e a carne escura, firme e seca."
+},
+{
+"c": "hormprot",
+"q": "Em cadelas, a progesterona do diestro pode causar acromegalia porque induz:",
+"o": [
+"Produção de GH na glândula mamária",
+"Secreção de cortisol adrenal",
+"Redução do IGF-1 hepático",
+"Excesso de tiroxina"
+],
+"e": "O GH mamário induzido por progestágenos causa resistência à insulina, reversível com castração."
+},
+{
+"c": "hormprot",
+"q": "No diabetes descompensado, o animal perde massa muscular porque:",
+"o": [
+"Sem insulina, a proteólise fica ativa",
+"A insulina alta ativa o proteassomo",
+"O glucagon fica suprimido",
+"A gliconeogênese é bloqueada"
+],
+"e": "Os aminoácidos vão para a gliconeogênese, piorando a hiperglicemia."
+}
+]
