@@ -31,12 +31,12 @@ function draw(arr,n,key){const ids=new Set(arr.map(qid));let seen=store.get(key,
   if(pick.length<n){const got=new Set(pick.map(qid));seen=[];pick=pick.concat(shuffle(arr.filter(q=>!got.has(qid(q)))).slice(0,n-pick.length))}
   seen=seen.concat(pick.map(qid));store.set(key,seen);return {pick,left:arr.length-new Set(seen).size}}
 $$('.quiz[data-quiz]').forEach(box=>{
-  const ch=box.dataset.quiz, n=+box.dataset.n||6;
-  const all=L.Q.filter(x=>x.c===ch);
+  const ch=box.dataset.quiz, chs=ch.split(','), uni=chs.length>1, n=+box.dataset.n||(uni?Math.max(12,2*chs.length):6);
+  const all=L.Q.filter(x=>chs.includes(x.c));
   const build=()=>{
     const {pick:pool,left}=draw(all,n,'vistas:'+ch);
     let right=0,done=0;
-    box.innerHTML=`<div class="quiz-h"><h4>Teste o capítulo</h4><span class="score">0 / ${pool.length}</span></div><p class="quiz-info">Banco do capítulo: <b>${all.length}</b> questões · ${left>0?`<b>${left}</b> ainda não sorteadas nesta rodada`:'você viu todas; o próximo sorteio recomeça o ciclo'}</p>`;
+    box.innerHTML=`<div class="quiz-h"><h4>${box.dataset.titulo||(uni?'Teste da unidade':'Teste o capítulo')}</h4><span class="score">0 / ${pool.length}</span></div><p class="quiz-info">${uni?'Banco da unidade':'Banco do capítulo'}: <b>${all.length}</b> questões · ${left>0?`<b>${left}</b> ainda não sorteadas nesta rodada`:'você viu todas; o próximo sorteio recomeça o ciclo'}</p>`;
     const sc=$('.score',box);
     pool.forEach((it,i)=>box.appendChild(renderQuestion(it,i+1,ok=>{done++;if(ok)right++;sc.textContent=`${right} / ${pool.length}`;
       if(done===pool.length){const r=document.createElement('div');r.style.marginTop='10px';r.innerHTML=`<button class="tbtn" type="button">Sortear outras questões</button>`;$('button',r).onclick=()=>{build();box.scrollIntoView({block:'start'})};box.appendChild(r)}})));
