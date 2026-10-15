@@ -313,8 +313,8 @@
 "o": [
 "Paratireoide, células C da tireoide e rim",
 "Fígado, baço e pulmão",
-"Adipócito e hemácia",
-"Músculo esquelético apenas"
+"Adipócitos e hemácias circulantes",
+"Músculo esquelético, somente"
 ],
 "e": "Ele detecta o Ca2+ ionizado e ajusta a secreção hormonal."
 },
@@ -378,9 +378,9 @@
 "q": "O escape da calcitonina significa que:",
 "o": [
 "Os osteoclastos deixam de responder com uso prolongado",
-"A calcitonina passa a elevar o cálcio",
-"A tireoide para de produzi-la",
-"A calcitonina vira PTH"
+"A calcitonina passa a elevar a calcemia",
+"A tireoide para de produzi-la após semanas",
+"A calcitonina se converte em PTH no rim"
 ],
 "e": "A resposta diminui com o uso contínuo."
 },

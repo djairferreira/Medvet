@@ -125,9 +125,9 @@
 "q": "Osso calcinado, sem colágeno, comporta-se como:",
 "o": [
 "Material duro, mas quebradiço",
-"Material elástico e flexível",
-"Cartilagem hialina",
-"Tendão desidratado"
+"Material elástico e muito flexível",
+"Cartilagem hialina reidratada",
+"Tendão desidratado e fibroso"
 ],
 "e": "O mineral sozinho resiste à compressão, mas quebra facilmente."
 },
@@ -147,9 +147,9 @@
 "q": "A hidroxilação da prolina no colágeno exige:",
 "o": [
 "Vitamina C, ferro e oxigênio",
-"Vitamina K e cálcio",
-"Vitamina B12 e folato",
-"Cobre e zinco apenas"
+"Vitamina K e cálcio ionizado",
+"Vitamina B12 e ácido fólico",
+"Cobre e zinco, sem outros cofatores"
 ],
 "e": "Prolil e lisil hidroxilases dependem do ascorbato."
 },
@@ -158,9 +158,9 @@
 "q": "Qual espécie doméstica depende de vitamina C na dieta e desenvolve escorbuto?",
 "o": [
 "Porquinho-da-índia",
-"Coelho",
-"Cão",
-"Bovino"
+"Coelho doméstico",
+"Cão adulto",
+"Bovino jovem"
 ],
 "e": "Cobaias, como primatas, não sintetizam ascorbato."
 },
@@ -202,9 +202,9 @@
 "q": "O pró-colágeno se transforma em fibrilas quando:",
 "o": [
 "Peptidases removem suas extremidades fora da célula",
-"A lisil oxidase o hidroxila no núcleo",
-"O osteoclasto o digere parcialmente",
-"A fosfatase alcalina o fosforila"
+"A lisil oxidase o hidroxila ainda no núcleo",
+"O osteoclasto o digere parcialmente na lacuna",
+"A fosfatase alcalina o fosforila na membrana"
 ],
 "e": "Os pró-peptídeos são retirados no meio extracelular."
 },
@@ -246,9 +246,9 @@
 "q": "As vesículas de matriz são importantes porque:",
 "o": [
 "Formam os primeiros núcleos de cristal",
-"Digerem o colágeno velho",
-"Transportam PTH até o osso",
-"Armazenam glicogênio"
+"Digerem o colágeno velho da superfície",
+"Transportam o PTH do sangue até o osso",
+"Armazenam glicogênio para o osteoblasto"
 ],
 "e": "Brotam do osteoblasto e acumulam cálcio e fosfato."
 },
@@ -312,9 +312,9 @@
 "q": "O fechamento das placas de crescimento na puberdade é promovido por:",
 "o": [
 "Estrógenos e andrógenos",
-"Calcitonina",
-"Insulina",
-"Prolactina"
+"Calcitonina tireoidiana",
+"Insulina pancreática",
+"Prolactina hipofisária"
 ],
 "e": "Os esteroides sexuais encerram o crescimento longitudinal."
 },
@@ -334,9 +334,9 @@
 "q": "A osteocondrite dissecante caracteriza-se por:",
 "o": [
 "Fragmentos de cartilagem soltos na articulação",
-"Fratura da diáfise por estresse",
-"Calcificação de tendões",
-"Inflamação do periósteo"
+"Fratura da diáfise por estresse repetido",
+"Calcificação de tendões e ligamentos",
+"Inflamação do periósteo da canela"
 ],
 "e": "É uma complicação da osteocondrose."
 },
@@ -367,9 +367,9 @@
 "q": "A unidade multicelular básica é formada por:",
 "o": [
 "Osteoclastos e osteoblastos em equipe",
-"Osteócitos e condrócitos",
-"Fibroblastos e adipócitos",
-"Hemácias e plaquetas"
+"Osteócitos e condrócitos da placa",
+"Fibroblastos e adipócitos medulares",
+"Hemácias e plaquetas do coágulo"
 ],
 "e": "Osteoclastos escavam e osteoblastos preenchem."
 },
@@ -444,9 +444,9 @@
 "q": "Qual região é clássica de retardo de consolidação em cães miniatura?",
 "o": [
 "Terço distal do rádio e da ulna",
-"Diáfise do fêmur",
-"Crânio",
-"Costelas"
+"Diáfise do fêmur proximal",
+"Ossos chatos do crânio",
+"Costelas e esterno"
 ],
 "e": "A irrigação precária dificulta a consolidação."
 }

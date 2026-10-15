@@ -125,9 +125,9 @@
 "q": "O osteoblasto deriva de:",
 "o": [
 "Célula-tronco mesenquimal",
-"Monócito do sangue",
-"Linfócito T",
-"Megacariócito"
+"Monócito do sangue periférico",
+"Linfócito T da medula",
+"Megacariócito da medula óssea"
 ],
 "e": "A mesma célula pode originar condrócito, adipócito e fibroblasto."
 },
@@ -136,9 +136,9 @@
 "q": "Qual via de sinalização favorece a diferenciação em osteoblasto e é bloqueada pela esclerostina?",
 "o": [
 "Wnt/β-catenina",
-"JAK/STAT",
-"NF-κB",
-"Via do AMPc"
+"JAK/STAT das citocinas",
+"NF-κB da inflamação",
+"Via do AMPc e da PKA"
 ],
 "e": "A esclerostina do osteócito freia a formação óssea bloqueando a via Wnt."
 },
@@ -169,9 +169,9 @@
 "q": "O osteoblasto ativo tem citoplasma basofílico porque possui:",
 "o": [
 "Muito retículo rugoso para sintetizar colágeno",
-"Muitos lisossomos",
-"Muitos núcleos",
-"Muito glicogênio"
+"Muitos lisossomos com catepsina K",
+"Muitos núcleos resultantes de fusão",
+"Muito glicogênio para a mineralização"
 ],
 "e": "É uma célula secretora de proteína."
 },
@@ -191,9 +191,9 @@
 "q": "Os osteócitos se comunicam entre si por:",
 "o": [
 "Prolongamentos em canalículos com junções comunicantes",
-"Vasos linfáticos",
-"Sinapses químicas",
-"Fibras nervosas"
+"Vasos linfáticos que atravessam toda a matriz",
+"Sinapses químicas mediadas por acetilcolina",
+"Fibras nervosas sensitivas vindas do periósteo"
 ],
 "e": "A rede permite troca de sinais e de cálcio."
 },
@@ -202,9 +202,9 @@
 "q": "Na mecanotransdução, o estímulo percebido pelo osteócito é principalmente:",
 "o": [
 "Fluxo de líquido nos canalículos",
-"Variação da glicemia",
-"Concentração de PTH",
-"Temperatura do osso"
+"Variação da glicemia no líquido ósseo",
+"Concentração de PTH no plasma",
+"Temperatura local do osso cortical"
 ],
 "e": "A carga move o líquido e gera cisalhamento na membrana."
 },
@@ -246,9 +246,9 @@
 "q": "Fraturas por estresse em cavalos de corrida ocorrem porque:",
 "o": [
 "Microdanos superam a capacidade de reparo",
-"O cálcio da dieta é excessivo",
-"Os osteoclastos estão ausentes",
-"A carga é insuficiente"
+"O cálcio da dieta é excessivo para o potro",
+"Os osteoclastos estão ausentes na diáfise",
+"A carga do treino é insuficiente para o osso"
 ],
 "e": "O treino intenso gera microfissuras mais rápido que a remodelação."
 },
@@ -257,9 +257,9 @@
 "q": "Quando um osteócito morre perto de uma microfissura, ele:",
 "o": [
 "Sinaliza aos vizinhos para expressarem RANKL",
-"Vira osteoblasto novamente",
-"Produz mais OPG",
-"Calcifica a fissura sozinho"
+"Volta a funcionar como osteoblasto",
+"Produz mais OPG e bloqueia a reabsorção",
+"Calcifica sozinho a fissura vizinha"
 ],
 "e": "Os osteoclastos são guiados ao local danificado."
 },
@@ -279,9 +279,9 @@
 "q": "No início da remodelação, as células de revestimento:",
 "o": [
 "Retraem-se e removem a camada não mineralizada",
-"Formam osteoide novo",
-"Fundem-se em osteoclastos",
-"Produzem calcitonina"
+"Formam osteoide novo sobre a superfície",
+"Fundem-se para formar osteoclastos",
+"Produzem calcitonina para o osteoclasto"
 ],
 "e": "O osteoclasto só adere ao osso mineralizado."
 },
@@ -323,9 +323,9 @@
 "q": "Qual enzima do osteoclasto produz o H+ para dissolver o mineral?",
 "o": [
 "Anidrase carbônica II",
-"Fosfatase alcalina",
-"Lisil oxidase",
-"Glutaminase"
+"Fosfatase alcalina da membrana",
+"Lisil oxidase dependente de cobre",
+"Glutaminase mitocondrial do rim"
 ],
 "e": "O H+ é bombeado pela H+-ATPase na borda pregueada."
 },
@@ -345,9 +345,9 @@
 "q": "A zona de vedação do osteoclasto serve para:",
 "o": [
 "Isolar o compartimento ácido",
-"Fixar o osteoblasto",
-"Permitir a entrada de vasos",
-"Produzir osteoide"
+"Fixar o osteoblasto à matriz mineral",
+"Permitir a entrada de vasos sanguíneos",
+"Produzir osteoide sob a célula"
 ],
 "e": "Integrinas prendem a célula à matriz, criando um compartimento fechado."
 },
@@ -356,9 +356,9 @@
 "q": "Qual marcador é típico do osteoclasto?",
 "o": [
 "Fosfatase ácida resistente ao tartarato",
-"Fosfatase alcalina",
-"Osteocalcina",
-"Colágeno tipo I"
+"Fosfatase alcalina da membrana",
+"Osteocalcina carboxilada",
+"Colágeno tipo I maduro"
 ],
 "e": "A TRAP é usada para identificar osteoclastos em cortes."
 },
@@ -389,9 +389,9 @@
 "q": "Qual combinação aumenta a razão RANKL/OPG?",
 "o": [
 "PTH contínuo e citocinas inflamatórias",
-"Estrógeno e carga mecânica",
-"Bisfosfonato e calcitonina",
-"OPG recombinante e exercício"
+"Estrógeno e carga mecânica regular",
+"Bisfosfonato associado à calcitonina",
+"OPG recombinante e exercício físico"
 ],
 "e": "PTH, calcitriol, glicocorticoides e IL-1/IL-6/TNF aumentam a razão."
 },
@@ -400,9 +400,9 @@
 "q": "A destruição do osso alveolar na periodontite canina é mediada por:",
 "o": [
 "RANKL e citocinas das células inflamatórias",
-"Excesso de osteoprotegerina",
-"Deficiência de calcitonina",
-"Excesso de vitamina K"
+"Excesso de osteoprotegerina na gengiva",
+"Deficiência de calcitonina na tireoide",
+"Excesso de vitamina K na saliva"
 ],
 "e": "Bactérias e inflamação ativam osteoclastos."
 },
@@ -433,9 +433,9 @@
 "q": "O enxerto de osso esponjoso autógeno é eficaz porque fornece:",
 "o": [
 "Células osteogênicas, matriz e BMP",
-"Apenas cálcio e fósforo",
-"Somente colágeno inerte",
-"Células hematopoéticas apenas"
+"Apenas cálcio e fósforo para mineralizar",
+"Somente colágeno inerte como suporte",
+"Células hematopoéticas e plaquetas apenas"
 ],
 "e": "É osteogênico, osteocondutor e osteoindutor."
 }

@@ -224,9 +224,9 @@
 "q": "A via do chiquimato, que forma os aminoácidos aromáticos, existe em:",
 "o": [
 "Plantas e micro-organismos",
-"Fígado de mamíferos",
-"Rim de aves",
-"Músculo de carnívoros"
+"Fígado e rim de mamíferos adultos",
+"Rim e glândula de sal das aves",
+"Músculo e tecido adiposo de carnívoros"
 ],
 "e": "Por isso fenilalanina e triptofano são essenciais; a via é alvo do herbicida glifosato."
 },
@@ -279,9 +279,9 @@
 "q": "Por que o gato desenvolve hiperamonemia após uma refeição sem arginina?",
 "o": [
 "Falta ornitina para o ciclo da ureia",
-"Falta a enzima arginase hepática",
-"O rim deixa de filtrar a ureia",
-"A glutamina sintetase fica inibida"
+"Falta a enzima arginase no fígado do gato",
+"O rim do gato deixa de filtrar a ureia formada",
+"A glutamina sintetase cerebral fica inibida"
 ],
 "e": "O gato quase não produz ornitina/citrulina no intestino; sem arginina dietética, o ciclo trava por falta de substrato."
 },
@@ -312,9 +312,9 @@
 "q": "Além da síntese limitada, o gato precisa de taurina na dieta porque:",
 "o": [
 "Conjuga ácidos biliares só com taurina",
-"Usa taurina para formar ureia",
-"Excreta taurina como ácido úrico",
-"Converte taurina em niacina"
+"Usa a taurina como precursor da ureia hepática",
+"Excreta a taurina na forma de ácido úrico",
+"Converte toda a taurina em niacina no fígado"
 ],
 "e": "A perda fecal contínua de sais biliares conjugados com taurina aumenta a necessidade."
 },
@@ -334,9 +334,9 @@
 "q": "O principal fator que limita a síntese de proteína microbiana no rúmen costuma ser:",
 "o": [
 "A energia fermentável disponível",
-"A quantidade de água ingerida",
-"A concentração de oxigênio",
-"O pH do abomaso"
+"A quantidade de água ingerida pelo animal",
+"A concentração de oxigênio dissolvido no rúmen",
+"O pH do abomaso e a secreção de pepsina"
 ],
 "e": "Sem ATP e esqueletos de carbono, a amônia sobra e é convertida em ureia no fígado."
 },
@@ -345,9 +345,9 @@
 "q": "Ao usar ureia na dieta de bovinos, recomenda-se suplementar enxofre porque ele é necessário para:",
 "o": [
 "Síntese microbiana de metionina e cisteína",
-"Hidrólise da ureia pela urease",
-"Absorção da amônia pelo rúmen",
-"Ativar a carbamoil fosfato sintetase"
+"Hidrólise da ureia pela urease bacteriana",
+"Absorção da amônia através da parede ruminal",
+"Ativar a carbamoil fosfato sintetase hepática"
 ],
 "e": "As bactérias usam sulfato/sulfeto para os aminoácidos sulfurados; meta de N:S perto de 10–12:1."
 },
@@ -367,9 +367,9 @@
 "q": "Por que o equino aproveita pouco a proteína microbiana do intestino grosso?",
 "o": [
 "A fermentação ocorre depois do intestino delgado",
-"O ceco não contém bactérias proteolíticas",
-"A proteína microbiana é rica em ureia",
-"O cólon absorve aminoácidos melhor que o jejuno"
+"O ceco equino não contém bactérias proteolíticas",
+"A proteína microbiana do cólon é rica em ureia",
+"O cólon digere a proteína melhor que o jejuno, mas não a absorve"
 ],
 "e": "Ceco e cólon ficam após o local de digestão e absorção de proteínas."
 },

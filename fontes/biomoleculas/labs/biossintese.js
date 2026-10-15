@@ -12,7 +12,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
   const draw=k=>{clear(s);const F=fam[k];
     const L=(a,b,dash)=>E('line',{x1:nodes[a][0],y1:nodes[a][1],x2:nodes[b][0],y2:nodes[b][1],stroke:'var(--line)','stroke-width':3,'stroke-dasharray':dash||null},s);
     L('gli','pg');L('pg','pep');L('pep','pir');L('pir','aco');L('aco','akg');L('akg','oaa');L('oaa','aco');L('gli','e4p','6 6');
-    T(s,400,315,'Krebs',{fs:18,fill:'var(--muted)'});
+    T(s,470,345,'Krebs',{fs:18,fill:'var(--muted)'});
     for(const id in nodes){const [x,y,t]=nodes[id],on=F.n.includes(id);
       E('rect',{x:x-82,y:y-18,width:164,height:36,rx:18,fill:on?'var(--hema)':'var(--panel)',stroke:on?'var(--hema)':'var(--line)','stroke-width':2},s);
       T(s,x,y+6,t,{fs:18,fill:on?'var(--paper)':'var(--ink)'})}

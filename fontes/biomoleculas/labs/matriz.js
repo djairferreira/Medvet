@@ -13,7 +13,7 @@ const {$,$$,reduce,press,E,T,clear,shuffle,stepper,choices}=window.BIO;
   const depth=[0,0,70,70,40,0][i],fill=[0,0,0,0,30,0][i];
   const path=`M0,${Y} L200,${Y} Q300,${Y+2*depth} 400,${Y} L600,${Y} L600,300 L0,300 Z`;
   E('path',{d:path,fill:'var(--bone-2)',stroke:'var(--line)','stroke-width':2},s);
-  T(s,520,285,'Osso mineralizado',{fs:18,fill:'var(--ink)'});
+  T(s,585,288,'Osso mineralizado',{a:'end',fs:18,fill:'var(--ink)'});
   if(i===4){E('path',{d:`M200,${Y} Q300,${Y+2*depth} 400,${Y} Z`,fill:'var(--amber-soft, var(--amber))',opacity:.6},s);T(s,300,Y+30,'osteoide',{fs:18})}
   /* osteócitos */
   [[90,230],[480,220],[300,265]].forEach(([x,y])=>{E('ellipse',{cx:x,cy:y,rx:14,ry:8,fill:'var(--sky)'},s);

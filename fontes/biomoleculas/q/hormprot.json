@@ -26,9 +26,9 @@
 "q": "A insulina favorece o anabolismo proteico porque:",
 "o": [
 "Aumenta a captação de aminoácidos e a síntese",
-"Estimula a proteólise no proteassomo",
-"Induz as enzimas do ciclo da ureia",
-"Inibe a captação de aminoácidos pelo músculo"
+"Estimula a proteólise muscular no proteassomo",
+"Induz as cinco enzimas do ciclo da ureia",
+"Inibe a captação de aminoácidos pelo músculo esquelético"
 ],
 "e": "Age também via mTOR e reduz a proteólise."
 },
@@ -37,9 +37,9 @@
 "q": "O gato hipertireóideo emagrece apesar da polifagia porque:",
 "o": [
 "O turnover acelera com predomínio da degradação",
-"A tireoide destrói as proteínas da dieta",
-"Os hormônios tireoidianos bloqueiam a digestão",
-"O fígado deixa de produzir albumina"
+"A tireoide passa a destruir as proteínas da dieta",
+"Os hormônios tireoidianos bloqueiam a digestão proteica",
+"O fígado deixa de produzir albumina e transferrina"
 ],
 "e": "O excesso de T3/T4 acelera o catabolismo proteico."
 },
@@ -114,9 +114,9 @@
 "q": "O efeito direto do GH sobre o metabolismo energético inclui:",
 "o": [
 "Lipólise e efeito anti-insulina",
-"Lipogênese e hipoglicemia",
-"Glicogênese e cetogênese",
-"Proteólise e ureagênese"
+"Lipogênese hepática e hipoglicemia",
+"Glicogênese muscular e cetogênese",
+"Proteólise muscular e ureagênese"
 ],
 "e": "O GH poupa proteína e glicose estimulando a queima de gordura; é diabetogênico."
 },
@@ -158,9 +158,9 @@
 "q": "A somatotropina bovina recombinante (bST) aumenta a produção de leite porque:",
 "o": [
 "Direciona nutrientes para a glândula mamária",
-"Aumenta a secreção de insulina pós-prandial",
-"Reduz a lipólise do tecido adiposo",
-"Aumenta a síntese de ureia hepática"
+"Aumenta a secreção de insulina após as refeições",
+"Reduz a lipólise do tecido adiposo da vaca",
+"Aumenta a síntese de ureia no fígado bovino"
 ],
 "e": "O GH desvia glicose, aminoácidos e ácidos graxos para a síntese de leite."
 },
@@ -169,9 +169,9 @@
 "q": "No fígado, o cortisol:",
 "o": [
 "Aumenta a síntese de enzimas e proteínas de fase aguda",
-"Reduz a gliconeogênese e a ureagênese",
-"Inibe a captação de aminoácidos",
-"Bloqueia a síntese de glicose-6-fosfatase"
+"Reduz a gliconeogênese e a ureagênese hepáticas",
+"Inibe a captação de aminoácidos pelos hepatócitos",
+"Bloqueia a síntese de glicose-6-fosfatase e PEPCK"
 ],
 "e": "No fígado o cortisol é anabólico; no músculo, catabólico."
 },
@@ -191,9 +191,9 @@
 "q": "No Cushing equino (PPID), espera-se:",
 "o": [
 "Perda muscular na linha dorsal e pelos longos",
-"Ganho de massa e pelagem curta",
-"Hipoglicemia e bradicardia",
-"Hipocalcemia e tetania"
+"Ganho de massa muscular e pelagem curta e rala",
+"Hipoglicemia persistente com bradicardia",
+"Hipocalcemia com tetania e sudorese"
 ],
 "e": "A disfunção da pars intermedia causa perda muscular, hirsutismo e laminite."
 },
@@ -202,9 +202,9 @@
 "q": "O glucagon age sobre o metabolismo proteico principalmente:",
 "o": [
 "Aumentando a captação hepática de aminoácidos",
-"Estimulando a síntese proteica no músculo",
-"Reduzindo a produção de ureia",
-"Inibindo a gliconeogênese hepática"
+"Estimulando a síntese proteica no músculo esquelético",
+"Reduzindo a produção hepática de ureia",
+"Inibindo a gliconeogênese no fígado"
 ],
 "e": "Mais aminoácidos no fígado para gliconeogênese e ureagênese."
 },
@@ -213,9 +213,9 @@
 "q": "Por que o glucagon também sobe após uma refeição muito proteica?",
 "o": [
 "Evita hipoglicemia pela insulina estimulada",
-"Bloqueia a absorção dos aminoácidos",
-"Estimula a síntese de glicogênio",
-"Reduz a excreção de nitrogênio"
+"Bloqueia a absorção intestinal dos aminoácidos",
+"Estimula a síntese de glicogênio muscular",
+"Reduz a excreção urinária de nitrogênio"
 ],
 "e": "Aminoácidos estimulam insulina e glucagon; o glucagon mantém a glicemia."
 },
@@ -235,9 +235,9 @@
 "q": "O gato hipertireóideo pode ter creatinina falsamente baixa porque:",
 "o": [
 "Perde massa muscular e aumenta a filtração",
-"Retém creatinina no músculo",
-"Converte creatinina em ureia",
-"Excreta creatinina pelas fezes"
+"Retém creatinina dentro do músculo hipertrofiado",
+"Converte a creatinina em ureia no fígado",
+"Excreta grande parte da creatinina pelas fezes"
 ],
 "e": "Os dois efeitos mascaram doença renal crônica, que aparece após o tratamento."
 },
@@ -257,9 +257,9 @@
 "q": "A testosterona aumenta a massa muscular principalmente ao:",
 "o": [
 "Ligar-se a receptor nuclear e ativar transcrição",
-"Abrir canais de cálcio na membrana",
-"Aumentar o AMPc via receptor β",
-"Ativar o proteassomo muscular"
+"Abrir canais de cálcio da membrana plasmática",
+"Aumentar o AMPc ao se ligar a receptor β",
+"Ativar o proteassomo e as calpaínas musculares"
 ],
 "e": "O receptor de andrógeno aumenta a síntese de proteínas contráteis e ativa células satélites."
 },
@@ -312,9 +312,9 @@
 "q": "No tecido adiposo, a ractopamina:",
 "o": [
 "Estimula a lipólise e inibe a lipogênese",
-"Estimula a lipogênese e o marmoreio",
-"Bloqueia a ação do glucagon",
-"Aumenta a captação de glicose"
+"Estimula a lipogênese e aumenta o marmoreio",
+"Bloqueia a ação do glucagon nos adipócitos",
+"Aumenta a captação de glicose pelo GLUT4"
 ],
 "e": "Por isso é um repartidor de nutrientes: mais carne magra e menos gordura."
 },
@@ -345,9 +345,9 @@
 "q": "Um efeito indesejado de β-agonistas em suínos, sobretudo no calor, é:",
 "o": [
 "Mais animais com dificuldade de locomoção",
-"Redução da massa muscular",
+"Redução acentuada da massa muscular",
 "Aumento da espessura de toucinho",
-"Hipoglicemia grave no abate"
+"Hipoglicemia grave no momento do abate"
 ],
 "e": "Agitação, taquicardia e animais caídos no transporte foram descritos."
 },
@@ -356,9 +356,9 @@
 "q": "Na doença grave, a perda muscular é maior que no jejum simples porque:",
 "o": [
 "Citocinas impedem a adaptação poupadora de proteína",
-"A insulina fica muito alta",
-"O cortisol cai abaixo do normal",
-"Os corpos cetônicos estimulam a proteólise"
+"A insulina fica muito alta e bloqueia a lipólise",
+"O cortisol cai abaixo do normal durante a doença",
+"Os corpos cetônicos estimulam diretamente a proteólise"
 ],
 "e": "No jejum adaptado a proteólise diminui; na sepse ela continua alta."
 },
