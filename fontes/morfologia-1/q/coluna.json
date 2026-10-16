@@ -1,0 +1,563 @@
+[
+ {
+  "c": "coluna",
+  "q": "O dente (processo odontoide) pertence:",
+  "o": [
+   "Ao áxis",
+   "Ao atlas",
+   "À primeira torácica",
+   "Ao sacro"
+  ],
+  "e": "O atlas tem a fóvea do dente."
+ },
+ {
+  "c": "coluna",
+  "q": "Forame alar e forame vertebral lateral são típicos:",
+  "o": [
+   "Do atlas",
+   "Do áxis",
+   "Das lombares",
+   "Do sacro"
+  ],
+  "e": "C1."
+ },
+ {
+  "c": "coluna",
+  "q": "Fóveas costais cranial e caudal no corpo vertebral identificam vértebras:",
+  "o": [
+   "Torácicas",
+   "Cervicais",
+   "Lombares",
+   "Caudais"
+  ],
+  "e": "Articulam com a cabeça da costela."
+ },
+ {
+  "c": "coluna",
+  "q": "Processos transversos longos e achatados são marca das vértebras:",
+  "o": [
+   "Lombares",
+   "Torácicas",
+   "Cervicais",
+   "Caudais"
+  ],
+  "e": "Parecem asas."
+ },
+ {
+  "c": "coluna",
+  "q": "O tubérculo da costela se articula com:",
+  "o": [
+   "O processo transverso da vértebra torácica",
+   "O corpo da vértebra torácica correspondente",
+   "A borda lateral do esterno",
+   "O processo espinhoso da vértebra torácica"
+  ],
+  "e": "A cabeça vai no corpo (fóveas costais)."
+ },
+ {
+  "c": "coluna",
+  "q": "As três partes do esterno, de cranial para caudal:",
+  "o": [
+   "Manúbrio, corpo, processo xifoide",
+   "Corpo, manúbrio, processo xifoide",
+   "Processo xifoide, corpo, manúbrio",
+   "Manúbrio, processo xifoide, corpo"
+  ],
+  "e": "Formado por esternebras."
+ },
+ {
+  "c": "coluna",
+  "q": "O atlas dos ruminantes NÃO tem:",
+  "o": [
+   "Forame transverso",
+   "Forame alar",
+   "Forame vertebral lateral",
+   "Asas"
+  ],
+  "e": "O processo transverso típico está ausente."
+ },
+ {
+  "c": "coluna",
+  "q": "No cão, no lugar do forame alar do atlas existe a:",
+  "o": [
+   "Incisura alar",
+   "Fóvea do dente",
+   "Fossa do atlas",
+   "Crista ventral"
+  ],
+  "e": "Um entalhe aberto na borda da asa."
+ },
+ {
+  "c": "coluna",
+  "q": "O forame intervertebral é formado por:",
+  "o": [
+   "Incisuras vertebrais de duas vértebras vizinhas",
+   "O forame transverso das vértebras cervicais",
+   "O canal sacral, entre as vértebras sacrais",
+   "O espaço interarcual entre dois arcos vizinhos"
+  ],
+  "e": "Por ele sai o nervo espinhal."
+ },
+ {
+  "c": "coluna",
+  "q": "O processo mamilar aparece nas vértebras:",
+  "o": [
+   "Torácicas caudais e lombares",
+   "Cervicais craniais e médias",
+   "Sacrais, sobre a crista mediana",
+   "Caudais finais, sem arco vertebral"
+  ],
+  "e": "Fica sobre o processo articular cranial."
+ },
+ {
+  "c": "coluna",
+  "q": "A 7ª vértebra cervical geralmente:",
+  "o": [
+   "Não tem forame transverso e tem fóvea costal caudal",
+   "Tem dente que se projeta cranialmente no forame do atlas",
+   "Tem forame alar na base da asa, como o atlas",
+   "Não tem processo espinhoso nem arco dorsal completo"
+  ],
+  "e": "A fóvea recebe a cabeça da 1ª costela."
+ },
+ {
+  "c": "coluna",
+  "q": "No cão, a vértebra anticlinal (processo espinhoso vertical) costuma ser a:",
+  "o": [
+   "T11",
+   "C7",
+   "L1",
+   "T1"
+  ],
+  "e": "Referência na radiografia da coluna."
+ },
+ {
+  "c": "coluna",
+  "q": "A crista sacral mediana é formada pela fusão dos:",
+  "o": [
+   "Processos espinhosos",
+   "Processos transversos",
+   "Processos articulares",
+   "Corpos vertebrais"
+  ],
+  "e": "Intermédia = articulares; lateral = transversos."
+ },
+ {
+  "c": "coluna",
+  "q": "Processos hemais aparecem nas:",
+  "o": [
+   "Primeiras vértebras caudais de ruminantes e carnívoros",
+   "Últimas vértebras cervicais do equino e do suíno doméstico",
+   "Vértebras lombares do suíno e do bovino adulto",
+   "Vértebras torácicas caudais do cão e do gato doméstico"
+  ],
+  "e": "Protegem os vasos coccígeos medianos."
+ },
+ {
+  "c": "coluna",
+  "q": "A anestesia epidural no cão é feita no espaço:",
+  "o": [
+   "Lombossacro",
+   "Atlanto-occipital",
+   "Entre T13 e L1",
+   "Intercostal"
+  ],
+  "e": "Espaço interarcual entre L7 e o sacro."
+ },
+ {
+  "c": "coluna",
+  "q": "Costelas asternais são as que:",
+  "o": [
+   "Unem sua cartilagem à da costela anterior (arco costal)",
+   "Se articulam diretamente com o esterno por sua cartilagem",
+   "Não têm cartilagem costal em nenhuma fase da vida",
+   "Se articulam com o sacro, fechando a cavidade pélvica"
+  ],
+  "e": "As costelas asternais unem sua cartilagem à da costela anterior, formando o arco costal; as esternais tocam o esterno; as flutuantes não se ligam a nada."
+ },
+ {
+  "c": "coluna",
+  "q": "O equino tem quantos pares de costelas esternais?",
+  "o": [
+   "8",
+   "10",
+   "13",
+   "18"
+  ],
+  "e": "18 pares no total: 8 esternais e 10 asternais."
+ },
+ {
+  "c": "coluna",
+  "q": "O sulco costal fica:",
+  "o": [
+   "Na borda caudal do corpo da costela",
+   "Na cabeça da costela, junto à vértebra",
+   "No tubérculo, junto ao processo transverso",
+   "Na cartilagem costal, junto ao esterno"
+  ],
+  "e": "Por ele passam os vasos e nervos intercostais."
+ },
+ {
+  "c": "coluna",
+  "q": "Articulações sinoviais entre os processos transversos das últimas lombares são exclusivas do:",
+  "o": [
+   "Equino",
+   "Cão",
+   "Bovino",
+   "Suíno"
+  ],
+  "e": "Articulações intertransversais, também com a asa do sacro."
+ },
+ {
+  "c": "coluna",
+  "q": "O atlas se articula cranialmente com:",
+  "o": [
+   "Os côndilos do occipital",
+   "O dente do áxis",
+   "A bula timpânica",
+   "O processo jugular"
+  ],
+  "e": "Caudalmente, com o áxis."
+ },
+ {
+  "c": "coluna",
+  "q": "O cão tem quantas esternébras?",
+  "o": [
+   "8",
+   "5",
+   "7",
+   "13"
+  ],
+  "e": "Cilíndricas, unidas por cartilagem."
+ },
+ {
+  "c": "coluna",
+  "q": "O canal vertebral, que aloja a medula espinhal, é formado:",
+  "o": [
+   "Pela sequência dos forames vertebrais de todas as vértebras",
+   "Pela soma dos forames intervertebrais de cada lado",
+   "Pela união dos forames transversos das vértebras cervicais",
+   "Pelos espaços interarcuais entre todas as vértebras vizinhas"
+  ],
+  "e": "Cada vértebra tem um forame vertebral; alinhados em sequência, eles formam o canal vertebral."
+ },
+ {
+  "c": "coluna",
+  "q": "O arco vertebral é composto por duas partes. Qual delas fecha o teto do forame vertebral?",
+  "o": [
+   "Lâmina",
+   "Pedículo",
+   "Crista ventral",
+   "Processo mamilar"
+  ],
+  "e": "O pedículo sai do corpo de cada lado e a lâmina completa dorsalmente o arco, fechando o teto do forame vertebral."
+ },
+ {
+  "c": "coluna",
+  "q": "No corpo de uma vértebra típica, a extremidade cranial convexa e a extremidade caudal côncava são chamadas, respectivamente, de:",
+  "o": [
+   "Cabeça e fossa da vértebra",
+   "Fóvea costal cranial e caudal",
+   "Incisura vertebral cranial e caudal",
+   "Processo articular cranial e caudal"
+  ],
+  "e": "O corpo tem cabeça (cranial, convexa) e fossa (caudal, côncava); a cabeça de uma vértebra encaixa na fossa da anterior."
+ },
+ {
+  "c": "coluna",
+  "q": "O forame transverso das vértebras cervicais dá passagem principalmente à:",
+  "o": [
+   "Artéria vertebral",
+   "Medula espinhal",
+   "Artéria coccígea mediana",
+   "Veia jugular externa"
+  ],
+  "e": "Os forames transversos, na base dos processos transversos das cervicais (de C1 a C6; ausente no atlas dos ruminantes e geralmente em C7), formam um canal por onde passa a artéria vertebral."
+ },
+ {
+  "c": "coluna",
+  "q": "No equino, a altura do animal é medida na cernelha, que é formada principalmente:",
+  "o": [
+   "Pelos processos espinhosos das primeiras vértebras torácicas",
+   "Pelos processos transversos das últimas vértebras cervicais",
+   "Pela crista sacral mediana e pelas tuberosidades do coxal",
+   "Pelo processo espinhoso alto e longo do áxis"
+  ],
+  "e": "Os processos espinhosos mais altos da coluna, nas primeiras torácicas (cerca de T3 a T8), formam a cernelha, ponto de medida da altura do cavalo."
+ },
+ {
+  "c": "coluna",
+  "q": "O movimento de “sim” (flexão e extensão) da cabeça ocorre principalmente na articulação:",
+  "o": [
+   "Atlanto-occipital",
+   "Atlantoaxial",
+   "Entre C2 e C3",
+   "Temporomandibular"
+  ],
+  "e": "A articulação entre os côndilos occipitais e as fóveas articulares craniais do atlas permite flexão e extensão da cabeça."
+ },
+ {
+  "c": "coluna",
+  "q": "A articulação atlantoaxial, responsável pelo movimento de “não”, é classificada como:",
+  "o": [
+   "Trocóide",
+   "Gínglimo",
+   "Esferoide",
+   "Plana"
+  ],
+  "e": "O dente do áxis gira dentro do anel do atlas, caracterizando uma articulação trocóide (pivô), que permite rotação."
+ },
+ {
+  "c": "coluna",
+  "q": "Em qual espécie o atlas apresenta os três forames completos (vertebral lateral, alar e transverso)?",
+  "o": [
+   "Equino",
+   "Bovino",
+   "Cão",
+   "Gato"
+  ],
+  "e": "O equino tem os três forames completos; ruminantes não têm forame transverso e carnívoros têm incisura alar no lugar do forame alar."
+ },
+ {
+  "c": "coluna",
+  "q": "A fóvea do dente, onde se encaixa o dente do áxis, localiza-se:",
+  "o": [
+   "Na face dorsal do arco ventral do atlas",
+   "Na face ventral do arco dorsal do atlas",
+   "Na face ventral da asa do atlas",
+   "No corpo da terceira vértebra cervical"
+  ],
+  "e": "A fóvea do dente fica na face dorsal (interna) do arco ventral do atlas, onde o dente do áxis se apoia e gira."
+ },
+ {
+  "c": "coluna",
+  "q": "A fossa do atlas, depressão usada como referência na peça, está situada:",
+  "o": [
+   "Na face ventral da asa",
+   "Na face dorsal do arco dorsal",
+   "No interior do arco ventral",
+   "Na borda caudal do tubérculo dorsal"
+  ],
+  "e": "A fossa do atlas é a escavação na face ventral de cada asa do atlas."
+ },
+ {
+  "c": "coluna",
+  "q": "Uma vértebra cervical com uma lâmina ventral larga projetada a partir do processo transverso deve ser identificada como:",
+  "o": [
+   "C6",
+   "C3",
+   "Áxis",
+   "Atlas"
+  ],
+  "e": "A sexta cervical tem o processo transverso com uma lâmina ventral larga, característica que a identifica."
+ },
+ {
+  "c": "coluna",
+  "q": "Qual vértebra torácica não apresenta o par de fóveas costais caudais?",
+  "o": [
+   "A última torácica",
+   "A primeira torácica",
+   "A vértebra anticlinal",
+   "Todas as torácicas craniais à cernelha"
+  ],
+  "e": "Como não há costela depois dela, a última torácica não tem fóvea costal caudal."
+ },
+ {
+  "c": "coluna",
+  "q": "O promontório sacral, marco usado na medida do diâmetro da pelve, corresponde à:",
+  "o": [
+   "Borda cranioventral do corpo da primeira vértebra sacral",
+   "Extremidade caudal da crista sacral mediana do sacro",
+   "Face auricular da asa do sacro, junto ao ílio",
+   "Borda dorsal do primeiro forame sacral dorsal"
+  ],
+  "e": "O promontório é a borda cranioventral do corpo de S1, referência para o diâmetro conjugado da pelve."
+ },
+ {
+  "c": "coluna",
+  "q": "A crista sacral intermédia resulta da fusão dos:",
+  "o": [
+   "Processos articulares",
+   "Processos espinhosos",
+   "Processos transversos",
+   "Processos hemais"
+  ],
+  "e": "No sacro, os espinhosos fundidos formam a crista mediana, os articulares a intermédia e os transversos a lateral."
+ },
+ {
+  "c": "coluna",
+  "q": "Pelos forames sacrais ventrais emergem:",
+  "o": [
+   "Os ramos ventrais dos nervos sacrais",
+   "Os ramos dorsais dos nervos sacrais",
+   "As artérias vertebrais",
+   "Os ramos dos nervos lombares"
+  ],
+  "e": "Pelos forames sacrais dorsais saem os ramos dorsais e pelos ventrais os ramos ventrais dos nervos sacrais."
+ },
+ {
+  "c": "coluna",
+  "q": "A face auricular do sacro participa de qual articulação?",
+  "o": [
+   "Sacroilíaca",
+   "Lombossacra",
+   "Sacrocaudal",
+   "Coxofemoral"
+  ],
+  "e": "A face auricular, na asa do sacro, articula-se com a face auricular do ílio, formando a articulação sacroilíaca."
+ },
+ {
+  "c": "coluna",
+  "q": "Na coleta de sangue da veia coccígea mediana em bovinos, a punção é feita:",
+  "o": [
+   "Na face ventral da cauda, entre os processos hemais",
+   "Na face dorsal da cauda, entre os processos espinhosos",
+   "Na face lateral da cauda, entre os processos transversos",
+   "No espaço interarcual lombossacro"
+  ],
+  "e": "Os processos hemais, na face ventral das primeiras caudais, protegem a artéria e a veia coccígeas medianas, local da coleta."
+ },
+ {
+  "c": "coluna",
+  "q": "Ao examinar as últimas vértebras caudais, o que se observa?",
+  "o": [
+   "São cilindros sem forame vertebral",
+   "Possuem processos hemais bem desenvolvidos",
+   "Têm processos transversos longos em forma de asa",
+   "Apresentam fóveas costais vestigiais"
+  ],
+  "e": "As vértebras caudais perdem progressivamente arco e processos; as últimas são bastões cilíndricos, sem forame vertebral."
+ },
+ {
+  "c": "coluna",
+  "q": "Na cabeça da costela, as duas faces articulares são separadas pela:",
+  "o": [
+   "Crista da cabeça",
+   "Crista do colo",
+   "Linha do ângulo",
+   "Junção costocondral"
+  ],
+  "e": "A cabeça da costela tem duas faces articulares, uma para cada vértebra vizinha, separadas pela crista da cabeça."
+ },
+ {
+  "c": "coluna",
+  "q": "O ângulo da costela corresponde:",
+  "o": [
+   "Ao ponto de maior curvatura, logo após o tubérculo",
+   "À união entre a parte óssea e a cartilagem costal",
+   "À região estreita entre a cabeça e o tubérculo",
+   "À extremidade ventral da cartilagem costal"
+  ],
+  "e": "O ângulo da costela é o ponto de maior curvatura, situado distalmente ao tubérculo."
+ },
+ {
+  "c": "coluna",
+  "q": "A união entre a parte óssea da costela e a cartilagem costal é denominada:",
+  "o": [
+   "Junção costocondral",
+   "Arco costal",
+   "Incisura costal",
+   "Sincondrose esternal"
+  ],
+  "e": "A parte óssea e a cartilagem costal se unem na junção costocondral."
+ },
+ {
+  "c": "coluna",
+  "q": "Quantos pares de costelas asternais possui o bovino?",
+  "o": [
+   "5",
+   "4",
+   "8",
+   "10"
+  ],
+  "e": "O bovino tem 13 pares de costelas: 8 esternais e 5 asternais."
+ },
+ {
+  "c": "coluna",
+  "q": "No cão, quantos pares de costelas são esternais (verdadeiras)?",
+  "o": [
+   "9",
+   "8",
+   "7",
+   "13"
+  ],
+  "e": "Cão e gato têm 13 pares, dos quais 9 são esternais e 4 asternais; o último par costuma ser flutuante."
+ },
+ {
+  "c": "coluna",
+  "q": "O arco costal é formado:",
+  "o": [
+   "Pela união das cartilagens das costelas asternais",
+   "Pelas cartilagens das costelas esternais no esterno",
+   "Pelos ângulos das costelas ao longo do tórax",
+   "Pelos tubérculos costais nos processos transversos"
+  ],
+  "e": "As cartilagens das costelas asternais se unem à cartilagem da costela anterior, formando o arco costal."
+ },
+ {
+  "c": "coluna",
+  "q": "Um esqueleto de equino apresenta 18 pares de costelas. Quantas vértebras torácicas ele possui?",
+  "o": [
+   "18",
+   "13",
+   "17",
+   "14"
+  ],
+  "e": "O número de pares de costelas corresponde ao número de vértebras torácicas; no equino, 18."
+ },
+ {
+  "c": "coluna",
+  "q": "O esterno em forma de “quilha de barco”, com crista ventral cartilaginosa alta, é típico do:",
+  "o": [
+   "Equino",
+   "Cão",
+   "Bovino",
+   "Gato"
+  ],
+  "e": "No equino, o esterno é comprimido lateralmente e tem uma alta crista ventral cartilaginosa, lembrando uma quilha."
+ },
+ {
+  "c": "coluna",
+  "q": "As esternébras são unidas entre si por:",
+  "o": [
+   "Sincondroses esternais",
+   "Suturas serradas",
+   "Articulações sinoviais planas",
+   "Sindesmoses"
+  ],
+  "e": "Os segmentos do esterno (esternébras) são unidos por cartilagem, formando as sincondroses esternais."
+ },
+ {
+  "c": "coluna",
+  "q": "Na margem lateral do esterno, as cartilagens das costelas esternais articulam-se nas:",
+  "o": [
+   "Incisuras costais",
+   "Fóveas costais",
+   "Faces auriculares",
+   "Incisuras vertebrais"
+  ],
+  "e": "As incisuras costais, nas margens do esterno, recebem as cartilagens das costelas esternais."
+ },
+ {
+  "c": "coluna",
+  "q": "Nas vértebras lombares, a extensão dos processos transversos ao longo da região:",
+  "o": [
+   "Aumenta até a 3ª ou 4ª lombar e depois diminui",
+   "É idêntica em todas as lombares",
+   "Diminui progressivamente da 1ª à última",
+   "Aumenta progressivamente até a última lombar"
+  ],
+  "e": "Os processos transversos lombares crescem até a 3ª ou 4ª vértebra e depois diminuem."
+ },
+ {
+  "c": "coluna",
+  "q": "O suíno possui quantos pares de costelas?",
+  "o": [
+   "14 a 15",
+   "13",
+   "18",
+   "12"
+  ],
+  "e": "O suíno tem 14 a 15 pares de costelas, com 7 esternais e 7 a 8 asternais."
+ }
+]

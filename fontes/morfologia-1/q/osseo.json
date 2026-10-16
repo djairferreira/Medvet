@@ -1,0 +1,596 @@
+[
+ {
+  "c": "osseo",
+  "q": "Qual célula sintetiza a parte orgânica da matriz óssea (osteoide)?",
+  "o": [
+   "Osteoblasto",
+   "Osteócito",
+   "Osteoclasto",
+   "Condrócito"
+  ],
+  "e": "Colágeno tipo I, proteoglicanas e glicoproteínas. Fica na superfície, como epitélio simples."
+ },
+ {
+  "c": "osseo",
+  "q": "Célula gigante, multinucleada, dentro da lacuna de Howship:",
+  "o": [
+   "Osteoclasto",
+   "Osteoblasto",
+   "Osteócito",
+   "Célula osteoprogenitora"
+  ],
+  "e": "6 a 50 núcleos; reabsorve a matriz."
+ },
+ {
+  "c": "osseo",
+  "q": "O osteoclasto se origina de:",
+  "o": [
+   "Monócitos do sangue",
+   "Células osteoprogenitoras",
+   "Condroblastos",
+   "Osteócitos"
+  ],
+  "e": "Fusão de monócitos. Por isso não é da mesma linhagem do osteoblasto."
+ },
+ {
+  "c": "osseo",
+  "q": "A função do osteócito é:",
+  "o": [
+   "Manutenção da matriz óssea",
+   "Reabsorver o osso",
+   "Produzir calcitonina",
+   "Defesa imunológica"
+  ],
+  "e": "Preso na lacuna, comunica-se pelos canalículos e mantém a matriz."
+ },
+ {
+  "c": "osseo",
+  "q": "O principal componente inorgânico da matriz óssea é:",
+  "o": [
+   "Hidroxiapatita",
+   "Colágeno tipo I",
+   "Proteoglicanos",
+   "Condroitina"
+  ],
+  "e": "Cristais de fosfato de cálcio [Ca₁₀(PO₄)₆(OH)₂], com bicarbonato, citrato, Mg, Na, K."
+ },
+ {
+  "c": "osseo",
+  "q": "A rigidez do osso é dada principalmente:",
+  "o": [
+   "Pela fase mineral (inorgânica)",
+   "Pelo colágeno tipo I da matriz",
+   "Pelo periósteo que envolve o osso",
+   "Pela medula óssea da cavidade"
+  ],
+  "e": "Mineral = rigidez; colágeno = elasticidade."
+ },
+ {
+  "c": "osseo",
+  "q": "Os canais que correm ao longo do eixo do osso, no centro dos ósteons, são:",
+  "o": [
+   "Canais de Havers",
+   "Canais de Volkmann",
+   "Canalículos",
+   "Lacunas de Howship"
+  ],
+  "e": "Volkmann são transversais (perfurantes) e ligam os de Havers."
+ },
+ {
+  "c": "osseo",
+  "q": "O periósteo e o endósteo são, respectivamente, tecido conjuntivo:",
+  "o": [
+   "Denso e frouxo",
+   "Frouxo e denso",
+   "Denso e denso",
+   "Cartilaginoso e frouxo"
+  ],
+  "e": "Periósteo = TCD; endósteo = TC frouxo."
+ },
+ {
+  "c": "osseo",
+  "q": "Os ossos chatos do crânio se formam por ossificação:",
+  "o": [
+   "Intramembranosa",
+   "Endocondral",
+   "Sincondral",
+   "Pericondral"
+  ],
+  "e": "Frontal, parietal, parte do occipital, maxila e mandíbula."
+ },
+ {
+  "c": "osseo",
+  "q": "O crescimento do osso longo em comprimento acontece:",
+  "o": [
+   "No disco epifisário, por ossificação endocondral",
+   "No periósteo, por ossificação intramembranosa",
+   "No canal medular",
+   "Nos canais de Volkmann"
+  ],
+  "e": "A placa de cartilagem hialina entre epífise e diáfise."
+ },
+ {
+  "c": "osseo",
+  "q": "No disco epifisário, a zona em que os condrócitos aumentam muito de volume é a:",
+  "o": [
+   "Hipertrófica",
+   "Seriada",
+   "De repouso",
+   "De ossificação"
+  ],
+  "e": "Repouso → seriada → hipertrófica → calcificada → ossificação."
+ },
+ {
+  "c": "osseo",
+  "q": "Sobre o tecido ósseo primário, é correto:",
+  "o": [
+   "Aparece na reparação de fraturas e é temporário",
+   "Tem lamelas concêntricas em sistemas de Havers",
+   "É mais mineralizado que o secundário",
+   "Tem menos osteócitos que o secundário"
+  ],
+  "e": "Fibras desorganizadas, pouco mineral, mais osteócitos; depois é substituído pelo secundário."
+ },
+ {
+  "c": "osseo",
+  "q": "Primeiro evento após uma fratura:",
+  "o": [
+   "Formação de hematoma e inflamação",
+   "Formação imediata do calo ósseo",
+   "Remodelação das extremidades ósseas",
+   "Deposição de osso lamelar novo"
+  ],
+  "e": "Hematoma (tampão) → calo → osso novo → remodelação."
+ },
+ {
+  "c": "osseo",
+  "q": "Na osteoporose:",
+  "o": [
+   "A atividade dos osteoclastos supera a dos osteoblastos",
+   "A atividade dos osteoblastos supera a dos osteoclastos",
+   "Os osteócitos se multiplicam",
+   "O periósteo deixa de existir"
+  ],
+  "e": "Reabsorve-se mais do que se forma."
+ },
+ {
+  "c": "osseo",
+  "q": "As células osteoprogenitoras:",
+  "o": [
+   "São achatadas e se dividem originando osteoblastos",
+   "São multinucleadas e reabsorvem a matriz óssea",
+   "Ficam presas em lacunas dentro da matriz calcificada",
+   "Produzem paratormônio quando o cálcio sanguíneo cai"
+  ],
+  "e": "Reserva de células ósseas, no periósteo e endósteo."
+ },
+ {
+  "c": "osseo",
+  "q": "Um osso descalcificado em laboratório:",
+  "o": [
+   "Fica flexível, mas mantém a forma",
+   "Fica quebradiço e esfarela",
+   "Perde o colágeno",
+   "Ganha hidroxiapatita"
+  ],
+  "e": "Sem mineral, sobra o colágeno: flexível."
+ },
+ {
+  "c": "osseo",
+  "q": "Na remodelação, a fase em que os osteoclastos saem e os osteoblastos chegam à cavidade é a:",
+  "o": [
+   "Reversão",
+   "Reabsorção",
+   "Formação",
+   "Repouso"
+  ],
+  "e": "Repouso → reabsorção → reversão → formação."
+ },
+ {
+  "c": "osseo",
+  "q": "O primeiro evento da ossificação endocondral no molde de cartilagem é:",
+  "o": [
+   "Condrócitos do centro hipertrofiam e a cartilagem calcifica",
+   "Surgem os centros secundários de ossificação nas epífises",
+   "Forma-se a linha epifisária entre a epífise e a diáfise",
+   "Aparece a medula amarela na cavidade medular primitiva"
+  ],
+  "e": "Logo depois forma-se o colar ósseo e os vasos invadem (centro primário)."
+ },
+ {
+  "c": "osseo",
+  "q": "Os centros secundários de ossificação aparecem nas:",
+  "o": [
+   "Epífises",
+   "Diáfises",
+   "Cavidades medulares",
+   "Membranas sinoviais"
+  ],
+  "e": "O centro primário é diafisário."
+ },
+ {
+  "c": "osseo",
+  "q": "Na radiografia de um filhote, uma faixa escura entre epífise e diáfise geralmente é:",
+  "o": [
+   "O disco epifisário, um achado normal",
+   "Uma fratura transversal da metáfise",
+   "Uma área de osteoporose localizada",
+   "Um canal de Havers anormalmente dilatado"
+  ],
+  "e": "Conhecer a anatomia evita confundir o disco de crescimento com fratura."
+ },
+ {
+  "c": "osseo",
+  "q": "Quando o crescimento termina, o disco epifisário se transforma em:",
+  "o": [
+   "Linha epifisária",
+   "Cartilagem articular",
+   "Canal medular",
+   "Periósteo"
+  ],
+  "e": "A cartilagem é substituída por osso e sobra só uma linha."
+ },
+ {
+  "c": "osseo",
+  "q": "O osteoide é:",
+  "o": [
+   "Matriz óssea recém-formada, ainda não mineralizada",
+   "Matriz óssea já calcificada, rica em hidroxiapatita",
+   "Uma célula gigante multinucleada que reabsorve osso",
+   "O tecido adiposo que forma a medula amarela"
+  ],
+  "e": "Fica entre os osteoblastos e a matriz mineralizada."
+ },
+ {
+  "c": "osseo",
+  "q": "Com um aparelho ortodôntico, o dente se desloca porque, no osso alveolar:",
+  "o": [
+   "Do lado da pressão há reabsorção e do lado da tensão há formação óssea",
+   "Do lado da pressão há formação e do lado da tensão há reabsorção",
+   "Os dois lados sofrem apenas reabsorção",
+   "O osso não se altera; apenas o ligamento periodontal se alonga"
+  ],
+  "e": "Pressão ativa osteoclastos (reabsorção) e tensão ativa osteoblastos (formação): é a remodelação conforme a carga."
+ },
+ {
+  "c": "osseo",
+  "q": "Na classificação dos tecidos conjuntivos, o tecido ósseo é considerado:",
+  "o": [
+   "Tecido conjuntivo especial",
+   "Tecido conjuntivo propriamente dito denso modelado",
+   "Tecido conjuntivo propriamente dito frouxo",
+   "Tecido epitelial de revestimento modificado"
+  ],
+  "e": "Ósseo, cartilaginoso, adiposo e sanguíneo são tecidos conjuntivos especiais; periósteo e tendões são conjuntivo denso."
+ },
+ {
+  "c": "osseo",
+  "q": "O aspecto de um osteoblasto ativo, na superfície de uma trabécula, é de:",
+  "o": [
+   "Célula cúbica enfileirada, lembrando um epitélio simples",
+   "Célula gigante com vários núcleos dentro de uma escavação",
+   "Célula achatada isolada dentro de uma lacuna na matriz",
+   "Célula arredondada em grupos isógenos"
+  ],
+  "e": "Osteoblastos ativos são cúbicos e alinhados na superfície óssea; quando inativos, tornam-se achatados."
+ },
+ {
+  "c": "osseo",
+  "q": "Os osteócitos comunicam-se entre si e com a superfície óssea por meio de:",
+  "o": [
+   "Prolongamentos citoplasmáticos dentro de canalículos",
+   "Canais de Volkmann que atravessam transversalmente as lamelas",
+   "Lacunas de Howship abertas diretamente para a medula",
+   "Fibras de Sharpey ancoradas na camada fibrosa do periósteo"
+  ],
+  "e": "Cada osteócito ocupa uma lacuna e emite prolongamentos que correm em canalículos, onde fazem junções com os vizinhos."
+ },
+ {
+  "c": "osseo",
+  "q": "Quanto ao número de núcleos, o osteoclasto é uma célula que pode apresentar:",
+  "o": [
+   "De 6 a 50 núcleos",
+   "Um único núcleo excêntrico",
+   "Exatamente dois núcleos",
+   "De 100 a 200 núcleos"
+  ],
+  "e": "O osteoclasto é gigante e multinucleado (6 a 50 núcleos) por resultar da fusão de monócitos."
+ },
+ {
+  "c": "osseo",
+  "q": "Em HE, como se diferenciam osteoclastos jovens e maduros, segundo a coloração?",
+  "o": [
+   "Jovens coram mais pela eosina; maduros, pela hematoxilina",
+   "Jovens coram mais pela hematoxilina; maduros, pela eosina",
+   "Ambos são sempre fortemente basófilos",
+   "Nenhum cora em HE, exigindo impregnação pela prata"
+  ],
+  "e": "Os osteoclastos jovens são mais acidófilos (rosa) e os maduros mais basófilos (roxo)."
+ },
+ {
+  "c": "osseo",
+  "q": "Na lâmina, uma célula localizada profundamente na matriz, dentro de uma lacuna, deve ser identificada como:",
+  "o": [
+   "Osteócito",
+   "Osteoblasto",
+   "Osteoclasto",
+   "Célula osteoprogenitora"
+  ],
+  "e": "Osteócitos ficam aprisionados na matriz; osteoblastos e osteoclastos ficam na superfície."
+ },
+ {
+  "c": "osseo",
+  "q": "Cerca de 95% da matriz orgânica do osso corresponde a:",
+  "o": [
+   "Colágeno tipo I",
+   "Colágeno tipo II",
+   "Fibras elásticas",
+   "Osteocalcina"
+  ],
+  "e": "A matriz orgânica é quase toda colágeno tipo I; osteocalcina, osteopontina e osteonectina são proteínas não colagenosas minoritárias."
+ },
+ {
+  "c": "osseo",
+  "q": "Qual destas é uma proteína NÃO colagenosa da matriz óssea?",
+  "o": [
+   "Osteonectina",
+   "Colágeno tipo I",
+   "Hidroxiapatita",
+   "Elastina"
+  ],
+  "e": "Osteocalcina, osteopontina, osteonectina e sialoproteína são as proteínas não colagenosas; hidroxiapatita é mineral."
+ },
+ {
+  "c": "osseo",
+  "q": "Qual afirmativa sobre as frações da matriz óssea está correta?",
+  "o": [
+   "A inorgânica predomina e dá rigidez; a orgânica, elasticidade",
+   "A orgânica predomina (≈ 65–70%) e é a responsável pela rigidez",
+   "As duas frações estão em proporções iguais e se equilibram",
+   "A orgânica dá rigidez e a inorgânica dá flexibilidade ao osso"
+  ],
+  "e": "A fração inorgânica (≈ 65–70%, hidroxiapatita) é maioria e confere dureza; a orgânica (colágeno) confere elasticidade."
+ },
+ {
+  "c": "osseo",
+  "q": "Além de cálcio e fosfato, são íons associados à hidroxiapatita na matriz óssea:",
+  "o": [
+   "Bicarbonato, citrato, magnésio, sódio e potássio",
+   "Ferro, cobre e zinco ligados ao colágeno tipo I",
+   "Cloreto e iodo provenientes dos hormônios da tireoide",
+   "Apenas fluoreto, sem nenhum outro íon associado"
+  ],
+  "e": "A fase mineral contém íons associados como bicarbonato, citrato, magnésio, sódio e potássio."
+ },
+ {
+  "c": "osseo",
+  "q": "Sobre as camadas do periósteo, é correto afirmar:",
+  "o": [
+   "A externa é fibrosa e a interna é celular (osteogênica)",
+   "A externa é osteogênica e a interna é fibrosa",
+   "Tem uma única camada de células osteoprogenitoras",
+   "É formado por conjuntivo frouxo sem fibras colágenas"
+  ],
+  "e": "Externamente o periósteo é fibroso; internamente, junto ao osso, ficam as osteoprogenitoras e osteoblastos."
+ },
+ {
+  "c": "osseo",
+  "q": "O periósteo reveste a superfície externa do osso, EXCETO:",
+  "o": [
+   "Nas superfícies articulares",
+   "Na diáfise dos ossos longos",
+   "Nos pontos de inserção muscular",
+   "Nos ossos planos do crânio"
+  ],
+  "e": "As superfícies articulares são cobertas por cartilagem articular, sem periósteo."
+ },
+ {
+  "c": "osseo",
+  "q": "As fibras de Sharpey são:",
+  "o": [
+   "Fibras colágenas do periósteo que penetram na matriz óssea",
+   "Prolongamentos dos osteócitos que correm nos canalículos",
+   "Feixes nervosos que correm dentro dos canais de Havers",
+   "Fibras elásticas do endósteo que revestem a cavidade medular"
+  ],
+  "e": "Fibras de Sharpey são feixes colágenos do periósteo que penetram na matriz e fixam o periósteo (e as inserções musculares e tendíneas) ao osso."
+ },
+ {
+  "c": "osseo",
+  "q": "No adulto, o tecido ósseo primário (não lamelar) persiste principalmente em:",
+  "o": [
+   "Suturas do crânio, alvéolos dentários e algumas inserções de tendões",
+   "Diáfises dos ossos longos, sobretudo na camada subperiosteal",
+   "Todo o osso compacto, inclusive nos sistemas de Havers",
+   "Trabéculas do osso esponjoso das vértebras e das costelas"
+  ],
+  "e": "O osso primário é temporário, mas persiste no adulto em suturas, alvéolos dentários e algumas inserções tendíneas."
+ },
+ {
+  "c": "osseo",
+  "q": "Comparado ao osso secundário, o osso primário apresenta:",
+  "o": [
+   "Mais osteócitos e menos mineral",
+   "Menos osteócitos e mais mineral",
+   "Lamelas concêntricas bem organizadas",
+   "Ausência total de osteócitos"
+  ],
+  "e": "O osso primário tem fibras desorganizadas, é menos mineralizado e proporcionalmente mais rico em osteócitos."
+ },
+ {
+  "c": "osseo",
+  "q": "Os canais de Volkmann diferem dos canais de Havers por:",
+  "o": [
+   "Correrem transversalmente, ligando os canais de Havers entre si",
+   "Correrem paralelos ao eixo do osso, no centro dos ósteons",
+   "Não conterem vasos sanguíneos, apenas fibras nervosas",
+   "Serem envolvidos por lamelas concêntricas próprias e espessas"
+  ],
+  "e": "Havers é longitudinal e central no ósteon; Volkmann é transversal e perfurante, ligando os canais de Havers entre si, ao periósteo e à medula."
+ },
+ {
+  "c": "osseo",
+  "q": "A substância cimentante que une os ósteons é descrita como:",
+  "o": [
+   "Matriz mineralizada pobre em colágeno",
+   "Cartilagem hialina residual",
+   "Tecido conjuntivo frouxo vascularizado",
+   "Matriz rica em fibras elásticas"
+  ],
+  "e": "As linhas cimentantes são matriz mineralizada com pouco colágeno, delimitando cada ósteon."
+ },
+ {
+  "c": "osseo",
+  "q": "Qual destes ossos se forma por ossificação endocondral?",
+  "o": [
+   "Vértebra",
+   "Parietal",
+   "Frontal",
+   "Mandíbula"
+  ],
+  "e": "Vértebras, pelve, base do crânio e ossos dos membros formam-se sobre molde de cartilagem hialina; frontal, parietal e mandíbula são intramembranosos."
+ },
+ {
+  "c": "osseo",
+  "q": "O crescimento de um osso longo em espessura (diâmetro) ocorre por:",
+  "o": [
+   "Ossificação intramembranosa a partir do periósteo",
+   "Ossificação endocondral no disco epifisário",
+   "Proliferação dos condrócitos da cartilagem articular",
+   "Mitose dos osteócitos dentro das lacunas"
+  ],
+  "e": "O aumento em espessura é aposicional, por osteoblastos do periósteo (tipo intramembranoso); o comprimento depende do disco epifisário."
+ },
+ {
+  "c": "osseo",
+  "q": "Na ossificação intramembranosa, a sequência correta é:",
+  "o": [
+   "Mesênquima → osteoblastos secretam osteoide → mineralização",
+   "Condrócitos hipertrofiam → vasos invadem → centro de ossificação",
+   "Osteoclastos escavam → osteoblastos preenchem → repouso",
+   "Osteócitos se dividem → formam osteoblastos → formam mesênquima"
+  ],
+  "e": "No molde conjuntivo, as células mesenquimais viram osteoblastos, que secretam osteoide; este calcifica e aprisiona os osteoblastos, agora osteócitos."
+ },
+ {
+  "c": "osseo",
+  "q": "Na ossificação endocondral, as células osteoprogenitoras chegam à cartilagem calcificada do centro da diáfise trazidas por:",
+  "o": [
+   "Vasos sanguíneos vindos do periósteo",
+   "Difusão a partir do líquido sinovial",
+   "Condrócitos que se desdiferenciam",
+   "Canais de Volkmann já existentes na cartilagem"
+  ],
+  "e": "Vasos periosteais invadem a cartilagem calcificada e trazem as osteoprogenitoras que formam o centro primário."
+ },
+ {
+  "c": "osseo",
+  "q": "No coxal de um suíno jovem, os centros de ossificação primários do ílio, ísquio e púbis se fundem em qual região?",
+  "o": [
+   "Acetábulo",
+   "Sínfise pélvica",
+   "Tuberosidade isquiática",
+   "Asa do ílio"
+  ],
+  "e": "Os três ossos do coxal convergem e se fundem no acetábulo; a tuberosidade isquiática tem centro secundário próprio."
+ },
+ {
+  "c": "osseo",
+  "q": "Filhote com fratura que atravessa o disco epifisário do rádio distal. A principal preocupação anatômica é:",
+  "o": [
+   "Interrupção do crescimento em comprimento daquele osso",
+   "Perda da medula óssea amarela de toda a diáfise",
+   "Necrose imediata da cartilagem articular adjacente",
+   "Impossibilidade de formar calo ósseo no local da lesão"
+  ],
+  "e": "Fraturas fisárias lesam a placa de crescimento e podem encerrar precocemente o crescimento longitudinal, gerando encurtamento ou desvio."
+ },
+ {
+  "c": "osseo",
+  "q": "No disco epifisário, a zona em que os condrócitos se organizam em pilhas (colunas) é a:",
+  "o": [
+   "Zona seriada (de proliferação)",
+   "Zona de repouso (de reserva)",
+   "Zona de hipertrofia celular",
+   "Zona de ossificação (de invasão vascular)"
+  ],
+  "e": "Na zona seriada os condrócitos se dividem e se empilham; em seguida hipertrofiam, a matriz calcifica e ocorre a ossificação."
+ },
+ {
+  "c": "osseo",
+  "q": "Em que zona do disco epifisário os condrócitos morrem, deixando espaço para a invasão vascular?",
+  "o": [
+   "Zona de cartilagem calcificada",
+   "Zona de repouso",
+   "Zona seriada",
+   "Zona de proliferação periosteal"
+  ],
+  "e": "Após a hipertrofia, a matriz calcifica, os condrócitos morrem e os osteoblastos depositam osso sobre os restos calcificados."
+ },
+ {
+  "c": "osseo",
+  "q": "Por que a suplementação de cálcio sem orientação em filhotes de raças grandes é desaconselhada?",
+  "o": [
+   "O excesso de cálcio perturba a ossificação endocondral e causa deformidades",
+   "O cálcio extra inibe a formação de colágeno tipo I e torna o osso flexível",
+   "O excesso de cálcio converte a medula vermelha em amarela nos ossos longos",
+   "O cálcio suplementar impede a formação de osteoclastos e causa osteoporose"
+  ],
+  "e": "Excesso de cálcio na dieta de filhotes de raças grandes interfere na ossificação endocondral no disco epifisário e leva a deformidades de crescimento."
+ },
+ {
+  "c": "osseo",
+  "q": "No calo ósseo formado após uma fratura, a estabilidade temporária inicial é dada por tecido produzido por:",
+  "o": [
+   "Fibroblastos e condroblastos",
+   "Osteoclastos e macrófagos",
+   "Megacariócitos e plaquetas",
+   "Adipócitos da medula amarela"
+  ],
+  "e": "Fibroblastos (colágeno) e condroblastos (cartilagem) formam o calo, que depois é substituído por osso primário."
+ },
+ {
+  "c": "osseo",
+  "q": "Na consolidação de uma fratura, os osteoblastos que formam o osso novo vêm principalmente:",
+  "o": [
+   "Do periósteo",
+   "Da cartilagem articular",
+   "Do líquido sinovial",
+   "Dos osteócitos da matriz"
+  ],
+  "e": "A camada osteogênica do periósteo é a principal fonte de osteoblastos para o reparo, por isso preservá-lo é importante na cirurgia."
+ },
+ {
+  "c": "osseo",
+  "q": "Qual a sequência correta do reparo de uma fratura?",
+  "o": [
+   "Hematoma → calo → osso primário → remodelação",
+   "Calo → hematoma → remodelação → osso primário",
+   "Osso secundário → calo → hematoma → osso primário",
+   "Remodelação → inflamação → calo → hematoma"
+  ],
+  "e": "Primeiro o coágulo (hematoma) e a inflamação; depois o calo; então osso primário; por fim a remodelação o substitui por osso secundário (lamelar)."
+ },
+ {
+  "c": "osseo",
+  "q": "Em que momento do reparo de fratura os osteoclastos têm papel de destaque?",
+  "o": [
+   "Na remodelação, reabsorvendo o excesso do calo",
+   "Na fase inflamatória, fagocitando o hematoma",
+   "Na formação do calo cartilaginoso",
+   "Na produção do osteoide do osso novo"
+  ],
+  "e": "Na fase inflamatória os detritos são removidos por macrófagos; os osteoclastos atuam depois, remodelando o calo."
+ },
+ {
+  "c": "osseo",
+  "q": "Na lâmina de medula óssea, células grandes e “vazias” (sem conteúdo corado) entre as células hematopoéticas correspondem a:",
+  "o": [
+   "Adipócitos",
+   "Osteoclastos",
+   "Megacariócitos",
+   "Condrócitos hipertróficos"
+  ],
+  "e": "A gordura é dissolvida no processamento, deixando os adipócitos como espaços claros; os megacariócitos são grandes, mas têm citoplasma corado e núcleo lobulado."
+ }
+]

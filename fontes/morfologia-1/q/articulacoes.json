@@ -1,0 +1,530 @@
+[
+ {
+  "c": "articulacoes",
+  "q": "A sutura interfrontal é do tipo:",
+  "o": [
+   "Serrada",
+   "Plana",
+   "Escamosa",
+   "Gonfose"
+  ],
+  "e": "Bordas denteadas. Internasal = plana; frontolacrimal = escamosa."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A sutura frontolacrimal, com bordas encaixadas em bisel, é:",
+  "o": [
+   "Escamosa",
+   "Serrada",
+   "Plana",
+   "Sindesmose"
+  ],
+  "e": "Escamosa = bisel."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A união entre a raiz do dente e o alvéolo é uma:",
+  "o": [
+   "Gonfose",
+   "Sindesmose",
+   "Sincondrose",
+   "Sínfise"
+  ],
+  "e": "Fibrosa; não é articulação verdadeira porque o dente não é parte do esqueleto."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A sínfise pélvica é uma articulação:",
+  "o": [
+   "Cartilaginosa, com cartilagem fibrosa",
+   "Fibrosa do tipo sutura",
+   "Sinovial plana",
+   "Cartilaginosa, com cartilagem hialina"
+  ],
+  "e": "Sínfise = fibrocartilagem; sincondrose = hialina."
+ },
+ {
+  "c": "articulacoes",
+  "q": "O disco epifisário, visto como articulação, é uma:",
+  "o": [
+   "Sincondrose",
+   "Sínfise",
+   "Sindesmose",
+   "Diartrose"
+  ],
+  "e": "Temporária, cartilagem hialina."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Quem produz o líquido sinovial?",
+  "o": [
+   "A membrana sinovial (camada interna da cápsula)",
+   "A camada fibrosa (externa) da cápsula articular",
+   "A cartilagem articular que recobre os ossos",
+   "Os meniscos fibrocartilaginosos da articulação"
+  ],
+  "e": "É um dialisado do plasma."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Ligamentos unem:",
+  "o": [
+   "Osso a osso",
+   "Músculo a osso",
+   "Músculo a músculo",
+   "Cartilagem a músculo"
+  ],
+  "e": "Tendão une músculo a osso."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A articulação atlantoaxial é do tipo:",
+  "o": [
+   "Trocóide (pivô)",
+   "Gínglimo",
+   "Esferóide",
+   "Plana"
+  ],
+  "e": "A articulação do “NÃO”."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A articulação coxofemoral é:",
+  "o": [
+   "Esferóide e triaxial",
+   "Gínglimo e monoaxial",
+   "Plana e biaxial",
+   "Trocóide e monoaxial"
+  ],
+  "e": "Bola e soquete: maior amplitude."
+ },
+ {
+  "c": "articulacoes",
+  "q": "O cotovelo é exemplo de:",
+  "o": [
+   "Gínglimo (dobradiça)",
+   "Trocóide (pivô)",
+   "Esferóide (bola e soquete)",
+   "Artródia (plana)"
+  ],
+  "e": "Flexão e extensão."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A estabilidade craniocaudal do joelho é dada pelos ligamentos:",
+  "o": [
+   "Cruzados",
+   "Colaterais",
+   "Patelares",
+   "Meniscotibiais"
+  ],
+  "e": "Colaterais dão a estabilidade lateral."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Afastar a extremidade do plano mediano é:",
+  "o": [
+   "Abdução",
+   "Adução",
+   "Flexão",
+   "Extensão"
+  ],
+  "e": "Adução aproxima."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A ATM é citada como exemplo de articulação:",
+  "o": [
+   "Biaxial",
+   "Monoaxial",
+   "Triaxial",
+   "Fibrosa"
+  ],
+  "e": "Flexão, extensão, adução e abdução."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Diminuir o ângulo entre dois ossos é:",
+  "o": [
+   "Flexão",
+   "Extensão",
+   "Abdução",
+   "Rotação"
+  ],
+  "e": "Extensão aumenta o ângulo."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A articulação atlanto-occipital faz o movimento do:",
+  "o": [
+   "“Sim” (flexão e extensão da cabeça)",
+   "“Não” (rotação da cabeça)",
+   "Circundução completa da cabeça sobre o atlas",
+   "Deslizamento lateral da cabeça"
+  ],
+  "e": "O “não” é da atlantoaxial (trocóide)."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A união entre rádio e ulna por ligamento interósseo é uma:",
+  "o": [
+   "Sindesmose",
+   "Sutura",
+   "Gonfose",
+   "Sincondrose"
+  ],
+  "e": "Ossos à distância unidos por ligamento ou membrana."
+ },
+ {
+  "c": "articulacoes",
+  "q": "As articulações entre os ossos do carpo são do tipo:",
+  "o": [
+   "Plana (artródia)",
+   "Gínglimo",
+   "Trocóide",
+   "Esferóide"
+  ],
+  "e": "Superfícies planas que deslizam."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A camada externa da cápsula articular é formada por:",
+  "o": [
+   "Tecido fibroso",
+   "Membrana sinovial",
+   "Cartilagem hialina",
+   "Tecido adiposo"
+  ],
+  "e": "A interna é a membrana sinovial, que produz o líquido."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A classificação fisiológica das articulações baseia-se em:",
+  "o": [
+   "Grau de movimento permitido",
+   "Natureza histológica do meio de união",
+   "Forma das faces articulares",
+   "Modo de desenvolvimento embrionário"
+  ],
+  "e": "Fisiologicamente, as articulações são imóveis, ligeiramente móveis ou livremente móveis; os demais critérios são anatômicos."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Uma anfiartrose é caracterizada por:",
+  "o": [
+   "União por cartilagem, com movimento discreto em balanço",
+   "União por tecido fibroso, sem nenhum movimento",
+   "Cavidade com líquido sinovial e movimento amplo",
+   "União apenas por músculos e fáscias, sem contato entre ossos"
+  ],
+  "e": "Anfiartroses (cartilaginosas) permitem só um pequeno balanço; sinartroses são fibrosas e diartroses são sinoviais."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A sutura internasal, de bordas retas colocadas lado a lado, é classificada como:",
+  "o": [
+   "Sutura plana",
+   "Sutura serrada",
+   "Sutura escamosa",
+   "Sindesmose"
+  ],
+  "e": "A sutura plana tem bordas retas justapostas, como entre os ossos nasais."
+ },
+ {
+  "c": "articulacoes",
+  "q": "O que diferencia uma sindesmose de uma sutura?",
+  "o": [
+   "Na sindesmose os ossos ficam à distância, unidos por ligamentos ou membranas",
+   "Na sindesmose os ossos são unidos por fibrocartilagem",
+   "Na sindesmose existe cavidade articular",
+   "Na sindesmose os ossos ficam muito próximos, com pouco tecido fibroso"
+  ],
+  "e": "Na sutura há pouco tecido fibroso entre ossos próximos; na sindesmose, muito tecido conjuntivo une ossos afastados."
+ },
+ {
+  "c": "articulacoes",
+  "q": "No equino, a união entre o metacarpo principal (III) e os metacarpos rudimentares é exemplo de:",
+  "o": [
+   "Sindesmose",
+   "Sínfise",
+   "Gonfose",
+   "Articulação sinovial plana"
+  ],
+  "e": "Um ligamento interósseo une o metacarpo principal aos metacarpos rudimentares (II e IV), caracterizando uma sindesmose, que tende a ossificar com a idade."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Por que a gonfose não é considerada uma articulação verdadeira?",
+  "o": [
+   "Porque os dentes não fazem parte do esqueleto",
+   "Porque não contém tecido fibroso",
+   "Porque permite movimentos amplos",
+   "Porque é formada por cartilagem hialina"
+  ],
+  "e": "A gonfose une a raiz do dente ao alvéolo, mas o dente não é osso do esqueleto."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Sincondroses e sínfises diferem quanto:",
+  "o": [
+   "Ao tipo de cartilagem: hialina na sincondrose e fibrosa na sínfise",
+   "Ao tipo de tecido fibroso: elástico na sincondrose e colágeno na sínfise",
+   "À presença de cavidade sinovial na sínfise",
+   "Ao número de eixos de movimento"
+  ],
+  "e": "As articulações cartilaginosas se classificam pela histologia: sincondrose (hialina) e sínfise (fibrocartilagem)."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Por que a sincondrose é considerada uma articulação temporária?",
+  "o": [
+   "Porque sua cartilagem hialina é substituída por osso quando cessa o crescimento",
+   "Porque se transforma em articulação sinovial no adulto",
+   "Porque a fibrocartilagem é reabsorvida pelos osteoclastos ao nascimento",
+   "Porque o ligamento interósseo se rompe com a idade"
+  ],
+  "e": "Sincondroses como o disco epifisário e as da base do crânio ossificam antes da idade adulta."
+ },
+ {
+  "c": "articulacoes",
+  "q": "As uniões cartilaginosas da base do crânio, que ossificam com o fim do crescimento, são:",
+  "o": [
+   "Sincondroses",
+   "Sínfises",
+   "Suturas serradas",
+   "Gonfoses"
+  ],
+  "e": "As sincondroses da base do crânio usam cartilagem hialina temporária, como o disco epifisário."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A união entre os corpos de duas vértebras pelo disco intervertebral classifica-se como:",
+  "o": [
+   "Sínfise",
+   "Sincondrose",
+   "Sindesmose",
+   "Gínglimo"
+  ],
+  "e": "O disco intervertebral é fibrocartilagem, e articulações por fibrocartilagem são sínfises."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A sínfise mandibular, que persiste no adulto em carnívoros e ruminantes, é uma articulação:",
+  "o": [
+   "Cartilaginosa por fibrocartilagem",
+   "Sinovial do tipo gínglimo",
+   "Fibrosa do tipo gonfose",
+   "Cartilaginosa por cartilagem elástica"
+  ],
+  "e": "A sínfise mandibular, como a pélvica e a intervertebral, é uma sínfise (fibrocartilagem)."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A sínfise pélvica é composta por:",
+  "o": [
+   "Sínfise púbica e sínfise isquiática",
+   "Articulações sacroilíacas direita e esquerda",
+   "Sínfise púbica e acetábulo",
+   "Sincondroses entre ílio, ísquio e púbis"
+  ],
+  "e": "A união dos púbis e dos ísquios na linha média forma, em conjunto, a sínfise pélvica."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Qual é a função principal da cartilagem articular numa articulação sinovial?",
+  "o": [
+   "Reduzir o atrito e absorver impactos entre as superfícies",
+   "Produzir o líquido sinovial que lubrifica a articulação",
+   "Unir firmemente um osso ao outro, como um ligamento",
+   "Fixar o tendão do músculo ao osso subjacente"
+  ],
+  "e": "A cartilagem hialina articular é lisa e deformável: diminui o atrito e amortece cargas."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A punção do líquido sinovial (artrocentese) é feita com finalidade:",
+  "o": [
+   "Diagnóstica, pois o líquido reflete o estado da articulação",
+   "De retirar fragmentos de cartilagem articular para biópsia",
+   "De medir a densidade óssea da epífise adjacente à cápsula",
+   "De avaliar a função da tireoide pelo iodo do líquido"
+  ],
+  "e": "A artrocentese é diagnóstica: o líquido sinovial normal é transparente e viscoso; alterações de cor, viscosidade e celularidade indicam doença articular."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Os meniscos do joelho são estruturas:",
+  "o": [
+   "Fibrocartilaginosas em C que ajustam o fêmur à tíbia",
+   "Ósseas sesamoides que alteram a direção do tendão do quadríceps",
+   "Hialinas que recobrem as superfícies articulares do fêmur e da tíbia",
+   "Ligamentares que unem a patela à tuberosidade da tíbia"
+  ],
+  "e": "Os meniscos medial e lateral são fibrocartilagens em forma de C que ajustam os côndilos do fêmur à tíbia, aumentando a congruência entre eles."
+ },
+ {
+  "c": "articulacoes",
+  "q": "O nome anatômico completo da articulação do joelho é:",
+  "o": [
+   "Femorotibiopatelar",
+   "Tibiotarsal",
+   "Coxofemoral",
+   "Umerorradioulnar"
+  ],
+  "e": "O joelho reúne as articulações femorotibial e femoropatelar: articulação femorotibiopatelar."
+ },
+ {
+  "c": "articulacoes",
+  "q": "O chamado “ligamento patelar” é, a rigor, a continuação de qual estrutura?",
+  "o": [
+   "Do tendão do músculo quadríceps femoral após a patela",
+   "Do ligamento colateral medial do joelho",
+   "Do ligamento cruzado caudal da articulação femorotibial",
+   "Do menisco lateral, que se prolonga até a tíbia"
+  ],
+  "e": "A patela é sesamoide no tendão do quadríceps; o segmento entre patela e tuberosidade da tíbia é a continuação desse tendão."
+ },
+ {
+  "c": "articulacoes",
+  "q": "O ligamento patelar fixa a patela em qual estrutura?",
+  "o": [
+   "Tuberosidade da tíbia",
+   "Cabeça da fíbula",
+   "Côndilo medial do fêmur",
+   "Trocânter maior"
+  ],
+  "e": "O ligamento patelar liga a patela à tuberosidade da tíbia, transmitindo a força do quadríceps para a extensão do joelho."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Os ligamentos colaterais do joelho garantem principalmente a estabilidade:",
+  "o": [
+   "Lateral (no sentido lateromedial)",
+   "Craniocaudal",
+   "Rotacional apenas",
+   "Da patela no sulco troclear"
+  ],
+  "e": "Os colaterais lateral e medial impedem desvios laterais; os cruzados estabilizam no sentido craniocaudal."
+ },
+ {
+  "c": "articulacoes",
+  "q": "No teste de gaveta de um cão com ruptura do ligamento cruzado cranial, o achado esperado é:",
+  "o": [
+   "Deslocamento cranial anormal da tíbia em relação ao fêmur",
+   "Deslocamento lateral anormal da patela para fora da tróclea femoral",
+   "Aumento do ângulo de flexão da articulação do quadril",
+   "Rotação da cabeça do fêmur dentro do acetábulo"
+  ],
+  "e": "O cruzado cranial impede o avanço cranial da tíbia; sem ele, a tíbia desliza cranialmente (sinal de gaveta positivo)."
+ },
+ {
+  "c": "articulacoes",
+  "q": "O movimento em que a extremidade distal do membro descreve um círculo, combinando os demais movimentos, é a:",
+  "o": [
+   "Circundução",
+   "Rotação",
+   "Abdução",
+   "Extensão"
+  ],
+  "e": "A circundução combina flexão, extensão, abdução e adução; é típica das articulações esferoides."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A torção de um segmento em torno do seu próprio eixo longitudinal denomina-se:",
+  "o": [
+   "Rotação",
+   "Circundução",
+   "Adução",
+   "Flexão"
+  ],
+  "e": "Rotação é o giro no próprio eixo; pode ser interna ou externa."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Qual movimento é possível em uma articulação triaxial, mas não em uma biaxial?",
+  "o": [
+   "Rotação",
+   "Flexão",
+   "Abdução",
+   "Extensão"
+  ],
+  "e": "As biaxiais permitem flexão, extensão, adução e abdução; a rotação em torno do eixo longitudinal exige o terceiro eixo."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A maioria das articulações dos membros dos animais domésticos é:",
+  "o": [
+   "Monoaxial, permitindo basicamente flexão e extensão",
+   "Triaxial, permitindo todos os movimentos em qualquer plano",
+   "Biaxial, com adução e abdução predominantes",
+   "Imóvel, do tipo sinartrose fibrosa"
+  ],
+  "e": "Nos domésticos, a maioria das articulações dos membros atua como dobradiça, no plano sagital."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Na articulação coxofemoral, o ligamento da cabeça do fêmur insere-se na:",
+  "o": [
+   "Fóvea da cabeça do fêmur",
+   "Fossa trocantérica",
+   "Tuberosidade da tíbia",
+   "Incisura troclear"
+  ],
+  "e": "O ligamento da cabeça do fêmur une a fóvea da cabeça ao acetábulo, dentro da articulação."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Na articulação do ombro, de tipo esferoide, a cabeça do úmero articula-se com:",
+  "o": [
+   "A cavidade glenoide da escápula",
+   "O acetábulo",
+   "A incisura troclear da ulna",
+   "O tubérculo articular do temporal"
+  ],
+  "e": "A cabeça do úmero se encaixa na cavidade glenoide, formando uma articulação esferoide."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Na articulação temporomandibular, entre o côndilo da mandíbula e o temporal, encontra-se:",
+  "o": [
+   "Um disco articular",
+   "Um menisco ósseo",
+   "Uma sínfise de fibrocartilagem",
+   "Um ligamento cruzado"
+  ],
+  "e": "A ATM tem um disco articular interposto entre o côndilo da mandíbula e o tubérculo articular do temporal."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Qual afirmação sobre a articulação trocóide está correta?",
+  "o": [
+   "É rara, e a atlantoaxial é seu exemplo de destaque",
+   "É o tipo mais comum nos membros, como no cotovelo",
+   "Permite apenas flexão e extensão",
+   "Une ossos por cartilagem hialina"
+  ],
+  "e": "O trocóide (pivô) permite rotação em torno de um eixo; seu exemplo clássico é a atlantoaxial."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Qual das alternativas apresenta a classificação correta da articulação?",
+  "o": [
+   "Quadril – esferoide",
+   "Cotovelo – trocóide",
+   "Atlantoaxial – gínglimo",
+   "Intercárpicas – esferoide"
+  ],
+  "e": "Quadril é esferoide, cotovelo é gínglimo, atlantoaxial é trocóide e as intercárpicas são planas."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Com o envelhecimento, sínfises e sindesmoses podem:",
+  "o": [
+   "Ossificar, reduzindo a mobilidade",
+   "Transformar-se em articulações sinoviais",
+   "Perder o tecido fibroso e formar cavidade",
+   "Converter fibrocartilagem em cartilagem elástica"
+  ],
+  "e": "Tanto sindesmoses quanto sínfises tendem a ossificar com a idade, diminuindo o pequeno movimento que permitiam."
+ }
+]

@@ -1,0 +1,552 @@
+[
+ {
+  "c": "miohisto",
+  "q": "Fibras com estrias e núcleos periféricos múltiplos são de músculo:",
+  "o": [
+   "Estriado esquelético",
+   "Estriado cardíaco",
+   "Liso",
+   "Liso multiunitário"
+  ],
+  "e": "É um sincício de mioblastos fundidos."
+ },
+ {
+  "c": "miohisto",
+  "q": "Os discos intercalares são característicos do músculo:",
+  "o": [
+   "Cardíaco",
+   "Esquelético",
+   "Liso",
+   "Esquelético de fibras tipo I"
+  ],
+  "e": "Unem as células e permitem a contração sincronizada."
+ },
+ {
+  "c": "miohisto",
+  "q": "Na contração, a banda que NÃO muda de comprimento é a:",
+  "o": [
+   "Banda A",
+   "Banda I",
+   "Zona H",
+   "Distância entre linhas Z"
+  ],
+  "e": "A banda A corresponde ao comprimento da miosina."
+ },
+ {
+  "c": "miohisto",
+  "q": "O envoltório conjuntivo de cada fascículo muscular é o:",
+  "o": [
+   "Perimísio",
+   "Epimísio",
+   "Endomísio",
+   "Sarcolema"
+  ],
+  "e": "Epimísio envolve o músculo; endomísio, cada fibra."
+ },
+ {
+  "c": "miohisto",
+  "q": "O cálcio para a contração do músculo esquelético vem principalmente do:",
+  "o": [
+   "Retículo sarcoplasmático",
+   "Núcleo da fibra muscular",
+   "Mitocôndrias da fibra",
+   "Lisossomos do sarcoplasma"
+  ],
+  "e": "Liberado após a despolarização chegar pelos túbulos T."
+ },
+ {
+  "c": "miohisto",
+  "q": "Rigor mortis acontece porque:",
+  "o": [
+   "Sem ATP, as pontes de miosina não se desligam da actina",
+   "O cálcio é todo recaptado pelo retículo sarcoplasmático",
+   "A actina se despolimeriza e trava os sarcômeros",
+   "A miosina é digerida por enzimas lisossômicas"
+  ],
+  "e": "O músculo fica travado até a autólise."
+ },
+ {
+  "c": "miohisto",
+  "q": "A regeneração do músculo esquelético depende das:",
+  "o": [
+   "Células satélites",
+   "Células de Purkinje",
+   "Células mioepiteliais",
+   "Fibroblastos apenas"
+  ],
+  "e": "O cardíaco praticamente não regenera."
+ },
+ {
+  "c": "miohisto",
+  "q": "A doença do músculo branco em bezerros e cordeiros é causada por deficiência de:",
+  "o": [
+   "Selênio e vitamina E",
+   "Cálcio e fósforo",
+   "Iodo",
+   "Vitamina A"
+  ],
+  "e": "Necrose e mineralização de fibras esqueléticas e cardíacas."
+ },
+ {
+  "c": "miohisto",
+  "q": "A urina escura do cavalo com rabdomiólise de esforço se deve a:",
+  "o": [
+   "Mioglobinúria",
+   "Bilirrubinúria",
+   "Hematúria por cálculo",
+   "Hemoglobinúria por babesiose"
+  ],
+  "e": "Mioglobina liberada pelas fibras necrosadas."
+ },
+ {
+  "c": "miohisto",
+  "q": "O músculo liso não tem estrias porque:",
+  "o": [
+   "Actina e miosina não formam sarcômeros alinhados",
+   "Não tem actina, apenas filamentos de miosina",
+   "Não tem miosina, apenas filamentos de actina",
+   "Tem núcleos periféricos que ocultam as estrias"
+  ],
+  "e": "Os filamentos prendem-se a corpos densos, sem formar sarcômeros alinhados; a contração é lenta e sustentada."
+ },
+ {
+  "c": "miohisto",
+  "q": "O bovino “culard” (Azul Belga) tem mutação no gene da:",
+  "o": [
+   "Miostatina",
+   "Distrofina",
+   "Mioglobina",
+   "Rianodina"
+  ],
+  "e": "Mais fibras musculares; partos difíceis."
+ },
+ {
+  "c": "miohisto",
+  "q": "A fibra muscular esquelética é multinucleada porque:",
+  "o": [
+   "É um sincício formado pela fusão de mioblastos",
+   "Seus núcleos se dividem sem citocinese durante a contração",
+   "Recebe núcleos das células satélites a cada contração",
+   "É formada pela fusão de células musculares lisas"
+  ],
+  "e": "Durante o desenvolvimento, mioblastos se fundem e originam uma fibra longa com muitos núcleos periféricos."
+ },
+ {
+  "c": "miohisto",
+  "q": "Em uma lâmina, células fusiformes sem estrias transversais, cada uma com um núcleo central alongado em forma de “saca-rolhas”, indicam:",
+  "o": [
+   "Músculo liso contraído",
+   "Músculo cardíaco",
+   "Músculo esquelético em corte longitudinal",
+   "Fibras de Purkinje"
+  ],
+  "e": "O núcleo do músculo liso se enrola em saca-rolhas quando a célula contrai; não há estrias."
+ },
+ {
+  "c": "miohisto",
+  "q": "Células estriadas, curtas e ramificadas, com um ou dois núcleos centrais, correspondem a:",
+  "o": [
+   "Músculo estriado cardíaco",
+   "Músculo estriado esquelético",
+   "Músculo liso multiunitário",
+   "Músculo liso unitário"
+  ],
+  "e": "O cardiomiócito é curto, ramificado e tem núcleo central, diferente da fibra esquelética de núcleos periféricos."
+ },
+ {
+  "c": "miohisto",
+  "q": "Dos componentes do disco intercalar, o que permite a passagem de íons entre os cardiomiócitos e a contração do coração como unidade é a:",
+  "o": [
+   "Junção comunicante",
+   "Junção aderente",
+   "Desmossomo",
+   "Linha Z"
+  ],
+  "e": "As junções comunicantes acoplam eletricamente as células, formando um sincício funcional; desmossomos e junções aderentes dão união mecânica."
+ },
+ {
+  "c": "miohisto",
+  "q": "Após um infarto do miocárdio, a região necrosada é reparada por:",
+  "o": [
+   "Cicatriz fibrosa, pois o miocárdio quase não regenera",
+   "Mitose intensa dos cardiomiócitos remanescentes",
+   "Células satélites que formam novos cardiomiócitos",
+   "Fusão de mioblastos, como no músculo esquelético"
+  ],
+  "e": "O músculo cardíaco praticamente não regenera; o tecido perdido é substituído por conjuntivo fibroso."
+ },
+ {
+  "c": "miohisto",
+  "q": "Entre os três tipos de tecido muscular, o que tem melhor capacidade de regeneração é o:",
+  "o": [
+   "Liso, por mitose das próprias células",
+   "Esquelético, por fusão de fibrócitos",
+   "Cardíaco, por células satélites",
+   "Cardíaco, por mitose dos discos intercalares"
+  ],
+  "e": "O músculo liso regenera bem porque suas células conservam a capacidade de mitose; o esquelético depende das células satélites e o cardíaco quase não regenera."
+ },
+ {
+  "c": "miohisto",
+  "q": "No cão e nos ruminantes, a túnica muscular do esôfago em toda a sua extensão é formada por:",
+  "o": [
+   "Músculo estriado esquelético",
+   "Músculo liso",
+   "Músculo estriado cardíaco",
+   "Músculo liso no terço cranial e estriado no caudal"
+  ],
+  "e": "Nessas espécies o esôfago é inteiramente de músculo estriado esquelético."
+ },
+ {
+  "c": "miohisto",
+  "q": "Qual destas estruturas NÃO é formada por músculo liso?",
+  "o": [
+   "Língua",
+   "Íris",
+   "Músculo eretor do pelo",
+   "Parede do útero"
+  ],
+  "e": "A língua é de músculo estriado esquelético; íris, eretor do pelo e útero são de músculo liso."
+ },
+ {
+  "c": "miohisto",
+  "q": "O músculo cardíaco é considerado involuntário e automático porque:",
+  "o": [
+   "Tem marca-passo próprio, só modulado pelo autônomo",
+   "Depende de um nervo motor somático para cada contração",
+   "Só contrai sob estímulo hormonal da adrenalina",
+   "Contrai apenas quando suas fibras são estiradas"
+  ],
+  "e": "O coração tem atividade de marca-passo intrínseca; o autônomo apenas altera frequência e força."
+ },
+ {
+  "c": "miohisto",
+  "q": "O conjuntivo denso que envolve o músculo esquelético inteiro e se continua com a fáscia e o tendão é o:",
+  "o": [
+   "Epimísio",
+   "Perimísio",
+   "Endomísio",
+   "Sarcolema"
+  ],
+  "e": "O epimísio envolve o músculo todo; perimísio envolve fascículos e endomísio, cada fibra."
+ },
+ {
+  "c": "miohisto",
+  "q": "A lâmina delicada de conjuntivo com capilares que envolve cada fibra muscular esquelética é o:",
+  "o": [
+   "Endomísio",
+   "Perimísio",
+   "Epimísio",
+   "Endoneuro"
+  ],
+  "e": "O endomísio fica ao redor de cada fibra e leva os capilares que a nutrem."
+ },
+ {
+  "c": "miohisto",
+  "q": "O marmoreio da carne bovina, valorizado comercialmente, corresponde ao acúmulo de gordura no:",
+  "o": [
+   "Perimísio",
+   "Sarcoplasma",
+   "Endomísio",
+   "Retículo sarcoplasmático"
+  ],
+  "e": "O perimísio separa os fascículos e, ao acumular adipócitos, forma os veios de gordura entremeados na carne."
+ },
+ {
+  "c": "miohisto",
+  "q": "No músculo esquelético, o retículo endoplasmático liso especializado em armazenar cálcio recebe o nome de:",
+  "o": [
+   "Retículo sarcoplasmático",
+   "Sarcolema da fibra",
+   "Túbulo T transverso",
+   "Corpo denso citoplasmático"
+  ],
+  "e": "O retículo sarcoplasmático é o RE liso da fibra muscular, reserva de Ca2+ para a contração."
+ },
+ {
+  "c": "miohisto",
+  "q": "Os túbulos T da fibra muscular esquelética são:",
+  "o": [
+   "Invaginações do sarcolema que levam a despolarização",
+   "Cisternas do retículo sarcoplasmático que armazenam cálcio",
+   "Feixes de filamentos de actina presos à linha Z",
+   "Mitocôndrias alinhadas entre as miofibrilas"
+  ],
+  "e": "Os túbulos T são continuações do sarcolema que conduzem o potencial de ação para o interior da fibra, até as cisternas do retículo."
+ },
+ {
+  "c": "miohisto",
+  "q": "A tríade da fibra muscular esquelética é formada por:",
+  "o": [
+   "Um túbulo T e duas cisternas terminais do retículo",
+   "Uma linha Z e duas bandas I adjacentes do sarcômero",
+   "Actina, miosina e tropomiosina do filamento fino",
+   "Três miofibrilas adjacentes unidas por desmina"
+  ],
+  "e": "A tríade é a associação de um túbulo T com duas cisternas terminais do retículo sarcoplasmático."
+ },
+ {
+  "c": "miohisto",
+  "q": "A banda I do sarcômero é formada por:",
+  "o": [
+   "Apenas filamentos de actina, de cada lado da linha Z",
+   "Apenas filamentos de miosina, no centro do sarcômero",
+   "Toda a extensão da miosina sobreposta à actina",
+   "Proteínas que unem as miosinas no centro"
+  ],
+  "e": "A banda I, clara (isotrópica), contém só actina e encurta durante a contração."
+ },
+ {
+  "c": "miohisto",
+  "q": "Durante a contração do sarcômero, a zona H:",
+  "o": [
+   "Encurta ou desaparece",
+   "Aumenta de comprimento",
+   "Permanece do mesmo tamanho",
+   "Desloca-se para a linha Z"
+  ],
+  "e": "A zona H é a parte central da banda A com só miosina; com o deslizamento da actina para o centro, ela diminui ou some."
+ },
+ {
+  "c": "miohisto",
+  "q": "A linha Z, que delimita o sarcômero, tem como função:",
+  "o": [
+   "Ancorar os filamentos de actina por meio da α-actinina",
+   "Unir os filamentos de miosina no centro do sarcômero",
+   "Armazenar cálcio para a contração",
+   "Ligar o sarcolema à lâmina basal"
+  ],
+  "e": "A linha Z é o limite do sarcômero e prende a actina pela α-actinina; a linha M é que une as miosinas."
+ },
+ {
+  "c": "miohisto",
+  "q": "No centro do sarcômero, a estrutura que une os filamentos de miosina é a:",
+  "o": [
+   "Linha M",
+   "Linha Z",
+   "Banda I",
+   "Zona de sobreposição"
+  ],
+  "e": "A linha M fica no meio da zona H e mantém as miosinas alinhadas."
+ },
+ {
+  "c": "miohisto",
+  "q": "A sequência correta no acoplamento excitação–contração do músculo esquelético é:",
+  "o": [
+   "Acetilcolina na placa → despolarização dos túbulos T → saída de Ca2+ do retículo → Ca2+ liga-se à troponina",
+   "Ca2+ liga-se à troponina → acetilcolina na placa → despolarização dos túbulos T → saída de Ca2+ do retículo",
+   "Saída de Ca2+ do retículo → acetilcolina na placa → Ca2+ liga-se à troponina → despolarização dos túbulos T",
+   "Despolarização dos túbulos T → acetilcolina na placa → Ca2+ liga-se à troponina → saída de Ca2+ do retículo"
+  ],
+  "e": "A acetilcolina despolariza o sarcolema, os túbulos T levam o sinal para dentro, o retículo libera Ca2+ e este, ligado à troponina, desloca a tropomiosina."
+ },
+ {
+  "c": "miohisto",
+  "q": "A ligação do Ca2+ à troponina permite a contração porque:",
+  "o": [
+   "Desloca a tropomiosina e expõe os sítios da actina",
+   "Hidrolisa diretamente o ATP da cabeça da miosina",
+   "Aproxima diretamente as linhas Z do sarcômero",
+   "Abre os canais de acetilcolina da placa motora"
+  ],
+  "e": "Em repouso a tropomiosina bloqueia a actina; o complexo Ca2+–troponina a afasta e as pontes cruzadas se formam."
+ },
+ {
+  "c": "miohisto",
+  "q": "No músculo esquelético, o ATP é necessário:",
+  "o": [
+   "Para as pontes cruzadas e para recaptar o Ca2+",
+   "Apenas para liberar acetilcolina na placa motora",
+   "Apenas para abrir o receptor de rianodina do retículo",
+   "Somente para formar e manter a linha Z"
+  ],
+  "e": "A miosina gasta ATP para puxar a actina e soltar-se dela, e a recaptação do cálcio pelo retículo também consome ATP."
+ },
+ {
+  "c": "miohisto",
+  "q": "Na hipertermia maligna dos suínos, desencadeada por estresse ou halotano, o defeito está:",
+  "o": [
+   "No receptor de rianodina, que libera Ca2+ sem controle",
+   "Na acetilcolinesterase, que degrada a acetilcolina",
+   "No gene da miostatina, que limita a massa muscular",
+   "Nos discos intercalares, que unem os cardiomiócitos"
+  ],
+  "e": "A mutação do receptor de rianodina (RYR1) faz o retículo liberar cálcio descontroladamente, com contração contínua, calor e carne PSE."
+ },
+ {
+  "c": "miohisto",
+  "q": "Um cão intoxicado com organofosforado apresenta fasciculações, tremores e salivação. Esses sinais se devem a:",
+  "o": [
+   "Inibição da acetilcolinesterase, com acúmulo de acetilcolina",
+   "Bloqueio da liberação de acetilcolina na placa motora",
+   "Liberação descontrolada de Ca2+ pelo RYR1",
+   "Necrose das fibras por falta de selênio"
+  ],
+  "e": "Sem a acetilcolinesterase, a acetilcolina persiste na fenda e estimula continuamente músculos e glândulas."
+ },
+ {
+  "c": "miohisto",
+  "q": "Bovinos que ingerem carcaças contaminadas podem desenvolver botulismo, com paralisia flácida, porque a toxina:",
+  "o": [
+   "Impede a liberação de acetilcolina na placa motora",
+   "Inibe a acetilcolinesterase na fenda sináptica",
+   "Destrói os túbulos T",
+   "Bloqueia a bomba de Ca2+ do retículo"
+  ],
+  "e": "Sem liberação de acetilcolina, o músculo não é estimulado e fica flácido; é o oposto da intoxicação por organofosforados."
+ },
+ {
+  "c": "miohisto",
+  "q": "Fibras musculares do tipo I (lentas, vermelhas) caracterizam-se por:",
+  "o": [
+   "Muita mioglobina e mitocôndrias, e resistência à fadiga",
+   "Pouca mioglobina, metabolismo glicolítico e fadiga rápida",
+   "Ausência de mitocôndrias e grande reserva de glicogênio",
+   "Contração rápida e metabolismo exclusivamente anaeróbio"
+  ],
+  "e": "As fibras tipo I são oxidativas (metabolismo aeróbio) e resistentes à fadiga, predominando em músculos posturais e em cavalos de enduro."
+ },
+ {
+  "c": "miohisto",
+  "q": "A carne branca do peito da galinha é composta predominantemente por fibras do tipo:",
+  "o": [
+   "IIB/IIX (rápidas glicolíticas)",
+   "I (lentas oxidativas)",
+   "IIA (rápidas oxidativas)",
+   "Cardíacas de Purkinje"
+  ],
+  "e": "As fibras IIB/IIX têm pouca mioglobina e mitocôndrias e dependem do glicogênio, por isso são brancas."
+ },
+ {
+  "c": "miohisto",
+  "q": "A arrancada explosiva de um cavalo Quarto de Milha depende principalmente de fibras:",
+  "o": [
+   "Tipo IIB/IIX, rápidas glicolíticas",
+   "Tipo I, lentas e oxidativas, ricas em mioglobina",
+   "Lisas multiunitárias da parede vascular",
+   "Cardíacas de condução (Purkinje)"
+  ],
+  "e": "Esforços curtos e muito intensos usam as fibras rápidas glicolíticas, que se fadigam rapidamente."
+ },
+ {
+  "c": "miohisto",
+  "q": "As fibras do tipo IIA, que aumentam em equinos atletas treinados, são:",
+  "o": [
+   "Rápidas oxidativas, de metabolismo misto",
+   "Lentas glicolíticas, pobres em mitocôndrias",
+   "Lentas oxidativas, de músculos posturais",
+   "Rápidas glicolíticas, de fadiga imediata"
+  ],
+  "e": "As IIA combinam contração rápida com muitas mitocôndrias e mioglobina, com resistência intermediária à fadiga."
+ },
+ {
+  "c": "miohisto",
+  "q": "No coração de ruminantes e suínos, fibras grandes, claras e ricas em glicogênio, situadas sob o endocárdio, são:",
+  "o": [
+   "Fibras de Purkinje do sistema de condução",
+   "Células satélites em repouso",
+   "Fibras musculares lisas dos vasos",
+   "Adipócitos infiltrados no miocárdio"
+  ],
+  "e": "As células de Purkinje são cardiomiócitos especializados na condução do impulso, muito evidentes nessas espécies."
+ },
+ {
+  "c": "miohisto",
+  "q": "Além de contrair, as fibras musculares dos átrios têm função endócrina, produzindo:",
+  "o": [
+   "Peptídeo natriurético",
+   "Eritropoetina",
+   "Renina",
+   "Mioglobina para o sangue"
+  ],
+  "e": "Os cardiomiócitos atriais contêm grânulos de peptídeo natriurético, que aumenta a excreção de sódio."
+ },
+ {
+  "c": "miohisto",
+  "q": "No músculo liso, os filamentos de actina se prendem a estruturas que substituem funcionalmente as linhas Z, chamadas:",
+  "o": [
+   "Corpos densos",
+   "Discos intercalares",
+   "Túbulos T",
+   "Linhas M"
+  ],
+  "e": "Actina e miosina formam uma rede oblíqua presa a corpos densos, sem sarcômeros e, portanto, sem estrias."
+ },
+ {
+  "c": "miohisto",
+  "q": "Qual destes é um exemplo de músculo liso multiunitário?",
+  "o": [
+   "Músculo da íris",
+   "Parede do intestino delgado",
+   "Parede do útero",
+   "Parede do estômago"
+  ],
+  "e": "Íris, eretor do pelo e ducto deferente são multiunitários; as vísceras com ondas peristálticas têm músculo liso unitário."
+ },
+ {
+  "c": "miohisto",
+  "q": "O músculo liso unitário das vísceras é capaz de produzir ondas peristálticas porque suas células:",
+  "o": [
+   "São acopladas por junções comunicantes",
+   "Possuem discos intercalares",
+   "Recebem uma terminação nervosa individual cada uma",
+   "Contêm sarcômeros alinhados"
+  ],
+  "e": "As junções comunicantes propagam a excitação de célula em célula, coordenando a contração em ondas."
+ },
+ {
+  "c": "miohisto",
+  "q": "As estrias brancas vistas no miocárdio e nos músculos esqueléticos de um cordeiro com doença do músculo branco correspondem a:",
+  "o": [
+   "Necrose de fibras com mineralização",
+   "Infiltração de gordura no perimísio",
+   "Hipertrofia das fibras do tipo I",
+   "Proliferação de células de Purkinje"
+  ],
+  "e": "A deficiência de selênio e vitamina E causa necrose das fibras, que se mineralizam e aparecem como estrias esbranquiçadas."
+ },
+ {
+  "c": "miohisto",
+  "q": "Um veado contido com esforço e estresse prolongados desenvolve rigidez, fraqueza e mioglobinúria dias depois. A condição é:",
+  "o": [
+   "Miopatia de captura",
+   "Hipertermia maligna",
+   "Doença do músculo branco",
+   "Cardiomiopatia hipertrófica"
+  ],
+  "e": "Em animais silvestres, o estresse e o esforço da contenção levam à necrose muscular: miopatia de captura."
+ },
+ {
+  "c": "miohisto",
+  "q": "No bovino “culard”, o aumento da massa muscular resulta principalmente de:",
+  "o": [
+   "Hiperplasia, ou seja, maior número de fibras",
+   "Acúmulo de gordura no perimísio",
+   "Edema do endomísio",
+   "Fibras cardíacas no músculo esquelético"
+  ],
+  "e": "A mutação da miostatina remove um freio do crescimento muscular, resultando em mais fibras, e está associada a partos distócicos."
+ },
+ {
+  "c": "miohisto",
+  "q": "Um cão com paralisia do nervo radial há dois meses tem o tríceps visivelmente diminuído. Microscopicamente espera-se:",
+  "o": [
+   "Fibras menores com aumento de conjuntivo e gordura",
+   "Fibras maiores com núcleos centrais e vacúolos",
+   "Discos intercalares unindo as fibras esqueléticas",
+   "Mineralização difusa por deficiência de selênio"
+  ],
+  "e": "A atrofia por desnervação reduz o diâmetro das fibras, e o espaço é ocupado por conjuntivo e gordura."
+ },
+ {
+  "c": "miohisto",
+  "q": "Um gato Maine Coon com cardiomiopatia hipertrófica chega com paralisia aguda e membros pélvicos frios. A complicação mais provável é:",
+  "o": [
+   "Tromboembolismo aórtico",
+   "Avulsão do plexo braquial",
+   "Rabdomiólise de esforço",
+   "Hipoplasia cerebelar"
+  ],
+  "e": "Na cardiomiopatia hipertrófica felina formam-se trombos no átrio que podem obstruir a bifurcação da aorta."
+ }
+]

@@ -1,0 +1,552 @@
+[
+ {
+  "c": "cranio",
+  "q": "O forame magno pertence ao osso:",
+  "o": [
+   "Occipital",
+   "Esfenoide",
+   "Temporal",
+   "Parietal"
+  ],
+  "e": "Por ele passa a medula espinhal."
+ },
+ {
+  "c": "cranio",
+  "q": "A bula timpânica pertence ao osso:",
+  "o": [
+   "Temporal",
+   "Occipital",
+   "Esfenoide",
+   "Zigomático"
+  ],
+  "e": "Parte timpânica do temporal."
+ },
+ {
+  "c": "cranio",
+  "q": "Quem divide as coanas?",
+  "o": [
+   "Vômer",
+   "Etmoide",
+   "Palatino",
+   "Nasal"
+  ],
+  "e": "Parte ventral do septo nasal."
+ },
+ {
+  "c": "cranio",
+  "q": "As conchas nasais são __ e os meatos nasais são __.",
+  "o": [
+   "ossos (etmoide); espaços",
+   "espaços; ossos",
+   "cartilagens; ossos",
+   "ossos (vômer); cartilagens"
+  ],
+  "e": "Conchas = ossos; meatos = espaços."
+ },
+ {
+  "c": "cranio",
+  "q": "A fossa hipofisária fica no:",
+  "o": [
+   "Esfenoide",
+   "Etmoide",
+   "Frontal",
+   "Occipital"
+  ],
+  "e": "Aloja a hipófise."
+ },
+ {
+  "c": "cranio",
+  "q": "O forame mentoniano fica:",
+  "o": [
+   "Na face lateral do corpo da mandíbula",
+   "Na face medial do ramo da mandíbula",
+   "Na maxila",
+   "No frontal"
+  ],
+  "e": "O forame mandibular é que fica na face medial do ramo."
+ },
+ {
+  "c": "cranio",
+  "q": "A crista facial do equino começa na __ e continua no __.",
+  "o": [
+   "maxila; zigomático",
+   "frontal; temporal",
+   "nasal; lacrimal",
+   "incisivo; maxila"
+  ],
+  "e": "Relevo horizontal acima dos molares."
+ },
+ {
+  "c": "cranio",
+  "q": "A única articulação realmente móvel do crânio é entre:",
+  "o": [
+   "Mandíbula e temporal",
+   "Frontal e parietal",
+   "Occipital e atlas",
+   "Nasal e incisivo"
+  ],
+  "e": "ATM. As demais são suturas."
+ },
+ {
+  "c": "cranio",
+  "q": "Crânio com processo cornual e sem dentes incisivos superiores é de:",
+  "o": [
+   "Bovino",
+   "Equino",
+   "Cão",
+   "Suíno"
+  ],
+  "e": "No lugar dos incisivos superiores há o pulvino dental."
+ },
+ {
+  "c": "cranio",
+  "q": "Órbita “aberta”, fechada atrás só por um ligamento, é típica do:",
+  "o": [
+   "Cão",
+   "Equino",
+   "Bovino",
+   "Ovino"
+  ],
+  "e": "Nos herbívoros a órbita é fechada por osso."
+ },
+ {
+  "c": "cranio",
+  "q": "Nos herbívoros, o que fecha a órbita por trás é o:",
+  "o": [
+   "Processo zigomático do frontal",
+   "Processo coronoide da mandíbula",
+   "Processo jugular do occipital",
+   "Processo cornual do osso frontal"
+  ],
+  "e": "Ele desce até encontrar o arco zigomático."
+ },
+ {
+  "c": "cranio",
+  "q": "A sutura entre os dois ossos frontais é a:",
+  "o": [
+   "Interfrontal",
+   "Internasal",
+   "Coronal",
+   "Frontolacrimal"
+  ],
+  "e": "É do tipo serrada."
+ },
+ {
+  "c": "cranio",
+  "q": "A sutura coronal une:",
+  "o": [
+   "Frontal e parietal",
+   "Nasal e frontal",
+   "Os dois parietais",
+   "Occipital e parietal"
+  ],
+  "e": "Também chamada frontoparietal."
+ },
+ {
+  "c": "cranio",
+  "q": "Na descorna de um bovino adulto, pode ser exposto o:",
+  "o": [
+   "Seio frontal",
+   "Seio maxilar",
+   "Meato nasal ventral",
+   "Forame magno"
+  ],
+  "e": "O seio frontal se estende para dentro do processo cornual."
+ },
+ {
+  "c": "cranio",
+  "q": "No equino, as raízes dos últimos molares superiores ficam dentro do:",
+  "o": [
+   "Seio maxilar",
+   "Seio frontal",
+   "Canal interincisivo",
+   "Meato acústico"
+  ],
+  "e": "Por isso infecção dentária vira sinusite."
+ },
+ {
+  "c": "cranio",
+  "q": "O forame mandibular fica:",
+  "o": [
+   "Na face medial do ramo da mandíbula",
+   "Na face lateral do corpo da mandíbula",
+   "Na base do processo coronoide",
+   "Na face lingual da sínfise mandibular"
+  ],
+  "e": "O mentual (mentoniano) é que fica na face lateral do corpo."
+ },
+ {
+  "c": "cranio",
+  "q": "No equino, o pulso é aferido na artéria facial, na:",
+  "o": [
+   "Incisura dos vasos faciais da mandíbula",
+   "Fossa temporal, acima do arco zigomático",
+   "Crista facial, logo abaixo do olho",
+   "Base da bula timpânica, atrás da mandíbula"
+  ],
+  "e": "Na borda ventral do corpo da mandíbula."
+ },
+ {
+  "c": "cranio",
+  "q": "A sínfise mandibular se ossifica cedo, formando peça única, no:",
+  "o": [
+   "Equino e suíno",
+   "Cão e gato",
+   "Bovino e ovino",
+   "Gato e bovino"
+  ],
+  "e": "Em carnívoros e ruminantes ela fica fibrocartilaginosa."
+ },
+ {
+  "c": "cranio",
+  "q": "O processo lingual pertence ao:",
+  "o": [
+   "Basi-hioide",
+   "Estilo-hioide",
+   "Epi-hioide",
+   "Temporal"
+  ],
+  "e": "Presente em equino e bovino; entra na raiz da língua."
+ },
+ {
+  "c": "cranio",
+  "q": "O osso que forma o teto da cavidade nasal é o:",
+  "o": [
+   "Nasal",
+   "Vômer",
+   "Etmoide",
+   "Palatino"
+  ],
+  "e": "O vômer forma a parte ventral do septo."
+ },
+ {
+  "c": "cranio",
+  "q": "O canal interincisivo pertence ao osso:",
+  "o": [
+   "Incisivo",
+   "Maxilar",
+   "Palatino",
+   "Nasal"
+  ],
+  "e": "Visto na face ventral, atrás dos dentes incisivos."
+ },
+ {
+  "c": "cranio",
+  "q": "O processo coronoide da mandíbula serve para:",
+  "o": [
+   "Inserção do músculo temporal",
+   "Articular com o temporal",
+   "Passagem do nervo alveolar",
+   "Alojar os molares"
+  ],
+  "e": "Quem articula é o processo condilar."
+ },
+ {
+  "c": "cranio",
+  "q": "O aparelho hioide é classificado como esqueleto:",
+  "o": [
+   "Visceral",
+   "Axial",
+   "Apendicular",
+   "Cíngulo"
+  ],
+  "e": "Não se articula com o esqueleto do tronco."
+ },
+ {
+  "c": "cranio",
+  "q": "Na vista nucal (caudal) do crânio, qual estrutura NÃO é visualizada?",
+  "o": [
+   "Canal interincisivo",
+   "Protuberância occipital externa",
+   "Crista nucal",
+   "Processo jugular (paracondilar)"
+  ],
+  "e": "O canal interincisivo pertence ao osso incisivo e é visto na vista ventral, atrás dos dentes incisivos; as demais estruturas estão na face caudal do occipital."
+ },
+ {
+  "c": "cranio",
+  "q": "A fissura nasoincisiva corresponde ao encontro entre quais ossos?",
+  "o": [
+   "Nasal e incisivo",
+   "Nasal e maxila",
+   "Incisivo e maxila",
+   "Nasal e frontal"
+  ],
+  "e": "A fissura nasoincisiva é a fenda que separa o osso nasal do osso incisivo, na porção rostral da face."
+ },
+ {
+  "c": "cranio",
+  "q": "Qual osso NÃO participa da formação do palato duro?",
+  "o": [
+   "Vômer",
+   "Incisivo",
+   "Maxila",
+   "Palatino"
+  ],
+  "e": "O palato duro é formado pelos processos palatinos do incisivo e da maxila e pela lâmina horizontal do palatino; o vômer forma a parte ventral do septo nasal e divide as coanas."
+ },
+ {
+  "c": "cranio",
+  "q": "No equino, o orifício na face lateral da maxila, localizado rostralmente à crista facial e usado como referência para bloqueio anestésico do nervo de mesmo nome, é o:",
+  "o": [
+   "Forame infraorbitário",
+   "Forame supraorbitário",
+   "Forame mentoniano",
+   "Forame mandibular"
+  ],
+  "e": "O forame infraorbitário fica na maxila, rostral à crista facial; por ele emerge o nervo infraorbitário."
+ },
+ {
+  "c": "cranio",
+  "q": "O nervo alveolar inferior penetra no canal mandibular através do:",
+  "o": [
+   "Forame mandibular, na face medial do ramo",
+   "Forame mentoniano, na face lateral do corpo",
+   "Forame infraorbitário, na face lateral da maxila",
+   "Canal interincisivo, no osso incisivo"
+  ],
+  "e": "O forame mandibular, na face medial do ramo, é a entrada do nervo alveolar inferior; o forame mentoniano é a sua saída rostral."
+ },
+ {
+  "c": "cranio",
+  "q": "O processo condilar da mandíbula articula-se com qual estrutura do osso temporal?",
+  "o": [
+   "Tubérculo articular",
+   "Bula timpânica",
+   "Processo jugular",
+   "Meato acústico externo"
+  ],
+  "e": "Na ATM, a cabeça do processo condilar se articula com o tubérculo articular (região mandibular) da parte escamosa do temporal."
+ },
+ {
+  "c": "cranio",
+  "q": "O “vale” localizado entre os processos coronoide e condilar do ramo da mandíbula é a:",
+  "o": [
+   "Incisura mandibular",
+   "Incisura dos vasos faciais",
+   "Borda interalveolar",
+   "Sínfise mandibular"
+  ],
+  "e": "A incisura mandibular separa o processo coronoide (rostral) do processo condilar (caudal) no topo do ramo."
+ },
+ {
+  "c": "cranio",
+  "q": "Em qual região da mandíbula do cavalo se apoia o bocal do bridão?",
+  "o": [
+   "Borda interalveolar (diastema)",
+   "Processo coronoide da mandíbula",
+   "Ângulo caudal da mandíbula",
+   "Incisura mandibular, junto à ATM"
+  ],
+  "e": "A borda interalveolar é o espaço sem dentes entre incisivos/caninos e pré-molares, onde o bridão se apoia."
+ },
+ {
+  "c": "cranio",
+  "q": "Um gato chega à clínica após queda do 6º andar, com a boca desalinhada e as duas hemimandíbulas móveis na frente. A lesão mais provável e sua explicação anatômica são:",
+  "o": [
+   "Separação da sínfise mandibular, que permanece fibrocartilaginosa no gato",
+   "Fratura do processo coronoide, que é o ponto mais frágil do ramo",
+   "Luxação da ATM, porque o gato não tem tubérculo articular",
+   "Fratura da bula timpânica, que sustenta o corpo da mandíbula"
+  ],
+  "e": "No gato, a sínfise mandibular não se ossifica e continua como articulação fibrocartilaginosa, sendo comum sua separação em quedas de altura."
+ },
+ {
+  "c": "cranio",
+  "q": "Qual das raças abaixo é exemplo de crânio dolicocefálico?",
+  "o": [
+   "Borzoi",
+   "Pug",
+   "Boxer",
+   "Rottweiler"
+  ],
+  "e": "Dolicocefálicos têm crânio longo e estreito (Borzoi, Collie, Saluki, Galgo); Pug e Boxer são braquicefálicos e Rottweiler é mesocefálico."
+ },
+ {
+  "c": "cranio",
+  "q": "Ao comparar um crânio braquicefálico com um dolicocefálico de cão, o que muda essencialmente?",
+  "o": [
+   "A proporção (comprimento e largura) dos mesmos ossos",
+   "O número de ossos que formam a face",
+   "A presença do osso interparietal",
+   "A posição do forame magno em relação aos côndilos"
+  ],
+  "e": "Todos os cães têm os mesmos ossos cranianos; o que varia entre os tipos é o comprimento e a largura deles."
+ },
+ {
+  "c": "cranio",
+  "q": "Na vista dorsal do crânio do equino, o pequeno osso situado entre os dois parietais, rostral ao occipital, é o:",
+  "o": [
+   "Interparietal",
+   "Esfenoide",
+   "Lacrimal",
+   "Pterigoide"
+  ],
+  "e": "O interparietal é um pequeno osso entre os parietais, presente no equino e visível na vista dorsal."
+ },
+ {
+  "c": "cranio",
+  "q": "No crânio do bovino, o relevo que ocupa o lugar da crista facial do equino é a:",
+  "o": [
+   "Tuberosidade facial",
+   "Crista intercornual",
+   "Crista nucal",
+   "Fossa temporal"
+  ],
+  "e": "O bovino não tem a crista facial longa do equino; no seu lugar há a tuberosidade facial."
+ },
+ {
+  "c": "cranio",
+  "q": "No bovino, a estrutura que forma o topo (ponto mais dorsal) do crânio é a:",
+  "o": [
+   "Crista intercornual",
+   "Crista sagital externa",
+   "Protuberância occipital externa",
+   "Sutura coronal"
+  ],
+  "e": "No bovino, o frontal gigante se estende caudalmente e a crista intercornual, entre os processos cornuais, forma o topo do crânio."
+ },
+ {
+  "c": "cranio",
+  "q": "Na cadeia do aparelho hioide, o osso situado entre o epi-hioide e o basi-hioide é o:",
+  "o": [
+   "Cerato-hioide",
+   "Estilo-hioide",
+   "Tíreo-hioide",
+   "Timpano-hioide"
+  ],
+  "e": "A sequência é timpano-hioide → estilo-hioide → epi-hioide → cerato-hioide → basi-hioide → tíreo-hioide."
+ },
+ {
+  "c": "cranio",
+  "q": "A peça do aparelho hioide que faz a ligação com a laringe é o:",
+  "o": [
+   "Tíreo-hioide",
+   "Cerato-hioide",
+   "Estilo-hioide",
+   "Epi-hioide"
+  ],
+  "e": "O tíreo-hioide parte do basi-hioide e se articula com a cartilagem tireoide da laringe."
+ },
+ {
+  "c": "cranio",
+  "q": "O aparelho hioide se mantém suspenso na base do crânio por meio de:",
+  "o": [
+   "Cartilagem timpano-hioide ligada ao temporal",
+   "Articulação sinovial com os côndilos occipitais",
+   "Sindesmose com o processo coronoide da mandíbula",
+   "Ligamento orbital preso ao frontal"
+  ],
+  "e": "O hioide não se articula com o esqueleto do tronco; fica suspenso pela cartilagem timpano-hioide, presa ao osso temporal."
+ },
+ {
+  "c": "cranio",
+  "q": "Qual osso separa a cavidade nasal da cavidade craniana e fornece as conchas nasais?",
+  "o": [
+   "Etmoide",
+   "Esfenoide",
+   "Vômer",
+   "Palatino"
+  ],
+  "e": "O etmoide fica no fundo da cavidade nasal, fazendo a divisão com a cavidade craniana, e forma as conchas nasais."
+ },
+ {
+  "c": "cranio",
+  "q": "O osso que forma a borda medial da órbita e abriga o início do ducto nasolacrimal é o:",
+  "o": [
+   "Lacrimal",
+   "Zigomático",
+   "Frontal",
+   "Nasal"
+  ],
+  "e": "O lacrimal ocupa a borda medial (rostral) da órbita e contém o canal lacrimal, por onde passa o ducto nasolacrimal."
+ },
+ {
+  "c": "cranio",
+  "q": "A sutura internasal, que une os dois ossos nasais, é classificada como do tipo:",
+  "o": [
+   "Plana",
+   "Serrada",
+   "Escamosa",
+   "Esquindilese"
+  ],
+  "e": "A sutura internasal tem bordas lisas justapostas, sendo uma sutura plana; interfrontal, frontonasal e coronal são serradas."
+ },
+ {
+  "c": "cranio",
+  "q": "A sutura frontolacrimal, entre o frontal e o lacrimal, é do tipo:",
+  "o": [
+   "Escamosa",
+   "Plana",
+   "Serrada",
+   "Gonfose"
+  ],
+  "e": "Na sutura frontolacrimal as bordas se sobrepõem em bisel, caracterizando sutura escamosa."
+ },
+ {
+  "c": "cranio",
+  "q": "A bula timpânica é formada por qual parte do osso temporal?",
+  "o": [
+   "Parte timpânica",
+   "Parte escamosa",
+   "Parte petrosa",
+   "Processo zigomático"
+  ],
+  "e": "O temporal tem partes escamosa, timpânica e petrosa; a bula timpânica é a dilatação da parte timpânica."
+ },
+ {
+  "c": "cranio",
+  "q": "O arco zigomático é formado pela união de quais estruturas?",
+  "o": [
+   "Processo zigomático do temporal e osso zigomático",
+   "Processo zigomático do frontal e osso lacrimal",
+   "Osso zigomático e processo palatino da maxila",
+   "Processo zigomático do temporal e osso parietal"
+  ],
+  "e": "O processo zigomático do temporal se une ao osso zigomático (processo temporal) para formar o arco zigomático."
+ },
+ {
+  "c": "cranio",
+  "q": "Os dentes pré-molares e molares superiores estão implantados em alvéolos de qual osso?",
+  "o": [
+   "Maxila",
+   "Incisivo",
+   "Palatino",
+   "Zigomático"
+  ],
+  "e": "A maxila contém os alvéolos dos pré-molares e molares superiores; os incisivos superiores ficam no osso incisivo."
+ },
+ {
+  "c": "cranio",
+  "q": "As coanas, aberturas caudais da cavidade nasal, têm sua borda cranial formada pelo osso:",
+  "o": [
+   "Palatino",
+   "Pterigoide",
+   "Esfenoide",
+   "Incisivo"
+  ],
+  "e": "O palatino forma a parte caudal do palato duro e a borda cranial das coanas, que são divididas pelo vômer."
+ },
+ {
+  "c": "cranio",
+  "q": "Os seios paranasais são cavidades com ar presentes nos ossos pneumáticos. Qual afirmação sobre eles está correta?",
+  "o": [
+   "São revestidos por mucosa e comunicam-se com a cavidade nasal",
+   "São preenchidos por medula óssea vermelha no animal adulto",
+   "Comunicam-se diretamente com a cavidade craniana",
+   "Existem apenas nos ossos da mandíbula"
+  ],
+  "e": "Os seios paranasais são revestidos por mucosa e ligados à cavidade nasal, por isso infecções nasais podem se estender a eles (sinusite)."
+ },
+ {
+  "c": "cranio",
+  "q": "O esfenoide, situado na base do crânio, é dividido em:",
+  "o": [
+   "Basisfenoide e pré-esfenoide",
+   "Partes escamosa e petrosa",
+   "Lâminas horizontal e perpendicular",
+   "Corpo e processo cornual"
+  ],
+  "e": "O esfenoide tem as porções basisfenoide (caudal) e pré-esfenoide (rostral), e abriga a fossa hipofisária."
+ }
+]

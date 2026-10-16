@@ -1,42 +1,6 @@
 /* Conteúdo novo da edição 2 (Atlas, Apostila e aprofundamento). Formato: {c, q, o:[certa, ...erradas], e} */
 var NOVAS_Q=[]; /* questões em questoes.js */
-var NOVOS_FC=[
-['posicao','Rostral × cranial','Rostral só na cabeça (em direção ao focinho); cranial no tronco e pescoço.'],
-['posicao','Dorsal × palmar × plantar','Do carpo/tarso para baixo: frente = dorsal; trás = palmar (torácico) ou plantar (pélvico).'],
-['posicao','Axial × abaxial','Dedos de ruminantes e suínos: axial = voltada para o eixo entre o 3º e o 4º dedo; abaxial = oposta.'],
-['posicao','Os 4 planos','Sagital mediano, sagital, dorsal (frontal) e transversal.'],
-['posicao','Os 3 eixos','Longitudinal (craniocaudal), sagital (dorsoventral) e laterolateral.'],
-['esqueleto','Ossos alongados','Longos e achatados, sem canal medular: costelas, fíbula.'],
-['esqueleto','Ossos pneumáticos','Com seios de ar: frontal, maxila, esfenoide, etmoide, temporal, palatino.'],
-['esqueleto','Ossos sesamoides','Dentro de tendões, funcionam como roldana: patela, navicular, sesamoides proximais, fabelas.'],
-['osseo','Fases da remodelação','Repouso → reabsorção (osteoclasto) → reversão → formação (osteoblasto).'],
-['osseo','Centros de ossificação','Primário na diáfise; secundários nas epífises. Disco epifisário entre eles.'],
-['tireoide','Cálcio baixo no sangue','Paratireoide libera PTH → osteoclastos reabsorvem → Ca sai do osso para o sangue.'],
-['tireoide','Cálcio alto no sangue','Células C da tireoide liberam calcitonina → inibe osteoclastos → Ca fica no osso.'],
-['cranio','Órbita fechada × aberta','Fechada por osso (processo zigomático do frontal) no equino e bovino; aberta (ligamento orbital) no cão, gato e suíno.'],
-['cranio','Marcas do crânio bovino','Frontal gigante, processo cornual, crista intercornual, sem incisivos superiores.'],
-['cranio','Marcas do crânio equino','Face longa, crista facial, forame infraorbitário, órbita fechada, processo jugular longo.'],
-['cranio','Sutura coronal','Entre frontal e parietal (frontoparietal).'],
-['cranio','Seios mais cobrados','Frontal (bovino: entra no corno) e maxilar (equino: raízes dos molares).'],
-['cranio','Partes do hioide','Estilo-, epi-, cerato-, basi- e tíreo-hioide (+ timpano-hioide cartilaginoso).'],
-['cranio','Sínfise mandibular','Ossifica no equino e suíno; fica fibrocartilaginosa no cão, gato e ruminantes.'],
-['coluna','Os 3 forames do atlas','Vertebral lateral (arco dorsal), alar (cranial) e transverso (caudal).'],
-['coluna','Atlas: ruminante × cão','Ruminante sem forame transverso; cão com incisura alar no lugar do forame alar.'],
-['coluna','C7','Mais curta e larga; sem forame transverso; fóvea costal caudal para a 1ª costela.'],
-['coluna','Cristas do sacro','Mediana (espinhosos), intermédia (articulares), lateral (transversos).'],
-['coluna','Costelas: esternais, asternais, flutuantes','Tocam o esterno; unem-se à cartilagem anterior (arco costal); soltas.'],
-['coluna','Partes da costela','Cabeça, colo, tubérculo, ângulo, corpo (sulco costal), cartilagem costal.'],
-['toracico','Acrômio por espécie','Presente em carnívoros e ruminantes; ausente no equino e suíno.'],
-['toracico','Carpo do bovino','Proximal: radial, intermédio, ulnar, acessório. Distal: II+III, IV. Total 6.'],
-['toracico','Falange distal do equino','Face parietal, face solear, processo extensor, processos palmares, margem coronária, cartilagens ungulares.'],
-['toracico','Nomes populares do dedo equino','Canela, boleto, quartela, coroa, casco (navicular).'],
-['toracico','Úmero: cão × gato','Cão: forame supratroclear. Gato: forame supracondilar (medial).'],
-['pelvico','Tarso por espécie','Equino 6 (I+II); bovino 5 (centroquartal, II+III); cão e suíno 7.'],
-['pelvico','Diâmetros da pelve','Conjugado (promontório → sínfise), transverso, vertical.'],
-['pelvico','Fíbula por espécie','Equino: incompleta, maléolo fundido à tíbia. Ruminante: cabeça fundida + osso maleolar. Cão, gato, suíno: completa.'],
-['pelvico','Patela','Base proximal, ápice distal; sesamoide no tendão do quadríceps; desliza na tróclea.'],
-['especies','5 perguntas de identificação','Terceiro trocânter? Metacarpo fundido? Escápula sem acrômio? Ulna até o meio? Fíbula completa?']
-];
+var NOVOS_FC=[]; /* cartões em fc/*.json */
 
 /* Unidades I, III e V (plano de ensino 2026.2) */
 (function(){const q=(c,t,o,e)=>NOVAS_Q.push({c,q:t,o,e}),f=(c,a,b)=>NOVOS_FC.push([c,a,b]);

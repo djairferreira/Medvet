@@ -1,0 +1,574 @@
+[
+ {
+  "c": "snc",
+  "q": "A célula da glia que forma a mielina no SNC é o:",
+  "o": [
+   "Oligodendrócito",
+   "Astrócito",
+   "Célula de Schwann",
+   "Micróglia"
+  ],
+  "e": "Um oligodendrócito mieliniza vários axônios; Schwann mieliniza um segmento de um axônio no SNP."
+ },
+ {
+  "c": "snc",
+  "q": "Os corpúsculos de Nissl são:",
+  "o": [
+   "RER e polirribossomos do pericário",
+   "Grânulos de mielina armazenados no pericário",
+   "Mitocôndrias agrupadas no axônio",
+   "Lisossomos da micróglia ativada"
+  ],
+  "e": "São RER e polirribossomos do corpo do neurônio, por isso basófilos; faltam no cone de implantação e no axônio."
+ },
+ {
+  "c": "snc",
+  "q": "O neurônio do gânglio espinhal é:",
+  "o": [
+   "Pseudounipolar",
+   "Multipolar",
+   "Bipolar",
+   "Anaxônico"
+  ],
+  "e": "Prolongamento único que se divide em T."
+ },
+ {
+  "c": "snc",
+  "q": "Na medula espinhal, a substância cinzenta fica:",
+  "o": [
+   "No centro, em forma de H",
+   "Na periferia, como córtex",
+   "Apenas nos funículos",
+   "Espalhada em núcleos no cerebelo"
+  ],
+  "e": "No encéfalo é o contrário: córtex cinzento por fora."
+ },
+ {
+  "c": "snc",
+  "q": "A barreira hematoencefálica tem participação dos pés vasculares de:",
+  "o": [
+   "Astrócitos",
+   "Oligodendrócitos",
+   "Células ependimárias",
+   "Células satélites"
+  ],
+  "e": "Junto com as junções de oclusão do endotélio."
+ },
+ {
+  "c": "snc",
+  "q": "O líquido cerebrospinal circula no espaço:",
+  "o": [
+   "Subaracnóideo",
+   "Epidural",
+   "Subdural",
+   "Perineural"
+  ],
+  "e": "Coleta na cisterna magna ou lombar."
+ },
+ {
+  "c": "snc",
+  "q": "A anestesia epidural é feita no espaço entre:",
+  "o": [
+   "A dura-máter e o canal vertebral",
+   "A aracnoide e a pia-máter",
+   "A pia-máter e a medula",
+   "O epineuro e o perineuro"
+  ],
+  "e": "O espaço epidural só existe no canal vertebral."
+ },
+ {
+  "c": "snc",
+  "q": "A parte do encéfalo que coordena movimento e equilíbrio, afetada na panleucopenia felina intrauterina, é o:",
+  "o": [
+   "Cerebelo",
+   "Hipotálamo",
+   "Bulbo",
+   "Corpo caloso"
+  ],
+  "e": "Hipoplasia cerebelar: ataxia e tremores de intenção."
+ },
+ {
+  "c": "snc",
+  "q": "A célula que reveste os ventrículos e o canal central é a:",
+  "o": [
+   "Ependimária",
+   "Micróglia",
+   "Astrócito fibroso",
+   "Célula de Purkinje"
+  ],
+  "e": "No plexo corioide participa da produção de LCR."
+ },
+ {
+  "c": "snc",
+  "q": "A intumescência lombossacral dá origem ao:",
+  "o": [
+   "Plexo lombossacral",
+   "Plexo braquial",
+   "Nervo vago",
+   "Nervo frênico"
+  ],
+  "e": "A intumescência cervical origina o plexo braquial."
+ },
+ {
+  "c": "snc",
+  "q": "Pela divisão funcional do sistema nervoso, o sistema autônomo (visceral) inerva:",
+  "o": [
+   "Músculo liso, músculo cardíaco e glândulas",
+   "Apenas os músculos esqueléticos dos membros",
+   "Os receptores da pele e os músculos esqueléticos",
+   "Somente os órgãos dos sentidos especiais"
+  ],
+  "e": "O autônomo (simpático e parassimpático) controla o músculo liso, o cardíaco e as glândulas; o somático controla os músculos esqueléticos."
+ },
+ {
+  "c": "snc",
+  "q": "O cone de implantação de um neurônio é a região:",
+  "o": [
+   "Do pericário onde nasce o axônio, sem corpúsculos de Nissl",
+   "Terminal do axônio, onde se acumulam as vesículas sinápticas",
+   "Dos dendritos que contém as espinhas dendríticas",
+   "Do núcleo, onde fica o nucléolo grande e evidente"
+  ],
+  "e": "O axônio nasce no cone de implantação, que não tem corpúsculos de Nissl, o que o distingue dos dendritos na lâmina."
+ },
+ {
+  "c": "snc",
+  "q": "Como as proteínas sintetizadas no pericário chegam aos terminais de um axônio que, no equino, pode passar de 1 m?",
+  "o": [
+   "Por transporte axonal mediado por cinesina e dineína",
+   "Por difusão simples pelo axoplasma",
+   "Por síntese local nos nódulos de Ranvier",
+   "Pelo líquido cerebrospinal que banha o axônio"
+  ],
+  "e": "O pericário produz as proteínas da célula, e elas percorrem o axônio por transporte axonal, com as proteínas motoras cinesina e dineína."
+ },
+ {
+  "c": "snc",
+  "q": "Neurônios bipolares, com um dendrito e um axônio em polos opostos, são encontrados tipicamente:",
+  "o": [
+   "Na retina e no epitélio olfatório",
+   "No corno ventral da medula espinhal",
+   "No gânglio da raiz dorsal",
+   "No córtex do cerebelo, como células de Purkinje"
+  ],
+  "e": "Retina e epitélio olfatório são os exemplos clássicos de neurônios bipolares; o gânglio espinhal tem pseudounipolares e o corno ventral, multipolares."
+ },
+ {
+  "c": "snc",
+  "q": "O motoneurônio do corno ventral da medula espinhal é classificado, quanto à morfologia, como:",
+  "o": [
+   "Multipolar",
+   "Bipolar",
+   "Pseudounipolar",
+   "Unipolar verdadeiro"
+  ],
+  "e": "Tem vários dendritos e um axônio, que é o tipo morfológico mais comum."
+ },
+ {
+  "c": "snc",
+  "q": "Quanto à classificação funcional, a imensa maioria dos neurônios do SNC é de:",
+  "o": [
+   "Interneurônios (neurônios de associação)",
+   "Neurônios sensitivos aferentes",
+   "Neurônios motores somáticos",
+   "Neurônios pós-ganglionares autônomos"
+  ],
+  "e": "Os interneurônios ligam neurônios sensitivos e motores e são a imensa maioria no SNC."
+ },
+ {
+  "c": "snc",
+  "q": "A micróglia difere das demais células da glia do SNC porque:",
+  "o": [
+   "É um macrófago residente de origem mesodérmica (saco vitelino)",
+   "Forma a mielina de vários axônios ao mesmo tempo",
+   "Reveste os ventrículos e produz o líquido cerebrospinal",
+   "É a célula mais numerosa e expressa GFAP"
+  ],
+  "e": "A micróglia vem do mesoderma (saco vitelino), enquanto as outras células gliais do SNC vêm do neuroectoderma; ela fagocita e se ativa em infecções como raiva e cinomose."
+ },
+ {
+  "c": "snc",
+  "q": "Uma diferença essencial entre o oligodendrócito e a célula de Schwann é que:",
+  "o": [
+   "O oligodendrócito mieliniza vários axônios; a Schwann, só um",
+   "O oligodendrócito está no SNP e a célula de Schwann no SNC",
+   "Só a célula de Schwann produz mielina rica em lipídios",
+   "O oligodendrócito guia a regeneração do nervo periférico"
+  ],
+  "e": "Um oligodendrócito mieliniza vários axônios do SNC ao mesmo tempo; a célula de Schwann forma a mielina de um único segmento de um axônio no SNP."
+ },
+ {
+  "c": "snc",
+  "q": "A imuno-histoquímica para GFAP (proteína ácida fibrilar glial) é usada para identificar:",
+  "o": [
+   "Astrócitos",
+   "Oligodendrócitos",
+   "Células da micróglia",
+   "Células ependimárias"
+  ],
+  "e": "A GFAP é o marcador dos astrócitos, que também formam a cicatriz glial após lesões do SNC."
+ },
+ {
+  "c": "snc",
+  "q": "Após um trauma no encéfalo, a cicatriz que se forma no tecido nervoso é produzida principalmente por:",
+  "o": [
+   "Astrócitos",
+   "Fibroblastos da dura-máter",
+   "Células de Schwann",
+   "Células satélites"
+  ],
+  "e": "No SNC, a cicatriz é glial, formada por astrócitos."
+ },
+ {
+  "c": "snc",
+  "q": "As células satélites do sistema nervoso:",
+  "o": [
+   "Envolvem os corpos dos neurônios nos gânglios do SNP",
+   "Revestem o canal central da medula espinhal",
+   "Formam a mielina dos tratos da substância branca",
+   "Fagocitam restos celulares no encéfalo"
+  ],
+  "e": "Células satélites são células gliais do SNP que envolvem os pericários nos gânglios."
+ },
+ {
+  "c": "snc",
+  "q": "A condução saltatória nas fibras mielínicas é possível porque:",
+  "o": [
+   "Os canais de Na+ se concentram nos nódulos de Ranvier",
+   "A mielina conduz o impulso por ser rica em proteínas",
+   "Os canais de Ca2+ ficam distribuídos sob toda a mielina",
+   "O axônio não tem membrana nos segmentos mielinizados"
+  ],
+  "e": "A mielina isola o axônio e os canais de Na+ ficam nos nódulos, de modo que o impulso salta de nódulo em nódulo, até 50 vezes mais rápido."
+ },
+ {
+  "c": "snc",
+  "q": "Num corte de nervo corado por HE, cada axônio aparece circundado por uma rede clara e vazia. Isso ocorre porque:",
+  "o": [
+   "Os lipídios da mielina se dissolvem no processamento",
+   "O endoneuro não se cora pela eosina nem pela hematoxilina",
+   "Há edema do espaço subaracnóideo ao redor das fibras",
+   "As células de Schwann sofreram necrose durante a fixação"
+  ],
+  "e": "A mielina, rica em lipídios, se dissolve na HE; para vê-la usa-se Luxol fast blue ou ósmio."
+ },
+ {
+  "c": "snc",
+  "q": "Para demonstrar a bainha de mielina em um corte histológico, o técnico deve usar:",
+  "o": [
+   "Luxol fast blue ou tetróxido de ósmio",
+   "Hematoxilina e eosina de rotina",
+   "Coloração de Gram",
+   "Ácido periódico de Schiff (PAS)"
+  ],
+  "e": "A mielina se perde na HE; Luxol fast blue e ósmio a preservam e coram."
+ },
+ {
+  "c": "snc",
+  "q": "Na encefalomielite da cinomose canina, que cursa com tremores e mioclonias, a lesão característica da substância branca é:",
+  "o": [
+   "Desmielinização causada pelo vírus",
+   "Hipoplasia do cerebelo durante a gestação",
+   "Compressão por extrusão de disco intervertebral",
+   "Formação de cavidades cheias de LCR nos ventrículos"
+  ],
+  "e": "O vírus da cinomose causa desmielinização na substância branca do SNC, associada clinicamente a tremores e mioclonias."
+ },
+ {
+  "c": "snc",
+  "q": "Na sinapse química, a chegada do impulso ao botão terminal provoca liberação do neurotransmissor porque:",
+  "o": [
+   "Abre canais de Ca2+, e o cálcio induz a exocitose",
+   "Abre canais de K+, que empurram as vesículas para a fenda",
+   "Ativa diretamente os receptores da membrana pós-sináptica",
+   "Dissolve a membrana pós-sináptica junto à fenda"
+  ],
+  "e": "A entrada de Ca2+ no botão terminal desencadeia a liberação das vesículas com neurotransmissor na fenda sináptica."
+ },
+ {
+  "c": "snc",
+  "q": "O neurópilo da substância cinzenta corresponde a:",
+  "o": [
+   "Rede de prolongamentos neuronais e gliais entre os pericários",
+   "Feixes de axônios mielinizados que formam os tratos ascendentes",
+   "Revestimento ependimário do canal central da medula",
+   "Camada de pia-máter que penetra nos sulcos do córtex"
+  ],
+  "e": "O neurópilo é a rede de prolongamentos neuronais e gliais, com capilares, que preenche a substância cinzenta."
+ },
+ {
+  "c": "snc",
+  "q": "No encéfalo, os núcleos (como os núcleos da base) são:",
+  "o": [
+   "Agrupamentos de substância cinzenta dentro da branca",
+   "Feixes de axônios mielinizados que cruzam a linha média",
+   "Cavidades revestidas de epêndima e cheias de líquido",
+   "Áreas de substância branca dentro do córtex cerebral"
+  ],
+  "e": "A substância cinzenta se organiza em córtex (superficial) ou em núcleos, que são ilhas dentro da substância branca."
+ },
+ {
+  "c": "snc",
+  "q": "O corpo caloso é um exemplo de:",
+  "o": [
+   "Comissura de substância branca entre os hemisférios",
+   "Núcleo de substância cinzenta situado no diencéfalo",
+   "Camada de células de Purkinje do córtex cerebelar",
+   "Plexo corioide que forra o teto do terceiro ventrículo"
+  ],
+  "e": "O corpo caloso é formado por axônios mielinizados que cruzam entre os dois hemisférios cerebrais."
+ },
+ {
+  "c": "snc",
+  "q": "Na substância branca da medula espinhal, os axônios se organizam em:",
+  "o": [
+   "Funículos dorsal, lateral e ventral",
+   "Cornos dorsal, lateral e ventral",
+   "Camadas molecular, de Purkinje e granular",
+   "Giros e sulcos"
+  ],
+  "e": "Os funículos são as colunas de substância branca da medula; cornos são da substância cinzenta."
+ },
+ {
+  "c": "snc",
+  "q": "As três camadas do córtex cerebelar, da superfície para a profundidade, são:",
+  "o": [
+   "Molecular, de células de Purkinje e granular",
+   "Granular, molecular e de células de Purkinje",
+   "Molecular, granular e plexiforme externa",
+   "De células de Purkinje, molecular e granular"
+  ],
+  "e": "O cerebelo tem córtex de três camadas: molecular (externa), de Purkinje (intermediária) e granular (interna)."
+ },
+ {
+  "c": "snc",
+  "q": "Tálamo, hipotálamo e epitálamo (pineal) compõem o:",
+  "o": [
+   "Diencéfalo",
+   "Mesencéfalo",
+   "Telencéfalo",
+   "Metencéfalo"
+  ],
+  "e": "Essas três estruturas formam o diencéfalo; o tálamo é o grande relé sensitivo."
+ },
+ {
+  "c": "snc",
+  "q": "A região do encéfalo que controla temperatura corporal, fome, sede e a hipófise é o:",
+  "o": [
+   "Hipotálamo",
+   "Tálamo",
+   "Cerebelo",
+   "Bulbo"
+  ],
+  "e": "O hipotálamo, parte do diencéfalo, integra as funções homeostáticas e controla a hipófise."
+ },
+ {
+  "c": "snc",
+  "q": "Qual das estruturas abaixo NÃO faz parte do tronco encefálico?",
+  "o": [
+   "Tálamo",
+   "Mesencéfalo",
+   "Ponte",
+   "Bulbo"
+  ],
+  "e": "O tronco encefálico é formado por mesencéfalo, ponte e bulbo; o tálamo pertence ao diencéfalo."
+ },
+ {
+  "c": "snc",
+  "q": "Lesões graves do bulbo (medula oblonga) costumam ser fatais porque nele estão:",
+  "o": [
+   "Os centros respiratório e cardiovascular",
+   "Os núcleos da base que controlam a marcha",
+   "O tálamo, que retransmite toda a sensibilidade",
+   "Os bulbos olfatórios"
+  ],
+  "e": "O bulbo contém os centros vitais respiratório e cardiovascular, além de núcleos de nervos cranianos."
+ },
+ {
+  "c": "snc",
+  "q": "Um cão passou a apresentar convulsões, mudança de comportamento e anda em círculos, com marcha e reflexos espinhais normais. A região mais provavelmente lesada é o:",
+  "o": [
+   "Cérebro (telencéfalo)",
+   "Cerebelo",
+   "Corno ventral da medula lombar",
+   "Plexo braquial"
+  ],
+  "e": "Alteração de comportamento, convulsões e andar em círculos são sinais de lesão do cérebro (córtex)."
+ },
+ {
+  "c": "snc",
+  "q": "Um bezerro nascido de vaca infectada pelo vírus da diarreia viral bovina (BVD) durante a gestação apresenta ataxia e tremores de intenção. A lesão esperada é:",
+  "o": [
+   "Hipoplasia cerebelar",
+   "Hidrocefalia por excesso de LCR",
+   "Desmielinização da medula espinhal",
+   "Avulsão das raízes do plexo braquial"
+  ],
+  "e": "A BVD, assim como a panleucopenia felina, pode causar hipoplasia cerebelar, que se manifesta por ataxia e tremores de intenção."
+ },
+ {
+  "c": "snc",
+  "q": "A intumescência cervical da medula espinhal (C6–T2) existe porque ali:",
+  "o": [
+   "Originam-se os nervos do plexo braquial",
+   "Termina a medula, formando o cone medular",
+   "Fica o centro simpático toracolombar",
+   "Há a cisterna magna para coleta de LCR"
+  ],
+  "e": "As intumescências são dilatações dos segmentos que inervam os membros: a cervical dá origem ao plexo braquial, para o membro torácico."
+ },
+ {
+  "c": "snc",
+  "q": "No cão, o cone medular termina aproximadamente na altura das vértebras:",
+  "o": [
+   "L6–L7",
+   "T12–T13",
+   "S2–S3",
+   "L1–L2"
+  ],
+  "e": "No cão a medula termina por volta de L6–L7; em bovinos e equinos chega à região sacral (S2)."
+ },
+ {
+  "c": "snc",
+  "q": "A cauda equina corresponde:",
+  "o": [
+   "Às raízes nervosas caudais ao término da medula",
+   "À porção caudal do cerebelo, chamada vérmis",
+   "Aos músculos que movimentam a cauda do equino",
+   "Ao último segmento coccígeo da coluna vertebral"
+  ],
+  "e": "Como a medula cresce menos que a coluna, as raízes dos segmentos caudais descem pelo canal vertebral e formam a cauda equina."
+ },
+ {
+  "c": "snc",
+  "q": "Na região lombar, o segmento medular L5 não fica dentro da vértebra L5. A explicação é que:",
+  "o": [
+   "Durante o desenvolvimento a medula cresce menos que a coluna vertebral",
+   "Os nervos lombares saem cranialmente às vértebras de mesmo número",
+   "A medula termina no forame magno em animais adultos",
+   "As vértebras lombares se fundem com o sacro"
+  ],
+  "e": "A diferença de crescimento faz os segmentos medulares ficarem cranialmente às vértebras de mesmo número no lombo."
+ },
+ {
+  "c": "snc",
+  "q": "Os neurônios pré-ganglionares simpáticos ficam no:",
+  "o": [
+   "Corno lateral da substância cinzenta, de T1 a L3",
+   "Corno dorsal, ao longo de toda a medula espinhal",
+   "Corno ventral das intumescências cervical e lombar",
+   "Funículo lateral da substância branca torácica"
+  ],
+  "e": "O corno lateral, presente de T1 a L3, contém os neurônios autônomos simpáticos."
+ },
+ {
+  "c": "snc",
+  "q": "O corno dorsal da substância cinzenta da medula espinhal tem função predominantemente:",
+  "o": [
+   "Sensitiva",
+   "Motora somática",
+   "Simpática",
+   "Parassimpática"
+  ],
+  "e": "O corno dorsal recebe as fibras sensitivas; o ventral é motor e o lateral é autônomo."
+ },
+ {
+  "c": "snc",
+  "q": "A doença do disco intervertebral com compressão medular é especialmente comum em cães de raças:",
+  "o": [
+   "Condrodistróficas, como Dachshund e Shih-tzu",
+   "Gigantes, como Dogue Alemão e São Bernardo",
+   "Braquicefálicas de pelo curto, como Boxer",
+   "De caça, como Pointer e Setter"
+  ],
+  "e": "Raças condrodistróficas (Dachshund, Shih-tzu) têm degeneração precoce do disco e alta frequência de extrusão."
+ },
+ {
+  "c": "snc",
+  "q": "Um Dachshund com hérnia de disco entre T3 e L3 está paraparético. Ao testar o reflexo patelar, espera-se que ele esteja:",
+  "o": [
+   "Normal ou aumentado, padrão de neurônio motor superior",
+   "Ausente, por lesão de neurônio motor inferior em L4–L6",
+   "Ausente nos pélvicos e aumentado nos torácicos",
+   "Diminuído, por compressão do nervo femoral na hérnia"
+  ],
+  "e": "A lesão fica cranial ao segmento que origina o reflexo patelar (L4–L6), então ele fica normal ou aumentado (neurônio motor superior)."
+ },
+ {
+  "c": "snc",
+  "q": "Uma lesão medular localizada em L4–S3 tende a produzir, nos membros pélvicos:",
+  "o": [
+   "Reflexos diminuídos ou ausentes (neurônio motor inferior)",
+   "Reflexos aumentados (neurônio motor superior)",
+   "Reflexos normais e paralisia dos membros torácicos",
+   "Hiper-reflexia apenas no membro torácico"
+  ],
+  "e": "Quando a lesão atinge o próprio segmento que origina o reflexo, ele fica diminuído, padrão de neurônio motor inferior."
+ },
+ {
+  "c": "snc",
+  "q": "O espaço epidural existe no canal vertebral, mas não no crânio, porque:",
+  "o": [
+   "No crânio a dura-máter adere ao osso",
+   "No crânio não há dura-máter, só aracnoide",
+   "No canal vertebral a pia-máter se separa da medula",
+   "O LCR ocupa o espaço epidural craniano"
+  ],
+  "e": "No crânio a dura-máter funciona também como periósteo; na coluna fica separada do osso pelo espaço epidural, com gordura e veias."
+ },
+ {
+  "c": "snc",
+  "q": "Em bovinos e equinos, a anestesia epidural é feita classicamente no acesso:",
+  "o": [
+   "Sacrococcígeo ou intercoccígeo",
+   "Atlanto-occipital",
+   "Lombossacral, como no cão",
+   "Cervicotorácico"
+  ],
+  "e": "Nos grandes animais a epidural caudal é sacrococcígea ou intercoccígea; no cão usa-se o acesso lombossacral."
+ },
+ {
+  "c": "snc",
+  "q": "Para colher líquido cerebrospinal de um cão por punção da cisterna magna, a agulha entra no espaço:",
+  "o": [
+   "Subaracnóideo, na articulação atlanto-occipital",
+   "Epidural, na região lombossacral",
+   "Subdural, no forame intervertebral de C2",
+   "Ventricular, no quarto ventrículo pelo bulbo"
+  ],
+  "e": "A cisterna magna é uma dilatação do espaço subaracnóideo junto à articulação atlanto-occipital, onde circula o LCR."
+ },
+ {
+  "c": "snc",
+  "q": "A leptomeninge, cuja inflamação caracteriza a meningite, é formada por:",
+  "o": [
+   "Aracnoide e pia-máter",
+   "Dura-máter e aracnoide",
+   "Dura-máter e periósteo",
+   "Pia-máter e epêndima"
+  ],
+  "e": "Aracnoide e pia-máter juntas formam a leptomeninge; a dura-máter é a paquimeninge."
+ },
+ {
+  "c": "snc",
+  "q": "O líquido cerebrospinal é reabsorvido para o sangue principalmente:",
+  "o": [
+   "Nas vilosidades aracnóideas",
+   "Nos plexos corioides dos ventrículos laterais",
+   "No canal central da medula",
+   "Nas veias do espaço epidural"
+  ],
+  "e": "O LCR é produzido nos plexos corioides, circula pelos ventrículos e espaço subaracnóideo e é reabsorvido nas vilosidades aracnóideas."
+ },
+ {
+  "c": "snc",
+  "q": "Um filhote de cão de raça miniatura apresenta cabeça em forma de cúpula e fontanela aberta. A suspeita principal é:",
+  "o": [
+   "Hidrocefalia",
+   "Hipoplasia cerebelar",
+   "Doença do disco intervertebral",
+   "Meningite bacteriana aguda"
+  ],
+  "e": "O acúmulo de líquido cerebrospinal (hidrocefalia) é comum em raças miniatura e aumenta o crânio, mantendo a fontanela aberta."
+ }
+]

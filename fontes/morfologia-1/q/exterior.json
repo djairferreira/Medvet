@@ -1,0 +1,475 @@
+[
+ {
+  "c": "exterior",
+  "q": "O “joelho” do cavalo, na linguagem popular, corresponde anatomicamente ao:",
+  "o": [
+   "Carpo",
+   "Joelho (articulação femorotibiopatelar)",
+   "Tarso",
+   "Cotovelo"
+  ],
+  "e": "O joelho anatômico do equino é chamado de soldra."
+ },
+ {
+  "c": "exterior",
+  "q": "O jarrete é a região do:",
+  "o": [
+   "Tarso",
+   "Carpo",
+   "Joelho",
+   "Boleto"
+  ],
+  "e": "A ponta do jarrete é a tuberosidade do calcâneo."
+ },
+ {
+  "c": "exterior",
+  "q": "O boleto corresponde à articulação:",
+  "o": [
+   "Metacarpofalângica (ou metatarsofalângica)",
+   "Interfalângica distal, dentro do estojo do casco",
+   "Antebraquiocárpica (ou tarsocrural)",
+   "Femorotibiopatelar (ou umerorradioulnar)"
+  ],
+  "e": "Base: extremidade distal do MC III, falange proximal e sesamoides proximais."
+ },
+ {
+  "c": "exterior",
+  "q": "A cernelha tem como base óssea:",
+  "o": [
+   "Processos espinhosos das torácicas craniais",
+   "Asa do ílio e tuberosidades sacrais da garupa",
+   "Processos transversos das vértebras lombares",
+   "Processos espinhosos das vértebras cervicais caudais"
+  ],
+  "e": "Processos espinhosos das primeiras vértebras torácicas; ponto de medida da altura do equino."
+ },
+ {
+  "c": "exterior",
+  "q": "A ruminotomia e a cesariana em bovinos costumam ser feitas pela:",
+  "o": [
+   "Fossa paralombar esquerda (flanco)",
+   "Linha alba cranial, perto do umbigo",
+   "Região axilar direita, atrás do cotovelo",
+   "Região pré-escapular esquerda"
+  ],
+  "e": "O flanco não tem base óssea: fica entre a última costela, os processos transversos lombares e a tuberosidade coxal."
+ },
+ {
+  "c": "exterior",
+  "q": "O codilho é a região do:",
+  "o": [
+   "Olécrano (cotovelo)",
+   "Carpo (joelho do cavalo)",
+   "Calcâneo (ponta do jarrete)",
+   "Acrômio (ponta da espádua)"
+  ],
+  "e": "Atrás do codilho, à esquerda, se ausculta o coração."
+ },
+ {
+  "c": "exterior",
+  "q": "A veia mais usada para coleta de sangue em grandes animais corre no:",
+  "o": [
+   "Sulco jugular",
+   "Flanco",
+   "Sulco intertubercular",
+   "Espaço intercostal"
+  ],
+  "e": "Veia jugular externa."
+ },
+ {
+  "c": "exterior",
+  "q": "A região intermandibular, entre os ramos da mandíbula, é popularmente chamada de:",
+  "o": [
+   "Ganacha",
+   "Chanfro",
+   "Barbela",
+   "Codilho"
+  ],
+  "e": "Ganacha é o nome popular da região intermandibular; chanfro é a região nasal do equino."
+ },
+ {
+  "c": "exterior",
+  "q": "No equino, a região nasal recebe o nome popular de:",
+  "o": [
+   "Chanfro",
+   "Ganacha",
+   "Topete",
+   "Tábua"
+  ],
+  "e": "O chanfro corresponde à região nasal, sobre os ossos nasais."
+ },
+ {
+  "c": "exterior",
+  "q": "A região bucal da cabeça corresponde à:",
+  "o": [
+   "Bochecha",
+   "Boca e lábios",
+   "Região do queixo",
+   "Região da glândula parótida"
+  ],
+  "e": "Região bucal é a bochecha; oral é a da boca, mentual a do queixo e parotídea a da parótida."
+ },
+ {
+  "c": "exterior",
+  "q": "A barbela, prega de pele ventral do pescoço bem desenvolvida, é característica de:",
+  "o": [
+   "Bovinos zebuínos",
+   "Equinos",
+   "Ovinos lanados",
+   "Suínos"
+  ],
+  "e": "A barbela é uma prega cutânea ventral do pescoço típica dos zebuínos."
+ },
+ {
+  "c": "exterior",
+  "q": "Na borda dorsal do pescoço do equino fica a:",
+  "o": [
+   "Crina",
+   "Barbela",
+   "Ganacha",
+   "Cernelha"
+  ],
+  "e": "A crina se implanta na borda dorsal do pescoço; a cernelha já é região do tronco."
+ },
+ {
+  "c": "exterior",
+  "q": "A altura de um equino é medida na:",
+  "o": [
+   "Cernelha",
+   "Garupa",
+   "Cabeça, entre as orelhas",
+   "Região lombar"
+  ],
+  "e": "A cernelha, sobre os processos espinhosos das primeiras torácicas, é o ponto padrão de medida da altura."
+ },
+ {
+  "c": "exterior",
+  "q": "A base óssea da garupa é formada por:",
+  "o": [
+   "Sacro e asa do ílio",
+   "Vértebras lombares e seus processos transversos",
+   "Fêmur e patela",
+   "Últimas costelas e cartilagens costais"
+  ],
+  "e": "A garupa corresponde às regiões sacral e glútea, sobre o sacro e a asa do ílio."
+ },
+ {
+  "c": "exterior",
+  "q": "A “ponta do quadril”, ponto palpável importante no bovino, é a:",
+  "o": [
+   "Tuberosidade coxal",
+   "Tuberosidade isquiática",
+   "Tuberosidade sacral",
+   "Tuberosidade do calcâneo"
+  ],
+  "e": "A tuberosidade coxal, no ílio, é a ponta do quadril; a isquiática é a ponta da nádega."
+ },
+ {
+  "c": "exterior",
+  "q": "A “ponta da nádega” corresponde à:",
+  "o": [
+   "Tuberosidade isquiática",
+   "Tuberosidade coxal",
+   "Tuberosidade sacral",
+   "Trocanter maior do fêmur"
+  ],
+  "e": "A tuberosidade isquiática forma a ponta da nádega, caudal à garupa."
+ },
+ {
+  "c": "exterior",
+  "q": "A espádua ou paleta tem como base óssea a:",
+  "o": [
+   "Escápula",
+   "Úmero",
+   "Clavícula",
+   "Primeira costela"
+  ],
+  "e": "A região escapular, chamada espádua ou paleta, corresponde à escápula."
+ },
+ {
+  "c": "exterior",
+  "q": "A região braquial tem como base óssea o:",
+  "o": [
+   "Úmero",
+   "Rádio",
+   "Fêmur",
+   "Olécrano"
+  ],
+  "e": "A região braquial (braço) corresponde ao úmero."
+ },
+ {
+  "c": "exterior",
+  "q": "A região antebraquial tem como base óssea:",
+  "o": [
+   "Rádio e ulna",
+   "Tíbia e fíbula",
+   "Úmero",
+   "Ossos do carpo"
+  ],
+  "e": "O antebraço corresponde ao rádio e à ulna; tíbia e fíbula formam a região crural."
+ },
+ {
+  "c": "exterior",
+  "q": "A canela do equino, no membro torácico, corresponde a:",
+  "o": [
+   "Metacarpo III e metacarpos rudimentares II e IV",
+   "Rádio e ulna, na porção distal do antebraço",
+   "Falange proximal e sesamoides proximais",
+   "Ossos das fileiras proximal e distal do carpo"
+  ],
+  "e": "A região metacárpica (canela) tem o MC III como osso principal e os rudimentares II e IV."
+ },
+ {
+  "c": "exterior",
+  "q": "Quais ossos sesamoides participam da base do boleto?",
+  "o": [
+   "Sesamoides proximais",
+   "Sesamoide distal (navicular)",
+   "Patela",
+   "Osso acessório do carpo"
+  ],
+  "e": "O boleto envolve o MC III distal, a falange proximal e os sesamoides proximais; o navicular está dentro do casco."
+ },
+ {
+  "c": "exterior",
+  "q": "A quartela tem como base óssea a:",
+  "o": [
+   "Falange proximal",
+   "Falange média",
+   "Falange distal",
+   "Extremidade distal do metacarpo III"
+  ],
+  "e": "A quartela corresponde à falange proximal e à articulação interfalângica proximal."
+ },
+ {
+  "c": "exterior",
+  "q": "A região da coroa corresponde à:",
+  "o": [
+   "Falange média, na transição entre pele e casco",
+   "Falange distal, dentro do estojo córneo",
+   "Falange proximal e articulação metacarpofalângica",
+   "Extremidade distal do rádio"
+  ],
+  "e": "A coroa fica sobre a falange média, onde a pele se continua com o casco."
+ },
+ {
+  "c": "exterior",
+  "q": "Dentro do estojo córneo, a região do casco contém:",
+  "o": [
+   "Falange distal e sesamoide distal (navicular)",
+   "Falange proximal e sesamoides proximais",
+   "Falange média e falange proximal",
+   "Metacarpo III e falange proximal"
+  ],
+  "e": "O casco envolve a falange distal e o osso navicular."
+ },
+ {
+  "c": "exterior",
+  "q": "A soldra do equino corresponde à:",
+  "o": [
+   "Articulação femorotibiopatelar",
+   "Articulação do carpo",
+   "Articulação do tarso",
+   "Articulação coxofemoral"
+  ],
+  "e": "Soldra é o joelho anatômico, no membro pélvico, com a patela."
+ },
+ {
+  "c": "exterior",
+  "q": "A região crural (perna) tem como base óssea:",
+  "o": [
+   "Tíbia e fíbula",
+   "Fêmur",
+   "Rádio e ulna",
+   "Metatarso III"
+  ],
+  "e": "A perna corresponde à tíbia e à fíbula, entre a soldra e o jarrete."
+ },
+ {
+  "c": "exterior",
+  "q": "A “ponta do jarrete”, palpável na face caudal do tarso, é a:",
+  "o": [
+   "Tuberosidade do calcâneo",
+   "Tuberosidade isquiática",
+   "Patela",
+   "Osso acessório do carpo"
+  ],
+  "e": "A tuberosidade do calcâneo forma a ponta do jarrete."
+ },
+ {
+  "c": "exterior",
+  "q": "Comparando com a anatomia humana, o jarrete do equino equivale ao nosso:",
+  "o": [
+   "Tornozelo",
+   "Joelho",
+   "Punho",
+   "Cotovelo"
+  ],
+  "e": "O jarrete é o tarso, equivalente ao tornozelo humano."
+ },
+ {
+  "c": "exterior",
+  "q": "Qual associação entre nome popular e região está INCORRETA?",
+  "o": [
+   "Soldra – região cárpica",
+   "Jarrete – região társica",
+   "Codilho – região olecraniana",
+   "Canela – região metacárpica"
+  ],
+  "e": "Soldra é a região genual (femorotibiopatelar); a região cárpica é o “joelho” popular do equino."
+ },
+ {
+  "c": "exterior",
+  "q": "O flanco (vazio) é uma região que:",
+  "o": [
+   "Não tem base óssea: é a fossa paralombar",
+   "Tem como base óssea as últimas costelas",
+   "Corresponde à asa do ílio e ao sacro",
+   "Tem como base os corpos das vértebras lombares"
+  ],
+  "e": "O flanco é a fossa paralombar, sem osso subjacente, entre a última costela, os processos transversos lombares e a tuberosidade coxal."
+ },
+ {
+  "c": "exterior",
+  "q": "Uma vaca apresenta abaulamento acentuado do flanco esquerdo após ingerir grande quantidade de leguminosa. O achado é compatível com:",
+  "o": [
+   "Timpanismo ruminal",
+   "Deslocamento do abomaso à direita",
+   "Hérnia umbilical",
+   "Abscesso no linfonodo pré-escapular"
+  ],
+  "e": "O rúmen ocupa o lado esquerdo; o timpanismo dilata a fossa paralombar esquerda."
+ },
+ {
+  "c": "exterior",
+  "q": "Além do acesso cirúrgico, a fossa paralombar esquerda dos ruminantes é usada para:",
+  "o": [
+   "Auscultar e observar os movimentos ruminais",
+   "Auscultar o coração",
+   "Palpar o linfonodo cervical superficial",
+   "Coletar sangue da veia jugular"
+  ],
+  "e": "Sobre o flanco esquerdo se auscultam e se observam os movimentos do rúmen."
+ },
+ {
+  "c": "exterior",
+  "q": "Em bovinos de corte, a aplicação intramuscular deve ser feita preferencialmente na:",
+  "o": [
+   "Tábua do pescoço",
+   "Região glútea",
+   "Região femoral",
+   "Região lombar"
+  ],
+  "e": "O pescoço é preferido para não lesar os cortes nobres da garupa e da coxa."
+ },
+ {
+  "c": "exterior",
+  "q": "A auscultação cardíaca em grandes animais é feita:",
+  "o": [
+   "À esquerda, atrás do codilho (3ª a 6ª costela)",
+   "À direita, sobre a fossa paralombar",
+   "À esquerda, sobre a tuberosidade coxal",
+   "Na região pré-escapular, à frente da escápula"
+  ],
+  "e": "O coração fica no tórax ventral, entre a 3ª e a 6ª costela, palpado e auscultado atrás do codilho, do lado esquerdo."
+ },
+ {
+  "c": "exterior",
+  "q": "Na região pré-escapular palpa-se o linfonodo:",
+  "o": [
+   "Cervical superficial",
+   "Mandibular",
+   "Mamário",
+   "Inguinal superficial"
+  ],
+  "e": "O linfonodo cervical superficial, também chamado pré-escapular, fica cranial à escápula."
+ },
+ {
+  "c": "exterior",
+  "q": "Um potro apresenta aumento de volume quente e doloroso entre os ramos da mandíbula, com febre e secreção nasal. A suspeita é de:",
+  "o": [
+   "Garrotilho, com abscesso nos linfonodos mandibulares",
+   "Laminite aguda com rotação da falange distal",
+   "Timpanismo gasoso com dilatação do flanco esquerdo",
+   "Tromboflebite séptica da veia jugular externa"
+  ],
+  "e": "O garrotilho (Streptococcus equi) causa abscedação dos linfonodos mandibulares no equino."
+ },
+ {
+  "c": "exterior",
+  "q": "Na avaliação de um equino com suspeita de laminite, as regiões de exame prioritárias são:",
+  "o": [
+   "Coroa e casco",
+   "Cernelha e dorso",
+   "Garupa e região glútea",
+   "Sulco jugular e região traqueal"
+  ],
+  "e": "Laminite, abscessos de casco e muitas claudicações são avaliados na coroa e no casco."
+ },
+ {
+  "c": "exterior",
+  "q": "No escore de condição corporal de vacas leiteiras (escala de 1 a 5), avalia-se a cobertura de gordura sobre:",
+  "o": [
+   "Ponta do quadril, ísquio e processos transversos lombares",
+   "Escápula, úmero e olécrano do membro torácico",
+   "Cernelha, processos espinhosos cervicais e barbela",
+   "Patela, calcâneo e osso acessório do carpo"
+  ],
+  "e": "Tuberosidades coxal (ponta do quadril) e isquiática e processos transversos lombares: esses pontos ósseos palpáveis da garupa e do lombo definem a nota de condição corporal."
+ },
+ {
+  "c": "exterior",
+  "q": "A “ponta do ombro”, ponto palpável do membro torácico, é formada pelo:",
+  "o": [
+   "Tubérculo maior do úmero",
+   "Acrômio da escápula",
+   "Olécrano da ulna",
+   "Osso acessório do carpo"
+  ],
+  "e": "O tubérculo maior do úmero forma a ponta do ombro."
+ },
+ {
+  "c": "exterior",
+  "q": "Qual ponto de referência ósseo é palpável na face palmar e lateral do carpo?",
+  "o": [
+   "Osso acessório do carpo",
+   "Tuberosidade do calcâneo",
+   "Patela",
+   "Tubérculo maior do úmero"
+  ],
+  "e": "O osso acessório do carpo projeta-se caudalmente no carpo e é facilmente palpável."
+ },
+ {
+  "c": "exterior",
+  "q": "Qual descrição de lesão segue corretamente o padrão região + lado + orientação?",
+  "o": [
+   "Ferida de 3 cm na região metacárpica dorsal do membro torácico esquerdo",
+   "Ferida de 3 cm na frente da canela da perna dianteira",
+   "Ferida de 3 cm na região superior do metacarpo",
+   "Ferida de 3 cm na face cranial do metacarpo do membro esquerdo"
+  ],
+  "e": "Usa-se a região técnica, o lado e o termo de direção correto; abaixo do carpo a face da frente é dorsal, não cranial."
+ },
+ {
+  "c": "exterior",
+  "q": "O costado do animal corresponde à região:",
+  "o": [
+   "Costal, sobre as costelas",
+   "Esternal, sobre o esterno",
+   "Lombar, sobre os processos transversos",
+   "Escapular, sobre a escápula"
+  ],
+  "e": "Costado é o nome popular das regiões costais, com base nas costelas."
+ },
+ {
+  "c": "exterior",
+  "q": "A região do peito, ventral e cranial ao tórax, é tecnicamente denominada região:",
+  "o": [
+   "Pré-esternal",
+   "Interescapular",
+   "Umbilical",
+   "Pré-escapular"
+  ],
+  "e": "O peito corresponde à região pré-esternal, cranial ao esterno."
+ }
+]

@@ -1,0 +1,530 @@
+[
+ {
+  "c": "musculo",
+  "q": "Músculos peniformes, comparados aos de fibras paralelas, têm:",
+  "o": [
+   "Mais força e menor amplitude",
+   "Mais amplitude e menos força",
+   "Mesma força e amplitude",
+   "Fibras mais longas"
+  ],
+  "e": "Muitas fibras curtas e oblíquas por área."
+ },
+ {
+  "c": "musculo",
+  "q": "O tendão é formado por tecido:",
+  "o": [
+   "Conjuntivo denso modelado",
+   "Muscular liso",
+   "Conjuntivo frouxo",
+   "Cartilaginoso hialino"
+  ],
+  "e": "Pouco vascularizado: cicatriza devagar."
+ },
+ {
+  "c": "musculo",
+  "q": "A aponeurose é:",
+  "o": [
+   "Um tendão em forma de lâmina larga",
+   "Um envoltório de cada fibra",
+   "Uma bolsa sinovial",
+   "Um osso sesamoide"
+  ],
+  "e": "Ex.: músculos abdominais e linha alba."
+ },
+ {
+  "c": "musculo",
+  "q": "A bolsa sinovial é:",
+  "o": [
+   "Saco sinovial entre um tendão (ou a pele) e um osso",
+   "Envoltório conjuntivo que reveste todo o músculo",
+   "Fáscia espessada que cobre a articulação",
+   "Tendão intermédio entre dois ventres musculares"
+  ],
+  "e": "É um saco com líquido sinovial entre um tendão (ou pele) e uma saliência óssea. Inflamação: bursite (ex.: higroma do cotovelo)."
+ },
+ {
+  "c": "musculo",
+  "q": "O músculo que se opõe ao movimento do agonista é o:",
+  "o": [
+   "Antagonista",
+   "Sinergista",
+   "Fixador",
+   "Tensor"
+  ],
+  "e": "Ele relaxa para permitir o movimento."
+ },
+ {
+  "c": "musculo",
+  "q": "No carpo e nos dedos, os músculos extensores ficam na face:",
+  "o": [
+   "Dorsal",
+   "Palmar",
+   "Medial",
+   "Caudal"
+  ],
+  "e": "Os flexores ficam na face palmar."
+ },
+ {
+  "c": "musculo",
+  "q": "O tronco dos domésticos fica “suspenso” entre os membros torácicos principalmente pelos músculos:",
+  "o": [
+   "Serrátil ventral e peitorais",
+   "Glúteos médio e profundo",
+   "Intercostais externos e internos",
+   "Reto do abdome e oblíquos"
+  ],
+  "e": "Não há clavícula funcional: sinsarcose."
+ },
+ {
+  "c": "musculo",
+  "q": "O aparelho de sustentação permite que o cavalo:",
+  "o": [
+   "Durma em pé gastando pouca energia",
+   "Galope mais rápido em distâncias curtas",
+   "Feche a mandíbula com mais força",
+   "Respire pelo flanco durante o esforço"
+  ],
+  "e": "Tendões, ligamentos e músculos tendinosos travam as articulações."
+ },
+ {
+  "c": "musculo",
+  "q": "O tendão calcâneo comum é formado principalmente pelos músculos:",
+  "o": [
+   "Gastrocnêmio e flexor digital superficial",
+   "Quadríceps femoral, sartório e grácil",
+   "Bíceps braquial e braquial do antebraço",
+   "Glúteo médio, glúteo profundo e piriforme"
+  ],
+  "e": "Ruptura: jarrete caído."
+ },
+ {
+  "c": "musculo",
+  "q": "O ventre de um músculo esquelético corresponde:",
+  "o": [
+   "À porção carnosa e contrátil, de fibras musculares",
+   "À extremidade de inserção, de conjuntivo denso",
+   "Ao envoltório de fáscia profunda que o recobre",
+   "À bolsa sinovial que o separa do osso subjacente"
+  ],
+  "e": "O ventre é a parte vermelha e contrátil; tendão e aponeurose são as partes de ligação."
+ },
+ {
+  "c": "musculo",
+  "q": "O nome do músculo digástrico indica que ele possui:",
+  "o": [
+   "Dois ventres unidos por um tendão intermédio",
+   "Duas cabeças de origem separadas e um tendão",
+   "Fibras dispostas de forma bipenada no ventre",
+   "Inserção em dois ossos diferentes da cabeça"
+  ],
+  "e": "Digástrico significa dois ventres, ligados por um tendão intermédio; bíceps, tríceps e quadríceps referem-se a cabeças."
+ },
+ {
+  "c": "musculo",
+  "q": "As lesões de tendão, como a tendinite do flexor digital superficial do equino, cicatrizam lentamente porque o tendão:",
+  "o": [
+   "É pouco vascularizado",
+   "Não contém colágeno",
+   "É rico em fibras elásticas",
+   "Tem muitas células em mitose"
+  ],
+  "e": "O tendão é conjuntivo denso modelado, com colágeno I paralelo e pouca vascularização, o que torna a reparação lenta."
+ },
+ {
+  "c": "musculo",
+  "q": "Quando um músculo se contrai, em geral:",
+  "o": [
+   "A inserção, mais móvel, é puxada em direção à origem",
+   "A origem, mais móvel, é puxada em direção à inserção",
+   "Origem e inserção se afastam durante o encurtamento",
+   "O ventre se alonga enquanto o tendão encurta"
+  ],
+  "e": "A origem é o ponto mais fixo (geralmente proximal) e a inserção, o mais móvel (geralmente distal)."
+ },
+ {
+  "c": "musculo",
+  "q": "O músculo cutâneo, que movimenta a pele, fica contido na:",
+  "o": [
+   "Fáscia superficial",
+   "Fáscia profunda",
+   "Aponeurose abdominal",
+   "Bainha sinovial"
+  ],
+  "e": "A fáscia superficial fica sob a pele e contém o músculo cutâneo; a profunda envolve os músculos e forma septos."
+ },
+ {
+  "c": "musculo",
+  "q": "Fáscia lata da coxa e fáscia toracolombar são exemplos de:",
+  "o": [
+   "Fáscia profunda",
+   "Fáscia superficial",
+   "Retináculos",
+   "Bainhas sinoviais"
+  ],
+  "e": "A fáscia profunda envolve os músculos e forma septos intermusculares; fáscia lata e toracolombar são exemplos."
+ },
+ {
+  "c": "musculo",
+  "q": "A bainha sinovial (tendínea) é:",
+  "o": [
+   "Saco sinovial que envolve o tendão onde ele desliza",
+   "Faixa de fáscia espessada que prende os tendões",
+   "Osso sesamoide desenvolvido dentro de um tendão",
+   "Coxim de gordura situado entre músculos vizinhos"
+  ],
+  "e": "A bainha sinovial envolve o tendão em seu trajeto de deslizamento; sua inflamação é a tenossinovite."
+ },
+ {
+  "c": "musculo",
+  "q": "O vessigão tendíneo do equino corresponde a:",
+  "o": [
+   "Tenossinovite, com distensão de uma bainha sinovial",
+   "Ruptura parcial do tendão calcâneo comum",
+   "Bursite supraespinhosa da cernelha, por trauma da sela",
+   "Fratura do osso navicular com artrite do casco"
+  ],
+  "e": "O vessigão tendíneo é a distensão de uma bainha sinovial (tenossinovite), por exemplo da bainha digital."
+ },
+ {
+  "c": "musculo",
+  "q": "Um cão de raça grande que passa muito tempo deitado em piso duro desenvolve um aumento de volume flutuante sobre o olécrano. Trata-se de:",
+  "o": [
+   "Higroma do cotovelo, uma bursite",
+   "Tenossinovite da bainha digital",
+   "Ruptura do tríceps braquial",
+   "Hérnia muscular do bíceps"
+  ],
+  "e": "O higroma é a inflamação de uma bolsa sinovial adquirida sobre a saliência óssea do cotovelo."
+ },
+ {
+  "c": "musculo",
+  "q": "O mal da cernelha do equino é a inflamação de uma:",
+  "o": [
+   "Bolsa sinovial",
+   "Bainha tendínea digital",
+   "Aponeurose abdominal",
+   "Fáscia lata"
+  ],
+  "e": "É uma bursite: inflamação da bolsa sinovial da região da cernelha."
+ },
+ {
+  "c": "musculo",
+  "q": "A estrutura que mantém os tendões no lugar quando cruzam o carpo e o tarso é o:",
+  "o": [
+   "Retináculo",
+   "Ligamento suspensor",
+   "Osso sesamoide",
+   "Epimísio"
+  ],
+  "e": "Retináculos são faixas de fáscia espessada que prendem os tendões sobre as articulações."
+ },
+ {
+  "c": "musculo",
+  "q": "Qual destes ossos NÃO é um osso sesamoide?",
+  "o": [
+   "Calcâneo",
+   "Patela",
+   "Navicular (sesamoide distal)",
+   "Sesamoide proximal do boleto"
+  ],
+  "e": "Patela, sesamoides proximais e o navicular desenvolvem-se em tendões; o calcâneo é um osso do tarso."
+ },
+ {
+  "c": "musculo",
+  "q": "A função dos ossos sesamoides é:",
+  "o": [
+   "Mudar o ângulo de tração do tendão e protegê-lo",
+   "Produzir líquido sinovial para o tendão",
+   "Servir de origem para os músculos cutâneos",
+   "Formar a fáscia profunda"
+  ],
+  "e": "O sesamoide fica dentro do tendão, alterando o ângulo de tração e protegendo-o do atrito."
+ },
+ {
+  "c": "musculo",
+  "q": "Os músculos circulares, como o orbicular do olho e o orbicular da boca, têm ação de:",
+  "o": [
+   "Esfíncter (constritor)",
+   "Extensor (dilatador)",
+   "Abdutor (dilatador lateral)",
+   "Rotador (supinador)"
+  ],
+  "e": "Fibras dispostas em círculo fecham uma abertura, funcionando como esfíncteres."
+ },
+ {
+  "c": "musculo",
+  "q": "Um músculo de fibras paralelas longas, comparado a um multipenado de mesmo volume, oferece:",
+  "o": [
+   "Maior amplitude de movimento e menos força",
+   "Maior força e menor amplitude de movimento",
+   "Mesma força e mesma amplitude de movimento",
+   "Menor força e menor amplitude de movimento"
+  ],
+  "e": "Fibras longas e paralelas encurtam muito, mas há menos fibras por área de secção, portanto menos força."
+ },
+ {
+  "c": "musculo",
+  "q": "Durante um movimento, o músculo que estabiliza a origem do agonista para que este atue com eficiência é chamado:",
+  "o": [
+   "Fixador",
+   "Sinergista",
+   "Antagonista",
+   "Agonista"
+  ],
+  "e": "O fixador estabiliza o osso de origem; o sinergista ajuda o agonista e o antagonista tem ação oposta."
+ },
+ {
+  "c": "musculo",
+  "q": "O sinergista é o músculo que:",
+  "o": [
+   "Ajuda o agonista a realizar o movimento",
+   "Realiza a ação oposta à do agonista",
+   "É o motor principal do movimento",
+   "Fecha uma abertura do corpo"
+  ],
+  "e": "Sinergistas colaboram com o agonista; o antagonista relaxa para permitir o movimento."
+ },
+ {
+  "c": "musculo",
+  "q": "Em geral, nos membros, um músculo é flexor de uma articulação quando:",
+  "o": [
+   "Passa pela face em que o ângulo articular se fecha",
+   "Passa pela face em que o ângulo articular se abre",
+   "Origina-se proximalmente e insere-se distalmente",
+   "Tem fibras peniformes"
+  ],
+  "e": "O lado da articulação que o músculo cruza define a ação: do lado em que o ângulo se fecha, é flexor."
+ },
+ {
+  "c": "musculo",
+  "q": "O nome do músculo deltoide se baseia na sua:",
+  "o": [
+   "Forma",
+   "Ação",
+   "Posição",
+   "Direção das fibras"
+  ],
+  "e": "Deltoide lembra a letra grega delta (triângulo); trapézio, romboide e redondo também são nomes pela forma."
+ },
+ {
+  "c": "musculo",
+  "q": "Os nomes esternocefálico, braquiocefálico e omotransversário se baseiam:",
+  "o": [
+   "Nos pontos de fixação",
+   "Na direção das fibras",
+   "No número de cabeças",
+   "Na ação do músculo"
+  ],
+  "e": "Esses nomes indicam onde o músculo se prende (esterno e cabeça; braço e cabeça; ombro e processos transversos)."
+ },
+ {
+  "c": "musculo",
+  "q": "Qual destes músculos é nomeado pela direção de suas fibras?",
+  "o": [
+   "Transverso do abdome",
+   "Supraespinhal",
+   "Extensor digital comum",
+   "Tríceps braquial"
+  ],
+  "e": "Oblíquo, reto e transverso do abdome indicam a direção das fibras; supraespinhal é posição, extensor é ação e tríceps é número de cabeças."
+ },
+ {
+  "c": "musculo",
+  "q": "O levantador do lábio superior é um exemplo de músculo nomeado pela:",
+  "o": [
+   "Ação",
+   "Forma",
+   "Posição",
+   "Origem"
+  ],
+  "e": "Levantador indica o que o músculo faz, assim como extensor e flexor."
+ },
+ {
+  "c": "musculo",
+  "q": "Músculos curtos, como os que unem vértebras vizinhas, são classificados pela:",
+  "o": [
+   "Forma",
+   "Disposição das fibras",
+   "Número de cabeças",
+   "Ação de esfíncter"
+  ],
+  "e": "Pela forma, os músculos são longos (membros), curtos (vértebras), planos e largos, circulares e fusiformes."
+ },
+ {
+  "c": "musculo",
+  "q": "O músculo responsável por estender o cotovelo e sustentar o peso no membro torácico, inervado pelo radial, é o:",
+  "o": [
+   "Tríceps braquial",
+   "Bíceps braquial",
+   "Deltoide",
+   "Supraespinhal"
+  ],
+  "e": "O tríceps estende o cotovelo; por isso a paralisia do radial impede a sustentação do peso."
+ },
+ {
+  "c": "musculo",
+  "q": "Bíceps femoral, semitendinoso e semimembranoso são agrupados na região:",
+  "o": [
+   "Caudal da coxa, os músculos do jarrete",
+   "Cranial da coxa, o quadríceps femoral",
+   "Medial da coxa, junto aos adutores",
+   "Da perna, junto com o gastrocnêmio"
+  ],
+  "e": "São os músculos caudais da coxa; o isquiático passa entre eles, o que exige cuidado nas injeções."
+ },
+ {
+  "c": "musculo",
+  "q": "Em cães e suínos, ao aplicar injeção intramuscular no bíceps femoral ou no semitendinoso, o principal cuidado anatômico é evitar o:",
+  "o": [
+   "Nervo isquiático",
+   "Nervo femoral",
+   "Tendão calcâneo comum",
+   "Ligamento patelar medial"
+  ],
+  "e": "O isquiático cursa entre os músculos caudais da coxa; injeção mal posicionada pode lesá-lo."
+ },
+ {
+  "c": "musculo",
+  "q": "Um cão com ruptura do tendão calcâneo comum apresentará:",
+  "o": [
+   "Jarrete caído e apoio plantígrado",
+   "Membro estendido para trás, travado",
+   "Cotovelo caído e apoio no dorso dos dedos",
+   "Abdução dos membros em piso liso"
+  ],
+  "e": "Sem o tendão do gastrocnêmio e do flexor digital superficial, o jarrete não se estende e o animal apoia a região plantar."
+ },
+ {
+  "c": "musculo",
+  "q": "Na laparotomia pelo flanco de um bovino, o cirurgião atravessa, da superfície para a profundidade, os músculos:",
+  "o": [
+   "Oblíquo externo, oblíquo interno e transverso do abdome",
+   "Reto do abdome, transverso do abdome e oblíquo externo",
+   "Transverso do abdome, oblíquo interno e oblíquo externo",
+   "Cutâneo do tronco, reto do abdome e diafragma"
+  ],
+  "e": "A parede lateral tem três camadas planas: oblíquo externo, oblíquo interno e transverso do abdome, nessa ordem."
+ },
+ {
+  "c": "musculo",
+  "q": "Em cães, a laparotomia mais utilizada é pela linha média, que corresponde à:",
+  "o": [
+   "Linha alba, união das aponeuroses abdominais",
+   "Margem lateral do músculo reto do abdome",
+   "Inserção costal do diafragma na linha média",
+   "Fáscia toracolombar da região dorsal"
+  ],
+  "e": "A linha alba é formada pelas aponeuroses dos músculos abdominais e é pouco vascularizada, sendo o acesso padrão no cão."
+ },
+ {
+  "c": "musculo",
+  "q": "Um gato atropelado apresenta dispneia e ausência de som pulmonar em parte do tórax. Uma lesão muscular típica desse trauma é:",
+  "o": [
+   "Hérnia diafragmática",
+   "Ruptura do tendão calcâneo",
+   "Fixação dorsal da patela",
+   "Higroma do cotovelo"
+  ],
+  "e": "A ruptura traumática do diafragma permite que vísceras abdominais entrem no tórax, comum em cães e gatos atropelados."
+ },
+ {
+  "c": "musculo",
+  "q": "O reflexo panicular, usado no exame neurológico do cão, depende da contração do músculo:",
+  "o": [
+   "Cutâneo do tronco",
+   "Grande dorsal",
+   "Serrátil ventral",
+   "Reto do abdome"
+  ],
+  "e": "O cutâneo do tronco faz a pele tremer; o reflexo panicular ajuda a localizar lesões medulares toracolombares."
+ },
+ {
+  "c": "musculo",
+  "q": "A união do tronco aos membros torácicos nos domésticos ocorre por músculos (sinsarcose), e não por articulação óssea, porque:",
+  "o": [
+   "Esses animais não têm clavícula funcional",
+   "A escápula se articula diretamente com o esterno",
+   "O úmero se articula com as costelas",
+   "O serrátil ventral é um ligamento"
+  ],
+  "e": "Sem clavícula funcional, o tronco fica suspenso entre os membros torácicos pelo serrátil ventral e pelos peitorais."
+ },
+ {
+  "c": "musculo",
+  "q": "No aparelho de sustentação do membro torácico do equino, o ligamento suspensor do boleto corresponde ao:",
+  "o": [
+   "Músculo interósseo médio",
+   "Tendão do flexor digital profundo",
+   "Ligamento patelar medial",
+   "Músculo fibular terceiro"
+  ],
+  "e": "O interósseo médio, quase totalmente tendinoso no cavalo, é o ligamento suspensor do boleto."
+ },
+ {
+  "c": "musculo",
+  "q": "No equino, os ligamentos acessórios (“freios”) dos flexores digitais superficial e profundo atuam para:",
+  "o": [
+   "Impedir que o boleto e o carpo cedam com o peso",
+   "Estender o cotovelo durante a fase de apoio do passo",
+   "Travar a patela sobre a crista medial da tróclea",
+   "Flexionar o jarrete junto com o joelho"
+  ],
+  "e": "Os freios ligam os tendões flexores ao esqueleto, sustentando passivamente o boleto e o carpo."
+ },
+ {
+  "c": "musculo",
+  "q": "No membro torácico do equino em estação, ombro e cotovelo são estabilizados passivamente pelo:",
+  "o": [
+   "Bíceps braquial e lacertus fibrosus",
+   "Tríceps braquial e ancôneo",
+   "Fibular terceiro e flexor digital superficial",
+   "Interósseo médio e ligamentos sesamoides"
+  ],
+  "e": "O bíceps braquial, muito tendinoso, e o lacertus fibrosus integram o aparelho de sustentação no ombro e no cotovelo."
+ },
+ {
+  "c": "musculo",
+  "q": "O aparelho recíproco do membro pélvico do equino, que faz joelho e jarrete se moverem juntos, é formado pelo:",
+  "o": [
+   "Fibular terceiro e flexor digital superficial",
+   "Quadríceps femoral e gastrocnêmio",
+   "Bíceps femoral e semitendinoso",
+   "Interósseo médio e flexor digital profundo"
+  ],
+  "e": "O fibular terceiro (cranial) e o flexor digital superficial (caudal) acoplam a flexão e a extensão do joelho e do jarrete."
+ },
+ {
+  "c": "musculo",
+  "q": "O cavalo trava o joelho em estação porque a patela se prende:",
+  "o": [
+   "No lábio medial da tróclea do fêmur, pelo ligamento patelar medial",
+   "No lábio lateral da tróclea, pelo ligamento patelar lateral",
+   "Na tuberosidade da tíbia, pelo tendão do quadríceps",
+   "No trocânter maior, pelo glúteo médio"
+  ],
+  "e": "O ligamento patelar medial engancha a patela sobre o lábio medial da tróclea, travando o joelho com pouco gasto muscular."
+ },
+ {
+  "c": "musculo",
+  "q": "Um potro mantém o membro pélvico rigidamente estendido para trás e arrasta a pinça, sem conseguir flexioná-lo. A correção cirúrgica clássica é:",
+  "o": [
+   "Desmotomia do ligamento patelar medial",
+   "Tenotomia do tendão calcâneo comum",
+   "Neurectomia do nervo tibial",
+   "Ressecção do músculo fibular terceiro"
+  ],
+  "e": "O quadro é de fixação dorsal da patela; seccionar o ligamento patelar medial impede o travamento."
+ },
+ {
+  "c": "musculo",
+  "q": "O “arco” em cavalos de corrida corresponde a:",
+  "o": [
+   "Tendinite do flexor digital superficial",
+   "Desmite do ligamento patelar medial",
+   "Bursite do navicular",
+   "Ruptura do músculo fibular terceiro"
+  ],
+  "e": "A tendinite do flexor digital superficial é lesão frequente em cavalos de corrida, chamada popularmente de arco."
+ }
+]

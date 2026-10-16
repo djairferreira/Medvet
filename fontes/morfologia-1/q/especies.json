@@ -1,0 +1,508 @@
+[
+ {
+  "c": "especies",
+  "q": "Um fêmur com terceiro trocânter evidente é de:",
+  "o": [
+   "Equino",
+   "Bovino",
+   "Cão",
+   "Suíno"
+  ],
+  "e": "Marca registrada do cavalo."
+ },
+ {
+  "c": "especies",
+  "q": "Um metacarpo único formado por dois ossos fundidos, com sulco no meio, é de:",
+  "o": [
+   "Bovino",
+   "Equino",
+   "Cão",
+   "Suíno"
+  ],
+  "e": "Ruminantes fundem III e IV."
+ },
+ {
+  "c": "especies",
+  "q": "Escápula com acrômio e processo hamato, sem túber da espinha, é de:",
+  "o": [
+   "Cão",
+   "Equino",
+   "Suíno",
+   "Bovino"
+  ],
+  "e": "O gato também tem o supra-hamato."
+ },
+ {
+  "c": "especies",
+  "q": "Ulna que termina no meio do rádio, fundida a ele, é de:",
+  "o": [
+   "Equino",
+   "Bovino",
+   "Cão",
+   "Suíno"
+  ],
+  "e": "Nas outras espécies a ulna é completa."
+ },
+ {
+  "c": "especies",
+  "q": "Qual destes animais tem a fíbula completa?",
+  "o": [
+   "Cão",
+   "Equino",
+   "Bovino",
+   "Ovino"
+  ],
+  "e": "Também gato e suíno."
+ },
+ {
+  "c": "especies",
+  "q": "18 pares de costelas indicam:",
+  "o": [
+   "Equino",
+   "Bovino",
+   "Cão",
+   "Suíno"
+  ],
+  "e": "18 torácicas."
+ },
+ {
+  "c": "especies",
+  "q": "Carpo com 8 ossos (4 em cada fileira) é de:",
+  "o": [
+   "Suíno",
+   "Cão",
+   "Bovino",
+   "Equino"
+  ],
+  "e": "Cão tem 7, bovino 6, equino 7–8."
+ },
+ {
+  "c": "especies",
+  "q": "Úmero com tubérculo intermédio e dois sulcos intertuberculares é de:",
+  "o": [
+   "Equino",
+   "Bovino",
+   "Cão",
+   "Gato"
+  ],
+  "e": "Exclusivo do cavalo."
+ },
+ {
+  "c": "especies",
+  "q": "Atlas sem forame transverso é de:",
+  "o": [
+   "Bovino",
+   "Equino",
+   "Cão",
+   "Gato"
+  ],
+  "e": "Ruminantes não têm o forame transverso no atlas."
+ },
+ {
+  "c": "especies",
+  "q": "O osso rostral, no focinho, é encontrado no:",
+  "o": [
+   "Suíno",
+   "Equino",
+   "Cão",
+   "Bovino"
+  ],
+  "e": "Esqueleto visceral; ajuda a fuçar."
+ },
+ {
+  "c": "especies",
+  "q": "O cão é um animal:",
+  "o": [
+   "Digitígrado",
+   "Ungulígrado",
+   "Plantígrado",
+   "Ungulado"
+  ],
+  "e": "Apoia os dedos inteiros no chão."
+ },
+ {
+  "c": "especies",
+  "q": "Um sacro com 3 vértebras fundidas indica:",
+  "o": [
+   "Cão ou gato",
+   "Equino",
+   "Bovino",
+   "Suíno"
+  ],
+  "e": "Equino e bovino: 5; suíno: 4."
+ },
+ {
+  "c": "especies",
+  "q": "Escápula sem acrômio e com túber da espinha enorme, curvado caudalmente, é de:",
+  "o": [
+   "Suíno",
+   "Equino",
+   "Cão",
+   "Bovino"
+  ],
+  "e": "O equino também não tem acrômio, mas o túber é menor e a cartilagem é grande."
+ },
+ {
+  "c": "especies",
+  "q": "Animais ungulados são os que:",
+  "o": [
+   "Caminham sobre dígitos revestidos por casco",
+   "Caminham sobre toda a planta do pé (plantígrados)",
+   "Têm cinco dedos apoiados no solo, com coxins",
+   "Não têm falanges nos dedos funcionais"
+  ],
+  "e": "Questão da apostila: cão e gato não são ungulados."
+ },
+ {
+  "c": "especies",
+  "q": "Quantas vértebras lombares tem o cão?",
+  "o": [
+   "7",
+   "6",
+   "5",
+   "8"
+  ],
+  "e": "O cão (e o gato) tem 7 lombares; equino e bovino têm 6, e o suíno 6 a 7."
+ },
+ {
+  "c": "especies",
+  "q": "Quantas vértebras lombares possuem o equino e o bovino?",
+  "o": [
+   "6",
+   "7",
+   "5",
+   "8"
+  ],
+  "e": "Equino e bovino têm 6 vértebras lombares cada."
+ },
+ {
+  "c": "especies",
+  "q": "Quantas vértebras sacrais fundidas formam o sacro do suíno?",
+  "o": [
+   "4",
+   "3",
+   "5",
+   "6"
+  ],
+  "e": "O sacro do suíno tem 4 vértebras; equino e bovino têm 5 e o cão 3."
+ },
+ {
+  "c": "especies",
+  "q": "Um sacro formado por 5 vértebras fundidas pode pertencer a:",
+  "o": [
+   "Equino ou bovino",
+   "Cão ou gato",
+   "Suíno ou cão",
+   "Apenas suíno"
+  ],
+  "e": "Equino e bovino têm 5 vértebras sacrais; suíno tem 4 e cão 3."
+ },
+ {
+  "c": "especies",
+  "q": "Um úmero cujo tubérculo maior é dividido em porções cranial e caudal, sem tubérculo intermédio entre os tubérculos maior e menor, pertence a:",
+  "o": [
+   "Bovino",
+   "Equino",
+   "Cão",
+   "Gato"
+  ],
+  "e": "Bovino e equino têm o tubérculo maior dividido em porções cranial e caudal, mas só o equino tem tubérculo intermédio (com dois sulcos intertuberculares); nos carnívoros o tubérculo maior não é dividido."
+ },
+ {
+  "c": "especies",
+  "q": "Um úmero com forame supracondilar na face medial, por onde passam o nervo mediano e a artéria braquial, é de:",
+  "o": [
+   "Gato",
+   "Cão",
+   "Equino",
+   "Bovino"
+  ],
+  "e": "O forame supracondilar é do gato; o cão tem forame supratroclear, entre as fossas radial e do olécrano."
+ },
+ {
+  "c": "especies",
+  "q": "Um úmero em que a fossa radial se comunica com a fossa do olécrano por um orifício pertence a:",
+  "o": [
+   "Cão",
+   "Gato",
+   "Bovino",
+   "Equino"
+  ],
+  "e": "Essa comunicação é o forame supratroclear, característico do cão."
+ },
+ {
+  "c": "especies",
+  "q": "Um carpo com 6 ossos, sendo os cárpicos II e III fundidos na fileira distal, é de:",
+  "o": [
+   "Bovino",
+   "Equino",
+   "Cão",
+   "Suíno"
+  ],
+  "e": "O bovino tem 6 ossos no carpo, com fusão de II e III na fileira distal."
+ },
+ {
+  "c": "especies",
+  "q": "Um carpo com um osso intermediorradial na fileira proximal pertence a:",
+  "o": [
+   "Cão ou gato",
+   "Bovino",
+   "Equino",
+   "Suíno"
+  ],
+  "e": "Nos carnívoros, radial e intermédio se fundem no intermediorradial; o carpo totaliza 7 ossos."
+ },
+ {
+  "c": "especies",
+  "q": "Um metacarpo com um osso principal (III) e dois ossos finos rudimentares (II e IV) aderidos à face palmar é de:",
+  "o": [
+   "Equino",
+   "Bovino",
+   "Suíno",
+   "Cão"
+  ],
+  "e": "O equino tem o metacarpo III (canela) e os rudimentares II e IV (ossos esplintes)."
+ },
+ {
+  "c": "especies",
+  "q": "Uma mão com cinco metacarpos (I a V) é característica de:",
+  "o": [
+   "Cão e gato",
+   "Suíno",
+   "Bovino",
+   "Equino"
+  ],
+  "e": "Carnívoros têm metacarpos I a V; o suíno tem II a V, o bovino III+IV fundidos e V rudimentar, e o equino III com II e IV rudimentares."
+ },
+ {
+  "c": "especies",
+  "q": "Uma mão com quatro metacarpos separados (II a V), dos quais o III e o IV são maiores, pertence a:",
+  "o": [
+   "Suíno",
+   "Bovino",
+   "Cão",
+   "Equino"
+  ],
+  "e": "O suíno tem 4 metacarpos e 4 dedos; III e IV apoiam e II e V são menores."
+ },
+ {
+  "c": "especies",
+  "q": "Na radiografia do joelho, a presença de duas fabelas atrás dos côndilos do fêmur é esperada em:",
+  "o": [
+   "Cão e gato",
+   "Equino",
+   "Bovino",
+   "Suíno"
+  ],
+  "e": "Cão e gato têm fabelas no músculo gastrocnêmio; não devem ser confundidas com fragmentos de fratura."
+ },
+ {
+  "c": "especies",
+  "q": "Uma fíbula com cabeça fundida ao côndilo lateral da tíbia e extremidade distal formando um osso maleolar separado identifica:",
+  "o": [
+   "Bovino",
+   "Equino",
+   "Cão",
+   "Suíno"
+  ],
+  "e": "Nos ruminantes a cabeça da fíbula se funde à tíbia e a extremidade distal persiste como osso maleolar."
+ },
+ {
+  "c": "especies",
+  "q": "Um tarso com 6 ossos, sendo os tarsais I e II fundidos, é de:",
+  "o": [
+   "Equino",
+   "Bovino",
+   "Cão",
+   "Suíno"
+  ],
+  "e": "O equino tem 6 ossos no tarso, com fusão de I e II; o bovino tem 5 e cão, gato e suíno têm 7."
+ },
+ {
+  "c": "especies",
+  "q": "Um tarso com 7 ossos, sem fusões, NÃO pode pertencer a:",
+  "o": [
+   "Equino",
+   "Cão",
+   "Gato",
+   "Suíno"
+  ],
+  "e": "Cão, gato e suíno têm 7 ossos no tarso; o equino tem 6, por fusão dos tarsais I e II."
+ },
+ {
+  "c": "especies",
+  "q": "Um crânio com face muito longa, crista facial reta e órbita fechada por arco ósseo pertence a:",
+  "o": [
+   "Equino",
+   "Bovino",
+   "Suíno",
+   "Cão"
+  ],
+  "e": "Face longa, crista facial e órbita fechada são as marcas do crânio do equino."
+ },
+ {
+  "c": "especies",
+  "q": "Um crânio de face curta, formato arredondado e órbitas enormes, quase fechadas, é de:",
+  "o": [
+   "Gato",
+   "Cão braquicefálico",
+   "Suíno",
+   "Bovino"
+  ],
+  "e": "O gato tem face curta, crânio arredondado e órbitas muito grandes."
+ },
+ {
+  "c": "especies",
+  "q": "Um atlas com incisura alar no lugar do forame alar pertence a:",
+  "o": [
+   "Cão",
+   "Equino",
+   "Bovino",
+   "Ovino"
+  ],
+  "e": "Nos carnívoros o forame alar é substituído por um entalhe aberto, a incisura alar."
+ },
+ {
+  "c": "especies",
+  "q": "Na radiografia da coluna do cão, a vértebra com processo espinhoso vertical (anticlinal) geralmente é a:",
+  "o": [
+   "T11",
+   "T1",
+   "L1",
+   "T13"
+  ],
+  "e": "No cão, a anticlinal costuma ser T11; antes dela os espinhosos inclinam-se caudalmente e depois cranialmente."
+ },
+ {
+  "c": "especies",
+  "q": "Articulações sinoviais entre os processos transversos das últimas lombares e a asa do sacro são uma marca do:",
+  "o": [
+   "Equino",
+   "Bovino",
+   "Suíno",
+   "Cão"
+  ],
+  "e": "As articulações intertransversais lombares são exclusivas do equino e podem sofrer artrose em cavalos de esporte."
+ },
+ {
+  "c": "especies",
+  "q": "Qual destes animais é plantígrado?",
+  "o": [
+   "Urso",
+   "Gato",
+   "Suíno",
+   "Equino"
+  ],
+  "e": "Plantígrados (humano, urso) apoiam a planta inteira; o gato é digitígrado e suíno e equino são ungulígrados."
+ },
+ {
+  "c": "especies",
+  "q": "Qual relação existe entre a especialização para a corrida e o número de dedos nos ungulígrados?",
+  "o": [
+   "Quanto maior a especialização, menos dedos funcionais",
+   "Quanto maior a especialização, mais dedos apoiam",
+   "O número de dedos não varia entre ungulígrados",
+   "A especialização aumenta o número de metacarpos"
+  ],
+  "e": "A redução dos dedos acompanha a especialização para a corrida; o cavalo ficou com um único dedo funcional."
+ },
+ {
+  "c": "especies",
+  "q": "Uma escápula com acrômio e espinha deslocada cranialmente, deixando a fossa supraespinhal estreita, é de:",
+  "o": [
+   "Bovino",
+   "Cão",
+   "Equino",
+   "Suíno"
+  ],
+  "e": "O bovino tem acrômio e espinha deslocada cranialmente; equino e suíno não têm acrômio e o cão tem espinha quase central."
+ },
+ {
+  "c": "especies",
+  "q": "Uma escápula sem acrômio, com túber da espinha e cartilagem escapular enorme, sendo a espinha baixa e sumindo antes do colo, é de:",
+  "o": [
+   "Equino",
+   "Suíno",
+   "Bovino",
+   "Gato"
+  ],
+  "e": "Ausência de acrômio, cartilagem escapular grande e espinha que some antes do colo identificam o equino."
+ },
+ {
+  "c": "especies",
+  "q": "Qual característica NÃO pertence ao esqueleto do equino?",
+  "o": [
+   "Acrômio na escápula",
+   "Terceiro trocânter no fêmur",
+   "Tubérculo intermédio no úmero",
+   "Ulna terminando no meio do rádio"
+  ],
+  "e": "O equino não tem acrômio; as demais estruturas são marcas da espécie."
+ },
+ {
+  "c": "especies",
+  "q": "Qual característica NÃO é encontrada no bovino?",
+  "o": [
+   "Fíbula completa",
+   "Dois espaços interósseos no antebraço",
+   "Tálus com duas trócleas",
+   "Metacarpo III e IV fundidos"
+  ],
+  "e": "No bovino a fíbula é reduzida (cabeça fundida e osso maleolar); fíbula completa ocorre em cão, gato e suíno."
+ },
+ {
+  "c": "especies",
+  "q": "Na bancada, um rádio e uma ulna completos, fundidos em vários pontos e com dois espaços interósseos, pertencem a:",
+  "o": [
+   "Bovino",
+   "Cão",
+   "Equino",
+   "Suíno"
+  ],
+  "e": "O bovino tem ulna completa fundida ao rádio, com espaços interósseos proximal e distal."
+ },
+ {
+  "c": "especies",
+  "q": "Em um esqueleto, observam-se fêmur sem terceiro trocânter, fíbula completa e duas fabelas atrás dos côndilos femorais. A espécie é:",
+  "o": [
+   "Cão",
+   "Equino",
+   "Bovino",
+   "Suíno"
+  ],
+  "e": "As fabelas são típicas de cão e gato; a fíbula completa e a ausência de terceiro trocânter confirmam um carnívoro."
+ },
+ {
+  "c": "especies",
+  "q": "Um esqueleto com 14 a 15 pares de costelas, escápula sem acrômio e fíbula completa é de:",
+  "o": [
+   "Suíno",
+   "Equino",
+   "Bovino",
+   "Cão"
+  ],
+  "e": "O suíno tem 14–15 pares de costelas, escápula sem acrômio (túber enorme) e fíbula completa."
+ },
+ {
+  "c": "especies",
+  "q": "Um bovino tem quantas vértebras torácicas?",
+  "o": [
+   "13",
+   "18",
+   "14",
+   "15"
+  ],
+  "e": "O bovino tem 13 vértebras torácicas, correspondentes aos 13 pares de costelas."
+ },
+ {
+  "c": "especies",
+  "q": "Uma escápula de gato se distingue da de cão por apresentar, no acrômio:",
+  "o": [
+   "Processo supra-hamato além do hamato",
+   "Ausência completa de acrômio",
+   "Túber da espinha muito desenvolvido",
+   "Cartilagem escapular enorme"
+  ],
+  "e": "O gato tem os processos hamato e supra-hamato no acrômio; o cão só o hamato."
+ }
+]

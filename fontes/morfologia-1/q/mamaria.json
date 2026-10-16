@@ -1,0 +1,563 @@
+[
+ {
+  "c": "mamaria",
+  "q": "Quantas mamas tem a cadela?",
+  "o": [
+   "10 (5 pares)",
+   "8 (4 pares)",
+   "4 (2 pares)",
+   "12 a 16"
+  ],
+  "e": "2 torácicas, 2 abdominais e 1 inguinal de cada lado."
+ },
+ {
+  "c": "mamaria",
+  "q": "Na égua, cada teto tem:",
+  "o": [
+   "2 óstios papilares",
+   "1 óstio",
+   "8 a 14 óstios",
+   "Nenhum óstio funcional"
+  ],
+  "e": "Cada teto drena dois complexos glandulares."
+ },
+ {
+  "c": "mamaria",
+  "q": "A principal barreira contra a entrada de bactérias no úbere é:",
+  "o": [
+   "O ducto papilar com esfíncter e tampão de queratina",
+   "A cisterna da glândula, com sua prega anular",
+   "O ligamento suspensório medial, de tecido elástico",
+   "Os linfonodos mamários, na face caudal do úbere"
+  ],
+  "e": "Por isso o pós-dipping logo após a ordenha."
+ },
+ {
+  "c": "mamaria",
+  "q": "A “veia do leite” da vaca é a:",
+  "o": [
+   "Veia epigástrica superficial cranial",
+   "Veia jugular externa, no sulco jugular",
+   "Veia pudenda interna, na região perineal",
+   "Veia safena medial do membro pélvico"
+  ],
+  "e": "É a veia subcutânea abdominal; não deve ser usada para aplicações."
+ },
+ {
+  "c": "mamaria",
+  "q": "A artéria principal do úbere é a:",
+  "o": [
+   "Pudenda externa",
+   "Ilíaca interna",
+   "Femoral",
+   "Torácica interna"
+  ],
+  "e": "Passa pelo canal inguinal."
+ },
+ {
+  "c": "mamaria",
+  "q": "A gordura do leite é secretada por via:",
+  "o": [
+   "Apócrina",
+   "Holócrina",
+   "Merócrina",
+   "Endócrina"
+  ],
+  "e": "Proteínas e lactose saem por via merócrina."
+ },
+ {
+  "c": "mamaria",
+  "q": "A ocitocina provoca a ejeção do leite porque contrai as:",
+  "o": [
+   "Células mioepiteliais",
+   "Células alveolares",
+   "Fibras do ligamento suspensório",
+   "Paredes da cisterna do teto"
+  ],
+  "e": "Liberada pela neuro-hipófise após o estímulo do teto."
+ },
+ {
+  "c": "mamaria",
+  "q": "O leite de um quarto do úbere bovino:",
+  "o": [
+   "Não passa para os outros quartos",
+   "Passa livremente para o quarto do mesmo lado",
+   "Mistura-se na cisterna comum",
+   "Drena para o quarto oposto"
+  ],
+  "e": "Os quartos são independentes; a mastite pode atingir um só."
+ },
+ {
+  "c": "mamaria",
+  "q": "O ligamento que sustenta o úbere e separa as metades direita e esquerda, rico em fibras elásticas, é o:",
+  "o": [
+   "Suspensório medial",
+   "Suspensório lateral",
+   "Pré-púbico",
+   "Inguinal"
+  ],
+  "e": "Com a idade ele cede e o úbere “cai”."
+ },
+ {
+  "c": "mamaria",
+  "q": "Do ponto de vista embriológico e histológico, a glândula mamária é considerada uma glândula:",
+  "o": [
+   "Sudorípara apócrina modificada",
+   "Sebácea holócrina modificada",
+   "Endócrina derivada do endoderma",
+   "Salivar ectópica"
+  ],
+  "e": "A mama é uma glândula cutânea, uma sudorípara apócrina modificada."
+ },
+ {
+  "c": "mamaria",
+  "q": "Ovelhas e cabras possuem:",
+  "o": [
+   "Um par de mamas inguinais, com um óstio por teto",
+   "Dois pares de mamas inguinais, com um óstio por teto",
+   "Um par de mamas inguinais, com dois óstios por teto",
+   "Quatro pares de mamas torácicas e abdominais"
+  ],
+  "e": "Pequenos ruminantes têm 2 mamas inguinais, cada teto com um único óstio papilar."
+ },
+ {
+  "c": "mamaria",
+  "q": "Na vaca, além dos quatro tetos funcionais, é frequente encontrar:",
+  "o": [
+   "Tetos supranumerários",
+   "Dois óstios papilares por teto",
+   "Mamas torácicas rudimentares",
+   "Linfonodos axilares drenando o úbere"
+  ],
+  "e": "Tetos supranumerários são comuns em bovinos e geralmente removidos na bezerra."
+ },
+ {
+  "c": "mamaria",
+  "q": "A porca possui, em geral:",
+  "o": [
+   "12 a 16 mamas, com 2 óstios por teto",
+   "4 mamas inguinais com 1 óstio por teto",
+   "8 mamas abdominais com 4 a 7 óstios por teto",
+   "10 mamas com 8 a 14 óstios por teto"
+  ],
+  "e": "A porca tem 6 a 8 pares de mamas ao longo de todo o ventre (da região torácica à inguinal), com 2 (às vezes 3) óstios por teto."
+ },
+ {
+  "c": "mamaria",
+  "q": "A gata possui:",
+  "o": [
+   "8 mamas (4 pares), torácicas e abdominais",
+   "10 mamas (5 pares), torácicas, abdominais e inguinais",
+   "4 mamas (2 pares), inguinais",
+   "12 mamas (6 pares), torácicas a inguinais"
+  ],
+  "e": "A gata tem 4 pares de mamas, nas regiões torácica e abdominal."
+ },
+ {
+  "c": "mamaria",
+  "q": "Quantos óstios papilares, aproximadamente, há em cada teto da cadela?",
+  "o": [
+   "8 a 14",
+   "1",
+   "2",
+   "4 a 7"
+  ],
+  "e": "Cada teto da cadela tem numerosos óstios (8 a 14); na gata são 4 a 7."
+ },
+ {
+  "c": "mamaria",
+  "q": "Qual princípio geral relaciona o número de mamas com a biologia reprodutiva das espécies?",
+  "o": [
+   "Quanto maior a ninhada por parto, maior o número de mamas",
+   "Quanto maior o porte do animal, maior o número de mamas",
+   "Herbívoros têm sempre mais mamas que carnívoros",
+   "Espécies com úbere têm mais óstios que as multíparas"
+  ],
+  "e": "Espécies multíparas (porca, cadela, gata) têm mais mamas que as que geram um ou dois filhotes."
+ },
+ {
+  "c": "mamaria",
+  "q": "Na seleção de leitoas para reprodução, um critério morfológico importante é:",
+  "o": [
+   "Ter pelo menos 12 tetos bem formados",
+   "Ter apenas tetos inguinais",
+   "Ter um único óstio por teto",
+   "Ter tetos supranumerários na região torácica"
+  ],
+  "e": "O número de tetos funcionais limita quantos leitões a fêmea consegue amamentar."
+ },
+ {
+  "c": "mamaria",
+  "q": "Qual é a sequência correta do caminho do leite no úbere bovino?",
+  "o": [
+   "Alvéolo, ductos lactíferos, cisterna da glândula, cisterna do teto, ducto papilar",
+   "Alvéolo, cisterna do teto, ductos lactíferos, cisterna da glândula, ducto papilar",
+   "Ductos lactíferos, alvéolo, cisterna da glândula, ducto papilar, cisterna do teto",
+   "Alvéolo, cisterna da glândula, ductos lactíferos, ducto papilar, cisterna do teto"
+  ],
+  "e": "O leite é produzido no alvéolo, drena por ductos para a cisterna da glândula, passa à cisterna do teto e sai pelo ducto papilar."
+ },
+ {
+  "c": "mamaria",
+  "q": "A cisterna da glândula do úbere bovino é um reservatório localizado:",
+  "o": [
+   "Na base do quarto, acima do teto",
+   "Dentro do teto, junto ao óstio",
+   "Entre os quartos direito e esquerdo",
+   "No interior do ligamento suspensório medial"
+  ],
+  "e": "A cisterna da glândula fica na base do quarto e pode armazenar 400 mL ou mais."
+ },
+ {
+  "c": "mamaria",
+  "q": "A cisterna do teto é separada da cisterna da glândula por:",
+  "o": [
+   "Uma prega anular (roseta venosa)",
+   "A roseta de Fürstenberg",
+   "O esfíncter do teto",
+   "O ligamento suspensório lateral"
+  ],
+  "e": "A prega anular, com um anel venoso, marca o limite entre as duas cisternas."
+ },
+ {
+  "c": "mamaria",
+  "q": "As pregas da mucosa situadas na entrada do ducto papilar, que contribuem para a vedação do teto, formam a:",
+  "o": [
+   "Roseta de Fürstenberg",
+   "Prega anular",
+   "Fonte do leite",
+   "Lâmina lateral"
+  ],
+  "e": "A roseta de Fürstenberg fica na junção entre a cisterna do teto e o ducto papilar."
+ },
+ {
+  "c": "mamaria",
+  "q": "O ducto papilar é revestido por epitélio estratificado queratinizado. Qual a importância disso?",
+  "o": [
+   "A queratina veda o canal e tem ação antimicrobiana",
+   "A queratina descamada é o principal componente do colostro",
+   "A queratina fornece a maior parte da gordura do leite",
+   "O epitélio queratinizado secreta ocitocina na ordenha"
+  ],
+  "e": "A queratina do ducto papilar forma um tampão físico e químico contra bactérias."
+ },
+ {
+  "c": "mamaria",
+  "q": "O esfíncter do teto, que fecha o ducto papilar, é formado por:",
+  "o": [
+   "Músculo liso",
+   "Músculo estriado esquelético",
+   "Células mioepiteliais",
+   "Tecido elástico sem músculo"
+  ],
+  "e": "O esfíncter do teto é de músculo liso, não voluntário."
+ },
+ {
+  "c": "mamaria",
+  "q": "Por que se recomenda oferecer alimento às vacas logo após a ordenha?",
+  "o": [
+   "Para que fiquem em pé até o esfíncter do teto se fechar",
+   "Para estimular nova liberação de ocitocina e de leite",
+   "Para aumentar o fluxo sanguíneo na veia do leite",
+   "Para impedir a formação do tampão de queratina no teto"
+  ],
+  "e": "O esfíncter permanece aberto cerca de 30 minutos; em pé, a vaca não expõe os tetos à cama contaminada."
+ },
+ {
+  "c": "mamaria",
+  "q": "O pós-dipping consiste em:",
+  "o": [
+   "Imergir os tetos em antisséptico logo após a ordenha",
+   "Desprezar os primeiros jatos de leite antes da ordenha",
+   "Aplicar antibiótico intramamário no período seco",
+   "Massagear o úbere para liberar ocitocina"
+  ],
+  "e": "O antisséptico protege o teto enquanto o esfíncter ainda está aberto."
+ },
+ {
+  "c": "mamaria",
+  "q": "Num rebanho com ordenhadeira regulada com vácuo excessivo, observa-se hiperqueratose na ponta dos tetos. A consequência esperada é:",
+  "o": [
+   "Mais mastite, por fechamento deficiente do ducto papilar",
+   "Redução da contagem de células somáticas no leite",
+   "Hipertrofia do ligamento suspensório medial do úbere",
+   "Bloqueio da liberação de ocitocina pela neuro-hipófise"
+  ],
+  "e": "A hiperqueratose prejudica o fechamento do ducto papilar e facilita a entrada de bactérias."
+ },
+ {
+  "c": "mamaria",
+  "q": "As lâminas laterais do aparelho suspensor do úbere são:",
+  "o": [
+   "Mais fibrosas e originadas do tendão pré-púbico",
+   "Ricas em fibras elásticas e situadas no plano mediano",
+   "Formadas por músculo liso",
+   "Derivadas do músculo oblíquo interno do abdome"
+  ],
+  "e": "O ligamento medial é elástico; as lâminas laterais são mais fibrosas e vêm do tendão pré-púbico."
+ },
+ {
+  "c": "mamaria",
+  "q": "Uma vaca idosa apresenta úbere caído, com os tetos apontando para fora, dificultando a ordenha. Isso se deve principalmente ao:",
+  "o": [
+   "Afrouxamento do ligamento suspensório medial",
+   "Rompimento da artéria pudenda externa",
+   "Fechamento do ducto papilar",
+   "Atrofia dos linfonodos mamários"
+  ],
+  "e": "Com a idade, o ligamento medial elástico cede e o úbere desce, motivo comum de descarte."
+ },
+ {
+  "c": "mamaria",
+  "q": "A artéria pudenda externa chega ao úbere passando pelo:",
+  "o": [
+   "Canal inguinal",
+   "Forame obturado",
+   "Canal pélvico pelo arco isquiático",
+   "Espaço intercostal"
+  ],
+  "e": "A pudenda externa atravessa o canal inguinal para irrigar o úbere."
+ },
+ {
+  "c": "mamaria",
+  "q": "Para produzir 1 litro de leite, quantos litros de sangue passam pelo úbere, aproximadamente?",
+  "o": [
+   "400 a 500 L",
+   "4 a 5 L",
+   "40 a 50 L",
+   "4.000 a 5.000 L"
+  ],
+  "e": "A enorme vazão sanguínea explica a irrigação do úbere e as veias calibrosas da vaca leiteira."
+ },
+ {
+  "c": "mamaria",
+  "q": "Além da artéria pudenda externa, contribui em menor grau para a irrigação do úbere a artéria:",
+  "o": [
+   "Perineal ventral",
+   "Torácica interna",
+   "Femoral profunda",
+   "Mesentérica caudal"
+  ],
+  "e": "A artéria perineal ventral irriga a parte caudal do úbere."
+ },
+ {
+  "c": "mamaria",
+  "q": "A “fonte do leite” da vaca é:",
+  "o": [
+   "O orifício por onde a veia do leite entra no abdome",
+   "O óstio papilar na ponta do teto, por onde sai o leite",
+   "A cisterna da glândula, onde o leite se acumula",
+   "A prega anular entre a cisterna da glândula e a do teto"
+  ],
+  "e": "É o ponto em que a veia epigástrica superficial cranial atravessa a parede para seguir até o tórax."
+ },
+ {
+  "c": "mamaria",
+  "q": "Por que não se deve usar a veia epigástrica superficial cranial (veia do leite) para aplicações intravenosas?",
+  "o": [
+   "Pelo risco de hematomas e trombose",
+   "Porque ela transporta leite, e não sangue",
+   "Porque não tem conexão com a circulação sistêmica",
+   "Porque é uma veia profunda, impossível de puncionar"
+  ],
+  "e": "Apesar de calibrosa e superficial, a punção dessa veia causa hematomas e trombose."
+ },
+ {
+  "c": "mamaria",
+  "q": "Na vaca, os linfonodos que drenam o úbere são palpados:",
+  "o": [
+   "Na face caudal do úbere, acima dos quartos posteriores",
+   "Na região pré-escapular, cranial ao ombro",
+   "Entre os ramos da mandíbula, no espaço intermandibular",
+   "Na fossa paralombar esquerda, abaixo dos processos transversos"
+  ],
+  "e": "Os linfonodos mamários (supramamários) ficam na face caudal, dorsal aos quartos posteriores."
+ },
+ {
+  "c": "mamaria",
+  "q": "Numa cadela com tumor na mama torácica cranial, o linfonodo regional a avaliar é o:",
+  "o": [
+   "Axilar",
+   "Inguinal superficial",
+   "Mamário (supramamário)",
+   "Ilíaco medial"
+  ],
+  "e": "As mamas torácicas da cadela drenam para o linfonodo axilar, o que orienta a mastectomia."
+ },
+ {
+  "c": "mamaria",
+  "q": "Na cadela, as mamas caudais (abdominal caudal e inguinal) drenam principalmente para o linfonodo:",
+  "o": [
+   "Inguinal superficial",
+   "Axilar",
+   "Cervical superficial",
+   "Mandibular"
+  ],
+  "e": "As mamas caudais drenam para o inguinal superficial; as torácicas, para o axilar."
+ },
+ {
+  "c": "mamaria",
+  "q": "Histologicamente, a glândula mamária é classificada como glândula:",
+  "o": [
+   "Tubuloalveolar composta",
+   "Tubulosa simples",
+   "Acinosa simples",
+   "Endócrina folicular"
+  ],
+  "e": "Tem ductos ramificados (composta) e porções secretoras tubulares e alveolares."
+ },
+ {
+  "c": "mamaria",
+  "q": "Num corte de glândula mamária em lactação, os alvéolos distendidos de leite apresentam epitélio achatado. Isso indica que:",
+  "o": [
+   "A altura do epitélio varia com a fase secretora",
+   "O epitélio sofreu metaplasia escamosa",
+   "A glândula está em involução definitiva",
+   "O corte é de ducto papilar, e não de alvéolo"
+  ],
+  "e": "O epitélio alveolar é cúbico a cilíndrico ao secretar e se achata quando o alvéolo está repleto."
+ },
+ {
+  "c": "mamaria",
+  "q": "As proteínas do leite (caseínas, lactoalbumina) e a lactose são secretadas por via:",
+  "o": [
+   "Merócrina",
+   "Apócrina",
+   "Holócrina",
+   "Transcitose"
+  ],
+  "e": "Proteínas e lactose saem por exocitose de vesículas do Golgi, sem perda celular."
+ },
+ {
+  "c": "mamaria",
+  "q": "As imunoglobulinas do colostro chegam ao leite por:",
+  "o": [
+   "Transcitose do sangue através do epitélio alveolar",
+   "Síntese no RER das próprias células alveolares da mama",
+   "Secreção holócrina das células mioepiteliais",
+   "Difusão retrógrada a partir do ducto papilar"
+  ],
+  "e": "As imunoglobulinas são captadas do sangue por receptores e atravessam o epitélio nas últimas semanas de gestação."
+ },
+ {
+  "c": "mamaria",
+  "q": "A ocitocina do reflexo de ejeção do leite é liberada pela:",
+  "o": [
+   "Neuro-hipófise",
+   "Adeno-hipófise",
+   "Tireoide",
+   "Glândula adrenal"
+  ],
+  "e": "O estímulo do teto chega ao hipotálamo, e a ocitocina é liberada pela neuro-hipófise."
+ },
+ {
+  "c": "mamaria",
+  "q": "Uma vaca assustada por um cão na sala de ordenha “segura o leite”. O mecanismo é:",
+  "o": [
+   "A adrenalina liberada bloqueia a descida do leite",
+   "O medo inibe a síntese de lactose",
+   "O esfíncter do teto se rompe com o estresse",
+   "A prolactina é liberada em excesso"
+  ],
+  "e": "Medo e dor liberam adrenalina, que inibe o efeito da ocitocina; manejo calmo produz mais leite."
+ },
+ {
+  "c": "mamaria",
+  "q": "Após o estímulo adequado do teto, o leite alveolar começa a descer em cerca de:",
+  "o": [
+   "1 a 2 minutos",
+   "10 a 15 segundos",
+   "10 a 15 minutos",
+   "30 a 60 minutos"
+  ],
+  "e": "A ocitocina contrai as células mioepiteliais e o leite alveolar desce em 1 a 2 minutos, por isso se ordenha logo após o preparo."
+ },
+ {
+  "c": "mamaria",
+  "q": "O crescimento da glândula mamária na puberdade e na gestação (mamogênese) é estimulado principalmente por:",
+  "o": [
+   "Estrógeno, progesterona e prolactina",
+   "Ocitocina e adrenalina",
+   "Cortisol e insulina isolados",
+   "Testosterona e hormônio tireoidiano"
+  ],
+  "e": "Estrógeno e progesterona, com a prolactina, promovem o desenvolvimento de ductos e alvéolos."
+ },
+ {
+  "c": "mamaria",
+  "q": "A fase do ciclo da glândula em que a secreção é mantida pela ordenha frequente chama-se:",
+  "o": [
+   "Galactopoese",
+   "Mamogênese",
+   "Lactogênese",
+   "Involução"
+  ],
+  "e": "Galactopoese é a manutenção da lactação; lactogênese é o início da secreção perto do parto."
+ },
+ {
+  "c": "mamaria",
+  "q": "A primeira secreção produzida na lactogênese, perto do parto, é o:",
+  "o": [
+   "Colostro",
+   "Leite de transição tardio",
+   "Sebo",
+   "Leite residual"
+  ],
+  "e": "O colostro, rico em imunoglobulinas, é a primeira secreção mamária."
+ },
+ {
+  "c": "mamaria",
+  "q": "A vaca leiteira é “secada” cerca de 60 dias antes do parto para permitir:",
+  "o": [
+   "A involução e a regeneração do epitélio mamário",
+   "O fechamento definitivo do ducto papilar",
+   "O crescimento de novos tetos",
+   "A atrofia do ligamento suspensório"
+  ],
+  "e": "O período seco permite a involução e a renovação do epitélio para a próxima lactação."
+ },
+ {
+  "c": "mamaria",
+  "q": "No leite de uma vaca com mastite, a contagem de células somáticas aumenta principalmente devido a:",
+  "o": [
+   "Neutrófilos",
+   "Células mioepiteliais",
+   "Hemácias",
+   "Queratinócitos do ducto papilar"
+  ],
+  "e": "A inflamação recruta neutrófilos para o leite, elevando a contagem de células somáticas."
+ },
+ {
+  "c": "mamaria",
+  "q": "Qual agente é exemplo de causador de mastite ambiental, e não contagiosa?",
+  "o": [
+   "Coliformes",
+   "Staphylococcus aureus",
+   "Streptococcus agalactiae",
+   "Mycoplasma transmitido pela ordenhadeira"
+  ],
+  "e": "Coliformes vêm do ambiente; S. aureus e S. agalactiae são contagiosos, transmitidos de vaca a vaca."
+ },
+ {
+  "c": "mamaria",
+  "q": "Qual medida reduz muito o risco de tumores mamários na cadela?",
+  "o": [
+   "Castração antes do primeiro cio",
+   "Administração de progestágenos para evitar o cio",
+   "Mastectomia apenas das mamas inguinais",
+   "Retirada dos linfonodos axilares preventivamente"
+  ],
+  "e": "Os tumores mamários dependem de hormônios ovarianos; a castração precoce reduz muito o risco."
+ },
+ {
+  "c": "mamaria",
+  "q": "Uma gata jovem tratada com progestágeno para suprimir o cio desenvolve aumento acentuado e firme de várias mamas. O diagnóstico mais provável é:",
+  "o": [
+   "Hiperplasia fibroepitelial",
+   "Mastite contagiosa por S. agalactiae",
+   "Galactopoese fisiológica",
+   "Tetos supranumerários"
+  ],
+  "e": "A hiperplasia fibroepitelial felina está ligada à progesterona, inclusive exógena."
+ }
+]

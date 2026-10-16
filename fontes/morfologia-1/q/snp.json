@@ -1,0 +1,618 @@
+[
+ {
+  "c": "snp",
+  "q": "O envoltório conjuntivo de cada fascículo nervoso, que forma a barreira hematoneural, é o:",
+  "o": [
+   "Perineuro",
+   "Epineuro",
+   "Endoneuro",
+   "Neurilema"
+  ],
+  "e": "Epineuro envolve o nervo; endoneuro, cada fibra."
+ },
+ {
+  "c": "snp",
+  "q": "O gânglio espinhal fica na:",
+  "o": [
+   "Raiz dorsal",
+   "Raiz ventral",
+   "Ramo ventral",
+   "Cadeia simpática"
+  ],
+  "e": "Contém os neurônios sensitivos."
+ },
+ {
+  "c": "snp",
+  "q": "O nervo que inerva os músculos da mastigação é o:",
+  "o": [
+   "Trigêmeo (V)",
+   "Facial (VII)",
+   "Hipoglosso (XII)",
+   "Vago (X)"
+  ],
+  "e": "Ramo mandibular. A paralisia deixa a mandíbula caída."
+ },
+ {
+  "c": "snp",
+  "q": "Orelha e lábio caídos de um lado e incapacidade de fechar as pálpebras indicam lesão do nervo:",
+  "o": [
+   "Facial (VII)",
+   "Trigêmeo (V)",
+   "Oculomotor (III)",
+   "Acessório (XI)"
+  ],
+  "e": "Nervo da expressão facial."
+ },
+ {
+  "c": "snp",
+  "q": "A “paralisia laríngea” do cavalo roncador envolve um ramo do nervo:",
+  "o": [
+   "Vago (laríngeo recorrente esquerdo)",
+   "Hipoglosso (ramo lingual esquerdo)",
+   "Glossofaríngeo (ramo faríngeo)",
+   "Facial (ramo bucal dorsal esquerdo)"
+  ],
+  "e": "O ramo esquerdo tem trajeto mais longo, ao redor do arco aórtico."
+ },
+ {
+  "c": "snp",
+  "q": "Na paralisia do nervo radial, o animal:",
+  "o": [
+   "Não estende o cotovelo e apoia o dorso dos dedos",
+   "Não flexiona o joelho e arrasta o membro pélvico",
+   "Abre os membros pélvicos ao andar no piso liso",
+   "Perde o reflexo patelar e a sensibilidade da coxa"
+  ],
+  "e": "O radial inerva os extensores do cotovelo, carpo e dedos: o animal não sustenta o peso e apoia o dorso dos dedos."
+ },
+ {
+  "c": "snp",
+  "q": "A vaca que após um parto distócico abre os membros pélvicos no piso liso tem lesão do nervo:",
+  "o": [
+   "Obturador",
+   "Femoral",
+   "Radial",
+   "Supraescapular"
+  ],
+  "e": "Inerva os adutores; é comprimido pelo bezerro grande contra a pelve."
+ },
+ {
+  "c": "snp",
+  "q": "“Sweeny” no equino é a atrofia por lesão do nervo:",
+  "o": [
+   "Supraescapular",
+   "Axilar",
+   "Ulnar",
+   "Fibular"
+  ],
+  "e": "Atrofia dos músculos supra e infraespinhal."
+ },
+ {
+  "c": "snp",
+  "q": "O apoio sobre o dorso do casco ou dos dedos no membro pélvico sugere lesão do nervo:",
+  "o": [
+   "Fibular",
+   "Tibial",
+   "Femoral",
+   "Obturador"
+  ],
+  "e": "Inerva extensores dos dedos."
+ },
+ {
+  "c": "snp",
+  "q": "O sistema simpático tem origem nos segmentos:",
+  "o": [
+   "Toracolombares (T1–L3)",
+   "Cranianos e sacrais",
+   "Apenas cervicais",
+   "Apenas sacrais"
+  ],
+  "e": "O parassimpático é craniossacral."
+ },
+ {
+  "c": "snp",
+  "q": "O principal nervo parassimpático é o:",
+  "o": [
+   "Vago (X)",
+   "Trigêmeo (V)",
+   "Frênico",
+   "Isquiático"
+  ],
+  "e": "Vai até o cólon."
+ },
+ {
+  "c": "snp",
+  "q": "Miose, ptose, enoftalmia e protrusão da terceira pálpebra caracterizam:",
+  "o": [
+   "Síndrome de Horner",
+   "Paralisia do facial",
+   "Paralisia do trigêmeo",
+   "Lesão do oculomotor"
+  ],
+  "e": "Perda do simpático para o olho."
+ },
+ {
+  "c": "snp",
+  "q": "Um feixe de axônios que cursa dentro da medula espinhal recebe o nome de trato, e não de nervo, porque:",
+  "o": [
+   "Nervo é o termo reservado aos feixes de fibras do SNP",
+   "Os tratos não contêm axônios mielinizados",
+   "Nervo designa apenas feixes motores",
+   "Os tratos são envolvidos por epineuro e perineuro"
+  ],
+  "e": "Feixes de fibras no SNC são tratos; no SNP, envoltos por epineuro, perineuro e endoneuro, são nervos."
+ },
+ {
+  "c": "snp",
+  "q": "O epineuro é:",
+  "o": [
+   "O conjuntivo denso que envolve o nervo inteiro, com vasos e gordura",
+   "A lâmina delicada que envolve cada fibra nervosa",
+   "O envoltório celular de cada fascículo, com junções de oclusão",
+   "A bainha de mielina das fibras grossas"
+  ],
+  "e": "O epineuro é o envoltório mais externo do nervo; perineuro envolve fascículos e endoneuro, cada fibra."
+ },
+ {
+  "c": "snp",
+  "q": "O conjuntivo frouxo delicado que envolve individualmente cada fibra nervosa é o:",
+  "o": [
+   "Endoneuro",
+   "Perineuro",
+   "Epineuro",
+   "Endomísio"
+  ],
+  "e": "O endoneuro fica ao redor de cada fibra; endomísio é o termo equivalente no músculo."
+ },
+ {
+  "c": "snp",
+  "q": "Após a secção de um nervo periférico, o segmento distal ao corte sofre:",
+  "o": [
+   "Degeneração walleriana",
+   "Regeneração imediata por mitose dos axônios",
+   "Mielinização por oligodendrócitos",
+   "Transformação em cicatriz glial"
+  ],
+  "e": "O segmento distal, separado do pericário, degenera (degeneração walleriana); depois as células de Schwann guiam o novo axônio."
+ },
+ {
+  "c": "snp",
+  "q": "Um cavalo teve lesão do nervo radial a cerca de 30 cm dos músculos que ele inerva. Considerando a velocidade de regeneração axonal, espera-se que a recuperação:",
+  "o": [
+   "Leve meses, pois o axônio cresce cerca de 1 a 3 mm por dia",
+   "Ocorra em poucos dias, pois o axônio cresce cerca de 1 cm por hora",
+   "Nunca aconteça, pois nervos periféricos não regeneram",
+   "Dependa da formação de cicatriz glial pelos astrócitos"
+  ],
+  "e": "A 1–3 mm/dia, 300 mm exigem de 100 a 300 dias; por isso paralisias do radial levam meses para melhorar."
+ },
+ {
+  "c": "snp",
+  "q": "Na regeneração de um nervo periférico, a função das células de Schwann é:",
+  "o": [
+   "Formar tubos que guiam o crescimento do novo axônio",
+   "Fagocitar o pericário lesado",
+   "Produzir líquido cerebrospinal no local da lesão",
+   "Fundir-se para formar um novo axônio"
+  ],
+  "e": "As células de Schwann se alinham em tubos que orientam o axônio em regeneração; no SNC isso não ocorre de forma eficiente."
+ },
+ {
+  "c": "snp",
+  "q": "A raiz ventral do nervo espinhal contém principalmente:",
+  "o": [
+   "Axônios motores do corno ventral e fibras autônomas",
+   "Neurônios pseudounipolares do gânglio espinhal",
+   "Fibras sensitivas vindas da pele e das vísceras",
+   "Os corpos dos neurônios motores somáticos"
+  ],
+  "e": "A raiz ventral é motora (com fibras autônomas em certos segmentos); a raiz dorsal é sensitiva e tem o gânglio."
+ },
+ {
+  "c": "snp",
+  "q": "O nervo espinhal propriamente dito é classificado como misto porque:",
+  "o": [
+   "Une a raiz dorsal sensitiva e a raiz ventral motora",
+   "Contém fibras do SNC e do SNP no mesmo feixe",
+   "Tem fibras mielínicas e amielínicas misturadas",
+   "Inerva músculo liso e músculo esquelético ao mesmo tempo"
+  ],
+  "e": "As duas raízes se unem no forame intervertebral, formando um nervo com fibras sensitivas e motoras."
+ },
+ {
+  "c": "snp",
+  "q": "Os ramos dorsais dos nervos espinhais inervam:",
+  "o": [
+   "Os músculos epaxiais e a pele do dorso",
+   "Os músculos dos membros, formando os plexos",
+   "A parede ventral do abdome",
+   "As vísceras torácicas"
+  ],
+  "e": "Os ramos dorsais vão para a musculatura epaxial e a pele dorsal; os ventrais vão para a parede lateral e ventral e os membros."
+ },
+ {
+  "c": "snp",
+  "q": "O cão tem 7 vértebras cervicais, mas 8 pares de nervos cervicais. Isso ocorre porque:",
+  "o": [
+   "O C1 sai cranialmente ao atlas, e o C8, entre C7 e T1",
+   "O oitavo nervo cervical sai pelo forame transverso do áxis",
+   "O nervo de C2 se divide em dois logo após o forame intervertebral",
+   "Um nervo craniano, o acessório, é contado como cervical"
+  ],
+  "e": "O C1 emerge cranialmente ao atlas (entre o occipital e o atlas, pelo forame vertebral lateral do atlas no cão) e cada nervo seguinte sai cranialmente à vértebra de mesmo número até C7; o C8 sai entre C7 e T1, por isso há um par cervical a mais que vértebras."
+ },
+ {
+  "c": "snp",
+  "q": "Quantos pares de nervos espinhais torácicos e lombares, respectivamente, tem o cão?",
+  "o": [
+   "13 torácicos e 7 lombares",
+   "12 torácicos e 6 lombares",
+   "18 torácicos e 6 lombares",
+   "13 torácicos e 6 lombares"
+  ],
+  "e": "O número de nervos espinhais acompanha a fórmula vertebral: no cão, 13 torácicos e 7 lombares."
+ },
+ {
+  "c": "snp",
+  "q": "Qual nervo craniano é a via aferente comum ao teste de ameaça e ao reflexo pupilar?",
+  "o": [
+   "Óptico (II)",
+   "Oculomotor (III)",
+   "Troclear (IV)",
+   "Abducente (VI)"
+  ],
+  "e": "O nervo óptico leva a informação visual: é a via aferente dos dois testes. A via eferente do teste de ameaça é o facial (piscar) e a do reflexo pupilar, o oculomotor."
+ },
+ {
+  "c": "snp",
+  "q": "Um cão apresenta pupila dilatada que não contrai e olho desviado ventrolateralmente. O nervo lesado é o:",
+  "o": [
+   "Oculomotor (III)",
+   "Abducente (VI)",
+   "Troclear (IV)",
+   "Facial (VII)"
+  ],
+  "e": "O oculomotor inerva a maioria dos músculos do olho e leva fibras parassimpáticas que contraem a pupila; sua lesão causa midríase e estrabismo ventrolateral."
+ },
+ {
+  "c": "snp",
+  "q": "O nervo troclear (IV) inerva o músculo:",
+  "o": [
+   "Oblíquo dorsal do olho",
+   "Reto lateral do olho",
+   "Retrator do bulbo",
+   "Levantador da pálpebra superior"
+  ],
+  "e": "O troclear inerva apenas o oblíquo dorsal; sua lesão causa rotação do olho, visível em gatos e bovinos pela pupila."
+ },
+ {
+  "c": "snp",
+  "q": "Estrabismo medial em um gato sugere lesão do nervo:",
+  "o": [
+   "Abducente (VI)",
+   "Oculomotor (III)",
+   "Troclear (IV)",
+   "Trigêmeo (V)"
+  ],
+  "e": "O abducente inerva o reto lateral (e o retrator do bulbo); sem ele, o olho desvia medialmente."
+ },
+ {
+  "c": "snp",
+  "q": "Na descorna de bovinos, bloqueia-se o ramo cornual, que é derivado do nervo:",
+  "o": [
+   "Oftálmico, ramo do trigêmeo",
+   "Mandibular, ramo do trigêmeo",
+   "Auriculopalpebral, ramo do facial",
+   "Infraorbital, ramo do maxilar"
+  ],
+  "e": "O ramo cornual sai do nervo oftálmico, uma das três divisões do trigêmeo (oftálmico, maxilar, mandibular)."
+ },
+ {
+  "c": "snp",
+  "q": "Um cão aparece de repente com a mandíbula caída, sem conseguir fechar a boca, mas com pálpebras e lábios que se movem normalmente. O nervo afetado é o:",
+  "o": [
+   "Trigêmeo (V)",
+   "Facial (VII)",
+   "Hipoglosso (XII)",
+   "Glossofaríngeo (IX)"
+  ],
+  "e": "A paralisia do trigêmeo atinge os músculos da mastigação (ramo mandibular), deixando a mandíbula caída; a mímica facial (facial) fica preservada."
+ },
+ {
+  "c": "snp",
+  "q": "Em equinos, o uso de cabresto apertado pode lesar o ramo bucal do nervo:",
+  "o": [
+   "Facial",
+   "Trigêmeo",
+   "Hipoglosso",
+   "Vago"
+  ],
+  "e": "Os ramos bucais do facial passam superficialmente na face e são comprimidos pelo cabresto, causando paralisia do lábio."
+ },
+ {
+  "c": "snp",
+  "q": "Um gato com otite média/interna apresenta inclinação da cabeça, nistagmo e anda em círculos. O nervo craniano envolvido é o:",
+  "o": [
+   "Vestibulococlear (VIII)",
+   "Facial (VII)",
+   "Glossofaríngeo (IX)",
+   "Abducente (VI)"
+  ],
+  "e": "O vestibulococlear passa pela orelha interna e controla audição e equilíbrio; sua lesão dá sinais vestibulares."
+ },
+ {
+  "c": "snp",
+  "q": "Qual dos nervos cranianos abaixo é exclusivamente sensitivo?",
+  "o": [
+   "Vestibulococlear (VIII)",
+   "Trigêmeo (V)",
+   "Facial (VII)",
+   "Glossofaríngeo (IX)"
+  ],
+  "e": "Olfatório, óptico e vestibulococlear são sensitivos; trigêmeo, facial e glossofaríngeo são mistos."
+ },
+ {
+  "c": "snp",
+  "q": "Disfagia associada a alteração do paladar e da secreção da parótida sugere lesão do nervo:",
+  "o": [
+   "Glossofaríngeo (IX)",
+   "Acessório (XI)",
+   "Hipoglosso (XII)",
+   "Abducente (VI)"
+  ],
+  "e": "O glossofaríngeo inerva a faringe, participa do paladar e leva fibras parassimpáticas para a parótida."
+ },
+ {
+  "c": "snp",
+  "q": "Atrofia do músculo trapézio e de partes do braquiocefálico e do esternocefálico indica lesão do nervo:",
+  "o": [
+   "Acessório (XI)",
+   "Supraescapular",
+   "Hipoglosso (XII)",
+   "Vago (X)"
+  ],
+  "e": "O acessório é motor para o trapézio e partes do braquiocefálico e esternocefálico; sua lesão atrofia a musculatura do pescoço."
+ },
+ {
+  "c": "snp",
+  "q": "Um cão com a língua desviada para um lado e pendendo para fora da boca tem lesão do nervo:",
+  "o": [
+   "Hipoglosso (XII)",
+   "Glossofaríngeo (IX)",
+   "Trigêmeo (V)",
+   "Facial (VII)"
+  ],
+  "e": "O hipoglosso é o nervo motor dos músculos da língua."
+ },
+ {
+  "c": "snp",
+  "q": "Qual destes nervos cranianos NÃO conduz fibras parassimpáticas?",
+  "o": [
+   "Hipoglosso (XII)",
+   "Oculomotor (III)",
+   "Facial (VII)",
+   "Glossofaríngeo (IX)"
+  ],
+  "e": "O componente craniano do parassimpático segue com os nervos III, VII, IX e X; o hipoglosso é apenas motor para a língua."
+ },
+ {
+  "c": "snp",
+  "q": "O vago, principal nervo parassimpático, inerva o trato digestório até:",
+  "o": [
+   "O cólon",
+   "O estômago apenas",
+   "O duodeno",
+   "O reto e o ânus"
+  ],
+  "e": "O vago chega até o cólon; o restante do intestino grosso recebe parassimpático sacral (nervos pélvicos)."
+ },
+ {
+  "c": "snp",
+  "q": "Em bovinos, a lesão das fibras do nervo vago que controlam os pré-estômagos está associada a:",
+  "o": [
+   "Indigestão vagal",
+   "Paralisia do obturador",
+   "Síndrome de Horner",
+   "Paralisia do trigêmeo"
+  ],
+  "e": "O vago controla a motilidade dos pré-estômagos; sua lesão causa a indigestão vagal."
+ },
+ {
+  "c": "snp",
+  "q": "No cão, o plexo braquial é formado pelos ramos ventrais dos nervos espinhais:",
+  "o": [
+   "C6, C7, C8, T1 e T2",
+   "C1, C2, C3, C4 e C5",
+   "T1, T2, T3, T4 e T5",
+   "C2, C3, C4 e C5"
+  ],
+  "e": "O plexo braquial vem dos ramos ventrais de C6 a T2 (no cão, principalmente C6–T1, com pequena contribuição de T2), à altura da intumescência cervical."
+ },
+ {
+  "c": "snp",
+  "q": "Um cão com dificuldade de flexionar o cotovelo tem provável lesão do nervo:",
+  "o": [
+   "Musculocutâneo",
+   "Radial",
+   "Axilar",
+   "Supraescapular"
+  ],
+  "e": "O musculocutâneo inerva os flexores do cotovelo (bíceps braquial e braquial)."
+ },
+ {
+  "c": "snp",
+  "q": "Os nervos mediano e ulnar inervam principalmente:",
+  "o": [
+   "Os flexores do carpo e dos dedos e a pele palmar",
+   "Os extensores do cotovelo, do carpo e dos dedos",
+   "Os músculos supra e infraespinhal",
+   "Os flexores do ombro, como o deltoide"
+  ],
+  "e": "Mediano e ulnar são responsáveis pela flexão do carpo e dos dedos; sua lesão causa só hiperextensão discreta do carpo."
+ },
+ {
+  "c": "snp",
+  "q": "Após cirurgia longa em decúbito lateral, um equino não sustenta o peso no membro torácico de baixo, com o cotovelo caído e apoio no dorso dos dedos. O nervo afetado é o:",
+  "o": [
+   "Radial",
+   "Musculocutâneo",
+   "Mediano",
+   "Axilar"
+  ],
+  "e": "O radial inerva o tríceps e os extensores; a compressão durante decúbito prolongado é causa clássica de sua paralisia."
+ },
+ {
+  "c": "snp",
+  "q": "Um cão atropelado arrasta o membro torácico, que está paralisado e sem dor profunda, e tem miose e ptose do mesmo lado. O diagnóstico mais provável é:",
+  "o": [
+   "Avulsão do plexo braquial com síndrome de Horner",
+   "Paralisia isolada do nervo supraescapular",
+   "Lesão do nervo facial com paralisia palpebral",
+   "Compressão do nervo axilar"
+  ],
+  "e": "Na avulsão, as raízes de C6–T2 são arrancadas da medula; a lesão do simpático de T1–T3 explica a síndrome de Horner do mesmo lado."
+ },
+ {
+  "c": "snp",
+  "q": "O plexo lombossacral é formado pelos ramos ventrais de:",
+  "o": [
+   "L4 a S2 (com variação entre espécies)",
+   "C6 a T2 (intumescência cervical)",
+   "T10 a L2 (com variação entre espécies)",
+   "S3 aos primeiros nervos caudais"
+  ],
+  "e": "O plexo lombossacral, origem dos nervos do membro pélvico, vem de L4 a S2."
+ },
+ {
+  "c": "snp",
+  "q": "Um bezerro retirado por tração forçada com os membros estendidos não sustenta o peso, mantém o joelho flexionado e não tem reflexo patelar. O nervo lesado é o:",
+  "o": [
+   "Femoral",
+   "Obturador",
+   "Fibular",
+   "Tibial"
+  ],
+  "e": "O femoral inerva o quadríceps (extensor do joelho) e é a via do reflexo patelar; sofre estiramento na tração forçada."
+ },
+ {
+  "c": "snp",
+  "q": "O nervo safeno, responsável pela sensibilidade da pele da face medial do membro pélvico, é ramo do nervo:",
+  "o": [
+   "Femoral",
+   "Isquiático",
+   "Obturador",
+   "Tibial"
+  ],
+  "e": "O safeno é o ramo cutâneo do femoral para a pele medial."
+ },
+ {
+  "c": "snp",
+  "q": "O nervo isquiático se divide nos nervos:",
+  "o": [
+   "Tibial e fibular",
+   "Femoral e obturador",
+   "Safeno e tibial",
+   "Glúteo cranial e caudal"
+  ],
+  "e": "O isquiático, que inerva os músculos caudais da coxa, divide-se em tibial e fibular (peroneal)."
+ },
+ {
+  "c": "snp",
+  "q": "Jarrete flexionado e boleto caído para frente no membro pélvico indicam lesão do nervo:",
+  "o": [
+   "Tibial",
+   "Fibular",
+   "Femoral",
+   "Obturador"
+  ],
+  "e": "O tibial inerva os extensores do jarrete e os flexores dos dedos; sem eles, o jarrete cede e o boleto vai para frente."
+ },
+ {
+  "c": "snp",
+  "q": "Para evitar lesão do nervo isquiático, a injeção intramuscular em bovinos e equinos deve ser feita preferencialmente:",
+  "o": [
+   "Na tábua do pescoço",
+   "Caudalmente ao trocânter maior do fêmur",
+   "No centro da região glútea, em profundidade",
+   "Na face caudal da coxa de animais magros"
+  ],
+  "e": "O isquiático passa caudalmente ao trocânter maior; a tábua do pescoço é o local seguro."
+ },
+ {
+  "c": "snp",
+  "q": "Uma diferença entre o gânglio espinhal e um gânglio autônomo é que, no gânglio espinhal:",
+  "o": [
+   "Os neurônios são pseudounipolares e não há sinapse",
+   "Os neurônios são multipolares e fazem sinapse",
+   "Não existem células satélites",
+   "Os neurônios são pós-ganglionares simpáticos"
+  ],
+  "e": "O gânglio sensitivo tem neurônios pseudounipolares sem sinapse; no autônomo, o neurônio pré-ganglionar faz sinapse com o pós-ganglionar multipolar."
+ },
+ {
+  "c": "snp",
+  "q": "Qual destes é um gânglio sensitivo?",
+  "o": [
+   "Gânglio trigeminal",
+   "Gânglio celíaco",
+   "Gânglio cervical cranial",
+   "Gânglios da cadeia paravertebral"
+  ],
+  "e": "O gânglio trigeminal, como o espinhal, contém neurônios sensitivos; os demais são gânglios simpáticos."
+ },
+ {
+  "c": "snp",
+  "q": "No sistema simpático, a organização típica das fibras e o neurotransmissor pós-ganglionar são:",
+  "o": [
+   "Pré-ganglionar curta, pós longa; noradrenalina",
+   "Pré-ganglionar longa, pós curta; acetilcolina",
+   "Pré e pós de igual tamanho; dopamina",
+   "Pré-ganglionar curta, pós longa; acetilcolina"
+  ],
+  "e": "Os gânglios simpáticos ficam perto da coluna, então a fibra pré é curta e a pós é longa; a pós-ganglionar libera noradrenalina."
+ },
+ {
+  "c": "snp",
+  "q": "A medula da glândula adrenal é considerada equivalente a:",
+  "o": [
+   "Um gânglio simpático",
+   "Um gânglio parassimpático intramural",
+   "Um gânglio sensitivo",
+   "Um núcleo do tronco encefálico"
+  ],
+  "e": "A medula da adrenal recebe fibras pré-ganglionares simpáticas e libera catecolaminas, funcionando como um gânglio simpático."
+ },
+ {
+  "c": "snp",
+  "q": "No parassimpático, os gânglios ficam perto ou dentro da parede das vísceras. Consequentemente:",
+  "o": [
+   "A fibra pré-ganglionar é longa e a pós-ganglionar é curta",
+   "A fibra pré-ganglionar é curta e a pós-ganglionar é longa",
+   "Não há fibra pós-ganglionar",
+   "O neurotransmissor pós-ganglionar é a noradrenalina"
+  ],
+  "e": "Com o gânglio junto ao órgão, a pré-ganglionar percorre quase todo o trajeto e a pós é curta; ambas usam acetilcolina."
+ },
+ {
+  "c": "snp",
+  "q": "Qual destes efeitos é produzido pela estimulação parassimpática?",
+  "o": [
+   "Miose",
+   "Taquicardia",
+   "Broncodilatação",
+   "Midríase"
+  ],
+  "e": "O parassimpático (repouso e digestão) causa miose, bradicardia, salivação e aumento da motilidade; os demais são efeitos simpáticos."
+ },
+ {
+  "c": "snp",
+  "q": "No equino com síndrome de Horner, além dos sinais oculares, observa-se:",
+  "o": [
+   "Sudorese na face do lado afetado",
+   "Paralisia da língua",
+   "Perda de sensibilidade da córnea",
+   "Desvio da mandíbula"
+  ],
+  "e": "No cavalo, a perda do simpático causa sudorese no lado afetado, além de miose, ptose, enoftalmia e protrusão da terceira pálpebra."
+ }
+]

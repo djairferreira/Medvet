@@ -1,0 +1,585 @@
+[
+ {
+  "c": "tecidos",
+  "q": "Qual tecido é avascular e se apoia numa lâmina basal?",
+  "o": [
+   "Epitelial",
+   "Conjuntivo denso",
+   "Muscular liso",
+   "Nervoso"
+  ],
+  "e": "O epitélio se nutre por difusão a partir do conjuntivo subjacente."
+ },
+ {
+  "c": "tecidos",
+  "q": "O epitélio da bexiga, que se achata quando o órgão se enche, é:",
+  "o": [
+   "De transição (urotélio)",
+   "Simples cúbico",
+   "Estratificado pavimentoso queratinizado",
+   "Pseudoestratificado ciliado"
+  ],
+  "e": "Células superficiais em “guarda-chuva”. Também em ureteres e pelve renal."
+ },
+ {
+  "c": "tecidos",
+  "q": "O epitélio da traqueia é:",
+  "o": [
+   "Pseudoestratificado cilíndrico ciliado, com caliciformes",
+   "Simples pavimentoso com microvilosidades na superfície",
+   "Estratificado pavimentoso queratinizado, como na pele",
+   "De transição, com células em guarda-chuva"
+  ],
+  "e": "É o epitélio respiratório (com células caliciformes): núcleos em alturas diferentes, mas todas as células tocam a lâmina basal."
+ },
+ {
+  "c": "tecidos",
+  "q": "A glândula sebácea tem secreção:",
+  "o": [
+   "Holócrina",
+   "Merócrina",
+   "Apócrina",
+   "Endócrina"
+  ],
+  "e": "A célula inteira se desintegra e vira o sebo."
+ },
+ {
+  "c": "tecidos",
+  "q": "O tendão é formado por tecido conjuntivo:",
+  "o": [
+   "Denso modelado",
+   "Denso não modelado",
+   "Frouxo",
+   "Reticular"
+  ],
+  "e": "Feixes de colágeno I paralelos, na direção da tração."
+ },
+ {
+  "c": "tecidos",
+  "q": "Na HE, o núcleo fica roxo porque:",
+  "o": [
+   "Os ácidos nucleicos atraem a hematoxilina, corante básico",
+   "A eosina é um corante básico e cora intensamente o DNA",
+   "O núcleo é rico em proteínas básicas que atraem a eosina",
+   "O núcleo não cora e parece roxo apenas por contraste"
+  ],
+  "e": "Os ácidos nucleicos (DNA e RNA) são ácidos e atraem a hematoxilina, que é básica: estruturas ácidas = basófilas."
+ },
+ {
+  "c": "tecidos",
+  "q": "O citoplasma do plasmócito é basófilo porque é rico em:",
+  "o": [
+   "Retículo endoplasmático rugoso (RNA dos ribossomos)",
+   "Mitocôndrias, que se coram pela hematoxilina",
+   "Glicogênio, que reage intensamente com a hematoxilina",
+   "Gotículas de lipídios ácidos no citosol"
+  ],
+  "e": "Ribossomos têm RNA (ácido) → atraem a hematoxilina. Mitocôndrias deixam o citoplasma acidófilo."
+ },
+ {
+  "c": "tecidos",
+  "q": "Os grânulos dos mastócitos corados com azul de toluidina ficam roxo-avermelhados. Isso é:",
+  "o": [
+   "Metacromasia",
+   "Acidofilia",
+   "Argirofilia",
+   "Autofluorescência"
+  ],
+  "e": "O corante básico muda de cor ao se ligar à heparina, muito ácida e agrupada."
+ },
+ {
+  "c": "tecidos",
+  "q": "Para evidenciar fibras reticulares, usa-se:",
+  "o": [
+   "Impregnação pela prata",
+   "Hematoxilina e eosina",
+   "Sudan",
+   "Ziehl-Neelsen"
+  ],
+  "e": "Fibras reticulares são argirófilas: ficam negras."
+ },
+ {
+  "c": "tecidos",
+  "q": "O fixador de rotina para histopatologia é:",
+  "o": [
+   "Formol a 10% tamponado",
+   "Álcool absoluto",
+   "Xilol",
+   "Parafina"
+  ],
+  "e": "Usado em volume cerca de 10 vezes maior que o da peça."
+ },
+ {
+  "c": "tecidos",
+  "q": "A espessura usual de um corte histológico em parafina é:",
+  "o": [
+   "3 a 5 µm",
+   "1 a 2 mm",
+   "50 a 100 µm",
+   "0,1 nm"
+  ],
+  "e": "Cortes finos permitem que a luz atravesse o tecido."
+ },
+ {
+  "c": "tecidos",
+  "q": "O que distingue o tecido conjuntivo dos outros três tecidos fundamentais?",
+  "o": [
+   "Matriz extracelular abundante, com células esparsas",
+   "Células justapostas, polarizadas e unidas por junções",
+   "Células alongadas repletas de actina e miosina",
+   "Células com prolongamentos longos e quase nenhuma matriz"
+  ],
+  "e": "O conjuntivo é definido pela matriz (fibras + substância fundamental) abundante, com células esparsas de vários tipos; os demais tecidos têm pouca matriz."
+ },
+ {
+  "c": "tecidos",
+  "q": "Como o tecido epitelial, que é avascular, recebe nutrientes e oxigênio?",
+  "o": [
+   "Por difusão a partir do conjuntivo subjacente, através da lâmina basal",
+   "Por capilares que penetram entre as células epiteliais",
+   "Por vasos linfáticos próprios situados no estrato superficial",
+   "Por junções comunicantes que o ligam diretamente ao músculo"
+  ],
+  "e": "O epitélio não tem vasos; nutre-se por difusão a partir dos capilares do conjuntivo, atravessando a lâmina basal."
+ },
+ {
+  "c": "tecidos",
+  "q": "Qual tipo de tecido conjuntivo é a exceção à regra de que o conjuntivo é ricamente vascularizado?",
+  "o": [
+   "Cartilagem",
+   "Tecido ósseo",
+   "Tecido adiposo",
+   "Derme reticular"
+  ],
+  "e": "A cartilagem é avascular e nutre-se por difusão a partir do pericôndrio; osso, gordura e derme são vascularizados."
+ },
+ {
+  "c": "tecidos",
+  "q": "O epitélio de revestimento é classificado com base em:",
+  "o": [
+   "Número de camadas e forma das células superficiais",
+   "Forma das células da camada basal e tipo de junção",
+   "Presença de cílios, microvilos e células caliciformes",
+   "Espessura da lâmina basal e tipo de glândula associada"
+  ],
+  "e": "Conta-se o número de camadas e observa-se a forma das células superficiais (pavimentosa, cúbica ou cilíndrica)."
+ },
+ {
+  "c": "tecidos",
+  "q": "O endotélio dos vasos e o mesotélio da pleura e do peritônio são exemplos de epitélio:",
+  "o": [
+   "Simples pavimentoso",
+   "Simples cúbico",
+   "Estratificado pavimentoso não queratinizado",
+   "De transição"
+  ],
+  "e": "Ambos são uma única camada de células achatadas, adequada a trocas e deslizamento."
+ },
+ {
+  "c": "tecidos",
+  "q": "Numa lâmina de tireoide, os folículos são revestidos por uma camada de células tão altas quanto largas, com núcleo redondo e central. Trata-se de epitélio:",
+  "o": [
+   "Simples cúbico",
+   "Simples cilíndrico",
+   "Pseudoestratificado cilíndrico",
+   "Simples pavimentoso"
+  ],
+  "e": "Células cúbicas com núcleo central em camada única caracterizam o epitélio simples cúbico, típico dos folículos tireoidianos e túbulos renais."
+ },
+ {
+  "c": "tecidos",
+  "q": "A mucosa do rúmen, do retículo e do omaso é revestida por epitélio:",
+  "o": [
+   "Estratificado pavimentoso queratinizado",
+   "Simples cilíndrico com células caliciformes",
+   "Pseudoestratificado cilíndrico ciliado",
+   "Estratificado pavimentoso não queratinizado"
+  ],
+  "e": "Os pré-estômagos dos ruminantes têm epitélio estratificado queratinizado, resistente ao atrito da forragem."
+ },
+ {
+  "c": "tecidos",
+  "q": "Um epitélio com várias camadas, cujas células superficiais são vivas e nucleadas, é encontrado em:",
+  "o": [
+   "Córnea e vagina",
+   "Epiderme e coxins",
+   "Bexiga e ureteres",
+   "Traqueia e brônquios"
+  ],
+  "e": "Córnea e vagina têm epitélio estratificado pavimentoso não queratinizado; epiderme é queratinizada, bexiga tem urotélio e traqueia, epitélio respiratório."
+ },
+ {
+  "c": "tecidos",
+  "q": "No epidídimo, o epitélio pseudoestratificado cilíndrico apresenta, na superfície apical:",
+  "o": [
+   "Estereocílios",
+   "Cílios móveis",
+   "Células em guarda-chuva",
+   "Camada de queratina"
+  ],
+  "e": "O epidídimo tem epitélio pseudoestratificado com estereocílios (microvilosidades longas), diferente do epitélio ciliado da traqueia."
+ },
+ {
+  "c": "tecidos",
+  "q": "Qual característica distingue uma glândula endócrina de uma exócrina?",
+  "o": [
+   "Perde o ducto e lança a secreção no sangue",
+   "Mantém um ducto que lança a secreção numa superfície",
+   "Secreta sempre pelo modo holócrino, com morte celular",
+   "É formada por tecido conjuntivo, e não por epitélio"
+  ],
+  "e": "Glândulas endócrinas perdem a ligação (ducto) com a superfície e secretam no sangue; as exócrinas mantêm ducto e lançam a secreção numa superfície."
+ },
+ {
+  "c": "tecidos",
+  "q": "Na secreção merócrina, o produto glandular é liberado:",
+  "o": [
+   "Por exocitose, sem perda de parte da célula",
+   "Junto com a porção apical da célula",
+   "Pela desintegração da célula inteira",
+   "Por difusão direta através da lâmina basal"
+  ],
+  "e": "Merócrina = exocitose de vesículas sem perda celular; é o modo da maioria das glândulas."
+ },
+ {
+  "c": "tecidos",
+  "q": "Qual associação entre glândula e modo de secreção está correta?",
+  "o": [
+   "Glândula mamária (lipídios) – apócrina",
+   "Glândula sebácea – merócrina",
+   "Glândula salivar – holócrina",
+   "Sudorípara apócrina – holócrina"
+  ],
+  "e": "Os lipídios do leite saem envoltos por parte da membrana apical (apócrina); a sebácea é holócrina e as salivares, merócrinas."
+ },
+ {
+  "c": "tecidos",
+  "q": "Uma glândula exócrina cujo ducto se ramifica é classificada como:",
+  "o": [
+   "Composta",
+   "Simples",
+   "Holócrina",
+   "Endócrina"
+  ],
+  "e": "Ducto ramificado define glândula composta; ducto único não ramificado define glândula simples."
+ },
+ {
+  "c": "tecidos",
+  "q": "O tecido conjuntivo origina-se embriologicamente do:",
+  "o": [
+   "Mesênquima, derivado do mesoderma",
+   "Ectoderma superficial",
+   "Endoderma do intestino primitivo",
+   "Tubo neural"
+  ],
+  "e": "O tecido conjuntivo deriva do mesênquima, de origem predominantemente mesodérmica (na cabeça, parte do mesênquima vem da crista neural)."
+ },
+ {
+  "c": "tecidos",
+  "q": "A substância fundamental amorfa do tecido conjuntivo é composta principalmente por:",
+  "o": [
+   "Glicosaminoglicanos, proteoglicanos e glicoproteínas",
+   "Colágeno tipo I, elastina e fibras reticulares densas",
+   "Queratina, lipídios de barreira e ceramidas",
+   "Actina, miosina, tropomiosina e troponina"
+  ],
+  "e": "A substância fundamental é o gel de GAGs, proteoglicanos e glicoproteínas de adesão (como fibronectina e laminina) onde as fibras ficam mergulhadas."
+ },
+ {
+  "c": "tecidos",
+  "q": "O colágeno predominante na matriz da cartilagem hialina é o tipo:",
+  "o": [
+   "II",
+   "I",
+   "III",
+   "IV"
+  ],
+  "e": "O tipo II é o colágeno da cartilagem hialina; o tipo I predomina em tendão, derme e osso, e o tipo III forma as fibras reticulares."
+ },
+ {
+  "c": "tecidos",
+  "q": "Para evidenciar as fibras elásticas do ligamento nucal, que coram mal na HE, utiliza-se:",
+  "o": [
+   "Orceína ou Verhoeff",
+   "Ziehl-Neelsen",
+   "Sudan",
+   "Azul de toluidina"
+  ],
+  "e": "As fibras elásticas são demonstradas por orceína ou Verhoeff; as outras colorações destinam-se a BAAR, lipídios e metacromasia."
+ },
+ {
+  "c": "tecidos",
+  "q": "As fibras reticulares, formadas por colágeno III fino, constituem o arcabouço de:",
+  "o": [
+   "Linfonodos, medula óssea e fígado",
+   "Tendões e aponeuroses",
+   "Aorta e ligamento nucal",
+   "Cartilagem hialina e osso compacto"
+  ],
+  "e": "A rede reticular sustenta órgãos linfoides, hematopoéticos e o fígado; tendões têm colágeno I e aorta, fibras elásticas."
+ },
+ {
+  "c": "tecidos",
+  "q": "Na cicatrização de uma ferida cutânea, a célula responsável por produzir novas fibras colágenas é o:",
+  "o": [
+   "Fibroblasto",
+   "Mastócito",
+   "Plasmócito",
+   "Adipócito"
+  ],
+  "e": "O fibroblasto (forma ativa) sintetiza fibras e substância fundamental; o fibrócito é sua forma quiescente."
+ },
+ {
+  "c": "tecidos",
+  "q": "O tecido adiposo multilocular (gordura parda) é encontrado principalmente em:",
+  "o": [
+   "Neonatos e animais que hibernam",
+   "Bovinos adultos em engorda",
+   "Equinos atletas",
+   "Suínos em terminação"
+  ],
+  "e": "A gordura parda, termogênica, é típica de recém-nascidos e hibernantes; a gordura branca é unilocular."
+ },
+ {
+  "c": "tecidos",
+  "q": "Qual é o tumor cutâneo maligno mais comum do cão, originado de uma célula residente do conjuntivo com grânulos de histamina e heparina?",
+  "o": [
+   "Mastocitoma",
+   "Plasmocitoma",
+   "Histiocitoma",
+   "Fibrossarcoma"
+  ],
+  "e": "O mastocitoma, derivado do mastócito, é o tumor cutâneo maligno mais frequente no cão; o histiocitoma é comum, mas benigno."
+ },
+ {
+  "c": "tecidos",
+  "q": "Célula transitória do conjuntivo, derivada do linfócito B, com núcleo em “roda de carroça” e função de produzir anticorpos:",
+  "o": [
+   "Plasmócito",
+   "Macrófago",
+   "Mastócito",
+   "Eosinófilo"
+  ],
+  "e": "O plasmócito é o linfócito B diferenciado em produtor de anticorpos, com cromatina em roda de carroça."
+ },
+ {
+  "c": "tecidos",
+  "q": "A biópsia de pele de um cão com alergia a pulgas mostra muitas células sanguíneas com grânulos acidófilos infiltrando a derme. Essas células são, mais provavelmente:",
+  "o": [
+   "Eosinófilos",
+   "Plasmócitos",
+   "Fibrócitos",
+   "Adipócitos"
+  ],
+  "e": "Eosinófilos têm grânulos acidófilos e aumentam em parasitoses e alergias."
+ },
+ {
+  "c": "tecidos",
+  "q": "O macrófago (histiócito) do tecido conjuntivo deriva de qual célula sanguínea?",
+  "o": [
+   "Monócito",
+   "Linfócito B",
+   "Neutrófilo",
+   "Basófilo"
+  ],
+  "e": "Monócitos migram do sangue para os tecidos e se diferenciam em macrófagos."
+ },
+ {
+  "c": "tecidos",
+  "q": "Derme reticular, cápsulas de órgãos, periósteo e pericôndrio são formados por tecido conjuntivo:",
+  "o": [
+   "Denso não modelado",
+   "Denso modelado",
+   "Frouxo",
+   "Reticular"
+  ],
+  "e": "Feixes colágenos em várias direções caracterizam o denso não modelado, que resiste a tração em múltiplos sentidos."
+ },
+ {
+  "c": "tecidos",
+  "q": "A lâmina própria, logo abaixo dos epitélios das mucosas, é formada por tecido conjuntivo:",
+  "o": [
+   "Frouxo",
+   "Denso modelado",
+   "Denso não modelado",
+   "Adiposo"
+  ],
+  "e": "A lâmina própria é conjuntivo frouxo, rico em células e vasos, que sustenta e nutre o epitélio."
+ },
+ {
+  "c": "tecidos",
+  "q": "A hematoxilina é classificada como corante:",
+  "o": [
+   "Básico (catiônico), que se liga a estruturas ácidas",
+   "Ácido (aniônico), que se liga a estruturas básicas",
+   "Lipossolúvel, que se dissolve nas gorduras",
+   "Metacromático, que sempre cora em vermelho"
+  ],
+  "e": "A hematoxilina, positiva, liga-se a grupos negativos como os fosfatos dos ácidos nucleicos."
+ },
+ {
+  "c": "tecidos",
+  "q": "Por que o citoplasma da maioria das células, as hemácias e as fibras colágenas ficam rosados na HE?",
+  "o": [
+   "Suas proteínas catiônicas ligam-se à eosina, corante ácido",
+   "Seus ácidos nucleicos ligam-se à hematoxilina, corante básico",
+   "Seus glicosaminoglicanos sulfatados causam metacromasia rósea",
+   "Seus lipídios retêm o xilol e refratam a luz durante a montagem"
+  ],
+  "e": "Estruturas básicas (proteínas com carga +) atraem a eosina, aniônica, e são acidófilas."
+ },
+ {
+  "c": "tecidos",
+  "q": "Qual das estruturas abaixo NÃO é basófila na HE?",
+  "o": [
+   "Mitocôndrias",
+   "Nucléolo",
+   "Corpúsculos de Nissl do neurônio",
+   "Citoplasma das células acinosas do pâncreas"
+  ],
+  "e": "Mitocôndrias são acidófilas; nucléolo, Nissl e citoplasma acinoso são basófilos por conterem RNA."
+ },
+ {
+  "c": "tecidos",
+  "q": "A matriz da cartilagem hialina é basófila na HE principalmente por causa de:",
+  "o": [
+   "Grupos sulfato dos glicosaminoglicanos",
+   "Fibras de colágeno tipo I",
+   "Grande quantidade de mitocôndrias",
+   "Fibras elásticas abundantes"
+  ],
+  "e": "Os GAGs sulfatados, com carga negativa, atraem a hematoxilina e também explicam a metacromasia da cartilagem."
+ },
+ {
+  "c": "tecidos",
+  "q": "Na HE, os adipócitos aparecem como anéis com núcleo periférico (“anel de sinete”) e o espaço central vazio porque:",
+  "o": [
+   "Os lipídios são dissolvidos pelo álcool e pelo xilol",
+   "A gordura se liga à hematoxilina e fica translúcida",
+   "A eosina não penetra em células grandes como o adipócito",
+   "O formol transforma os triglicerídeos em água e glicerol"
+  ],
+  "e": "Os solventes do processamento (álcool e xilol) extraem os lipídios, deixando o vacúolo vazio; o mesmo ocorre com o glicogênio no hepatócito “rendado”."
+ },
+ {
+  "c": "tecidos",
+  "q": "Para confirmar lipidose hepática numa vaca no pós-parto com Sudan ou Oil Red O, o corte deve ser feito em material congelado porque:",
+  "o": [
+   "Álcool e xilol da inclusão em parafina removem os lipídios",
+   "O formol impede qualquer coloração de gorduras no tecido",
+   "O corte congelado é mais fino e nítido que o de parafina",
+   "O Sudan só se liga a tecido não fixado e ainda vivo"
+  ],
+  "e": "A desidratação e a diafanização dissolvem as gorduras; o corte congelado preserva os lipídios para os corantes lipossolúveis."
+ },
+ {
+  "c": "tecidos",
+  "q": "Qual é a sequência correta das etapas de preparo de uma lâmina em parafina?",
+  "o": [
+   "Fixação, desidratação, diafanização, inclusão, microtomia, coloração",
+   "Fixação, diafanização, desidratação, microtomia, inclusão, coloração",
+   "Desidratação, fixação, inclusão, diafanização, coloração, microtomia",
+   "Fixação, inclusão, desidratação, microtomia, diafanização, coloração"
+  ],
+  "e": "Fixa-se, retira-se a água com álcool, clarifica-se com xilol, inclui-se em parafina, corta-se e cora-se."
+ },
+ {
+  "c": "tecidos",
+  "q": "Na etapa de diafanização (clarificação), usa-se xilol porque ele:",
+  "o": [
+   "É miscível tanto com o álcool quanto com a parafina",
+   "Fixa as proteínas e interrompe a autólise do tecido",
+   "Cora seletivamente os núcleos e a cromatina",
+   "Endurece o tecido para o corte no micrótomo rotativo"
+  ],
+  "e": "O xilol faz a ponte entre o álcool da desidratação e a parafina, que não se misturam diretamente."
+ },
+ {
+  "c": "tecidos",
+  "q": "Um fragmento de fígado coletado em necropsia deve ser fixado em formol a 10% tamponado num volume de fixador de aproximadamente:",
+  "o": [
+   "10 vezes o volume da peça",
+   "Igual ao volume da peça",
+   "Metade do volume da peça",
+   "100 vezes o volume da peça"
+  ],
+  "e": "A regra prática é cerca de 10 volumes de fixador para 1 de tecido, com fragmentos de até ~1 cm."
+ },
+ {
+  "c": "tecidos",
+  "q": "Uma necropsia realizada muitas horas após a morte gera lâminas com artefatos porque:",
+  "o": [
+   "A autólise e a putrefação avançam antes da fixação",
+   "O formol perde a ação em tecidos frios",
+   "A parafina não penetra em tecido de cadáver",
+   "A hematoxilina não se liga a núcleos mortos"
+  ],
+  "e": "A fixação interrompe autólise e putrefação; quanto mais tarde for feita, mais degradado estará o tecido."
+ },
+ {
+  "c": "tecidos",
+  "q": "Qual coloração evidencia glicogênio, mucinas, membranas basais e paredes de fungos em magenta?",
+  "o": [
+   "PAS (ácido periódico-Schiff)",
+   "Tricrômico de Masson",
+   "Ziehl-Neelsen",
+   "Impregnação pela prata"
+  ],
+  "e": "O PAS cora carboidratos em magenta e é usado em glomerulopatias, células caliciformes e fungos."
+ },
+ {
+  "c": "tecidos",
+  "q": "Para avaliar o grau de fibrose num fígado de cão com hepatite crônica, a coloração especial mais indicada é:",
+  "o": [
+   "Tricrômico de Masson",
+   "Sudan",
+   "Azul de toluidina",
+   "Ziehl-Neelsen"
+  ],
+  "e": "O tricrômico de Masson cora o colágeno em azul ou verde, destacando a fibrose."
+ },
+ {
+  "c": "tecidos",
+  "q": "Num bovino com suspeita de paratuberculose, qual coloração demonstra os bacilos na mucosa intestinal?",
+  "o": [
+   "Ziehl-Neelsen",
+   "PAS",
+   "Tricrômico de Masson",
+   "Orceína"
+  ],
+  "e": "Micobactérias são álcool-ácido resistentes e ficam vermelhas no Ziehl-Neelsen."
+ },
+ {
+  "c": "tecidos",
+  "q": "Na suspeita de leptospirose, as espiroquetas no rim podem ser demonstradas por:",
+  "o": [
+   "Impregnação pela prata",
+   "Sudan / Oil Red O",
+   "Tricrômico de Masson",
+   "Hematoxilina e eosina de rotina"
+  ],
+  "e": "As leptospiras são argirófilas e aparecem negras na impregnação pela prata."
+ },
+ {
+  "c": "tecidos",
+  "q": "Para determinar a origem celular de um tumor pouco diferenciado, a técnica que marca uma proteína específica com anticorpos é a:",
+  "o": [
+   "Imuno-histoquímica",
+   "Coloração de PAS",
+   "Impregnação pela prata",
+   "Coloração de Giemsa"
+  ],
+  "e": "A imuno-histoquímica usa anticorpos contra proteínas específicas, identificando a linhagem do tumor e agentes infecciosos."
+ },
+ {
+  "c": "tecidos",
+  "q": "Ao examinar uma lâmina desconhecida ao microscópio, o procedimento correto é:",
+  "o": [
+   "Começar no menor aumento e só depois subir para 40×",
+   "Começar no maior aumento para identificar logo as células",
+   "Usar apenas a objetiva de imersão desde o início do exame",
+   "Examinar só as bordas do corte, em aumento médio de 20×"
+  ],
+  "e": "O menor aumento (4× ou 10×) mostra a arquitetura e a organização geral e localiza o tecido antes do detalhe celular."
+ }
+]

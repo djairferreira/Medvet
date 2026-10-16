@@ -1,0 +1,574 @@
+[
+ {
+  "c": "toracico",
+  "q": "O acrômio é uma estrutura da:",
+  "o": [
+   "Escápula",
+   "Ulna",
+   "Úmero",
+   "Pelve"
+  ],
+  "e": "Extremidade distal da espinha da escápula."
+ },
+ {
+  "c": "toracico",
+  "q": "O tubérculo intermédio do úmero é característico do:",
+  "o": [
+   "Equino",
+   "Cão",
+   "Gato",
+   "Suíno"
+  ],
+  "e": "Por isso o equino tem dois sulcos intertuberculares."
+ },
+ {
+  "c": "toracico",
+  "q": "O processo ancôneo pertence à __ e encaixa na __.",
+  "o": [
+   "ulna; fossa do olécrano",
+   "rádio; fossa radial",
+   "ulna; fossa radial",
+   "úmero; incisura troclear"
+  ],
+  "e": "No topo da incisura troclear."
+ },
+ {
+  "c": "toracico",
+  "q": "O processo estiloide lateral pertence:",
+  "o": [
+   "À ulna",
+   "Ao rádio",
+   "Ao úmero",
+   "Ao carpo ulnar"
+  ],
+  "e": "O medial é do rádio."
+ },
+ {
+  "c": "toracico",
+  "q": "O carpo acessório está na:",
+  "o": [
+   "Fileira proximal do carpo",
+   "Fileira distal do carpo",
+   "Fileira proximal do tarso",
+   "Metacarpo"
+  ],
+  "e": "Junto com radial, intermédio e ulnar."
+ },
+ {
+  "c": "toracico",
+  "q": "No equino, o metacarpo principal é o:",
+  "o": [
+   "III",
+   "II",
+   "IV",
+   "III e IV fundidos"
+  ],
+  "e": "II e IV são rudimentares. Fundidos III e IV = bovino."
+ },
+ {
+  "c": "toracico",
+  "q": "Em qual espécie a ulna vai só até o meio do antebraço?",
+  "o": [
+   "Equino",
+   "Bovino",
+   "Cão",
+   "Gato"
+  ],
+  "e": "Bovino e carnívoros têm ulna completa."
+ },
+ {
+  "c": "toracico",
+  "q": "A fossa do olécrano fica na face __ do úmero.",
+  "o": [
+   "caudal",
+   "cranial",
+   "medial",
+   "lateral"
+  ],
+  "e": "A fossa radial é cranial."
+ },
+ {
+  "c": "toracico",
+  "q": "O acrômio está AUSENTE em:",
+  "o": [
+   "Equino e suíno",
+   "Cão e gato",
+   "Bovino e ovino",
+   "Gato e bovino"
+  ],
+  "e": "Acrômio só em carnívoros e ruminantes."
+ },
+ {
+  "c": "toracico",
+  "q": "O processo supra-hamato da escápula é característico do:",
+  "o": [
+   "Gato",
+   "Cão",
+   "Equino",
+   "Bovino"
+  ],
+  "e": "O cão tem só o processo hamato."
+ },
+ {
+  "c": "toracico",
+  "q": "O forame supratroclear do úmero é característico do:",
+  "o": [
+   "Cão",
+   "Equino",
+   "Bovino",
+   "Suíno"
+  ],
+  "e": "Comunica a fossa radial com a fossa do olécrano."
+ },
+ {
+  "c": "toracico",
+  "q": "Na fileira distal do carpo do bovino há:",
+  "o": [
+   "Cárpicos II+III fundidos e IV",
+   "Cárpicos I, II, III e IV separados",
+   "Intermediorradial e ulnar",
+   "Apenas o cárpico III"
+  ],
+  "e": "Total de 6 ossos no carpo bovino."
+ },
+ {
+  "c": "toracico",
+  "q": "Os “ossos esplintes” do cavalo são:",
+  "o": [
+   "Os metacárpicos II e IV rudimentares",
+   "Os sesamoides proximais do boleto",
+   "A falange média e a cartilagem ungular",
+   "O osso carpo acessório e o ulnar do carpo"
+  ],
+  "e": "Ficam ao lado do metacárpico III, sem dedo."
+ },
+ {
+  "c": "toracico",
+  "q": "O nome popular da falange média do equino é:",
+  "o": [
+   "Coroa",
+   "Quartela",
+   "Casco",
+   "Canela"
+  ],
+  "e": "Quartela = proximal; casco = distal; canela = metacarpo III."
+ },
+ {
+  "c": "toracico",
+  "q": "O sesamoide distal do equino é chamado de:",
+  "o": [
+   "Osso navicular",
+   "Fabela",
+   "Patela",
+   "Osso esplinte"
+  ],
+  "e": "Fica na face palmar, entre a falange média e a distal."
+ },
+ {
+  "c": "toracico",
+  "q": "A tuberosidade flexora é estrutura da:",
+  "o": [
+   "Falange média",
+   "Falange distal",
+   "Escápula",
+   "Ulna"
+  ],
+  "e": "Na face palmar da falange média."
+ },
+ {
+  "c": "toracico",
+  "q": "O antebraço do bovino tem quantos espaços interósseos?",
+  "o": [
+   "Dois (proximal e distal)",
+   "Um, ao longo de todo o antebraço",
+   "Nenhum, pois rádio e ulna se fundem",
+   "Três (proximal, médio e distal)"
+  ],
+  "e": "Rádio e ulna se fundem no meio."
+ },
+ {
+  "c": "toracico",
+  "q": "No metacarpo do bovino, os sulcos longitudinais dorsal e palmar indicam:",
+  "o": [
+   "A fusão dos metacárpicos III e IV",
+   "A passagem do nervo radial",
+   "O limite do carpo",
+   "Um osso rudimentar V"
+  ],
+  "e": "O osso único nasceu de dois."
+ },
+ {
+  "c": "toracico",
+  "q": "A face serrátil da escápula fica na face:",
+  "o": [
+   "Medial (costal)",
+   "Lateral, junto à espinha",
+   "Distal, na cavidade glenoide",
+   "Cranial, na borda do colo"
+  ],
+  "e": "Prende o músculo serrátil ventral."
+ },
+ {
+  "c": "toracico",
+  "q": "O carpo do equino tem:",
+  "o": [
+   "7 a 8 ossos",
+   "5 ossos",
+   "6 ossos",
+   "10 ossos"
+  ],
+  "e": "O cárpico I é inconstante."
+ },
+ {
+  "c": "toracico",
+  "q": "O tubérculo supraglenoidal aponta para qual direção?",
+  "o": [
+   "Cranial",
+   "Caudal",
+   "Dorsal",
+   "Medial"
+  ],
+  "e": "Origem do músculo bíceps braquial; ajuda a dizer o lado da escápula."
+ },
+ {
+  "c": "toracico",
+  "q": "O espessamento localizado no meio da espinha da escápula, muito desenvolvido no equino e no suíno, é o:",
+  "o": [
+   "Túber da espinha",
+   "Acrômio",
+   "Processo hamato",
+   "Tubérculo infraglenoidal"
+  ],
+  "e": "O túber da espinha é o espessamento na porção média da espinha; grande no equino e muito grande no suíno, ausente nos carnívoros."
+ },
+ {
+  "c": "toracico",
+  "q": "A cartilagem escapular, que tende a ossificar com a idade, localiza-se na:",
+  "o": [
+   "Borda dorsal da escápula",
+   "Cavidade glenoide",
+   "Borda cranial, junto ao colo",
+   "Extremidade do acrômio"
+  ],
+  "e": "A cartilagem escapular prolonga a borda dorsal da escápula e é grande no equino e nos ruminantes."
+ },
+ {
+  "c": "toracico",
+  "q": "Na escápula do bovino, a fossa supraespinhal é estreita porque:",
+  "o": [
+   "A espinha está deslocada cranialmente",
+   "O acrômio é ausente",
+   "A cartilagem escapular é rudimentar",
+   "O túber da espinha é muito grande"
+  ],
+  "e": "No bovino a espinha fica deslocada cranialmente, deixando a fossa supraespinhal estreita e a infraespinhal ampla."
+ },
+ {
+  "c": "toracico",
+  "q": "Na escápula do cão, a espinha divide a face lateral:",
+  "o": [
+   "Quase ao meio, em fossas de tamanho semelhante",
+   "Deixando a fossa supraespinhal muito estreita",
+   "Apenas na metade dorsal, sumindo antes do colo",
+   "Deixando a fossa infraespinhal rudimentar"
+  ],
+  "e": "No cão, a espinha divide a face lateral quase igualmente entre as fossas supra e infraespinhal; termina no acrômio com processo hamato."
+ },
+ {
+  "c": "toracico",
+  "q": "O processo coracoide da escápula é uma pequena projeção situada:",
+  "o": [
+   "Medialmente ao tubérculo supraglenoidal",
+   "Na extremidade dorsal da espinha",
+   "Na margem caudal, junto ao ângulo caudal",
+   "Na face serrátil, próximo à borda dorsal"
+  ],
+  "e": "O processo coracoide é pequeno e fica na face medial do tubérculo supraglenoidal."
+ },
+ {
+  "c": "toracico",
+  "q": "O tubérculo supraglenoidal é o local de origem de qual músculo?",
+  "o": [
+   "Bíceps braquial",
+   "Tríceps braquial",
+   "Serrátil ventral",
+   "Deltoide"
+  ],
+  "e": "O tubérculo supraglenoidal, cranial à cavidade glenoide, dá origem ao músculo bíceps braquial."
+ },
+ {
+  "c": "toracico",
+  "q": "Segurando uma escápula pela face lateral, com a cavidade glenoide para baixo, observa-se que o tubérculo supraglenoidal aponta para a sua direita. Trata-se de uma escápula:",
+  "o": [
+   "Direita",
+   "Esquerda",
+   "De lado indeterminável sem o úmero",
+   "Esquerda, se for de equino"
+  ],
+  "e": "O tubérculo supraglenoidal é cranial; se a face cranial aponta para a direita do observador olhando a face lateral, o osso é direito."
+ },
+ {
+  "c": "toracico",
+  "q": "A cabeça do úmero é lisa e voltada para qual direção?",
+  "o": [
+   "Caudal",
+   "Cranial",
+   "Lateral",
+   "Distal"
+  ],
+  "e": "A cabeça do úmero se volta caudalmente para articular-se com a cavidade glenoide da escápula."
+ },
+ {
+  "c": "toracico",
+  "q": "A tuberosidade deltoide do úmero, saliente e palpável no equino, localiza-se na face:",
+  "o": [
+   "Lateral da diáfise",
+   "Medial da diáfise",
+   "Caudal da epífise distal",
+   "Cranial da epífise proximal"
+  ],
+  "e": "A tuberosidade deltoide é uma saliência rugosa na face lateral da diáfise, continuada distalmente pela crista do úmero."
+ },
+ {
+  "c": "toracico",
+  "q": "A tuberosidade redonda maior do úmero fica na face:",
+  "o": [
+   "Medial da diáfise",
+   "Lateral da diáfise",
+   "Cranial do côndilo",
+   "Caudal da cabeça"
+  ],
+  "e": "A tuberosidade redonda maior está na face medial da diáfise, para inserção do músculo redondo maior."
+ },
+ {
+  "c": "toracico",
+  "q": "No côndilo do úmero, a tróclea e o capítulo ocupam, respectivamente, as posições:",
+  "o": [
+   "Medial e lateral",
+   "Lateral e medial",
+   "Cranial e caudal",
+   "Proximal e distal"
+  ],
+  "e": "A tróclea é medial e o capítulo é lateral; juntos formam o côndilo do úmero."
+ },
+ {
+  "c": "toracico",
+  "q": "No gato, o forame supracondilar do úmero, na face medial, dá passagem a:",
+  "o": [
+   "Nervo mediano e artéria braquial",
+   "Nervo radial e artéria colateral ulnar",
+   "Tendão do bíceps braquial",
+   "Nervo ulnar e veia cefálica"
+  ],
+  "e": "O forame supracondilar do gato transmite o nervo mediano e a artéria braquial; não deve ser confundido com o forame supratroclear do cão."
+ },
+ {
+  "c": "toracico",
+  "q": "No bovino, o tubérculo maior do úmero se caracteriza por:",
+  "o": [
+   "Apresentar porções cranial e caudal",
+   "Estar fundido ao tubérculo menor",
+   "Ser mais baixo que a cabeça do úmero",
+   "Ser atravessado por um forame"
+  ],
+  "e": "No bovino o tubérculo maior é alto (ultrapassa a cabeça) e dividido em porções cranial e caudal; essa divisão também ocorre no equino, que além disso tem tubérculo intermédio."
+ },
+ {
+  "c": "toracico",
+  "q": "No úmero, a face para inserção do músculo infraespinhal localiza-se no:",
+  "o": [
+   "Tubérculo maior",
+   "Tubérculo menor",
+   "Epicôndilo medial",
+   "Sulco intertubercular"
+  ],
+  "e": "O músculo infraespinhal se insere na face lateral do tubérculo maior do úmero."
+ },
+ {
+  "c": "toracico",
+  "q": "A tuberosidade do olécrano, “ponta do cotovelo”, é o local de inserção do músculo:",
+  "o": [
+   "Tríceps braquial",
+   "Bíceps braquial",
+   "Braquial",
+   "Extensor radial do carpo"
+  ],
+  "e": "O olécrano da ulna funciona como alavanca para o tríceps braquial, extensor do cotovelo."
+ },
+ {
+  "c": "toracico",
+  "q": "A incisura troclear da ulna tem como função:",
+  "o": [
+   "Abraçar a tróclea do úmero",
+   "Receber a cabeça do rádio",
+   "Encaixar o carpo acessório",
+   "Alojar o tendão do bíceps"
+  ],
+  "e": "A incisura troclear tem forma de meia-lua e envolve a tróclea do úmero na articulação do cotovelo."
+ },
+ {
+  "c": "toracico",
+  "q": "O processo estiloide medial do antebraço pertence a qual osso?",
+  "o": [
+   "Rádio",
+   "Ulna",
+   "Carpo radial",
+   "Úmero"
+  ],
+  "e": "O processo estiloide medial é a ponta distal medial do rádio; o lateral pertence à ulna."
+ },
+ {
+  "c": "toracico",
+  "q": "Um Pastor Alemão jovem apresenta claudicação do membro torácico. A radiografia mostra o processo ancôneo separado da ulna. A explicação anatômica é que esse processo:",
+  "o": [
+   "Tem centro de ossificação próprio que não se fundiu",
+   "É um sesamoide dentro do tendão do tríceps",
+   "Pertence ao úmero e se destacou da fossa do olécrano",
+   "É uma fise do rádio que fecha tardiamente"
+  ],
+  "e": "Na não união do processo ancôneo, o centro de ossificação próprio do processo não se funde à ulna, causando instabilidade e claudicação."
+ },
+ {
+  "c": "toracico",
+  "q": "Por que cães e gatos conseguem realizar pronação e supinação do antebraço, ao contrário do equino?",
+  "o": [
+   "A ulna é completa e livre em relação ao rádio",
+   "O rádio é fundido à ulna em vários pontos",
+   "A ulna termina no meio do rádio",
+   "Existem dois espaços interósseos"
+  ],
+  "e": "Nos carnívoros a ulna é completa e não fundida ao rádio, permitindo rotação; no equino ela é reduzida e fundida."
+ },
+ {
+  "c": "toracico",
+  "q": "No carpo do cão, quantos ossos compõem a fileira proximal?",
+  "o": [
+   "3",
+   "4",
+   "2",
+   "5"
+  ],
+  "e": "No cão o radial e o intermédio fundem-se no intermediorradial, restando 3 ossos proximais: intermediorradial, ulnar e acessório."
+ },
+ {
+  "c": "toracico",
+  "q": "No suíno, quais dedos efetivamente apoiam no solo?",
+  "o": [
+   "III e IV",
+   "II e V",
+   "I e II",
+   "Apenas o III"
+  ],
+  "e": "O suíno tem 4 dedos (II a V); III e IV são os principais e apoiam, enquanto II e V são menores."
+ },
+ {
+  "c": "toracico",
+  "q": "No bovino, os dedos acessórios (II e V), conhecidos como unhas acessórias:",
+  "o": [
+   "Têm ossículos que não se articulam com o esqueleto",
+   "Articulam-se diretamente com o metacarpo III+IV",
+   "São formados apenas por cartilagem hialina, sem osso",
+   "Correspondem aos sesamoides proximais do boleto"
+  ],
+  "e": "As unhas acessórias contêm ossículos que não se articulam com o resto do esqueleto."
+ },
+ {
+  "c": "toracico",
+  "q": "Na extremidade distal do metacarpo III do equino, o relevo que separa as superfícies articulares é a:",
+  "o": [
+   "Crista sagital",
+   "Incisura intertroclear",
+   "Tuberosidade metacárpica",
+   "Crista transversa"
+  ],
+  "e": "O metacarpo III do equino tem uma crista sagital na extremidade distal; a incisura intertroclear é típica do metacarpo fundido do bovino."
+ },
+ {
+  "c": "toracico",
+  "q": "Um cavalo jovem em treinamento apresenta aumento de volume duro na face medial da canela, entre o metacarpo III e o II. A condição e sua causa anatômica são:",
+  "o": [
+   "Sobrecana, por sobrecarga do ligamento interósseo metacárpico",
+   "Esparavão, por artrose das articulações distais do carpo",
+   "Síndrome do navicular, por lesão do sesamoide distal do casco",
+   "Laminite, por inflamação das lâminas dérmicas do casco"
+  ],
+  "e": "As sobrecanas são exostoses entre o metacarpo III e os rudimentares, onde o ligamento interósseo sofre com o treino."
+ },
+ {
+  "c": "toracico",
+  "q": "No equino, a área rugosa na face palmar proximal do metacarpo III serve de origem para o:",
+  "o": [
+   "Músculo interósseo",
+   "Tendão flexor digital profundo",
+   "Músculo extensor digital comum",
+   "Ligamento colateral do boleto"
+  ],
+  "e": "A área rugosa palmar proximal do metacarpo III é o local de origem do músculo interósseo médio (ligamento suspensor do boleto)."
+ },
+ {
+  "c": "toracico",
+  "q": "Os sesamoides proximais localizam-se:",
+  "o": [
+   "Na face palmar da articulação metacarpofalângica",
+   "Na face dorsal da articulação interfalângica distal",
+   "Dentro do tendão extensor digital comum",
+   "Na face palmar da articulação do carpo"
+  ],
+  "e": "Os sesamoides proximais formam um par na face palmar do boleto (articulação metacarpofalângica)."
+ },
+ {
+  "c": "toracico",
+  "q": "Na falange proximal do equino, a área rugosa triangular da face palmar é o:",
+  "o": [
+   "Trígono",
+   "Processo extensor",
+   "Processo palmar",
+   "Sulco parietal"
+  ],
+  "e": "O trígono é a área rugosa na face palmar da falange proximal, local de inserção ligamentar."
+ },
+ {
+  "c": "toracico",
+  "q": "Na laminite grave do equino, a falange distal pode girar e descer porque se inflamam as lâminas que a prendem ao casco pela:",
+  "o": [
+   "Face parietal",
+   "Face solear",
+   "Face articular",
+   "Margem coronária"
+  ],
+  "e": "As lâminas unem a face parietal (dorsal) da falange distal à parede do casco; sua inflamação permite rotação e afundamento da falange."
+ },
+ {
+  "c": "toracico",
+  "q": "Na síndrome do navicular, a dor envolve o sesamoide distal e a bursa situada sob o:",
+  "o": [
+   "Tendão flexor digital profundo",
+   "Tendão extensor digital comum",
+   "Ligamento interósseo",
+   "Tendão flexor digital superficial"
+  ],
+  "e": "O osso navicular desliza sob o tendão flexor digital profundo, separado dele por uma bursa."
+ },
+ {
+  "c": "toracico",
+  "q": "No bovino, na face axial da falange distal (voltada para o outro dedo) encontra-se o:",
+  "o": [
+   "Forame axial",
+   "Forame solear",
+   "Processo palmar",
+   "Trígono"
+  ],
+  "e": "Cada dedo do bovino tem faces axial e abaxial; o forame axial está na face axial da falange distal."
+ },
+ {
+  "c": "toracico",
+  "q": "No cão, o dedo I do membro torácico (ergô):",
+  "o": [
+   "Existe, mas não apoia no solo",
+   "Está ausente em todos os cães",
+   "É o principal dedo de apoio",
+   "É fundido ao metacarpo II"
+  ],
+  "e": "O cão tem 5 dedos na mão; o I é o ergô, que não toca o solo."
+ }
+]

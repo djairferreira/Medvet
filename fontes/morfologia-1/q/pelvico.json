@@ -1,0 +1,585 @@
+[
+ {
+  "c": "pelvico",
+  "q": "O terceiro trocânter é marcante no fêmur do:",
+  "o": [
+   "Equino",
+   "Cão",
+   "Bovino",
+   "Gato"
+  ],
+  "e": "Fica na diáfise, lateral."
+ },
+ {
+  "c": "pelvico",
+  "q": "A tuberosidade isquiática pertence ao:",
+  "o": [
+   "Ísquio",
+   "Ílio",
+   "Púbis",
+   "Sacro"
+  ],
+  "e": "É a “ponta da nádega”."
+ },
+ {
+  "c": "pelvico",
+  "q": "A tuberosidade coxal (ponta do quadril) pertence ao:",
+  "o": [
+   "Ílio",
+   "Ísquio",
+   "Púbis",
+   "Fêmur"
+  ],
+  "e": "Lateral; a sacral é medial."
+ },
+ {
+  "c": "pelvico",
+  "q": "No cão, o maléolo lateral é:",
+  "o": [
+   "Fibular",
+   "Tibial",
+   "Ausente",
+   "Do calcâneo"
+  ],
+  "e": "Equino e bovino: tibial. Cão e suíno: fibular."
+ },
+ {
+  "c": "pelvico",
+  "q": "Calcâneo e tálus formam a __ fileira do tarso.",
+  "o": [
+   "1ª (proximal)",
+   "2ª",
+   "3ª",
+   "fileira acessória"
+  ],
+  "e": "2ª = central; 3ª = 1º a 4º tarsianos."
+ },
+ {
+  "c": "pelvico",
+  "q": "Na fóvea da cabeça do fêmur se prende:",
+  "o": [
+   "O ligamento da cabeça do fêmur",
+   "O ligamento cruzado cranial",
+   "O tendão patelar",
+   "O músculo glúteo"
+  ],
+  "e": "Liga a cabeça ao acetábulo."
+ },
+ {
+  "c": "pelvico",
+  "q": "O acetábulo é formado por:",
+  "o": [
+   "Ílio, ísquio e púbis",
+   "Ílio e sacro",
+   "Ísquio e fêmur",
+   "Púbis e sacro"
+  ],
+  "e": "Ponto de encontro dos três ossos do coxal."
+ },
+ {
+  "c": "pelvico",
+  "q": "A patela desliza sobre:",
+  "o": [
+   "A tróclea do fêmur",
+   "Os côndilos do fêmur",
+   "O platô tibial",
+   "A fossa intercondilar"
+  ],
+  "e": "Côndilos articulam com a tíbia."
+ },
+ {
+  "c": "pelvico",
+  "q": "A borda do púbis pode ser avaliada em grandes animais por:",
+  "o": [
+   "Palpação retal",
+   "Auscultação",
+   "Percussão do flanco",
+   "Inspeção visual"
+  ],
+  "e": "Fica por dentro da cavidade pélvica."
+ },
+ {
+  "c": "pelvico",
+  "q": "Os três ossos do coxal se fundem no:",
+  "o": [
+   "Acetábulo",
+   "Forame obturado",
+   "Arco isquiático",
+   "Promontório"
+  ],
+  "e": "Cada um tem seu centro de ossificação."
+ },
+ {
+  "c": "pelvico",
+  "q": "A tuberosidade isquiática “trituberosa” é típica do:",
+  "o": [
+   "Bovino",
+   "Equino",
+   "Cão",
+   "Gato"
+  ],
+  "e": "Três saliências na ponta da nádega."
+ },
+ {
+  "c": "pelvico",
+  "q": "O diâmetro conjugado da pelve vai do:",
+  "o": [
+   "Promontório sacral à borda cranial da sínfise púbica",
+   "Acetábulo direito ao acetábulo esquerdo, no plano transversal",
+   "Arco isquiático à última vértebra sacral",
+   "Tuberosidade coxal ao trocânter maior do fêmur"
+  ],
+  "e": "Importante na avaliação obstétrica."
+ },
+ {
+  "c": "pelvico",
+  "q": "Fabelas são sesamoides encontrados:",
+  "o": [
+   "Atrás dos côndilos do fêmur de cães e gatos",
+   "No tendão do bíceps braquial do equino e do bovino",
+   "Na cápsula da articulação temporomandibular",
+   "Dentro do ligamento patelar do equino"
+  ],
+  "e": "Ficam dentro do músculo gastrocnêmio."
+ },
+ {
+  "c": "pelvico",
+  "q": "O tarso do equino tem:",
+  "o": [
+   "6 ossos (I e II fundidos)",
+   "5 ossos (I, II e III fundidos)",
+   "7 ossos, todos separados",
+   "8 ossos (com dois centrais)"
+  ],
+  "e": "Tálus, calcâneo, central, I+II, III, IV."
+ },
+ {
+  "c": "pelvico",
+  "q": "O osso centroquartal é a fusão do tarso central com o tarsal IV e existe no:",
+  "o": [
+   "Bovino",
+   "Equino",
+   "Cão",
+   "Suíno"
+  ],
+  "e": "O bovino tem 5 ossos no tarso."
+ },
+ {
+  "c": "pelvico",
+  "q": "O tálus com duas trócleas (proximal e distal) identifica:",
+  "o": [
+   "Ruminantes",
+   "Equino",
+   "Cão",
+   "Gato"
+  ],
+  "e": "Movimento extra no jarrete do boi."
+ },
+ {
+  "c": "pelvico",
+  "q": "O osso maleolar dos ruminantes corresponde à:",
+  "o": [
+   "Extremidade distal da fíbula",
+   "Patela",
+   "Cabeça do fêmur",
+   "Tuberosidade do calcâneo"
+  ],
+  "e": "Faz o papel do maléolo lateral."
+ },
+ {
+  "c": "pelvico",
+  "q": "A fossa trocantérica do fêmur fica na face:",
+  "o": [
+   "Caudal",
+   "Cranial",
+   "Lateral",
+   "Medial"
+  ],
+  "e": "Entre o trocânter maior e o colo."
+ },
+ {
+  "c": "pelvico",
+  "q": "Na patela, a parte proximal é a __ e a distal é o __.",
+  "o": [
+   "base; ápice",
+   "ápice; base",
+   "cabeça; colo",
+   "côndilo; tróclea"
+  ],
+  "e": "Base em cima, ápice embaixo."
+ },
+ {
+  "c": "pelvico",
+  "q": "Na tuberosidade do calcâneo se insere o:",
+  "o": [
+   "Tendão calcâneo comum",
+   "Ligamento patelar",
+   "Ligamento cruzado",
+   "Músculo glúteo"
+  ],
+  "e": "É a “ponta do jarrete”."
+ },
+ {
+  "c": "pelvico",
+  "q": "O pecten é uma estrutura do:",
+  "o": [
+   "Púbis",
+   "Ílio",
+   "Ísquio",
+   "Sacro"
+  ],
+  "e": "Borda cranial do púbis."
+ },
+ {
+  "c": "pelvico",
+  "q": "A face auricular do ílio se articula com:",
+  "o": [
+   "O sacro",
+   "O fêmur",
+   "A última costela",
+   "O púbis do outro lado"
+  ],
+  "e": "Articulação sacroilíaca."
+ },
+ {
+  "c": "pelvico",
+  "q": "O arco isquiático corresponde à:",
+  "o": [
+   "Chanfradura caudal entre os dois ísquios",
+   "Borda cranial da asa do ílio",
+   "Abertura no assoalho da pelve fechada por membrana",
+   "Borda dorsal do acetábulo"
+  ],
+  "e": "O arco isquiático é a chanfradura na borda caudal formada pelos dois ísquios; é mais aberto na fêmea."
+ },
+ {
+  "c": "pelvico",
+  "q": "O forame obturado é delimitado por quais ossos?",
+  "o": [
+   "Púbis e ísquio",
+   "Ílio e púbis",
+   "Ílio e ísquio",
+   "Sacro e ísquio"
+  ],
+  "e": "O forame obturado é a grande abertura no assoalho da pelve, circundada pelo púbis e pelo ísquio e fechada por membrana e músculos."
+ },
+ {
+  "c": "pelvico",
+  "q": "No acetábulo, a porção que efetivamente se articula com a cabeça do fêmur é a:",
+  "o": [
+   "Face semilunar",
+   "Fossa acetabular",
+   "Incisura acetabular",
+   "Eminência iliopúbica"
+  ],
+  "e": "A face semilunar é a parte articular, em forma de crescente; a fossa acetabular, no fundo, não é articular."
+ },
+ {
+  "c": "pelvico",
+  "q": "Das duas tuberosidades do ílio, qual se localiza medialmente, junto ao sacro?",
+  "o": [
+   "Tuberosidade sacral",
+   "Tuberosidade coxal",
+   "Tuberosidade isquiática",
+   "Eminência iliopúbica"
+  ],
+  "e": "A tuberosidade coxal é lateral (ponta do quadril) e a tuberosidade sacral é medial, próxima ao sacro."
+ },
+ {
+  "c": "pelvico",
+  "q": "A borda cranial da asa do ílio recebe o nome de:",
+  "o": [
+   "Crista ilíaca",
+   "Linha glútea",
+   "Pecten",
+   "Linha terminal"
+  ],
+  "e": "A crista ilíaca é a borda cranial do ílio, entre as tuberosidades coxal e sacral."
+ },
+ {
+  "c": "pelvico",
+  "q": "Na face lateral do coxal, a estrutura situada entre as incisuras isquiáticas maior e menor é a:",
+  "o": [
+   "Espinha isquiática",
+   "Tuberosidade isquiática",
+   "Linha glútea",
+   "Eminência iliopúbica"
+  ],
+  "e": "A espinha isquiática separa a incisura isquiática maior (cranial) da incisura isquiática menor (caudal)."
+ },
+ {
+  "c": "pelvico",
+  "q": "Em novilhas de primeira cria, a pelvimetria por palpação retal tem como objetivo principal:",
+  "o": [
+   "Prever o risco de distocia pelos diâmetros pélvicos",
+   "Avaliar o escore de condição corporal pela garupa",
+   "Diagnosticar fratura da tuberosidade coxal ou do ísquio",
+   "Localizar o espaço sacrococcígeo para anestesia epidural"
+  ],
+  "e": "Os diâmetros da pelve determinam se o feto passa pelo canal do parto; medi-los ajuda a prever distocia."
+ },
+ {
+  "c": "pelvico",
+  "q": "Em comparação com o macho, a pelve da fêmea apresenta:",
+  "o": [
+   "Maior largura e arco isquiático mais aberto",
+   "Arco isquiático mais fechado e sínfise mais longa",
+   "Forames obturados menores",
+   "Tuberosidades coxais mais próximas entre si"
+  ],
+  "e": "Adaptada ao parto, a pelve da fêmea é mais larga e tem arco isquiático mais aberto."
+ },
+ {
+  "c": "pelvico",
+  "q": "Em vacas magras, a “ponta do quadril”, saliência óssea lateral avaliada no escore de condição corporal, é a:",
+  "o": [
+   "Tuberosidade coxal",
+   "Tuberosidade isquiática",
+   "Espinha isquiática",
+   "Eminência iliopúbica"
+  ],
+  "e": "A tuberosidade coxal do bovino, lateral na asa do ílio, é larga e quadrada e fica saliente (ponta do quadril) em animais magros; a tuberosidade isquiática é a “ponta da nádega”."
+ },
+ {
+  "c": "pelvico",
+  "q": "Para identificar o lado de um fêmur isolado, uma regra prática é que:",
+  "o": [
+   "A cabeça do fêmur aponta para medial",
+   "O trocânter maior é sempre medial",
+   "A tróclea fica na face caudal",
+   "Os côndilos ficam na face cranial"
+  ],
+  "e": "A cabeça aponta medialmente, para o acetábulo; o que está do lado da cabeça é medial."
+ },
+ {
+  "c": "pelvico",
+  "q": "A fossa intercondilar do fêmur aloja:",
+  "o": [
+   "Os ligamentos cruzados do joelho",
+   "O tendão do quadríceps femoral",
+   "O ligamento da cabeça do fêmur",
+   "As fabelas"
+  ],
+  "e": "A fossa intercondilar, entre os côndilos na face caudal distal, é ocupada pelos ligamentos cruzados."
+ },
+ {
+  "c": "pelvico",
+  "q": "Qual das estruturas abaixo é o ponto mais proximal e lateral da epífise proximal do fêmur?",
+  "o": [
+   "Trocânter maior",
+   "Trocânter menor",
+   "Cabeça do fêmur",
+   "Fossa trocantérica"
+  ],
+  "e": "O trocânter maior é lateral e o mais alto; o trocânter menor é medial e caudal, e a cabeça é medial."
+ },
+ {
+  "c": "pelvico",
+  "q": "A fossa supracondilar, profunda no equino, localiza-se:",
+  "o": [
+   "Na face caudal, acima do côndilo lateral",
+   "Na face cranial, acima da tróclea",
+   "Na face medial, junto ao trocânter menor",
+   "Entre os lábios da tróclea"
+  ],
+  "e": "A fossa supracondilar fica na face caudal da diáfise distal, proximal ao côndilo lateral, e é profunda no equino."
+ },
+ {
+  "c": "pelvico",
+  "q": "Quais estruturas do fêmur se articulam com a tíbia?",
+  "o": [
+   "Os côndilos medial e lateral",
+   "Os lábios da tróclea",
+   "Os epicôndilos",
+   "O trocânter maior e o terceiro trocânter"
+  ],
+  "e": "Os côndilos, na face caudal da epífise distal, articulam com os côndilos da tíbia; a tróclea articula com a patela."
+ },
+ {
+  "c": "pelvico",
+  "q": "O mecanismo que permite ao equino dormir em pé envolve a patela “travando” no:",
+  "o": [
+   "Lábio medial da tróclea, muito maior que o lateral",
+   "Lábio lateral da tróclea, muito maior que o medial",
+   "Côndilo medial do fêmur",
+   "Terceiro trocânter"
+  ],
+  "e": "No equino, o lábio medial da tróclea é muito desenvolvido, permitindo que a patela e o ligamento patelar medial se prendam nele."
+ },
+ {
+  "c": "pelvico",
+  "q": "A luxação medial de patela em cães de raças pequenas está relacionada principalmente a:",
+  "o": [
+   "Tróclea femoral rasa",
+   "Ausência de fabelas",
+   "Terceiro trocânter desenvolvido",
+   "Fíbula incompleta"
+  ],
+  "e": "Com uma tróclea rasa, a patela escapa facilmente do sulco, geralmente para medial."
+ },
+ {
+  "c": "pelvico",
+  "q": "A patela é classificada como:",
+  "o": [
+   "O maior sesamoide, no tendão do quadríceps femoral",
+   "Um osso curto da fileira proximal do tarso, como o tálus",
+   "Uma epífise destacada da extremidade proximal da tíbia",
+   "Um osso plano que integra o cíngulo pélvico"
+  ],
+  "e": "A patela é o maior osso sesamoide, situada no tendão do quadríceps, funcionando como roldana na extensão do joelho."
+ },
+ {
+  "c": "pelvico",
+  "q": "Qual é a principal função mecânica da patela?",
+  "o": [
+   "Aumentar o torque do quadríceps na extensão do joelho",
+   "Fixar os ligamentos cruzados à eminência intercondilar",
+   "Limitar a flexão do quadril durante o apoio",
+   "Transmitir o peso do fêmur diretamente à fíbula"
+  ],
+  "e": "A patela atua como roldana, aumentando o braço de alavanca do quadríceps femoral na extensão do joelho."
+ },
+ {
+  "c": "pelvico",
+  "q": "Na tuberosidade da tíbia insere-se:",
+  "o": [
+   "O ligamento patelar",
+   "O tendão calcâneo comum",
+   "O ligamento cruzado cranial",
+   "O tendão extensor digital longo"
+  ],
+  "e": "A tuberosidade da tíbia, na face cranial proximal, recebe o ligamento patelar e continua distalmente como crista da tíbia."
+ },
+ {
+  "c": "pelvico",
+  "q": "A cóclea da tíbia articula-se com:",
+  "o": [
+   "A tróclea do tálus",
+   "A tuberosidade do calcâneo",
+   "Os côndilos do fêmur",
+   "O osso central do tarso"
+  ],
+  "e": "A cóclea, face articular distal da tíbia em sulcos, encaixa-se na tróclea do tálus."
+ },
+ {
+  "c": "pelvico",
+  "q": "No equino, o maléolo lateral do tarso:",
+  "o": [
+   "Pertence à tíbia, à qual a fíbula distal se fundiu",
+   "É um osso maleolar separado, como nos ruminantes",
+   "É formado pela extremidade distal de uma fíbula completa",
+   "Está ausente, pois a fíbula termina no terço proximal"
+  ],
+  "e": "No equino a fíbula é incompleta e sua extremidade distal se funde à tíbia, formando o maléolo lateral."
+ },
+ {
+  "c": "pelvico",
+  "q": "Na tíbia, o sulco extensor, por onde passa um tendão extensor, localiza-se:",
+  "o": [
+   "Na borda craniolateral proximal",
+   "Na face caudal distal",
+   "No maléolo medial",
+   "Na eminência intercondilar"
+  ],
+  "e": "O sulco extensor fica na borda craniolateral da extremidade proximal da tíbia."
+ },
+ {
+  "c": "pelvico",
+  "q": "O esparavão do cavalo é definido como:",
+  "o": [
+   "Artrose das articulações distais do tarso",
+   "Fratura da tuberosidade do calcâneo",
+   "Luxação da patela",
+   "Exostose entre os metatarsos III e II"
+  ],
+  "e": "O esparavão é a artrose das articulações distais do tarso, entre o central, o tarsal III e o metatarso."
+ },
+ {
+  "c": "pelvico",
+  "q": "Um cão apresenta o jarrete apoiado no chão após trauma na face caudal da perna. A estrutura provavelmente lesada é:",
+  "o": [
+   "O tendão calcâneo comum",
+   "O ligamento patelar",
+   "O ligamento cruzado cranial",
+   "O tendão do quadríceps"
+  ],
+  "e": "O tendão calcâneo comum se insere na tuberosidade do calcâneo; sua ruptura faz o animal apoiar o jarrete no solo."
+ },
+ {
+  "c": "pelvico",
+  "q": "Quantos ossos tem o tarso do bovino?",
+  "o": [
+   "5",
+   "6",
+   "7",
+   "4"
+  ],
+  "e": "O bovino tem tálus, calcâneo, centroquartal, tarsal II+III fundidos e tarsal I: 5 ossos."
+ },
+ {
+  "c": "pelvico",
+  "q": "No tarso do equino, qual fusão ocorre na fileira distal?",
+  "o": [
+   "Tarsal I com tarsal II",
+   "Tarsal II com tarsal III",
+   "Central com tarsal IV",
+   "Tálus com calcâneo"
+  ],
+  "e": "No equino, os tarsais I e II são fundidos; II+III e centroquartal são fusões do bovino."
+ },
+ {
+  "c": "pelvico",
+  "q": "No comparativo entre membros, o osso do membro pélvico equivalente ao carpo acessório, por se projetar caudalmente, é o:",
+  "o": [
+   "Calcâneo",
+   "Tálus",
+   "Osso central do tarso",
+   "Tarsal IV"
+  ],
+  "e": "Tanto o carpo acessório quanto o calcâneo se projetam caudalmente e servem de alavanca para tendões."
+ },
+ {
+  "c": "pelvico",
+  "q": "Qual estrutura do membro pélvico corresponde funcionalmente ao olécrano como ponto de alavanca do extensor?",
+  "o": [
+   "Patela",
+   "Tuberosidade do calcâneo",
+   "Trocânter maior",
+   "Tuberosidade isquiática"
+  ],
+  "e": "O olécrano é a alavanca do extensor do cotovelo; no joelho, esse papel é da patela, no tendão do quadríceps."
+ },
+ {
+  "c": "pelvico",
+  "q": "No metatarso do bovino, o sulco longitudinal da face caudal é chamado de:",
+  "o": [
+   "Sulco plantar",
+   "Sulco palmar",
+   "Sulco solear",
+   "Sulco poplíteo"
+  ],
+  "e": "No membro pélvico a face caudal do pé é plantar; no metacarpo, a correspondente é palmar."
+ },
+ {
+  "c": "pelvico",
+  "q": "Na face caudal proximal da tíbia, a reentrância entre os côndilos é a:",
+  "o": [
+   "Incisura poplítea",
+   "Cóclea da tíbia",
+   "Fossa intercondilar",
+   "Incisura troclear"
+  ],
+  "e": "A incisura poplítea fica na face caudal proximal da tíbia; a fossa intercondilar pertence ao fêmur."
+ },
+ {
+  "c": "pelvico",
+  "q": "No fêmur do bovino, a fossa extensora localiza-se:",
+  "o": [
+   "Na epífise distal, junto ao côndilo lateral",
+   "Na epífise proximal, entre os trocânteres",
+   "Na diáfise, abaixo do trocânter menor",
+   "Na cabeça do fêmur"
+  ],
+  "e": "A fossa do extensor, na região distal lateral do fêmur, é a origem do músculo extensor digital longo e do fibular terceiro."
+ }
+]

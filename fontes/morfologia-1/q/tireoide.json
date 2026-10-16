@@ -1,0 +1,442 @@
+[
+ {
+  "c": "tireoide",
+  "q": "A calcitonina é produzida por:",
+  "o": [
+   "Células parafoliculares da tireoide",
+   "Células principais da paratireoide",
+   "Células foliculares da tireoide",
+   "Osteoclastos"
+  ],
+  "e": "Diminui o cálcio no sangue, inibindo o osteoclasto."
+ },
+ {
+  "c": "tireoide",
+  "q": "O paratormônio (PTH):",
+  "o": [
+   "Aumenta o cálcio no sangue estimulando a reabsorção óssea",
+   "Diminui o cálcio no sangue estimulando a deposição de osso novo",
+   "É produzido pelas células parafoliculares da tireoide",
+   "É armazenado no coloide dos folículos tireoidianos"
+  ],
+  "e": "Produzido pelas células principais da paratireoide quando o cálcio está baixo."
+ },
+ {
+  "c": "tireoide",
+  "q": "O coloide do folículo tireoidiano:",
+  "o": [
+   "É acidófilo (rosa) e armazena T3/T4",
+   "É basófilo (azul) e produz PTH",
+   "Fica fora do folículo, no interstício",
+   "É produzido pelas células C (parafoliculares) da tireoide"
+  ],
+  "e": "Produzido pelas células foliculares."
+ },
+ {
+  "c": "tireoide",
+  "q": "A paratireoide é chamada de glândula:",
+  "o": [
+   "Cordonal",
+   "Folicular",
+   "Acinosa",
+   "Tubular"
+  ],
+  "e": "Células em cordões, “colar de pérolas”; basófila."
+ },
+ {
+  "c": "tireoide",
+  "q": "Quando o cálcio do sangue cai, qual célula óssea aumenta sua atividade?",
+  "o": [
+   "Osteoclasto",
+   "Osteoblasto",
+   "Célula parafolicular",
+   "Condrócito"
+  ],
+  "e": "O PTH estimula a reabsorção para liberar cálcio da matriz."
+ },
+ {
+  "c": "tireoide",
+  "q": "Os hormônios T3 e T4 são produzidos pelas:",
+  "o": [
+   "Células foliculares da tireoide",
+   "Células parafoliculares",
+   "Células principais da paratireoide",
+   "Células do coloide"
+  ],
+  "e": "Ficam armazenados no coloide."
+ },
+ {
+  "c": "tireoide",
+  "q": "A calcitonina reduz o cálcio sanguíneo principalmente:",
+  "o": [
+   "Inibindo os osteoclastos",
+   "Estimulando os osteoclastos",
+   "Aumentando o PTH",
+   "Dissolvendo o coloide"
+  ],
+  "e": "Com menos reabsorção, o cálcio fica guardado no osso."
+ },
+ {
+  "c": "tireoide",
+  "q": "A tireoide é chamada de glândula folicular porque:",
+  "o": [
+   "Suas unidades são esferas ocas que armazenam a secreção",
+   "Suas células se dispõem em cordões contínuos entre capilares",
+   "Seus ductos excretores terminam em ácinos ramificados",
+   "Cada célula se isola dentro de uma lacuna na matriz"
+  ],
+  "e": "A unidade funcional é o folículo tireoidiano, esfera oca revestida por epitélio e preenchida por coloide, onde fica armazenado o produto de secreção."
+ },
+ {
+  "c": "tireoide",
+  "q": "O epitélio que forma a parede do folículo tireoidiano, em estado de atividade habitual, é:",
+  "o": [
+   "Simples cúbico",
+   "Estratificado pavimentoso",
+   "Pseudoestratificado ciliado",
+   "Transicional"
+  ],
+  "e": "As células foliculares formam um epitélio simples, geralmente cúbico, cuja altura varia com a atividade da glândula."
+ },
+ {
+  "c": "tireoide",
+  "q": "Os hormônios T3 e T4 são formados a partir de qual proteína armazenada no coloide?",
+  "o": [
+   "Tireoglobulina",
+   "Calcitonina",
+   "Paratormônio",
+   "Albumina"
+  ],
+  "e": "As células foliculares sintetizam a tireoglobulina, que é iodada no coloide e dá origem a T3 e T4."
+ },
+ {
+  "c": "tireoide",
+  "q": "Qual elemento é incorporado aos resíduos de tirosina da tireoglobulina e é indispensável à síntese de T3 e T4?",
+  "o": [
+   "Iodo",
+   "Ferro",
+   "Cálcio",
+   "Zinco"
+  ],
+  "e": "T3 (tri-iodotironina) e T4 (tiroxina) contêm iodo, captado do sangue pelas células foliculares."
+ },
+ {
+  "c": "tireoide",
+  "q": "Leitões e bezerros nascidos de mães com dieta deficiente em iodo podem apresentar aumento de volume da tireoide, conhecido como:",
+  "o": [
+   "Bócio",
+   "Otohematoma",
+   "Linfadenite",
+   "Sialocele"
+  ],
+  "e": "Na deficiência de iodo, a baixa produção hormonal eleva o TSH, que estimula a hiperplasia da tireoide (bócio)."
+ },
+ {
+  "c": "tireoide",
+  "q": "Em HE, o coloide do folículo tireoidiano aparece:",
+  "o": [
+   "Rosa, por ser acidófilo",
+   "Roxo intenso, por ser basófilo",
+   "Totalmente incolor, como gordura dissolvida",
+   "Preto, por conter iodo"
+  ],
+  "e": "O coloide é acidófilo e cora em rosa pela eosina, contrastando com a paratireoide, basófila."
+ },
+ {
+  "c": "tireoide",
+  "q": "Qual das características abaixo é própria da tireoide e a distingue das demais glândulas endócrinas?",
+  "o": [
+   "Armazena muita secreção fora das células, no coloide",
+   "Não possui capilares sanguíneos entre os folículos",
+   "Libera seus hormônios por ductos excretores próprios",
+   "É formada por células dispostas em cordões e ninhos"
+  ],
+  "e": "A tireoide é a única glândula endócrina que estoca seu produto extracelularmente em grande quantidade (no coloide folicular)."
+ },
+ {
+  "c": "tireoide",
+  "q": "Na lâmina de uma tireoide hipoativa (em repouso), espera-se encontrar:",
+  "o": [
+   "Folículos grandes, coloide abundante e epitélio achatado",
+   "Folículos pequenos, pouco coloide e epitélio cilíndrico alto",
+   "Ausência de folículos e células em cordões",
+   "Epitélio estratificado com muitas mitoses"
+  ],
+  "e": "Na glândula em repouso o coloide acumula e o epitélio fica baixo; na glândula ativa o epitélio é alto e o coloide diminui."
+ },
+ {
+  "c": "tireoide",
+  "q": "Uma tireoide estimulada intensamente pelo TSH mostra, ao microscópio:",
+  "o": [
+   "Epitélio alto e coloide reduzido, com vacúolos de reabsorção",
+   "Epitélio pavimentoso e coloide abundante, denso e homogêneo",
+   "Substituição dos folículos por tecido adiposo e fibroso",
+   "Aumento das células principais dispostas em cordões"
+  ],
+  "e": "Sob estímulo do TSH, as células foliculares ficam altas (cilíndricas) e reabsorvem coloide ativamente, reduzindo seu volume e formando vacúolos de reabsorção."
+ },
+ {
+  "c": "tireoide",
+  "q": "O hormônio que estimula as células foliculares a sintetizar e liberar T3 e T4 é o:",
+  "o": [
+   "TSH, da adeno-hipófise",
+   "PTH, da paratireoide",
+   "ACTH, da neuro-hipófise",
+   "Calcitonina, das células C"
+  ],
+  "e": "O hormônio tireoestimulante (TSH) da adeno-hipófise regula a síntese e a liberação dos hormônios tireoidianos."
+ },
+ {
+  "c": "tireoide",
+  "q": "Para liberar T3 e T4 no sangue, a célula folicular:",
+  "o": [
+   "Endocita coloide, que é digerido por lisossomos, e libera os hormônios pela face basal",
+   "Secreta os hormônios diretamente no lúmen do folículo, de onde saem por ductos",
+   "Libera a tireoglobulina intacta nos capilares",
+   "Transfere os hormônios para as células parafoliculares"
+  ],
+  "e": "O coloide é reabsorvido por endocitose; enzimas lisossômicas clivam a tireoglobulina e T3/T4 saem pela base da célula rumo aos capilares."
+ },
+ {
+  "c": "tireoide",
+  "q": "Em relação a T3 e T4, é correto afirmar que:",
+  "o": [
+   "T4 é secretado em maior quantidade, mas T3 é a forma mais ativa",
+   "T3 é secretado em maior quantidade e T4 é a forma mais ativa",
+   "Ambos são produzidos pelas células parafoliculares",
+   "Ambos regulam diretamente o cálcio sanguíneo"
+  ],
+  "e": "A tiroxina (T4) predomina na secreção e é convertida nos tecidos em T3, mais potente."
+ },
+ {
+  "c": "tireoide",
+  "q": "As células parafoliculares (células C) são reconhecidas na lâmina como:",
+  "o": [
+   "Células claras e maiores, isoladas ou em grupos entre os folículos",
+   "Células cúbicas que formam a parede do folículo e tocam o coloide",
+   "Células pequenas e basófilas dispostas em cordões anastomosados",
+   "Células gigantes multinucleadas situadas no interior do coloide"
+  ],
+  "e": "As células C têm citoplasma claro, são maiores que as foliculares e ficam entre os folículos ou na base do epitélio, sem contato com o coloide."
+ },
+ {
+  "c": "tireoide",
+  "q": "Embriologicamente, as células parafoliculares derivam:",
+  "o": [
+   "Do corpo ultimobranquial, com origem na crista neural",
+   "Do endoderma do assoalho da faringe, como as células foliculares",
+   "Do mesoderma paraxial que forma o esqueleto axial do pescoço",
+   "Do ectoderma do teto da cavidade oral, como a adeno-hipófise"
+  ],
+  "e": "As células C chegam à tireoide a partir do corpo ultimobranquial (bolsas faríngeas caudais), com contribuição de células da crista neural."
+ },
+ {
+  "c": "tireoide",
+  "q": "O primórdio da tireoide (parte folicular) se forma a partir de:",
+  "o": [
+   "Um divertículo endodérmico do assoalho da faringe",
+   "Das terceiras bolsas faríngeas, junto ao primórdio do timo",
+   "Do ectoderma do teto da boca, como a adeno-hipófise",
+   "Do mesoderma que envolve a notocorda"
+  ],
+  "e": "A tireoide surge como divertículo endodérmico do assoalho faríngeo, na base da língua (forame cego), e desce pelo ducto tireoglosso até o pescoço."
+ },
+ {
+  "c": "tireoide",
+  "q": "As glândulas paratireoides desenvolvem-se a partir das:",
+  "o": [
+   "Terceira e quarta bolsas faríngeas",
+   "Primeira e segunda bolsas faríngeas",
+   "Fendas branquiais ectodérmicas",
+   "Somitos cervicais"
+  ],
+  "e": "A paratireoide externa (III) vem da 3ª bolsa, junto ao timo; a interna (IV) vem da 4ª bolsa."
+ },
+ {
+  "c": "tireoide",
+  "q": "Na maioria dos mamíferos domésticos (cão, equino, ruminantes), a tireoide situa-se:",
+  "o": [
+   "Junto aos primeiros anéis traqueais, caudal à laringe",
+   "Na entrada do tórax, dorsal ao esôfago",
+   "No mediastino cranial, junto ao timo",
+   "Ventral à mandíbula, junto às glândulas salivares"
+  ],
+  "e": "Os dois lobos laterais ficam aplicados à porção cranial da traqueia, logo caudal à laringe, unidos por um istmo variável; o suíno é a exceção, com a glândula mais caudal, perto da entrada do tórax."
+ },
+ {
+  "c": "tireoide",
+  "q": "Em qual espécie doméstica a tireoide forma uma massa praticamente única, com istmo volumoso, ventral à traqueia, próxima à entrada do tórax?",
+  "o": [
+   "Suíno",
+   "Cão",
+   "Equino",
+   "Gato"
+  ],
+  "e": "No suíno o istmo é grande e a glândula se apresenta como massa ventral; em carnívoros e equinos os lobos são separados e o istmo é estreito ou ausente."
+ },
+ {
+  "c": "tireoide",
+  "q": "No cão e no gato, a paratireoide interna localiza-se:",
+  "o": [
+   "Inserida no parênquima da tireoide",
+   "No mediastino cranial, junto ao coração",
+   "Na bifurcação da aorta abdominal",
+   "No interior do timo, longe da tireoide"
+  ],
+  "e": "Nos carnívoros, a paratireoide externa fica na superfície cranial do lobo tireoidiano e a interna dentro do parênquima da tireoide."
+ },
+ {
+  "c": "tireoide",
+  "q": "Gato submetido a tireoidectomia bilateral passa a apresentar tremores e fasciculações musculares dias depois. A complicação mais provável é:",
+  "o": [
+   "Hipocalcemia por remoção ou lesão das paratireoides",
+   "Hipercalcemia por excesso de calcitonina",
+   "Hipertireoidismo por regeneração da glândula",
+   "Anemia por perda de medula óssea"
+  ],
+  "e": "As paratireoides ficam junto ou dentro da tireoide; sua remoção acidental reduz o PTH e causa hipocalcemia, com tetania."
+ },
+ {
+  "c": "tireoide",
+  "q": "Gato idoso com perda de peso apesar de apetite aumentado, taquicardia e nódulo palpável na região cervical ventral. A endocrinopatia mais provável é:",
+  "o": [
+   "Hipertireoidismo",
+   "Hipotireoidismo",
+   "Hipoparatireoidismo",
+   "Diabetes insípido"
+  ],
+  "e": "O hipertireoidismo é a endocrinopatia mais comum de gatos idosos, geralmente por hiperplasia adenomatosa ou adenoma da tireoide."
+ },
+ {
+  "c": "tireoide",
+  "q": "Em cães, a disfunção tireoidiana mais frequente, que cursa com letargia, ganho de peso e alopecia simétrica, é o:",
+  "o": [
+   "Hipotireoidismo",
+   "Hipertireoidismo",
+   "Hiperparatireoidismo primário",
+   "Carcinoma de células C"
+  ],
+  "e": "Em cães predomina o hipotireoidismo, em geral por tireoidite linfocítica ou atrofia idiopática."
+ },
+ {
+  "c": "tireoide",
+  "q": "Na lâmina, a paratireoide distingue-se da tireoide por:",
+  "o": [
+   "Ser basófila, compacta e sem folículos, com células em cordões",
+   "Ser acidófila e repleta de coloide",
+   "Possuir folículos maiores que os da tireoide",
+   "Conter ductos excretores revestidos por epitélio cúbico"
+  ],
+  "e": "A paratireoide é uma massa roxa compacta de células em cordões; a tireoide tem folículos com coloide rosa."
+ },
+ {
+  "c": "tireoide",
+  "q": "A expressão “colar de pérolas” descreve, na paratireoide:",
+  "o": [
+   "Células principais enfileiradas em cordões",
+   "Folículos alinhados com coloide",
+   "Grupos isógenos de condrócitos",
+   "Lamelas concêntricas ao redor de um canal"
+  ],
+  "e": "Na glândula cordonal, as células se dispõem uma após a outra em cordões, lembrando um colar de pérolas."
+ },
+ {
+  "c": "tireoide",
+  "q": "Na paratireoide de equinos e ruminantes, além das células principais, podem ser encontradas células maiores e acidófilas, ricas em mitocôndrias, chamadas:",
+  "o": [
+   "Células oxífilas",
+   "Células parafoliculares",
+   "Células foliculares",
+   "Células de Leydig"
+  ],
+  "e": "As células oxífilas são acidófilas pela abundância de mitocôndrias; a função delas não está bem estabelecida."
+ },
+ {
+  "c": "tireoide",
+  "q": "Além de agir no osso, o PTH eleva a calcemia porque, no rim:",
+  "o": [
+   "Aumenta a reabsorção de cálcio e estimula a ativação da vitamina D",
+   "Aumenta a excreção de cálcio na urina e inibe a vitamina D",
+   "Reduz a excreção de fosfato e inibe a ativação da vitamina D",
+   "Converte a calcitonina em sua forma ativa no túbulo renal"
+  ],
+  "e": "O PTH aumenta a reabsorção tubular de cálcio, a excreção de fosfato e a formação de calcitriol, que eleva a absorção intestinal de cálcio."
+ },
+ {
+  "c": "tireoide",
+  "q": "Como o PTH estimula a reabsorção óssea, segundo a histofisiologia clássica?",
+  "o": [
+   "Age nos osteoblastos, que então ativam os osteoclastos",
+   "Liga-se diretamente ao colágeno da matriz e o dissolve",
+   "Transforma osteócitos em osteoclastos dentro das lacunas",
+   "Inibe as células parafoliculares, que deixam de produzir T4"
+  ],
+  "e": "Os receptores de PTH estão nos osteoblastos; estes liberam fatores que promovem a diferenciação e a ativação dos osteoclastos."
+ },
+ {
+  "c": "tireoide",
+  "q": "Quando o cálcio sanguíneo se eleva, o comportamento esperado das células ósseas é:",
+  "o": [
+   "Osteoclastos menos ativos e osteoblastos mais ativos",
+   "Osteoclastos mais ativos e osteoblastos menos ativos",
+   "Ambos mais ativos na mesma proporção",
+   "Nenhuma alteração, pois o osso não participa"
+  ],
+  "e": "A hipercalcemia estimula a calcitonina, que inibe o osteoclasto e favorece o osteoblasto, guardando cálcio na matriz."
+ },
+ {
+  "c": "tireoide",
+  "q": "Qual associação entre célula e produto está correta?",
+  "o": [
+   "Célula parafolicular – calcitonina",
+   "Célula principal da paratireoide – calcitonina",
+   "Célula folicular – paratormônio",
+   "Célula parafolicular – T3 e T4"
+  ],
+  "e": "Parafolicular (tireoide) produz calcitonina; principal (paratireoide) produz PTH; folicular produz T3 e T4."
+ },
+ {
+  "c": "tireoide",
+  "q": "Equino alimentado por longo período com dieta rica em farelo de trigo (muito fósforo e pouco cálcio) desenvolve aumento de volume dos ossos da face. O mecanismo envolvido é:",
+  "o": [
+   "Hiperparatireoidismo secundário nutricional e osteodistrofia fibrosa",
+   "Excesso de calcitonina com deposição exagerada de cálcio nos ossos",
+   "Hipotireoidismo com acúmulo de coloide nos ossos da face",
+   "Hipoparatireoidismo primário com formação de osso primário"
+  ],
+  "e": "O desequilíbrio Ca:P eleva cronicamente o PTH (hiperparatireoidismo secundário nutricional); os osteoclastos reabsorvem osso, substituído por tecido fibroso (osteodistrofia fibrosa, “cara inchada”)."
+ },
+ {
+  "c": "tireoide",
+  "q": "Gatos alimentados exclusivamente com carne (rica em fósforo e pobre em cálcio) podem desenvolver ossos frágeis e fraturas patológicas porque:",
+  "o": [
+   "A baixa calcemia relativa estimula a secreção de PTH e a reabsorção óssea",
+   "O excesso de fósforo estimula a calcitonina e bloqueia a formação de osso",
+   "A carne inibe diretamente as células foliculares da tireoide",
+   "A falta de iodo impede a mineralização da matriz"
+  ],
+  "e": "No hiperparatireoidismo secundário nutricional, o PTH elevado retira cálcio do osso para manter a calcemia, enfraquecendo o esqueleto."
+ },
+ {
+  "c": "tireoide",
+  "q": "A calcitonina age sobre o osso principalmente porque:",
+  "o": [
+   "Os osteoclastos têm receptores para ela, que os inibe",
+   "Os osteócitos convertem a calcitonina em hidroxiapatita",
+   "Ela estimula a fusão de monócitos em novos osteoclastos",
+   "Ela aumenta a produção de PTH pelas células principais"
+  ],
+  "e": "Os osteoclastos possuem receptores de calcitonina; ela reduz sua atividade reabsortiva e, com isso, baixa a calcemia."
+ },
+ {
+  "c": "tireoide",
+  "q": "Uma lâmina mostra, de um lado, estruturas ovais com conteúdo rosa delimitadas por células cúbicas e, do outro, uma massa roxa compacta. As estruturas são, respectivamente:",
+  "o": [
+   "Folículos tireoidianos e paratireoide",
+   "Paratireoide e folículos tireoidianos",
+   "Ácinos salivares e linfonodo",
+   "Folículos ovarianos e medula óssea"
+  ],
+  "e": "Folículos com coloide acidófilo são da tireoide; a massa basófila sem folículos ao lado é a paratireoide."
+ }
+]

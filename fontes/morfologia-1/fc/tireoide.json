@@ -1,0 +1,32 @@
+[
+ [
+  "tireoide",
+  "Calcitonina",
+  "Células parafoliculares da tireoide. Baixa o Ca sanguíneo; inibe osteoclasto."
+ ],
+ [
+  "tireoide",
+  "Paratormônio (PTH)",
+  "Células principais da paratireoide. Sobe o Ca sanguíneo; estimula reabsorção."
+ ],
+ [
+  "tireoide",
+  "Coloide",
+  "Gel rosa (acidófilo) dentro do folículo; armazena T3/T4."
+ ],
+ [
+  "tireoide",
+  "Tireoide × paratireoide na lâmina",
+  "Tireoide: folículos, rosa. Paratireoide: cordões, roxa (basófila)."
+ ],
+ [
+  "tireoide",
+  "Cálcio baixo no sangue",
+  "Paratireoide libera PTH → osteoclastos reabsorvem → Ca sai do osso para o sangue."
+ ],
+ [
+  "tireoide",
+  "Cálcio alto no sangue",
+  "Células C da tireoide liberam calcitonina → inibe osteoclastos → Ca fica no osso."
+ ]
+]

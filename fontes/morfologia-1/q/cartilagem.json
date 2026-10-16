@@ -1,0 +1,464 @@
+[
+ {
+  "c": "cartilagem",
+  "q": "A cartilagem do pavilhão da orelha é:",
+  "o": [
+   "Elástica",
+   "Hialina",
+   "Fibrosa",
+   "Calcificada"
+  ],
+  "e": "Também epiglote e tuba auditiva."
+ },
+ {
+  "c": "cartilagem",
+  "q": "A cartilagem da traqueia é:",
+  "o": [
+   "Hialina",
+   "Elástica",
+   "Fibrosa",
+   "Óssea"
+  ],
+  "e": "O tipo mais comum."
+ },
+ {
+  "c": "cartilagem",
+  "q": "O disco intervertebral é formado por cartilagem:",
+  "o": [
+   "Fibrosa",
+   "Hialina",
+   "Elástica",
+   "Articular"
+  ],
+  "e": "Também meniscos e sínfise púbica."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Qual cartilagem NÃO possui pericôndrio?",
+  "o": [
+   "Fibrosa",
+   "Elástica",
+   "Hialina da traqueia",
+   "Hialina da laringe"
+  ],
+  "e": "A fibrosa não tem; a hialina articular também não."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Grupo isógeno é:",
+  "o": [
+   "Um conjunto de condrócitos originados de uma única célula",
+   "A camada interna (condrogênica) do pericôndrio fibroso",
+   "Um feixe de fibras elásticas da cartilagem elástica",
+   "Um tipo de matriz interterritorial entre as lacunas"
+  ],
+  "e": "Resultado de mitoses dentro da matriz."
+ },
+ {
+  "c": "cartilagem",
+  "q": "O pericôndrio é classificado como:",
+  "o": [
+   "Tecido conjuntivo denso",
+   "Tecido conjuntivo frouxo",
+   "Tecido epitelial",
+   "Tecido cartilaginoso fibroso"
+  ],
+  "e": "Camada externa fibrosa e interna condrogênica."
+ },
+ {
+  "c": "cartilagem",
+  "q": "O colágeno característico da cartilagem hialina é o tipo:",
+  "o": [
+   "II",
+   "I",
+   "III",
+   "IV"
+  ],
+  "e": "A fibrosa é a que tem colágeno tipo I abundante."
+ },
+ {
+  "c": "cartilagem",
+  "q": "A cartilagem da epiglote é:",
+  "o": [
+   "Elástica",
+   "Hialina",
+   "Fibrosa",
+   "Calcificada"
+  ],
+  "e": "Também o pavilhão auricular e a tuba auditiva."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Os meniscos do joelho são formados por cartilagem:",
+  "o": [
+   "Fibrosa",
+   "Hialina",
+   "Elástica",
+   "Articular"
+  ],
+  "e": "Fibrocartilagem aguenta pressão e tração."
+ },
+ {
+  "c": "cartilagem",
+  "q": "A cartilagem articular é hialina, mas NÃO tem:",
+  "o": [
+   "Pericôndrio",
+   "Condrócitos",
+   "Colágeno tipo II",
+   "Matriz extracelular"
+  ],
+  "e": "Ela se nutre pelo líquido sinovial."
+ },
+ {
+  "c": "cartilagem",
+  "q": "A matriz territorial é:",
+  "o": [
+   "A faixa mais basófila em volta do grupo isógeno",
+   "A camada fibrosa externa do pericôndrio",
+   "O espaço preenchido por cartilagem entre dois ossos",
+   "A cavidade articular revestida pela sinovial"
+  ],
+  "e": "A interterritorial é a matriz mais clara entre os grupos."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Como os condrócitos de uma cartilagem com pericôndrio recebem nutrientes, já que o tecido não tem vasos?",
+  "o": [
+   "Por difusão através da matriz, a partir dos vasos do pericôndrio",
+   "Por capilares que penetram na matriz e entram em cada lacuna",
+   "Por canais de Havers que atravessam a matriz longitudinalmente",
+   "Por ductos que trazem líquido do periósteo até os condrócitos"
+  ],
+  "e": "A cartilagem é avascular; os nutrientes difundem-se pela matriz hidratada a partir dos vasos do pericôndrio."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Na lâmina, os condroblastos distinguem-se dos condrócitos por serem:",
+  "o": [
+   "Mais achatados e situados na borda, junto ao pericôndrio",
+   "Arredondados e reunidos em grupos isógenos no centro",
+   "Multinucleados e localizados em escavações da matriz",
+   "Envolvidos por matriz territorial intensamente basófila"
+  ],
+  "e": "Os condroblastos são jovens, alongados e periféricos; os condrócitos são arredondados, centrais e ficam em lacunas."
+ },
+ {
+  "c": "cartilagem",
+  "q": "O condrócito é definido como:",
+  "o": [
+   "Condroblasto aprisionado na matriz que produziu, alojado numa lacuna",
+   "Célula da camada fibrosa do pericôndrio que produz fibras elásticas",
+   "Célula multinucleada que reabsorve a matriz cartilaginosa calcificada",
+   "Célula que reveste a cavidade medular dos ossos longos"
+  ],
+  "e": "Ao ficar cercado pela matriz que secretou, o condroblasto passa a condrócito, que mantém o tecido."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Um grupo isógeno costuma reunir quantos condrócitos?",
+  "o": [
+   "De 2 a 8",
+   "Apenas 1",
+   "De 20 a 50",
+   "Mais de 100"
+  ],
+  "e": "Grupos isógenos têm de 2 a 8 condrócitos originados por mitoses sucessivas de uma única célula."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Qual camada do pericôndrio é responsável por formar novos condroblastos?",
+  "o": [
+   "A camada interna, condrogênica",
+   "A camada externa, fibrosa",
+   "A matriz interterritorial",
+   "O endósteo adjacente"
+  ],
+  "e": "O pericôndrio tem camada externa fibrosa e interna condrogênica, que origina condroblastos."
+ },
+ {
+  "c": "cartilagem",
+  "q": "O crescimento aposicional da cartilagem ocorre por:",
+  "o": [
+   "Condroblastos do pericôndrio que depositam matriz na superfície",
+   "Mitose dos condrócitos dentro das lacunas, expandindo o tecido",
+   "Invasão vascular da matriz seguida de deposição de osso",
+   "Fusão de grupos isógenos vizinhos no interior da matriz"
+  ],
+  "e": "No crescimento aposicional, células do pericôndrio diferenciam-se em condroblastos, que depositam camadas novas de matriz na superfície."
+ },
+ {
+  "c": "cartilagem",
+  "q": "O crescimento intersticial da cartilagem caracteriza-se por:",
+  "o": [
+   "Mitose dos condrócitos na matriz, formando grupos isógenos",
+   "Deposição de matriz pelos condroblastos da camada interna do pericôndrio",
+   "Substituição gradual da cartilagem por tecido ósseo trabecular",
+   "Entrada de fibroblastos vindos do tecido conjuntivo frouxo vizinho"
+  ],
+  "e": "No crescimento intersticial, os condrócitos se dividem dentro da matriz; os grupos isógenos são sua marca, típica da cartilagem jovem e do disco epifisário."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Na lâmina de cartilagem hialina, a matriz interterritorial corresponde a:",
+  "o": [
+   "Região mais clara, situada entre os grupos isógenos",
+   "Faixa escura e basófila colada ao grupo isógeno",
+   "Camada fibrosa e rosada do pericôndrio",
+   "Lacuna vazia deixada pelo condrócito retraído"
+  ],
+  "e": "A matriz territorial, mais basófila, envolve o grupo isógeno; a interterritorial é a área mais clara entre os grupos."
+ },
+ {
+  "c": "cartilagem",
+  "q": "A basofilia da matriz da cartilagem hialina deve-se principalmente a:",
+  "o": [
+   "Glicosaminoglicanos sulfatados dos proteoglicanos",
+   "Fibras elásticas abundantes coradas pela hematoxilina",
+   "Feixes espessos de colágeno tipo I entre as lacunas",
+   "Cristais de hidroxiapatita depositados na matriz"
+  ],
+  "e": "Os grupos sulfato e carboxila dos glicosaminoglicanos (como o condroitim sulfato) dos proteoglicanos dão carga negativa e afinidade pela hematoxilina."
+ },
+ {
+  "c": "cartilagem",
+  "q": "O nome “hialina” refere-se a qual característica da matriz?",
+  "o": [
+   "Aspecto homogêneo e translúcido, semelhante a vidro",
+   "Presença de fibras elásticas ramificadas",
+   "Organização em fileiras de células entre feixes de fibras",
+   "Coloração intensamente acidófila"
+  ],
+  "e": "Hyalos significa vidro: a matriz parece homogênea porque as fibrilas de colágeno tipo II são finas e não se distinguem em HE."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Por que as fibrilas de colágeno da cartilagem hialina não são visíveis ao microscópio de luz em HE?",
+  "o": [
+   "Porque são fibrilas finas de colágeno II, de refração igual à da matriz",
+   "Porque o colágeno é dissolvido durante o processamento histológico",
+   "Porque a cartilagem hialina não contém colágeno, só proteoglicanos",
+   "Porque são encobertas pelas fibras elásticas abundantes da matriz"
+  ],
+  "e": "O colágeno tipo II forma fibrilas delgadas, com índice de refração semelhante ao da substância fundamental, que as mascara e dá à matriz aspecto homogêneo."
+ },
+ {
+  "c": "cartilagem",
+  "q": "A grande resistência da cartilagem à compressão está ligada principalmente a:",
+  "o": [
+   "Água retida pelos proteoglicanos da matriz",
+   "Presença de vasos sanguíneos que funcionam como amortecedores",
+   "Mineralização por hidroxiapatita",
+   "Grande número de células por área"
+  ],
+  "e": "Os proteoglicanos hidrofílicos (como o agrecano ligado ao ácido hialurônico) retêm água e resistem à compressão."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Em quais duas localizações a cartilagem hialina NÃO possui pericôndrio?",
+  "o": [
+   "Cartilagem articular e disco epifisário",
+   "Traqueia e brônquios",
+   "Laringe e nariz",
+   "Extremidade ventral das costelas e traqueia"
+  ],
+  "e": "A hialina geralmente tem pericôndrio, mas ele falta na cartilagem articular e no disco epifisário."
+ },
+ {
+  "c": "cartilagem",
+  "q": "As cartilagens costais, na extremidade ventral das costelas, são formadas por cartilagem:",
+  "o": [
+   "Hialina",
+   "Elástica",
+   "Fibrosa",
+   "Calcificada sem matriz"
+  ],
+  "e": "A extremidade ventral das costelas é hialina, assim como traqueia, laringe (maior parte), nariz e superfícies articulares."
+ },
+ {
+  "c": "cartilagem",
+  "q": "O esqueleto do feto, antes da ossificação endocondral, é moldado em cartilagem:",
+  "o": [
+   "Hialina",
+   "Elástica",
+   "Fibrosa",
+   "Mista de elástica e fibrosa"
+  ],
+  "e": "A cartilagem hialina forma o molde que será substituído por osso na ossificação endocondral."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Qual das localizações abaixo apresenta cartilagem elástica?",
+  "o": [
+   "Tuba auditiva",
+   "Sínfise púbica",
+   "Anéis da traqueia",
+   "Superfície articular do fêmur"
+  ],
+  "e": "Pavilhão auricular, conduto auditivo, tuba auditiva e epiglote têm cartilagem elástica."
+ },
+ {
+  "c": "cartilagem",
+  "q": "A cartilagem elástica difere da hialina por possuir:",
+  "o": [
+   "Fibras elásticas na matriz, além do colágeno tipo II",
+   "Colágeno tipo I em feixes espessos, sem colágeno tipo II",
+   "Ausência de pericôndrio",
+   "Condrócitos dispostos em fileiras"
+  ],
+  "e": "A elástica tem a mesma base da hialina (colágeno tipo II e pericôndrio), acrescida de uma rede de fibras elásticas."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Em uma anotação consta “cartilagem elástica: colágeno tipo I”. A correção adequada é:",
+  "o": [
+   "Colágeno tipo II mais fibras elásticas",
+   "Colágeno tipo III mais fibras reticulares",
+   "Apenas fibras elásticas, sem nenhum colágeno",
+   "Colágeno tipo I mais fibras elásticas, como está escrito"
+  ],
+  "e": "Só a fibrocartilagem tem colágeno tipo I abundante; a elástica tem colágeno tipo II e fibras elásticas. O colágeno I anotado pertence à cartilagem fibrosa."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Para demonstrar as fibras elásticas numa lâmina de pavilhão auricular, uma coloração apropriada é:",
+  "o": [
+   "Orceína (ou resorcina-fucsina)",
+   "Azul de toluidina para mastócitos",
+   "Sudan para lipídios",
+   "Impregnação argêntica para fibras reticulares"
+  ],
+  "e": "Orceína e resorcina-fucsina coram seletivamente as fibras elásticas, que aparecem escuras entre os condrócitos."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Na fibrocartilagem, os condrócitos se dispõem tipicamente:",
+  "o": [
+   "Em fileiras entre feixes paralelos de colágeno",
+   "Em grupos isógenos numa matriz homogênea",
+   "Isolados numa rede de fibras elásticas",
+   "Em cordões ao redor de capilares"
+  ],
+  "e": "Na fibrosa, os condrócitos ficam alinhados entre feixes espessos de colágeno tipo I."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Em HE, a matriz da cartilagem fibrosa tende a ser:",
+  "o": [
+   "Acidófila, pelo predomínio de colágeno tipo I",
+   "Intensamente basófila e homogênea, como a hialina",
+   "Totalmente incolor, por falta de proteoglicanos",
+   "Preta, pela abundância de fibras elásticas"
+  ],
+  "e": "Os feixes de colágeno tipo I tornam a matriz da fibrocartilagem mais acidófila que a da hialina."
+ },
+ {
+  "c": "cartilagem",
+  "q": "A fibrocartilagem é especialmente resistente à tração por causa de:",
+  "o": [
+   "Feixes espessos de colágeno tipo I",
+   "Grande quantidade de fibras elásticas",
+   "Pericôndrio espesso",
+   "Mineralização da matriz"
+  ],
+  "e": "Feixes de colágeno tipo I conferem resistência à tração, como em discos intervertebrais e sínfise."
+ },
+ {
+  "c": "cartilagem",
+  "q": "A sínfise púbica é formada por qual tipo de cartilagem?",
+  "o": [
+   "Fibrosa",
+   "Hialina",
+   "Elástica",
+   "Hialina com pericôndrio espesso"
+  ],
+  "e": "Sínfises (púbica, intervertebral) são articulações por fibrocartilagem."
+ },
+ {
+  "c": "cartilagem",
+  "q": "No disco intervertebral, o anel fibroso é fibrocartilagem, enquanto o núcleo pulposo, gelatinoso e central, deriva:",
+  "o": [
+   "Da notocorda",
+   "Do pericôndrio",
+   "Do periósteo vertebral",
+   "Da cartilagem elástica"
+  ],
+  "e": "O núcleo pulposo é remanescente da notocorda; sua degeneração e extrusão através do anel fibroso causam hérnia de disco."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Ao comparar lâminas de pavilhão auricular e de disco intervertebral, qual achado está presente apenas na primeira e ajuda a separá-las?",
+  "o": [
+   "Pericôndrio com condroblastos achatados na borda",
+   "Condrócitos alojados dentro de lacunas na matriz",
+   "Matriz extracelular abundante entre as células",
+   "Ausência de vasos sanguíneos no interior da matriz"
+  ],
+  "e": "A cartilagem elástica tem pericôndrio e condroblastos periféricos; a fibrocartilagem não tem pericôndrio. Lacunas, matriz abundante e avascularidade são comuns às duas."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Qual associação estrutura–tipo de cartilagem está correta?",
+  "o": [
+   "Brônquio – hialina",
+   "Epiglote – fibrosa",
+   "Menisco – elástica",
+   "Pavilhão auricular – hialina"
+  ],
+  "e": "Brônquios têm hialina; epiglote e pavilhão auricular são elásticos; meniscos são fibrosos."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Na estação da lâmina de disco intervertebral, o roteiro pede apenas condrócitos e matriz. A ausência de condroblastos se explica porque:",
+  "o": [
+   "A fibrocartilagem não tem pericôndrio, fonte dos condroblastos",
+   "Os condroblastos foram destruídos pela fixação em formol",
+   "Os condroblastos ficam apenas no centro da peça, fora do corte",
+   "A coloração HE não cora o citoplasma dos condroblastos"
+  ],
+  "e": "Sem pericôndrio não há camada condrogênica; por isso a fibrosa não mostra condroblastos periféricos."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Uma lesão profunda da cartilagem articular de um cão adulto tende a ter reparo limitado, principalmente porque:",
+  "o": [
+   "A cartilagem articular é avascular e não tem pericôndrio",
+   "Os condrócitos articulares são multinucleados e não se dividem",
+   "A cartilagem articular é elástica e se rompe facilmente",
+   "O líquido sinovial dissolve a matriz recém-formada"
+  ],
+  "e": "Sem vasos e sem pericôndrio, a cartilagem articular adulta regenera mal; o defeito costuma ser preenchido por tecido fibroso ou fibrocartilagem."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Na lâmina de traqueia corada em HE, o pericôndrio aparece como:",
+  "o": [
+   "Faixa rosa de tecido conjuntivo denso na borda da cartilagem",
+   "Faixa azulada, lisa e homogênea no centro da peça",
+   "Grupos de células arredondadas alojadas em lacunas",
+   "Fibras escuras e ramificadas entre as células da matriz"
+  ],
+  "e": "O pericôndrio (TC denso) cora em rosa na periferia; a matriz hialina é azulada e homogênea."
+ },
+ {
+  "c": "cartilagem",
+  "q": "A cartilagem fibrosa é frequentemente descrita como um tecido de transição entre:",
+  "o": [
+   "Tecido conjuntivo denso e cartilagem hialina",
+   "Tecido ósseo compacto e tecido adiposo",
+   "Cartilagem elástica e epitélio de revestimento",
+   "Tecido muscular liso e tecido tendíneo"
+  ],
+  "e": "A fibrocartilagem combina feixes de colágeno tipo I, como no conjuntivo denso, com condrócitos e matriz cartilaginosa."
+ },
+ {
+  "c": "cartilagem",
+  "q": "As células do tecido cartilaginoso e o pericôndrio originam-se embriologicamente do:",
+  "o": [
+   "Mesênquima",
+   "Ectoderma superficial",
+   "Endoderma",
+   "Tubo neural"
+  ],
+  "e": "Como os demais conjuntivos, a cartilagem deriva do mesênquima, cujas células se diferenciam em condroblastos."
+ }
+]

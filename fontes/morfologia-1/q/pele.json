@@ -1,0 +1,673 @@
+[
+ {
+  "c": "pele",
+  "q": "A camada de pele onde se fazem as injeções subcutâneas é a:",
+  "o": [
+   "Hipoderme",
+   "Epiderme",
+   "Derme papilar",
+   "Estrato córneo"
+  ],
+  "e": "Conjuntivo frouxo e adiposo sob a derme."
+ },
+ {
+  "c": "pele",
+  "q": "O estrato lúcido aparece em:",
+  "o": [
+   "Coxins e focinho (pele espessa)",
+   "Toda a pele com pelos",
+   "Apenas na pele de equinos",
+   "Na derme reticular"
+  ],
+  "e": "Ausente na pele fina com pelos."
+ },
+ {
+  "c": "pele",
+  "q": "As “espinhas” do estrato espinhoso correspondem a:",
+  "o": [
+   "Desmossomos entre os queratinócitos",
+   "Microvilosidades da superfície apical",
+   "Cílios dos queratinócitos basais",
+   "Grânulos de querato-hialina do citoplasma"
+  ],
+  "e": "No pênfigo, autoanticorpos atacam os desmossomos."
+ },
+ {
+  "c": "pele",
+  "q": "O melanócito deriva de:",
+  "o": [
+   "Crista neural",
+   "Mesoderma",
+   "Endoderma",
+   "Células de Langerhans"
+  ],
+  "e": "Transfere melanina aos queratinócitos e ao pelo."
+ },
+ {
+  "c": "pele",
+  "q": "Folículos compostos (vários pelos por abertura) são típicos de:",
+  "o": [
+   "Cão e gato",
+   "Equino",
+   "Bovino",
+   "Equino e bovino"
+  ],
+  "e": "Equinos e bovinos têm folículos simples."
+ },
+ {
+  "c": "pele",
+  "q": "Em cães e gatos, as glândulas sudoríparas écrinas ficam:",
+  "o": [
+   "Nos coxins",
+   "Em toda a pele",
+   "Apenas na axila",
+   "No conduto auditivo"
+  ],
+  "e": "Por isso perdem calor principalmente pela respiração ofegante."
+ },
+ {
+  "c": "pele",
+  "q": "O equino sua muito porque tem glândulas:",
+  "o": [
+   "Sudoríparas apócrinas muito desenvolvidas",
+   "Sebáceas holócrinas abundantes em todo o corpo",
+   "Écrinas espalhadas por toda a superfície da pele",
+   "Sudoríparas merócrinas restritas à região inguinal"
+  ],
+  "e": "O suor rico em proteína forma espuma."
+ },
+ {
+  "c": "pele",
+  "q": "Na laminite equina, o que falha é:",
+  "o": [
+   "A união laminar entre parede do casco e falange distal",
+   "A queratinização da ranilha e dos talões do casco",
+   "A produção de perioplo na banda coronária",
+   "A articulação entre falange média e osso navicular"
+  ],
+  "e": "Falha a união entre as lâminas da parede do casco e a falange distal; a falange pode rotacionar e perfurar a sola."
+ },
+ {
+  "c": "pele",
+  "q": "O processo cornual dos bovinos é:",
+  "o": [
+   "Osso do frontal, oco e comunicado com o seio frontal",
+   "Cartilagem elástica revestida por estojo córneo",
+   "Derme espessada e queratinizada, sem osso",
+   "Um osso independente do crânio, trocado todo ano"
+  ],
+  "e": "Por isso a descorna de adultos abre o seio frontal; galhada (cervídeos) é que é trocada."
+ },
+ {
+  "c": "pele",
+  "q": "A única glândula cutânea importante das aves é a:",
+  "o": [
+   "Uropigial",
+   "Sudorípara apócrina",
+   "Mamária",
+   "Sebácea holócrina distribuída"
+  ],
+  "e": "Fica na base da cauda e impermeabiliza as penas."
+ },
+ {
+  "c": "pele",
+  "q": "Qual das funções abaixo NÃO é desempenhada pela pele?",
+  "o": [
+   "Produção de hemácias",
+   "Síntese de vitamina D",
+   "Termorregulação",
+   "Barreira contra a perda de água"
+  ],
+  "e": "A pele protege, termorregula, sintetiza vitamina D e evita a desidratação; a hematopoese ocorre na medula óssea."
+ },
+ {
+  "c": "pele",
+  "q": "A célula mais numerosa da epiderme, correspondendo a cerca de 85% das suas células, é o:",
+  "o": [
+   "Queratinócito",
+   "Melanócito",
+   "Célula de Langerhans",
+   "Célula de Merkel"
+  ],
+  "e": "Os queratinócitos predominam; melanócitos, Langerhans e Merkel são populações menores."
+ },
+ {
+  "c": "pele",
+  "q": "A derme divide-se em camada papilar e reticular. Essas camadas são formadas, respectivamente, por conjuntivo:",
+  "o": [
+   "Frouxo e denso não modelado",
+   "Denso modelado e frouxo",
+   "Adiposo e denso modelado",
+   "Denso não modelado e reticular"
+  ],
+  "e": "A derme papilar, logo abaixo da epiderme, é frouxa; a reticular é densa não modelada."
+ },
+ {
+  "c": "pele",
+  "q": "No suíno, a hipoderme forma uma espessa camada adiposa conhecida como:",
+  "o": [
+   "Toucinho",
+   "Cório",
+   "Coxim",
+   "Perioplo"
+  ],
+  "e": "O toucinho é a hipoderme adiposa muito desenvolvida do suíno."
+ },
+ {
+  "c": "pele",
+  "q": "Qual é a ordem correta dos estratos da epiderme, da profundidade para a superfície?",
+  "o": [
+   "Basal, espinhoso, granuloso, lúcido e córneo",
+   "Basal, granuloso, espinhoso, córneo e lúcido",
+   "Espinhoso, basal, lúcido, granuloso e córneo",
+   "Córneo, lúcido, granuloso, espinhoso e basal"
+  ],
+  "e": "A sequência é basal, espinhoso, granuloso, lúcido (só em pele espessa) e córneo."
+ },
+ {
+  "c": "pele",
+  "q": "As mitoses que renovam continuamente a epiderme ocorrem principalmente no estrato:",
+  "o": [
+   "Basal",
+   "Granuloso",
+   "Lúcido",
+   "Córneo"
+  ],
+  "e": "O estrato basal (germinativo), sobre a membrana basal, é a camada proliferativa."
+ },
+ {
+  "c": "pele",
+  "q": "Num cão com pênfigo, autoanticorpos destroem os desmossomos que unem os queratinócitos. Em qual camada essas junções são mais numerosas, conferindo o aspecto de “espinhas” ao microscópio?",
+  "o": [
+   "Estrato espinhoso",
+   "Estrato lúcido",
+   "Derme papilar",
+   "Hipoderme"
+  ],
+  "e": "O estrato espinhoso tem várias camadas de células poliédricas unidas por desmossomos, alvo dos autoanticorpos no pênfigo; derme e hipoderme não são epiteliais."
+ },
+ {
+  "c": "pele",
+  "q": "O estrato granuloso contribui para a barreira contra a perda de água porque suas células contêm:",
+  "o": [
+   "Grânulos de querato-hialina e corpos lamelares",
+   "Melanossomos transferidos pelos melanócitos",
+   "Grânulos de histamina e heparina",
+   "Gotículas de lanolina"
+  ],
+  "e": "Os corpos lamelares liberam lipídios que selam os espaços intercelulares; a querato-hialina participa da queratinização."
+ },
+ {
+  "c": "pele",
+  "q": "As células do estrato córneo são:",
+  "o": [
+   "Mortas, anucleadas e cheias de queratina",
+   "Cúbicas, com mitoses frequentes",
+   "Dendríticas, apresentadoras de antígenos",
+   "Vivas, com grânulos basófilos"
+  ],
+  "e": "O estrato córneo é formado por células queratinizadas mortas que descamam continuamente."
+ },
+ {
+  "c": "pele",
+  "q": "Por que a epiderme é fina na maior parte do corpo de animais domésticos com pelagem?",
+  "o": [
+   "Porque o pelo assume boa parte da proteção mecânica",
+   "Porque a derme não produz fibras nessas áreas",
+   "Porque não há estrato basal sob os pelos",
+   "Porque a hipoderme substitui a epiderme"
+  ],
+  "e": "Nos animais com pelo, a pelagem protege; a epiderme só é espessa nas áreas sem pelo, como coxins e plano nasal."
+ },
+ {
+  "c": "pele",
+  "q": "A célula dendrítica da epiderme que capta antígenos e os leva aos linfonodos, participando da dermatite de contato, é a:",
+  "o": [
+   "Célula de Langerhans",
+   "Célula de Merkel",
+   "Melanócito",
+   "Queratinócito basal"
+  ],
+  "e": "As células de Langerhans, no estrato espinhoso, são apresentadoras de antígeno."
+ },
+ {
+  "c": "pele",
+  "q": "A célula epidérmica ligada a terminações nervosas, mecanorreceptora de tato fino e abundante na base das vibrissas, é a:",
+  "o": [
+   "Célula de Merkel",
+   "Célula de Langerhans",
+   "Melanócito",
+   "Mastócito"
+  ],
+  "e": "A célula de Merkel, no estrato basal, forma com a terminação nervosa um receptor de tato."
+ },
+ {
+  "c": "pele",
+  "q": "Qual neoplasia de origem melanocítica é comum em cavalos tordilhos idosos?",
+  "o": [
+   "Melanoma",
+   "Mastocitoma",
+   "Carcinoma de células escamosas",
+   "Fibrossarcoma"
+  ],
+  "e": "Cavalos tordilhos velhos desenvolvem com frequência melanomas, tumores dos melanócitos."
+ },
+ {
+  "c": "pele",
+  "q": "No folículo piloso, a estrutura que leva vasos sanguíneos para nutrir o pelo em crescimento é a:",
+  "o": [
+   "Papila dérmica",
+   "Cutícula",
+   "Bainha córnea",
+   "Glândula sebácea"
+  ],
+  "e": "O bulbo envolve a papila dérmica, conjuntivo vascularizado que nutre a matriz do pelo."
+ },
+ {
+  "c": "pele",
+  "q": "Na haste do pelo, a camada mais externa, formada por células achatadas sobrepostas como telhas, é a:",
+  "o": [
+   "Cutícula",
+   "Medula",
+   "Córtex",
+   "Papila dérmica"
+  ],
+  "e": "O pelo tem, de dentro para fora, medula, córtex e cutícula; a cutícula é a camada superficial de células achatadas imbricadas. A papila dérmica fica no bulbo, não na haste."
+ },
+ {
+  "c": "pele",
+  "q": "O músculo eretor do pelo, que arrepia a pelagem no frio e no medo, é formado por músculo:",
+  "o": [
+   "Liso",
+   "Estriado esquelético",
+   "Estriado cardíaco",
+   "Mioepitelial"
+  ],
+  "e": "O eretor do pelo é músculo liso de controle autônomo e faz parte da unidade pilossebácea."
+ },
+ {
+  "c": "pele",
+  "q": "Qual estrutura NÃO faz parte da unidade pilossebácea?",
+  "o": [
+   "Glândula sudorípara écrina",
+   "Glândula sebácea",
+   "Glândula sudorípara apócrina",
+   "Músculo eretor do pelo"
+  ],
+  "e": "A écrina abre direto na superfície, independente do folículo; as outras se ligam ao folículo piloso."
+ },
+ {
+  "c": "pele",
+  "q": "Em equinos e bovinos, cada abertura folicular emite apenas um pelo. Esse padrão é chamado de folículo:",
+  "o": [
+   "Simples",
+   "Composto",
+   "Sinusal",
+   "Lanoso"
+  ],
+  "e": "Folículo simples (um pelo por abertura) é típico de equinos e bovinos."
+ },
+ {
+  "c": "pele",
+  "q": "Além do focinho e da região supraorbitária, o gato possui pelos táteis (sinusais) também na região do:",
+  "o": [
+   "Carpo",
+   "Tarso",
+   "Dorso",
+   "Abdome ventral"
+  ],
+  "e": "O gato tem pelos táteis carpais, além das vibrissas da face."
+ },
+ {
+  "c": "pele",
+  "q": "O que caracteriza o folículo de um pelo tátil (vibrissa)?",
+  "o": [
+   "É grande, envolto por um seio venoso e muito inervado",
+   "Não possui papila dérmica",
+   "É sempre desprovido de glândula sebácea e de nervos",
+   "Produz vários pelos secundários pela mesma abertura"
+  ],
+  "e": "O seio sanguíneo e a rica inervação tornam o folículo sinusal um órgão sensorial."
+ },
+ {
+  "c": "pele",
+  "q": "A lã dos ovinos é formada por:",
+  "o": [
+   "Fibras secundárias finas e onduladas, com lanolina",
+   "Pelos primários grossos e retos, de crescimento sazonal",
+   "Pelos táteis com seio sanguíneo e muita inervação",
+   "Escamas córneas queratinizadas que crescem sem folículo"
+  ],
+  "e": "A lã é composta de fibras secundárias de crescimento contínuo, recobertas pela lanolina, secreção sebácea."
+ },
+ {
+  "c": "pele",
+  "q": "A fase do ciclo do pelo de crescimento ativo, com bulbo profundo, é a:",
+  "o": [
+   "Anágena",
+   "Catágena",
+   "Telógena",
+   "Exógena"
+  ],
+  "e": "Anágeno é crescimento; catágeno, involução; telógeno, repouso."
+ },
+ {
+  "c": "pele",
+  "q": "No ciclo do pelo, a fase em que o pelo fica em repouso, preso até ser empurrado pelo novo, é a:",
+  "o": [
+   "Telógena",
+   "Anágena",
+   "Catágena",
+   "Lactógena"
+  ],
+  "e": "No telógeno o pelo é mantido sem crescer até ser substituído."
+ },
+ {
+  "c": "pele",
+  "q": "Uma cadela apresenta queda difusa e intensa de pelos cerca de dois meses após um parto difícil. A explicação mais provável é:",
+  "o": [
+   "Eflúvio telógeno desencadeado pelo estresse",
+   "Hipertrofia das glândulas sebáceas pós-parto",
+   "Destruição autoimune dos melanócitos",
+   "Formação excessiva de folículos compostos"
+  ],
+  "e": "Doença grave ou parto sincronizam folículos no telógeno, causando queda maciça posterior."
+ },
+ {
+  "c": "pele",
+  "q": "Um cão apresenta alopecia bilateral e simétrica no tronco, letargia e ganho de peso. A causa endócrina clássica é:",
+  "o": [
+   "Hipotireoidismo",
+   "Hipertireoidismo",
+   "Hipoparatireoidismo",
+   "Diabetes insípido"
+  ],
+  "e": "Hormônios tireoidianos regulam o ciclo do pelo; sua falta causa alopecia simétrica no cão."
+ },
+ {
+  "c": "pele",
+  "q": "A muda de pelagem de primavera e outono é regulada principalmente pelo:",
+  "o": [
+   "Fotoperíodo",
+   "Teor de zinco da dieta",
+   "Ciclo estral",
+   "Umidade relativa do ar"
+  ],
+  "e": "A duração do dia é o principal regulador da muda sazonal, junto com a temperatura."
+ },
+ {
+  "c": "pele",
+  "q": "A glândula sudorípara apócrina também é chamada de epitriquial porque:",
+  "o": [
+   "Abre-se no folículo piloso",
+   "Secreta pela perda da célula inteira",
+   "Existe apenas nos coxins",
+   "Abre-se diretamente na superfície da pele"
+  ],
+  "e": "Epitriquial significa associada ao pelo: seu ducto desemboca no folículo."
+ },
+ {
+  "c": "pele",
+  "q": "A espuma que se forma no suor do equino deve-se à:",
+  "o": [
+   "Latherina, proteína do suor",
+   "Lanolina, secreção sebácea",
+   "Querato-hialina do estrato granuloso",
+   "Histamina dos mastócitos"
+  ],
+  "e": "O suor equino, produzido por apócrinas muito desenvolvidas, é rico na proteína latherina, que espuma."
+ },
+ {
+  "c": "pele",
+  "q": "Entre os bovinos, quais costumam suar mais e tolerar melhor o calor?",
+  "o": [
+   "Zebuínos",
+   "Taurinos de alta produção leiteira",
+   "Taurinos de corte europeus",
+   "Não há diferença entre os grupos"
+  ],
+  "e": "Os zebuínos têm sudorese mais eficiente que os taurinos, que sofrem mais com estresse térmico."
+ },
+ {
+  "c": "pele",
+  "q": "Por que cães braquicefálicos têm alto risco de insolação?",
+  "o": [
+   "Perdem calor sobretudo pelo ofego, e suas vias aéreas são estreitas",
+   "Têm glândulas écrinas em toda a pele, que se esgotam rapidamente",
+   "Não possuem músculo eretor do pelo para isolar o corpo",
+   "Têm hipoderme muito espessa, que impede a perda de calor"
+  ],
+  "e": "Cães quase não suam pela pele (écrinas só nos coxins) e dissipam calor pelo ofego, prejudicado na braquicefalia."
+ },
+ {
+  "c": "pele",
+  "q": "Em suínos, as glândulas sudoríparas écrinas localizam-se principalmente no(a):",
+  "o": [
+   "Focinho",
+   "Dorso",
+   "Região inguinal",
+   "Orelha"
+  ],
+  "e": "Nos suínos, as écrinas ficam no focinho; nos carnívoros, nos coxins."
+ },
+ {
+  "c": "pele",
+  "q": "Qual associação entre glândula cutânea especializada e espécie está correta?",
+  "o": [
+   "Glândula cornual – caprinos",
+   "Glândula infraorbitária – equinos",
+   "Glândula carpal – bovinos",
+   "Glândula uropigial – cães"
+  ],
+  "e": "A glândula cornual dá o odor do bode; a infraorbitária é dos ovinos, a carpal do suíno e a uropigial das aves."
+ },
+ {
+  "c": "pele",
+  "q": "Os sacos anais e as glândulas circum-anais são glândulas cutâneas especializadas típicas do:",
+  "o": [
+   "Cão",
+   "Equino",
+   "Bovino",
+   "Ovino"
+  ],
+  "e": "Sacos anais e glândulas circum-anais são estruturas clínicas importantes do cão."
+ },
+ {
+  "c": "pele",
+  "q": "A muralha do casco equino cresce cerca de 1 cm por mês a partir da coroa. Uma rachadura na coroa, na região da pinça, levará aproximadamente quanto tempo para chegar à borda de apoio?",
+  "o": [
+   "9 a 12 meses",
+   "2 a 3 semanas",
+   "2 a 3 meses",
+   "3 a 4 anos"
+  ],
+  "e": "A renovação completa da parede leva de 9 a 12 meses, por isso defeitos da coroa demoram a crescer até o solo."
+ },
+ {
+  "c": "pele",
+  "q": "A faixa córnea macia junto à coroa, que dá brilho à muralha e retém umidade, é o:",
+  "o": [
+   "Perioplo",
+   "Coxim digital",
+   "Linha branca",
+   "Talão"
+  ],
+  "e": "O perioplo recobre a parte proximal da muralha e reduz a perda de água."
+ },
+ {
+  "c": "pele",
+  "q": "No ferrageamento, a referência para a colocação dos cravos é a:",
+  "o": [
+   "Linha branca",
+   "Ranilha",
+   "Coroa",
+   "Pinça"
+  ],
+  "e": "A linha branca, união entre parede e sola, indica onde o cravo pode entrar sem atingir tecidos sensíveis."
+ },
+ {
+  "c": "pele",
+  "q": "A ranilha, cunha córnea elástica na região dos talões, tem como funções:",
+  "o": [
+   "Amortecer o impacto e auxiliar o retorno venoso",
+   "Suspender a falange distal pelas lâminas",
+   "Produzir a muralha a partir da coroa",
+   "Proteger os sesamoides proximais"
+  ],
+  "e": "A ranilha absorve o impacto e, ao ser comprimida, ajuda a bombear o sangue venoso do casco."
+ },
+ {
+  "c": "pele",
+  "q": "A massa fibroadiposa localizada sob a ranilha, que funciona como amortecedor, é o:",
+  "o": [
+   "Coxim digital",
+   "Perioplo",
+   "Cório laminar",
+   "Processo ungueal"
+  ],
+  "e": "O coxim digital fica acima da ranilha e entre as cartilagens ungulares, amortecendo o apoio."
+ },
+ {
+  "c": "pele",
+  "q": "As partes da muralha do casco equino, de frente para trás, são:",
+  "o": [
+   "Pinça, quartos e talões",
+   "Talões, quartos e pinça",
+   "Coroa, sola e ranilha",
+   "Perioplo, linha branca e sola"
+  ],
+  "e": "A pinça é a parte frontal, os quartos são as faces laterais e os talões ficam atrás."
+ },
+ {
+  "c": "pele",
+  "q": "Num equino com laminite grave, a radiografia pode mostrar qual alteração característica?",
+  "o": [
+   "Rotação da falange distal em direção à sola",
+   "Fratura dos sesamoides proximais do boleto",
+   "Calcificação da ranilha e do coxim digital",
+   "Luxação da articulação metacarpofalângica"
+  ],
+  "e": "Sem a suspensão laminar, a falange distal rotaciona dentro do estojo córneo e pode atravessar a sola."
+ },
+ {
+  "c": "pele",
+  "q": "Sob o estojo córneo do casco existe uma camada muito vascularizada que nutre e produz o casco. Essa camada é a:",
+  "o": [
+   "Derme (cório)",
+   "Hipoderme adiposa",
+   "Epiderme córnea",
+   "Lâmina basal"
+  ],
+  "e": "O cório é a derme do casco, rica em vasos, de onde a epiderme recebe nutrição."
+ },
+ {
+  "c": "pele",
+  "q": "Nos ruminantes, os dedos II e V possuem:",
+  "o": [
+   "Unhas rudimentares (paradígitos)",
+   "Cascos principais de apoio",
+   "Garras retráteis",
+   "Coxins metacárpicos"
+  ],
+  "e": "Os dedos III e IV sustentam o peso; II e V são acessórios, com unhas rudimentares."
+ },
+ {
+  "c": "pele",
+  "q": "No gato, as garras são retráteis graças a:",
+  "o": [
+   "Ligamentos elásticos dorsais",
+   "Músculos eretores do pelo",
+   "Um seio venoso perióstico",
+   "Glândulas écrinas interdigitais"
+  ],
+  "e": "Ligamentos elásticos dorsais mantêm a falange distal recolhida em repouso."
+ },
+ {
+  "c": "pele",
+  "q": "Por que a onicectomia em gatos é um procedimento muito mais radical que o simples corte de unhas?",
+  "o": [
+   "Porque amputa a falange distal junto com a garra",
+   "Porque remove apenas o estrato córneo da garra",
+   "Porque secciona os tendões flexores digitais profundos",
+   "Porque retira o coxim digital e o metacarpiano"
+  ],
+  "e": "A garra envolve o processo ungueal da falange distal; removê-la implica amputar a falange distal inteira."
+ },
+ {
+  "c": "pele",
+  "q": "Os coxins dos carnívoros apresentam:",
+  "o": [
+   "Epiderme espessa, com estrato lúcido",
+   "Epiderme fina, sem estrato córneo",
+   "Muitos folículos pilosos compostos",
+   "Glândulas sebáceas muito desenvolvidas"
+  ],
+  "e": "Os coxins têm epiderme espessa com estrato lúcido, sobre tecido adiposo e fibroso, e glândulas écrinas; não têm pelos nem glândulas sebáceas."
+ },
+ {
+  "c": "pele",
+  "q": "Por que a descorna deve ser feita no bezerro, até cerca de 2 meses de idade?",
+  "o": [
+   "Porque no adulto o corno se comunica com o seio frontal",
+   "Porque o estojo córneo do bezerro ainda é feito de osso",
+   "Porque o nervo cornual só se desenvolve no animal adulto",
+   "Porque o corno do adulto não é vascularizado nem inervado"
+  ],
+  "e": "No adulto o processo cornual é oco e comunicado com o seio frontal: a remoção abre o seio, com risco de sinusite; no bezerro remove-se apenas o botão cornual."
+ },
+ {
+  "c": "pele",
+  "q": "Para a descorna, anestesia-se o nervo:",
+  "o": [
+   "Cornual",
+   "Infraorbitário",
+   "Mandibular",
+   "Auriculopalpebral"
+  ],
+  "e": "O nervo cornual inerva a base do corno e é bloqueado antes da descorna."
+ },
+ {
+  "c": "pele",
+  "q": "Qual a principal diferença entre os chifres dos bovinos e as galhadas dos cervídeos?",
+  "o": [
+   "As galhadas são osso sem estojo córneo, trocadas todo ano",
+   "As galhadas têm estojo córneo que cresce a vida inteira",
+   "Os chifres bovinos são trocados todo ano",
+   "Os chifres bovinos não têm base óssea"
+  ],
+  "e": "Chifres têm processo ósseo coberto por estojo córneo permanente; galhadas são osso exposto, renovado anualmente."
+ },
+ {
+  "c": "pele",
+  "q": "Nas aves, as penas responsáveis pelo voo são:",
+  "o": [
+   "Rêmiges e retrizes",
+   "Coberteiras",
+   "Penugem",
+   "Filoplumas"
+  ],
+  "e": "Rêmiges (asas) e retrizes (cauda) são as penas de voo; coberteiras dão contorno e a penugem isola."
+ },
+ {
+  "c": "pele",
+  "q": "As escamas dos peixes diferem das escamas dos répteis porque são:",
+  "o": [
+   "Principalmente dérmicas (ósseas)",
+   "Placas de queratina epidérmica",
+   "Penas modificadas",
+   "Glândulas cutâneas calcificadas"
+  ],
+  "e": "Escamas de répteis e das patas das aves são epidérmicas queratinizadas; as dos peixes são principalmente dérmicas."
+ },
+ {
+  "c": "pele",
+  "q": "Numa galinha, a crista e a barbela pálidas sugerem anemia porque essas estruturas são:",
+  "o": [
+   "Derme muito vascularizada sem penas",
+   "Epiderme espessa rica em melanina",
+   "Glândulas uropigiais modificadas",
+   "Escamas queratinizadas"
+  ],
+  "e": "A coloração da crista e da barbela reflete o sangue da derme muito vascularizada."
+ }
+]
