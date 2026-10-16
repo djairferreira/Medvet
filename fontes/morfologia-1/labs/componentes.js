@@ -25,8 +25,8 @@ if(svg&&window.gsap){
   E('circle',{cx:EL.x,cy:EL.y,r:7,fill:'var(--ink)'},svg);
   /* marcadores */
   const dotO=E('circle',{cx:OB.x,cy:OB.y,r:8,fill:'var(--amber)',opacity:0},svg);
-  const lblO=T(svg,276,72,'Origem (fixa)',{a:'start',fs:18,fill:'var(--amber)',w:800});
-  const insG=E('g',{opacity:0},svg);E('circle',{cx:0,cy:0,r:8,fill:'var(--ok)'},insG);T(insG,14,6,'Inserção (móvel)',{a:'start',fs:18,fill:'var(--ok)',w:800});
+  const lblO=T(svg,300,30,'Origem (fixa)',{a:'start',fs:18,fill:'var(--amber)',w:800,extra:{style:'stroke:var(--paper);stroke-width:5px;paint-order:stroke'}});
+  const insG=E('g',{opacity:0},svg);E('circle',{cx:0,cy:0,r:8,fill:'var(--ok)'},insG);T(insG,14,6,'Inserção (móvel)',{a:'start',fs:18,fill:'var(--ok)',w:800,extra:{style:'stroke:var(--paper);stroke-width:5px;paint-order:stroke'}});
   const lev=E('g',{opacity:0},svg);
   T(lev,590,250,'Alavanca de 3ª classe',{a:'end',fs:18,w:800});
   T(lev,590,276,'F = fulcro (cotovelo)',{a:'end',fs:18,fill:'var(--muted)'});

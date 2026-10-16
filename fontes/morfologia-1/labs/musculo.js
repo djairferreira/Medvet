@@ -44,7 +44,7 @@ if(svg&&window.gsap){
     .fromTo(pi,{opacity:0},{opacity:1,duration:.3},0).fromTo(adp,{opacity:0},{opacity:1,duration:.3},0)
     /* 1. Ca2+ chega e a tropomiosina sai da frente */
     .fromTo(ca,{opacity:0,y:-20},{opacity:1,y:0,duration:.5,stagger:.12},1)
-    .to(ca,{x:(i)=>i?-90:84,y:28,duration:.6,ease:'power2.inOut'},1.6)
+    .to(ca,{x:(i)=>i?130:84,y:28,duration:.6,ease:'power2.inOut'},1.6)
     .fromTo(tropo,{y:0},{y:-14,duration:.5},2.1).fromTo(tropoN,{y:0},{y:-10,duration:.5},2.1)
     /* 2. ligação: a cabeça encosta na actina */
     .fromTo(headY,{y:0},{y:-12,duration:.5,ease:'power2.out'},3)
