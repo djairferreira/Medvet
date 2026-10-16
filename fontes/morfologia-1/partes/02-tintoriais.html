@@ -53,19 +53,19 @@
         <div class="ctrl" style="margin:0"><button class="btn" type="button" id="tiaPlay">▶ Reproduzir</button><button class="tbtn" type="button" id="tiaPause">⏸ Pausar</button><button class="tbtn" type="button" id="tiaReset">↺ Reiniciar</button></div></header>
       <div class="svgwrap"><svg id="tiaSvg" viewBox="0 0 600 330" role="img" aria-label="Célula esquemática recebendo hematoxilina no núcleo e eosina no citoplasma">
         <rect x="0" y="0" width="600" height="330" fill="var(--paper)"/>
-        <ellipse id="tiaCell" cx="300" cy="175" rx="190" ry="120" fill="var(--panel)" stroke="var(--line)" stroke-width="4"/>
-        <ellipse id="tiaCyto" cx="300" cy="175" rx="186" ry="116" fill="var(--eosin)" opacity="0"/>
+        <ellipse id="tiaCell" cx="300" cy="175" rx="175" ry="120" fill="var(--panel)" stroke="var(--line)" stroke-width="4"/>
+        <ellipse id="tiaCyto" cx="300" cy="175" rx="171" ry="116" fill="var(--eosin)" opacity="0"/>
         <ellipse id="tiaNuc" cx="300" cy="175" rx="70" ry="54" fill="var(--panel)" stroke="var(--line)" stroke-width="4"/>
         <ellipse id="tiaNucC" cx="300" cy="175" rx="67" ry="51" fill="var(--hema)" opacity="0"/>
         <circle id="tiaNcl" cx="318" cy="166" r="13" fill="var(--hema-2)" opacity="0"/>
         <g id="tiaNeg" fill="var(--hema)" font-size="22" font-weight="800" text-anchor="middle">
           <text x="270" y="160">−</text><text x="320" y="200">−</text><text x="290" y="205">−</text><text x="335" y="160">−</text></g>
         <g id="tiaPos" fill="var(--eosin)" font-size="22" font-weight="800" text-anchor="middle">
-          <text x="170" y="140">+</text><text x="420" y="130">+</text><text x="190" y="225">+</text><text x="410" y="230">+</text><text x="300" y="95">+</text><text x="300" y="268">+</text></g>
+          <text x="180" y="140">+</text><text x="410" y="135">+</text><text x="190" y="225">+</text><text x="410" y="230">+</text><text x="300" y="95">+</text><text x="300" y="268">+</text></g>
         <g id="tiaH"><circle cx="40" cy="60" r="11" fill="var(--hema)"/><circle cx="62" cy="40" r="11" fill="var(--hema)"/><circle cx="34" cy="92" r="11" fill="var(--hema)"/><circle cx="70" cy="78" r="11" fill="var(--hema)"/></g>
         <g id="tiaE"><circle cx="560" cy="60" r="10" fill="var(--eosin)"/><circle cx="538" cy="40" r="10" fill="var(--eosin)"/><circle cx="566" cy="92" r="10" fill="var(--eosin)"/><circle cx="530" cy="78" r="10" fill="var(--eosin)"/><circle cx="548" cy="290" r="10" fill="var(--eosin)"/><circle cx="572" cy="262" r="10" fill="var(--eosin)"/></g>
-        <text x="60" y="140" font-size="20" font-weight="700" fill="var(--hema)" text-anchor="middle" id="tiaHl">Hematoxilina +</text>
-        <text x="530" y="140" font-size="20" font-weight="700" fill="var(--eosin)" text-anchor="middle" id="tiaEl">Eosina −</text>
+        <text x="12" y="118" font-size="18" font-weight="700" fill="var(--hema)" text-anchor="start" id="tiaHl">Hematoxilina +</text>
+        <text x="588" y="118" font-size="18" font-weight="700" fill="var(--eosin)" text-anchor="end" id="tiaEl">Eosina −</text>
         <text x="300" y="320" font-size="20" font-weight="700" fill="var(--ink)" text-anchor="middle" id="tiaCap" opacity="0">Núcleo basófilo · citoplasma acidófilo</text>
       </svg></div>
       <label class="sc-range"><span>Início</span><input type="range" id="tiaRng" min="0" max="1" step="0.001" value="0" aria-label="Linha do tempo da animação"><span>Fim</span></label>
@@ -144,7 +144,5 @@
       <li><b>Dobras, facadas do micrótomo e bolhas</b> criam linhas e faixas sem relação com a anatomia.</li>
     </ul>
     <div class="note mem"><b>Memorize: a leitura em quatro perguntas</b><p>(1) Que cor domina? Roxo = muito DNA/RNA ou matriz sulfatada; rosa = proteína. (2) Onde está o núcleo: central, basal, periférico, excêntrico? (3) Quanto citoplasma e de que cor? (4) O que está ao redor: matriz, outras células iguais, vasos?</p></div>
-
-    <div class="quiz" data-quiz="tintoriais"></div>
   </div>
 </section>

@@ -18,24 +18,7 @@ function gsPlayer(pre,steps,build){
   tl.progress(0);lab();
   if('IntersectionObserver' in window){const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){io.disconnect();if(tl.progress()===0)tl.play()}})},{threshold:.5});io.observe(svg)}
 }
-gsPlayer(pre,steps,build){
-  const svg=$('#'+pre+'Svg');if(!svg||!window.gsap)return;
-  const tl=window.gsap.timeline({paused:true});build(svg,tl);
-  const out=$('#'+pre+'Out'),rng=$('#'+pre+'Rng'),play=$('#'+pre+'Play'),pause=$('#'+pre+'Pause'),rst=$('#'+pre+'Reset');
-  let last=-1;
-  const lab=()=>{const t=tl.time();let k=0;steps.forEach((s,i)=>{if(t>=s[0]-1e-3)k=i});
-    if(out&&k!==last){last=k;out.innerHTML=`<span class="mono" style="color:var(--muted)">Etapa ${k+1} de ${steps.length}</span> · ${steps[k][1]}`}
-    if(rng&&document.activeElement!==rng)rng.value=tl.progress().toFixed(3)};
-  tl.eventCallback('onUpdate',lab);
-  if(play)play.addEventListener('click',()=>{if(tl.progress()>=1)tl.restart();else tl.play()});
-  if(pause)pause.addEventListener('click',()=>tl.pause());
-  if(rst)rst.addEventListener('click',()=>{tl.pause(0);lab()});
-  if(rng)rng.addEventListener('input',()=>{tl.pause();tl.progress(+rng.value);lab()});
-  const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
-  if(reduced){tl.progress(1);lab();return}
-  tl.progress(0);lab();
-  if('IntersectionObserver' in window){const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){io.disconnect();if(tl.progress()===0)tl.play()}})},{threshold:.5});io.observe(svg)}
-}
+
 gsPlayer('tia',[
  [0,'<b>Antes de corar.</b> O corte desparafinado é quase transparente. O núcleo tem fosfatos do DNA (cargas <b>−</b>); as proteínas do citoplasma têm grupos amina (cargas <b>+</b>).'],
  [0.9,'<b>Hematoxilina (complexo catiônico, +).</b> Atraída pelas cargas negativas, liga-se aos fosfatos do DNA e do RNA.'],
@@ -45,7 +28,7 @@ gsPlayer('tia',[
 ],(svg,tl)=>{
  const g=window.gsap,q=s=>svg.querySelectorAll(s);
  const H=q('#tiaH circle'),Eo=q('#tiaE circle');
- const ht=[[270,154],[320,194],[290,199],[335,154]],et=[[170,134],[420,124],[190,219],[410,224],[300,89],[300,262]];
+ const ht=[[270,154],[320,194],[290,199],[335,154]],et=[[180,134],[410,129],[190,219],[410,224],[300,89],[300,262]];
  tl.fromTo('#tiaHl',{opacity:0},{opacity:1,duration:.4},0.4)
    .fromTo('#tiaEl',{opacity:0},{opacity:1,duration:.4},0.4);
  H.forEach((c,i)=>{const cx=+c.getAttribute('cx'),cy=+c.getAttribute('cy');

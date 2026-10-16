@@ -18,6 +18,7 @@ function gsPlayer(pre,steps,build){
   tl.progress(0);lab();
   if('IntersectionObserver' in window){const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){io.disconnect();if(tl.progress()===0)tl.play()}})},{threshold:.5});io.observe(svg)}
 }
+
 gsPlayer('maa',[
  [0,'<b>Leite retido nos alvéolos.</b> Antes do estímulo, só o leite das cisternas pode ser retirado; a maior parte está nos alvéolos.'],
  [0.6,'<b>Estímulo do teto.</b> Sucção do bezerro, preparo e ordenha ativam receptores do teto; o impulso sobe por nervos sensitivos até o hipotálamo.'],
@@ -29,7 +30,7 @@ gsPlayer('maa',[
  const n=svg.querySelector('#maaNer'),L=n.getTotalLength();n.style.strokeDasharray=L;
  const alv=[...svg.querySelectorAll('#maaAlv circle')],ox=[...svg.querySelectorAll('#maaOx circle')],mk=[...svg.querySelectorAll('#maaMilk circle')];
  tl.fromTo('#maaSuc',{opacity:0,y:8},{opacity:1,y:0,duration:.3},0.6)
-   .fromTo(n,{strokeDashoffset:L},{strokeDashoffset:0,duration:1.2,ease:'power1.inOut'},0.7)
+   .fromTo(n,{strokeDashoffset:L,opacity:0},{strokeDashoffset:0,opacity:1,duration:1.2,ease:'power1.inOut'},0.7)
    .fromTo('#maaNerT',{opacity:0},{opacity:1,duration:.3},1.2)
    .fromTo('#maaHip',{scale:1,transformOrigin:'50% 50%'},{scale:1.5,duration:.25,yoyo:true,repeat:1},1.9);
  ox.forEach((c,i)=>{const a=alv[i],dx=+a.getAttribute('cx')-128,dy=+a.getAttribute('cy')-100;

@@ -18,6 +18,7 @@ function gsPlayer(pre,steps,build){
   tl.progress(0);lab();
   if('IntersectionObserver' in window){const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){io.disconnect();if(tl.progress()===0)tl.play()}})},{threshold:.5});io.observe(svg)}
 }
+
 gsPlayer('pla',[
  [0,'<b>O tronco como uma caixa.</b> As faces da caixa são os planos de delimitação. A frente da caixa é o lado <b>cranial</b>.'],
  [1.2,'<b>Plano sagital mediano.</b> Único, passa no meio do animal e o divide em <b>antímeros</b> direito e esquerdo.'],
@@ -30,7 +31,7 @@ gsPlayer('pla',[
  const box=svg.querySelectorAll('#plaBox path');
  box.forEach(p=>{const L=p.getTotalLength();p.style.strokeDasharray=p.getAttribute('stroke-dasharray')?'6 6':L});
  const solid=[...box].filter(p=>!p.getAttribute('stroke-dasharray'));
- solid.forEach(p=>{const L=p.getTotalLength();tl.fromTo(p,{strokeDashoffset:L},{strokeDashoffset:0,duration:.8,ease:'power2.out'},0.1)});
+ solid.forEach(p=>{const L=p.getTotalLength();tl.fromTo(p,{strokeDashoffset:L,opacity:0},{strokeDashoffset:0,opacity:1,duration:.8,ease:'power2.out'},0.1)});
  tl.fromTo([...box].filter(p=>p.getAttribute('stroke-dasharray')),{opacity:0},{opacity:.5,duration:.4},0.6);
  const planes=[['#plaMed','#plaTMed',{x:-20,y:14}],['#plaSag','#plaTSag',{x:-20,y:14}],['#plaDor','#plaTDor',{x:0,y:-40}],['#plaTra','#plaTTra',{x:60,y:0}]];
  planes.forEach(([p,t,o],i)=>{const t0=1.2+i*1.4;
@@ -40,6 +41,6 @@ gsPlayer('pla',[
      .fromTo(p,{opacity:.6},{opacity:.18,duration:.4,immediateRender:false},t0+1.2)});
  tl.fromTo('#plaTEix',{opacity:0},{opacity:1,duration:.4},6.8);
  svg.querySelectorAll('#plaAx path').forEach((p,i)=>{const L=p.getTotalLength();p.style.strokeDasharray=L;
-   tl.fromTo(p,{strokeDashoffset:L},{strokeDashoffset:0,duration:.7,ease:'power2.out'},6.9+i*.35)});
+   tl.fromTo(p,{strokeDashoffset:L,opacity:0},{strokeDashoffset:0,opacity:1,duration:.7,ease:'power2.out'},6.9+i*.35)});
  tl.fromTo('#plaAxT text',{opacity:0},{opacity:1,duration:.3,stagger:.35},7.4);
 });

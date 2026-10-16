@@ -18,6 +18,7 @@ function gsPlayer(pre,steps,build){
   tl.progress(0);lab();
   if('IntersectionObserver' in window){const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){io.disconnect();if(tl.progress()===0)tl.play()}})},{threshold:.5});io.observe(svg)}
 }
+
 gsPlayer('poa',[
  [0,'<b>Estratificação, por fora.</b> A pele e a tela subcutânea envolvem todo o tronco.'],
  [1.0,'<b>Músculos e costelas.</b> A parede do tórax é feita de músculos e do esqueleto costal: mais camadas sobrepostas.'],
@@ -32,7 +33,7 @@ gsPlayer('poa',[
    .fromTo('#poaMus',{opacity:0,scale:1.12,...pop},{opacity:1,scale:1,duration:.8,ease:'power3.out'},1.0)
    .fromTo('#poaT6',{opacity:0},{opacity:1,duration:.3},1.4);
  svg.querySelectorAll('#poaRib path').forEach((p,i)=>{const L=p.getTotalLength();p.style.strokeDasharray=L;
-   tl.fromTo(p,{strokeDashoffset:L},{strokeDashoffset:0,duration:.7,ease:'power2.out'},1.5+i*.15)});
+   tl.fromTo(p,{strokeDashoffset:L,opacity:0},{strokeDashoffset:0,opacity:1,duration:.7,ease:'power2.out'},1.5+i*.15)});
  tl.fromTo('#poaVert',{opacity:0,y:-30},{opacity:1,y:0,duration:.6,ease:'back.out(1.6)'},2.2)
    .fromTo('#poaMed',{scale:0,...pop},{scale:1,duration:.5,ease:'back.out(2)'},2.7)
    .fromTo('#poaT1',{opacity:0},{opacity:1,duration:.3},2.8)

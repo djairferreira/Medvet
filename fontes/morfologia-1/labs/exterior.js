@@ -18,6 +18,7 @@ function gsPlayer(pre,steps,build){
   tl.progress(0);lab();
   if('IntersectionObserver' in window){const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){io.disconnect();if(tl.progress()===0)tl.play()}})},{threshold:.5});io.observe(svg)}
 }
+
 const exaSeq=[
  ['cb','Cabeça','<b>Cabeça.</b> Crânio (frontal, parietal, temporal) e face (nasal, orbitária, oral, bucal, mandibular, massetérica). Na cabeça, os termos são rostral e caudal.'],
  ['pc','Pescoço','<b>Pescoço.</b> Regiões dorsal (crina), lateral com o <b>sulco jugular</b> e ventral (traqueal). Local de coleta de sangue e de injeção intramuscular.'],

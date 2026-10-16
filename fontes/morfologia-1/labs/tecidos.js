@@ -18,24 +18,7 @@ function gsPlayer(pre,steps,build){
   tl.progress(0);lab();
   if('IntersectionObserver' in window){const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){io.disconnect();if(tl.progress()===0)tl.play()}})},{threshold:.5});io.observe(svg)}
 }
-gsPlayer(pre,steps,build){
-  const svg=$('#'+pre+'Svg');if(!svg||!window.gsap)return;
-  const tl=window.gsap.timeline({paused:true});build(svg,tl);
-  const out=$('#'+pre+'Out'),rng=$('#'+pre+'Rng'),play=$('#'+pre+'Play'),pause=$('#'+pre+'Pause'),rst=$('#'+pre+'Reset');
-  let last=-1;
-  const lab=()=>{const t=tl.time();let k=0;steps.forEach((s,i)=>{if(t>=s[0]-1e-3)k=i});
-    if(out&&k!==last){last=k;out.innerHTML=`<span class="mono" style="color:var(--muted)">Etapa ${k+1} de ${steps.length}</span> · ${steps[k][1]}`}
-    if(rng&&document.activeElement!==rng)rng.value=tl.progress().toFixed(3)};
-  tl.eventCallback('onUpdate',lab);
-  if(play)play.addEventListener('click',()=>{if(tl.progress()>=1)tl.restart();else tl.play()});
-  if(pause)pause.addEventListener('click',()=>tl.pause());
-  if(rst)rst.addEventListener('click',()=>{tl.pause(0);lab()});
-  if(rng)rng.addEventListener('input',()=>{tl.pause();tl.progress(+rng.value);lab()});
-  const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
-  if(reduced){tl.progress(1);lab();return}
-  tl.progress(0);lab();
-  if('IntersectionObserver' in window){const io=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){io.disconnect();if(tl.progress()===0)tl.play()}})},{threshold:.5});io.observe(svg)}
-}
+
 gsPlayer('teca',[
  [0,'<b>Simples pavimentoso.</b> Uma camada de células achatadas, núcleo achatado. Ideal para trocas: endotélio, mesotélio, alvéolos.'],
  [1.6,'<b>Simples cúbico.</b> Altura igual à largura, núcleo redondo e central: túbulos renais, folículos da tireoide, ductos.'],
