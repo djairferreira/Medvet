@@ -11,7 +11,7 @@ const G=window.gsap;
   function outer(g,k){ // vista externa, centro (150,150)
     if(k==='bov'){[[-55,-75],[0,-90],[55,-70],[-75,-20],[-20,-30],[40,-20],[-70,35],[-15,25],[45,35],[-45,85],[15,90]].forEach(([x,y])=>E('circle',{cx:150+x,cy:150+y,r:34,fill:'var(--eosin-soft)',stroke:'var(--eosin)','stroke-width':3},g));}
     else if(k==='mar'){for(let i=0;i<7;i++)for(let j=0;j<6;j++){const x=95+j*22+(i%2)*11,y=70+i*25;E('circle',{cx:x,cy:y,r:12,fill:'var(--eosin-soft)',stroke:'var(--eosin)','stroke-width':2},g)}}
-    else if(k==='ave'){[[-95,40],[-5,48],[95,52]].forEach(([y,h],i)=>E('ellipse',{cx:150,cy:150+y,rx:i===1?38:52,ry:h,fill:'var(--eosin-soft)',stroke:'var(--eosin)','stroke-width':3},g));}
+    else if(k==='ave'){[[-90,36],[-10,42],[78,46]].forEach(([y,h],i)=>E('ellipse',{cx:150,cy:150+y,rx:i===1?38:52,ry:h,fill:'var(--eosin-soft)',stroke:'var(--eosin)','stroke-width':3},g));}
     else if(k==='equ'){shape(g,HEART,150,150,110,110,'var(--eosin-soft)','var(--eosin)');}
     else if(k==='sui'){shape(g,BEAN,150,150,120,85,'var(--eosin-soft)','var(--eosin)');}
     else shape(g,BEAN,150,150,95,115,'var(--eosin-soft)','var(--eosin)');
@@ -35,8 +35,8 @@ const G=window.gsap;
       for(let i=0;i<7;i++)for(let j=0;j<5;j++){const x=cx-110+j*24+(i%2)*12,y=75+i*25;E('circle',{cx:x,cy:y,r:12,fill:'var(--eosin-soft)',stroke:'var(--eosin)','stroke-width':2},g);E('circle',{cx:x,cy:y,r:5,fill:'var(--hema)'},g);line(g,`M${x+6},${y} L${cx+40},${cy}`,'var(--amber)',1.5)}
       line(g,`M${cx+40},${cy} L${cx+130},${cy}`,'var(--amber)',7);
     }else if(k==='ave'){
-      [[-95,40],[-5,48],[95,52]].forEach(([y,h],i)=>{E('ellipse',{cx:cx-20,cy:cy+y,rx:i===1?38:52,ry:h,fill:'var(--eosin-soft)',stroke:'var(--eosin)','stroke-width':3},g);for(let n=-1;n<=1;n++)E('path',{d:`M${cx-30+n*14},${cy+y-10} l8,22 l-16,0Z`,fill:'var(--hema)'},g)});
-      line(g,`M${cx+45},${cy-130} C${cx+35},${cy-40} ${cx+50},${cy+60} ${cx+40},${cy+150}`,'var(--amber)',6);
+      [[-90,36],[-10,42],[78,46]].forEach(([y,h],i)=>{E('ellipse',{cx:cx-20,cy:cy+y,rx:i===1?38:52,ry:h,fill:'var(--eosin-soft)',stroke:'var(--eosin)','stroke-width':3},g);for(let n=-1;n<=1;n++)E('path',{d:`M${cx-30+n*14},${cy+y-10} l8,22 l-16,0Z`,fill:'var(--hema)'},g)});
+      line(g,`M${cx+45},${cy-130} C${cx+35},${cy-40} ${cx+50},${cy+60} ${cx+40},${cy+128}`,'var(--amber)',6);
     }
   }
   const D={
@@ -66,7 +66,7 @@ const G=window.gsap;
   E('path',{d:'M20,125 L580,125 L580,262 L20,262Z',fill:'var(--panel)'},svg);
   E('path',{d:'M170,125 L430,125 L300,258Z',fill:'var(--hema-soft)',stroke:'var(--hema)','stroke-width':2},svg);
   E('path',{d:'M20,125 L120,125 L20,230Z M480,125 L580,125 L580,230Z',fill:'var(--hema-soft)',stroke:'var(--hema)','stroke-width':2},svg);
-  T(svg,40,56,'Córtex',{fs:18,a:'start',fill:'var(--muted)'});T(svg,40,154,'Medula',{fs:18,a:'start',fill:'var(--muted)'});
+  T(svg,306,82,"Córtex",{fs:18,fill:"var(--muted)"});T(svg,575,250,"Medula",{fs:18,a:"end",fill:"var(--muted)"});
   const P=(d,w)=>E('path',{d,fill:'none',stroke:'var(--bad)','stroke-width':w,'stroke-linecap':'round','stroke-linejoin':'round'},svg);
   const ren=P('M590,300 L300,300',10);
   const il=[P('M300,300 C210,290 150,220 145,125',7),P('M300,300 C390,290 450,220 455,125',7)];
@@ -75,7 +75,7 @@ const G=window.gsap;
   const ilob=xs.map(x=>P(`M${x},125 L${x},42`,4));
   const glo=[];xs.forEach(x=>[60,95].forEach(y=>glo.push(E('circle',{cx:x+12,cy:y,r:9,fill:'var(--bad)',stroke:'var(--bad-soft)','stroke-width':2},svg))));
   const vr=[200,260,340,400].map(x=>E('path',{d:`M${x+12},104 L${x+12},235 Q${x+22},250 ${x+32},235 L${x+32},118`,fill:'none',stroke:'var(--sky)','stroke-width':4,'stroke-linecap':'round'},svg));
-  const lab=[[440,292,'a. renal'],[200,250,'interlobar'],[22,150,'arqueada'],[150,24,'interlobular'],[470,24,'glomérulos'],[300,280,'vasa recta']].map(([x,y,s],i)=>T(svg,x,y,s,{fs:18,a:i===2?'start':'middle',fill:i===5?'var(--sky)':'var(--ink)'}));
+  const lab=[[440,292,'a. renal'],[200,250,'interlobar'],[215,152,"arqueada"],[150,24,'interlobular'],[470,24,'glomérulos'],[300,280,'vasa recta']].map(([x,y,s],i)=>T(svg,x,y,s,{fs:18,a:"middle",fill:i===5?'var(--sky)':'var(--ink)'}));
   const dash=el=>{const L=el.getTotalLength();el.style.strokeDasharray=L;return L};
   const tl=G.timeline({paused:true});
   const draw=(els,t,dur)=>{els.forEach(e=>{const L=dash(e);tl.fromTo(e,{strokeDashoffset:L},{strokeDashoffset:0,duration:dur,ease:'power1.inOut'},t)})};
