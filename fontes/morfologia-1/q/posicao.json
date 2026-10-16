@@ -1,94 +1,6 @@
 [
  {
   "c": "posicao",
-  "q": "Na cabeça, o termo para “em direção ao focinho” é:",
-  "o": [
-   "Rostral",
-   "Cranial",
-   "Dorsal",
-   "Proximal"
-  ],
-  "e": "A cabeça já é o extremo cranial do corpo; dentro dela usa-se rostral (focinho) e caudal."
- },
- {
-  "c": "posicao",
-  "q": "O plano que divide o animal em antímeros direito e esquerdo é o:",
-  "o": [
-   "Sagital mediano",
-   "Dorsal",
-   "Transversal",
-   "Sagital paramediano"
-  ],
-  "e": "Planos sagitais paralelos a ele não dividem em metades iguais."
- },
- {
-  "c": "posicao",
-  "q": "A face de trás do metatarso é chamada de:",
-  "o": [
-   "Plantar",
-   "Palmar",
-   "Caudal",
-   "Ventral"
-  ],
-  "e": "Palmar é só no membro torácico (do carpo para baixo)."
- },
- {
-  "c": "posicao",
-  "q": "Do carpo para baixo, a face da frente do membro é chamada de:",
-  "o": [
-   "Dorsal",
-   "Cranial",
-   "Rostral",
-   "Ventral"
-  ],
-  "e": "Acima do carpo/tarso usa-se cranial e caudal; abaixo, dorsal e palmar/plantar."
- },
- {
-  "c": "posicao",
-  "q": "Em ruminantes, a face do dedo voltada para o eixo entre o 3º e o 4º dedos é a face:",
-  "o": [
-   "Axial",
-   "Abaxial",
-   "Medial",
-   "Palmar"
-  ],
-  "e": "A face oposta, voltada para fora, é a abaxial."
- },
- {
-  "c": "posicao",
-  "q": "Os termos “superior” e “inferior” são usados em anatomia veterinária apenas para:",
-  "o": [
-   "Lábios e pálpebras",
-   "Membros e dedos",
-   "Vértebras e costelas",
-   "Tronco e pescoço"
-  ],
-  "e": "No resto do corpo usam-se dorsal, ventral, cranial, caudal."
- },
- {
-  "c": "posicao",
-  "q": "O plano paralelo ao dorso, que separa uma parte dorsal de uma ventral, é o plano:",
-  "o": [
-   "Dorsal (frontal)",
-   "Sagital",
-   "Transversal",
-   "Mediano"
-  ],
-  "e": "O transversal corta perpendicularmente ao eixo longo, “em fatias”."
- },
- {
-  "c": "posicao",
-  "q": "No membro, a estrutura mais próxima do tronco é:",
-  "o": [
-   "Proximal",
-   "Distal",
-   "Medial",
-   "Rostral"
-  ],
-  "e": "Distal é a mais afastada, em direção ao casco ou à unha."
- },
- {
-  "c": "posicao",
   "q": "Na posição anatômica, o quadrúpede está:",
   "o": [
    "Em estação, com os quatro membros apoiados e a cabeça erguida",
@@ -97,17 +9,6 @@
    "Sentado sobre os membros pélvicos, com o tronco erguido"
   ],
   "e": "Posição de alerta: membros estendidos, pescoço erguido, olhar no horizonte."
- },
- {
-  "c": "posicao",
-  "q": "“Medial” significa:",
-  "o": [
-   "Mais perto do plano mediano",
-   "Mais longe do plano mediano",
-   "Em direção ao dorso",
-   "Em direção à cauda"
-  ],
-  "e": "Lateral é o oposto: mais longe do plano mediano."
  },
  {
   "c": "posicao",
@@ -152,204 +53,6 @@
    "Ser referidos à posição do cirurgião"
   ],
   "e": "Os termos de direção sempre partem da posição anatômica, como se o animal estivesse em pé, independentemente de como ele esteja posicionado."
- },
- {
-  "c": "posicao",
-  "q": "Diferentemente do plano sagital mediano, que é único, os planos sagitais (paramedianos) são:",
-  "o": [
-   "Todos os planos paralelos ao sagital mediano",
-   "Os planos perpendiculares ao eixo longo do corpo",
-   "Os planos paralelos ao dorso",
-   "Os planos que passam pelo eixo laterolateral"
-  ],
-  "e": "Plano sagital é qualquer plano paralelo ao mediano; o mediano é o único que divide o corpo em antímeros."
- },
- {
-  "c": "posicao",
-  "q": "Ao serrar o casco de um equino em fatias perpendiculares ao eixo longo do dedo, obtêm-se cortes no plano:",
-  "o": [
-   "Transversal",
-   "Dorsal",
-   "Sagital",
-   "Sagital mediano"
-  ],
-  "e": "O plano transversal é perpendicular ao eixo longo do corpo ou do membro, cortando-o em fatias."
- },
- {
-  "c": "posicao",
-  "q": "O plano dorsal também é conhecido como plano:",
-  "o": [
-   "Frontal",
-   "Paramediano",
-   "Transversal",
-   "Horizontal mediano"
-  ],
-  "e": "O plano dorsal, paralelo ao dorso, corresponde ao plano frontal."
- },
- {
-  "c": "posicao",
-  "q": "O eixo longitudinal do corpo do quadrúpede une:",
-  "o": [
-   "O centro do plano cranial ao centro do plano caudal",
-   "O centro do plano dorsal ao centro do plano ventral",
-   "O lado direito ao lado esquerdo",
-   "A cernelha ao casco do membro torácico"
-  ],
-  "e": "O eixo longitudinal corresponde ao comprimento do animal, de cranial a caudal."
- },
- {
-  "c": "posicao",
-  "q": "O eixo que une o lado direito ao lado esquerdo do animal é o eixo:",
-  "o": [
-   "Laterolateral (transversal)",
-   "Sagital (dorsoventral)",
-   "Longitudinal",
-   "Proximodistal"
-  ],
-  "e": "O eixo laterolateral atravessa o corpo de um antímero ao outro."
- },
- {
-  "c": "posicao",
-  "q": "O eixo sagital, também chamado dorsoventral, une:",
-  "o": [
-   "O centro do plano dorsal ao centro do plano ventral",
-   "O centro do plano cranial ao centro do plano caudal",
-   "O lado direito ao lado esquerdo",
-   "A cabeça à cauda pela coluna vertebral"
-  ],
-  "e": "O eixo sagital corre no sentido dorsoventral, perpendicular ao longitudinal."
- },
- {
-  "c": "posicao",
-  "q": "Na cabeça, o olho em relação às narinas está em posição:",
-  "o": [
-   "Caudal",
-   "Cranial",
-   "Rostral",
-   "Proximal"
-  ],
-  "e": "Na cabeça usa-se rostral (para o focinho) e caudal; o olho fica mais longe do focinho, portanto caudal."
- },
- {
-  "c": "posicao",
-  "q": "A cernelha, em relação à garupa, está em posição:",
-  "o": [
-   "Cranial",
-   "Caudal",
-   "Rostral",
-   "Proximal"
-  ],
-  "e": "No tronco, a direção à cabeça é cranial; a cernelha fica mais perto da cabeça que a garupa."
- },
- {
-  "c": "posicao",
-  "q": "O esterno, em relação às vértebras torácicas, está em posição:",
-  "o": [
-   "Ventral",
-   "Dorsal",
-   "Caudal",
-   "Distal"
-  ],
-  "e": "O esterno fica em direção ao ventre, portanto ventral às vértebras."
- },
- {
-  "c": "posicao",
-  "q": "No membro torácico, o carpo em relação ao cotovelo está em posição:",
-  "o": [
-   "Distal",
-   "Proximal",
-   "Caudal",
-   "Ventral"
-  ],
-  "e": "Nos membros usa-se proximal/distal; o carpo está mais longe do tronco que o cotovelo."
- },
- {
-  "c": "posicao",
-  "q": "A articulação do ombro está mais afastada do plano mediano que o esterno. Em relação ao esterno, ela está em posição:",
-  "o": [
-   "Lateral",
-   "Medial",
-   "Axial",
-   "Interna"
-  ],
-  "e": "Lateral significa mais longe do plano mediano; o esterno está no plano mediano e o ombro, afastado dele."
- },
- {
-  "c": "posicao",
-  "q": "A face do rádio voltada para a frente do animal é chamada de face:",
-  "o": [
-   "Cranial",
-   "Dorsal",
-   "Rostral",
-   "Palmar"
-  ],
-  "e": "Acima do carpo, a face da frente do membro é cranial; dorsal só passa a valer do carpo para baixo."
- },
- {
-  "c": "posicao",
-  "q": "Por que um atlas descreve o úmero em “visão cranial” e “visão caudal”, mas o metacarpo em “visão dorsal” e “visão palmar”?",
-  "o": [
-   "Porque a troca de termos ocorre no carpo",
-   "Porque o metacarpo fica no plano dorsal do corpo",
-   "Porque o úmero é um osso do tronco, e não do membro",
-   "Porque palmar e caudal são sinônimos em qualquer nível"
-  ],
-  "e": "Do carpo para baixo, a face da frente é dorsal e a de trás é palmar; acima dele, cranial e caudal."
- },
- {
-  "c": "posicao",
-  "q": "Uma ferida na face de trás da canela do membro torácico de um equino é descrita como localizada na região metacárpica:",
-  "o": [
-   "Palmar",
-   "Plantar",
-   "Caudal",
-   "Ventral"
-  ],
-  "e": "Do carpo para baixo, a face de trás do membro torácico é palmar; plantar é reservado ao membro pélvico."
- },
- {
-  "c": "posicao",
-  "q": "No tronco, “dorsal” indica direção às costas. Na mão e no pé, “dorsal” indica:",
-  "o": [
-   "A face da frente, oposta à palmar ou plantar",
-   "A face voltada para o plano mediano do corpo",
-   "A face voltada para o solo durante o apoio",
-   "A face de trás do membro, oposta à cranial"
-  ],
-  "e": "É a pegadinha do termo: abaixo do carpo e do tarso, dorsal é a face da frente."
- },
- {
-  "c": "posicao",
-  "q": "Num bovino, a parede da unha do dedo IV voltada para longe do espaço interdigital é a face:",
-  "o": [
-   "Abaxial",
-   "Axial",
-   "Medial",
-   "Palmar"
-  ],
-  "e": "O eixo do membro passa entre o 3º e o 4º dedos; a face oposta a esse eixo é abaxial."
- },
- {
-  "c": "posicao",
-  "q": "Em anatomia veterinária, os termos “interno” e “externo” são reservados para:",
-  "o": [
-   "Cavidades e órgãos ocos",
-   "Lábios e pálpebras",
-   "Faces dos dedos de ruminantes",
-   "Estruturas dos membros abaixo do carpo"
-  ],
-  "e": "Interno/externo descrevem paredes de cavidades e órgãos ocos; superior/inferior ficam para lábios e pálpebras."
- },
- {
-  "c": "posicao",
-  "q": "Qual expressão usa corretamente a terminologia anatômica veterinária?",
-  "o": [
-   "Pálpebra superior",
-   "Face superior da escápula",
-   "Borda inferior da mandíbula",
-   "Parte superior do pescoço"
-  ],
-  "e": "Superior e inferior só se usam para lábios e pálpebras; nos demais casos usa-se dorsal/ventral, proximal/distal etc."
  },
  {
   "c": "posicao",
@@ -452,13 +155,310 @@
  },
  {
   "c": "posicao",
-  "q": "O termo “rostral” é usado:",
+  "q": "Na anatomia humana, “anterior” no tronco corresponde, no quadrúpede, a:",
   "o": [
-   "Apenas na cabeça, em direção ao focinho",
-   "Em todo o tronco, em direção à cabeça",
-   "Nos membros, em direção ao tronco",
-   "Nos dedos, em direção ao eixo do membro"
+   "Ventral",
+   "Dorsal",
+   "Cranial",
+   "Proximal"
   ],
-  "e": "Rostral só se aplica à cabeça, que já é o extremo cranial; no tronco usa-se cranial."
+  "e": "O abdome humano é anterior; o do cão é ventral."
+ },
+ {
+  "c": "posicao",
+  "q": "O termo humano “superior”, aplicado ao tronco, equivale no quadrúpede a:",
+  "o": [
+   "Cranial",
+   "Dorsal",
+   "Ventral",
+   "Distal"
+  ],
+  "e": "No humano ereto a cabeça é superior; no quadrúpede, cranial."
+ },
+ {
+  "c": "posicao",
+  "q": "Um cão está em decúbito lateral direito. Isso significa que:",
+  "o": [
+   "O lado direito está apoiado na mesa",
+   "O lado direito está voltado para cima",
+   "O dorso está apoiado na mesa",
+   "O ventre está apoiado na mesa"
+  ],
+  "e": "O decúbito é nomeado pela face que toca a superfície."
+ },
+ {
+  "c": "posicao",
+  "q": "Em decúbito dorsal, a parede abdominal do animal continua sendo chamada de:",
+  "o": [
+   "Ventral",
+   "Dorsal",
+   "Superior",
+   "Anterior"
+  ],
+  "e": "Os termos não mudam com a posição do animal no espaço."
+ },
+ {
+  "c": "posicao",
+  "q": "Qual expressão está correta em anatomia veterinária?",
+  "o": [
+   "Região cranial do abdome",
+   "Porção anterior do abdome",
+   "Face superior do dorso",
+   "Membro inferior direito"
+  ],
+  "e": "Anterior, superior e inferior (exceto lábios e pálpebras) não se usam no quadrúpede."
+ },
+ {
+  "c": "posicao",
+  "q": "O mediastino separa:",
+  "o": [
+   "As duas cavidades pleurais",
+   "A cavidade torácica da abdominal",
+   "O peritônio parietal do visceral",
+   "A cavidade abdominal da pélvica"
+  ],
+  "e": "O mediastino é o septo mediano do tórax, entre as pleuras direita e esquerda."
+ },
+ {
+  "c": "posicao",
+  "q": "A serosa que reveste a cavidade abdominal e seus órgãos é o:",
+  "o": [
+   "Peritônio",
+   "Pericárdio",
+   "Pleura",
+   "Meninge"
+  ],
+  "e": "Pleura no tórax, pericárdio no coração, peritônio no abdome."
+ },
+ {
+  "c": "posicao",
+  "q": "Uma serosa é formada por:",
+  "o": [
+   "Mesotélio sobre tecido conjuntivo",
+   "Epitélio estratificado queratinizado",
+   "Cartilagem e periósteo",
+   "Músculo liso e mucosa"
+  ],
+  "e": "O mesotélio é um epitélio simples pavimentoso apoiado em conjuntivo."
+ },
+ {
+  "c": "posicao",
+  "q": "O folheto da serosa que recobre diretamente a superfície de um órgão é o folheto:",
+  "o": [
+   "Visceral",
+   "Parietal",
+   "Mediastinal",
+   "Adventicial"
+  ],
+  "e": "O parietal reveste a parede; o visceral, o órgão."
+ },
+ {
+  "c": "posicao",
+  "q": "Qual estrutura separa a cavidade torácica da abdominal nos mamíferos?",
+  "o": [
+   "Diafragma",
+   "Mediastino",
+   "Omento maior",
+   "Entrada da pelve"
+  ],
+  "e": "O diafragma, em cúpula, é o limite caudal do tórax."
+ },
+ {
+  "c": "posicao",
+  "q": "Nas aves, a cavidade corporal difere da dos mamíferos porque:",
+  "o": [
+   "Não há diafragma muscular separando tórax e abdome",
+   "Há duas cavidades pleurais completamente isoladas",
+   "O peritônio está ausente em toda a cavidade",
+   "Os pulmões ficam alojados na cavidade abdominal"
+  ],
+  "e": "Aves têm celoma sem diafragma muscular, com sacos aéreos."
+ },
+ {
+  "c": "posicao",
+  "q": "Por que pneumotórax no cão costuma ser bilateral, ao contrário do equino?",
+  "o": [
+   "O mediastino caudal do cão é fino e fenestrado",
+   "O cão não possui pleura visceral sobre os pulmões",
+   "O diafragma do cão é incompleto na porção dorsal",
+   "O cão tem apenas um pulmão funcional ao nascer"
+  ],
+  "e": "O mediastino delgado e fenestrado permite comunicação entre os lados."
+ },
+ {
+  "c": "posicao",
+  "q": "Na toracocentese do cão, a agulha é introduzida junto à borda cranial da costela porque:",
+  "o": [
+   "Vasos e nervo intercostais correm na borda caudal",
+   "A pleura é bem mais fina junto à borda cranial",
+   "O pulmão não alcança a borda cranial da costela",
+   "A borda caudal da costela é sempre cartilaginosa"
+  ],
+  "e": "O feixe vasculonervoso intercostal corre na borda caudal de cada costela."
+ },
+ {
+  "c": "posicao",
+  "q": "A cavidade craniana e o canal vertebral formam juntos o:",
+  "o": [
+   "Paquímero dorsal",
+   "Paquímero ventral",
+   "Antímero esquerdo",
+   "Metâmero cervical"
+  ],
+  "e": "O tubo dorsal (neural) contém encéfalo e medula."
+ },
+ {
+  "c": "posicao",
+  "q": "O território de pele inervado por um único nervo espinhal é chamado:",
+  "o": [
+   "Dermátomo",
+   "Miótomo",
+   "Esclerótomo",
+   "Antímero"
+  ],
+  "e": "Os dermátomos são a expressão cutânea da metameria."
+ },
+ {
+  "c": "posicao",
+  "q": "Do esclerótomo dos somitos derivam:",
+  "o": [
+   "Vértebras e costelas",
+   "Músculos do tronco",
+   "Derme do dorso",
+   "Rins e gônadas"
+  ],
+  "e": "Esclerótomo forma o esqueleto axial; miótomo, músculos; dermátomo, derme."
+ },
+ {
+  "c": "posicao",
+  "q": "Qual exemplo representa uma assimetria visceral nas aves domésticas?",
+  "o": [
+   "Só o ovário esquerdo se desenvolve",
+   "Apresentam dois corações separados",
+   "Os rins são órgãos ímpares e medianos",
+   "O baço é bilateral, um de cada lado"
+  ],
+  "e": "Na galinha, apenas o ovário e o oviduto esquerdos são funcionais."
+ },
+ {
+  "c": "posicao",
+  "q": "No bovino, o antímero esquerdo da cavidade abdominal é ocupado principalmente pelo:",
+  "o": [
+   "Rúmen",
+   "Fígado",
+   "Ceco",
+   "Abomaso"
+  ],
+  "e": "O rúmen enche quase todo o lado esquerdo do abdome do bovino."
+ },
+ {
+  "c": "posicao",
+  "q": "Para avaliar se uma alteração radiográfica no carpo de um potro é normal, compara-se com o membro contralateral. Isso usa o princípio da:",
+  "o": [
+   "Antimeria",
+   "Metameria",
+   "Paquimeria",
+   "Estratificação"
+  ],
+  "e": "A simetria bilateral permite usar o lado sadio como controle."
+ },
+ {
+  "c": "posicao",
+  "q": "Qual é o conteúdo da cavidade pélvica?",
+  "o": [
+   "Reto, bexiga e órgãos genitais internos",
+   "Coração, pulmões e os grandes vasos",
+   "Fígado, baço e a maior parte do estômago",
+   "Rins, adrenais e os ureteres proximais"
+  ],
+  "e": "A cavidade pélvica abriga a porção terminal dos tratos digestório, urinário e genital."
+ },
+ {
+  "c": "posicao",
+  "q": "Os rins são descritos como retroperitoneais porque:",
+  "o": [
+   "Ficam entre o peritônio parietal e a parede dorsal",
+   "Ficam dentro da cavidade pleural",
+   "São totalmente envolvidos por mesentério",
+   "Estão no canal vertebral"
+  ],
+  "e": "Órgãos retroperitoneais estão fora do saco peritoneal, junto à parede dorsal."
+ },
+ {
+  "c": "posicao",
+  "q": "Na abdominocentese do bovino, a punção é feita à direita da linha média ventral para:",
+  "o": [
+   "Evitar o rúmen, que ocupa o lado esquerdo",
+   "Atingir com segurança a cavidade pleural",
+   "Evitar a veia jugular externa do lado esquerdo",
+   "Alcançar diretamente o canal vertebral lombar"
+  ],
+  "e": "O lado esquerdo é dominado pelo rúmen."
+ },
+ {
+  "c": "posicao",
+  "q": "Na posição anatômica, a anatomia humana descreve as palmas das mãos voltadas para:",
+  "o": [
+   "A frente",
+   "Trás",
+   "O corpo",
+   "Baixo"
+  ],
+  "e": "Na posição anatômica humana, as palmas ficam voltadas anteriormente."
+ },
+ {
+  "c": "posicao",
+  "q": "O plano horizontal da anatomia humana corresponde, no quadrúpede, ao plano:",
+  "o": [
+   "Transversal",
+   "Dorsal",
+   "Sagital",
+   "Mediano"
+  ],
+  "e": "No quadrúpede, o corte em “fatias” perpendicular ao eixo longo é transversal."
+ },
+ {
+  "c": "posicao",
+  "q": "O “membro inferior” da anatomia humana corresponde, no quadrúpede, ao membro:",
+  "o": [
+   "Pélvico",
+   "Torácico",
+   "Caudal da cabeça",
+   "Anterior"
+  ],
+  "e": "Membros torácico e pélvico são os nomes veterinários."
+ },
+ {
+  "c": "posicao",
+  "q": "O espaço entre os folhetos parietal e visceral de uma serosa normalmente contém:",
+  "o": [
+   "Pequena quantidade de líquido lubrificante",
+   "Grande volume de sangue circulante",
+   "Ar sob pressão positiva constante",
+   "Tecido adiposo abundante e vascularizado"
+  ],
+  "e": "É um espaço virtual com líquido seroso que reduz o atrito."
+ },
+ {
+  "c": "posicao",
+  "q": "Os músculos intercostais e as artérias intercostais repetidos a cada espaço costal exemplificam a:",
+  "o": [
+   "Metameria",
+   "Antimeria",
+   "Paquimeria",
+   "Simetria radial"
+  ],
+  "e": "Estruturas repetidas segmentarmente ao longo do eixo = metameria."
+ },
+ {
+  "c": "posicao",
+  "q": "Numa toracotomia intercostal, as camadas atravessadas seguem a ordem:",
+  "o": [
+   "Pele, subcutâneo, músculos, pleura parietal",
+   "Pleura, músculos, subcutâneo, pele",
+   "Pele, pleura, músculos, subcutâneo",
+   "Subcutâneo, pele, pleura, músculos"
+  ],
+  "e": "A estratificação vai do externo para o interno até a serosa parietal."
  }
 ]

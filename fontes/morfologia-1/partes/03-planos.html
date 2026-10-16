@@ -2,14 +2,18 @@
   <div class="ch-head">
     <div class="ch-num">03</div>
     <div><span class="eyebrow">Unidade I · Morfologia animal e sistema tegumentar · 01.03 Planos de delimitação e secção do corpo animal</span><h2>Planos de delimitação e secção do corpo animal</h2></div>
-    <div class="ch-meta"><button class="done-btn" data-done="planos" aria-pressed="false">Marcar como estudado</button><span class="chip">~30 min</span></div>
+    <div class="ch-meta"><button class="done-btn" data-done="planos" aria-pressed="false">Marcar como estudado</button><span class="chip">~35 min</span></div>
   </div>
   <div class="col">
-    <p class="oneliner">PENDENTE</p>
+    <p class="oneliner">Para descrever onde fica qualquer estrutura de um animal, a anatomia usa planos imaginários que o atravessam, eixos que os unem e pares de termos direcionais que mudam conforme a região: cranial no tronco, rostral na cabeça, dorsal e palmar abaixo do carpo.</p>
     <div class="goals rv"><h4>Objetivos</h4><ul>
-      <li>PENDENTE</li></ul></div>
+      <li>Definir os planos mediano, sagital, dorsal e transversal e os eixos longitudinal, sagital e laterolateral.</li>
+      <li>Usar os pares de termos direcionais no tronco, na cabeça, nos membros e na cauda.</li>
+      <li>Explicar a troca de cranial/caudal para dorsal/palmar/plantar no carpo e no tarso e os termos axial e abaxial nos dedos.</li>
+      <li>Reconhecer o plano de secção de imagens de tomografia, ultrassonografia, necropsia e lâminas histológicas.</li></ul></div>
 
     <h3><span class="tag">3.1</span>Planos e eixos</h3>
+    <p>Imagine o animal em posição anatômica (cap. 4) dentro de uma caixa. Cada face da caixa é um <strong>plano de delimitação</strong>: plano cranial (à frente do focinho), caudal (atrás da cauda), dorsal (acima do dorso), ventral (abaixo dos cascos) e dois laterais. Os <strong>planos de secção</strong> são cortes imaginários que atravessam o animal, paralelos a essas faces. São eles que dão nome às imagens de tomografia, aos cortes de necropsia e às fatias de um atlas.</p>
     <div class="tbl"><table>
       <thead><tr><th>Plano</th><th>Como corta o corpo</th></tr></thead>
       <tbody>
@@ -26,6 +30,43 @@
         <tr><td><b>Laterolateral</b> (transversal)</td><td>O lado direito ao lado esquerdo</td></tr>
       </tbody></table></div>
 
+    <section class="labbox rv" aria-labelledby="plaTitle">
+      <header><div><span class="eyebrow">Animação</span><h4 id="plaTitle">Os quatro planos atravessando o tronco</h4></div>
+        <div class="ctrl" style="margin:0"><button class="btn" type="button" id="plaPlay">▶ Reproduzir</button><button class="tbtn" type="button" id="plaPause">⏸ Pausar</button><button class="tbtn" type="button" id="plaReset">↺ Reiniciar</button></div></header>
+      <div class="svgwrap"><svg id="plaSvg" viewBox="0 0 600 330" role="img" aria-label="Bloco representando o tronco atravessado pelos planos sagital mediano, sagital, dorsal e transversal e pelos três eixos">
+        <rect x="0" y="0" width="600" height="330" fill="var(--paper)"/>
+        <g id="plaBox" fill="none" stroke="var(--ink)" stroke-width="3" stroke-linejoin="round">
+          <path d="M150 260 L450 260 L450 140 L150 140 Z"/>
+          <path d="M150 140 L230 85 L530 85 L450 140"/>
+          <path d="M450 260 L530 205 L530 85"/>
+          <path d="M150 260 L230 205 L230 85" stroke-dasharray="6 6" opacity=".5"/>
+          <path d="M230 205 L530 205" stroke-dasharray="6 6" opacity=".5"/>
+        </g>
+        <polygon id="plaMed" points="190,232 490,232 490,112 190,112" fill="var(--eosin)" opacity=".55"/>
+        <polygon id="plaSag" points="168,248 468,248 468,128 168,128" fill="var(--amber)" opacity=".55"/>
+        <polygon id="plaDor" points="150,200 450,200 530,145 230,145" fill="var(--sky)" opacity=".55"/>
+        <polygon id="plaTra" points="320,260 320,140 400,85 400,205" fill="var(--ok)" opacity=".55"/>
+        <g font-size="20" font-weight="800" text-anchor="middle">
+          <text id="plaTMed" x="300" y="40" fill="var(--eosin)">Plano sagital mediano</text>
+          <text id="plaTSag" x="300" y="40" fill="var(--amber)">Plano sagital (paramediano)</text>
+          <text id="plaTDor" x="300" y="40" fill="var(--sky)">Plano dorsal</text>
+          <text id="plaTTra" x="300" y="40" fill="var(--ok)">Plano transversal</text>
+          <text id="plaTEix" x="300" y="40" fill="var(--ink)">Os três eixos</text>
+        </g>
+        <g fill="var(--muted)" font-size="18" font-weight="700"><text x="560" y="300" text-anchor="end">cranial →</text><text x="40" y="300">← caudal</text></g>
+        <g id="plaAx" stroke="var(--hema)" stroke-width="5" fill="none" stroke-linecap="round">
+          <path id="plaAx1" d="M110 172 L560 172"/>
+          <path id="plaAx2" d="M340 290 L340 60"/>
+          <path id="plaAx3" d="M300 245 L390 182"/>
+        </g>
+        <g id="plaAxT" font-size="18" font-weight="700" fill="var(--hema)">
+          <text x="565" y="166">longitudinal</text><text x="350" y="58">sagital</text><text x="398" y="186">laterolateral</text>
+        </g>
+      </svg></div>
+      <label class="sc-range"><span>Início</span><input type="range" id="plaRng" min="0" max="1" step="0.001" value="0" aria-label="Linha do tempo da animação"><span>Fim</span></label>
+      <div class="readout" id="plaOut" aria-live="polite"></div>
+    </section>
+
     <h3><span class="tag">3.2</span>Os termos, um a um</h3>
     <div class="cards">
       <div class="card"><span class="role">Tronco e pescoço</span><h5>Cranial × caudal</h5><p>Em direção à cabeça × em direção à cauda.</p></div>
@@ -39,6 +80,39 @@
     </div>
     <div class="note deep"><b>Aprofundamento</b><p>A troca de cranial/caudal para dorsal/palmar acontece exatamente no <b>carpo</b> (e dorsal/plantar no <b>tarso</b>). Do braço até o antebraço, a face da frente do membro é <b>cranial</b>; do carpo para baixo, a mesma face passa a se chamar <b>dorsal</b>. Por isso o atlas descreve o metacarpo em “visão dorsal” e “visão palmar”, mas o úmero em “visão cranial” e “visão caudal”.</p></div>
     <div class="note trap"><b>Pegadinha</b><p>“Dorsal” tem dois sentidos: no tronco é <b>em direção às costas</b>; na mão e no pé é <b>a face da frente</b>. A face de trás do pé nunca é “palmar”: é <b>plantar</b>.</p></div>
+
+    <h3><span class="tag">3.3</span>Termos por região: cabeça, membros, cauda e órgãos</h3>
+    <p>Os mesmos pares de termos ganham nomes especiais em algumas regiões, porque o “para a frente” e o “para trás” mudam de sentido conforme a parte do corpo.</p>
+    <div class="tbl min"><table>
+      <thead><tr><th>Região</th><th>Termos usados</th><th>Exemplo</th></tr></thead>
+      <tbody>
+        <tr><td><b>Cabeça</b></td><td><b>Rostral</b> (em direção ao focinho) × caudal; dorsal × ventral; medial × lateral. <b>Oral</b> e <b>aboral</b> para estruturas em torno da boca</td><td>“Os olhos estão rostrais às orelhas”; “o forame infraorbitário fica rostral ao olho”</td></tr>
+        <tr><td><b>Dentes</b></td><td><b>Vestibular</b> (face voltada para lábios e bochechas: labial ou bucal) × <b>lingual</b> (ou palatina, no superior); <b>mesial</b> (em direção ao meio da arcada) × <b>distal</b>; <b>oclusal</b> (face de mastigação)</td><td>“Fratura na face vestibular do 4º pré-molar superior”</td></tr>
+        <tr><td><b>Pescoço e tronco</b></td><td>Cranial × caudal; dorsal × ventral; medial × lateral</td><td>“A cernelha é cranial à garupa”</td></tr>
+        <tr><td><b>Membros, até o carpo/tarso</b></td><td><b>Proximal</b> × <b>distal</b>; <b>cranial</b> × <b>caudal</b>; medial × lateral</td><td>“Face cranial do rádio”; “a tuberosidade está na extremidade proximal da tíbia”</td></tr>
+        <tr><td><b>Membro torácico, do carpo para baixo</b></td><td><b>Dorsal</b> (frente) × <b>palmar</b> (trás); proximal × distal</td><td>“Ferida na face palmar do metacarpo”</td></tr>
+        <tr><td><b>Membro pélvico, do tarso para baixo</b></td><td><b>Dorsal</b> × <b>plantar</b>; proximal × distal</td><td>“Tendão flexor na face plantar do metatarso”</td></tr>
+        <tr><td><b>Dedos de ruminantes e suínos</b></td><td><b>Axial</b> (voltado para o eixo entre os dedos III e IV) × <b>abaxial</b></td><td>“Úlcera na face axial da unha lateral”</td></tr>
+        <tr><td><b>Dedos de carnívoros</b></td><td>Axial e abaxial em relação ao eixo que passa pelo dedo III (eixo funcional entre III e IV)</td><td>Usado em radiologia das falanges</td></tr>
+        <tr><td><b>Cauda</b></td><td>Proximal (base, junto ao tronco) × distal (ponta); dorsal × ventral</td><td>“Venopunção na veia coccígea ventral, na região proximal da cauda”</td></tr>
+        <tr><td><b>Lábios e pálpebras</b></td><td><b>Superior</b> × <b>inferior</b> (exceção aceita)</td><td>“Pálpebra inferior”</td></tr>
+        <tr><td><b>Cavidades e órgãos ocos</b></td><td><b>Interno</b> × <b>externo</b>; <b>superficial</b> × <b>profundo</b> para distância da superfície do corpo</td><td>“Lâmina interna do osso frontal”; “músculo glúteo profundo”</td></tr>
+      </tbody></table></div>
+    <div class="note mem"><b>Memorize</b><p>Na cabeça não existe “cranial”: tudo já é cranial. Use <b>rostral</b>. No membro, “cranial/caudal” vale até o antebraço e a perna; do <b>carpo</b> e do <b>tarso</b> para baixo, use <b>dorsal</b> e <b>palmar</b>/<b>plantar</b>.</p></div>
+    <div class="note trap"><b>Pegadinha</b><p>Os termos de direção são <b>relativos</b>: o casco é <b>distal</b> em relação ao carpo, mas o carpo é distal em relação ao cotovelo. Sempre compare duas estruturas. E “distal” no dente (afastado do meio da arcada) não tem relação com “distal” no membro (afastado do tronco).</p></div>
+
+    <h3><span class="tag">3.4</span>Secções na prática: imagem, necropsia e lâmina</h3>
+    <p>Saber o plano de uma imagem é o primeiro passo para interpretá-la. A mesma estrutura muda completamente de aspecto conforme o corte.</p>
+    <div class="cards">
+      <div class="card"><span class="role">Tomografia e ressonância</span><h5>Três janelas padrão</h5><p>Cortes <b>transversais</b> (axiais) são o padrão de aquisição; o computador reconstrói os planos <b>dorsal</b> e <b>sagital</b>. Na medicina humana o plano dorsal se chama “coronal”; em veterinária prefira <b>dorsal</b>.</p></div>
+      <div class="card"><span class="role">Radiografia</span><h5>Projeções pelo trajeto do feixe</h5><p>A projeção recebe o nome de onde o feixe <b>entra</b> e de onde <b>sai</b>: <b>laterolateral</b>, <b>ventrodorsal</b> (cão em decúbito dorsal), <b>dorsopalmar</b> no casco do cavalo, <b>craniocaudal</b> no antebraço. As oblíquas combinam termos: dorsolateral-palmaromedial.</p></div>
+      <div class="card"><span class="role">Ultrassonografia</span><h5>Corte longitudinal × transversal</h5><p>O ultrassonografista gira o transdutor para obter o órgão em <b>eixo longo</b> (longitudinal) e <b>eixo curto</b> (transversal). O tendão flexor digital superficial do equino é avaliado nos dois.</p></div>
+      <div class="card"><span class="role">Necropsia</span><h5>Abrir e fatiar</h5><p>Encéfalo cortado em fatias transversais; coração aberto seguindo o fluxo; rim cortado no plano dorsal (mostra córtex, medula e pelve); osso longo serrado no plano sagital para avaliar a medula e a placa de crescimento.</p></div>
+      <div class="card"><span class="role">Histologia</span><h5>Corte longitudinal × transversal</h5><p>Um túbulo cortado transversalmente aparece como um <b>anel</b>; longitudinalmente, como um <b>canal</b>; obliquamente, como uma elipse. A fibra muscular em corte transversal é um polígono com núcleo periférico; em longitudinal mostra as estrias.</p></div>
+      <div class="card"><span class="role">Cirurgia</span><h5>Incisões</h5><p>Celiotomia <b>mediana ventral</b> (pela linha alba), <b>paramediana</b>, <b>pelo flanco</b> (paralombar, transversal ou vertical) e incisões que respeitam as linhas de tensão da pele.</p></div>
+    </div>
+    <div class="note clin"><b>Na clínica</b><p>Um laudo radiográfico como “projeção dorsopalmar do boleto do membro torácico direito” só faz sentido para quem domina os termos: o feixe entrou pela face dorsal, saiu pela palmar, e a região está distal ao carpo. Errar o termo pode levar a cirurgia ao lado errado.</p></div>
+    <div class="note lab"><b>Na prática</b><p>No laboratório de anatomia, ao receber uma peça seccionada, descubra o plano antes de procurar estruturas: há dois antímeros iguais lado a lado (transversal ou dorsal)? Aparece o comprimento todo da coluna (sagital)? Os dois olhos aparecem no mesmo corte (dorsal ou transversal da cabeça)?</p></div>
 
     <div class="quiz" data-quiz="planos"></div>
   </div>

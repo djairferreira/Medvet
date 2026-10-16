@@ -2,12 +2,16 @@
   <div class="ch-head">
     <div class="ch-num">01</div>
     <div><span class="eyebrow">Unidade I · Morfologia animal e sistema tegumentar · 01.01 Tecidos fundamentais do corpo animal</span><h2>Tecidos fundamentais do corpo animal</h2></div>
-    <div class="ch-meta"><button class="done-btn" data-done="tecidos" aria-pressed="false">Marcar como estudado</button><span class="chip">~30 min</span></div>
+    <div class="ch-meta"><button class="done-btn" data-done="tecidos" aria-pressed="false">Marcar como estudado</button><span class="chip">~40 min</span></div>
   </div>
   <div class="col">
-    <p class="oneliner">PENDENTE</p>
+    <p class="oneliner">Todo órgão do animal é montado com só quatro tecidos (epitelial, conjuntivo, muscular e nervoso), que se distinguem pela proporção entre células e matriz extracelular. Reconhecê-los, classificá-los e saber como uma peça vira lâmina é a base de toda a morfologia e da histopatologia.</p>
     <div class="goals rv"><h4>Objetivos</h4><ul>
-      <li>PENDENTE</li></ul></div>
+      <li>Definir tecido e comparar os quatro tecidos fundamentais quanto a células, matriz, vascularização e função.</li>
+      <li>Classificar os epitélios de revestimento e as glândulas, com exemplos em órgãos de animais domésticos.</li>
+      <li>Descrever fibras, substância fundamental, células e tipos de tecido conjuntivo.</li>
+      <li>Relacionar a origem embrionária dos tecidos com sua organização nos órgãos.</li>
+      <li>Explicar as etapas de preparo de uma lâmina histológica e os cuidados na coleta veterinária.</li></ul></div>
 
     <h3><span class="tag">1.1</span>Os quatro tecidos</h3>
     <p>Um <strong>tecido</strong> é um conjunto de células semelhantes e da <strong>matriz extracelular</strong> que elas produzem, trabalhando juntas numa função. O que distingue os quatro tecidos é a proporção entre células e matriz e o tipo de ligação entre as células.</p>
@@ -29,12 +33,28 @@
         <tr><td><b>Simples cúbico</b></td><td>Uma camada de células cúbicas, núcleo redondo central</td><td>Túbulos renais, folículos da <b>tireoide</b>, ductos de glândulas</td></tr>
         <tr><td><b>Simples cilíndrico (prismático)</b></td><td>Uma camada de células altas; pode ter microvilosidades e células caliciformes</td><td><b>Intestino</b>, estômago, útero</td></tr>
         <tr><td><b>Pseudoestratificado cilíndrico ciliado</b></td><td>Uma camada só, mas núcleos em alturas diferentes; cílios e células caliciformes</td><td><b>Traqueia</b> e brônquios (epitélio respiratório), epidídimo (com estereocílios)</td></tr>
-        <tr><td><b>Estratificado pavimentoso queratinizado</b></td><td>Várias camadas; superfície de células mortas cheias de queratina</td><td><b>Epiderme</b> (cap. 4), coxins, focinho; <b>rúmen</b>, retículo e omaso</td></tr>
+        <tr><td><b>Estratificado pavimentoso queratinizado</b></td><td>Várias camadas; superfície de células mortas cheias de queratina</td><td><b>Epiderme</b> (cap. 6), coxins, focinho; <b>rúmen</b>, retículo e omaso</td></tr>
         <tr><td><b>Estratificado pavimentoso não queratinizado</b></td><td>Várias camadas; células superficiais vivas e nucleadas</td><td>Boca, esôfago (cão), vagina, córnea</td></tr>
         <tr><td><b>De transição (urotélio)</b></td><td>Células superficiais grandes, em “guarda-chuva”, que se achatam quando o órgão se distende</td><td><b>Bexiga</b>, ureteres, pelve renal</td></tr>
       </tbody></table></div>
+
+    <section class="labbox rv" aria-labelledby="tecaTitle">
+      <header><div><span class="eyebrow">Animação</span><h4 id="tecaTitle">Como se classifica um epitélio de revestimento</h4></div>
+        <div class="ctrl" style="margin:0"><button class="btn" type="button" id="tecaPlay">▶ Reproduzir</button><button class="tbtn" type="button" id="tecaPause">⏸ Pausar</button><button class="tbtn" type="button" id="tecaReset">↺ Reiniciar</button></div></header>
+      <div class="svgwrap"><svg id="tecaSvg" viewBox="0 0 600 300" role="img" aria-label="Epitélio simples pavimentoso que se transforma em cúbico, cilíndrico e estratificado">
+        <rect x="0" y="0" width="600" height="300" fill="var(--paper)"/>
+        <rect x="30" y="232" width="540" height="44" rx="6" fill="var(--eosin-soft)"/>
+        <text x="300" y="262" font-size="18" font-weight="700" fill="var(--eosin)" text-anchor="middle">Tecido conjuntivo (vasos)</text>
+        <line x1="30" y1="230" x2="570" y2="230" stroke="var(--ink)" stroke-width="3"/>
+        <g id="tecaRow"></g>
+        <g id="tecaStrat"></g>
+        <text id="tecaLbl" x="300" y="40" font-size="22" font-weight="800" fill="var(--ink)" text-anchor="middle">Simples pavimentoso</text>
+      </svg></div>
+      <label class="sc-range"><span>Início</span><input type="range" id="tecaRng" min="0" max="1" step="0.001" value="0" aria-label="Linha do tempo da animação"><span>Fim</span></label>
+      <div class="readout" id="tecaOut" aria-live="polite"></div>
+    </section>
     <div class="note deep"><b>Epitélio glandular</b><ul>
-      <li><b>Exócrinas</b> mantêm um ducto e lançam a secreção numa superfície (sudoríparas, sebáceas, mamária, salivares). <b>Endócrinas</b> perdem o ducto e lançam no sangue (tireoide, paratireoide, cap. 8).</li>
+      <li><b>Exócrinas</b> mantêm um ducto e lançam a secreção numa superfície (sudoríparas, sebáceas, mamária, salivares). <b>Endócrinas</b> perdem o ducto e lançam no sangue (tireoide, paratireoide, cap. 16).</li>
       <li>Pelo modo de secreção: <b>merócrina</b> (exocitose, sem perda celular: maioria), <b>apócrina</b> (perde a parte apical da célula: glândula mamária para os lipídios, sudoríparas apócrinas) e <b>holócrina</b> (a célula inteira vira secreção: <b>glândula sebácea</b>).</li>
       <li>Pela forma da porção secretora: tubulosa, acinosa (alveolar) ou tubuloacinosa; simples ou composta (ducto ramificado).</li></ul></div>
 
@@ -62,8 +82,8 @@
         <li><b>Denso modelado</b>: feixes paralelos; <b>tendões</b>, ligamentos, aponeuroses.</li></ol></div>
       <div class="lane down"><h5>Conjuntivos especiais</h5><ol>
         <li><b>Adiposo</b> (branco e pardo).</li>
-        <li><b>Cartilaginoso</b> (cap. 17).</li>
-        <li><b>Ósseo</b> (cap. 7).</li>
+        <li><b>Cartilaginoso</b> (cap. 22).</li>
+        <li><b>Ósseo</b> (cap. 15).</li>
         <li><b>Sangue</b> e tecido hematopoético.</li>
         <li><b>Reticular</b> (linfoide e mieloide).</li></ol></div>
     </div>
@@ -89,6 +109,19 @@
         <tr><td><b>Imuno-histoquímica</b></td><td>Proteína específica marcada por anticorpo</td><td>Origem de tumores, agentes infecciosos</td></tr>
       </tbody></table></div>
     <div class="note lab"><b>Na lâmina</b><p>Comece sempre no <b>menor aumento</b> (4× ou 10×) para ver a arquitetura e localizar o tecido; só depois suba para 40×. Pergunte: há muitas células juntas (epitélio)? Muita matriz entre poucas células (conjuntivo)? Células alongadas com estrias (músculo)? Corpos celulares grandes com prolongamentos (nervoso)?</p></div>
+
+    <h3><span class="tag">1.5</span>Origem embrionária e integração nos órgãos</h3>
+    <p>Os três folhetos germinativos do embrião dão origem aos tecidos. Saber de onde cada um vem ajuda a entender por que certos tumores, malformações e doenças afetam grupos de estruturas aparentemente distantes.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Folheto</th><th>Tecidos e estruturas derivados</th></tr></thead>
+      <tbody>
+        <tr><td><b>Ectoderma</b></td><td>Epiderme e anexos (pelos, cascos, cornos, glândulas cutâneas e mamárias), esmalte dentário, sistema nervoso (tubo neural) e <b>crista neural</b> (melanócitos, gânglios, medula da adrenal, parte do esqueleto da face)</td></tr>
+        <tr><td><b>Mesoderma</b></td><td><b>Mesênquima</b> → todos os conjuntivos (derme, cartilagem, osso, sangue), músculos, rins, gônadas, endotélio, <b>mesotélio</b> das serosas</td></tr>
+        <tr><td><b>Endoderma</b></td><td>Epitélio do tubo digestório e de suas glândulas (fígado, pâncreas), epitélio respiratório, tireoide, bexiga (urotélio em boa parte)</td></tr>
+      </tbody></table></div>
+    <p>Um órgão nunca é feito de um tecido só. O <b>parênquima</b> é a parte que executa a função própria do órgão (hepatócitos no fígado, néfrons no rim, alvéolos glandulares na mama); o <b>estroma</b> é o arcabouço de conjuntivo que sustenta, leva vasos e nervos (cápsula, septos, fibras reticulares). As vísceras ocas repetem a mesma receita de camadas: <b>mucosa</b> (epitélio + lâmina própria de conjuntivo frouxo), <b>submucosa</b>, <b>muscular</b> e <b>serosa</b> ou adventícia (cap. 4).</p>
+    <div class="note clin"><b>Na clínica</b><p>O nome dos tumores segue o tecido de origem: <b>carcinoma</b> é maligno de epitélio (carcinoma de células escamosas na pele despigmentada de gatos brancos e na pálpebra de bovinos Hereford), <b>sarcoma</b> é maligno de conjuntivo (fibrossarcoma, osteossarcoma em cães de raças grandes), e o sufixo <b>-oma</b> sozinho costuma indicar benigno (lipoma, papiloma). Por isso a primeira pergunta do patologista diante de um tumor é: <i>de qual tecido ele vem?</i></p></div>
+    <div class="note trap"><b>Pegadinha</b><p>O <b>endotélio</b> e o <b>mesotélio</b> são epitélios simples pavimentosos na forma, mas derivam do <b>mesoderma</b>. Já a epiderme, também epitélio, vem do ectoderma. “Epitelial” descreve a organização das células, não o folheto de origem.</p></div>
 
     <div class="quiz" data-quiz="tecidos"></div>
   </div>

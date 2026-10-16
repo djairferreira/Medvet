@@ -460,5 +460,104 @@
    "Tubo neural"
   ],
   "e": "Como os demais conjuntivos, a cartilagem deriva do mesênquima, cujas células se diferenciam em condroblastos."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Qual característica pertence ao condroblasto e não ao condrócito?",
+  "o": [
+   "Citoplasma muito basófilo, rico em retículo rugoso",
+   "Localização em lacuna no centro da peça",
+   "Forma arredondada dentro de grupo isógeno",
+   "Atividade de manutenção lenta da matriz"
+  ],
+  "e": "O condroblasto, em síntese ativa, fica na periferia e é muito basófilo."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Na lâmina de cartilagem hialina com pericôndrio, os condroblastos ficam:",
+  "o": [
+   "Na periferia, logo abaixo do pericôndrio",
+   "No centro, em grupos isógenos",
+   "Dentro dos vasos do pericôndrio",
+   "Na matriz interterritorial central"
+  ],
+  "e": "Da borda para o centro: pericôndrio, condroblastos achatados, condrócitos."
+ },
+ {
+  "c": "cartilagem",
+  "q": "O crescimento intersticial da cartilagem é responsável principalmente pelo:",
+  "o": [
+   "Alongamento dos ossos no disco epifisário",
+   "Aumento do diâmetro da traqueia adulta",
+   "Reparo da cartilagem articular lesada",
+   "Espessamento do pericôndrio fibroso"
+  ],
+  "e": "No disco epifisário, condrócitos se dividem e alongam a peça por dentro."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Uma cartilagem sem pericôndrio não pode crescer por aposição porque:",
+  "o": [
+   "Falta a camada condrogênica que forma condroblastos",
+   "Os condrócitos dela não secretam matriz",
+   "A matriz dela é de colágeno tipo I",
+   "Ela recebe vasos que impedem a deposição"
+  ],
+  "e": "O aposicional depende das células condrogênicas do pericôndrio."
+ },
+ {
+  "c": "cartilagem",
+  "q": "A camada fibrosa do pericôndrio contém:",
+  "o": [
+   "Fibroblastos, colágeno tipo I, vasos e nervos",
+   "Condroblastos em grupos isógenos",
+   "Condrócitos hipertróficos e matriz calcificada",
+   "Fibras elásticas e condrócitos em fileiras"
+  ],
+  "e": "A externa é fibrosa e vascular; a interna é condrogênica."
+ },
+ {
+  "c": "cartilagem",
+  "q": "No oto-hematoma do cão, o sangue se acumula entre:",
+  "o": [
+   "A cartilagem elástica e o pericôndrio",
+   "A pele e o músculo auricular",
+   "O tímpano e a orelha média",
+   "A cartilagem hialina e o osso temporal"
+  ],
+  "e": "O pericôndrio se descola; sem drenagem, a cartilagem se deforma."
+ },
+ {
+  "c": "cartilagem",
+  "q": "Nos cães condrodistróficos, os membros curtos resultam de deficiência do crescimento:",
+  "o": [
+   "Intersticial dos condrócitos do disco epifisário",
+   "Aposicional do periósteo da diáfise",
+   "Da cartilagem elástica do pavilhão auricular",
+   "Da fibrocartilagem da sínfise pélvica"
+  ],
+  "e": "A proliferação dos condrócitos epifisários é reduzida."
+ },
+ {
+  "c": "cartilagem",
+  "q": "A basofilia e a metacromasia da matriz cartilaginosa devem-se:",
+  "o": [
+   "Aos glicosaminoglicanos sulfatados",
+   "Às fibrilas finas de colágeno tipo II",
+   "Ao cálcio depositado na zona calcificada",
+   "Às fibras elásticas presentes na matriz"
+  ],
+  "e": "Condroitinsulfato e queratansulfato são polianiônicos."
+ },
+ {
+  "c": "cartilagem",
+  "q": "O colapso de traqueia em cães miniatura relaciona-se a anéis de cartilagem hialina com:",
+  "o": [
+   "Pouca matriz, menos glicosaminoglicanos e água",
+   "Excesso de colágeno tipo I e calcificação",
+   "Pericôndrio espessado e fibrose",
+   "Fibras elásticas em excesso na matriz"
+  ],
+  "e": "Os anéis amolecem, achatam-se e a membrana dorsal invade a luz."
  }
 ]

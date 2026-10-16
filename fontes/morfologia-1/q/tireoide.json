@@ -438,5 +438,115 @@
    "Folículos ovarianos e medula óssea"
   ],
   "e": "Folículos com coloide acidófilo são da tireoide; a massa basófila sem folículos ao lado é a paratireoide."
+ },
+ {
+  "c": "tireoide",
+  "q": "O iodeto do sangue entra na célula folicular por meio do:",
+  "o": [
+   "Simportador Na⁺/I⁻ na membrana basal",
+   "Canal de cálcio apical",
+   "Receptor de TSH apical",
+   "Transporte pela tireoglobulina"
+  ],
+  "e": "O NIS concentra iodeto 20 a 40 vezes na célula."
+ },
+ {
+  "c": "tireoide",
+  "q": "A enzima que iodina as tirosinas da tireoglobulina é a:",
+  "o": [
+   "Peroxidase tireoidiana (TPO)",
+   "Desiodase",
+   "Fosfatase alcalina",
+   "Anidrase carbônica"
+  ],
+  "e": "A TPO oxida o iodo e o liga às tirosinas na borda apical."
+ },
+ {
+  "c": "tireoide",
+  "q": "Onde T3 e T4 ficam armazenados antes de serem liberados?",
+  "o": [
+   "Ligados à tireoglobulina no coloide",
+   "Livres no citoplasma da célula C",
+   "Nos grânulos da paratireoide",
+   "Nos capilares fenestrados"
+  ],
+  "e": "A tireoide estoca o hormônio fora da célula, no coloide."
+ },
+ {
+  "c": "tireoide",
+  "q": "Folículos com epitélio colunar e coloide escasso, com vacúolos de reabsorção, indicam:",
+  "o": [
+   "Glândula ativa sob TSH",
+   "Glândula em repouso",
+   "Bócio coloide involutivo",
+   "Paratireoide normal"
+  ],
+  "e": "Epitélio alto e coloide reabsorvido = intensa liberação."
+ },
+ {
+  "c": "tireoide",
+  "q": "O principal hormônio secretado pela tireoide e o mais ativo nos tecidos são, respectivamente:",
+  "o": [
+   "T4 e T3",
+   "T3 e T4",
+   "Calcitonina e T4",
+   "TSH e T3"
+  ],
+  "e": "A glândula secreta sobretudo T4, convertido em T3 nos tecidos."
+ },
+ {
+  "c": "tireoide",
+  "q": "Cadela de meia-idade com letargia, ganho de peso e alopecia simétrica sugere:",
+  "o": [
+   "Hipotireoidismo",
+   "Hipertireoidismo",
+   "Hiperparatireoidismo",
+   "Hipocalcemia puerperal"
+  ],
+  "e": "Quadro clássico do hipotireoidismo canino."
+ },
+ {
+  "c": "tireoide",
+  "q": "Gato idoso emagrecendo apesar do apetite aumentado, com nódulo cervical, sugere:",
+  "o": [
+   "Hipertireoidismo",
+   "Hipotireoidismo",
+   "Bócio por falta de iodo",
+   "Hipoparatireoidismo"
+  ],
+  "e": "Adenoma ou hiperplasia folicular funcional em gatos idosos."
+ },
+ {
+  "c": "tireoide",
+  "q": "Na tireoidectomia felina, preservar a paratireoide externa evita:",
+  "o": [
+   "Hipocalcemia pós-operatória",
+   "Hipertireoidismo recidivante",
+   "Bócio compensatório",
+   "Excesso de calcitonina"
+  ],
+  "e": "Sem paratireoides, falta PTH e o cálcio cai."
+ },
+ {
+  "c": "tireoide",
+  "q": "Um cavalo alimentado com capim rico em oxalato desenvolve “cara inchada”. O mecanismo é:",
+  "o": [
+   "Hiperparatireoidismo nutricional",
+   "Hipotireoidismo congênito do potro",
+   "Excesso de calcitonina circulante",
+   "Bócio causado por brássicas"
+  ],
+  "e": "Oxalato prende cálcio; PTH alto reabsorve osso e há osteodistrofia fibrosa."
+ },
+ {
+  "c": "tireoide",
+  "q": "Leitões nascidos fracos, sem pelos e com pescoço aumentado sugerem:",
+  "o": [
+   "Bócio por deficiência de iodo",
+   "Hiperparatireoidismo renal",
+   "Hipocalcemia puerperal",
+   "Hipertireoidismo"
+  ],
+  "e": "Falta de iodo leva a TSH alto e hiperplasia folicular."
  }
 ]

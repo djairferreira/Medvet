@@ -592,5 +592,38 @@
    "Condrócitos hipertróficos"
   ],
   "e": "A gordura é dissolvida no processamento, deixando os adipócitos como espaços claros; os megacariócitos são grandes, mas têm citoplasma corado e núcleo lobulado."
+ },
+ {
+  "c": "osseo",
+  "q": "Na formação de um ósteon, o túnel inicial no osso compacto é aberto por:",
+  "o": [
+   "Osteoclastos (cone de corte)",
+   "Osteoblastos (cone de fechamento)",
+   "Osteócitos",
+   "Condroclastos"
+  ],
+  "e": "Os osteoclastos escavam; depois os osteoblastos preenchem."
+ },
+ {
+  "c": "osseo",
+  "q": "As lamelas de um novo ósteon são depositadas em que sentido?",
+  "o": [
+   "De fora para dentro, estreitando o canal",
+   "De dentro para fora, alargando o canal",
+   "Todas ao mesmo tempo",
+   "Só na superfície do periósteo"
+  ],
+  "e": "O túnel se fecha camada a camada até restar o canal de Havers."
+ },
+ {
+  "c": "osseo",
+  "q": "A linha cimentante que circunda um ósteon marca:",
+  "o": [
+   "O limite do túnel escavado",
+   "A posição do periósteo antigo",
+   "O antigo disco epifisário",
+   "O trajeto de um canal de Volkmann"
+  ],
+  "e": "É a borda da reabsorção onde começou a deposição."
  }
 ]

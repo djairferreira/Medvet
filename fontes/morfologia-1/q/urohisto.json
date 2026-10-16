@@ -1,0 +1,530 @@
+[
+ {
+  "c": "urohisto",
+  "q": "O túbulo urinífero é formado por:",
+  "o": [
+   "Néfron e ducto coletor",
+   "Glomérulo e cápsula de Bowman",
+   "Alça de Henle e vasa recta",
+   "Pelve e cálices menores"
+  ],
+  "e": "O ducto coletor não pertence ao néfron (origem no broto ureteral), mas forma com ele o túbulo urinífero."
+ },
+ {
+  "c": "urohisto",
+  "q": "O ducto coletor tem origem embrionária no:",
+  "o": [
+   "Broto ureteral",
+   "Blastema metanéfrico",
+   "Pronefro",
+   "Mesonefro cranial"
+  ],
+  "e": "O néfron vem do blastema; ducto coletor, pelve e ureter, do broto ureteral."
+ },
+ {
+  "c": "urohisto",
+  "q": "Após a perda de néfrons por doença, o rim adulto:",
+  "o": [
+   "Hipertrofia os néfrons que restam",
+   "Gera néfrons novos a partir do blastema",
+   "Substitui glomérulos por túbulos novos",
+   "Regenera papilas inteiras em semanas"
+  ],
+  "e": "O número de néfrons é fixado cedo; não há néfrons novos."
+ },
+ {
+  "c": "urohisto",
+  "q": "O folheto visceral da cápsula de Bowman é formado por:",
+  "o": [
+   "Podócitos",
+   "Células mesangiais",
+   "Células justaglomerulares",
+   "Endotélio fenestrado"
+  ],
+  "e": "Os podócitos abraçam as alças capilares com seus pedicelos."
+ },
+ {
+  "c": "urohisto",
+  "q": "O folheto parietal da cápsula de Bowman é um epitélio:",
+  "o": [
+   "Simples pavimentoso",
+   "Cúbico com borda em escova",
+   "Estratificado de transição",
+   "Colunar pseudoestratificado"
+  ],
+  "e": "Delimita externamente o espaço urinário."
+ },
+ {
+  "c": "urohisto",
+  "q": "O túbulo contorcido proximal começa no:",
+  "o": [
+   "Polo urinário do corpúsculo",
+   "Polo vascular do corpúsculo",
+   "Ápice da papila renal",
+   "Raio medular profundo"
+  ],
+  "e": "O polo urinário é oposto ao vascular."
+ },
+ {
+  "c": "urohisto",
+  "q": "Qual destas camadas NÃO faz parte da barreira de filtração glomerular?",
+  "o": [
+   "Mácula densa",
+   "Endotélio fenestrado",
+   "Membrana basal glomerular",
+   "Diafragma das fendas"
+  ],
+  "e": "A barreira é endotélio + membrana basal + fendas entre pedicelos."
+ },
+ {
+  "c": "urohisto",
+  "q": "O diafragma da fenda de filtração contém principalmente:",
+  "o": [
+   "Nefrina e podocina",
+   "Uroplaquinas e queratina",
+   "Colágeno I e elastina",
+   "Actina e miosina II"
+  ],
+  "e": "Mutações em nefrina causam síndrome nefrótica congênita."
+ },
+ {
+  "c": "urohisto",
+  "q": "A albumina normalmente não passa para o filtrado principalmente por causa de:",
+  "o": [
+   "Tamanho limítrofe e carga negativa",
+   "Ausência de fenestras endoteliais",
+   "Reabsorção imediata na cápsula",
+   "Secreção ativa pelo mesângio"
+  ],
+  "e": "Barreira seletiva por tamanho e carga (heparan sulfato aniônico)."
+ },
+ {
+  "c": "urohisto",
+  "q": "O primeiro sinal clínico de lesão da barreira glomerular é:",
+  "o": [
+   "Proteinúria",
+   "Glicosúria",
+   "Hematúria macroscópica",
+   "Poliúria isostenúrica"
+  ],
+  "e": "Avalia-se pela razão proteína:creatinina urinária."
+ },
+ {
+  "c": "urohisto",
+  "q": "As células mesangiais têm funções de:",
+  "o": [
+   "Contrair, fagocitar e fazer matriz",
+   "Secreção de renina e de eritropoetina",
+   "Reabsorção de glicose e aminoácidos",
+   "Transporte de água sob o ADH"
+  ],
+  "e": "Regulam área de filtração e limpam a membrana basal."
+ },
+ {
+  "c": "urohisto",
+  "q": "A borda em escova é característica do:",
+  "o": [
+   "Túbulo proximal",
+   "Túbulo contorcido distal",
+   "Ducto coletor",
+   "Ramo delgado descendente"
+  ],
+  "e": "Microvilos longos aumentam a área de reabsorção."
+ },
+ {
+  "c": "urohisto",
+  "q": "Qual segmento reabsorve cerca de dois terços do sódio e da água filtrados?",
+  "o": [
+   "Túbulo proximal",
+   "Ramo grosso ascendente",
+   "Túbulo distal",
+   "Ducto coletor medular"
+  ],
+  "e": "A reabsorção proximal é isosmótica."
+ },
+ {
+  "c": "urohisto",
+  "q": "Na lâmina em HE, um túbulo com citoplasma muito eosinofílico, lúmen estreito e felpudo é provavelmente:",
+  "o": [
+   "TCP",
+   "TCD",
+   "Ducto coletor",
+   "Ramo delgado"
+  ],
+  "e": "Mitocôndrias e borda em escova dão eosinofilia e lúmen \"felpudo\"."
+ },
+ {
+  "c": "urohisto",
+  "q": "O ramo delgado descendente da alça de Henle tem epitélio:",
+  "o": [
+   "Simples pavimentoso",
+   "Cúbico alto com microvilos",
+   "Colunar com células claras",
+   "De transição com placas"
+  ],
+  "e": "Permeável à água (aquaporina 1)."
+ },
+ {
+  "c": "urohisto",
+  "q": "Como diferenciar ramo delgado de capilar na lâmina?",
+  "o": [
+   "Ramo delgado: lúmen sem hemácias",
+   "O ramo delgado tem borda em escova",
+   "O capilar tem células colunares",
+   "O capilar não tem núcleos visíveis"
+  ],
+  "e": "Vasa recta e capilares têm endotélio mais fino e hemácias."
+ },
+ {
+  "c": "urohisto",
+  "q": "O cotransportador Na⁺-K⁺-2Cl⁻, alvo da furosemida, fica no:",
+  "o": [
+   "Ramo grosso ascendente",
+   "Túbulo proximal",
+   "Ramo delgado descendente",
+   "Ducto papilar"
+  ],
+  "e": "Esse segmento é impermeável à água e dilui o filtrado."
+ },
+ {
+  "c": "urohisto",
+  "q": "O ramo grosso ascendente é impermeável à água, por isso o filtrado ao deixá-lo está:",
+  "o": [
+   "Hipotônico (~100 mOsm/kg)",
+   "Isosmótico ao plasma",
+   "Hipertônico (~1.200 mOsm/kg)",
+   "Sem nenhum soluto"
+  ],
+  "e": "Ele remove sal sem água: segmento diluidor."
+ },
+ {
+  "c": "urohisto",
+  "q": "A mácula densa é formada por células:",
+  "o": [
+   "Do túbulo distal, no polo vascular",
+   "Da arteríola aferente com renina",
+   "Do mesângio extraglomerular",
+   "Do folheto parietal da cápsula"
+  ],
+  "e": "São células altas com núcleos apinhados que percebem o NaCl."
+ },
+ {
+  "c": "urohisto",
+  "q": "As células justaglomerulares secretoras de renina são:",
+  "o": [
+   "Miócitos lisos da arteríola aferente",
+   "Células epiteliais do túbulo proximal",
+   "Podócitos do polo urinário",
+   "Células intercalares do ducto coletor"
+  ],
+  "e": "Granulares, na parede da aferente."
+ },
+ {
+  "c": "urohisto",
+  "q": "A queda de pressão na arteríola aferente leva a:",
+  "o": [
+   "Liberação de renina",
+   "Inibição da aldosterona",
+   "Supressão do ADH",
+   "Aumento da filtração do néfron"
+  ],
+  "e": "Renina → angiotensina II → vasoconstrição, aldosterona, ADH."
+ },
+ {
+  "c": "urohisto",
+  "q": "As células principais do ducto coletor:",
+  "o": [
+   "Inserem aquaporina 2 sob o ADH",
+   "Secretam renina para a arteríola",
+   "Têm borda em escova densa",
+   "Formam o folheto visceral"
+  ],
+  "e": "Também reabsorvem Na⁺ (ENaC) sob a aldosterona."
+ },
+ {
+  "c": "urohisto",
+  "q": "As células intercalares do ducto coletor atuam principalmente no:",
+  "o": [
+   "Equilíbrio ácido-base",
+   "Transporte de glicose",
+   "Controle da filtração",
+   "Armazenamento de urina"
+  ],
+  "e": "Secretam H⁺ (tipo A) ou HCO₃⁻ (tipo B)."
+ },
+ {
+  "c": "urohisto",
+  "q": "Na lâmina, o ducto coletor é reconhecido por:",
+  "o": [
+   "Células claras de limites nítidos",
+   "Borda em escova e lúmen estreito",
+   "Células pavimentosas com hemácias",
+   "Núcleos apinhados no polo vascular"
+  ],
+  "e": "Células cúbicas a colunares claras e bem delimitadas."
+ },
+ {
+  "c": "urohisto",
+  "q": "Os néfrons justamedulares diferem dos corticais por terem:",
+  "o": [
+   "Alças de Henle longas e vasa recta",
+   "Glomérulos menores e sem mesângio",
+   "Ausência de túbulo distal",
+   "Alça curta só na medula externa"
+  ],
+  "e": "As alças longas descem até a papila e geram urina concentrada."
+ },
+ {
+  "c": "urohisto",
+  "q": "O gato concentra a urina muito mais que o castor porque tem:",
+  "o": [
+   "Mais alças longas e medula espessa",
+   "Glomérulos maiores e mais numerosos",
+   "Ausência de ducto coletor medular",
+   "Bexiga de parede mais espessa"
+  ],
+  "e": "Proporção de alças longas/medula define a capacidade de concentrar."
+ },
+ {
+  "c": "urohisto",
+  "q": "Densidade urinária fixa entre 1,008 e 1,012 (isostenúria) indica:",
+  "o": [
+   "Rim que não concentra nem dilui",
+   "Desidratação com rim normal",
+   "Diabetes melito sem lesão renal",
+   "Ingestão excessiva de água"
+  ],
+  "e": "Ocorre com perda de cerca de 2/3 dos néfrons."
+ },
+ {
+  "c": "urohisto",
+  "q": "A eritropoetina é produzida no rim principalmente por:",
+  "o": [
+   "Fibroblastos peritubulares do córtex",
+   "Podócitos do glomérulo",
+   "Células da mácula densa",
+   "Células em guarda-chuva da pelve"
+  ],
+  "e": "Na fibrose crônica eles se perdem: anemia arregenerativa."
+ },
+ {
+  "c": "urohisto",
+  "q": "O lóbulo renal tem no seu centro:",
+  "o": [
+   "Um raio medular",
+   "Uma artéria arqueada",
+   "Uma papila renal",
+   "Um cálice menor"
+  ],
+  "e": "É limitado lateralmente por artérias interlobulares."
+ },
+ {
+  "c": "urohisto",
+  "q": "Qual achado define o córtex na lâmina em HE?",
+  "o": [
+   "Presença de corpúsculos renais",
+   "Túbulos retos e paralelos",
+   "Ductos papilares colunares",
+   "Interstício abundante e claro"
+  ],
+  "e": "Só o córtex tem corpúsculos; raios medulares estão no córtex mas parecem medula."
+ },
+ {
+  "c": "urohisto",
+  "q": "As artérias arqueadas cortadas na lâmina indicam:",
+  "o": [
+   "A junção corticomedular",
+   "O ápice da papila",
+   "O centro do lóbulo",
+   "A cápsula fibrosa"
+  ],
+  "e": "Marcam o limite entre córtex e medula."
+ },
+ {
+  "c": "urohisto",
+  "q": "A coloração que realça a borda em escova e as membranas basais glomerulares é:",
+  "o": [
+   "PAS",
+   "Vermelho Congo",
+   "Sudan III",
+   "Azul de toluidina"
+  ],
+  "e": "PAS cora glicoproteínas; vermelho Congo é para amiloide."
+ },
+ {
+  "c": "urohisto",
+  "q": "As células em guarda-chuva do urotélio:",
+  "o": [
+   "São superficiais, às vezes binucleadas",
+   "Ficam na camada basal sobre a membrana",
+   "Têm microvilos longos de reabsorção",
+   "São ciliadas e movem a urina"
+  ],
+  "e": "São grandes, superficiais e cobertas por placas de uroplaquina."
+ },
+ {
+  "c": "urohisto",
+  "q": "O aumento da área apical do urotélio durante a distensão vem da:",
+  "o": [
+   "Fusão de vesículas fusiformes",
+   "Mitose rápida das células basais",
+   "Abertura das junções de oclusão",
+   "Perda das células em guarda-chuva"
+  ],
+  "e": "As vesículas guardam placas de uroplaquina."
+ },
+ {
+  "c": "urohisto",
+  "q": "A barreira urina-sangue do urotélio depende de:",
+  "o": [
+   "Junções de oclusão e placas apicais",
+   "Endotélio fenestrado e mesângio",
+   "Cílios e muco abundante",
+   "Membrana basal muito espessa"
+  ],
+  "e": "Torna o epitélio impermeável à água e à ureia."
+ },
+ {
+  "c": "urohisto",
+  "q": "Na bexiga cheia, o urotélio apresenta:",
+  "o": [
+   "2–3 camadas e superfície achatada",
+   "7–8 camadas com células em cúpula",
+   "Uma camada de células cúbicas ciliadas",
+   "Epitélio pavimentoso queratinizado"
+  ],
+  "e": "Na bexiga vazia é alto; distendido, achata-se."
+ },
+ {
+  "c": "urohisto",
+  "q": "A túnica muscular do ureter, nos 2/3 proximais, tem:",
+  "o": [
+   "Longitudinal interna e circular externa",
+   "Circular interna e longitudinal externa",
+   "Apenas uma camada circular",
+   "Músculo estriado esquelético"
+  ],
+  "e": "Disposição inversa à do intestino; no terço distal surge uma longitudinal externa."
+ },
+ {
+  "c": "urohisto",
+  "q": "Em que espécie há glândulas mucosas na pelve e no ureter proximal?",
+  "o": [
+   "Equino",
+   "Bovino",
+   "Cão",
+   "Gato"
+  ],
+  "e": "Explicam a urina viscosa do cavalo."
+ },
+ {
+  "c": "urohisto",
+  "q": "O epitélio da uretra, próximo ao óstio externo, é:",
+  "o": [
+   "Estratificado pavimentoso",
+   "De transição",
+   "Simples cúbico",
+   "Pseudoestratificado ciliado"
+  ],
+  "e": "Ela passa de urotélio para colunar e termina pavimentoso."
+ },
+ {
+  "c": "urohisto",
+  "q": "Nos rins das aves, os néfrons de tipo reptiliano:",
+  "o": [
+   "Não têm alça de Henle",
+   "Têm alças longas na papila",
+   "São os únicos com glomérulo",
+   "Formam a pelve renal"
+  ],
+  "e": "São maioria, corticais, em volta da veia intralobular."
+ },
+ {
+  "c": "urohisto",
+  "q": "O principal produto nitrogenado excretado pelas aves é:",
+  "o": [
+   "Ácido úrico",
+   "Ureia",
+   "Amônia livre",
+   "Creatinina"
+  ],
+  "e": "Secretado no TCP; desidratação ou lesão renal causam gota visceral."
+ },
+ {
+  "c": "urohisto",
+  "q": "Depósitos de urato no pericárdio e no fígado de frangos indicam:",
+  "o": [
+   "Gota visceral por falha renal",
+   "Amiloidose hepática primária",
+   "Necrose tubular por etilenoglicol",
+   "Glomerulonefrite por imunocomplexos"
+  ],
+  "e": "Causas: desidratação, excesso de cálcio, bronquite nefropatogênica, micotoxinas."
+ },
+ {
+  "c": "urohisto",
+  "q": "Na necrose tubular aguda, o segmento mais afetado é o:",
+  "o": [
+   "Túbulo proximal",
+   "Ramo delgado",
+   "Ducto coletor",
+   "Folheto parietal"
+  ],
+  "e": "Mais metabolismo e transportadores o tornam vulnerável a isquemia e toxinas."
+ },
+ {
+  "c": "urohisto",
+  "q": "Cristais birrefringentes de oxalato de cálcio nos túbulos sugerem intoxicação por:",
+  "o": [
+   "Etilenoglicol",
+   "Samambaia",
+   "Aminoglicosídeo",
+   "Carvalho"
+  ],
+  "e": "O anticongelante é metabolizado a oxalato."
+ },
+ {
+  "c": "urohisto",
+  "q": "A glomerulonefrite em cães com leishmaniose é causada principalmente por:",
+  "o": [
+   "Depósito de imunocomplexos",
+   "Infecção ascendente da bexiga",
+   "Isquemia por choque",
+   "Cristais de urato"
+  ],
+  "e": "Imunocomplexos na membrana basal causam proteinúria."
+ },
+ {
+  "c": "urohisto",
+  "q": "Os cilindros urinários são moldes formados com a proteína:",
+  "o": [
+   "De Tamm-Horsfall (uromodulina)",
+   "Albumina do plasma",
+   "Nefrina do podócito",
+   "Uroplaquina do urotélio"
+  ],
+  "e": "Produzida no ramo grosso ascendente."
+ },
+ {
+  "c": "urohisto",
+  "q": "Cilindros granulosos na urina de um bovino tratado com aminoglicosídeo indicam:",
+  "o": [
+   "Lesão tubular por nefrotoxicidade",
+   "Contaminação pela vagina",
+   "Hidratação excessiva",
+   "Infecção na uretra distal"
+  ],
+  "e": "Aparecem antes do aumento da creatinina."
+ },
+ {
+  "c": "urohisto",
+  "q": "O tumor de bexiga mais comum no cão, frequente no trígono, é o:",
+  "o": [
+   "Carcinoma urotelial",
+   "Leiomiossarcoma",
+   "Hemangioma",
+   "Linfoma"
+  ],
+  "e": "Predisposição em Scottish terrier, West Highland, Shetland e Beagle."
+ }
+]

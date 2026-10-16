@@ -23,50 +23,6 @@
  },
  {
   "c": "miohisto",
-  "q": "Na contração, a banda que NÃO muda de comprimento é a:",
-  "o": [
-   "Banda A",
-   "Banda I",
-   "Zona H",
-   "Distância entre linhas Z"
-  ],
-  "e": "A banda A corresponde ao comprimento da miosina."
- },
- {
-  "c": "miohisto",
-  "q": "O envoltório conjuntivo de cada fascículo muscular é o:",
-  "o": [
-   "Perimísio",
-   "Epimísio",
-   "Endomísio",
-   "Sarcolema"
-  ],
-  "e": "Epimísio envolve o músculo; endomísio, cada fibra."
- },
- {
-  "c": "miohisto",
-  "q": "O cálcio para a contração do músculo esquelético vem principalmente do:",
-  "o": [
-   "Retículo sarcoplasmático",
-   "Núcleo da fibra muscular",
-   "Mitocôndrias da fibra",
-   "Lisossomos do sarcoplasma"
-  ],
-  "e": "Liberado após a despolarização chegar pelos túbulos T."
- },
- {
-  "c": "miohisto",
-  "q": "Rigor mortis acontece porque:",
-  "o": [
-   "Sem ATP, as pontes de miosina não se desligam da actina",
-   "O cálcio é todo recaptado pelo retículo sarcoplasmático",
-   "A actina se despolimeriza e trava os sarcômeros",
-   "A miosina é digerida por enzimas lisossômicas"
-  ],
-  "e": "O músculo fica travado até a autólise."
- },
- {
-  "c": "miohisto",
   "q": "A regeneração do músculo esquelético depende das:",
   "o": [
    "Células satélites",
@@ -221,182 +177,6 @@
  },
  {
   "c": "miohisto",
-  "q": "O conjuntivo denso que envolve o músculo esquelético inteiro e se continua com a fáscia e o tendão é o:",
-  "o": [
-   "Epimísio",
-   "Perimísio",
-   "Endomísio",
-   "Sarcolema"
-  ],
-  "e": "O epimísio envolve o músculo todo; perimísio envolve fascículos e endomísio, cada fibra."
- },
- {
-  "c": "miohisto",
-  "q": "A lâmina delicada de conjuntivo com capilares que envolve cada fibra muscular esquelética é o:",
-  "o": [
-   "Endomísio",
-   "Perimísio",
-   "Epimísio",
-   "Endoneuro"
-  ],
-  "e": "O endomísio fica ao redor de cada fibra e leva os capilares que a nutrem."
- },
- {
-  "c": "miohisto",
-  "q": "O marmoreio da carne bovina, valorizado comercialmente, corresponde ao acúmulo de gordura no:",
-  "o": [
-   "Perimísio",
-   "Sarcoplasma",
-   "Endomísio",
-   "Retículo sarcoplasmático"
-  ],
-  "e": "O perimísio separa os fascículos e, ao acumular adipócitos, forma os veios de gordura entremeados na carne."
- },
- {
-  "c": "miohisto",
-  "q": "No músculo esquelético, o retículo endoplasmático liso especializado em armazenar cálcio recebe o nome de:",
-  "o": [
-   "Retículo sarcoplasmático",
-   "Sarcolema da fibra",
-   "Túbulo T transverso",
-   "Corpo denso citoplasmático"
-  ],
-  "e": "O retículo sarcoplasmático é o RE liso da fibra muscular, reserva de Ca2+ para a contração."
- },
- {
-  "c": "miohisto",
-  "q": "Os túbulos T da fibra muscular esquelética são:",
-  "o": [
-   "Invaginações do sarcolema que levam a despolarização",
-   "Cisternas do retículo sarcoplasmático que armazenam cálcio",
-   "Feixes de filamentos de actina presos à linha Z",
-   "Mitocôndrias alinhadas entre as miofibrilas"
-  ],
-  "e": "Os túbulos T são continuações do sarcolema que conduzem o potencial de ação para o interior da fibra, até as cisternas do retículo."
- },
- {
-  "c": "miohisto",
-  "q": "A tríade da fibra muscular esquelética é formada por:",
-  "o": [
-   "Um túbulo T e duas cisternas terminais do retículo",
-   "Uma linha Z e duas bandas I adjacentes do sarcômero",
-   "Actina, miosina e tropomiosina do filamento fino",
-   "Três miofibrilas adjacentes unidas por desmina"
-  ],
-  "e": "A tríade é a associação de um túbulo T com duas cisternas terminais do retículo sarcoplasmático."
- },
- {
-  "c": "miohisto",
-  "q": "A banda I do sarcômero é formada por:",
-  "o": [
-   "Apenas filamentos de actina, de cada lado da linha Z",
-   "Apenas filamentos de miosina, no centro do sarcômero",
-   "Toda a extensão da miosina sobreposta à actina",
-   "Proteínas que unem as miosinas no centro"
-  ],
-  "e": "A banda I, clara (isotrópica), contém só actina e encurta durante a contração."
- },
- {
-  "c": "miohisto",
-  "q": "Durante a contração do sarcômero, a zona H:",
-  "o": [
-   "Encurta ou desaparece",
-   "Aumenta de comprimento",
-   "Permanece do mesmo tamanho",
-   "Desloca-se para a linha Z"
-  ],
-  "e": "A zona H é a parte central da banda A com só miosina; com o deslizamento da actina para o centro, ela diminui ou some."
- },
- {
-  "c": "miohisto",
-  "q": "A linha Z, que delimita o sarcômero, tem como função:",
-  "o": [
-   "Ancorar os filamentos de actina por meio da α-actinina",
-   "Unir os filamentos de miosina no centro do sarcômero",
-   "Armazenar cálcio para a contração",
-   "Ligar o sarcolema à lâmina basal"
-  ],
-  "e": "A linha Z é o limite do sarcômero e prende a actina pela α-actinina; a linha M é que une as miosinas."
- },
- {
-  "c": "miohisto",
-  "q": "No centro do sarcômero, a estrutura que une os filamentos de miosina é a:",
-  "o": [
-   "Linha M",
-   "Linha Z",
-   "Banda I",
-   "Zona de sobreposição"
-  ],
-  "e": "A linha M fica no meio da zona H e mantém as miosinas alinhadas."
- },
- {
-  "c": "miohisto",
-  "q": "A sequência correta no acoplamento excitação–contração do músculo esquelético é:",
-  "o": [
-   "Acetilcolina na placa → despolarização dos túbulos T → saída de Ca2+ do retículo → Ca2+ liga-se à troponina",
-   "Ca2+ liga-se à troponina → acetilcolina na placa → despolarização dos túbulos T → saída de Ca2+ do retículo",
-   "Saída de Ca2+ do retículo → acetilcolina na placa → Ca2+ liga-se à troponina → despolarização dos túbulos T",
-   "Despolarização dos túbulos T → acetilcolina na placa → Ca2+ liga-se à troponina → saída de Ca2+ do retículo"
-  ],
-  "e": "A acetilcolina despolariza o sarcolema, os túbulos T levam o sinal para dentro, o retículo libera Ca2+ e este, ligado à troponina, desloca a tropomiosina."
- },
- {
-  "c": "miohisto",
-  "q": "A ligação do Ca2+ à troponina permite a contração porque:",
-  "o": [
-   "Desloca a tropomiosina e expõe os sítios da actina",
-   "Hidrolisa diretamente o ATP da cabeça da miosina",
-   "Aproxima diretamente as linhas Z do sarcômero",
-   "Abre os canais de acetilcolina da placa motora"
-  ],
-  "e": "Em repouso a tropomiosina bloqueia a actina; o complexo Ca2+–troponina a afasta e as pontes cruzadas se formam."
- },
- {
-  "c": "miohisto",
-  "q": "No músculo esquelético, o ATP é necessário:",
-  "o": [
-   "Para as pontes cruzadas e para recaptar o Ca2+",
-   "Apenas para liberar acetilcolina na placa motora",
-   "Apenas para abrir o receptor de rianodina do retículo",
-   "Somente para formar e manter a linha Z"
-  ],
-  "e": "A miosina gasta ATP para puxar a actina e soltar-se dela, e a recaptação do cálcio pelo retículo também consome ATP."
- },
- {
-  "c": "miohisto",
-  "q": "Na hipertermia maligna dos suínos, desencadeada por estresse ou halotano, o defeito está:",
-  "o": [
-   "No receptor de rianodina, que libera Ca2+ sem controle",
-   "Na acetilcolinesterase, que degrada a acetilcolina",
-   "No gene da miostatina, que limita a massa muscular",
-   "Nos discos intercalares, que unem os cardiomiócitos"
-  ],
-  "e": "A mutação do receptor de rianodina (RYR1) faz o retículo liberar cálcio descontroladamente, com contração contínua, calor e carne PSE."
- },
- {
-  "c": "miohisto",
-  "q": "Um cão intoxicado com organofosforado apresenta fasciculações, tremores e salivação. Esses sinais se devem a:",
-  "o": [
-   "Inibição da acetilcolinesterase, com acúmulo de acetilcolina",
-   "Bloqueio da liberação de acetilcolina na placa motora",
-   "Liberação descontrolada de Ca2+ pelo RYR1",
-   "Necrose das fibras por falta de selênio"
-  ],
-  "e": "Sem a acetilcolinesterase, a acetilcolina persiste na fenda e estimula continuamente músculos e glândulas."
- },
- {
-  "c": "miohisto",
-  "q": "Bovinos que ingerem carcaças contaminadas podem desenvolver botulismo, com paralisia flácida, porque a toxina:",
-  "o": [
-   "Impede a liberação de acetilcolina na placa motora",
-   "Inibe a acetilcolinesterase na fenda sináptica",
-   "Destrói os túbulos T",
-   "Bloqueia a bomba de Ca2+ do retículo"
-  ],
-  "e": "Sem liberação de acetilcolina, o músculo não é estimulado e fica flácido; é o oposto da intoxicação por organofosforados."
- },
- {
-  "c": "miohisto",
   "q": "Fibras musculares do tipo I (lentas, vermelhas) caracterizam-se por:",
   "o": [
    "Muita mioglobina e mitocôndrias, e resistência à fadiga",
@@ -548,5 +328,115 @@
    "Hipoplasia cerebelar"
   ],
   "e": "Na cardiomiopatia hipertrófica felina formam-se trombos no átrio que podem obstruir a bifurcação da aorta."
+ },
+ {
+  "c": "miohisto",
+  "q": "O cardiomiócito típico mede cerca de:",
+  "o": [
+   "85 a 100 µm de comprimento",
+   "5 a 10 mm de comprimento",
+   "1 a 3 µm de comprimento",
+   "10 a 30 cm de comprimento"
+  ],
+  "e": "Cardiomiócitos são curtos (85–100 µm); fibras esqueléticas chegam a centímetros."
+ },
+ {
+  "c": "miohisto",
+  "q": "Na porção transversal do disco intercalar, as estruturas que ancoram a actina e impedem a separação das células são:",
+  "o": [
+   "Zônulas de adesão e desmossomos",
+   "Junções comunicantes e cavéolas",
+   "Corpos densos e calmodulina",
+   "Tríades e cisternas terminais"
+  ],
+  "e": "Porção transversal: zônulas de adesão e desmossomos; porção lateral: junções comunicantes."
+ },
+ {
+  "c": "miohisto",
+  "q": "Ao redor do núcleo do cardiomiócito há uma zona clara que contém glicogênio e grânulos de:",
+  "o": [
+   "Lipofuscina",
+   "Melanina",
+   "Hemossiderina",
+   "Queratina"
+  ],
+  "e": "A lipofuscina é pigmento de desgaste que aumenta com a idade."
+ },
+ {
+  "c": "miohisto",
+  "q": "No músculo liso, a ativação da miosina pelo cálcio depende de:",
+  "o": [
+   "Calmodulina e quinase da cadeia leve",
+   "Troponina C e tropomiosina",
+   "Receptor de rianodina na tríade",
+   "Titina e nebulina"
+  ],
+  "e": "O liso não tem troponina: Ca2+–calmodulina ativa a MLCK, que fosforila a miosina."
+ },
+ {
+  "c": "miohisto",
+  "q": "O núcleo em “saca-rolhas” visto em células musculares lisas indica que a célula está:",
+  "o": [
+   "Contraída",
+   "Em mitose",
+   "Necrosada",
+   "Em repouso"
+  ],
+  "e": "Na contração a rede oblíqua encurta e o núcleo pregueia."
+ },
+ {
+  "c": "miohisto",
+  "q": "Na lâmina, uma fibra esquelética adulta com núcleos centrais em fila sugere:",
+  "o": [
+   "Fibra em regeneração",
+   "Fibra do tipo IIB",
+   "Fibra cardíaca normal",
+   "Fibra de Purkinje"
+  ],
+  "e": "Miotubos regenerativos têm núcleos centrais; a fibra madura os tem na periferia."
+ },
+ {
+  "c": "miohisto",
+  "q": "As células satélites localizam-se:",
+  "o": [
+   "Entre a lâmina basal e o sarcolema",
+   "Dentro do retículo sarcoplasmático",
+   "No perimísio, junto às arteríolas",
+   "No centro da fibra, entre miofibrilas"
+  ],
+  "e": "Ficam sob a lâmina basal, encostadas ao sarcolema da fibra."
+ },
+ {
+  "c": "miohisto",
+  "q": "A regeneração do músculo esquelético após necrose segmentar é eficiente quando:",
+  "o": [
+   "A lâmina basal e a irrigação são preservadas",
+   "As células satélites estão ausentes",
+   "O tecido de granulação ocupa o defeito",
+   "Os cardiomiócitos vizinhos se dividem"
+  ],
+  "e": "A lâmina basal serve de molde para os mioblastos se fundirem."
+ },
+ {
+  "c": "miohisto",
+  "q": "No cão, um aumento de CK com AST normal indica lesão muscular:",
+  "o": [
+   "Recente",
+   "Antiga e já resolvida",
+   "Exclusivamente cardíaca",
+   "De origem hepática"
+  ],
+  "e": "A CK sobe e cai rápido; a AST sobe devagar e persiste."
+ },
+ {
+  "c": "miohisto",
+  "q": "Músculo liso em corte longitudinal pode ser confundido com nervo periférico. Uma pista a favor do músculo liso é:",
+  "o": [
+   "Núcleos alongados em charuto e citoplasma homogêneo",
+   "Núcleos ondulados e espaços claros de mielina",
+   "Estrias transversais e núcleos periféricos",
+   "Discos intercalares em degraus"
+  ],
+  "e": "Nervo tem núcleos de Schwann ondulados e mielina; liso tem núcleos em charuto."
  }
 ]

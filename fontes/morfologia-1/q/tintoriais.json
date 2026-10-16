@@ -1,0 +1,464 @@
+[
+ {
+  "c": "tintoriais",
+  "q": "Na HE, o núcleo fica roxo porque:",
+  "o": [
+   "Os ácidos nucleicos atraem a hematoxilina, corante básico",
+   "A eosina é um corante básico e cora intensamente o DNA",
+   "O núcleo é rico em proteínas básicas que atraem a eosina",
+   "O núcleo não cora e parece roxo apenas por contraste"
+  ],
+  "e": "Os ácidos nucleicos (DNA e RNA) são ácidos e atraem a hematoxilina, que é básica: estruturas ácidas = basófilas."
+ },
+ {
+  "c": "tintoriais",
+  "q": "O citoplasma do plasmócito é basófilo porque é rico em:",
+  "o": [
+   "Retículo endoplasmático rugoso (RNA dos ribossomos)",
+   "Mitocôndrias, que se coram pela hematoxilina",
+   "Glicogênio, que reage intensamente com a hematoxilina",
+   "Gotículas de lipídios ácidos no citosol"
+  ],
+  "e": "Ribossomos têm RNA (ácido) → atraem a hematoxilina. Mitocôndrias deixam o citoplasma acidófilo."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Os grânulos dos mastócitos corados com azul de toluidina ficam roxo-avermelhados. Isso é:",
+  "o": [
+   "Metacromasia",
+   "Acidofilia",
+   "Argirofilia",
+   "Autofluorescência"
+  ],
+  "e": "O corante básico muda de cor ao se ligar à heparina, muito ácida e agrupada."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Para evidenciar fibras reticulares, usa-se:",
+  "o": [
+   "Impregnação pela prata",
+   "Hematoxilina e eosina",
+   "Sudan",
+   "Ziehl-Neelsen"
+  ],
+  "e": "Fibras reticulares são argirófilas: ficam negras."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Para evidenciar as fibras elásticas do ligamento nucal, que coram mal na HE, utiliza-se:",
+  "o": [
+   "Orceína ou Verhoeff",
+   "Ziehl-Neelsen",
+   "Sudan",
+   "Azul de toluidina"
+  ],
+  "e": "As fibras elásticas são demonstradas por orceína ou Verhoeff; as outras colorações destinam-se a BAAR, lipídios e metacromasia."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Na cicatrização de uma ferida cutânea, a célula responsável por produzir novas fibras colágenas é o:",
+  "o": [
+   "Fibroblasto",
+   "Mastócito",
+   "Plasmócito",
+   "Adipócito"
+  ],
+  "e": "O fibroblasto (forma ativa) sintetiza fibras e substância fundamental; o fibrócito é sua forma quiescente."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Qual é o tumor cutâneo maligno mais comum do cão, originado de uma célula residente do conjuntivo com grânulos de histamina e heparina?",
+  "o": [
+   "Mastocitoma",
+   "Plasmocitoma",
+   "Histiocitoma",
+   "Fibrossarcoma"
+  ],
+  "e": "O mastocitoma, derivado do mastócito, é o tumor cutâneo maligno mais frequente no cão; o histiocitoma é comum, mas benigno."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Célula transitória do conjuntivo, derivada do linfócito B, com núcleo em “roda de carroça” e função de produzir anticorpos:",
+  "o": [
+   "Plasmócito",
+   "Macrófago",
+   "Mastócito",
+   "Eosinófilo"
+  ],
+  "e": "O plasmócito é o linfócito B diferenciado em produtor de anticorpos, com cromatina em roda de carroça."
+ },
+ {
+  "c": "tintoriais",
+  "q": "A biópsia de pele de um cão com alergia a pulgas mostra muitas células sanguíneas com grânulos acidófilos infiltrando a derme. Essas células são, mais provavelmente:",
+  "o": [
+   "Eosinófilos",
+   "Plasmócitos",
+   "Fibrócitos",
+   "Adipócitos"
+  ],
+  "e": "Eosinófilos têm grânulos acidófilos e aumentam em parasitoses e alergias."
+ },
+ {
+  "c": "tintoriais",
+  "q": "O macrófago (histiócito) do tecido conjuntivo deriva de qual célula sanguínea?",
+  "o": [
+   "Monócito",
+   "Linfócito B",
+   "Neutrófilo",
+   "Basófilo"
+  ],
+  "e": "Monócitos migram do sangue para os tecidos e se diferenciam em macrófagos."
+ },
+ {
+  "c": "tintoriais",
+  "q": "A hematoxilina é classificada como corante:",
+  "o": [
+   "Básico (catiônico), que se liga a estruturas ácidas",
+   "Ácido (aniônico), que se liga a estruturas básicas",
+   "Lipossolúvel, que se dissolve nas gorduras",
+   "Metacromático, que sempre cora em vermelho"
+  ],
+  "e": "A hematoxilina, positiva, liga-se a grupos negativos como os fosfatos dos ácidos nucleicos."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Por que o citoplasma da maioria das células, as hemácias e as fibras colágenas ficam rosados na HE?",
+  "o": [
+   "Suas proteínas catiônicas ligam-se à eosina, corante ácido",
+   "Seus ácidos nucleicos ligam-se à hematoxilina, corante básico",
+   "Seus glicosaminoglicanos sulfatados causam metacromasia rósea",
+   "Seus lipídios retêm o xilol e refratam a luz durante a montagem"
+  ],
+  "e": "Estruturas básicas (proteínas com carga +) atraem a eosina, aniônica, e são acidófilas."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Qual das estruturas abaixo NÃO é basófila na HE?",
+  "o": [
+   "Mitocôndrias",
+   "Nucléolo",
+   "Corpúsculos de Nissl do neurônio",
+   "Citoplasma das células acinosas do pâncreas"
+  ],
+  "e": "Mitocôndrias são acidófilas; nucléolo, Nissl e citoplasma acinoso são basófilos por conterem RNA."
+ },
+ {
+  "c": "tintoriais",
+  "q": "A matriz da cartilagem hialina é basófila na HE principalmente por causa de:",
+  "o": [
+   "Grupos sulfato dos glicosaminoglicanos",
+   "Fibras de colágeno tipo I",
+   "Grande quantidade de mitocôndrias",
+   "Fibras elásticas abundantes"
+  ],
+  "e": "Os GAGs sulfatados, com carga negativa, atraem a hematoxilina e também explicam a metacromasia da cartilagem."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Na HE, os adipócitos aparecem como anéis com núcleo periférico (“anel de sinete”) e o espaço central vazio porque:",
+  "o": [
+   "Os lipídios são dissolvidos pelo álcool e pelo xilol",
+   "A gordura se liga à hematoxilina e fica translúcida",
+   "A eosina não penetra em células grandes como o adipócito",
+   "O formol transforma os triglicerídeos em água e glicerol"
+  ],
+  "e": "Os solventes do processamento (álcool e xilol) extraem os lipídios, deixando o vacúolo vazio; o mesmo ocorre com o glicogênio no hepatócito “rendado”."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Para confirmar lipidose hepática numa vaca no pós-parto com Sudan ou Oil Red O, o corte deve ser feito em material congelado porque:",
+  "o": [
+   "Álcool e xilol da inclusão em parafina removem os lipídios",
+   "O formol impede qualquer coloração de gorduras no tecido",
+   "O corte congelado é mais fino e nítido que o de parafina",
+   "O Sudan só se liga a tecido não fixado e ainda vivo"
+  ],
+  "e": "A desidratação e a diafanização dissolvem as gorduras; o corte congelado preserva os lipídios para os corantes lipossolúveis."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Qual coloração evidencia glicogênio, mucinas, membranas basais e paredes de fungos em magenta?",
+  "o": [
+   "PAS (ácido periódico-Schiff)",
+   "Tricrômico de Masson",
+   "Ziehl-Neelsen",
+   "Impregnação pela prata"
+  ],
+  "e": "O PAS cora carboidratos em magenta e é usado em glomerulopatias, células caliciformes e fungos."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Para avaliar o grau de fibrose num fígado de cão com hepatite crônica, a coloração especial mais indicada é:",
+  "o": [
+   "Tricrômico de Masson",
+   "Sudan",
+   "Azul de toluidina",
+   "Ziehl-Neelsen"
+  ],
+  "e": "O tricrômico de Masson cora o colágeno em azul ou verde, destacando a fibrose."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Num bovino com suspeita de paratuberculose, qual coloração demonstra os bacilos na mucosa intestinal?",
+  "o": [
+   "Ziehl-Neelsen",
+   "PAS",
+   "Tricrômico de Masson",
+   "Orceína"
+  ],
+  "e": "Micobactérias são álcool-ácido resistentes e ficam vermelhas no Ziehl-Neelsen."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Na suspeita de leptospirose, as espiroquetas no rim podem ser demonstradas por:",
+  "o": [
+   "Impregnação pela prata",
+   "Sudan / Oil Red O",
+   "Tricrômico de Masson",
+   "Hematoxilina e eosina de rotina"
+  ],
+  "e": "As leptospiras são argirófilas e aparecem negras na impregnação pela prata."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Para determinar a origem celular de um tumor pouco diferenciado, a técnica que marca uma proteína específica com anticorpos é a:",
+  "o": [
+   "Imuno-histoquímica",
+   "Coloração de PAS",
+   "Impregnação pela prata",
+   "Coloração de Giemsa"
+  ],
+  "e": "A imuno-histoquímica usa anticorpos contra proteínas específicas, identificando a linhagem do tumor e agentes infecciosos."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Num corante dito “básico”, a parte colorida (cromóforo) da molécula tem carga:",
+  "o": [
+   "Positiva",
+   "Negativa",
+   "Neutra",
+   "Variável conforme a luz"
+  ],
+  "e": "Corante básico = cromóforo catiônico (+), que se liga a grupos negativos do tecido."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Qual grupo químico do tecido é o principal responsável pela basofilia do núcleo?",
+  "o": [
+   "Fosfato dos ácidos nucleicos",
+   "Amina dos resíduos de lisina",
+   "Hidroxila dos grânulos de glicogênio",
+   "Carboxila dos ácidos graxos"
+  ],
+  "e": "Os fosfatos do DNA e do RNA têm carga negativa e atraem a hematoxilina."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Para a hematoxilina corar o núcleo, ela precisa ser oxidada e combinada a um:",
+  "o": [
+   "Mordente metálico",
+   "Solvente orgânico",
+   "Fixador ácido",
+   "Detergente aniônico"
+  ],
+  "e": "A hemateína ligada a um mordente (alúmen de alumínio ou ferro) forma o complexo catiônico."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Uma célula com citoplasma intensamente acidófilo e granuloso, como a célula parietal do estômago, provavelmente é rica em:",
+  "o": [
+   "Mitocôndrias",
+   "Ribossomos livres",
+   "Retículo endoplasmático rugoso",
+   "Glicogênio"
+  ],
+  "e": "Mitocôndrias são ricas em proteínas e coram com eosina."
+ },
+ {
+  "c": "tintoriais",
+  "q": "O alcian blue em pH 1,0 cora apenas mucinas sulfatadas porque, nesse pH:",
+  "o": [
+   "As carboxilas perdem a carga negativa",
+   "Os sulfatos passam a ter carga positiva",
+   "As proteínas ficam com carga negativa",
+   "Os fosfatos são removidos do tecido"
+  ],
+  "e": "Em pH muito baixo as carboxilas ficam protonadas (−COOH); só os sulfatos continuam negativos."
+ },
+ {
+  "c": "tintoriais",
+  "q": "A reação do PAS se baseia em:",
+  "o": [
+   "Oxidar carboidratos a aldeídos que reagem com o reativo de Schiff",
+   "Dissolver lipídios com um corante lipossolúvel vermelho",
+   "Precipitar prata metálica sobre fibras reticulares",
+   "Ligar anticorpos marcados a proteínas específicas"
+  ],
+  "e": "O ácido periódico cria aldeídos em açúcares; o Schiff os cora de magenta."
+ },
+ {
+  "c": "tintoriais",
+  "q": "No tricrômico de Masson, o colágeno aparece em:",
+  "o": [
+   "Azul ou verde",
+   "Vermelho-vivo",
+   "Negro",
+   "Laranja"
+  ],
+  "e": "O corante grande (azul de anilina ou verde-luz) só penetra no colágeno; músculo fica vermelho."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Num corte em HE de cartilagem hialina, a matriz fica arroxeada e o pericôndrio fica rosado porque o pericôndrio é rico em:",
+  "o": [
+   "Colágeno tipo I (proteína)",
+   "Condroitim sulfato agregado",
+   "Ácido hialurônico não ligado",
+   "Fosfatos de ácidos nucleicos"
+  ],
+  "e": "O colágeno (proteína com grupos amina) atrai a eosina; os sulfatos da matriz atraem a hematoxilina."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Na citologia de um nódulo cutâneo de cão, células redondas cheias de grânulos roxo-avermelhados com azul de toluidina sugerem:",
+  "o": [
+   "Mastocitoma",
+   "Lipoma",
+   "Histiocitoma",
+   "Melanoma"
+  ],
+  "e": "Grânulos metacromáticos de heparina caracterizam mastócitos."
+ },
+ {
+  "c": "tintoriais",
+  "q": "A metacromasia ocorre porque as moléculas do corante:",
+  "o": [
+   "Empilham-se sobre poliânions muito agrupados",
+   "Oxidam-se ao contato com proteínas básicas",
+   "Perdem a carga elétrica em pH muito ácido",
+   "Dissolvem-se nas gotículas de gordura"
+  ],
+  "e": "O empilhamento sobre cargas negativas próximas desloca a absorção de luz."
+ },
+ {
+  "c": "tintoriais",
+  "q": "A coloração de Perls (azul da Prússia) evidencia:",
+  "o": [
+   "Ferro da hemossiderina",
+   "Fibras elásticas",
+   "Mucinas ácidas",
+   "Bacilos álcool-ácido resistentes"
+  ],
+  "e": "O ferro férrico reage com ferrocianeto formando pigmento azul; útil em hemorragias antigas."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Para demonstrar Babesia e Anaplasma num esfregaço de sangue, a coloração de rotina é:",
+  "o": [
+   "Giemsa (Romanowsky)",
+   "Tricrômico de Masson",
+   "Sudan IV",
+   "Orceína"
+  ],
+  "e": "Corantes do tipo Romanowsky evidenciam hemoparasitas em esfregaços."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Na HE, o fibrócito (fibroblasto quiescente) aparece como:",
+  "o": [
+   "Núcleo alongado, fino e escuro, sem citoplasma visível",
+   "Núcleo excêntrico em roda de carroça e halo claro",
+   "Célula redonda cheia de grânulos metacromáticos",
+   "Anel claro com núcleo periférico achatado"
+  ],
+  "e": "O fibrócito tem cromatina condensada e citoplasma escasso entre os feixes de colágeno."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Qual célula forma células gigantes multinucleadas nos granulomas da tuberculose?",
+  "o": [
+   "Macrófago",
+   "Plasmócito",
+   "Mastócito",
+   "Fibroblasto"
+  ],
+  "e": "Macrófagos ativados se fundem e formam células gigantes."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Como diferenciar um plasmócito de um linfócito na HE?",
+  "o": [
+   "O plasmócito tem muito citoplasma basófilo e núcleo excêntrico",
+   "O plasmócito não tem núcleo visível na coloração HE",
+   "O linfócito tem grânulos metacromáticos no citoplasma",
+   "O linfócito é sempre maior e tem citoplasma acidófilo"
+  ],
+  "e": "O linfócito é quase só núcleo; o plasmócito tem citoplasma amplo, basófilo, com halo do Golgi."
+ },
+ {
+  "c": "tintoriais",
+  "q": "O adipócito multilocular da gordura parda é acidófilo e granuloso porque contém muitas:",
+  "o": [
+   "Mitocôndrias",
+   "Gotas de muco",
+   "Vesículas de heparina",
+   "Cisternas de RER"
+  ],
+  "e": "A gordura parda tem muitas mitocôndrias com UCP1 para termogênese."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Numa célula epitelial cúbica, o núcleo costuma ser:",
+  "o": [
+   "Redondo e central",
+   "Achatado e paralelo à superfície",
+   "Ovoide e basal",
+   "Lobulado e excêntrico"
+  ],
+  "e": "A forma do núcleo acompanha a forma da célula."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Fibra muscular estriada com núcleos periféricos logo abaixo da membrana caracteriza o músculo:",
+  "o": [
+   "Esquelético",
+   "Cardíaco",
+   "Liso",
+   "Mioepitelial"
+  ],
+  "e": "O cardiomiócito tem núcleo central; o liso não tem estrias."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Os corpúsculos de Nissl, basófilos, no corpo do neurônio correspondem a:",
+  "o": [
+   "Retículo endoplasmático rugoso",
+   "Mitocôndrias agrupadas perto do núcleo",
+   "Grânulos de glicogênio no citoplasma",
+   "Lisossomos com pigmento lipofuscina"
+  ],
+  "e": "O RER e os ribossomos ricos em RNA coram com hematoxilina."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Hepatócitos de cão tratado com corticoide aparecem “rendados” na HE. Para confirmar que o conteúdo é glicogênio, usa-se:",
+  "o": [
+   "PAS com e sem diástase",
+   "Sudan em corte de parafina",
+   "Ziehl-Neelsen",
+   "Impregnação pela prata"
+  ],
+  "e": "A diástase digere o glicogênio: o material PAS-positivo some no corte tratado."
+ },
+ {
+  "c": "tintoriais",
+  "q": "Grânulos castanho-escuros em áreas ricas em sangue, num tecido fixado em formol não tamponado, provavelmente são:",
+  "o": [
+   "Pigmento de formol (artefato)",
+   "Melanina de melanócitos",
+   "Hemossiderina de hemorragia antiga",
+   "Grânulos de mastócitos"
+  ],
+  "e": "Formol ácido reage com a hemoglobina e forma pigmento artefatual."
+ }
+]

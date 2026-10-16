@@ -12,17 +12,6 @@
  },
  {
   "c": "esqueleto",
-  "q": "No adulto, a medula óssea amarela fica principalmente:",
-  "o": [
-   "Na cavidade medular da diáfise dos ossos longos",
-   "Nas epífises, entre as trabéculas do osso esponjoso",
-   "No periósteo que reveste a superfície da diáfise",
-   "No disco epifisário, entre a epífise e a metáfise"
-  ],
-  "e": "A amarela (gordura) ocupa a cavidade medular da diáfise; a vermelha fica no esponjoso das epífises."
- },
- {
-  "c": "esqueleto",
   "q": "Carpo e tarso são classificados como ossos:",
   "o": [
    "Curtos",
@@ -42,83 +31,6 @@
    "Irregular"
   ],
   "e": "Expandida em duas direções, serve de inserção muscular."
- },
- {
-  "c": "esqueleto",
-  "q": "“Região próxima ao côndilo onde se inserem os ligamentos colaterais” define:",
-  "o": [
-   "Epicôndilo",
-   "Tuberosidade",
-   "Fóvea",
-   "Tróclea"
-  ],
-  "e": "Epicôndilo = ao lado do côndilo, para os colaterais."
- },
- {
-  "c": "esqueleto",
-  "q": "A artéria nutrícia entra no osso pelo:",
-  "o": [
-   "Forame nutrício",
-   "Canal de Havers",
-   "Forame magno",
-   "Sulco intertubercular"
-  ],
-  "e": "Cada osso tem seu forame nutrício. Os ossos recebem cerca de 10% do débito cardíaco."
- },
- {
-  "c": "esqueleto",
-  "q": "Qual estrutura é capaz de formar tecido ósseo e é essencial para consolidar fraturas?",
-  "o": [
-   "Periósteo",
-   "Cartilagem articular",
-   "Medula amarela",
-   "Ligamento colateral"
-  ],
-  "e": "Membrana fibrosa de alta celularidade, com células osteoprogenitoras na camada interna."
- },
- {
-  "c": "esqueleto",
-  "q": "Fórmula vertebral dos carnívoros:",
-  "o": [
-   "C7 T13 L7 S3 Ca20–23",
-   "C7 T18 L6 S5 Ca15–21",
-   "C7 T13 L6 S5 Ca18–20",
-   "C7 T14–15 L6–7 S4 Ca20–23"
-  ],
-  "e": "Carnívoro: 13-7-3. Equino tem 18 torácicas; bovino L6 S5; suíno T14–15."
- },
- {
-  "c": "esqueleto",
-  "q": "Quantas vértebras torácicas tem o equino?",
-  "o": [
-   "18",
-   "13",
-   "14",
-   "15"
-  ],
-  "e": "O cavalo é o campeão: 18 torácicas e 18 pares de costelas."
- },
- {
-  "c": "esqueleto",
-  "q": "Um Pug tem crânio:",
-  "o": [
-   "Braquicefálico",
-   "Dolicocefálico",
-   "Mesocefálico",
-   "Pneumático"
-  ],
-  "e": "Curto e largo. Dolicocefálico = Collie, Borzoi; mesocefálico = Pastor Alemão."
- },
- {
-  "c": "esqueleto",
-  "q": "A camada mais profunda da cartilagem articular é:",
-  "o": [
-   "Calcificada",
-   "Recoberta por pericôndrio",
-   "Formada por fibrocartilagem",
-   "Vascularizada"
-  ],
-  "e": "Segundo a conferência: lisa, não uniforme e calcificada na camada mais profunda."
  },
  {
   "c": "esqueleto",
@@ -155,17 +67,6 @@
  },
  {
   "c": "esqueleto",
-  "q": "Segundo a apostila, qual destas espécies tem mais ossos?",
-  "o": [
-   "Suíno (223)",
-   "Bovino (188)",
-   "Equino (189)",
-   "Humano (206)"
-  ],
-  "e": "Cão tem 215. O número varia com a idade e com o critério de contagem."
- },
- {
-  "c": "esqueleto",
   "q": "Como o membro torácico se prende ao tronco?",
   "o": [
    "Só por músculos, sem articulação óssea",
@@ -177,17 +78,6 @@
  },
  {
   "c": "esqueleto",
-  "q": "Tubérculo, tuberosidade e trocânter são saliências que servem para:",
-  "o": [
-   "Inserção de tendões e ligamentos",
-   "Articulação com outro osso",
-   "Passagem de vasos",
-   "Alojar a medula óssea"
-  ],
-  "e": "Côndilo, cabeça e tróclea é que são saliências articulares."
- },
- {
-  "c": "esqueleto",
   "q": "São exemplos de ossos longo, plano, curto e irregular, nesta ordem:",
   "o": [
    "Fêmur, escápula, carpo, vértebra",
@@ -196,17 +86,6 @@
    "Carpo, vértebra, fêmur, escápula"
   ],
   "e": "Questão da apostila: longo = fêmur; plano = escápula; curto = carpos; irregular = vértebras."
- },
- {
-  "c": "esqueleto",
-  "q": "Sobre os ossos longos, é INCORRETO afirmar:",
-  "o": [
-   "Apenas os ossos longos possuem medula óssea",
-   "Comprimento maior que largura e espessura",
-   "Úmero, rádio, fêmur e tíbia são exemplos",
-   "Possuem osso compacto e esponjoso"
-  ],
-  "e": "Ossos curtos, planos e irregulares também têm medula no osso esponjoso."
  },
  {
   "c": "esqueleto",
@@ -309,50 +188,6 @@
  },
  {
   "c": "esqueleto",
-  "q": "Qual proporção aproximada da massa óssea é reciclada (remodelada) a cada ano?",
-  "o": [
-   "5 a 7%",
-   "Menos de 0,5%",
-   "30 a 40%",
-   "Cerca de 70%"
-  ],
-  "e": "O osso é um órgão vivo e dinâmico: cerca de 5 a 7% da massa óssea é renovada por ano."
- },
- {
-  "c": "esqueleto",
-  "q": "Na medula óssea vermelha, os megacariócitos são as células que originam:",
-  "o": [
-   "Plaquetas",
-   "Eritrócitos",
-   "Osteoclastos",
-   "Adipócitos da medula amarela"
-  ],
-  "e": "Os megacariócitos fragmentam seu citoplasma para formar as plaquetas; a medula vermelha também produz eritrócitos e leucócitos."
- },
- {
-  "c": "esqueleto",
-  "q": "Os ossos recebem cerca de que fração do débito cardíaco, e qual é sua principal via de irrigação?",
-  "o": [
-   "10%, principalmente pela artéria nutrícia",
-   "1%, apenas por vasos do periósteo",
-   "25%, principalmente por vasos epifisários",
-   "50%, pela artéria nutrícia e pela cartilagem articular"
-  ],
-  "e": "Cerca de 10% do débito cardíaco chega aos ossos; a artéria nutrícia é a principal fonte, complementada por vasos periosteais, metafisários e epifisários."
- },
- {
-  "c": "esqueleto",
-  "q": "Em um osso plano da calota craniana, a camada de osso esponjoso situada entre duas lâminas de osso compacto chama-se:",
-  "o": [
-   "Díploe",
-   "Cavidade medular",
-   "Seio paranasal",
-   "Linha epifisária"
-  ],
-  "e": "O díploe é o esponjoso entre as tábuas compactas externa e interna dos ossos planos do crânio."
- },
- {
-  "c": "esqueleto",
   "q": "Ossos curtos, como os do carpo e do tarso, têm como função principal:",
   "o": [
    "Difundir a concussão, amortecendo impactos",
@@ -397,167 +232,222 @@
  },
  {
   "c": "esqueleto",
-  "q": "Uma superfície articular em forma de roldana, como a do fêmur distal, é denominada:",
+  "q": "O corpo de um nematódeo como o Toxocara é sustentado por qual tipo de esqueleto?",
   "o": [
-   "Tróclea",
-   "Trocânter",
-   "Tuberosidade",
-   "Incisura"
+   "Hidroesqueleto",
+   "Exoesqueleto de quitina",
+   "Endoesqueleto cartilaginoso",
+   "Endoesqueleto ósseo"
   ],
-  "e": "Tróclea é a superfície articular em roldana; trocânter é um grande processo de inserção exclusivo do fêmur."
+  "e": "Nematódeos usam líquido sob pressão contra a parede muscular: hidroesqueleto."
  },
  {
   "c": "esqueleto",
-  "q": "O termo “trocânter” designa um grande processo de inserção muscular encontrado apenas em qual osso?",
+  "q": "O exoesqueleto dos artrópodes, como carrapatos e pulgas, é formado principalmente por:",
   "o": [
-   "Fêmur",
-   "Úmero",
-   "Tíbia",
-   "Escápula"
+   "Cutícula de quitina",
+   "Placas de hidroxiapatita",
+   "Cartilagem calcificada",
+   "Escamas de queratina"
   ],
-  "e": "Trocânter é um acidente exclusivo do fêmur (trocânter maior, menor e, em equinos, terceiro trocânter)."
+  "e": "A cutícula quitinosa é o exoesqueleto dos artrópodes."
  },
  {
   "c": "esqueleto",
-  "q": "A incisura troclear da ulna recebe esse nome porque “incisura” significa:",
+  "q": "Qual é a principal limitação de um exoesqueleto em relação ao endoesqueleto?",
   "o": [
-   "Chanfradura ou entalhe na borda de um osso",
-   "Superfície articular arredondada e convexa",
-   "Orifício por onde passam vasos e nervos",
-   "Protuberância rugosa de inserção tendínea"
+   "Não cresce, exigindo mudas periódicas",
+   "Não protege os órgãos internos",
+   "Não permite fixação muscular",
+   "Não resiste à compressão"
   ],
-  "e": "Incisura é um entalhe na borda do osso; no caso da ulna, ele recebe a tróclea do úmero."
+  "e": "A carapaça rígida não cresce; o animal precisa fazer ecdise."
  },
  {
   "c": "esqueleto",
-  "q": "Côndilo, cabeça, capítulo e tróclea pertencem a qual grupo funcional de acidentes ósseos?",
+  "q": "Em um hidroesqueleto, a força muscular é transmitida porque:",
   "o": [
-   "Saliências articulares",
-   "Saliências de inserção",
-   "Depressões não articulares",
-   "Aberturas"
+   "O líquido interno é praticamente incompressível",
+   "O líquido se transforma em gel rígido",
+   "Há placas ósseas na parede",
+   "A cutícula endurece ao contrair"
   ],
-  "e": "São saliências lisas que se encaixam em outro osso; túber, tubérculo, trocânter e epicôndilo são saliências de inserção."
+  "e": "Água não se comprime: a contração de um lado empurra o líquido para outro."
  },
  {
   "c": "esqueleto",
-  "q": "Ao examinar um osso seco, você nota uma área de superfície rugosa. A interpretação mais provável é que ali havia:",
+  "q": "O fluazuron, usado contra carrapatos em bovinos, age porque:",
   "o": [
-   "Inserção de músculo, tendão ou ligamento",
-   "Contato articular com outro osso",
-   "Passagem de vaso nutrício",
-   "Revestimento por cartilagem hialina"
+   "Impede a síntese de quitina e bloqueia a muda",
+   "Paralisa a musculatura do hidroesqueleto",
+   "Dissolve o cálcio do exoesqueleto",
+   "Bloqueia a ossificação endocondral"
   ],
-  "e": "Superfícies lisas indicam articulação; superfícies rugosas indicam fixação de músculos, tendões ou ligamentos."
+  "e": "Inibidores da síntese de quitina impedem a troca de cutícula."
  },
  {
   "c": "esqueleto",
-  "q": "Quantas vértebras torácicas tem o bovino?",
+  "q": "O casco (carapaça) de uma tartaruga corresponde a:",
   "o": [
-   "13",
-   "18",
-   "15",
-   "14"
+   "Impede a síntese de quitina e a muda",
+   "Paralisa a musculatura do parasita adulto",
+   "Dissolve o cálcio da carapaça externa",
+   "Bloqueia a ossificação das patas"
   ],
-  "e": "O bovino tem 13 torácicas (fórmula C7 T13 L6 S5), o mesmo número dos carnívoros; o equino tem 18."
+  "e": "Costelas e vértebras se fundem a placas dérmicas: é endoesqueleto."
  },
  {
   "c": "esqueleto",
-  "q": "Qual espécie doméstica apresenta 14 a 15 vértebras torácicas?",
+  "q": "Qual característica é exclusiva do endoesqueleto ósseo entre os três tipos de esqueleto?",
   "o": [
-   "Suíno",
-   "Ovino",
-   "Bovino",
-   "Gato"
+   "Endoesqueleto fundido a placas ósseas",
+   "Exoesqueleto de quitina endurecida",
+   "Hidroesqueleto com paredes calcificadas",
+   "Anexo de queratina, sem osso por baixo"
   ],
-  "e": "O suíno tem T14–15, diferindo dos ruminantes e carnívoros (T13) e do equino (T18)."
+  "e": "Osso é vascularizado e celular: cresce, repara e remodela."
  },
  {
   "c": "esqueleto",
-  "q": "Em relação ao número de vértebras cervicais nos mamíferos domésticos, é correto afirmar que:",
+  "q": "Tubarões e raias mantêm por toda a vida um esqueleto:",
   "o": [
-   "São sete em todas as espécies domésticas",
-   "Variam de seis a nove conforme o comprimento do pescoço",
-   "O equino tem nove, por ter o pescoço mais longo",
-   "Os carnívoros têm cinco, compensadas por mais lombares"
+   "Cartilaginoso",
+   "Ósseo lamelar",
+   "Hidrostático",
+   "De quitina"
   ],
-  "e": "O número de cervicais é constante (7) entre os domésticos, independentemente do comprimento do pescoço; o pescoço longo do equino resulta de vértebras mais longas, não mais numerosas."
+  "e": "Os condrictes não substituem a cartilagem por osso."
  },
  {
   "c": "esqueleto",
-  "q": "Comparado ao cão, o equino apresenta, nas regiões lombar e sacral:",
+  "q": "Por que a cartilagem se repara mais lentamente que o osso?",
   "o": [
-   "Uma lombar a menos e duas sacrais a mais",
-   "Uma lombar a mais e duas sacrais a menos",
-   "O mesmo número de lombares e sacrais",
-   "Duas lombares a menos e o mesmo número de sacrais"
+   "Por ser avascular, nutrida por difusão",
+   "Por não ter matriz extracelular",
+   "Por ter muitos osteoclastos",
+   "Por ser coberta por periósteo"
   ],
-  "e": "Cão: L7 S3; equino: L6 S5. Os grandes herbívoros têm menos lombares e mais sacrais que os carnívoros."
+  "e": "Sem vasos, a cartilagem depende de difusão e tem pouca capacidade de reparo."
  },
  {
   "c": "esqueleto",
-  "q": "Qual variação da fórmula vertebral é descrita no asno (e às vezes no cavalo árabe)?",
+  "q": "No mamífero adulto, onde a cartilagem persiste como parte do esqueleto?",
   "o": [
-   "Apenas cinco vértebras lombares",
-   "Dezenove vértebras torácicas",
-   "Oito vértebras cervicais",
-   "Apenas três vértebras sacrais"
+   "Ser avascular, nutrida por difusão",
+   "Não ter nenhuma matriz extracelular",
+   "Ter excesso de osteoclastos ativos",
+   "Ser coberta por periósteo espesso"
   ],
-  "e": "O asno pode ter só 5 lombares, uma variação citada também em alguns cavalos árabes."
+  "e": "Cartilagens articulares, costais, laríngeas, nasais e auriculares persistem."
  },
  {
   "c": "esqueleto",
-  "q": "Considerando a fórmula vertebral, o número total de vértebras do cão fica, aproximadamente, entre:",
+  "q": "Aproximadamente que proporção do cálcio corporal está armazenada no esqueleto?",
   "o": [
-   "50 e 53",
-   "30 e 33",
-   "60 e 65",
-   "40 e 42"
+   "Cerca de 99%",
+   "Cerca de 50%",
+   "Cerca de 20%",
+   "Cerca de 5%"
   ],
-  "e": "C7 + T13 + L7 + S3 somam 30; com 20 a 23 caudais, o total fica entre 50 e 53."
+  "e": "Quase todo o cálcio do corpo está no osso; o sangue tem uma fração mínima."
  },
  {
   "c": "esqueleto",
-  "q": "Rottweiler de 5 anos com claudicação dos membros pélvicos e dor ao levantar. Na radiografia ventrodorsal, as cabeças femorais estão achatadas e mal encaixadas em acetábulos rasos. A suspeita principal é:",
+  "q": "O osso medular das galinhas poedeiras serve como reserva de cálcio usada:",
   "o": [
-   "Displasia coxofemoral",
-   "Ruptura do ligamento cruzado cranial",
-   "Luxação medial da patela",
-   "Fratura do disco epifisário"
+   "Na casca do ovo, via cálcio",
+   "Para abrigar os sacos aéreos",
+   "Para produzir plaquetas extras",
+   "Para aumentar a força de voo"
   ],
-  "e": "O mau encaixe da cabeça do fêmur no acetábulo é o achado típico da displasia coxofemoral, reconhecido comparando-se com a anatomia normal."
+  "e": "Sob estrógeno, forma-se osso de reserva de cálcio dentro dos ossos longos."
  },
  {
   "c": "esqueleto",
-  "q": "A membrana fina que reveste a cavidade medular e as trabéculas do osso esponjoso, também fornecendo células formadoras de osso, é o:",
+  "q": "Qual destas funções do esqueleto depende diretamente da medula óssea vermelha?",
   "o": [
-   "Endósteo",
-   "Periósteo",
-   "Pericôndrio",
-   "Epimísio"
+   "Hematopoiese",
+   "Proteção do encéfalo",
+   "Alavanca para locomoção",
+   "Conformação da raça"
   ],
-  "e": "O endósteo reveste internamente o osso; o periósteo o reveste por fora; o pericôndrio envolve a cartilagem."
+  "e": "A medula vermelha produz células do sangue."
  },
  {
   "c": "esqueleto",
-  "q": "Em um osso longo em crescimento, a região de transição entre diáfise e epífise, onde fica o disco (e depois a linha) epifisário, é a:",
+  "q": "As clavículas fundidas das aves formam a:",
   "o": [
-   "Metáfise",
-   "Diáfise",
-   "Cavidade medular",
-   "Superfície articular"
+   "Fúrcula",
+   "Carena",
+   "Sinsacro",
+   "Pigóstilo"
   ],
-  "e": "A metáfise é a zona de crescimento que abriga o disco epifisário; após o fim do crescimento, resta a linha epifisária."
+  "e": "A fúrcula (“osso da sorte”) resulta da fusão das clavículas."
  },
  {
   "c": "esqueleto",
-  "q": "Por que o número total de ossos de uma mesma espécie varia entre as fontes?",
+  "q": "Qual dos ossos abaixo pertence ao esqueleto apendicular?",
   "o": [
-   "Porque ossos do jovem se fundem no adulto e os critérios de contagem variam",
-   "Porque o número de vértebras cervicais varia muito entre indivíduos da raça",
-   "Porque os sesamoides só se formam após fraturas cicatrizadas no adulto",
-   "Porque o esqueleto visceral é contado apenas nos herbívoros e nos suínos"
+   "Escápula",
+   "Esterno",
+   "Costela",
+   "Mandíbula"
   ],
-  "e": "A contagem depende da idade (fusão de centros de ossificação) e do critério de cada autor, por isso os valores são aproximados."
+  "e": "A escápula forma o cíngulo escapular, parte do apendicular."
+ },
+ {
+  "c": "esqueleto",
+  "q": "A união da escápula ao tronco apenas por músculos é chamada:",
+  "o": [
+   "Sinsarcose",
+   "Sindesmose",
+   "Sincondrose",
+   "Sinostose"
+  ],
+  "e": "Sinsarcose: união por músculos, que amortece o impacto do membro torácico."
+ },
+ {
+  "c": "esqueleto",
+  "q": "Fraturas em lasca dos ossos do carpo são comuns em cavalos atletas. Esses ossos são classificados como:",
+  "o": [
+   "Curtos",
+   "Longos",
+   "Planos",
+   "Alongados"
+  ],
+  "e": "Carpo e tarso são ossos curtos, que amortecem a concussão."
+ },
+ {
+  "c": "esqueleto",
+  "q": "Após a descorna de um bovino adulto pode surgir sinusite. O osso envolvido é:",
+  "o": [
+   "Pneumático (frontal)",
+   "Sesamoide",
+   "Curto",
+   "Alongado"
+  ],
+  "e": "O seio frontal se estende ao processo cornual; o frontal é pneumático."
+ },
+ {
+  "c": "esqueleto",
+  "q": "Qual das combinações relaciona corretamente animal e tipo de esqueleto?",
+  "o": [
+   "Minhoca: hidroesqueleto; caranguejo: exoesqueleto",
+   "Minhoca: exoesqueleto; caranguejo: endoesqueleto",
+   "Tubarão: exoesqueleto; carrapato: endoesqueleto",
+   "Cão: hidroesqueleto; pulga: endoesqueleto"
+  ],
+  "e": "Minhoca usa líquido; crustáceos têm carapaça externa."
+ },
+ {
+  "c": "esqueleto",
+  "q": "Os ossos das vértebras, do sacro e da base do crânio são classificados pela forma como:",
+  "o": [
+   "Minhoca: hidro; caranguejo: exo",
+   "Minhoca: exo; caranguejo: endo",
+   "Tubarão: exo; carrapato: endo",
+   "Cão: hidro; pulga: endoesqueleto"
+  ],
+  "e": "Vértebras e ossos da base do crânio têm forma irregular."
  }
 ]

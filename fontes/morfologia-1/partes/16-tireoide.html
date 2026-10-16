@@ -2,12 +2,15 @@
   <div class="ch-head">
     <div class="ch-num">16</div>
     <div><span class="eyebrow">Unidade II · Morfologia óssea e glândulas associadas · 02.04 Glândulas tireoide e paratireoide</span><h2>Glândulas tireoide e paratireoide</h2></div>
-    <div class="ch-meta"><button class="done-btn" data-done="tireoide" aria-pressed="false">Marcar como estudado</button><span class="chip">~30 min</span></div>
+    <div class="ch-meta"><button class="done-btn" data-done="tireoide" aria-pressed="false">Marcar como estudado</button><span class="chip">~40 min</span></div>
   </div>
   <div class="col">
-    <p class="oneliner">PENDENTE</p>
+    <p class="oneliner">A tireoide, folicular e acidófila, fabrica e estoca T3 e T4 no coloide e produz calcitonina nas células C; a paratireoide, cordonal e basófila, secreta PTH. Juntas regulam o metabolismo e o cálcio do sangue.</p>
     <div class="goals rv"><h4>Objetivos</h4><ul>
-      <li>PENDENTE</li></ul></div>
+      <li>Reconhecer em lâmina a tireoide (folicular) e a paratireoide (cordonal).</li>
+      <li>Descrever as etapas da síntese e da liberação de T3 e T4 pelo folículo.</li>
+      <li>Relacionar células parafoliculares e calcitonina e células principais e PTH.</li>
+      <li>Explicar o controle do cálcio sanguíneo e doenças associadas nos animais domésticos.</li></ul></div>
 
     <h3><span class="tag">16.1</span>Tireoide: glândula folicular</h3>
     <p>A tireoide é chamada de <strong>glândula folicular</strong> porque suas unidades são esferas ocas, os <strong>folículos tireoidianos</strong>, que no corte aparecem como estruturas ovais.</p>
@@ -31,7 +34,34 @@
       <figure class="fig"><img src="img/paratireoide-a.jpg" loading="lazy" alt="Paratireoide marcada com A ao lado da tireoide"><figcaption><b>Questão de aula.</b> “A” é a paratireoide: parte principal, produz o paratormônio.</figcaption></figure>
     </div>
 
-    <h3><span class="tag">16.3</span>O controle do cálcio</h3>
+    <h3><span class="tag">16.3</span>Anatomia e fisiologia do folículo: de iodo a T3 e T4</h3>
+    <p><b>Onde fica.</b> A tireoide tem dois <b>lobos</b> aplicados às faces laterais dos primeiros anéis da traqueia, logo caudais à laringe, unidos por um <b>istmo</b> ventral. O istmo é glandular e evidente no suíno (que tem a tireoide quase ímpar, ventral à traqueia) e no bovino; no equino, no cão e no gato costuma ser apenas uma faixa fibrosa ou faltar. As <b>paratireoides</b> são pequenas (milímetros): no cão e no gato há uma <b>externa</b> (paratireoide III, cranial ao lobo) e uma <b>interna</b> (IV, mergulhada no parênquima tireoidiano) de cada lado. No ruminante e no equino a paratireoide III pode ficar longe, perto da bifurcação da carótida ou na entrada do tórax.</p>
+    <div class="note clin"><b>Na clínica</b><p>Na <b>tireoidectomia</b> do gato com hipertireoidismo, preservar a paratireoide externa e sua irrigação é o que evita a <b>hipocalcemia pós-operatória</b> (tremores, convulsões) nos dias seguintes. Saber que ela fica no polo cranial do lobo é anatomia aplicada pura.</p></div>
+    <p><b>Como o folículo trabalha.</b> O folículo é a única glândula endócrina que estoca seu produto <b>fora da célula</b>, no coloide, com reserva para semanas. A célula folicular é, ao mesmo tempo, exócrina (secreta para o lúmen) e endócrina (secreta para o capilar), em fases sucessivas:</p>
+    <ol class="steps">
+      <li><b>Captação do iodeto</b><span>Na membrana basal, o simportador Na⁺/I⁻ (NIS) concentra o iodeto do sangue 20 a 40 vezes dentro da célula.</span></li>
+      <li><b>Síntese da tireoglobulina</b><span>RER e Golgi produzem a tireoglobulina, glicoproteína rica em tirosina, exocitada para o coloide.</span></li>
+      <li><b>Iodação no coloide</b><span>Na membrana apical, a peroxidase tireoidiana (TPO) oxida o iodo e o liga às tirosinas da tireoglobulina (MIT e DIT), que depois se acoplam: DIT + DIT = T4; MIT + DIT = T3.</span></li>
+      <li><b>Estoque</b><span>T3 e T4 ficam presos à tireoglobulina no coloide: é por isso que o coloide cora em rosa (proteína acidófila).</span></li>
+      <li><b>Endocitose e liberação</b><span>Sob estímulo do <b>TSH</b> da adeno-hipófise, a célula engloba gotas de coloide, os lisossomos digerem a tireoglobulina e T4 (cerca de 90%) e T3 saem pela base para o capilar fenestrado.</span></li>
+    </ol>
+    <section class="labbox rv" aria-labelledby="folTitle">
+      <header><div><span class="eyebrow">Animação</span><h4 id="folTitle">O folículo tireoidiano produzindo e liberando hormônio</h4></div>
+        <div class="ctrl" style="margin:0"><button class="btn" type="button" id="folPlay">▶ Reproduzir</button><button class="tbtn" type="button" id="folPause">⏸ Pausar</button><button class="tbtn" type="button" id="folReset">↺ Reiniciar</button></div></header>
+      <label class="ctrl" style="display:flex;gap:10px;align-items:center">Linha do tempo <input type="range" id="folRange" min="0" max="1000" value="0" style="flex:1" aria-label="Posição da animação"></label>
+      <div class="svgwrap"><svg id="folSvg" viewBox="0 0 600 400" role="img" aria-label="Folículo tireoidiano: iodeto entra pela base, tireoglobulina vai ao coloide, é iodada, reabsorvida e T3 e T4 saem para o capilar"></svg></div>
+      <div class="readout" id="folOut" aria-live="polite"></div>
+    </section>
+    <div class="tbl"><table>
+      <thead><tr><th>Aspecto do folículo</th><th>Epitélio</th><th>Coloide</th><th>Significado</th></tr></thead>
+      <tbody>
+        <tr><td><b>Em repouso</b></td><td>Pavimentoso a cúbico baixo</td><td>Abundante, denso, sem vacúolos</td><td>Pouco TSH; hormônio estocado</td></tr>
+        <tr><td><b>Ativo</b></td><td>Cúbico alto a colunar</td><td>Escasso, com vacúolos de reabsorção na borda</td><td>Muito TSH; liberação intensa</td></tr>
+        <tr><td><b>Bócio coloide</b></td><td>Achatado</td><td>Folículos enormes, distendidos</td><td>Fase de involução após hiperplasia</td></tr>
+      </tbody></table></div>
+    <div class="note trap"><b>Pegadinha</b><p>A glândula produz principalmente <b>T4</b>, mas o hormônio mais ativo nos tecidos é o <b>T3</b>, obtido pela retirada de um iodo (desiodase) no fígado, no rim e no músculo. Tireoide = “fábrica de T4”; tecidos = “ativadores em T3”.</p></div>
+
+    <h3><span class="tag">16.4</span>O controle do cálcio</h3>
     <section class="labbox rv calc" aria-labelledby="caTitle">
       <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="caTitle">Simulador do cálcio sanguíneo</h4></div></header>
       <div class="svgwrap">
@@ -77,6 +107,19 @@
     <div class="note mem"><b>Memorize</b><p>Calci<b>TON</b>ina “<b>TONifica</b>” o osso (põe cálcio nele). <b>PARA</b>tormônio “<b>PARA</b> de guardar” e manda o cálcio de volta ao sangue.</p></div>
     <div class="note trap"><b>Pegadinha (estava nas anotações)</b><p>Em um resumo aparece “células paratireoides → calcitonina”. <b>Errado.</b> Calcitonina vem das células <b>parafoliculares da tireoide</b>. A paratireoide produz <b>PTH</b>. Os nomes “parafolicular” e “paratireoide” são parecidos de propósito na prova.</p></div>
     <div class="note trap"><b>Outra confusão comum</b><p>Tireoide = <b>acidófila</b> (rosa, por causa do coloide). Paratireoide = <b>basófila</b> (roxa, células densas em cordões).</p></div>
+
+    <h3><span class="tag">16.5</span>Doenças da tireoide e da paratireoide nos animais</h3>
+    <div class="tbl"><table>
+      <thead><tr><th>Doença</th><th>Espécie típica</th><th>O que acontece</th><th>Sinais</th></tr></thead>
+      <tbody>
+        <tr><td><b>Hipotireoidismo</b></td><td>Cão (raças médias e grandes, meia-idade)</td><td>Tireoidite linfocítica autoimune ou atrofia idiopática destroem os folículos</td><td>Letargia, ganho de peso, alopecia simétrica, “cauda de rato”, pele espessa, intolerância ao frio</td></tr>
+        <tr><td><b>Hipertireoidismo</b></td><td>Gato idoso</td><td>Hiperplasia ou adenoma folicular funcional</td><td>Emagrecimento com apetite aumentado, taquicardia, nódulo cervical palpável</td></tr>
+        <tr><td><b>Bócio por deficiência de iodo</b></td><td>Bezerros, cordeiros, leitões, potros</td><td>Pouco iodo → pouco T4 → muito TSH → hiperplasia dos folículos</td><td>Recém-nascidos fracos, sem pelos (leitões), pescoço aumentado</td></tr>
+        <tr><td><b>Hiperparatireoidismo nutricional secundário</b></td><td>Cão e gato com dieta só de carne; equinos com capim rico em oxalato; répteis</td><td>Pouco cálcio ou excesso de fósforo → PTH alto crônico → reabsorção óssea</td><td>Ossos moles, fraturas, “cara inchada” do equino (osteodistrofia fibrosa)</td></tr>
+        <tr><td><b>Hiperparatireoidismo renal secundário</b></td><td>Cão e gato com doença renal crônica</td><td>Retenção de fósforo e falta de calcitriol → PTH alto</td><td>“Mandíbula de borracha” no cão jovem com displasia renal</td></tr>
+        <tr><td><b>Hipocalcemia puerperal</b></td><td>Vaca leiteira (febre do leite), cadela (eclâmpsia)</td><td>Saída súbita de cálcio para o leite supera a resposta do PTH</td><td>Decúbito, tremores, tetania (cadela), paresia flácida (vaca)</td></tr>
+      </tbody></table></div>
+    <div class="note clin"><b>Na produção</b><p>Plantas <b>bociogênicas</b> (brássicas como couve e nabo forrageiro, soja crua, mandioca com glicosídeos cianogênicos) bloqueiam a captação ou a iodação do iodo. O sal mineral iodado no cocho é a prevenção barata do bócio do rebanho; e dietas pré-parto pobres em cálcio (ou aniônicas) “treinam” as paratireoides da vaca antes do parto.</p></div>
 
     <div class="quiz" data-quiz="tireoide"></div>
   </div>

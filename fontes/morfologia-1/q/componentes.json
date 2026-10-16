@@ -1,0 +1,464 @@
+[
+ {
+  "c": "componentes",
+  "q": "Músculos peniformes, comparados aos de fibras paralelas, têm:",
+  "o": [
+   "Mais força e menor amplitude",
+   "Mais amplitude e menos força",
+   "Mesma força e amplitude",
+   "Fibras mais longas"
+  ],
+  "e": "Muitas fibras curtas e oblíquas por área."
+ },
+ {
+  "c": "componentes",
+  "q": "O tendão é formado por tecido:",
+  "o": [
+   "Conjuntivo denso modelado",
+   "Muscular liso",
+   "Conjuntivo frouxo",
+   "Cartilaginoso hialino"
+  ],
+  "e": "Pouco vascularizado: cicatriza devagar."
+ },
+ {
+  "c": "componentes",
+  "q": "A aponeurose é:",
+  "o": [
+   "Um tendão em forma de lâmina larga",
+   "Um envoltório de cada fibra",
+   "Uma bolsa sinovial",
+   "Um osso sesamoide"
+  ],
+  "e": "Ex.: músculos abdominais e linha alba."
+ },
+ {
+  "c": "componentes",
+  "q": "A bolsa sinovial é:",
+  "o": [
+   "Saco sinovial entre um tendão (ou a pele) e um osso",
+   "Envoltório conjuntivo que reveste todo o músculo",
+   "Fáscia espessada que cobre a articulação",
+   "Tendão intermédio entre dois ventres musculares"
+  ],
+  "e": "É um saco com líquido sinovial entre um tendão (ou pele) e uma saliência óssea. Inflamação: bursite (ex.: higroma do cotovelo)."
+ },
+ {
+  "c": "componentes",
+  "q": "O músculo que se opõe ao movimento do agonista é o:",
+  "o": [
+   "Antagonista",
+   "Sinergista",
+   "Fixador",
+   "Tensor"
+  ],
+  "e": "Ele relaxa para permitir o movimento."
+ },
+ {
+  "c": "componentes",
+  "q": "No carpo e nos dedos, os músculos extensores ficam na face:",
+  "o": [
+   "Dorsal",
+   "Palmar",
+   "Medial",
+   "Caudal"
+  ],
+  "e": "Os flexores ficam na face palmar."
+ },
+ {
+  "c": "componentes",
+  "q": "O ventre de um músculo esquelético corresponde:",
+  "o": [
+   "À porção carnosa e contrátil, de fibras musculares",
+   "À extremidade de inserção, de conjuntivo denso",
+   "Ao envoltório de fáscia profunda que o recobre",
+   "À bolsa sinovial que o separa do osso subjacente"
+  ],
+  "e": "O ventre é a parte vermelha e contrátil; tendão e aponeurose são as partes de ligação."
+ },
+ {
+  "c": "componentes",
+  "q": "O nome do músculo digástrico indica que ele possui:",
+  "o": [
+   "Dois ventres unidos por um tendão intermédio",
+   "Duas cabeças de origem separadas e um tendão",
+   "Fibras dispostas de forma bipenada no ventre",
+   "Inserção em dois ossos diferentes da cabeça"
+  ],
+  "e": "Digástrico significa dois ventres, ligados por um tendão intermédio; bíceps, tríceps e quadríceps referem-se a cabeças."
+ },
+ {
+  "c": "componentes",
+  "q": "As lesões de tendão, como a tendinite do flexor digital superficial do equino, cicatrizam lentamente porque o tendão:",
+  "o": [
+   "É pouco vascularizado",
+   "Não contém colágeno",
+   "É rico em fibras elásticas",
+   "Tem muitas células em mitose"
+  ],
+  "e": "O tendão é conjuntivo denso modelado, com colágeno I paralelo e pouca vascularização, o que torna a reparação lenta."
+ },
+ {
+  "c": "componentes",
+  "q": "Quando um músculo se contrai, em geral:",
+  "o": [
+   "A inserção, mais móvel, é puxada em direção à origem",
+   "A origem, mais móvel, é puxada em direção à inserção",
+   "Origem e inserção se afastam durante o encurtamento",
+   "O ventre se alonga enquanto o tendão encurta"
+  ],
+  "e": "A origem é o ponto mais fixo (geralmente proximal) e a inserção, o mais móvel (geralmente distal)."
+ },
+ {
+  "c": "componentes",
+  "q": "O músculo cutâneo, que movimenta a pele, fica contido na:",
+  "o": [
+   "Fáscia superficial",
+   "Fáscia profunda",
+   "Aponeurose abdominal",
+   "Bainha sinovial"
+  ],
+  "e": "A fáscia superficial fica sob a pele e contém o músculo cutâneo; a profunda envolve os músculos e forma septos."
+ },
+ {
+  "c": "componentes",
+  "q": "Fáscia lata da coxa e fáscia toracolombar são exemplos de:",
+  "o": [
+   "Fáscia profunda",
+   "Fáscia superficial",
+   "Retináculos",
+   "Bainhas sinoviais"
+  ],
+  "e": "A fáscia profunda envolve os músculos e forma septos intermusculares; fáscia lata e toracolombar são exemplos."
+ },
+ {
+  "c": "componentes",
+  "q": "A bainha sinovial (tendínea) é:",
+  "o": [
+   "Saco sinovial que envolve o tendão onde ele desliza",
+   "Faixa de fáscia espessada que prende os tendões",
+   "Osso sesamoide desenvolvido dentro de um tendão",
+   "Coxim de gordura situado entre músculos vizinhos"
+  ],
+  "e": "A bainha sinovial envolve o tendão em seu trajeto de deslizamento; sua inflamação é a tenossinovite."
+ },
+ {
+  "c": "componentes",
+  "q": "O vessigão tendíneo do equino corresponde a:",
+  "o": [
+   "Tenossinovite, com distensão de uma bainha sinovial",
+   "Ruptura parcial do tendão calcâneo comum",
+   "Bursite supraespinhosa da cernelha, por trauma da sela",
+   "Fratura do osso navicular com artrite do casco"
+  ],
+  "e": "O vessigão tendíneo é a distensão de uma bainha sinovial (tenossinovite), por exemplo da bainha digital."
+ },
+ {
+  "c": "componentes",
+  "q": "Um cão de raça grande que passa muito tempo deitado em piso duro desenvolve um aumento de volume flutuante sobre o olécrano. Trata-se de:",
+  "o": [
+   "Higroma do cotovelo, uma bursite",
+   "Tenossinovite da bainha digital",
+   "Ruptura do tríceps braquial",
+   "Hérnia muscular do bíceps"
+  ],
+  "e": "O higroma é a inflamação de uma bolsa sinovial adquirida sobre a saliência óssea do cotovelo."
+ },
+ {
+  "c": "componentes",
+  "q": "O mal da cernelha do equino é a inflamação de uma:",
+  "o": [
+   "Bolsa sinovial",
+   "Bainha tendínea digital",
+   "Aponeurose abdominal",
+   "Fáscia lata"
+  ],
+  "e": "É uma bursite: inflamação da bolsa sinovial da região da cernelha."
+ },
+ {
+  "c": "componentes",
+  "q": "A estrutura que mantém os tendões no lugar quando cruzam o carpo e o tarso é o:",
+  "o": [
+   "Retináculo",
+   "Ligamento suspensor",
+   "Osso sesamoide",
+   "Epimísio"
+  ],
+  "e": "Retináculos são faixas de fáscia espessada que prendem os tendões sobre as articulações."
+ },
+ {
+  "c": "componentes",
+  "q": "Qual destes ossos NÃO é um osso sesamoide?",
+  "o": [
+   "Calcâneo",
+   "Patela",
+   "Navicular (sesamoide distal)",
+   "Sesamoide proximal do boleto"
+  ],
+  "e": "Patela, sesamoides proximais e o navicular desenvolvem-se em tendões; o calcâneo é um osso do tarso."
+ },
+ {
+  "c": "componentes",
+  "q": "A função dos ossos sesamoides é:",
+  "o": [
+   "Mudar o ângulo de tração do tendão e protegê-lo",
+   "Produzir líquido sinovial para o tendão",
+   "Servir de origem para os músculos cutâneos",
+   "Formar a fáscia profunda"
+  ],
+  "e": "O sesamoide fica dentro do tendão, alterando o ângulo de tração e protegendo-o do atrito."
+ },
+ {
+  "c": "componentes",
+  "q": "Os músculos circulares, como o orbicular do olho e o orbicular da boca, têm ação de:",
+  "o": [
+   "Esfíncter (constritor)",
+   "Extensor (dilatador)",
+   "Abdutor (dilatador lateral)",
+   "Rotador (supinador)"
+  ],
+  "e": "Fibras dispostas em círculo fecham uma abertura, funcionando como esfíncteres."
+ },
+ {
+  "c": "componentes",
+  "q": "Um músculo de fibras paralelas longas, comparado a um multipenado de mesmo volume, oferece:",
+  "o": [
+   "Maior amplitude de movimento e menos força",
+   "Maior força e menor amplitude de movimento",
+   "Mesma força e mesma amplitude de movimento",
+   "Menor força e menor amplitude de movimento"
+  ],
+  "e": "Fibras longas e paralelas encurtam muito, mas há menos fibras por área de secção, portanto menos força."
+ },
+ {
+  "c": "componentes",
+  "q": "Durante um movimento, o músculo que estabiliza a origem do agonista para que este atue com eficiência é chamado:",
+  "o": [
+   "Fixador",
+   "Sinergista",
+   "Antagonista",
+   "Agonista"
+  ],
+  "e": "O fixador estabiliza o osso de origem; o sinergista ajuda o agonista e o antagonista tem ação oposta."
+ },
+ {
+  "c": "componentes",
+  "q": "O sinergista é o músculo que:",
+  "o": [
+   "Ajuda o agonista a realizar o movimento",
+   "Realiza a ação oposta à do agonista",
+   "É o motor principal do movimento",
+   "Fecha uma abertura do corpo"
+  ],
+  "e": "Sinergistas colaboram com o agonista; o antagonista relaxa para permitir o movimento."
+ },
+ {
+  "c": "componentes",
+  "q": "Em geral, nos membros, um músculo é flexor de uma articulação quando:",
+  "o": [
+   "Passa pela face em que o ângulo articular se fecha",
+   "Passa pela face em que o ângulo articular se abre",
+   "Origina-se proximalmente e insere-se distalmente",
+   "Tem fibras peniformes"
+  ],
+  "e": "O lado da articulação que o músculo cruza define a ação: do lado em que o ângulo se fecha, é flexor."
+ },
+ {
+  "c": "componentes",
+  "q": "O nome do músculo deltoide se baseia na sua:",
+  "o": [
+   "Forma",
+   "Ação",
+   "Posição",
+   "Direção das fibras"
+  ],
+  "e": "Deltoide lembra a letra grega delta (triângulo); trapézio, romboide e redondo também são nomes pela forma."
+ },
+ {
+  "c": "componentes",
+  "q": "Os nomes esternocefálico, braquiocefálico e omotransversário se baseiam:",
+  "o": [
+   "Nos pontos de fixação",
+   "Na direção das fibras",
+   "No número de cabeças",
+   "Na ação do músculo"
+  ],
+  "e": "Esses nomes indicam onde o músculo se prende (esterno e cabeça; braço e cabeça; ombro e processos transversos)."
+ },
+ {
+  "c": "componentes",
+  "q": "Qual destes músculos é nomeado pela direção de suas fibras?",
+  "o": [
+   "Transverso do abdome",
+   "Supraespinhal",
+   "Extensor digital comum",
+   "Tríceps braquial"
+  ],
+  "e": "Oblíquo, reto e transverso do abdome indicam a direção das fibras; supraespinhal é posição, extensor é ação e tríceps é número de cabeças."
+ },
+ {
+  "c": "componentes",
+  "q": "O levantador do lábio superior é um exemplo de músculo nomeado pela:",
+  "o": [
+   "Ação",
+   "Forma",
+   "Posição",
+   "Origem"
+  ],
+  "e": "Levantador indica o que o músculo faz, assim como extensor e flexor."
+ },
+ {
+  "c": "componentes",
+  "q": "Músculos curtos, como os que unem vértebras vizinhas, são classificados pela:",
+  "o": [
+   "Forma",
+   "Disposição das fibras",
+   "Número de cabeças",
+   "Ação de esfíncter"
+  ],
+  "e": "Pela forma, os músculos são longos (membros), curtos (vértebras), planos e largos, circulares e fusiformes."
+ },
+ {
+  "c": "componentes",
+  "q": "A flexão é o movimento que:",
+  "o": [
+   "Diminui o ângulo entre os ossos",
+   "Aumenta o ângulo entre os ossos",
+   "Afasta o membro do plano mediano",
+   "Gira o osso em torno do próprio eixo"
+  ],
+  "e": "Flexão fecha o ângulo articular; extensão abre."
+ },
+ {
+  "c": "componentes",
+  "q": "Levar a extremidade do membro em direção ao plano mediano chama-se:",
+  "o": [
+   "Adução",
+   "Abdução",
+   "Rotação",
+   "Circundução"
+  ],
+  "e": "Adução aproxima do plano mediano; abdução afasta."
+ },
+ {
+  "c": "componentes",
+  "q": "O movimento em que a extremidade distal do membro descreve um círculo é a:",
+  "o": [
+   "Circundução",
+   "Rotação externa",
+   "Pronação",
+   "Protração"
+  ],
+  "e": "Circundução combina flexão, abdução, extensão e adução."
+ },
+ {
+  "c": "componentes",
+  "q": "Um músculo com dois ventres unidos por um tendão intermédio é classificado como:",
+  "o": [
+   "Digástrico",
+   "Bipenado",
+   "Bíceps",
+   "Intersectado"
+  ],
+  "e": "Digástrico: dois ventres em série. Bíceps: duas cabeças de origem."
+ },
+ {
+  "c": "componentes",
+  "q": "O reto do abdome, com seu ventre interrompido por faixas tendíneas transversais, é um músculo:",
+  "o": [
+   "Intersectado",
+   "Peniforme",
+   "Circular",
+   "Fusiforme"
+  ],
+  "e": "Intersecções tendíneas dividem o ventre: músculo intersectado (poligástrico)."
+ },
+ {
+  "c": "componentes",
+  "q": "A força máxima de um músculo é proporcional principalmente:",
+  "o": [
+   "À área de secção transversal fisiológica",
+   "Ao comprimento total do tendão",
+   "Ao número de núcleos por fibra",
+   "À distância entre origem e inserção"
+  ],
+  "e": "Mais fibras cortadas por um plano perpendicular a elas = mais força."
+ },
+ {
+  "c": "componentes",
+  "q": "O local mais comum de estiramento (distensão) muscular é:",
+  "o": [
+   "A junção miotendínea",
+   "O meio do tendão",
+   "A inserção óssea do periósteo",
+   "O centro do ventre muscular"
+  ],
+  "e": "Na junção miotendínea a força passa da actina ao colágeno através da membrana."
+ },
+ {
+  "c": "componentes",
+  "q": "O tendão se prende ao osso por fibras colágenas que atravessam o periósteo e entram na matriz, chamadas:",
+  "o": [
+   "Fibras perfurantes (de Sharpey)",
+   "Fibras de Purkinje do tendão",
+   "Fibras reticulares do endomísio",
+   "Fibras intrafusais do fuso"
+  ],
+  "e": "As fibras de Sharpey ancoram tendões e ligamentos ao osso."
+ },
+ {
+  "c": "componentes",
+  "q": "Na flexão do cotovelo pelo bíceps braquial, a alavanca envolvida é de:",
+  "o": [
+   "Terceira classe",
+   "Primeira classe",
+   "Segunda classe",
+   "Quarta classe"
+  ],
+  "e": "A potência (inserção no rádio) fica entre o fulcro (cotovelo) e a resistência (pata)."
+ },
+ {
+  "c": "componentes",
+  "q": "Os nomes redondo maior e redondo menor usam como critério de nomenclatura:",
+  "o": [
+   "O tamanho",
+   "A ação",
+   "A direção das fibras",
+   "O número de cabeças"
+  ],
+  "e": "Maior/menor, médio, longuíssimo indicam tamanho; redondo indica forma."
+ },
+ {
+  "c": "componentes",
+  "q": "Semimembranoso e semitendinoso são nomeados pela sua:",
+  "o": [
+   "Estrutura",
+   "Ação",
+   "Posição no esqueleto",
+   "Direção das fibras"
+  ],
+  "e": "O nome descreve a estrutura: metade membrana (aponeurose) ou metade tendão."
+ },
+ {
+  "c": "componentes",
+  "q": "Nos bovinos de corte, o local recomendado para injeções intramusculares é:",
+  "o": [
+   "A tábua do pescoço",
+   "O semimembranoso",
+   "O bíceps femoral",
+   "O longuíssimo lombar"
+  ],
+  "e": "Evita lesões e resíduos nos cortes nobres da coxa e do lombo."
+ },
+ {
+  "c": "componentes",
+  "q": "O gastrocnêmio, que cruza o joelho e o tarso, tem ação de:",
+  "o": [
+   "Flexionar o joelho e estender o tarso",
+   "Estender o joelho e flexionar o tarso",
+   "Flexionar o joelho e o tarso",
+   "Estender o joelho e o tarso"
+  ],
+  "e": "Músculo biarticular pode ter ações diferentes em cada articulação."
+ }
+]

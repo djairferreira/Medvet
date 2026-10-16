@@ -570,5 +570,71 @@
    "Meningite bacteriana aguda"
   ],
   "e": "O acúmulo de líquido cerebrospinal (hidrocefalia) é comum em raças miniatura e aumenta o crânio, mantendo a fontanela aberta."
+ },
+ {
+  "c": "snc",
+  "q": "Na sinapse química, a entrada de qual íon no botão terminal desencadeia a exocitose das vesículas?",
+  "o": [
+   "Cálcio",
+   "Sódio",
+   "Potássio",
+   "Cloreto"
+  ],
+  "e": "Canais de Ca²⁺ dependentes de voltagem abrem com a despolarização."
+ },
+ {
+  "c": "snc",
+  "q": "A sinapse mais comum no sistema nervoso central é a:",
+  "o": [
+   "Axodendrítica",
+   "Axoaxônica",
+   "Dendrodendrítica",
+   "Somatossomática"
+  ],
+  "e": "O axônio de um neurônio contata dendritos de outro."
+ },
+ {
+  "c": "snc",
+  "q": "Organofosforados intoxicam porque:",
+  "o": [
+   "Inibem a acetilcolinesterase e a acetilcolina se acumula",
+   "Bloqueiam a liberação de acetilcolina na placa motora",
+   "Destroem a mielina dos nervos periféricos",
+   "Bloqueiam canais de cálcio do botão terminal"
+  ],
+  "e": "Acúmulo de acetilcolina: salivação, miose, diarreia e tremores; trata-se com atropina."
+ },
+ {
+  "c": "snc",
+  "q": "A toxina tetânica causa rigidez muscular porque:",
+  "o": [
+   "Impede a liberação de transmissores inibitórios na medula",
+   "Aumenta a liberação de acetilcolina na placa motora",
+   "Destrói os oligodendrócitos da medula",
+   "Bloqueia os receptores de glutamato"
+  ],
+  "e": "Sem glicina e GABA, os motoneurônios ficam desinibidos."
+ },
+ {
+  "c": "snc",
+  "q": "O principal neurotransmissor inibitório do encéfalo é o:",
+  "o": [
+   "GABA",
+   "Glutamato",
+   "Acetilcolina",
+   "Noradrenalina"
+  ],
+  "e": "A glicina predomina como inibitório na medula."
+ },
+ {
+  "c": "snc",
+  "q": "No botulismo bovino, a paralisia é flácida porque a toxina:",
+  "o": [
+   "Bloqueia a liberação de acetilcolina na placa motora",
+   "Inibe a acetilcolinesterase na fenda",
+   "Aumenta o GABA no córtex cerebral",
+   "Estimula receptores nicotínicos sem parar"
+  ],
+  "e": "Sem acetilcolina liberada, o músculo não contrai."
  }
 ]

@@ -1,0 +1,519 @@
+[
+ {
+  "c": "urinario",
+  "q": "O rim dos mamíferos é retroperitoneal, o que significa que:",
+  "o": [
+   "O peritônio cobre apenas a sua face ventral",
+   "Fica preso por um mesentério longo e móvel",
+   "Está dentro da cavidade pélvica junto à bexiga",
+   "É totalmente envolvido pela serosa visceral"
+  ],
+  "e": "Os rins ficam no teto do abdome; só a face ventral tem peritônio. O esquerdo dos ruminantes é a exceção parcial, quase intraperitoneal."
+ },
+ {
+  "c": "urinario",
+  "q": "Na maioria das espécies domésticas, qual rim é mais cranial?",
+  "o": [
+   "O direito, junto ao fígado",
+   "O esquerdo, empurrado pelo baço",
+   "Ambos ficam sempre no mesmo nível",
+   "O esquerdo, pela posição do estômago"
+  ],
+  "e": "O direito é mais cranial; o suíno é exceção, com rins simétricos."
+ },
+ {
+  "c": "urinario",
+  "q": "Em qual espécie os dois rins ficam aproximadamente no mesmo nível e o direito não toca o fígado?",
+  "o": [
+   "Suíno",
+   "Equino",
+   "Bovino",
+   "Cão"
+  ],
+  "e": "O suíno tem rins simétricos (L1–L4) e o direito não se relaciona com o fígado."
+ },
+ {
+  "c": "urinario",
+  "q": "O rim direito do equino tem forma de:",
+  "o": [
+   "Coração de baralho (triangular)",
+   "Feijão alongado e achatado",
+   "Cacho de lobos separados",
+   "Elipse com sulcos profundos"
+  ],
+  "e": "O direito é triangular; o esquerdo, em feijão."
+ },
+ {
+  "c": "urinario",
+  "q": "Por que o rim esquerdo bovino é encontrado à direita do plano mediano?",
+  "o": [
+   "Porque o rúmen o desloca para a direita",
+   "Porque o fígado ocupa o lado esquerdo",
+   "Porque o ureter esquerdo é mais curto",
+   "Porque o baço o empurra caudalmente"
+  ],
+  "e": "O rúmen, cheio, empurra o rim esquerdo, pendente, para a direita e ventralmente."
+ },
+ {
+  "c": "urinario",
+  "q": "Na palpação retal de uma vaca, o rim que se alcança facilmente é:",
+  "o": [
+   "O esquerdo, móvel e lobulado",
+   "O direito, fixo sob as costelas",
+   "Ambos, pelos polos craniais",
+   "Nenhum, pois ficam no tórax"
+  ],
+  "e": "O esquerdo é pendente e acessível; o direito é cranial e fixo."
+ },
+ {
+  "c": "urinario",
+  "q": "O rim do bovino é classificado como:",
+  "o": [
+   "Multipiramidal lobado",
+   "Unipiramidal liso",
+   "Multipiramidal liso",
+   "Reniculado"
+  ],
+  "e": "Tem cerca de 20 lobos visíveis por fissuras e várias papilas."
+ },
+ {
+  "c": "urinario",
+  "q": "O rim do suíno é classificado como:",
+  "o": [
+   "Multipiramidal liso",
+   "Unipiramidal liso",
+   "Multipiramidal lobado",
+   "Reniculado"
+  ],
+  "e": "Superfície lisa, mas várias pirâmides e papilas, cada uma num cálice."
+ },
+ {
+  "c": "urinario",
+  "q": "Rim reniculado é encontrado em:",
+  "o": [
+   "Cetáceos e pinípedes",
+   "Bovinos e bubalinos",
+   "Equinos e asininos",
+   "Suínos e javalis"
+  ],
+  "e": "Golfinhos, focas, ursos e lontras têm centenas de rênculos."
+ },
+ {
+  "c": "urinario",
+  "q": "Qual espécie tem rim unipiramidal liso?",
+  "o": [
+   "Ovino",
+   "Suíno",
+   "Bovino",
+   "Golfinho"
+  ],
+  "e": "Carnívoros, pequenos ruminantes e equino têm rim unipiramidal liso, com crista renal."
+ },
+ {
+  "c": "urinario",
+  "q": "Nos rins unipiramidais, as papilas fundem-se formando a:",
+  "o": [
+   "Crista renal",
+   "Coluna renal",
+   "Cálice maior",
+   "Área crivosa lateral"
+  ],
+  "e": "A crista renal única despeja urina na pelve."
+ },
+ {
+  "c": "urinario",
+  "q": "Qual espécie NÃO possui pelve renal?",
+  "o": [
+   "Bovino",
+   "Suíno",
+   "Cão",
+   "Equino"
+  ],
+  "e": "No bovino os cálices menores formam dois ductos que se unem no ureter, sem pelve."
+ },
+ {
+  "c": "urinario",
+  "q": "Um lobo renal corresponde a:",
+  "o": [
+   "Uma pirâmide medular com o córtex que a cobre",
+   "Um raio medular com o labirinto cortical",
+   "Um cálice maior com seus cálices menores",
+   "Um glomérulo com o seu túbulo proximal"
+  ],
+  "e": "Lobo = pirâmide + capuz cortical; lóbulo é a unidade microscópica."
+ },
+ {
+  "c": "urinario",
+  "q": "Os recessos terminais longos da pelve, nos polos do rim, são característicos do:",
+  "o": [
+   "Equino",
+   "Gato",
+   "Suíno",
+   "Bovino"
+  ],
+  "e": "No cavalo, ductos coletores dos polos abrem-se em recessos terminais tubulares."
+ },
+ {
+  "c": "urinario",
+  "q": "A urina normal do equino é turva e viscosa devido a:",
+  "o": [
+   "Glândulas mucosas da pelve e do ureter proximal",
+   "Grande quantidade de leucócitos normais",
+   "Presença de ácido úrico como nas aves",
+   "Proteinúria fisiológica do potro"
+  ],
+  "e": "As glândulas mucosas da pelve e do ureter proximal produzem muco; não é piúria."
+ },
+ {
+  "c": "urinario",
+  "q": "A camada externa do rim, granulosa, que contém os corpúsculos renais, é o:",
+  "o": [
+   "Córtex",
+   "Seio renal",
+   "Medula interna",
+   "Hilo renal"
+  ],
+  "e": "O córtex tem corpúsculos e túbulos contorcidos; a medula é estriada."
+ },
+ {
+  "c": "urinario",
+  "q": "As colunas renais são:",
+  "o": [
+   "Projeções do córtex entre as pirâmides",
+   "Feixes de túbulos retos dentro do córtex",
+   "Ramos da pelve que envolvem as papilas",
+   "Septos da cápsula que dividem os lobos"
+  ],
+  "e": "Colunas renais (de Bertin) são córtex entre pirâmides nos rins multipiramidais."
+ },
+ {
+  "c": "urinario",
+  "q": "O espaço que se abre no hilo e contém pelve, vasos e gordura chama-se:",
+  "o": [
+   "Seio renal",
+   "Recesso pélvico",
+   "Cálice maior",
+   "Coluna renal"
+  ],
+  "e": "O hilo é a entrada; o seio é a cavidade atrás dele."
+ },
+ {
+  "c": "urinario",
+  "q": "Na necropsia, uma cápsula renal que adere ao córtex e arranca tecido sugere:",
+  "o": [
+   "Fibrose crônica do rim",
+   "Autólise pós-morte normal",
+   "Rim de animal muito jovem",
+   "Congestão aguda simples"
+  ],
+  "e": "A cápsula normal destaca-se fácil; aderência indica fibrose (doença crônica)."
+ },
+ {
+  "c": "urinario",
+  "q": "A sequência correta da árvore arterial renal é:",
+  "o": [
+   "Interlobar → arqueada → interlobular → aferente",
+   "Arqueada → interlobar → aferente → interlobular",
+   "Interlobular → interlobar → arqueada → aferente",
+   "Interlobar → interlobular → arqueada → eferente"
+  ],
+  "e": "Renal → segmentar → interlobar → arqueada → interlobular → arteríola aferente."
+ },
+ {
+  "c": "urinario",
+  "q": "As artérias arqueadas correm:",
+  "o": [
+   "Na junção corticomedular",
+   "Na superfície da cápsula",
+   "Na ponta das papilas",
+   "Dentro dos raios medulares"
+  ],
+  "e": "Elas marcam o limite entre córtex e medula."
+ },
+ {
+  "c": "urinario",
+  "q": "Infartos renais em cunha ocorrem porque as artérias renais são:",
+  "o": [
+   "Terminais, sem anastomoses",
+   "Muito calibrosas e elásticas",
+   "Ricas em anastomoses venosas",
+   "Envolvidas por músculo estriado"
+  ],
+  "e": "Sem circulação colateral, a oclusão gera necrose do território todo."
+ },
+ {
+  "c": "urinario",
+  "q": "Os vasa recta originam-se das arteríolas eferentes de néfrons:",
+  "o": [
+   "Justamedulares",
+   "Corticais superficiais",
+   "Corticais médios",
+   "Reptilianos das aves"
+  ],
+  "e": "Acompanham as alças longas e mantêm o gradiente medular."
+ },
+ {
+  "c": "urinario",
+  "q": "O glomérulo fica entre duas arteríolas, formando um:",
+  "o": [
+   "Sistema porta arterial",
+   "Sistema porta venoso",
+   "Shunt arteriovenoso",
+   "Plexo pampiniforme"
+  ],
+  "e": "Arteríola aferente → capilares → arteríola eferente."
+ },
+ {
+  "c": "urinario",
+  "q": "Qual fração aproximada do débito cardíaco chega aos rins?",
+  "o": [
+   "20–25%",
+   "2–5%",
+   "45–50%",
+   "8–10%"
+  ],
+  "e": "Cerca de 1/5 a 1/4 do débito cardíaco, para órgãos com menos de 1% do peso."
+ },
+ {
+  "c": "urinario",
+  "q": "A estimulação simpática renal causa:",
+  "o": [
+   "Constrição aferente e renina",
+   "Vasodilatação eferente e diurese",
+   "Contração da pelve e do detrusor",
+   "Inibição da reabsorção de sódio"
+  ],
+  "e": "Fibras simpáticas contraem a aferente, liberam renina e aumentam a reabsorção de Na⁺."
+ },
+ {
+  "c": "urinario",
+  "q": "Em que espécie veias capsulares são visíveis normalmente na superfície do rim?",
+  "o": [
+   "Gato",
+   "Bovino",
+   "Equino",
+   "Suíno"
+  ],
+  "e": "As veias estreladas subcapsulares são típicas do gato."
+ },
+ {
+  "c": "urinario",
+  "q": "O mecanismo que impede o refluxo vesicoureteral é:",
+  "o": [
+   "O trajeto oblíquo intramural do ureter",
+   "Um esfíncter estriado em cada óstio",
+   "Uma válvula de mucosa na pelve renal",
+   "A contração do ligamento lateral"
+  ],
+  "e": "A bexiga cheia comprime o segmento intramural oblíquo e o fecha."
+ },
+ {
+  "c": "urinario",
+  "q": "Durante a ovário-histerectomia, o ureter corre risco porque passa:",
+  "o": [
+   "No ligamento largo, perto da artéria uterina",
+   "Ventral ao púbis, junto à sínfise",
+   "Dentro do ligamento redondo do útero",
+   "Ao lado do ovário, no ligamento suspensor"
+  ],
+  "e": "Na fêmea o ureter cruza o ligamento largo e pode ser ligado com o coto uterino."
+ },
+ {
+  "c": "urinario",
+  "q": "Incontinência urinária desde filhote numa cadela Husky sugere:",
+  "o": [
+   "Ureter ectópico",
+   "Ruptura de bexiga",
+   "Urolitíase de estruvita",
+   "Persistência do úraco"
+  ],
+  "e": "O ureter abre-se na uretra ou vagina, além do trígono."
+ },
+ {
+  "c": "urinario",
+  "q": "A área lisa entre os dois óstios ureterais e o óstio uretral interno é o:",
+  "o": [
+   "Trígono vesical",
+   "Ápice da bexiga",
+   "Ligamento mediano",
+   "Colo uretral"
+  ],
+  "e": "O trígono é pouco distensível e sede comum do carcinoma urotelial."
+ },
+ {
+  "c": "urinario",
+  "q": "O ligamento redondo da bexiga, na borda do ligamento lateral, é resto:",
+  "o": [
+   "Da artéria umbilical",
+   "Do úraco",
+   "Do ducto mesonéfrico",
+   "Da veia umbilical"
+  ],
+  "e": "O úraco fica no ligamento mediano; a artéria umbilical, no lateral."
+ },
+ {
+  "c": "urinario",
+  "q": "A contração do detrusor na micção é comandada principalmente pelo:",
+  "o": [
+   "Nervo pélvico (parassimpático)",
+   "Nervo hipogástrico (simpático)",
+   "Nervo pudendo (somático)",
+   "Nervo femoral (somático)"
+  ],
+  "e": "O pélvico contrai o detrusor; o hipogástrico favorece o enchimento; o pudendo controla o esfíncter estriado."
+ },
+ {
+  "c": "urinario",
+  "q": "Por que a cistocentese é a técnica de eleição para urocultura em cães e gatos?",
+  "o": [
+   "A bexiga é abdominal e a amostra não se contamina",
+   "A uretra é longa demais para qualquer sonda",
+   "A urina da micção é sempre estéril",
+   "A punção dispensa contenção do animal"
+  ],
+  "e": "A punção direta evita contaminação uretral; a bexiga é acessível no abdome."
+ },
+ {
+  "c": "urinario",
+  "q": "Na cistocentese, a agulha é inclinada em direção caudodorsal para:",
+  "o": [
+   "Ficar perto do colo quando a bexiga esvaziar",
+   "Atingir o ureter e evitar o trígono",
+   "Perfurar primeiro o ligamento mediano",
+   "Entrar pela face dorsal, sem serosa"
+  ],
+  "e": "Assim o orifício continua dentro da bexiga ao esvaziar."
+ },
+ {
+  "c": "urinario",
+  "q": "Um potro macho de 3 dias com distensão abdominal, hiponatremia e hipercalemia provavelmente tem:",
+  "o": [
+   "Ruptura de bexiga (uroperitônio)",
+   "Persistência do ducto arterioso",
+   "Hérnia umbilical simples",
+   "Retenção de mecônio"
+  ],
+  "e": "Uroperitônio; confirma-se com creatinina peritoneal ≥ 2× a sérica."
+ },
+ {
+  "c": "urinario",
+  "q": "No uroperitônio do potro, a hipercalemia ocorre porque:",
+  "o": [
+   "O peritônio absorve o K⁺ da urina",
+   "O rim passa a secretar sódio em excesso",
+   "O potro ingere excesso de potássio no leite",
+   "As hemácias liberam potássio na hemólise"
+  ],
+  "e": "A urina rica em K⁺ e pobre em Na⁺ equilibra-se com o plasma pelo peritônio."
+ },
+ {
+  "c": "urinario",
+  "q": "O divertículo suburetral, que dificulta a sondagem, é encontrado na:",
+  "o": [
+   "Vaca",
+   "Égua",
+   "Cadela",
+   "Gata"
+  ],
+  "e": "Vaca e porca têm um fundo de saco ventral ao óstio uretral externo."
+ },
+ {
+  "c": "urinario",
+  "q": "Em carneiros e bodes, o local mais comum de obstrução por cálculos é:",
+  "o": [
+   "O processo uretral",
+   "A flexura sigmoide proximal",
+   "O colo da bexiga",
+   "O ureter distal"
+  ],
+  "e": "O apêndice vermiforme tem lúmen estreitíssimo; amputá-lo é o primeiro gesto."
+ },
+ {
+  "c": "urinario",
+  "q": "No novilho, os cálculos uretrais costumam alojar-se na:",
+  "o": [
+   "Flexura sigmoide distal",
+   "Glande do pênis",
+   "Pelve renal",
+   "Parte pélvica da uretra"
+  ],
+  "e": "A curva distal da flexura sigmoide é o ponto mais frequente."
+ },
+ {
+  "c": "urinario",
+  "q": "No cão macho, os cálculos param frequentemente:",
+  "o": [
+   "Logo caudal ao osso peniano",
+   "Na flexura sigmoide pré-escrotal",
+   "No processo uretral da glande",
+   "No divertículo suburetral"
+  ],
+  "e": "O sulco do osso peniano impede a dilatação da uretra."
+ },
+ {
+  "c": "urinario",
+  "q": "No gato macho, a obstrução uretral ocorre sobretudo:",
+  "o": [
+   "Na uretra peniana, de lúmen estreito",
+   "Na pelve renal, pelos tampões",
+   "No trígono, por tumores",
+   "No processo uretral longo"
+  ],
+  "e": "A uretra peniana felina é curta e muito estreita; a uretrostomia perineal remove esse trecho."
+ },
+ {
+  "c": "urinario",
+  "q": "Dieta de confinamento rica em concentrado favorece, em ruminantes, cálculos de:",
+  "o": [
+   "Estruvita e fosfatos",
+   "Sílica e carbonato",
+   "Cistina e urato",
+   "Oxalato de cálcio puro"
+  ],
+  "e": "Excesso de fósforo e Ca:P baixo favorecem fosfatos; prevenção com Ca:P 2:1 e cloreto de amônio."
+ },
+ {
+  "c": "urinario",
+  "q": "As aves diferem dos mamíferos porque:",
+  "o": [
+   "Não têm bexiga e os ureteres abrem-se no urodeu",
+   "Têm bexiga grande e uretra longa",
+   "Têm rins com pelve e cálices maiores",
+   "Possuem rins torácicos sem lóbulos"
+  ],
+  "e": "Os ureteres desembocam na cloaca (urodeu); só ratitas armazenam urina."
+ },
+ {
+  "c": "urinario",
+  "q": "O rim das aves recebe sangue venoso dos membros pélvicos através do:",
+  "o": [
+   "Sistema porta-renal",
+   "Sistema porta-hepático",
+   "Plexo pampiniforme",
+   "Seio venoso da coroa"
+  ],
+  "e": "Uma válvula porta-renal controla esse desvio para o rim."
+ },
+ {
+  "c": "urinario",
+  "q": "O rim definitivo dos mamíferos origina-se do:",
+  "o": [
+   "Metanefro",
+   "Pronefro",
+   "Mesonefro",
+   "Seio urogenital"
+  ],
+  "e": "Broto ureteral + blastema metanéfrico formam o metanefro."
+ },
+ {
+  "c": "urinario",
+  "q": "Na fêmea, o óstio uretral externo abre-se:",
+  "o": [
+   "No limite entre vagina e vestíbulo",
+   "No fundo do saco vaginal",
+   "Na fossa do clitóris",
+   "No colo do útero"
+  ],
+  "e": "A uretra feminina é curta e abre-se no assoalho, entre vagina e vestíbulo."
+ }
+]

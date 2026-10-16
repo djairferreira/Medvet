@@ -1,0 +1,508 @@
+[
+ {
+  "c": "sinovial",
+  "q": "Quem produz o líquido sinovial?",
+  "o": [
+   "A membrana sinovial (camada interna da cápsula)",
+   "A camada fibrosa (externa) da cápsula articular",
+   "A cartilagem articular que recobre os ossos",
+   "Os meniscos fibrocartilaginosos da articulação"
+  ],
+  "e": "É um dialisado do plasma."
+ },
+ {
+  "c": "sinovial",
+  "q": "Ligamentos unem:",
+  "o": [
+   "Osso a osso",
+   "Músculo a osso",
+   "Músculo a músculo",
+   "Cartilagem a músculo"
+  ],
+  "e": "Tendão une músculo a osso."
+ },
+ {
+  "c": "sinovial",
+  "q": "A estabilidade craniocaudal do joelho é dada pelos ligamentos:",
+  "o": [
+   "Cruzados",
+   "Colaterais",
+   "Patelares",
+   "Meniscotibiais"
+  ],
+  "e": "Colaterais dão a estabilidade lateral."
+ },
+ {
+  "c": "sinovial",
+  "q": "Afastar a extremidade do plano mediano é:",
+  "o": [
+   "Abdução",
+   "Adução",
+   "Flexão",
+   "Extensão"
+  ],
+  "e": "Adução aproxima."
+ },
+ {
+  "c": "sinovial",
+  "q": "Diminuir o ângulo entre dois ossos é:",
+  "o": [
+   "Flexão",
+   "Extensão",
+   "Abdução",
+   "Rotação"
+  ],
+  "e": "Extensão aumenta o ângulo."
+ },
+ {
+  "c": "sinovial",
+  "q": "A camada externa da cápsula articular é formada por:",
+  "o": [
+   "Tecido fibroso",
+   "Membrana sinovial",
+   "Cartilagem hialina",
+   "Tecido adiposo"
+  ],
+  "e": "A interna é a membrana sinovial, que produz o líquido."
+ },
+ {
+  "c": "sinovial",
+  "q": "Qual é a função principal da cartilagem articular numa articulação sinovial?",
+  "o": [
+   "Reduzir o atrito e absorver impactos entre as superfícies",
+   "Produzir o líquido sinovial que lubrifica a articulação",
+   "Unir firmemente um osso ao outro, como um ligamento",
+   "Fixar o tendão do músculo ao osso subjacente"
+  ],
+  "e": "A cartilagem hialina articular é lisa e deformável: diminui o atrito e amortece cargas."
+ },
+ {
+  "c": "sinovial",
+  "q": "A punção do líquido sinovial (artrocentese) é feita com finalidade:",
+  "o": [
+   "Diagnóstica, pois o líquido reflete o estado da articulação",
+   "De retirar fragmentos de cartilagem articular para biópsia",
+   "De medir a densidade óssea da epífise adjacente à cápsula",
+   "De avaliar a função da tireoide pelo iodo do líquido"
+  ],
+  "e": "A artrocentese é diagnóstica: o líquido sinovial normal é transparente e viscoso; alterações de cor, viscosidade e celularidade indicam doença articular."
+ },
+ {
+  "c": "sinovial",
+  "q": "Os meniscos do joelho são estruturas:",
+  "o": [
+   "Fibrocartilaginosas em C que ajustam o fêmur à tíbia",
+   "Ósseas sesamoides que alteram a direção do tendão do quadríceps",
+   "Hialinas que recobrem as superfícies articulares do fêmur e da tíbia",
+   "Ligamentares que unem a patela à tuberosidade da tíbia"
+  ],
+  "e": "Os meniscos medial e lateral são fibrocartilagens em forma de C que ajustam os côndilos do fêmur à tíbia, aumentando a congruência entre eles."
+ },
+ {
+  "c": "sinovial",
+  "q": "O nome anatômico completo da articulação do joelho é:",
+  "o": [
+   "Femorotibiopatelar",
+   "Tibiotarsal",
+   "Coxofemoral",
+   "Umerorradioulnar"
+  ],
+  "e": "O joelho reúne as articulações femorotibial e femoropatelar: articulação femorotibiopatelar."
+ },
+ {
+  "c": "sinovial",
+  "q": "O chamado “ligamento patelar” é, a rigor, a continuação de qual estrutura?",
+  "o": [
+   "Do tendão do músculo quadríceps femoral após a patela",
+   "Do ligamento colateral medial do joelho",
+   "Do ligamento cruzado caudal da articulação femorotibial",
+   "Do menisco lateral, que se prolonga até a tíbia"
+  ],
+  "e": "A patela é sesamoide no tendão do quadríceps; o segmento entre patela e tuberosidade da tíbia é a continuação desse tendão."
+ },
+ {
+  "c": "sinovial",
+  "q": "O ligamento patelar fixa a patela em qual estrutura?",
+  "o": [
+   "Tuberosidade da tíbia",
+   "Cabeça da fíbula",
+   "Côndilo medial do fêmur",
+   "Trocânter maior"
+  ],
+  "e": "O ligamento patelar liga a patela à tuberosidade da tíbia, transmitindo a força do quadríceps para a extensão do joelho."
+ },
+ {
+  "c": "sinovial",
+  "q": "Os ligamentos colaterais do joelho garantem principalmente a estabilidade:",
+  "o": [
+   "Lateral (no sentido lateromedial)",
+   "Craniocaudal",
+   "Rotacional apenas",
+   "Da patela no sulco troclear"
+  ],
+  "e": "Os colaterais lateral e medial impedem desvios laterais; os cruzados estabilizam no sentido craniocaudal."
+ },
+ {
+  "c": "sinovial",
+  "q": "No teste de gaveta de um cão com ruptura do ligamento cruzado cranial, o achado esperado é:",
+  "o": [
+   "Deslocamento cranial anormal da tíbia em relação ao fêmur",
+   "Deslocamento lateral anormal da patela para fora da tróclea femoral",
+   "Aumento do ângulo de flexão da articulação do quadril",
+   "Rotação da cabeça do fêmur dentro do acetábulo"
+  ],
+  "e": "O cruzado cranial impede o avanço cranial da tíbia; sem ele, a tíbia desliza cranialmente (sinal de gaveta positivo)."
+ },
+ {
+  "c": "sinovial",
+  "q": "O movimento em que a extremidade distal do membro descreve um círculo, combinando os demais movimentos, é a:",
+  "o": [
+   "Circundução",
+   "Rotação",
+   "Abdução",
+   "Extensão"
+  ],
+  "e": "A circundução combina flexão, extensão, abdução e adução; é típica das articulações esferoides."
+ },
+ {
+  "c": "sinovial",
+  "q": "A torção de um segmento em torno do seu próprio eixo longitudinal denomina-se:",
+  "o": [
+   "Rotação",
+   "Circundução",
+   "Adução",
+   "Flexão"
+  ],
+  "e": "Rotação é o giro no próprio eixo; pode ser interna ou externa."
+ },
+ {
+  "c": "sinovial",
+  "q": "Na articulação coxofemoral, o ligamento da cabeça do fêmur insere-se na:",
+  "o": [
+   "Fóvea da cabeça do fêmur",
+   "Fossa trocantérica",
+   "Tuberosidade da tíbia",
+   "Incisura troclear"
+  ],
+  "e": "O ligamento da cabeça do fêmur une a fóvea da cabeça ao acetábulo, dentro da articulação."
+ },
+ {
+  "c": "sinovial",
+  "q": "Na articulação do ombro, de tipo esferoide, a cabeça do úmero articula-se com:",
+  "o": [
+   "A cavidade glenoide da escápula",
+   "O acetábulo",
+   "A incisura troclear da ulna",
+   "O tubérculo articular do temporal"
+  ],
+  "e": "A cabeça do úmero se encaixa na cavidade glenoide, formando uma articulação esferoide."
+ },
+ {
+  "c": "sinovial",
+  "q": "Na articulação temporomandibular, entre o côndilo da mandíbula e o temporal, encontra-se:",
+  "o": [
+   "Um disco articular",
+   "Um menisco ósseo",
+   "Uma sínfise de fibrocartilagem",
+   "Um ligamento cruzado"
+  ],
+  "e": "A ATM tem um disco articular interposto entre o côndilo da mandíbula e o tubérculo articular do temporal."
+ },
+ {
+  "c": "sinovial",
+  "q": "A cartilagem articular difere da maioria das cartilagens hialinas porque:",
+  "o": [
+   "Não tem pericôndrio na face voltada para a cavidade",
+   "Tem colágeno tipo I como principal componente da matriz",
+   "Possui vasos sanguíneos que a nutrem diretamente",
+   "É formada por fibras elásticas abundantes e ramificadas"
+  ],
+  "e": "A face livre é banhada pelo líquido sinovial; não há pericôndrio."
+ },
+ {
+  "c": "sinovial",
+  "q": "Na zona superficial da cartilagem articular, condrócitos e fibras colágenas são:",
+  "o": [
+   "Achatados e paralelos à superfície",
+   "Arredondados e em colunas perpendiculares",
+   "Hipertrofiados e calcificados",
+   "Ausentes, restando só matriz"
+  ],
+  "e": "A zona tangencial resiste ao cisalhamento do deslizamento."
+ },
+ {
+  "c": "sinovial",
+  "q": "A linha de maré (tidemark) da cartilagem articular separa:",
+  "o": [
+   "A zona profunda da zona calcificada",
+   "A cartilagem articular da membrana sinovial",
+   "A cápsula fibrosa dos ligamentos colaterais",
+   "O menisco medial do platô tibial"
+  ],
+  "e": "Abaixo da linha de maré fica a cartilagem calcificada, presa ao osso subcondral."
+ },
+ {
+  "c": "sinovial",
+  "q": "A cartilagem articular se nutre principalmente:",
+  "o": [
+   "Por difusão do líquido sinovial, com a carga cíclica",
+   "Por capilares que atravessam toda a zona superficial",
+   "Pelos vasos do pericôndrio que recobre a face livre",
+   "Por canais de Havers vindos do osso subcondral"
+  ],
+  "e": "Embebição: compressão expulsa líquido e o alívio reabsorve líquido novo."
+ },
+ {
+  "c": "sinovial",
+  "q": "Por que a imobilização prolongada de um membro prejudica a cartilagem articular?",
+  "o": [
+   "Falta a carga alternada que bombeia nutrientes",
+   "Os vasos da cartilagem se fecham por compressão",
+   "O pericôndrio para de produzir condroblastos",
+   "A membrana fibrosa passa a secretar colágeno II"
+  ],
+  "e": "Sem movimento, a embebição diminui e a cartilagem afina."
+ },
+ {
+  "c": "sinovial",
+  "q": "O sinoviócito tipo A tem características de:",
+  "o": [
+   "Macrófago, fagocitando restos e bactérias",
+   "Fibroblasto, secretando ácido hialurônico",
+   "Condrócito, produzindo colágeno tipo II",
+   "Epitélio, apoiado em membrana basal"
+  ],
+  "e": "Tipo A = fagocítico, de origem medular."
+ },
+ {
+  "c": "sinovial",
+  "q": "O principal produtor do ácido hialurônico do líquido sinovial é o:",
+  "o": [
+   "Sinoviócito tipo B",
+   "Sinoviócito tipo A",
+   "Condrócito da zona profunda",
+   "Fibroblasto do ligamento colateral"
+  ],
+  "e": "O tipo B, semelhante ao fibroblasto, secreta hialuronano e lubricina."
+ },
+ {
+  "c": "sinovial",
+  "q": "A íntima da membrana sinovial não é um epitélio verdadeiro porque:",
+  "o": [
+   "Não tem membrana basal sob os sinoviócitos",
+   "Não tem células, apenas fibras colágenas densas",
+   "É formada só por cartilagem hialina sem vasos",
+   "É revestida por epitélio queratinizado"
+  ],
+  "e": "Sem membrana basal, o líquido é um dialisado e bactérias passam facilmente."
+ },
+ {
+  "c": "sinovial",
+  "q": "A membrana sinovial reveste a cavidade articular, exceto:",
+  "o": [
+   "A cartilagem articular",
+   "A face interna da cápsula fibrosa",
+   "Os ligamentos intracapsulares",
+   "Os coxins adiposos intra-articulares"
+  ],
+  "e": "A cartilagem articular fica exposta ao líquido, sem sinovial por cima."
+ },
+ {
+  "c": "sinovial",
+  "q": "O líquido sinovial normal não coagula no tubo porque:",
+  "o": [
+   "Não contém fibrinogênio, que não atravessa a sinovial",
+   "Contém heparina secretada pelos sinoviócitos tipo A",
+   "É formado apenas por água e ácido hialurônico puro",
+   "Tem pH ácido que inativa os fatores de coagulação"
+  ],
+  "e": "Proteínas grandes como o fibrinogênio não passam; coágulo sugere inflamação."
+ },
+ {
+  "c": "sinovial",
+  "q": "A viscosidade do líquido sinovial, avaliada pelo teste do fio, depende principalmente do:",
+  "o": [
+   "Ácido hialurônico",
+   "Colágeno tipo II",
+   "Fibrinogênio",
+   "Sulfato de queratano"
+  ],
+  "e": "O hialuronano dá viscosidade; na artrite séptica é degradado e o fio se rompe."
+ },
+ {
+  "c": "sinovial",
+  "q": "Qual achado no líquido sinovial de um potro claudicante sugere artrite séptica?",
+  "o": [
+   "Turvo, 60.000 células/µL com neutrófilos",
+   "Claro, 400 células/µL mononucleares",
+   "Viscoso, fio de 4 cm, proteína baixa",
+   "Amarelo-palha, sem células nucleadas"
+  ],
+  "e": "Artrite séptica: turvo, muitas células (>30.000/µL), predomínio de neutrófilos."
+ },
+ {
+  "c": "sinovial",
+  "q": "A lubricina, produzida pelos sinoviócitos B e pela zona superficial da cartilagem, atua sobretudo na:",
+  "o": [
+   "Lubrificação limítrofe sob carga alta",
+   "Mineralização da zona calcificada profunda",
+   "Fagocitose de restos de cartilagem gasta",
+   "Adesão dos ligamentos colaterais ao osso"
+  ],
+  "e": "Adere às superfícies e impede o contato direto quando o filme de líquido fica fino."
+ },
+ {
+  "c": "sinovial",
+  "q": "O ligamento cruzado cranial do cão é classificado como:",
+  "o": [
+   "Intracapsular, mas fora da cavidade sinovial",
+   "Extracapsular, fundido à membrana fibrosa",
+   "Intra-articular, banhado sem sinovial",
+   "Periarticular, distante da cápsula"
+  ],
+  "e": "Fica dentro da cápsula fibrosa, coberto por membrana sinovial."
+ },
+ {
+  "c": "sinovial",
+  "q": "O ligamento da cabeça do fêmur, no quadril, é um exemplo de ligamento:",
+  "o": [
+   "Intracapsular",
+   "Extracapsular colateral",
+   "Capsular dorsal",
+   "Sesamoide"
+  ],
+  "e": "Une a cabeça do fêmur ao acetábulo dentro da cápsula."
+ },
+ {
+  "c": "sinovial",
+  "q": "A diferença entre menisco e disco articular é que o disco:",
+  "o": [
+   "Divide a cavidade articular em dois compartimentos",
+   "É de cartilagem hialina e o menisco é de osso",
+   "Fica fora da cápsula, ligado à pele da região",
+   "Está presente apenas no joelho dos carnívoros"
+  ],
+  "e": "O disco (ex.: ATM) é completo e divide a cavidade; o menisco é incompleto, em C."
+ },
+ {
+  "c": "sinovial",
+  "q": "O corpo adiposo infrapatelar fica localizado:",
+  "o": [
+   "Entre a membrana fibrosa e a sinovial",
+   "Dentro da cartilagem articular",
+   "Na cavidade medular da patela",
+   "Sob a pele, fora da cápsula"
+  ],
+  "e": "Coxins adiposos preenchem espaços que mudam de forma no movimento."
+ },
+ {
+  "c": "sinovial",
+  "q": "O lábio acetabular é um anel de fibrocartilagem que:",
+  "o": [
+   "Aprofunda a cavidade do acetábulo",
+   "Recobre a cabeça do fêmur por inteiro",
+   "Produz o líquido sinovial do quadril",
+   "Une o ílio ao ísquio na sínfise"
+  ],
+  "e": "Lábios aumentam a profundidade de cavidades rasas (acetábulo, glenoide)."
+ },
+ {
+  "c": "sinovial",
+  "q": "Em um cão com ruptura do ligamento cruzado cranial, o menisco mais frequentemente lesado é o:",
+  "o": [
+   "Medial, mais preso à tíbia e à cápsula",
+   "Lateral, por ser o menor e mais livre",
+   "Intermédio, que fica entre os cruzados",
+   "Patelar, ligado ao quadríceps"
+  ],
+  "e": "O menisco medial, pouco móvel, é esmagado pelo côndilo femoral."
+ },
+ {
+  "c": "sinovial",
+  "q": "Uma bainha sinovial difere de uma bolsa sinovial por:",
+  "o": [
+   "Envolver um tendão longo por inteiro, como um túnel",
+   "Conter cartilagem hialina espessa na parede",
+   "Não ter líquido sinovial algum no interior",
+   "Ser sempre adquirida por atrito com o solo"
+  ],
+  "e": "A bainha é uma bolsa enrolada em torno de um tendão longo."
+ },
+ {
+  "c": "sinovial",
+  "q": "O higroma do cotovelo em cães grandes corresponde a:",
+  "o": [
+   "Bolsa adquirida sobre o olécrano por pressão",
+   "Ruptura crônica do ligamento colateral medial",
+   "Fratura do processo ancôneo da ulna do filhote",
+   "Luxação congênita da cabeça do rádio"
+  ],
+  "e": "É uma bolsa subcutânea adquirida pelo decúbito em piso duro."
+ },
+ {
+  "c": "sinovial",
+  "q": "O mal da cernelha do equino, associado a Brucella abortus, acomete a:",
+  "o": [
+   "Bolsa supraespinhosa",
+   "Bainha digital dos flexores",
+   "Bolsa do navicular",
+   "Cápsula do joelho"
+  ],
+  "e": "A bursite supraespinhosa é o mal da cernelha; a da nuca, o mal da nuca."
+ },
+ {
+  "c": "sinovial",
+  "q": "A lei de Hilton afirma que o nervo que inerva os músculos que movem uma articulação:",
+  "o": [
+   "Inerva também a articulação e a pele sobre ela",
+   "Nunca inerva a cápsula daquela mesma articulação",
+   "Inerva somente a cartilagem articular avascular",
+   "Inerva a articulação simétrica do membro oposto"
+  ],
+  "e": "Explica a dor referida e a coordenação reflexa articular."
+ },
+ {
+  "c": "sinovial",
+  "q": "A dor da osteoartrite não vem da cartilagem articular porque ela:",
+  "o": [
+   "Não tem nervos",
+   "Não tem células",
+   "Não tem colágeno",
+   "Não tem água"
+  ],
+  "e": "A dor nasce na cápsula, na sinovite e no osso subcondral."
+ },
+ {
+  "c": "sinovial",
+  "q": "Bezerros e potros com falha de transferência de imunidade passiva estão predispostos à artrite séptica principalmente por via:",
+  "o": [
+   "Hematógena, a partir da onfaloflebite",
+   "Ferida penetrante sobre a articulação",
+   "Extensão de abscesso dentário",
+   "Injeção intra-articular contaminada"
+  ],
+  "e": "A bacteremia de origem umbilical chega à sinovial, muito vascularizada."
+ },
+ {
+  "c": "sinovial",
+  "q": "Na artrocentese, a medida que mais reduz o risco de causar artrite séptica é:",
+  "o": [
+   "Tricotomia e antissepsia cirúrgica do local",
+   "Usar sempre agulha de grande calibre",
+   "Puncionar sempre a articulação mais distal",
+   "Injetar anestésico local antes de aspirar"
+  ],
+  "e": "A própria punção pode inocular bactérias se a assepsia for falha."
+ },
+ {
+  "c": "sinovial",
+  "q": "No boleto do equino em apoio, a posição normal da articulação é de:",
+  "o": [
+   "Hiperextensão (dorsiflexão)",
+   "Flexão completa do boleto",
+   "Abdução lateral do dígito",
+   "Rotação interna do casco"
+  ],
+  "e": "O boleto em estação fica hiperestendido, sustentado pelo aparelho suspensor."
+ }
+]

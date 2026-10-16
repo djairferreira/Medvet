@@ -56,28 +56,6 @@
  },
  {
   "c": "articulacoes",
-  "q": "Quem produz o líquido sinovial?",
-  "o": [
-   "A membrana sinovial (camada interna da cápsula)",
-   "A camada fibrosa (externa) da cápsula articular",
-   "A cartilagem articular que recobre os ossos",
-   "Os meniscos fibrocartilaginosos da articulação"
-  ],
-  "e": "É um dialisado do plasma."
- },
- {
-  "c": "articulacoes",
-  "q": "Ligamentos unem:",
-  "o": [
-   "Osso a osso",
-   "Músculo a osso",
-   "Músculo a músculo",
-   "Cartilagem a músculo"
-  ],
-  "e": "Tendão une músculo a osso."
- },
- {
-  "c": "articulacoes",
   "q": "A articulação atlantoaxial é do tipo:",
   "o": [
    "Trocóide (pivô)",
@@ -111,28 +89,6 @@
  },
  {
   "c": "articulacoes",
-  "q": "A estabilidade craniocaudal do joelho é dada pelos ligamentos:",
-  "o": [
-   "Cruzados",
-   "Colaterais",
-   "Patelares",
-   "Meniscotibiais"
-  ],
-  "e": "Colaterais dão a estabilidade lateral."
- },
- {
-  "c": "articulacoes",
-  "q": "Afastar a extremidade do plano mediano é:",
-  "o": [
-   "Abdução",
-   "Adução",
-   "Flexão",
-   "Extensão"
-  ],
-  "e": "Adução aproxima."
- },
- {
-  "c": "articulacoes",
   "q": "A ATM é citada como exemplo de articulação:",
   "o": [
    "Biaxial",
@@ -141,17 +97,6 @@
    "Fibrosa"
   ],
   "e": "Flexão, extensão, adução e abdução."
- },
- {
-  "c": "articulacoes",
-  "q": "Diminuir o ângulo entre dois ossos é:",
-  "o": [
-   "Flexão",
-   "Extensão",
-   "Abdução",
-   "Rotação"
-  ],
-  "e": "Extensão aumenta o ângulo."
  },
  {
   "c": "articulacoes",
@@ -185,17 +130,6 @@
    "Esferóide"
   ],
   "e": "Superfícies planas que deslizam."
- },
- {
-  "c": "articulacoes",
-  "q": "A camada externa da cápsula articular é formada por:",
-  "o": [
-   "Tecido fibroso",
-   "Membrana sinovial",
-   "Cartilagem hialina",
-   "Tecido adiposo"
-  ],
-  "e": "A interna é a membrana sinovial, que produz o líquido."
  },
  {
   "c": "articulacoes",
@@ -331,116 +265,6 @@
  },
  {
   "c": "articulacoes",
-  "q": "Qual é a função principal da cartilagem articular numa articulação sinovial?",
-  "o": [
-   "Reduzir o atrito e absorver impactos entre as superfícies",
-   "Produzir o líquido sinovial que lubrifica a articulação",
-   "Unir firmemente um osso ao outro, como um ligamento",
-   "Fixar o tendão do músculo ao osso subjacente"
-  ],
-  "e": "A cartilagem hialina articular é lisa e deformável: diminui o atrito e amortece cargas."
- },
- {
-  "c": "articulacoes",
-  "q": "A punção do líquido sinovial (artrocentese) é feita com finalidade:",
-  "o": [
-   "Diagnóstica, pois o líquido reflete o estado da articulação",
-   "De retirar fragmentos de cartilagem articular para biópsia",
-   "De medir a densidade óssea da epífise adjacente à cápsula",
-   "De avaliar a função da tireoide pelo iodo do líquido"
-  ],
-  "e": "A artrocentese é diagnóstica: o líquido sinovial normal é transparente e viscoso; alterações de cor, viscosidade e celularidade indicam doença articular."
- },
- {
-  "c": "articulacoes",
-  "q": "Os meniscos do joelho são estruturas:",
-  "o": [
-   "Fibrocartilaginosas em C que ajustam o fêmur à tíbia",
-   "Ósseas sesamoides que alteram a direção do tendão do quadríceps",
-   "Hialinas que recobrem as superfícies articulares do fêmur e da tíbia",
-   "Ligamentares que unem a patela à tuberosidade da tíbia"
-  ],
-  "e": "Os meniscos medial e lateral são fibrocartilagens em forma de C que ajustam os côndilos do fêmur à tíbia, aumentando a congruência entre eles."
- },
- {
-  "c": "articulacoes",
-  "q": "O nome anatômico completo da articulação do joelho é:",
-  "o": [
-   "Femorotibiopatelar",
-   "Tibiotarsal",
-   "Coxofemoral",
-   "Umerorradioulnar"
-  ],
-  "e": "O joelho reúne as articulações femorotibial e femoropatelar: articulação femorotibiopatelar."
- },
- {
-  "c": "articulacoes",
-  "q": "O chamado “ligamento patelar” é, a rigor, a continuação de qual estrutura?",
-  "o": [
-   "Do tendão do músculo quadríceps femoral após a patela",
-   "Do ligamento colateral medial do joelho",
-   "Do ligamento cruzado caudal da articulação femorotibial",
-   "Do menisco lateral, que se prolonga até a tíbia"
-  ],
-  "e": "A patela é sesamoide no tendão do quadríceps; o segmento entre patela e tuberosidade da tíbia é a continuação desse tendão."
- },
- {
-  "c": "articulacoes",
-  "q": "O ligamento patelar fixa a patela em qual estrutura?",
-  "o": [
-   "Tuberosidade da tíbia",
-   "Cabeça da fíbula",
-   "Côndilo medial do fêmur",
-   "Trocânter maior"
-  ],
-  "e": "O ligamento patelar liga a patela à tuberosidade da tíbia, transmitindo a força do quadríceps para a extensão do joelho."
- },
- {
-  "c": "articulacoes",
-  "q": "Os ligamentos colaterais do joelho garantem principalmente a estabilidade:",
-  "o": [
-   "Lateral (no sentido lateromedial)",
-   "Craniocaudal",
-   "Rotacional apenas",
-   "Da patela no sulco troclear"
-  ],
-  "e": "Os colaterais lateral e medial impedem desvios laterais; os cruzados estabilizam no sentido craniocaudal."
- },
- {
-  "c": "articulacoes",
-  "q": "No teste de gaveta de um cão com ruptura do ligamento cruzado cranial, o achado esperado é:",
-  "o": [
-   "Deslocamento cranial anormal da tíbia em relação ao fêmur",
-   "Deslocamento lateral anormal da patela para fora da tróclea femoral",
-   "Aumento do ângulo de flexão da articulação do quadril",
-   "Rotação da cabeça do fêmur dentro do acetábulo"
-  ],
-  "e": "O cruzado cranial impede o avanço cranial da tíbia; sem ele, a tíbia desliza cranialmente (sinal de gaveta positivo)."
- },
- {
-  "c": "articulacoes",
-  "q": "O movimento em que a extremidade distal do membro descreve um círculo, combinando os demais movimentos, é a:",
-  "o": [
-   "Circundução",
-   "Rotação",
-   "Abdução",
-   "Extensão"
-  ],
-  "e": "A circundução combina flexão, extensão, abdução e adução; é típica das articulações esferoides."
- },
- {
-  "c": "articulacoes",
-  "q": "A torção de um segmento em torno do seu próprio eixo longitudinal denomina-se:",
-  "o": [
-   "Rotação",
-   "Circundução",
-   "Adução",
-   "Flexão"
-  ],
-  "e": "Rotação é o giro no próprio eixo; pode ser interna ou externa."
- },
- {
-  "c": "articulacoes",
   "q": "Qual movimento é possível em uma articulação triaxial, mas não em uma biaxial?",
   "o": [
    "Rotação",
@@ -460,39 +284,6 @@
    "Imóvel, do tipo sinartrose fibrosa"
   ],
   "e": "Nos domésticos, a maioria das articulações dos membros atua como dobradiça, no plano sagital."
- },
- {
-  "c": "articulacoes",
-  "q": "Na articulação coxofemoral, o ligamento da cabeça do fêmur insere-se na:",
-  "o": [
-   "Fóvea da cabeça do fêmur",
-   "Fossa trocantérica",
-   "Tuberosidade da tíbia",
-   "Incisura troclear"
-  ],
-  "e": "O ligamento da cabeça do fêmur une a fóvea da cabeça ao acetábulo, dentro da articulação."
- },
- {
-  "c": "articulacoes",
-  "q": "Na articulação do ombro, de tipo esferoide, a cabeça do úmero articula-se com:",
-  "o": [
-   "A cavidade glenoide da escápula",
-   "O acetábulo",
-   "A incisura troclear da ulna",
-   "O tubérculo articular do temporal"
-  ],
-  "e": "A cabeça do úmero se encaixa na cavidade glenoide, formando uma articulação esferoide."
- },
- {
-  "c": "articulacoes",
-  "q": "Na articulação temporomandibular, entre o côndilo da mandíbula e o temporal, encontra-se:",
-  "o": [
-   "Um disco articular",
-   "Um menisco ósseo",
-   "Uma sínfise de fibrocartilagem",
-   "Um ligamento cruzado"
-  ],
-  "e": "A ATM tem um disco articular interposto entre o côndilo da mandíbula e o tubérculo articular do temporal."
  },
  {
   "c": "articulacoes",
@@ -526,5 +317,137 @@
    "Converter fibrocartilagem em cartilagem elástica"
   ],
   "e": "Tanto sindesmoses quanto sínfises tendem a ossificar com a idade, diminuindo o pequeno movimento que permitiam."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A classificação estrutural das articulações baseia-se em:",
+  "o": [
+   "No tecido que une os ossos ou na presença de cavidade",
+   "No grau de movimento que a articulação permite",
+   "No número de eixos em torno dos quais o osso gira",
+   "Na espécie animal e na região do corpo considerada"
+  ],
+  "e": "Estrutural: fibrosa, cartilaginosa ou sinovial. Pelo movimento, a classificação é funcional."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Qual par associa corretamente a classificação estrutural à funcional?",
+  "o": [
+   "Cartilaginosa e anfiartrose",
+   "Fibrosa e diartrose",
+   "Sinovial e sinartrose",
+   "Cartilaginosa e sinartrose"
+  ],
+  "e": "Fibrosa = sinartrose; cartilaginosa = anfiartrose; sinovial = diartrose."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A união entre tíbia e fíbula por membrana interóssea, em carnívoros, é um exemplo de:",
+  "o": [
+   "Sindesmose",
+   "Sincondrose",
+   "Sutura serrada",
+   "Gonfose"
+  ],
+  "e": "Ossos à distância unidos por membrana ou ligamento caracterizam a sindesmose."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A sutura serrada (denteada), como a interfrontal, distingue-se das demais por:",
+  "o": [
+   "Bordas em linha denteada que se encaixam como zíper",
+   "Bordas retas colocadas lado a lado sem encaixe",
+   "Bordas em bisel, uma deslizando sobre a outra",
+   "Ossos afastados e unidos por um ligamento longo"
+  ],
+  "e": "Serrada: bordas denteadas encaixadas; plana: retas; escamosa: em bisel."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Em filhotes, as suturas do crânio ainda abertas permitem principalmente:",
+  "o": [
+   "Crescimento do crânio acompanhando o encéfalo",
+   "Movimento amplo entre os ossos da face",
+   "Formação do líquido cerebrospinal nos ventrículos",
+   "Absorção de impacto na mastigação dos adultos"
+  ],
+  "e": "O tecido fibroso das suturas é local de crescimento ósseo; com a idade, muitas se fundem (sinostose)."
+ },
+ {
+  "c": "articulacoes",
+  "q": "O disco epifisário é classificado como sincondrose porque:",
+  "o": [
+   "Une epífise e diáfise por cartilagem hialina temporária",
+   "Une dois ossos por fibrocartilagem permanente",
+   "Tem cavidade com líquido e cápsula articular",
+   "Une ossos à distância por ligamento elástico"
+  ],
+  "e": "Sincondrose = cartilagem hialina, temporária; ossifica quando cessa o crescimento."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Uma articulação com cavidade, cápsula e líquido é classificada estruturalmente como:",
+  "o": [
+   "Sinovial",
+   "Fibrosa",
+   "Cartilaginosa",
+   "Sindesmose"
+  ],
+  "e": "A cavidade articular define a sinovial (diartrose)."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A articulação do cotovelo, que só faz flexão e extensão, é quanto aos eixos:",
+  "o": [
+   "Monoaxial",
+   "Biaxial",
+   "Triaxial",
+   "Anaxial"
+  ],
+  "e": "Gínglimo: um eixo transversal, um plano de movimento."
+ },
+ {
+  "c": "articulacoes",
+  "q": "A articulação esferoide permite movimentos em:",
+  "o": [
+   "Três eixos, incluindo rotação e circundução",
+   "Um eixo apenas, como uma dobradiça",
+   "Dois eixos, sem nenhuma rotação",
+   "Nenhum eixo, só pequeno deslizamento"
+  ],
+  "e": "Esferoide (bola e soquete): triaxial, como ombro e quadril."
+ },
+ {
+  "c": "articulacoes",
+  "q": "O movimento de “não” feito pela cabeça ocorre principalmente na articulação:",
+  "o": [
+   "Atlantoaxial, do tipo trocóide",
+   "Atlanto-occipital, do tipo gínglimo",
+   "Temporomandibular, do tipo plana",
+   "Intervertebral, do tipo sínfise"
+  ],
+  "e": "A atlantoaxial é trocóide (pivô): o atlas gira em torno do dente do áxis."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Qual articulação é cartilaginosa do tipo sínfise?",
+  "o": [
+   "Entre os corpos de duas vértebras",
+   "Entre as epífises e a diáfise do fêmur",
+   "Entre os ossos frontais do equino adulto",
+   "Entre o úmero e a escápula"
+  ],
+  "e": "O disco intervertebral (fibrocartilagem) une os corpos vertebrais: sínfise."
+ },
+ {
+  "c": "articulacoes",
+  "q": "Qual das articulações abaixo é considerada imóvel?",
+  "o": [
+   "Sutura",
+   "Sínfise pélvica",
+   "Articulação plana do carpo",
+   "Gínglimo do cotovelo"
+  ],
+  "e": "Suturas são sinartroses (fibrosas, imóveis)."
  }
 ]

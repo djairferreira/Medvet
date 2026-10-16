@@ -63,7 +63,7 @@
    "Cão",
    "Suíno"
   ],
-  "e": "18 torácicas."
+  "e": "O equino tem 18 vértebras torácicas, logo 18 pares de costelas."
  },
  {
   "c": "especies",
@@ -504,5 +504,115 @@
    "Cartilagem escapular enorme"
   ],
   "e": "O gato tem os processos hamato e supra-hamato no acrômio; o cão só o hamato."
+ },
+ {
+  "c": "especies",
+  "q": "No roteiro para identificar a espécie de um osso isolado, qual é o primeiro passo?",
+  "o": [
+   "Identificar que osso é e de que lado",
+   "Medir o comprimento total da peça",
+   "Contar os forames nutrícios",
+   "Procurar o terceiro trocânter"
+  ],
+  "e": "Sem saber o osso e o lado, nenhuma marca de espécie pode ser comparada."
+ },
+ {
+  "c": "especies",
+  "q": "Um crânio sem incisivos superiores pertence a qual grupo?",
+  "o": [
+   "Ruminante",
+   "Equino",
+   "Suíno",
+   "Carnívoro"
+  ],
+  "e": "Ruminantes têm o pulvino dentário no lugar dos incisivos superiores."
+ },
+ {
+  "c": "especies",
+  "q": "Órbita aberta, osso rostral e molares com cúspides arredondadas indicam:",
+  "o": [
+   "Suíno",
+   "Bovino",
+   "Equino",
+   "Gato"
+  ],
+  "e": "Osso rostral e dentes bunodontes são marcas do suíno."
+ },
+ {
+  "c": "especies",
+  "q": "Um atlas sem forame transverso pertence, entre os domésticos, ao:",
+  "o": [
+   "Bovino",
+   "Equino",
+   "Cão",
+   "Gato"
+  ],
+  "e": "O atlas bovino não tem forame transverso."
+ },
+ {
+  "c": "especies",
+  "q": "Um metacarpo único, formado por dois ossos fundidos com sulco longitudinal, indica:",
+  "o": [
+   "Ruminante",
+   "Equino",
+   "Suíno",
+   "Cão"
+  ],
+  "e": "Nos ruminantes os metacarpos III e IV se fundem num só osso."
+ },
+ {
+  "c": "especies",
+  "q": "Quantos dedos funcionais tem o equino?",
+  "o": [
+   "Um (o III)",
+   "Dois (III e IV)",
+   "Quatro (II a V)",
+   "Cinco (I a V)"
+  ],
+  "e": "O cavalo apoia só o dedo III; II e IV são rudimentares."
+ },
+ {
+  "c": "especies",
+  "q": "Os cães e gatos, que apoiam os dedos inteiros no chão, são classificados como:",
+  "o": [
+   "Digitígrados",
+   "Plantígrados",
+   "Ungulígrados",
+   "Semiplantígrados"
+  ],
+  "e": "Digitígrados apoiam os dedos; ungulígrados só a ponta com casco."
+ },
+ {
+  "c": "especies",
+  "q": "Por que a ulna e a fíbula livres do gato são vantajosas?",
+  "o": [
+   "Permitem girar o antebraço (supinação)",
+   "Aumentam a velocidade de corrida",
+   "Reduzem o peso do membro",
+   "Formam um canal para tendões"
+  ],
+  "e": "Rádio e ulna livres permitem supinação e pronação; a fusão no cavalo impede."
+ },
+ {
+  "c": "especies",
+  "q": "Na inspeção de produtos de origem animal, a identificação de espécie pelo osso ajuda a detectar:",
+  "o": [
+   "Fraude por troca de espécie",
+   "Resíduos de antibióticos",
+   "Contaminação por Salmonella",
+   "Excesso de gordura na carne"
+  ],
+  "e": "Ossos de outra espécie em carne ou embutidos revelam fraude."
+ },
+ {
+  "c": "especies",
+  "q": "Notário, sinsacro, pigóstilo e carena identificam:",
+  "o": [
+   "Uma ave",
+   "Um equino",
+   "Um suíno",
+   "Um ruminante"
+  ],
+  "e": "São fusões e estruturas exclusivas do esqueleto das aves."
  }
 ]

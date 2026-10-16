@@ -2,18 +2,22 @@
   <div class="ch-head">
     <div class="ch-num">18</div>
     <div><span class="eyebrow">Unidade III · Sistema nervoso · 03.01 Sistema nervoso central: órgãos, células, substância branca e cinzenta</span><h2>Sistema nervoso central: órgãos, células, substância branca e cinzenta</h2></div>
-    <div class="ch-meta"><button class="done-btn" data-done="snc" aria-pressed="false">Marcar como estudado</button><span class="chip">~30 min</span></div>
+    <div class="ch-meta"><button class="done-btn" data-done="snc" aria-pressed="false">Marcar como estudado</button><span class="chip">~45 min</span></div>
   </div>
   <div class="col">
-    <p class="oneliner">PENDENTE</p>
+    <p class="oneliner">O sistema nervoso central (encéfalo e medula espinhal) é feito de neurônios, que conduzem e transmitem sinais por sinapses, e de glia, que os sustenta. A organização em substância cinzenta e branca, as meninges e o líquido cerebrospinal explicam boa parte da neurologia clínica veterinária.</p>
     <div class="goals rv"><h4>Objetivos</h4><ul>
-      <li>PENDENTE</li></ul></div>
+      <li>Distinguir as divisões anatômica (SNC × SNP) e funcional (somático × autônomo) do sistema nervoso.</li>
+      <li>Descrever o neurônio e suas classificações e identificar as células da glia do SNC e do SNP.</li>
+      <li>Explicar, etapa por etapa, a transmissão numa sinapse química e relacioná-la a intoxicações e fármacos.</li>
+      <li>Localizar substância cinzenta e branca no encéfalo e na medula e reconhecer as partes do encéfalo.</li>
+      <li>Descrever a medula espinhal (intumescências, cone medular, cornos) e as meninges com seus espaços clínicos.</li></ul></div>
 
     <h3><span class="tag">18.1</span>Divisões do sistema nervoso</h3>
     <div class="flow">
       <div class="lane up"><h5>Anatômica</h5><ol>
         <li><b>SNC</b>: encéfalo (dentro do crânio) e medula espinhal (dentro do canal vertebral).</li>
-        <li><b>SNP</b>: nervos cranianos e espinhais, gânglios e terminações nervosas (cap. 16).</li></ol></div>
+        <li><b>SNP</b>: nervos cranianos e espinhais, gânglios e terminações nervosas (cap. 19).</li></ol></div>
       <div class="lane down"><h5>Funcional</h5><ol>
         <li><b>Somático</b>: relação com o ambiente; controle voluntário dos músculos esqueléticos.</li>
         <li><b>Autônomo (visceral)</b>: simpático e parassimpático; músculo liso, cardíaco e glândulas.</li></ol></div>
@@ -44,10 +48,27 @@
         <tr><td><b>Célula satélite</b></td><td>SNP (gânglios)</td><td>Envolve os corpos neuronais nos gânglios</td></tr>
       </tbody></table></div>
     <div class="note deep"><b>Mielina e condução saltatória</b><p>A mielina é a membrana da célula glial enrolada muitas vezes ao redor do axônio, rica em lipídios (isolante). Entre dois segmentos fica um <b>nódulo de Ranvier</b>, onde se concentram os canais de Na<sup>+</sup>: o impulso “salta” de nódulo em nódulo e a condução fica até 50 vezes mais rápida. Na HE, a mielina se dissolve e aparece como espaço claro (“rede” vazia ao redor do axônio); cora com Luxol fast blue ou ósmio. Na <b>cinomose</b> canina, o vírus causa <b>desmielinização</b>, com tremores e mioclonias.</p></div>
-    <h4>Sinapse</h4>
-    <p>Ponto de comunicação entre um neurônio e outra célula. Na <strong>sinapse química</strong>, o impulso chega ao botão terminal, abre canais de Ca<sup>2+</sup>, vesículas liberam o <strong>neurotransmissor</strong> (acetilcolina, noradrenalina, glutamato, GABA, dopamina, serotonina) na fenda sináptica e ele se liga a receptores da célula pós-sináptica. A junção do nervo motor com a fibra muscular é a <strong>placa motora</strong> (cap. 20).</p>
+    <h3><span class="tag">18.4</span>Sinapse</h3>
+    <p>É o ponto de comunicação entre um neurônio e outra célula (outro neurônio, uma fibra muscular ou uma glândula). Na <strong>sinapse elétrica</strong>, rara nos mamíferos, as células se ligam por junções comunicantes e a corrente passa direto. Na <strong>sinapse química</strong>, a imensa maioria, o sinal elétrico vira um sinal químico e de novo elétrico. Classifica-se pelo local de contato: <b>axodendrítica</b> (a mais comum), <b>axossomática</b> e <b>axoaxônica</b>.</p>
+    <section class="labbox rv" aria-labelledby="sinTitle">
+      <header><div><span class="eyebrow">Animação</span><h4 id="sinTitle">Uma sinapse química, passo a passo</h4></div>
+        <div class="ctrl" style="margin:0"><button class="btn" type="button" id="sinPlay">▶ Reproduzir</button><button class="tbtn" type="button" id="sinPause" aria-label="Pausar">⏸</button><button class="tbtn" type="button" id="sinReset" aria-label="Recomeçar">↺</button></div></header>
+      <div class="svgwrap"><svg id="sinSvg" viewBox="0 0 600 310" role="img" aria-label="Botão terminal com vesículas libera neurotransmissor na fenda, que ativa receptores da célula pós-sináptica"></svg></div>
+      <label class="sc-range"><span>Início</span><input type="range" id="sinScrub" min="0" max="1" step="0.001" value="0" aria-label="Posição da animação"><span>Fim</span></label>
+      <div class="readout" id="sinOut" aria-live="polite"></div>
+    </section>
+    <div class="tbl"><table>
+      <thead><tr><th>Neurotransmissor</th><th>Efeito principal</th><th>Onde</th></tr></thead>
+      <tbody>
+        <tr><td><b>Acetilcolina</b></td><td>Excitatório na placa motora</td><td>Junção neuromuscular (placa motora, cap. 23), gânglios autônomos, parassimpático</td></tr>
+        <tr><td><b>Noradrenalina</b></td><td>Excitatório ou inibitório, conforme o receptor</td><td>Neurônio pós-ganglionar simpático; tronco encefálico</td></tr>
+        <tr><td><b>Glutamato</b></td><td>O principal excitatório do SNC</td><td>Córtex, medula</td></tr>
+        <tr><td><b>GABA</b> e <b>glicina</b></td><td>Inibitórios</td><td>GABA no encéfalo; glicina sobretudo na medula</td></tr>
+        <tr><td><b>Dopamina, serotonina</b></td><td>Moduladores</td><td>Núcleos da base, tronco encefálico</td></tr>
+      </tbody></table></div>
+    <div class="note clin"><b>Na clínica</b><p>Muitas intoxicações atuam na sinapse. <b>Organofosforados e carbamatos</b> (carrapaticidas, “chumbinho”) inibem a acetilcolinesterase: a acetilcolina se acumula e surgem salivação, miose, diarreia e tremores (tratamento com atropina). A toxina do <b>tétano</b> bloqueia a liberação de glicina e GABA na medula: rigidez em “cavalete” no equino. A toxina <b>botulínica</b> bloqueia a liberação de acetilcolina na placa motora: paralisia flácida (bovinos que ingerem carcaças, cama de frango). Os <b>benzodiazepínicos</b> e o fenobarbital reforçam o GABA e controlam convulsões.</p></div>
 
-    <h3><span class="tag">18.4</span>Substância cinzenta e branca</h3>
+    <h3><span class="tag">18.5</span>Substância cinzenta e branca</h3>
     <section class="labbox rv" aria-labelledby="sbTitle">
       <header><div><span class="eyebrow">Laboratório interativo</span><h4 id="sbTitle">Onde fica cada substância?</h4></div></header>
       <div class="ctrl" id="sbBtns" role="group" aria-label="Órgão"><button class="tbtn" type="button" data-o="medula" aria-pressed="true">Medula espinhal</button><button class="tbtn" type="button" data-o="cerebro">Cérebro</button><button class="tbtn" type="button" data-o="cerebelo">Cerebelo</button></div>
@@ -60,7 +81,7 @@
     </div>
     <div class="note trap"><b>Pegadinha</b><p>No <b>encéfalo</b>, a cinzenta fica <b>por fora</b> (córtex) e a branca por dentro. Na <b>medula</b>, é o contrário: a cinzenta fica <b>por dentro</b>, em forma de “H” ou borboleta, e a branca por fora.</p></div>
 
-    <h3><span class="tag">18.5</span>Encéfalo</h3>
+    <h3><span class="tag">18.6</span>Encéfalo</h3>
     <div class="tbl"><table>
       <thead><tr><th>Parte</th><th>Componentes</th><th>Funções e clínica</th></tr></thead>
       <tbody>
@@ -70,7 +91,7 @@
         <tr><td><b>Cerebelo</b></td><td>Vérmis e hemisférios, com <b>folhas</b>; córtex de três camadas (molecular, de <b>Purkinje</b>, granular)</td><td>Coordena movimento, postura e equilíbrio. Hipoplasia cerebelar (panleucopenia felina, BVD): ataxia e tremores de intenção</td></tr>
       </tbody></table></div>
 
-    <h3><span class="tag">18.6</span>Medula espinhal</h3>
+    <h3><span class="tag">18.7</span>Medula espinhal</h3>
     <ul>
       <li>Continua o bulbo a partir do forame magno e ocupa o canal vertebral. Tem <b>segmentos</b> (cervicais, torácicos, lombares, sacrais, caudais), cada um com um par de nervos espinhais.</li>
       <li>Duas dilatações para os membros: <b>intumescência cervical</b> (C6–T2, origem do plexo braquial) e <b>lombossacral</b> (L4–S3, plexo lombossacral).</li>
@@ -79,7 +100,7 @@
     </ul>
     <div class="note clin"><b>Na clínica</b><p>A <b>doença do disco intervertebral</b> em cães condrodistróficos (Dachshund, Shih-tzu) comprime a medula: dor, paresia e paralisia. A localização da lesão (C1–C5, C6–T2, T3–L3, L4–S3) é feita pelos reflexos: lesão sobre o segmento que origina o reflexo deixa-o diminuído (neurônio motor inferior); lesão acima dele deixa-o normal ou aumentado (neurônio motor superior).</p></div>
 
-    <h3><span class="tag">18.7</span>Meninges e líquido cerebrospinal</h3>
+    <h3><span class="tag">18.8</span>Meninges e líquido cerebrospinal</h3>
     <div class="tbl"><table>
       <thead><tr><th>Camada</th><th>Descrição</th><th>Espaço e clínica</th></tr></thead>
       <tbody>

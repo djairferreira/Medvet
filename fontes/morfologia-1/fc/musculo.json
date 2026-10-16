@@ -1,12 +1,67 @@
 [
  [
   "musculo",
-  "Componentes do músculo",
-  "Ventre, tendão, aponeurose, origem, inserção, fáscias."
+  "Propriedades do tecido muscular",
+  "Excitabilidade, contratilidade, extensibilidade e elasticidade."
  ],
  [
   "musculo",
-  "Agonista, antagonista, sinergista, fixador",
-  "Motor principal; ação oposta; ajuda; estabiliza."
+  "Envoltórios do músculo",
+  "Epimísio (músculo inteiro, denso não modelado), perimísio (fascículo, vasos e nervos), endomísio (fibra; reticulares + GAGs)."
+ ],
+ [
+  "musculo",
+  "Nomes próprios da fibra",
+  "Sarcolema (membrana), sarcoplasma (citoplasma), retículo sarcoplasmático (REL), sarcossomas (mitocôndrias)."
+ ],
+ [
+  "musculo",
+  "Sarcômero",
+  "Unidade contrátil entre duas linhas Z; 1,5 a 3 µm; banda A no centro e duas semibandas I."
+ ],
+ [
+  "musculo",
+  "Sarcômero na contração",
+  "Encurtam banda I e zona H; banda A não muda; linhas Z se aproximam."
+ ],
+ [
+  "musculo",
+  "Proteínas musculares",
+  "Contráteis: actina, miosina. Regulatórias: tropomiosina, troponina. Estruturais: titina, nebulina, α-actinina, distrofina, miomesina."
+ ],
+ [
+  "musculo",
+  "Troponina C, I e T",
+  "C liga Ca²⁺; I inibe actina–miosina; T prende à tropomiosina."
+ ],
+ [
+  "musculo",
+  "Tríade × díade",
+  "Tríade: túbulo T + 2 cisternas, junção A–I (esquelético). Díade: túbulo T + 1 cisterna, linha Z (cardíaco)."
+ ],
+ [
+  "musculo",
+  "Três papéis do ATP",
+  "Engatilhar a miosina, soltá-la da actina e bombear Ca²⁺ de volta (SERCA)."
+ ],
+ [
+  "musculo",
+  "Rigor mortis",
+  "Sem ATP, a miosina não se solta da actina: músculo rígido."
+ ],
+ [
+  "musculo",
+  "Hipertermia maligna suína",
+  "Mutação no RYR1: liberação descontrolada de Ca²⁺ sob estresse/halotano; carne PSE."
+ ],
+ [
+  "musculo",
+  "Unidade motora",
+  "Um neurônio motor + todas as fibras que ele inerva."
+ ],
+ [
+  "musculo",
+  "Aparelho de sustentação do equino",
+  "Interósseo médio, ligamentos acessórios dos flexores, lacertus fibrosus; no pélvico, aparelho recíproco e trava da patela."
  ]
 ]

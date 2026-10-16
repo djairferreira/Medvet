@@ -1,0 +1,464 @@
+[
+ {
+  "c": "planos",
+  "q": "Na cabeça, o termo para “em direção ao focinho” é:",
+  "o": [
+   "Rostral",
+   "Cranial",
+   "Dorsal",
+   "Proximal"
+  ],
+  "e": "A cabeça já é o extremo cranial do corpo; dentro dela usa-se rostral (focinho) e caudal."
+ },
+ {
+  "c": "planos",
+  "q": "O plano que divide o animal em antímeros direito e esquerdo é o:",
+  "o": [
+   "Sagital mediano",
+   "Dorsal",
+   "Transversal",
+   "Sagital paramediano"
+  ],
+  "e": "Planos sagitais paralelos a ele não dividem em metades iguais."
+ },
+ {
+  "c": "planos",
+  "q": "A face de trás do metatarso é chamada de:",
+  "o": [
+   "Plantar",
+   "Palmar",
+   "Caudal",
+   "Ventral"
+  ],
+  "e": "Palmar é só no membro torácico (do carpo para baixo)."
+ },
+ {
+  "c": "planos",
+  "q": "Do carpo para baixo, a face da frente do membro é chamada de:",
+  "o": [
+   "Dorsal",
+   "Cranial",
+   "Rostral",
+   "Ventral"
+  ],
+  "e": "Acima do carpo/tarso usa-se cranial e caudal; abaixo, dorsal e palmar/plantar."
+ },
+ {
+  "c": "planos",
+  "q": "Em ruminantes, a face do dedo voltada para o eixo entre o 3º e o 4º dedos é a face:",
+  "o": [
+   "Axial",
+   "Abaxial",
+   "Medial",
+   "Palmar"
+  ],
+  "e": "A face oposta, voltada para fora, é a abaxial."
+ },
+ {
+  "c": "planos",
+  "q": "Os termos “superior” e “inferior” são usados em anatomia veterinária apenas para:",
+  "o": [
+   "Lábios e pálpebras",
+   "Membros e dedos",
+   "Vértebras e costelas",
+   "Tronco e pescoço"
+  ],
+  "e": "No resto do corpo usam-se dorsal, ventral, cranial, caudal."
+ },
+ {
+  "c": "planos",
+  "q": "O plano paralelo ao dorso, que separa uma parte dorsal de uma ventral, é o plano:",
+  "o": [
+   "Dorsal (frontal)",
+   "Sagital",
+   "Transversal",
+   "Mediano"
+  ],
+  "e": "O transversal corta perpendicularmente ao eixo longo, “em fatias”."
+ },
+ {
+  "c": "planos",
+  "q": "No membro, a estrutura mais próxima do tronco é:",
+  "o": [
+   "Proximal",
+   "Distal",
+   "Medial",
+   "Rostral"
+  ],
+  "e": "Distal é a mais afastada, em direção ao casco ou à unha."
+ },
+ {
+  "c": "planos",
+  "q": "“Medial” significa:",
+  "o": [
+   "Mais perto do plano mediano",
+   "Mais longe do plano mediano",
+   "Em direção ao dorso",
+   "Em direção à cauda"
+  ],
+  "e": "Lateral é o oposto: mais longe do plano mediano."
+ },
+ {
+  "c": "planos",
+  "q": "Diferentemente do plano sagital mediano, que é único, os planos sagitais (paramedianos) são:",
+  "o": [
+   "Todos os planos paralelos ao sagital mediano",
+   "Os planos perpendiculares ao eixo longo do corpo",
+   "Os planos paralelos ao dorso",
+   "Os planos que passam pelo eixo laterolateral"
+  ],
+  "e": "Plano sagital é qualquer plano paralelo ao mediano; o mediano é o único que divide o corpo em antímeros."
+ },
+ {
+  "c": "planos",
+  "q": "Ao serrar o casco de um equino em fatias perpendiculares ao eixo longo do dedo, obtêm-se cortes no plano:",
+  "o": [
+   "Transversal",
+   "Dorsal",
+   "Sagital",
+   "Sagital mediano"
+  ],
+  "e": "O plano transversal é perpendicular ao eixo longo do corpo ou do membro, cortando-o em fatias."
+ },
+ {
+  "c": "planos",
+  "q": "O plano dorsal também é conhecido como plano:",
+  "o": [
+   "Frontal",
+   "Paramediano",
+   "Transversal",
+   "Horizontal mediano"
+  ],
+  "e": "O plano dorsal, paralelo ao dorso, corresponde ao plano frontal."
+ },
+ {
+  "c": "planos",
+  "q": "O eixo longitudinal do corpo do quadrúpede une:",
+  "o": [
+   "O centro do plano cranial ao centro do plano caudal",
+   "O centro do plano dorsal ao centro do plano ventral",
+   "O lado direito ao lado esquerdo",
+   "A cernelha ao casco do membro torácico"
+  ],
+  "e": "O eixo longitudinal corresponde ao comprimento do animal, de cranial a caudal."
+ },
+ {
+  "c": "planos",
+  "q": "O eixo que une o lado direito ao lado esquerdo do animal é o eixo:",
+  "o": [
+   "Laterolateral (transversal)",
+   "Sagital (dorsoventral)",
+   "Longitudinal",
+   "Proximodistal"
+  ],
+  "e": "O eixo laterolateral atravessa o corpo de um antímero ao outro."
+ },
+ {
+  "c": "planos",
+  "q": "O eixo sagital, também chamado dorsoventral, une:",
+  "o": [
+   "O centro do plano dorsal ao centro do plano ventral",
+   "O centro do plano cranial ao centro do plano caudal",
+   "O lado direito ao lado esquerdo",
+   "A cabeça à cauda pela coluna vertebral"
+  ],
+  "e": "O eixo sagital corre no sentido dorsoventral, perpendicular ao longitudinal."
+ },
+ {
+  "c": "planos",
+  "q": "Na cabeça, o olho em relação às narinas está em posição:",
+  "o": [
+   "Caudal",
+   "Cranial",
+   "Rostral",
+   "Proximal"
+  ],
+  "e": "Na cabeça usa-se rostral (para o focinho) e caudal; o olho fica mais longe do focinho, portanto caudal."
+ },
+ {
+  "c": "planos",
+  "q": "A cernelha, em relação à garupa, está em posição:",
+  "o": [
+   "Cranial",
+   "Caudal",
+   "Rostral",
+   "Proximal"
+  ],
+  "e": "No tronco, a direção à cabeça é cranial; a cernelha fica mais perto da cabeça que a garupa."
+ },
+ {
+  "c": "planos",
+  "q": "O esterno, em relação às vértebras torácicas, está em posição:",
+  "o": [
+   "Ventral",
+   "Dorsal",
+   "Caudal",
+   "Distal"
+  ],
+  "e": "O esterno fica em direção ao ventre, portanto ventral às vértebras."
+ },
+ {
+  "c": "planos",
+  "q": "No membro torácico, o carpo em relação ao cotovelo está em posição:",
+  "o": [
+   "Distal",
+   "Proximal",
+   "Caudal",
+   "Ventral"
+  ],
+  "e": "Nos membros usa-se proximal/distal; o carpo está mais longe do tronco que o cotovelo."
+ },
+ {
+  "c": "planos",
+  "q": "A articulação do ombro está mais afastada do plano mediano que o esterno. Em relação ao esterno, ela está em posição:",
+  "o": [
+   "Lateral",
+   "Medial",
+   "Axial",
+   "Interna"
+  ],
+  "e": "Lateral significa mais longe do plano mediano; o esterno está no plano mediano e o ombro, afastado dele."
+ },
+ {
+  "c": "planos",
+  "q": "A face do rádio voltada para a frente do animal é chamada de face:",
+  "o": [
+   "Cranial",
+   "Dorsal",
+   "Rostral",
+   "Palmar"
+  ],
+  "e": "Acima do carpo, a face da frente do membro é cranial; dorsal só passa a valer do carpo para baixo."
+ },
+ {
+  "c": "planos",
+  "q": "Por que um atlas descreve o úmero em “visão cranial” e “visão caudal”, mas o metacarpo em “visão dorsal” e “visão palmar”?",
+  "o": [
+   "Porque a troca de termos ocorre no carpo",
+   "Porque o metacarpo fica no plano dorsal do corpo",
+   "Porque o úmero é um osso do tronco, e não do membro",
+   "Porque palmar e caudal são sinônimos em qualquer nível"
+  ],
+  "e": "Do carpo para baixo, a face da frente é dorsal e a de trás é palmar; acima dele, cranial e caudal."
+ },
+ {
+  "c": "planos",
+  "q": "Uma ferida na face de trás da canela do membro torácico de um equino é descrita como localizada na região metacárpica:",
+  "o": [
+   "Palmar",
+   "Plantar",
+   "Caudal",
+   "Ventral"
+  ],
+  "e": "Do carpo para baixo, a face de trás do membro torácico é palmar; plantar é reservado ao membro pélvico."
+ },
+ {
+  "c": "planos",
+  "q": "No tronco, “dorsal” indica direção às costas. Na mão e no pé, “dorsal” indica:",
+  "o": [
+   "A face da frente, oposta à palmar ou plantar",
+   "A face voltada para o plano mediano do corpo",
+   "A face voltada para o solo durante o apoio",
+   "A face de trás do membro, oposta à cranial"
+  ],
+  "e": "É a pegadinha do termo: abaixo do carpo e do tarso, dorsal é a face da frente."
+ },
+ {
+  "c": "planos",
+  "q": "Num bovino, a parede da unha do dedo IV voltada para longe do espaço interdigital é a face:",
+  "o": [
+   "Abaxial",
+   "Axial",
+   "Medial",
+   "Palmar"
+  ],
+  "e": "O eixo do membro passa entre o 3º e o 4º dedos; a face oposta a esse eixo é abaxial."
+ },
+ {
+  "c": "planos",
+  "q": "Em anatomia veterinária, os termos “interno” e “externo” são reservados para:",
+  "o": [
+   "Cavidades e órgãos ocos",
+   "Lábios e pálpebras",
+   "Faces dos dedos de ruminantes",
+   "Estruturas dos membros abaixo do carpo"
+  ],
+  "e": "Interno/externo descrevem paredes de cavidades e órgãos ocos; superior/inferior ficam para lábios e pálpebras."
+ },
+ {
+  "c": "planos",
+  "q": "Qual expressão usa corretamente a terminologia anatômica veterinária?",
+  "o": [
+   "Pálpebra superior",
+   "Face superior da escápula",
+   "Borda inferior da mandíbula",
+   "Parte superior do pescoço"
+  ],
+  "e": "Superior e inferior só se usam para lábios e pálpebras; nos demais casos usa-se dorsal/ventral, proximal/distal etc."
+ },
+ {
+  "c": "planos",
+  "q": "O termo “rostral” é usado:",
+  "o": [
+   "Apenas na cabeça, em direção ao focinho",
+   "Em todo o tronco, em direção à cabeça",
+   "Nos membros, em direção ao tronco",
+   "Nos dedos, em direção ao eixo do membro"
+  ],
+  "e": "Rostral só se aplica à cabeça, que já é o extremo cranial; no tronco usa-se cranial."
+ },
+ {
+  "c": "planos",
+  "q": "Na tomografia, o plano que a anatomia humana chama de “coronal” corresponde, em veterinária, ao plano:",
+  "o": [
+   "Dorsal",
+   "Transversal",
+   "Sagital mediano",
+   "Paramediano"
+  ],
+  "e": "Coronal (frontal) humano = dorsal veterinário."
+ },
+ {
+  "c": "planos",
+  "q": "Uma projeção radiográfica em que o feixe entra pela face dorsal do casco e sai pela palmar é chamada:",
+  "o": [
+   "Dorsopalmar",
+   "Palmarodorsal",
+   "Laterolateral",
+   "Craniocaudal"
+  ],
+  "e": "A projeção é nomeada pelo ponto de entrada e de saída do feixe."
+ },
+ {
+  "c": "planos",
+  "q": "No dente, a face voltada para os lábios e as bochechas é a face:",
+  "o": [
+   "Vestibular",
+   "Lingual",
+   "Oclusal",
+   "Mesial"
+  ],
+  "e": "Vestibular (labial ou bucal) é a face voltada para o vestíbulo da boca."
+ },
+ {
+  "c": "planos",
+  "q": "A face de mastigação de um dente molar é a face:",
+  "o": [
+   "Oclusal",
+   "Vestibular",
+   "Distal",
+   "Palatina"
+  ],
+  "e": "Oclusal é a superfície que contata o dente oposto."
+ },
+ {
+  "c": "planos",
+  "q": "Na cauda, a região junto ao tronco é descrita como:",
+  "o": [
+   "Proximal",
+   "Rostral",
+   "Cranial",
+   "Axial"
+  ],
+  "e": "Na cauda usa-se proximal (base) e distal (ponta)."
+ },
+ {
+  "c": "planos",
+  "q": "Um túbulo cortado perpendicularmente ao seu eixo aparece na lâmina como:",
+  "o": [
+   "Um anel",
+   "Um canal alongado",
+   "Uma faixa contínua",
+   "Uma estrela"
+  ],
+  "e": "Corte transversal de um tubo = anel; longitudinal = canal."
+ },
+ {
+  "c": "planos",
+  "q": "Na necropsia, o rim é geralmente cortado no plano dorsal porque assim se veem:",
+  "o": [
+   "Córtex, medula e pelve renal",
+   "Apenas a cápsula",
+   "Só os vasos do hilo",
+   "Somente o ureter"
+  ],
+  "e": "O corte dorsal abre o rim como um livro e mostra suas regiões."
+ },
+ {
+  "c": "planos",
+  "q": "Na tomografia, o plano adquirido diretamente pelo aparelho e usado como padrão é o:",
+  "o": [
+   "Transversal",
+   "Dorsal",
+   "Sagital",
+   "Paramediano"
+  ],
+  "e": "Os cortes axiais (transversais) são adquiridos; dorsal e sagital são reconstruções."
+ },
+ {
+  "c": "planos",
+  "q": "A expressão “tendão na face plantar do metatarso” indica uma estrutura:",
+  "o": [
+   "Na face de trás do pé",
+   "Na face da frente da mão",
+   "No lado medial da coxa",
+   "Na face cranial da perna"
+  ],
+  "e": "Plantar = face de trás do membro pélvico, distal ao tarso."
+ },
+ {
+  "c": "planos",
+  "q": "O termo “distal”, aplicado a um dente, significa:",
+  "o": [
+   "Afastado do meio da arcada dentária",
+   "Mais próximo do ápice da raiz",
+   "Voltado para a língua do animal",
+   "Voltado para o lábio e a bochecha"
+  ],
+  "e": "Em odontologia, distal se opõe a mesial, em relação ao meio da arcada."
+ },
+ {
+  "c": "planos",
+  "q": "Uma incisão cirúrgica pela linha alba do cão é uma celiotomia:",
+  "o": [
+   "Mediana ventral",
+   "Paramediana dorsal",
+   "Transversal lombar",
+   "Pelo flanco esquerdo"
+  ],
+  "e": "A linha alba fica no plano mediano, na parede ventral."
+ },
+ {
+  "c": "planos",
+  "q": "Os planos que limitam o animal como as faces de uma caixa são chamados planos de:",
+  "o": [
+   "Delimitação",
+   "Secção",
+   "Simetria",
+   "Rotação"
+  ],
+  "e": "Planos de delimitação tangenciam o corpo; planos de secção o atravessam."
+ },
+ {
+  "c": "planos",
+  "q": "Em relação à superfície do corpo, o músculo glúteo profundo está em posição:",
+  "o": [
+   "Profunda",
+   "Externa",
+   "Interna",
+   "Abaxial"
+  ],
+  "e": "Superficial e profundo descrevem a distância da superfície; interno e externo, cavidades."
+ },
+ {
+  "c": "planos",
+  "q": "No membro torácico do cão, a face cranial do úmero corresponde, abaixo do carpo, à face:",
+  "o": [
+   "Dorsal",
+   "Palmar",
+   "Plantar",
+   "Axial"
+  ],
+  "e": "Do carpo para baixo, a face da frente do membro passa a ser dorsal."
+ }
+]

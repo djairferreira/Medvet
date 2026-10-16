@@ -2,12 +2,16 @@
   <div class="ch-head">
     <div class="ch-num">07</div>
     <div><span class="eyebrow">Unidade I · Morfologia animal e sistema tegumentar · 01.07 Glândula mamária</span><h2>Glândula mamária</h2></div>
-    <div class="ch-meta"><button class="done-btn" data-done="mamaria" aria-pressed="false">Marcar como estudado</button><span class="chip">~30 min</span></div>
+    <div class="ch-meta"><button class="done-btn" data-done="mamaria" aria-pressed="false">Marcar como estudado</button><span class="chip">~40 min</span></div>
   </div>
   <div class="col">
-    <p class="oneliner">PENDENTE</p>
+    <p class="oneliner">A glândula mamária é uma glândula sudorípara apócrina modificada da pele, exclusiva dos mamíferos. O número e a posição das mamas variam com o tamanho da ninhada; no úbere bovino, quartos independentes, cisternas e o ducto papilar explicam a ordenha e a mastite, e o reflexo da ocitocina explica a descida do leite.</p>
     <div class="goals rv"><h4>Objetivos</h4><ul>
-      <li>PENDENTE</li></ul></div>
+      <li>Explicar a origem embrionária da glândula mamária a partir da pele e da crista mamária.</li>
+      <li>Comparar número, posição e óstios das mamas entre vaca, pequenos ruminantes, égua, porca, cadela e gata.</li>
+      <li>Descrever o úbere bovino: quartos, sistema de ductos e cisternas, ducto papilar, suspensão, irrigação e linfa.</li>
+      <li>Relacionar a histologia do alvéolo com as vias de secreção do leite e o reflexo de ejeção.</li>
+      <li>Aplicar a anatomia à prevenção e ao diagnóstico de mastite e de tumores mamários.</li></ul></div>
 
     <h3><span class="tag">7.1</span>Número e posição</h3>
     <section class="labbox rv" aria-labelledby="mmTitle">
@@ -69,10 +73,44 @@
         <li><b>Galactopoese</b>: manutenção pela ordenha frequente.</li>
         <li><b>Involução</b>: período seco (vaca seca ~60 dias antes do parto), regeneração do epitélio.</li></ol></div>
     </div>
+
+    <section class="labbox rv" aria-labelledby="maaTitle">
+      <header><div><span class="eyebrow">Animação</span><h4 id="maaTitle">Reflexo de ejeção do leite: do teto à hipófise e de volta</h4></div>
+        <div class="ctrl" style="margin:0"><button class="btn" type="button" id="maaPlay">▶ Reproduzir</button><button class="tbtn" type="button" id="maaPause">⏸ Pausar</button><button class="tbtn" type="button" id="maaReset">↺ Reiniciar</button></div></header>
+      <div class="svgwrap"><svg id="maaSvg" viewBox="0 0 600 340" role="img" aria-label="Estímulo do teto sobe por nervo até a hipófise, a ocitocina chega pelo sangue aos alvéolos, que se contraem e o leite desce até o teto">
+        <rect x="0" y="0" width="600" height="340" fill="var(--paper)"/>
+        <ellipse cx="110" cy="72" rx="62" ry="40" fill="var(--hema-soft)" stroke="var(--hema)" stroke-width="3"/>
+        <circle id="maaHip" cx="128" cy="100" r="12" fill="var(--hema)"/>
+        <text x="110" y="140" font-size="18" font-weight="800" fill="var(--hema)" text-anchor="middle">Hipófise</text>
+        <ellipse cx="400" cy="185" rx="104" ry="78" fill="var(--amber-soft)" stroke="var(--amber)" stroke-width="3"/>
+        <rect x="389" y="250" width="24" height="62" rx="11" fill="var(--amber-soft)" stroke="var(--amber)" stroke-width="3"/>
+        <ellipse id="maaCis" cx="401" cy="244" rx="30" ry="15" fill="var(--panel)" stroke="var(--amber)" stroke-width="2"/>
+        <g id="maaAlv" fill="var(--panel)" stroke="var(--eosin)" stroke-width="4">
+          <circle cx="345" cy="160" r="17"/><circle cx="382" cy="140" r="17"/><circle cx="420" cy="150" r="17"/><circle cx="455" cy="178" r="17"/><circle cx="360" cy="200" r="17"/><circle cx="420" cy="198" r="17"/></g>
+        <path id="maaNer" d="M401 312 C 250 330 130 270 128 112" fill="none" stroke="var(--sky)" stroke-width="5" stroke-linecap="round"/>
+        <text id="maaNerT" x="190" y="300" font-size="18" font-weight="800" fill="var(--sky)" text-anchor="middle">Nervo sensitivo</text>
+        <text id="maaSuc" x="470" y="326" font-size="18" font-weight="800" fill="var(--ink)" text-anchor="middle">Sucção</text>
+        <text id="maaOxT" x="270" y="78" font-size="18" font-weight="800" fill="var(--eosin)" text-anchor="middle">Ocitocina (sangue)</text>
+        <g id="maaOx" fill="var(--eosin)"><circle cx="128" cy="100" r="7"/><circle cx="128" cy="100" r="7"/><circle cx="128" cy="100" r="7"/><circle cx="128" cy="100" r="7"/><circle cx="128" cy="100" r="7"/><circle cx="128" cy="100" r="7"/></g>
+        <g id="maaMilk" fill="var(--sky)"><circle cx="345" cy="160" r="6"/><circle cx="382" cy="140" r="6"/><circle cx="420" cy="150" r="6"/><circle cx="455" cy="178" r="6"/><circle cx="360" cy="200" r="6"/><circle cx="420" cy="198" r="6"/></g>
+      </svg></div>
+      <label class="sc-range"><span>Início</span><input type="range" id="maaRng" min="0" max="1" step="0.001" value="0" aria-label="Linha do tempo da animação"><span>Fim</span></label>
+      <div class="readout" id="maaOut" aria-live="polite"></div>
+    </section>
     <div class="note clin"><b>Na clínica</b><ul>
       <li><b>Mastite</b>: inflamação da glândula, quase sempre bacteriana, entrando pelo ducto papilar. Contagiosa (<i>Staphylococcus aureus</i>, <i>Streptococcus agalactiae</i>) ou ambiental (coliformes). Leite com aumento de <b>células somáticas</b> (neutrófilos).</li>
       <li><b>Tumores mamários</b> são as neoplasias mais comuns da cadela não castrada; a castração antes do primeiro cio reduz muito o risco.</li>
       <li>Na gata, a <b>hiperplasia fibroepitelial</b> está ligada à progesterona (inclusive à exógena).</li></ul></div>
+
+    <h3><span class="tag">7.4</span>Origem, desenvolvimento e espécies</h3>
+    <p>A glândula mamária é um <b>anexo cutâneo</b> (cap. 6): uma glândula sudorípara apócrina que se especializou. No embrião, surge de cada lado do ventre uma faixa espessada do ectoderma, a <b>crista (linha) mamária</b>, que vai da axila até a região inguinal. Ao longo dela formam-se brotos epiteliais que invadem o mesênquima e se ramificam; cada broto dá uma <b>mama</b> (glândula + teto). Nas espécies com poucas mamas, a maior parte da crista regride, e só os brotos inguinais (ruminantes, égua) ou torácicos (primatas) persistem.</p>
+    <div class="cards">
+      <div class="card"><span class="role">Tetos supranumerários</span><h5>Brotos que não regrediram</h5><p>Comuns em bovinos, geralmente caudais aos tetos principais. Devem ser removidos na bezerra (até ~2 meses), pois podem ter glândula própria, atrapalhar a ordenhadeira e ser porta de entrada para mastite.</p></div>
+      <div class="card"><span class="role">Macho</span><h5>Tetos rudimentares</h5><p>Garanhões em geral não têm tetos (no máximo vestígios no prepúcio); touros, carneiros e machos de carnívoros e suínos têm tetos rudimentares.</p></div>
+      <div class="card"><span class="role">Égua</span><h5>Dois sistemas por teto</h5><p>Cada metade do úbere tem dois (às vezes três) sistemas de ductos independentes, que abrem por dois óstios em cada teto curto e achatado.</p></div>
+      <div class="card"><span class="role">Porca e cadela</span><h5>Glândulas em fileiras</h5><p>Mamas pareadas ao longo de toda a parede ventral; cada uma com vários sistemas de ductos e óstios. Na porca, os leitões estabelecem a “ordem de mamada”, e os tetos craniais costumam produzir mais leite.</p></div>
+    </div>
+    <div class="note trap"><b>Pegadinha</b><p>“Quarto” é termo do úbere bovino (4 glândulas independentes). Na ovelha e na cabra, o úbere tem duas <b>metades</b>, cada uma com um teto. E a vaca tem <b>um</b> óstio por teto, enquanto a égua e a porca têm dois.</p></div>
 
     <div class="quiz" data-quiz="mamaria"></div>
   </div>

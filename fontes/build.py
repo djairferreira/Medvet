@@ -15,7 +15,8 @@ def pasta_arqs(sub,ext):
     d=os.path.join(src,sub)
     return [os.path.join(d,f) for f in sorted(os.listdir(d)) if f.endswith(ext)] if os.path.isdir(d) else []
 # capítulos modulares: labs/*.js, css/*.css, q/*.json (questões), fc/*.json (cartões)
-js_w+=''.join('\n/* '+os.path.basename(f)+' */\n(function(){\n'+read(f)+'\n})();\n' for f in pasta_arqs('labs','.js'))
+# cada laboratório em seu próprio <script>: um erro num arquivo não derruba os outros
+js_w+=''.join('\n</script>\n<script>\n/* '+os.path.basename(f)+' */\n(function(){\n'+read(f)+'\n})();\n' for f in pasta_arqs('labs','.js'))
 _q=[x for f in pasta_arqs('q','.json') for x in json.load(open(f,encoding='utf-8'))]
 _fc=[x for f in pasta_arqs('fc','.json') for x in json.load(open(f,encoding='utf-8'))]
 if _q: js_dados+='\nwindow.LIVRO.Q=window.LIVRO.Q.concat('+json.dumps(_q,ensure_ascii=False)+');'

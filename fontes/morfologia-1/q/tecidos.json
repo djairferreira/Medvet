@@ -56,50 +56,6 @@
  },
  {
   "c": "tecidos",
-  "q": "Na HE, o núcleo fica roxo porque:",
-  "o": [
-   "Os ácidos nucleicos atraem a hematoxilina, corante básico",
-   "A eosina é um corante básico e cora intensamente o DNA",
-   "O núcleo é rico em proteínas básicas que atraem a eosina",
-   "O núcleo não cora e parece roxo apenas por contraste"
-  ],
-  "e": "Os ácidos nucleicos (DNA e RNA) são ácidos e atraem a hematoxilina, que é básica: estruturas ácidas = basófilas."
- },
- {
-  "c": "tecidos",
-  "q": "O citoplasma do plasmócito é basófilo porque é rico em:",
-  "o": [
-   "Retículo endoplasmático rugoso (RNA dos ribossomos)",
-   "Mitocôndrias, que se coram pela hematoxilina",
-   "Glicogênio, que reage intensamente com a hematoxilina",
-   "Gotículas de lipídios ácidos no citosol"
-  ],
-  "e": "Ribossomos têm RNA (ácido) → atraem a hematoxilina. Mitocôndrias deixam o citoplasma acidófilo."
- },
- {
-  "c": "tecidos",
-  "q": "Os grânulos dos mastócitos corados com azul de toluidina ficam roxo-avermelhados. Isso é:",
-  "o": [
-   "Metacromasia",
-   "Acidofilia",
-   "Argirofilia",
-   "Autofluorescência"
-  ],
-  "e": "O corante básico muda de cor ao se ligar à heparina, muito ácida e agrupada."
- },
- {
-  "c": "tecidos",
-  "q": "Para evidenciar fibras reticulares, usa-se:",
-  "o": [
-   "Impregnação pela prata",
-   "Hematoxilina e eosina",
-   "Sudan",
-   "Ziehl-Neelsen"
-  ],
-  "e": "Fibras reticulares são argirófilas: ficam negras."
- },
- {
-  "c": "tecidos",
   "q": "O fixador de rotina para histopatologia é:",
   "o": [
    "Formol a 10% tamponado",
@@ -298,17 +254,6 @@
  },
  {
   "c": "tecidos",
-  "q": "Para evidenciar as fibras elásticas do ligamento nucal, que coram mal na HE, utiliza-se:",
-  "o": [
-   "Orceína ou Verhoeff",
-   "Ziehl-Neelsen",
-   "Sudan",
-   "Azul de toluidina"
-  ],
-  "e": "As fibras elásticas são demonstradas por orceína ou Verhoeff; as outras colorações destinam-se a BAAR, lipídios e metacromasia."
- },
- {
-  "c": "tecidos",
   "q": "As fibras reticulares, formadas por colágeno III fino, constituem o arcabouço de:",
   "o": [
    "Linfonodos, medula óssea e fígado",
@@ -320,17 +265,6 @@
  },
  {
   "c": "tecidos",
-  "q": "Na cicatrização de uma ferida cutânea, a célula responsável por produzir novas fibras colágenas é o:",
-  "o": [
-   "Fibroblasto",
-   "Mastócito",
-   "Plasmócito",
-   "Adipócito"
-  ],
-  "e": "O fibroblasto (forma ativa) sintetiza fibras e substância fundamental; o fibrócito é sua forma quiescente."
- },
- {
-  "c": "tecidos",
   "q": "O tecido adiposo multilocular (gordura parda) é encontrado principalmente em:",
   "o": [
    "Neonatos e animais que hibernam",
@@ -339,50 +273,6 @@
    "Suínos em terminação"
   ],
   "e": "A gordura parda, termogênica, é típica de recém-nascidos e hibernantes; a gordura branca é unilocular."
- },
- {
-  "c": "tecidos",
-  "q": "Qual é o tumor cutâneo maligno mais comum do cão, originado de uma célula residente do conjuntivo com grânulos de histamina e heparina?",
-  "o": [
-   "Mastocitoma",
-   "Plasmocitoma",
-   "Histiocitoma",
-   "Fibrossarcoma"
-  ],
-  "e": "O mastocitoma, derivado do mastócito, é o tumor cutâneo maligno mais frequente no cão; o histiocitoma é comum, mas benigno."
- },
- {
-  "c": "tecidos",
-  "q": "Célula transitória do conjuntivo, derivada do linfócito B, com núcleo em “roda de carroça” e função de produzir anticorpos:",
-  "o": [
-   "Plasmócito",
-   "Macrófago",
-   "Mastócito",
-   "Eosinófilo"
-  ],
-  "e": "O plasmócito é o linfócito B diferenciado em produtor de anticorpos, com cromatina em roda de carroça."
- },
- {
-  "c": "tecidos",
-  "q": "A biópsia de pele de um cão com alergia a pulgas mostra muitas células sanguíneas com grânulos acidófilos infiltrando a derme. Essas células são, mais provavelmente:",
-  "o": [
-   "Eosinófilos",
-   "Plasmócitos",
-   "Fibrócitos",
-   "Adipócitos"
-  ],
-  "e": "Eosinófilos têm grânulos acidófilos e aumentam em parasitoses e alergias."
- },
- {
-  "c": "tecidos",
-  "q": "O macrófago (histiócito) do tecido conjuntivo deriva de qual célula sanguínea?",
-  "o": [
-   "Monócito",
-   "Linfócito B",
-   "Neutrófilo",
-   "Basófilo"
-  ],
-  "e": "Monócitos migram do sangue para os tecidos e se diferenciam em macrófagos."
  },
  {
   "c": "tecidos",
@@ -405,72 +295,6 @@
    "Adiposo"
   ],
   "e": "A lâmina própria é conjuntivo frouxo, rico em células e vasos, que sustenta e nutre o epitélio."
- },
- {
-  "c": "tecidos",
-  "q": "A hematoxilina é classificada como corante:",
-  "o": [
-   "Básico (catiônico), que se liga a estruturas ácidas",
-   "Ácido (aniônico), que se liga a estruturas básicas",
-   "Lipossolúvel, que se dissolve nas gorduras",
-   "Metacromático, que sempre cora em vermelho"
-  ],
-  "e": "A hematoxilina, positiva, liga-se a grupos negativos como os fosfatos dos ácidos nucleicos."
- },
- {
-  "c": "tecidos",
-  "q": "Por que o citoplasma da maioria das células, as hemácias e as fibras colágenas ficam rosados na HE?",
-  "o": [
-   "Suas proteínas catiônicas ligam-se à eosina, corante ácido",
-   "Seus ácidos nucleicos ligam-se à hematoxilina, corante básico",
-   "Seus glicosaminoglicanos sulfatados causam metacromasia rósea",
-   "Seus lipídios retêm o xilol e refratam a luz durante a montagem"
-  ],
-  "e": "Estruturas básicas (proteínas com carga +) atraem a eosina, aniônica, e são acidófilas."
- },
- {
-  "c": "tecidos",
-  "q": "Qual das estruturas abaixo NÃO é basófila na HE?",
-  "o": [
-   "Mitocôndrias",
-   "Nucléolo",
-   "Corpúsculos de Nissl do neurônio",
-   "Citoplasma das células acinosas do pâncreas"
-  ],
-  "e": "Mitocôndrias são acidófilas; nucléolo, Nissl e citoplasma acinoso são basófilos por conterem RNA."
- },
- {
-  "c": "tecidos",
-  "q": "A matriz da cartilagem hialina é basófila na HE principalmente por causa de:",
-  "o": [
-   "Grupos sulfato dos glicosaminoglicanos",
-   "Fibras de colágeno tipo I",
-   "Grande quantidade de mitocôndrias",
-   "Fibras elásticas abundantes"
-  ],
-  "e": "Os GAGs sulfatados, com carga negativa, atraem a hematoxilina e também explicam a metacromasia da cartilagem."
- },
- {
-  "c": "tecidos",
-  "q": "Na HE, os adipócitos aparecem como anéis com núcleo periférico (“anel de sinete”) e o espaço central vazio porque:",
-  "o": [
-   "Os lipídios são dissolvidos pelo álcool e pelo xilol",
-   "A gordura se liga à hematoxilina e fica translúcida",
-   "A eosina não penetra em células grandes como o adipócito",
-   "O formol transforma os triglicerídeos em água e glicerol"
-  ],
-  "e": "Os solventes do processamento (álcool e xilol) extraem os lipídios, deixando o vacúolo vazio; o mesmo ocorre com o glicogênio no hepatócito “rendado”."
- },
- {
-  "c": "tecidos",
-  "q": "Para confirmar lipidose hepática numa vaca no pós-parto com Sudan ou Oil Red O, o corte deve ser feito em material congelado porque:",
-  "o": [
-   "Álcool e xilol da inclusão em parafina removem os lipídios",
-   "O formol impede qualquer coloração de gorduras no tecido",
-   "O corte congelado é mais fino e nítido que o de parafina",
-   "O Sudan só se liga a tecido não fixado e ainda vivo"
-  ],
-  "e": "A desidratação e a diafanização dissolvem as gorduras; o corte congelado preserva os lipídios para os corantes lipossolúveis."
  },
  {
   "c": "tecidos",
@@ -518,61 +342,6 @@
  },
  {
   "c": "tecidos",
-  "q": "Qual coloração evidencia glicogênio, mucinas, membranas basais e paredes de fungos em magenta?",
-  "o": [
-   "PAS (ácido periódico-Schiff)",
-   "Tricrômico de Masson",
-   "Ziehl-Neelsen",
-   "Impregnação pela prata"
-  ],
-  "e": "O PAS cora carboidratos em magenta e é usado em glomerulopatias, células caliciformes e fungos."
- },
- {
-  "c": "tecidos",
-  "q": "Para avaliar o grau de fibrose num fígado de cão com hepatite crônica, a coloração especial mais indicada é:",
-  "o": [
-   "Tricrômico de Masson",
-   "Sudan",
-   "Azul de toluidina",
-   "Ziehl-Neelsen"
-  ],
-  "e": "O tricrômico de Masson cora o colágeno em azul ou verde, destacando a fibrose."
- },
- {
-  "c": "tecidos",
-  "q": "Num bovino com suspeita de paratuberculose, qual coloração demonstra os bacilos na mucosa intestinal?",
-  "o": [
-   "Ziehl-Neelsen",
-   "PAS",
-   "Tricrômico de Masson",
-   "Orceína"
-  ],
-  "e": "Micobactérias são álcool-ácido resistentes e ficam vermelhas no Ziehl-Neelsen."
- },
- {
-  "c": "tecidos",
-  "q": "Na suspeita de leptospirose, as espiroquetas no rim podem ser demonstradas por:",
-  "o": [
-   "Impregnação pela prata",
-   "Sudan / Oil Red O",
-   "Tricrômico de Masson",
-   "Hematoxilina e eosina de rotina"
-  ],
-  "e": "As leptospiras são argirófilas e aparecem negras na impregnação pela prata."
- },
- {
-  "c": "tecidos",
-  "q": "Para determinar a origem celular de um tumor pouco diferenciado, a técnica que marca uma proteína específica com anticorpos é a:",
-  "o": [
-   "Imuno-histoquímica",
-   "Coloração de PAS",
-   "Impregnação pela prata",
-   "Coloração de Giemsa"
-  ],
-  "e": "A imuno-histoquímica usa anticorpos contra proteínas específicas, identificando a linhagem do tumor e agentes infecciosos."
- },
- {
-  "c": "tecidos",
   "q": "Ao examinar uma lâmina desconhecida ao microscópio, o procedimento correto é:",
   "o": [
    "Começar no menor aumento e só depois subir para 40×",
@@ -581,5 +350,115 @@
    "Examinar só as bordas do corte, em aumento médio de 20×"
   ],
   "e": "O menor aumento (4× ou 10×) mostra a arquitetura e a organização geral e localiza o tecido antes do detalhe celular."
+ },
+ {
+  "c": "tecidos",
+  "q": "Qual folheto embrionário origina a epiderme e seus anexos, como pelos e cascos?",
+  "o": [
+   "Ectoderma",
+   "Mesoderma",
+   "Endoderma",
+   "Mesênquima"
+  ],
+  "e": "A epiderme e todos os anexos cutâneos derivam do ectoderma; o mesênquima (mesoderma) forma a derme."
+ },
+ {
+  "c": "tecidos",
+  "q": "O mesotélio que reveste o peritônio é um epitélio simples pavimentoso que deriva do:",
+  "o": [
+   "Mesoderma",
+   "Ectoderma",
+   "Endoderma",
+   "Neuroectoderma"
+  ],
+  "e": "Endotélio e mesotélio são epitélios na forma, mas derivam do mesoderma."
+ },
+ {
+  "c": "tecidos",
+  "q": "Os melanócitos da pele derivam embriologicamente da:",
+  "o": [
+   "Crista neural",
+   "Notocorda",
+   "Placa lateral do mesoderma",
+   "Endoderma do intestino"
+  ],
+  "e": "Melanócitos migram da crista neural para a epiderme e os folículos pilosos."
+ },
+ {
+  "c": "tecidos",
+  "q": "Em um órgão, a parte que executa a função própria (por exemplo, os hepatócitos no fígado) é chamada:",
+  "o": [
+   "Parênquima",
+   "Estroma",
+   "Cápsula",
+   "Lâmina própria"
+  ],
+  "e": "Parênquima é a parte funcional; estroma é o arcabouço de conjuntivo."
+ },
+ {
+  "c": "tecidos",
+  "q": "Cápsula, septos e fibras reticulares que sustentam um órgão e levam vasos formam o:",
+  "o": [
+   "Estroma",
+   "Parênquima",
+   "Mesotélio",
+   "Epitélio glandular"
+  ],
+  "e": "O estroma é feito de tecido conjuntivo e sustenta o parênquima."
+ },
+ {
+  "c": "tecidos",
+  "q": "Um tumor maligno originado de tecido epitelial recebe o nome de:",
+  "o": [
+   "Carcinoma",
+   "Sarcoma",
+   "Lipoma",
+   "Papiloma"
+  ],
+  "e": "Carcinoma = maligno de epitélio; sarcoma = maligno de conjuntivo."
+ },
+ {
+  "c": "tecidos",
+  "q": "O osteossarcoma de cães de raças grandes é um tumor maligno de origem:",
+  "o": [
+   "Conjuntiva (mesenquimal)",
+   "Epitelial de revestimento",
+   "Nervosa (glial)",
+   "Epitelial glandular"
+  ],
+  "e": "Sarcomas derivam de tecidos mesenquimais, como o osso."
+ },
+ {
+  "c": "tecidos",
+  "q": "A sequência das camadas da parede de uma víscera oca, da luz para fora, é:",
+  "o": [
+   "Mucosa, submucosa, muscular, serosa",
+   "Serosa, muscular, submucosa, mucosa",
+   "Mucosa, muscular, submucosa, serosa",
+   "Submucosa, mucosa, serosa, muscular"
+  ],
+  "e": "A mucosa fica voltada para a luz e a serosa (ou adventícia) é a camada externa."
+ },
+ {
+  "c": "tecidos",
+  "q": "A mucosa de um órgão oco é composta por:",
+  "o": [
+   "Epitélio e lâmina própria",
+   "Apenas epitélio simples",
+   "Músculo liso e serosa",
+   "Conjuntivo denso e cartilagem"
+  ],
+  "e": "Mucosa = epitélio + lâmina própria de conjuntivo frouxo (às vezes com muscular da mucosa)."
+ },
+ {
+  "c": "tecidos",
+  "q": "O epitélio de revestimento do intestino delgado e o das vias respiratórias derivam do:",
+  "o": [
+   "Endoderma",
+   "Ectoderma",
+   "Mesoderma paraxial",
+   "Crista neural"
+  ],
+  "e": "O endoderma origina o epitélio do tubo digestório, de suas glândulas e das vias respiratórias."
  }
 ]

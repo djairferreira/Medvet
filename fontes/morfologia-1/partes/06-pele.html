@@ -2,15 +2,19 @@
   <div class="ch-head">
     <div class="ch-num">06</div>
     <div><span class="eyebrow">Unidade I · Morfologia animal e sistema tegumentar · 01.06 Pele e anexos cutâneos</span><h2>Pele e anexos cutâneos</h2></div>
-    <div class="ch-meta"><button class="done-btn" data-done="pele" aria-pressed="false">Marcar como estudado</button><span class="chip">~30 min</span></div>
+    <div class="ch-meta"><button class="done-btn" data-done="pele" aria-pressed="false">Marcar como estudado</button><span class="chip">~50 min</span></div>
   </div>
   <div class="col">
-    <p class="oneliner">PENDENTE</p>
+    <p class="oneliner">A pele é o maior órgão do corpo: epiderme (epitélio queratinizado), derme (conjuntivo) e hipoderme (gordura). Da epiderme nascem todos os anexos, que são variações do mesmo tema, a queratinização: pelos, lã, garras, cascos, cornos, coxins, penas e escamas, além das glândulas sebáceas, sudoríparas e mamárias.</p>
     <div class="goals rv"><h4>Objetivos</h4><ul>
-      <li>PENDENTE</li></ul></div>
+      <li>Listar as funções da pele e relacioná-las com suas camadas.</li>
+      <li>Descrever epiderme, derme e hipoderme, os estratos da epiderme e as células residentes.</li>
+      <li>Explicar a estrutura do folículo piloso, o ciclo do pelo, os tipos de pelo e a lã.</li>
+      <li>Comparar as glândulas sebáceas e sudoríparas entre as espécies e reconhecer as glândulas especializadas.</li>
+      <li>Descrever casco, unha, garra, coxins, cornos, penas e escamas e suas aplicações clínicas.</li></ul></div>
 
     <h3><span class="tag">6.1</span>Funções</h3>
-    <p>Proteção mecânica, química e contra microrganismos; barreira contra a perda de água; <b>termorregulação</b> (pelos, sudorese, vasos); <b>sensibilidade</b> (tato, pressão, dor, temperatura); síntese de <b>vitamina D</b>; armazenamento (gordura, água, eletrólitos); comunicação (glândulas odoríferas, cor da pelagem); e produção de leite, pois a <b>glândula mamária é uma glândula cutânea modificada</b> (cap. 5).</p>
+    <p>Proteção mecânica, química e contra microrganismos; barreira contra a perda de água; <b>termorregulação</b> (pelos, sudorese, vasos); <b>sensibilidade</b> (tato, pressão, dor, temperatura); síntese de <b>vitamina D</b>; armazenamento (gordura, água, eletrólitos); comunicação (glândulas odoríferas, cor da pelagem); e produção de leite, pois a <b>glândula mamária é uma glândula cutânea modificada</b> (cap. 7).</p>
 
     <h3><span class="tag">6.2</span>As camadas</h3>
     <section class="labbox rv" aria-labelledby="skTitle">
@@ -19,6 +23,38 @@
         <div class="svgwrap"><svg id="skSvg" viewBox="0 0 420 340" role="img" aria-label="Corte esquemático de pele"></svg></div>
         <div class="readout" id="skOut" aria-live="polite" style="align-self:stretch">Toque numa camada ou estrutura do desenho.</div>
       </div>
+    </section>
+
+    <section class="labbox rv" aria-labelledby="peaTitle">
+      <header><div><span class="eyebrow">Animação</span><h4 id="peaTitle">A pele montando-se, da hipoderme ao pelo</h4></div>
+        <div class="ctrl" style="margin:0"><button class="btn" type="button" id="peaPlay">▶ Reproduzir</button><button class="tbtn" type="button" id="peaPause">⏸ Pausar</button><button class="tbtn" type="button" id="peaReset">↺ Reiniciar</button></div></header>
+      <div class="svgwrap"><svg id="peaSvg" viewBox="0 0 600 340" role="img" aria-label="Corte de pele formando-se em camadas, com folículo piloso, pelo, glândula sebácea, músculo eretor e glândula sudorípara">
+        <rect x="0" y="0" width="600" height="340" fill="var(--paper)"/>
+        <g id="peaHip"><rect x="30" y="250" width="420" height="82" fill="var(--amber-soft)"/>
+          <g fill="none" stroke="var(--amber)" stroke-width="2"><circle cx="70" cy="290" r="22"/><circle cx="118" cy="296" r="24"/><circle cx="168" cy="288" r="22"/><circle cx="220" cy="296" r="24"/><circle cx="272" cy="290" r="22"/><circle cx="322" cy="296" r="24"/><circle cx="374" cy="290" r="22"/><circle cx="422" cy="296" r="22"/></g></g>
+        <rect id="peaDer" x="30" y="120" width="420" height="130" fill="var(--eosin-soft)"/>
+        <g id="peaEpi">
+          <rect x="30" y="108" width="420" height="12" fill="var(--hema)" opacity=".85"/>
+          <rect x="30" y="88" width="420" height="20" fill="var(--hema-soft)"/>
+          <rect x="30" y="80" width="420" height="8" fill="var(--hema-2)" opacity=".8"/>
+          <rect x="30" y="66" width="420" height="14" fill="var(--eosin)" opacity=".75"/>
+        </g>
+        <rect id="peaFol" x="226" y="66" width="28" height="170" rx="10" fill="var(--hema-soft)" stroke="var(--hema)" stroke-width="3"/>
+        <circle id="peaBul" cx="240" cy="236" r="20" fill="var(--hema)" opacity=".8"/>
+        <circle id="peaPap" cx="240" cy="242" r="9" fill="var(--eosin)"/>
+        <rect id="peaHair" x="236" y="14" width="8" height="222" rx="4" fill="var(--ink)"/>
+        <ellipse id="peaSeb" cx="272" cy="140" rx="18" ry="13" fill="var(--amber)"/>
+        <path id="peaMus" d="M258 172 L340 122" stroke="var(--bad)" stroke-width="8" stroke-linecap="round" fill="none"/>
+        <path id="peaSwe" d="M130 66 L130 196 q-14 8 0 16 q14 8 0 16 q-14 8 0 16" stroke="var(--sky)" stroke-width="5" fill="none" stroke-linecap="round"/>
+        <g font-size="20" font-weight="800">
+          <text id="peaL1" x="462" y="298" fill="var(--amber)">Hipoderme</text>
+          <text id="peaL2" x="462" y="190" fill="var(--eosin)">Derme</text>
+          <text id="peaL3" x="462" y="98" fill="var(--hema)">Epiderme</text>
+          <text id="peaL4" x="290" y="40" fill="var(--ink)">Pelo</text>
+        </g>
+      </svg></div>
+      <label class="sc-range"><span>Início</span><input type="range" id="peaRng" min="0" max="1" step="0.001" value="0" aria-label="Linha do tempo da animação"><span>Fim</span></label>
+      <div class="readout" id="peaOut" aria-live="polite"></div>
     </section>
     <div class="tbl"><table>
       <thead><tr><th>Camada</th><th>Tecido</th><th>Conteúdo</th></tr></thead>
@@ -72,6 +108,7 @@
         <tr><td><b>Sudorípara apócrina (epitriquial)</b></td><td>Abre no folículo piloso; secreção mais viscosa e odorífera</td><td><b>Equino</b>: muito desenvolvidas, suor abundante, rico em proteína (latherina, a espuma do suor). Bovinos: moderadas (zebuínos suam mais que taurinos). Cão e gato: pouca função térmica</td></tr>
         <tr><td><b>Sudorípara écrina (atriquial, merócrina)</b></td><td>Abre direto na superfície</td><td><b>Cão e gato</b>: só nos <b>coxins</b> (patas suadas quando estressados). Suínos: no focinho</td></tr>
         <tr><td><b>Glândulas especializadas</b></td><td>Modificações sebáceas ou apócrinas</td><td>Sacos anais e glândulas circum-anais (cão); glândula da cauda (cão); infraorbitária e interdigital (ovinos); cornual (caprinos, odor do bode); carpal (suíno); <b>mamária</b></td></tr>
+        <tr><td><b>Mamária</b></td><td>Sudorípara apócrina modificada, tubuloalveolar composta; secreção merócrina (proteínas) e apócrina (gotas de gordura)</td><td>Número, posição e anatomia variam muito entre as espécies: veja o <b>cap. 7</b></td></tr>
       </tbody></table></div>
     <div class="note clin"><b>Na clínica</b><p>Como cães e gatos quase não suam pela pele, perdem calor principalmente pela <b>respiração ofegante</b>: risco de <b>insolação</b> em braquicefálicos. Bovinos taurinos de alta produção também dissipam mal o calor, e o <b>estresse térmico</b> reduz leite e fertilidade.</p></div>
 
@@ -95,7 +132,7 @@
       <div class="card"><span class="role">Apoio</span><h5>Coxins (almofadas)</h5><p>Epiderme espessa (com estrato lúcido) sobre tecido adiposo e fibroso. Cão e gato: coxins digitais, metacárpico/metatársico e cárpico. Têm glândulas écrinas.</p></div>
     </div>
 
-    <h3><span class="tag">6.6</span>Cornos, penas e escamas</h3>
+    <h3><span class="tag">6.6</span>Cornos, lã, penas e escamas</h3>
     <ul>
       <li><b>Cornos (chifres) de bovinos, ovinos e caprinos</b>: um <b>processo cornual</b> do osso frontal, coberto de derme e de um estojo córneo de epiderme queratinizada que cresce durante toda a vida. O processo é <b>oco e comunicado com o seio frontal</b>: na descorna de animal adulto abre-se o seio (risco de sinusite). Por isso a <b>descorna</b> se faz no bezerro (botão cornual, até ~2 meses), com anestesia do <b>nervo cornual</b>.</li>
       <li><b>Galhadas dos cervídeos</b> são diferentes: osso sem estojo córneo, trocado todo ano.</li>
@@ -103,6 +140,13 @@
       <li><b>Escamas</b>: placas de queratina dos répteis e das patas das aves; nos peixes, as escamas são principalmente dérmicas (ósseas).</li>
       <li><b>Crista e barbela</b> das aves: derme muito vascularizada sem penas, usada para avaliar o estado do animal (palidez na anemia).</li>
     </ul>
+
+    <h4>Lã: o pelo transformado em produto</h4>
+    <p>A <b>lã</b> é formada principalmente por <b>pelos secundários</b> de folículos compostos, finos, sem medula, ondulados (a <b>ondulação</b> vem da distribuição assimétrica de dois tipos de células no córtex, ortocórtex e paracórtex) e de <b>crescimento contínuo</b>, sem a muda sazonal dos outros pelos: por isso a ovelha lanada precisa ser <b>tosquiada</b>. Nas raças especializadas (Merino), a relação entre folículos secundários e primários chega a 20:1, enquanto em ovinos deslanados (Santa Inês) predominam pelos primários. A qualidade comercial é medida pelo <b>diâmetro da fibra em micrômetros</b> (Merino fino: abaixo de ~20 µm), pelo comprimento da mecha e pelo rendimento após lavagem, que remove a <b>lanolina</b> (cera das glândulas sebáceas) e o <b>suarda</b> (secreção sudorípara).</p>
+    <div class="note clin"><b>Na produção</b><p>Desnutrição, febre ou estresse durante o crescimento afinam a fibra num ponto: a <b>“quebra da lã”</b>, que faz a mecha romper na indústria. A <b>miíase</b> (bicheira) na região perineal de ovinos lanados é favorecida por lã suja de fezes e urina; por isso se faz a <b>descola</b> (tosquia da região perineal).</p></div>
+    <h4>Penas em detalhe</h4>
+    <p>A pena típica tem um <b>cálamo</b> (parte oca, implantada no folículo), uma <b>raque</b> (haste central) e, de cada lado, <b>barbas</b> com <b>bárbulas</b> que se engancham por <b>ganchos (barbicelas)</b>, formando o vexilo, uma superfície contínua e impermeável ao ar. As aves trocam as penas periodicamente (<b>muda</b>); em galinhas poedeiras a muda coincide com a parada da postura, e já foi induzida artificialmente para renovar o ciclo produtivo. As penas são formadas por <b>β-queratina</b>, diferente da α-queratina dos pelos dos mamíferos.</p>
+    <div class="note deep"><b>Aprofundamento: uma epiderme, muitos anexos</b><p>Pelos, unhas, cascos, cornos, penas e escamas têm a mesma origem: um espessamento da epiderme (placoide) que interage com a derme abaixo dela. O que muda é o padrão de proliferação e o tipo de queratina produzida. Queratina <b>dura</b> (rica em cistina e pontes dissulfeto) forma casco, corno e garra; queratina <b>mole</b> forma o estrato córneo da pele. A deficiência de <b>zinco</b>, <b>biotina</b> ou aminoácidos sulfurados afeta todos esses anexos ao mesmo tempo: pelame áspero, casco quebradiço e paraqueratose.</p></div>
 
     <div class="quiz" data-quiz="pele"></div>
   </div>

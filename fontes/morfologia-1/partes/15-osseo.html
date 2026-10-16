@@ -2,12 +2,16 @@
   <div class="ch-head">
     <div class="ch-num">15</div>
     <div><span class="eyebrow">Unidade II · Morfologia óssea e glândulas associadas · 02.03 Histofisiologia do tecido ósseo</span><h2>Histofisiologia do tecido ósseo</h2></div>
-    <div class="ch-meta"><button class="done-btn" data-done="osseo" aria-pressed="false">Marcar como estudado</button><span class="chip">~30 min</span></div>
+    <div class="ch-meta"><button class="done-btn" data-done="osseo" aria-pressed="false">Marcar como estudado</button><span class="chip">~60 min</span></div>
   </div>
   <div class="col">
-    <p class="oneliner">PENDENTE</p>
+    <p class="oneliner">O tecido ósseo é um conjuntivo de matriz mineralizada, construído por osteoblastos, mantido por osteócitos e reabsorvido por osteoclastos; nasce por ossificação intramembranosa ou endocondral e se remodela a vida toda.</p>
     <div class="goals rv"><h4>Objetivos</h4><ul>
-      <li>PENDENTE</li></ul></div>
+      <li>Descrever as quatro células do osso e a composição da matriz.</li>
+      <li>Diferenciar periósteo e endósteo e osso primário e secundário.</li>
+      <li>Explicar a organização do ósteon (Havers e Volkmann) e como ele se forma.</li>
+      <li>Comparar ossificação intramembranosa e endocondral e as zonas do disco epifisário.</li>
+      <li>Descrever as etapas da consolidação de uma fratura.</li></ul></div>
 
     <h3><span class="tag">15.1</span>Um tecido conjuntivo especial e dinâmico</h3>
     <p>O tecido ósseo é uma forma especializada de <strong>tecido conjuntivo</strong>. Ele combina uma <strong>fase mineral</strong> (cristais de fosfato de cálcio na forma de <strong>hidroxiapatita</strong>) com uma <strong>matriz colagênica organizada</strong>. Essa mistura o deixa muito resistente às solicitações mecânicas.</p>
@@ -26,7 +30,7 @@
       <li>Principal constituinte do esqueleto; suporte para as partes moles.</li>
       <li>Proteção de órgãos vitais; aloja e protege a medula óssea.</li>
       <li>Sistema de alavancas para os músculos.</li>
-      <li><strong>Depósito de cálcio, fosfato e outros íons</strong> (liga este capítulo ao capítulo 8).</li>
+      <li><strong>Depósito de cálcio, fosfato e outros íons</strong> (liga este capítulo ao capítulo 16, sobre o controle do cálcio).</li>
     </ul>
 
     <h3><span class="tag">15.2</span>Os constituintes</h3>
@@ -151,6 +155,16 @@
       <figure class="fig"><img src="img/havers-volkmann-micro.jpg" loading="lazy" alt="Canais de Havers e Volkmann em lâmina corada"><figcaption><b>Canais de Havers</b> (círculos) e de Volkmann. Usada na sua aula prática.</figcaption></figure>
     </div>
     <div class="note mem"><b>Memorize</b><p><b>H</b>avers = <b>H</b>orizontal ao eixo, quer dizer, <b>ao longo</b> do osso (longitudinal). <b>V</b>olkmann = <b>V</b>ai de um lado ao outro (transversal, perfurante).</p></div>
+    <h4>Como um ósteon se forma</h4>
+    <p>Ósteons não são construídos de uma vez: cada um nasce de uma <b>unidade de remodelação</b> (unidade multicelular básica), um “canteiro de obras” móvel em que osteoclastos abrem um túnel (cone de corte) e osteoblastos o preenchem de fora para dentro (cone de fechamento). É assim que o osso compacto troca microlesões de fadiga por osso novo, e é o mesmo processo que transforma o osso primário de um calo de fratura em osso secundário.</p>
+    <section class="labbox rv" aria-labelledby="ostTitle">
+      <header><div><span class="eyebrow">Animação</span><h4 id="ostTitle">Formação do ósteon, em corte transversal</h4></div>
+        <div class="ctrl" style="margin:0"><button class="btn" type="button" id="ostPlay">▶ Reproduzir</button><button class="tbtn" type="button" id="ostPause">⏸ Pausar</button><button class="tbtn" type="button" id="ostReset">↺ Reiniciar</button></div></header>
+      <label class="ctrl" style="display:flex;gap:10px;align-items:center">Linha do tempo <input type="range" id="ostRange" min="0" max="1000" value="0" style="flex:1" aria-label="Posição da animação"></label>
+      <div class="svgwrap"><svg id="ostSvg" viewBox="0 0 600 400" role="img" aria-label="Osteoclastos abrem um túnel, um vaso entra, osteoblastos depositam lamelas concêntricas e ficam presos como osteócitos, restando o canal de Havers"></svg></div>
+      <div class="readout" id="ostOut" aria-live="polite"></div>
+    </section>
+    <div class="note clin"><b>Na clínica</b><p>O cavalo de corrida jovem sob treino intenso acumula microlesões mais rápido do que as unidades de remodelação conseguem substituir; durante a remodelação o osso fica temporariamente mais poroso (os túneis ainda abertos). É a base das <b>fraturas por estresse</b> e da “canela dolorida” (periostite metacarpiana dorsal) dos potros em treino.</p></div>
 
     <h3><span class="tag">15.7</span>Ossificação: como o osso nasce</h3>
     <p>Todo osso começa como <strong>osso primário</strong> e depois vira secundário. O que muda é o molde: uma membrana conjuntiva ou uma cartilagem.</p>

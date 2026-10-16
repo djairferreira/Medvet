@@ -1,0 +1,453 @@
+[
+ {
+  "c": "anatossea",
+  "q": "No adulto, a medula óssea amarela fica principalmente:",
+  "o": [
+   "Na cavidade medular da diáfise dos ossos longos",
+   "Nas epífises, entre as trabéculas do osso esponjoso",
+   "No periósteo que reveste a superfície da diáfise",
+   "No disco epifisário, entre a epífise e a metáfise"
+  ],
+  "e": "A amarela (gordura) ocupa a cavidade medular da diáfise; a vermelha fica no esponjoso das epífises."
+ },
+ {
+  "c": "anatossea",
+  "q": "“Região próxima ao côndilo onde se inserem os ligamentos colaterais” define:",
+  "o": [
+   "Epicôndilo",
+   "Tuberosidade",
+   "Fóvea",
+   "Tróclea"
+  ],
+  "e": "Epicôndilo = ao lado do côndilo, para os colaterais."
+ },
+ {
+  "c": "anatossea",
+  "q": "A artéria nutrícia entra no osso pelo:",
+  "o": [
+   "Forame nutrício",
+   "Canal de Havers",
+   "Forame magno",
+   "Sulco intertubercular"
+  ],
+  "e": "Cada osso tem seu forame nutrício. Os ossos recebem cerca de 10% do débito cardíaco."
+ },
+ {
+  "c": "anatossea",
+  "q": "Qual estrutura é capaz de formar tecido ósseo e é essencial para consolidar fraturas?",
+  "o": [
+   "Periósteo",
+   "Cartilagem articular",
+   "Medula amarela",
+   "Ligamento colateral"
+  ],
+  "e": "Membrana fibrosa de alta celularidade, com células osteoprogenitoras na camada interna."
+ },
+ {
+  "c": "anatossea",
+  "q": "Fórmula vertebral dos carnívoros:",
+  "o": [
+   "C7 T13 L7 S3 Ca20–23",
+   "C7 T18 L6 S5 Ca15–21",
+   "C7 T13 L6 S5 Ca18–20",
+   "C7 T14–15 L6–7 S4 Ca20–23"
+  ],
+  "e": "Carnívoro: 13-7-3. Equino tem 18 torácicas; bovino L6 S5; suíno T14–15."
+ },
+ {
+  "c": "anatossea",
+  "q": "Quantas vértebras torácicas tem o equino?",
+  "o": [
+   "18",
+   "13",
+   "14",
+   "15"
+  ],
+  "e": "O cavalo é o campeão: 18 torácicas e 18 pares de costelas."
+ },
+ {
+  "c": "anatossea",
+  "q": "Um Pug tem crânio:",
+  "o": [
+   "Braquicefálico",
+   "Dolicocefálico",
+   "Mesocefálico",
+   "Pneumático"
+  ],
+  "e": "Curto e largo. Dolicocefálico = Collie, Borzoi; mesocefálico = Pastor Alemão."
+ },
+ {
+  "c": "anatossea",
+  "q": "A camada mais profunda da cartilagem articular é:",
+  "o": [
+   "Calcificada",
+   "Recoberta por pericôndrio",
+   "Formada por fibrocartilagem",
+   "Vascularizada"
+  ],
+  "e": "Segundo a conferência: lisa, não uniforme e calcificada na camada mais profunda."
+ },
+ {
+  "c": "anatossea",
+  "q": "Segundo a apostila, qual destas espécies tem mais ossos?",
+  "o": [
+   "Suíno (223)",
+   "Bovino (188)",
+   "Equino (189)",
+   "Humano (206)"
+  ],
+  "e": "Cão tem 215. O número varia com a idade e com o critério de contagem."
+ },
+ {
+  "c": "anatossea",
+  "q": "Tubérculo, tuberosidade e trocânter são saliências que servem para:",
+  "o": [
+   "Inserção de tendões e ligamentos",
+   "Articulação com outro osso",
+   "Passagem de vasos",
+   "Alojar a medula óssea"
+  ],
+  "e": "Côndilo, cabeça e tróclea é que são saliências articulares."
+ },
+ {
+  "c": "anatossea",
+  "q": "Sobre os ossos longos, é INCORRETO afirmar:",
+  "o": [
+   "Apenas os ossos longos possuem medula óssea",
+   "Comprimento maior que largura e espessura",
+   "Úmero, rádio, fêmur e tíbia são exemplos",
+   "Possuem osso compacto e esponjoso"
+  ],
+  "e": "Ossos curtos, planos e irregulares também têm medula no osso esponjoso."
+ },
+ {
+  "c": "anatossea",
+  "q": "Qual proporção aproximada da massa óssea é reciclada (remodelada) a cada ano?",
+  "o": [
+   "5 a 7%",
+   "Menos de 0,5%",
+   "30 a 40%",
+   "Cerca de 70%"
+  ],
+  "e": "O osso é um órgão vivo e dinâmico: cerca de 5 a 7% da massa óssea é renovada por ano."
+ },
+ {
+  "c": "anatossea",
+  "q": "Na medula óssea vermelha, os megacariócitos são as células que originam:",
+  "o": [
+   "Plaquetas",
+   "Eritrócitos",
+   "Osteoclastos",
+   "Adipócitos da medula amarela"
+  ],
+  "e": "Os megacariócitos fragmentam seu citoplasma para formar as plaquetas; a medula vermelha também produz eritrócitos e leucócitos."
+ },
+ {
+  "c": "anatossea",
+  "q": "Os ossos recebem cerca de que fração do débito cardíaco, e qual é sua principal via de irrigação?",
+  "o": [
+   "10%, principalmente pela artéria nutrícia",
+   "1%, apenas por vasos do periósteo",
+   "25%, principalmente por vasos epifisários",
+   "50%, pela artéria nutrícia e pela cartilagem articular"
+  ],
+  "e": "Cerca de 10% do débito cardíaco chega aos ossos; a artéria nutrícia é a principal fonte, complementada por vasos periosteais, metafisários e epifisários."
+ },
+ {
+  "c": "anatossea",
+  "q": "Em um osso plano da calota craniana, a camada de osso esponjoso situada entre duas lâminas de osso compacto chama-se:",
+  "o": [
+   "Díploe",
+   "Cavidade medular",
+   "Seio paranasal",
+   "Linha epifisária"
+  ],
+  "e": "O díploe é o esponjoso entre as tábuas compactas externa e interna dos ossos planos do crânio."
+ },
+ {
+  "c": "anatossea",
+  "q": "Uma superfície articular em forma de roldana, como a do fêmur distal, é denominada:",
+  "o": [
+   "Tróclea",
+   "Trocânter",
+   "Tuberosidade",
+   "Incisura"
+  ],
+  "e": "Tróclea é a superfície articular em roldana; trocânter é um grande processo de inserção exclusivo do fêmur."
+ },
+ {
+  "c": "anatossea",
+  "q": "O termo “trocânter” designa um grande processo de inserção muscular encontrado apenas em qual osso?",
+  "o": [
+   "Fêmur",
+   "Úmero",
+   "Tíbia",
+   "Escápula"
+  ],
+  "e": "Trocânter é um acidente exclusivo do fêmur (trocânter maior, menor e, em equinos, terceiro trocânter)."
+ },
+ {
+  "c": "anatossea",
+  "q": "A incisura troclear da ulna recebe esse nome porque “incisura” significa:",
+  "o": [
+   "Chanfradura ou entalhe na borda de um osso",
+   "Superfície articular arredondada e convexa",
+   "Orifício por onde passam vasos e nervos",
+   "Protuberância rugosa de inserção tendínea"
+  ],
+  "e": "Incisura é um entalhe na borda do osso; no caso da ulna, ele recebe a tróclea do úmero."
+ },
+ {
+  "c": "anatossea",
+  "q": "Côndilo, cabeça, capítulo e tróclea pertencem a qual grupo funcional de acidentes ósseos?",
+  "o": [
+   "Saliências articulares",
+   "Saliências de inserção",
+   "Depressões não articulares",
+   "Aberturas"
+  ],
+  "e": "São saliências lisas que se encaixam em outro osso; túber, tubérculo, trocânter e epicôndilo são saliências de inserção."
+ },
+ {
+  "c": "anatossea",
+  "q": "Ao examinar um osso seco, você nota uma área de superfície rugosa. A interpretação mais provável é que ali havia:",
+  "o": [
+   "Inserção de músculo, tendão ou ligamento",
+   "Contato articular com outro osso",
+   "Passagem de vaso nutrício",
+   "Revestimento por cartilagem hialina"
+  ],
+  "e": "Superfícies lisas indicam articulação; superfícies rugosas indicam fixação de músculos, tendões ou ligamentos."
+ },
+ {
+  "c": "anatossea",
+  "q": "Quantas vértebras torácicas tem o bovino?",
+  "o": [
+   "13",
+   "18",
+   "15",
+   "14"
+  ],
+  "e": "O bovino tem 13 torácicas (fórmula C7 T13 L6 S5), o mesmo número dos carnívoros; o equino tem 18."
+ },
+ {
+  "c": "anatossea",
+  "q": "Qual espécie doméstica apresenta 14 a 15 vértebras torácicas?",
+  "o": [
+   "Suíno",
+   "Ovino",
+   "Bovino",
+   "Gato"
+  ],
+  "e": "O suíno tem T14–15, diferindo dos ruminantes e carnívoros (T13) e do equino (T18)."
+ },
+ {
+  "c": "anatossea",
+  "q": "Em relação ao número de vértebras cervicais nos mamíferos domésticos, é correto afirmar que:",
+  "o": [
+   "São sete em todas as espécies domésticas",
+   "Variam de seis a nove conforme o comprimento do pescoço",
+   "O equino tem nove, por ter o pescoço mais longo",
+   "Os carnívoros têm cinco, compensadas por mais lombares"
+  ],
+  "e": "O número de cervicais é constante (7) entre os domésticos, independentemente do comprimento do pescoço; o pescoço longo do equino resulta de vértebras mais longas, não mais numerosas."
+ },
+ {
+  "c": "anatossea",
+  "q": "Comparado ao cão, o equino apresenta, nas regiões lombar e sacral:",
+  "o": [
+   "Uma lombar a menos e duas sacrais a mais",
+   "Uma lombar a mais e duas sacrais a menos",
+   "O mesmo número de lombares e sacrais",
+   "Duas lombares a menos e o mesmo número de sacrais"
+  ],
+  "e": "Cão: L7 S3; equino: L6 S5. Os grandes herbívoros têm menos lombares e mais sacrais que os carnívoros."
+ },
+ {
+  "c": "anatossea",
+  "q": "Qual variação da fórmula vertebral é descrita no asno (e às vezes no cavalo árabe)?",
+  "o": [
+   "Apenas cinco vértebras lombares",
+   "Dezenove vértebras torácicas",
+   "Oito vértebras cervicais",
+   "Apenas três vértebras sacrais"
+  ],
+  "e": "O asno pode ter só 5 lombares, uma variação citada também em alguns cavalos árabes."
+ },
+ {
+  "c": "anatossea",
+  "q": "Considerando a fórmula vertebral, o número total de vértebras do cão fica, aproximadamente, entre:",
+  "o": [
+   "50 e 53",
+   "30 e 33",
+   "60 e 65",
+   "40 e 42"
+  ],
+  "e": "C7 + T13 + L7 + S3 somam 30; com 20 a 23 caudais, o total fica entre 50 e 53."
+ },
+ {
+  "c": "anatossea",
+  "q": "Rottweiler de 5 anos com claudicação dos membros pélvicos e dor ao levantar. Na radiografia ventrodorsal, as cabeças femorais estão achatadas e mal encaixadas em acetábulos rasos. A suspeita principal é:",
+  "o": [
+   "Displasia coxofemoral",
+   "Ruptura do ligamento cruzado cranial",
+   "Luxação medial da patela",
+   "Fratura do disco epifisário"
+  ],
+  "e": "O mau encaixe da cabeça do fêmur no acetábulo é o achado típico da displasia coxofemoral, reconhecido comparando-se com a anatomia normal."
+ },
+ {
+  "c": "anatossea",
+  "q": "A membrana fina que reveste a cavidade medular e as trabéculas do osso esponjoso, também fornecendo células formadoras de osso, é o:",
+  "o": [
+   "Endósteo",
+   "Periósteo",
+   "Pericôndrio",
+   "Epimísio"
+  ],
+  "e": "O endósteo reveste internamente o osso; o periósteo o reveste por fora; o pericôndrio envolve a cartilagem."
+ },
+ {
+  "c": "anatossea",
+  "q": "Em um osso longo em crescimento, a região de transição entre diáfise e epífise, onde fica o disco (e depois a linha) epifisário, é a:",
+  "o": [
+   "Metáfise",
+   "Diáfise",
+   "Cavidade medular",
+   "Superfície articular"
+  ],
+  "e": "A metáfise é a zona de crescimento que abriga o disco epifisário; após o fim do crescimento, resta a linha epifisária."
+ },
+ {
+  "c": "anatossea",
+  "q": "Por que o número total de ossos de uma mesma espécie varia entre as fontes?",
+  "o": [
+   "Porque ossos do jovem se fundem no adulto e os critérios de contagem variam",
+   "Porque o número de vértebras cervicais varia muito entre indivíduos da raça",
+   "Porque os sesamoides só se formam após fraturas cicatrizadas no adulto",
+   "Porque o esqueleto visceral é contado apenas nos herbívoros e nos suínos"
+  ],
+  "e": "A contagem depende da idade (fusão de centros de ossificação) e do critério de cada autor, por isso os valores são aproximados."
+ },
+ {
+  "c": "anatossea",
+  "q": "O osso compacto se diferencia do esponjoso, na microscopia, por apresentar:",
+  "o": [
+   "Ósteons com canal de Havers",
+   "Trabéculas com medula entre elas",
+   "Ausência de osteócitos",
+   "Matriz sem colágeno"
+  ],
+  "e": "Ósteons são exclusivos do compacto; o esponjoso tem trabéculas sem Havers."
+ },
+ {
+  "c": "anatossea",
+  "q": "Onde predomina o osso esponjoso em um osso longo?",
+  "o": [
+   "Nas epífises e metáfises",
+   "No meio da diáfise",
+   "Na superfície externa",
+   "No periósteo"
+  ],
+  "e": "Epífises e metáfises são cheias de trabéculas; a diáfise é tubo compacto."
+ },
+ {
+  "c": "anatossea",
+  "q": "A orientação das trabéculas ao longo das linhas de compressão e tração é explicada pela:",
+  "o": [
+   "Lei de Wolff",
+   "Lei de Starling",
+   "Regra de Bergmann",
+   "Lei de Frank"
+  ],
+  "e": "O osso se adapta à carga, depositando matriz onde há esforço."
+ },
+ {
+  "c": "anatossea",
+  "q": "As trabéculas do osso esponjoso se nutrem principalmente:",
+  "o": [
+   "Pelos espaços medulares vizinhos",
+   "Pelos canais de Havers",
+   "Pela cartilagem articular",
+   "Pelos canais de Volkmann do córtex"
+  ],
+  "e": "Sem ósteons, a nutrição vem por difusão dos espaços medulares."
+ },
+ {
+  "c": "anatossea",
+  "q": "Por que o osso esponjoso costuma mostrar primeiro as perdas da osteoporose?",
+  "o": [
+   "Ter muito mais superfície de remodelação",
+   "Não possuir matriz mineralizada",
+   "Não receber nenhum suprimento sanguíneo",
+   "Ser formado apenas por cartilagem"
+  ],
+  "e": "Grande superfície = remodelação mais intensa e perda mais rápida."
+ },
+ {
+  "c": "anatossea",
+  "q": "No osso plano da calota craniana, as veias que percorrem o díploe são chamadas:",
+  "o": [
+   "Veias diploicas",
+   "Veias nutrícias",
+   "Veias emissárias da medula",
+   "Veias de Volkmann"
+  ],
+  "e": "O díploe é atravessado pelas veias diploicas."
+ },
+ {
+  "c": "anatossea",
+  "q": "Em cães e gatos, um local comum para aspirado de medula óssea é:",
+  "o": [
+   "Crista ilíaca",
+   "Diáfise do rádio",
+   "Osso peniano",
+   "Corpo da mandíbula"
+  ],
+  "e": "Crista ilíaca e úmero proximal: esponjoso rico em medula vermelha."
+ },
+ {
+  "c": "anatossea",
+  "q": "A via intraóssea funciona para infundir fluidos em neonatos porque:",
+  "o": [
+   "Sinusoides da medula drenam ao sangue",
+   "O osso absorve o líquido pela matriz",
+   "O periósteo tem muitos vasos linfáticos",
+   "A cartilagem articular distribui o fluido"
+  ],
+  "e": "A medula é ricamente vascularizada e ligada às veias sistêmicas."
+ },
+ {
+  "c": "anatossea",
+  "q": "Medula óssea gelatinosa e avermelhada na diáfise de um animal caquético indica:",
+  "o": [
+   "Atrofia serosa da gordura medular",
+   "Hiperplasia hematopoética normal",
+   "Calcificação da medula",
+   "Ossificação do canal medular"
+  ],
+  "e": "A gordura da medula amarela é consumida na desnutrição grave."
+ },
+ {
+  "c": "anatossea",
+  "q": "Nas aves, a fratura de um úmero pneumático pode:",
+  "o": [
+   "Comunicar o meio externo com os sacos aéreos",
+   "Causar perda imediata de medula vermelha",
+   "Bloquear a postura de ovos",
+   "Romper o osso medular"
+  ],
+  "e": "O canal do úmero é ocupado por divertículo de saco aéreo."
+ },
+ {
+  "c": "anatossea",
+  "q": "Qual porcentagem aproximada da massa do esqueleto corresponde ao osso compacto?",
+  "o": [
+   "Cerca de 80%",
+   "Cerca de 20%",
+   "Cerca de 50%",
+   "Cerca de 95%"
+  ],
+  "e": "O compacto é ~80% da massa; o esponjoso ~20%, mas com mais superfície."
+ }
+]

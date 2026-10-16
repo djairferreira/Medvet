@@ -1,72 +1,6 @@
 [
  {
   "c": "musculo",
-  "q": "Músculos peniformes, comparados aos de fibras paralelas, têm:",
-  "o": [
-   "Mais força e menor amplitude",
-   "Mais amplitude e menos força",
-   "Mesma força e amplitude",
-   "Fibras mais longas"
-  ],
-  "e": "Muitas fibras curtas e oblíquas por área."
- },
- {
-  "c": "musculo",
-  "q": "O tendão é formado por tecido:",
-  "o": [
-   "Conjuntivo denso modelado",
-   "Muscular liso",
-   "Conjuntivo frouxo",
-   "Cartilaginoso hialino"
-  ],
-  "e": "Pouco vascularizado: cicatriza devagar."
- },
- {
-  "c": "musculo",
-  "q": "A aponeurose é:",
-  "o": [
-   "Um tendão em forma de lâmina larga",
-   "Um envoltório de cada fibra",
-   "Uma bolsa sinovial",
-   "Um osso sesamoide"
-  ],
-  "e": "Ex.: músculos abdominais e linha alba."
- },
- {
-  "c": "musculo",
-  "q": "A bolsa sinovial é:",
-  "o": [
-   "Saco sinovial entre um tendão (ou a pele) e um osso",
-   "Envoltório conjuntivo que reveste todo o músculo",
-   "Fáscia espessada que cobre a articulação",
-   "Tendão intermédio entre dois ventres musculares"
-  ],
-  "e": "É um saco com líquido sinovial entre um tendão (ou pele) e uma saliência óssea. Inflamação: bursite (ex.: higroma do cotovelo)."
- },
- {
-  "c": "musculo",
-  "q": "O músculo que se opõe ao movimento do agonista é o:",
-  "o": [
-   "Antagonista",
-   "Sinergista",
-   "Fixador",
-   "Tensor"
-  ],
-  "e": "Ele relaxa para permitir o movimento."
- },
- {
-  "c": "musculo",
-  "q": "No carpo e nos dedos, os músculos extensores ficam na face:",
-  "o": [
-   "Dorsal",
-   "Palmar",
-   "Medial",
-   "Caudal"
-  ],
-  "e": "Os flexores ficam na face palmar."
- },
- {
-  "c": "musculo",
   "q": "O tronco dos domésticos fica “suspenso” entre os membros torácicos principalmente pelos músculos:",
   "o": [
    "Serrátil ventral e peitorais",
@@ -97,259 +31,6 @@
    "Glúteo médio, glúteo profundo e piriforme"
   ],
   "e": "Ruptura: jarrete caído."
- },
- {
-  "c": "musculo",
-  "q": "O ventre de um músculo esquelético corresponde:",
-  "o": [
-   "À porção carnosa e contrátil, de fibras musculares",
-   "À extremidade de inserção, de conjuntivo denso",
-   "Ao envoltório de fáscia profunda que o recobre",
-   "À bolsa sinovial que o separa do osso subjacente"
-  ],
-  "e": "O ventre é a parte vermelha e contrátil; tendão e aponeurose são as partes de ligação."
- },
- {
-  "c": "musculo",
-  "q": "O nome do músculo digástrico indica que ele possui:",
-  "o": [
-   "Dois ventres unidos por um tendão intermédio",
-   "Duas cabeças de origem separadas e um tendão",
-   "Fibras dispostas de forma bipenada no ventre",
-   "Inserção em dois ossos diferentes da cabeça"
-  ],
-  "e": "Digástrico significa dois ventres, ligados por um tendão intermédio; bíceps, tríceps e quadríceps referem-se a cabeças."
- },
- {
-  "c": "musculo",
-  "q": "As lesões de tendão, como a tendinite do flexor digital superficial do equino, cicatrizam lentamente porque o tendão:",
-  "o": [
-   "É pouco vascularizado",
-   "Não contém colágeno",
-   "É rico em fibras elásticas",
-   "Tem muitas células em mitose"
-  ],
-  "e": "O tendão é conjuntivo denso modelado, com colágeno I paralelo e pouca vascularização, o que torna a reparação lenta."
- },
- {
-  "c": "musculo",
-  "q": "Quando um músculo se contrai, em geral:",
-  "o": [
-   "A inserção, mais móvel, é puxada em direção à origem",
-   "A origem, mais móvel, é puxada em direção à inserção",
-   "Origem e inserção se afastam durante o encurtamento",
-   "O ventre se alonga enquanto o tendão encurta"
-  ],
-  "e": "A origem é o ponto mais fixo (geralmente proximal) e a inserção, o mais móvel (geralmente distal)."
- },
- {
-  "c": "musculo",
-  "q": "O músculo cutâneo, que movimenta a pele, fica contido na:",
-  "o": [
-   "Fáscia superficial",
-   "Fáscia profunda",
-   "Aponeurose abdominal",
-   "Bainha sinovial"
-  ],
-  "e": "A fáscia superficial fica sob a pele e contém o músculo cutâneo; a profunda envolve os músculos e forma septos."
- },
- {
-  "c": "musculo",
-  "q": "Fáscia lata da coxa e fáscia toracolombar são exemplos de:",
-  "o": [
-   "Fáscia profunda",
-   "Fáscia superficial",
-   "Retináculos",
-   "Bainhas sinoviais"
-  ],
-  "e": "A fáscia profunda envolve os músculos e forma septos intermusculares; fáscia lata e toracolombar são exemplos."
- },
- {
-  "c": "musculo",
-  "q": "A bainha sinovial (tendínea) é:",
-  "o": [
-   "Saco sinovial que envolve o tendão onde ele desliza",
-   "Faixa de fáscia espessada que prende os tendões",
-   "Osso sesamoide desenvolvido dentro de um tendão",
-   "Coxim de gordura situado entre músculos vizinhos"
-  ],
-  "e": "A bainha sinovial envolve o tendão em seu trajeto de deslizamento; sua inflamação é a tenossinovite."
- },
- {
-  "c": "musculo",
-  "q": "O vessigão tendíneo do equino corresponde a:",
-  "o": [
-   "Tenossinovite, com distensão de uma bainha sinovial",
-   "Ruptura parcial do tendão calcâneo comum",
-   "Bursite supraespinhosa da cernelha, por trauma da sela",
-   "Fratura do osso navicular com artrite do casco"
-  ],
-  "e": "O vessigão tendíneo é a distensão de uma bainha sinovial (tenossinovite), por exemplo da bainha digital."
- },
- {
-  "c": "musculo",
-  "q": "Um cão de raça grande que passa muito tempo deitado em piso duro desenvolve um aumento de volume flutuante sobre o olécrano. Trata-se de:",
-  "o": [
-   "Higroma do cotovelo, uma bursite",
-   "Tenossinovite da bainha digital",
-   "Ruptura do tríceps braquial",
-   "Hérnia muscular do bíceps"
-  ],
-  "e": "O higroma é a inflamação de uma bolsa sinovial adquirida sobre a saliência óssea do cotovelo."
- },
- {
-  "c": "musculo",
-  "q": "O mal da cernelha do equino é a inflamação de uma:",
-  "o": [
-   "Bolsa sinovial",
-   "Bainha tendínea digital",
-   "Aponeurose abdominal",
-   "Fáscia lata"
-  ],
-  "e": "É uma bursite: inflamação da bolsa sinovial da região da cernelha."
- },
- {
-  "c": "musculo",
-  "q": "A estrutura que mantém os tendões no lugar quando cruzam o carpo e o tarso é o:",
-  "o": [
-   "Retináculo",
-   "Ligamento suspensor",
-   "Osso sesamoide",
-   "Epimísio"
-  ],
-  "e": "Retináculos são faixas de fáscia espessada que prendem os tendões sobre as articulações."
- },
- {
-  "c": "musculo",
-  "q": "Qual destes ossos NÃO é um osso sesamoide?",
-  "o": [
-   "Calcâneo",
-   "Patela",
-   "Navicular (sesamoide distal)",
-   "Sesamoide proximal do boleto"
-  ],
-  "e": "Patela, sesamoides proximais e o navicular desenvolvem-se em tendões; o calcâneo é um osso do tarso."
- },
- {
-  "c": "musculo",
-  "q": "A função dos ossos sesamoides é:",
-  "o": [
-   "Mudar o ângulo de tração do tendão e protegê-lo",
-   "Produzir líquido sinovial para o tendão",
-   "Servir de origem para os músculos cutâneos",
-   "Formar a fáscia profunda"
-  ],
-  "e": "O sesamoide fica dentro do tendão, alterando o ângulo de tração e protegendo-o do atrito."
- },
- {
-  "c": "musculo",
-  "q": "Os músculos circulares, como o orbicular do olho e o orbicular da boca, têm ação de:",
-  "o": [
-   "Esfíncter (constritor)",
-   "Extensor (dilatador)",
-   "Abdutor (dilatador lateral)",
-   "Rotador (supinador)"
-  ],
-  "e": "Fibras dispostas em círculo fecham uma abertura, funcionando como esfíncteres."
- },
- {
-  "c": "musculo",
-  "q": "Um músculo de fibras paralelas longas, comparado a um multipenado de mesmo volume, oferece:",
-  "o": [
-   "Maior amplitude de movimento e menos força",
-   "Maior força e menor amplitude de movimento",
-   "Mesma força e mesma amplitude de movimento",
-   "Menor força e menor amplitude de movimento"
-  ],
-  "e": "Fibras longas e paralelas encurtam muito, mas há menos fibras por área de secção, portanto menos força."
- },
- {
-  "c": "musculo",
-  "q": "Durante um movimento, o músculo que estabiliza a origem do agonista para que este atue com eficiência é chamado:",
-  "o": [
-   "Fixador",
-   "Sinergista",
-   "Antagonista",
-   "Agonista"
-  ],
-  "e": "O fixador estabiliza o osso de origem; o sinergista ajuda o agonista e o antagonista tem ação oposta."
- },
- {
-  "c": "musculo",
-  "q": "O sinergista é o músculo que:",
-  "o": [
-   "Ajuda o agonista a realizar o movimento",
-   "Realiza a ação oposta à do agonista",
-   "É o motor principal do movimento",
-   "Fecha uma abertura do corpo"
-  ],
-  "e": "Sinergistas colaboram com o agonista; o antagonista relaxa para permitir o movimento."
- },
- {
-  "c": "musculo",
-  "q": "Em geral, nos membros, um músculo é flexor de uma articulação quando:",
-  "o": [
-   "Passa pela face em que o ângulo articular se fecha",
-   "Passa pela face em que o ângulo articular se abre",
-   "Origina-se proximalmente e insere-se distalmente",
-   "Tem fibras peniformes"
-  ],
-  "e": "O lado da articulação que o músculo cruza define a ação: do lado em que o ângulo se fecha, é flexor."
- },
- {
-  "c": "musculo",
-  "q": "O nome do músculo deltoide se baseia na sua:",
-  "o": [
-   "Forma",
-   "Ação",
-   "Posição",
-   "Direção das fibras"
-  ],
-  "e": "Deltoide lembra a letra grega delta (triângulo); trapézio, romboide e redondo também são nomes pela forma."
- },
- {
-  "c": "musculo",
-  "q": "Os nomes esternocefálico, braquiocefálico e omotransversário se baseiam:",
-  "o": [
-   "Nos pontos de fixação",
-   "Na direção das fibras",
-   "No número de cabeças",
-   "Na ação do músculo"
-  ],
-  "e": "Esses nomes indicam onde o músculo se prende (esterno e cabeça; braço e cabeça; ombro e processos transversos)."
- },
- {
-  "c": "musculo",
-  "q": "Qual destes músculos é nomeado pela direção de suas fibras?",
-  "o": [
-   "Transverso do abdome",
-   "Supraespinhal",
-   "Extensor digital comum",
-   "Tríceps braquial"
-  ],
-  "e": "Oblíquo, reto e transverso do abdome indicam a direção das fibras; supraespinhal é posição, extensor é ação e tríceps é número de cabeças."
- },
- {
-  "c": "musculo",
-  "q": "O levantador do lábio superior é um exemplo de músculo nomeado pela:",
-  "o": [
-   "Ação",
-   "Forma",
-   "Posição",
-   "Origem"
-  ],
-  "e": "Levantador indica o que o músculo faz, assim como extensor e flexor."
- },
- {
-  "c": "musculo",
-  "q": "Músculos curtos, como os que unem vértebras vizinhas, são classificados pela:",
-  "o": [
-   "Forma",
-   "Disposição das fibras",
-   "Número de cabeças",
-   "Ação de esfíncter"
-  ],
-  "e": "Pela forma, os músculos são longos (membros), curtos (vértebras), planos e largos, circulares e fusiformes."
  },
  {
   "c": "musculo",
@@ -526,5 +207,368 @@
    "Ruptura do músculo fibular terceiro"
   ],
   "e": "A tendinite do flexor digital superficial é lesão frequente em cavalos de corrida, chamada popularmente de arco."
+ },
+ {
+  "c": "musculo",
+  "q": "Na contração, a banda que NÃO muda de comprimento é a:",
+  "o": [
+   "Banda A",
+   "Banda I",
+   "Zona H",
+   "Distância entre linhas Z"
+  ],
+  "e": "A banda A corresponde ao comprimento da miosina."
+ },
+ {
+  "c": "musculo",
+  "q": "O envoltório conjuntivo de cada fascículo muscular é o:",
+  "o": [
+   "Perimísio",
+   "Epimísio",
+   "Endomísio",
+   "Sarcolema"
+  ],
+  "e": "Epimísio envolve o músculo; endomísio, cada fibra."
+ },
+ {
+  "c": "musculo",
+  "q": "O cálcio para a contração do músculo esquelético vem principalmente do:",
+  "o": [
+   "Retículo sarcoplasmático",
+   "Núcleo da fibra muscular",
+   "Mitocôndrias da fibra",
+   "Lisossomos do sarcoplasma"
+  ],
+  "e": "Liberado após a despolarização chegar pelos túbulos T."
+ },
+ {
+  "c": "musculo",
+  "q": "Rigor mortis acontece porque:",
+  "o": [
+   "Sem ATP, as pontes de miosina não se desligam da actina",
+   "O cálcio é todo recaptado pelo retículo sarcoplasmático",
+   "A actina se despolimeriza e trava os sarcômeros",
+   "A miosina é digerida por enzimas lisossômicas"
+  ],
+  "e": "O músculo fica travado até a autólise."
+ },
+ {
+  "c": "musculo",
+  "q": "O conjuntivo denso que envolve o músculo esquelético inteiro e se continua com a fáscia e o tendão é o:",
+  "o": [
+   "Epimísio",
+   "Perimísio",
+   "Endomísio",
+   "Sarcolema"
+  ],
+  "e": "O epimísio envolve o músculo todo; perimísio envolve fascículos e endomísio, cada fibra."
+ },
+ {
+  "c": "musculo",
+  "q": "A lâmina delicada de conjuntivo com capilares que envolve cada fibra muscular esquelética é o:",
+  "o": [
+   "Endomísio",
+   "Perimísio",
+   "Epimísio",
+   "Endoneuro"
+  ],
+  "e": "O endomísio fica ao redor de cada fibra e leva os capilares que a nutrem."
+ },
+ {
+  "c": "musculo",
+  "q": "O marmoreio da carne bovina, valorizado comercialmente, corresponde ao acúmulo de gordura no:",
+  "o": [
+   "Perimísio",
+   "Sarcoplasma",
+   "Endomísio",
+   "Retículo sarcoplasmático"
+  ],
+  "e": "O perimísio separa os fascículos e, ao acumular adipócitos, forma os veios de gordura entremeados na carne."
+ },
+ {
+  "c": "musculo",
+  "q": "No músculo esquelético, o retículo endoplasmático liso especializado em armazenar cálcio recebe o nome de:",
+  "o": [
+   "Retículo sarcoplasmático",
+   "Sarcolema da fibra",
+   "Túbulo T transverso",
+   "Corpo denso citoplasmático"
+  ],
+  "e": "O retículo sarcoplasmático é o RE liso da fibra muscular, reserva de Ca2+ para a contração."
+ },
+ {
+  "c": "musculo",
+  "q": "Os túbulos T da fibra muscular esquelética são:",
+  "o": [
+   "Invaginações do sarcolema que levam a despolarização",
+   "Cisternas do retículo sarcoplasmático que armazenam cálcio",
+   "Feixes de filamentos de actina presos à linha Z",
+   "Mitocôndrias alinhadas entre as miofibrilas"
+  ],
+  "e": "Os túbulos T são continuações do sarcolema que conduzem o potencial de ação para o interior da fibra, até as cisternas do retículo."
+ },
+ {
+  "c": "musculo",
+  "q": "A tríade da fibra muscular esquelética é formada por:",
+  "o": [
+   "Um túbulo T e duas cisternas terminais do retículo",
+   "Uma linha Z e duas bandas I adjacentes do sarcômero",
+   "Actina, miosina e tropomiosina do filamento fino",
+   "Três miofibrilas adjacentes unidas por desmina"
+  ],
+  "e": "A tríade é a associação de um túbulo T com duas cisternas terminais do retículo sarcoplasmático."
+ },
+ {
+  "c": "musculo",
+  "q": "A banda I do sarcômero é formada por:",
+  "o": [
+   "Apenas filamentos de actina, de cada lado da linha Z",
+   "Apenas filamentos de miosina, no centro do sarcômero",
+   "Toda a extensão da miosina sobreposta à actina",
+   "Proteínas que unem as miosinas no centro"
+  ],
+  "e": "A banda I, clara (isotrópica), contém só actina e encurta durante a contração."
+ },
+ {
+  "c": "musculo",
+  "q": "Durante a contração do sarcômero, a zona H:",
+  "o": [
+   "Encurta ou desaparece",
+   "Aumenta de comprimento",
+   "Permanece do mesmo tamanho",
+   "Desloca-se para a linha Z"
+  ],
+  "e": "A zona H é a parte central da banda A com só miosina; com o deslizamento da actina para o centro, ela diminui ou some."
+ },
+ {
+  "c": "musculo",
+  "q": "A linha Z, que delimita o sarcômero, tem como função:",
+  "o": [
+   "Ancorar os filamentos de actina por meio da α-actinina",
+   "Unir os filamentos de miosina no centro do sarcômero",
+   "Armazenar cálcio para a contração",
+   "Ligar o sarcolema à lâmina basal"
+  ],
+  "e": "A linha Z é o limite do sarcômero e prende a actina pela α-actinina; a linha M é que une as miosinas."
+ },
+ {
+  "c": "musculo",
+  "q": "No centro do sarcômero, a estrutura que une os filamentos de miosina é a:",
+  "o": [
+   "Linha M",
+   "Linha Z",
+   "Banda I",
+   "Zona de sobreposição"
+  ],
+  "e": "A linha M fica no meio da zona H e mantém as miosinas alinhadas."
+ },
+ {
+  "c": "musculo",
+  "q": "A sequência correta no acoplamento excitação–contração do músculo esquelético é:",
+  "o": [
+   "Acetilcolina na placa → despolarização dos túbulos T → saída de Ca2+ do retículo → Ca2+ liga-se à troponina",
+   "Ca2+ liga-se à troponina → acetilcolina na placa → despolarização dos túbulos T → saída de Ca2+ do retículo",
+   "Saída de Ca2+ do retículo → acetilcolina na placa → Ca2+ liga-se à troponina → despolarização dos túbulos T",
+   "Despolarização dos túbulos T → acetilcolina na placa → Ca2+ liga-se à troponina → saída de Ca2+ do retículo"
+  ],
+  "e": "A acetilcolina despolariza o sarcolema, os túbulos T levam o sinal para dentro, o retículo libera Ca2+ e este, ligado à troponina, desloca a tropomiosina."
+ },
+ {
+  "c": "musculo",
+  "q": "A ligação do Ca2+ à troponina permite a contração porque:",
+  "o": [
+   "Desloca a tropomiosina e expõe os sítios da actina",
+   "Hidrolisa diretamente o ATP da cabeça da miosina",
+   "Aproxima diretamente as linhas Z do sarcômero",
+   "Abre os canais de acetilcolina da placa motora"
+  ],
+  "e": "Em repouso a tropomiosina bloqueia a actina; o complexo Ca2+–troponina a afasta e as pontes cruzadas se formam."
+ },
+ {
+  "c": "musculo",
+  "q": "No músculo esquelético, o ATP é necessário:",
+  "o": [
+   "Para as pontes cruzadas e para recaptar o Ca2+",
+   "Apenas para liberar acetilcolina na placa motora",
+   "Apenas para abrir o receptor de rianodina do retículo",
+   "Somente para formar e manter a linha Z"
+  ],
+  "e": "A miosina gasta ATP para puxar a actina e soltar-se dela, e a recaptação do cálcio pelo retículo também consome ATP."
+ },
+ {
+  "c": "musculo",
+  "q": "Na hipertermia maligna dos suínos, desencadeada por estresse ou halotano, o defeito está:",
+  "o": [
+   "No receptor de rianodina, que libera Ca2+ sem controle",
+   "Na acetilcolinesterase, que degrada a acetilcolina",
+   "No gene da miostatina, que limita a massa muscular",
+   "Nos discos intercalares, que unem os cardiomiócitos"
+  ],
+  "e": "A mutação do receptor de rianodina (RYR1) faz o retículo liberar cálcio descontroladamente, com contração contínua, calor e carne PSE."
+ },
+ {
+  "c": "musculo",
+  "q": "Um cão intoxicado com organofosforado apresenta fasciculações, tremores e salivação. Esses sinais se devem a:",
+  "o": [
+   "Inibição da acetilcolinesterase, com acúmulo de acetilcolina",
+   "Bloqueio da liberação de acetilcolina na placa motora",
+   "Liberação descontrolada de Ca2+ pelo RYR1",
+   "Necrose das fibras por falta de selênio"
+  ],
+  "e": "Sem a acetilcolinesterase, a acetilcolina persiste na fenda e estimula continuamente músculos e glândulas."
+ },
+ {
+  "c": "musculo",
+  "q": "Bovinos que ingerem carcaças contaminadas podem desenvolver botulismo, com paralisia flácida, porque a toxina:",
+  "o": [
+   "Impede a liberação de acetilcolina na placa motora",
+   "Inibe a acetilcolinesterase na fenda sináptica",
+   "Destrói os túbulos T",
+   "Bloqueia a bomba de Ca2+ do retículo"
+  ],
+  "e": "Sem liberação de acetilcolina, o músculo não é estimulado e fica flácido; é o oposto da intoxicação por organofosforados."
+ },
+ {
+  "c": "musculo",
+  "q": "A capacidade do músculo de voltar ao comprimento de repouso depois de ser estirado chama-se:",
+  "o": [
+   "Elasticidade",
+   "Excitabilidade",
+   "Contratilidade",
+   "Condutibilidade"
+  ],
+  "e": "Elasticidade é retornar à forma original após a extensão; extensibilidade é poder ser estirado."
+ },
+ {
+  "c": "musculo",
+  "q": "A termogênese é uma função do músculo esquelético que se manifesta claramente:",
+  "o": [
+   "No tremor de frio",
+   "Na peristalse intestinal",
+   "No fechamento do piloro",
+   "Na secreção de mioglobina"
+  ],
+  "e": "O tremor é contração esquelética sem movimento útil; a energia vira calor."
+ },
+ {
+  "c": "musculo",
+  "q": "As mitocôndrias da fibra muscular recebem o nome especial de:",
+  "o": [
+   "Sarcossomas",
+   "Sarcômeros",
+   "Sarcolemas",
+   "Miofilamentos"
+  ],
+  "e": "Na nomenclatura muscular, mitocôndrias são sarcossomas; sarcômero é a unidade contrátil."
+ },
+ {
+  "c": "musculo",
+  "q": "O endomísio é composto principalmente por:",
+  "o": [
+   "Fibras reticulares e glicosaminoglicanos",
+   "Conjuntivo denso não modelado",
+   "Cartilagem fibrosa e elastina",
+   "Fibras colágenas tipo I paralelas"
+  ],
+  "e": "O endomísio é delicado: fibras reticulares (colágeno III) e GAGs, apoiados na lâmina basal."
+ },
+ {
+  "c": "musculo",
+  "q": "Tropomiosina e troponina pertencem ao grupo das proteínas musculares:",
+  "o": [
+   "Regulatórias",
+   "Contráteis",
+   "Estruturais",
+   "De transporte"
+  ],
+  "e": "Contráteis: actina e miosina; regulatórias: tropomiosina e troponina; estruturais: titina, nebulina etc."
+ },
+ {
+  "c": "musculo",
+  "q": "A subunidade da troponina que se liga ao cálcio é a:",
+  "o": [
+   "Troponina C",
+   "Troponina I",
+   "Troponina T",
+   "Troponina M"
+  ],
+  "e": "TnC liga Ca2+; TnI inibe a interação actina–miosina; TnT prende-se à tropomiosina."
+ },
+ {
+  "c": "musculo",
+  "q": "A proteína gigante que vai da linha Z à linha M e devolve o sarcômero estirado ao comprimento de repouso é a:",
+  "o": [
+   "Titina",
+   "Nebulina",
+   "Distrofina",
+   "Tropomodulina"
+  ],
+  "e": "A titina centraliza a miosina e age como mola elástica."
+ },
+ {
+  "c": "musculo",
+  "q": "No músculo cardíaco, o túbulo T associa-se a uma única cisterna do retículo, formando:",
+  "o": [
+   "Uma díade na altura da linha Z",
+   "Uma tríade na junção A–I",
+   "Um disco intercalar transversal",
+   "Uma cavéola na zona H"
+  ],
+  "e": "Esquelético de mamífero: tríade na junção A–I; cardíaco: díade na linha Z."
+ },
+ {
+  "c": "musculo",
+  "q": "Um neurônio motor e todas as fibras musculares que ele inerva formam:",
+  "o": [
+   "Uma unidade motora",
+   "Um fuso neuromuscular",
+   "Um fascículo muscular",
+   "Uma placa motora"
+  ],
+  "e": "Unidade motora = axônio + fibras inervadas; músculos de ajuste fino têm unidades pequenas."
+ },
+ {
+  "c": "musculo",
+  "q": "A falta de distrofina, como na distrofia muscular do Golden Retriever, causa doença porque:",
+  "o": [
+   "O sarcolema se rompe durante as contrações",
+   "A miosina perde a atividade de ATPase",
+   "O retículo deixa de armazenar cálcio",
+   "Os túbulos T não se formam no embrião"
+  ],
+  "e": "A distrofina liga o citoesqueleto à lâmina basal; sem ela a membrana se rompe e a fibra necrosa."
+ },
+ {
+  "c": "musculo",
+  "q": "A maciez maior do filé-mignon (psoas maior) em comparação com a paleta se explica principalmente por:",
+  "o": [
+   "Menor quantidade de colágeno nos envoltórios",
+   "Maior quantidade de fibras do tipo I",
+   "Ausência de perimísio no músculo",
+   "Maior número de núcleos por fibra"
+  ],
+  "e": "Músculos posturais pouco solicitados têm menos colágeno no perimísio e endomísio."
+ },
+ {
+  "c": "musculo",
+  "q": "O comprimento aproximado de um sarcômero, segundo a aula, varia entre:",
+  "o": [
+   "1,5 e 3 µm",
+   "15 e 30 µm",
+   "0,1 e 0,3 µm",
+   "150 e 300 µm"
+  ],
+  "e": "O sarcômero mede de 1,5 a 3 µm, cerca de 2,2–2,5 µm em repouso."
+ },
+ {
+  "c": "musculo",
+  "q": "Ao microscópio de polarização, as bandas que brilham por serem anisotrópicas são as:",
+  "o": [
+   "Bandas A",
+   "Bandas I",
+   "Linhas Z",
+   "Zonas H"
+  ],
+  "e": "A banda A (miosina) é anisotrópica; a banda I é isotrópica e clara."
  }
 ]

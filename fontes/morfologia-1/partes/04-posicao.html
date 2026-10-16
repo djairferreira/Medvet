@@ -2,12 +2,16 @@
   <div class="ch-head">
     <div class="ch-num">04</div>
     <div><span class="eyebrow">Unidade I · Morfologia animal e sistema tegumentar · 01.04 Posição anatômica e princípios de construção corpórea</span><h2>Posição anatômica e princípios de construção corpórea</h2></div>
-    <div class="ch-meta"><button class="done-btn" data-done="posicao" aria-pressed="false">Marcar como estudado</button><span class="chip">~30 min</span></div>
+    <div class="ch-meta"><button class="done-btn" data-done="posicao" aria-pressed="false">Marcar como estudado</button><span class="chip">~40 min</span></div>
   </div>
   <div class="col">
-    <p class="oneliner">PENDENTE</p>
+    <p class="oneliner">Toda descrição anatômica parte de um animal imaginário em pé e alerta, a posição anatômica do quadrúpede. Sobre ele, quatro princípios explicam a arquitetura do corpo: simetria bilateral (antimeria), segmentação (metameria), dois tubos (paquimeria) e camadas (estratificação), que se completam nas cavidades corporais.</p>
     <div class="goals rv"><h4>Objetivos</h4><ul>
-      <li>PENDENTE</li></ul></div>
+      <li>Descrever a posição anatômica do quadrúpede e compará-la à humana, traduzindo os termos de um sistema para o outro.</li>
+      <li>Aplicar os termos de direção e os planos a um animal em qualquer decúbito.</li>
+      <li>Explicar antimeria, metameria, paquimeria e estratificação com exemplos veterinários.</li>
+      <li>Descrever as cavidades corporais, suas serosas e seus limites nas espécies domésticas.</li>
+      <li>Usar a estratificação como roteiro de acesso cirúrgico e de punções.</li></ul></div>
 
     <h3><span class="tag">4.1</span>Posição anatômica</h3>
     <p>Para estudar o corpo de um quadrúpede, o animal é imaginado <strong>em posição de alerta</strong>: os quatro membros estendidos e apoiados firmemente no solo, o pescoço erguido (formando cerca de 145° com o dorso), as narinas voltadas para a frente, as orelhas em pé e o olhar no horizonte. Todos os termos abaixo partem dessa posição, mesmo que o animal esteja deitado na mesa de cirurgia.</p>
@@ -89,7 +93,81 @@
       <div class="card"><span class="role">Tubos</span><h5>Paquimeria</h5><p>O tronco tem dois tubos, os <b>paquímeros</b>: um <b>dorsal (neural)</b>, formado pelo canal vertebral com a medula, e um <b>ventral (visceral)</b>, com as cavidades torácica, abdominal e pélvica e suas vísceras.</p></div>
       <div class="card"><span class="role">Camadas</span><h5>Estratificação</h5><p>As paredes do corpo e dos órgãos se organizam em camadas sobrepostas: pele, tela subcutânea, fáscias, músculos, ossos e serosas; nas vísceras ocas, mucosa, submucosa, muscular e serosa.</p></div>
     </div>
+
+    <section class="labbox rv" aria-labelledby="poaTitle">
+      <header><div><span class="eyebrow">Animação</span><h4 id="poaTitle">Um corte transversal do tórax montado pelos princípios de construção</h4></div>
+        <div class="ctrl" style="margin:0"><button class="btn" type="button" id="poaPlay">▶ Reproduzir</button><button class="tbtn" type="button" id="poaPause">⏸ Pausar</button><button class="tbtn" type="button" id="poaReset">↺ Reiniciar</button></div></header>
+      <div class="svgwrap"><svg id="poaSvg" viewBox="0 0 600 340" role="img" aria-label="Corte transversal esquemático do tórax com pele, músculos, vértebra, canal vertebral, cavidade torácica e plano mediano">
+        <rect x="0" y="0" width="600" height="340" fill="var(--paper)"/>
+        <ellipse id="poaSkin" cx="300" cy="180" rx="200" ry="142" fill="var(--amber-soft)" stroke="var(--amber)" stroke-width="5"/>
+        <ellipse id="poaMus" cx="300" cy="182" rx="182" ry="124" fill="var(--eosin-soft)" stroke="var(--eosin)" stroke-width="3"/>
+        <g id="poaRib" fill="none" stroke="var(--bone-ink)" stroke-width="7" stroke-linecap="round"><path d="M276 118 Q150 140 160 250"/><path d="M324 118 Q450 140 440 250"/></g>
+        <g id="poaVert"><circle cx="300" cy="112" r="24" fill="var(--bone)" stroke="var(--bone-ink)" stroke-width="3"/><circle cx="300" cy="70" r="22" fill="var(--bone)" stroke="var(--bone-ink)" stroke-width="3"/><circle id="poaMed" cx="300" cy="70" r="12" fill="var(--hema)"/></g>
+        <ellipse id="poaCav" cx="300" cy="215" rx="128" ry="76" fill="var(--paper)" stroke="var(--sky)" stroke-width="5"/>
+        <g id="poaOrg"><ellipse cx="245" cy="210" rx="44" ry="52" fill="var(--sky-soft)"/><ellipse cx="355" cy="210" rx="44" ry="52" fill="var(--sky-soft)"/><ellipse cx="312" cy="238" rx="30" ry="34" fill="var(--eosin)" opacity=".75"/></g>
+        <line id="poaLine" x1="300" y1="22" x2="300" y2="332" stroke="var(--ink)" stroke-width="3" stroke-dasharray="10 7"/>
+        <g font-size="18" font-weight="800" text-anchor="middle">
+          <text id="poaT1" x="300" y="22" fill="var(--hema)">Tubo dorsal (neural)</text>
+          <text id="poaT2" x="300" y="300" fill="var(--sky)">Tubo ventral (visceral)</text>
+          <text id="poaT3" x="70" y="60" fill="var(--ink)">Antímero</text><text id="poaT3b" x="70" y="82" fill="var(--ink)">direito</text>
+          <text id="poaT4" x="530" y="60" fill="var(--ink)">Antímero</text><text id="poaT4b" x="530" y="82" fill="var(--ink)">esquerdo</text>
+          <text id="poaT5" x="58" y="190" fill="var(--amber)">Pele</text>
+          <text id="poaT6" x="540" y="190" fill="var(--eosin)">Músculo</text>
+        </g>
+      </svg></div>
+      <label class="sc-range"><span>Início</span><input type="range" id="poaRng" min="0" max="1" step="0.001" value="0" aria-label="Linha do tempo da animação"><span>Fim</span></label>
+      <div class="readout" id="poaOut" aria-live="polite"></div>
+    </section>
     <div class="note clin"><b>Na clínica</b><p>A estratificação é o roteiro de qualquer cirurgia: numa laparotomia pelo flanco se atravessam pele, subcutâneo, músculos oblíquo externo, oblíquo interno e transverso do abdome e peritônio, e se fecham as mesmas camadas na ordem inversa.</p></div>
+
+    <h3><span class="tag">4.3</span>Quadrúpede × humano: a mesma anatomia com outro vocabulário</h3>
+    <p>A anatomia humana descreve uma pessoa <b>em pé, ereta, olhando para a frente, braços ao lado do corpo e palmas das mãos voltadas para a frente</b>. Como o corpo humano está “girado” 90° em relação ao do quadrúpede, os termos humanos de frente e de trás não servem para os animais. A <b>Nomina Anatomica Veterinaria</b> usa termos que não dependem da posição do animal no espaço.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Anatomia humana</th><th>Anatomia veterinária</th><th>Observação</th></tr></thead>
+      <tbody>
+        <tr><td><b>Anterior</b></td><td><b>Ventral</b> (tronco) ou <b>cranial</b> (membros)</td><td>No humano, o abdome é “anterior”; no cão, é ventral</td></tr>
+        <tr><td><b>Posterior</b></td><td><b>Dorsal</b> (tronco) ou <b>caudal</b> (membros)</td><td>As costas humanas (“posteriores”) equivalem ao dorso do animal</td></tr>
+        <tr><td><b>Superior</b></td><td><b>Cranial</b> (tronco) ou <b>proximal</b> (membros)</td><td>Superior/inferior só sobrevivem em lábios e pálpebras</td></tr>
+        <tr><td><b>Inferior</b></td><td><b>Caudal</b> (tronco) ou <b>distal</b> (membros)</td><td>“Membro inferior” humano = membro pélvico</td></tr>
+        <tr><td><b>Plano frontal (coronal)</b></td><td><b>Plano dorsal</b></td><td>Paralelo ao dorso do animal</td></tr>
+        <tr><td><b>Plano horizontal (axial)</b></td><td><b>Plano transversal</b></td><td>Na tomografia, “axial” ainda é muito usado</td></tr>
+        <tr><td>Palma × dorso da mão</td><td><b>Palmar</b> × <b>dorsal</b></td><td>Iguais nos dois sistemas, abaixo do carpo</td></tr>
+      </tbody></table></div>
+    <div class="note trap"><b>Pegadinha</b><p>Na pessoa, “anterior” e “ventral” são sinônimos; no animal, “anterior” não se usa. Em provas, a expressão “porção anterior do abdome do cão” está <b>errada</b>: o correto é <b>cranial</b> (se for em direção ao tórax) ou <b>ventral</b> (se for em direção ao chão).</p></div>
+    <div class="note clin"><b>Na clínica</b><p>Os termos não mudam quando o animal muda de <b>decúbito</b>. Em <b>decúbito dorsal</b> (barriga para cima), a parede abdominal ventral está voltada para o teto e continua sendo ventral. Os decúbitos se chamam pela face que toca a mesa: dorsal, ventral (esternal), lateral direito e lateral esquerdo. Radiografias de tórax em cães são feitas em laterolateral direita e esquerda e em ventrodorsal ou dorsoventral, que mostram coisas diferentes.</p></div>
+
+    <h3><span class="tag">4.4</span>Os princípios em detalhe</h3>
+    <div class="flow">
+      <div class="lane up"><h5>Antimeria e simetria</h5><ol>
+        <li>Externamente o animal é quase perfeitamente simétrico: um olho, uma orelha e um membro de cada lado.</li>
+        <li>Órgãos pares: rins, pulmões, gônadas, glândulas adrenais, tireoide (dois lobos).</li>
+        <li><b>Assimetrias viscerais</b>: coração voltado à esquerda; rúmen ocupando quase todo o antímero esquerdo do bovino, fígado e intestinos empurrados para a direita; baço à esquerda; pulmão direito com mais lobos; nas aves, só o ovário e o oviduto <b>esquerdos</b> se desenvolvem.</li>
+        <li>Na clínica, o lado sadio serve de comparação: radiografar o membro contralateral ajuda a ver se uma imagem é normal.</li></ol></div>
+      <div class="lane down"><h5>Metameria e segmentos</h5><ol>
+        <li>Os <b>somitos</b> do embrião originam vértebras e costelas (esclerótomo), músculos do tronco (miótomo) e derme do dorso (dermátomo).</li>
+        <li>Cada segmento recebe um par de <b>nervos espinhais</b>: o território de pele de um nervo é um <b>dermátomo</b>, usado para localizar lesões medulares.</li>
+        <li>A metameria fica evidente na coluna, nas costelas, nos músculos intercostais e nas artérias intercostais e lombares.</li>
+        <li>Nos membros e na cabeça, a segmentação é mascarada pela fusão e pela migração de estruturas.</li></ol></div>
+    </div>
+    <div class="cards">
+      <div class="card"><span class="role">Paquimeria</span><h5>Tubo dorsal (neural)</h5><p>Cavidade <b>craniana</b> e <b>canal vertebral</b>, com encéfalo, medula e meninges. Protegido por osso por todos os lados.</p></div>
+      <div class="card"><span class="role">Paquimeria</span><h5>Tubo ventral (visceral)</h5><p>Cavidades <b>torácica</b>, <b>abdominal</b> e <b>pélvica</b>, com as vísceras e as serosas. Paredes em parte musculares, permitindo variação de volume (respiração, prenhez, repleção do rúmen).</p></div>
+      <div class="card"><span class="role">Estratificação</span><h5>Do externo para o interno</h5><p>Pele → tela subcutânea → fáscia superficial → músculos e fáscias profundas → esqueleto → fáscia endotorácica ou transversal → serosa parietal → cavidade → serosa visceral → órgão.</p></div>
+    </div>
+
+    <h3><span class="tag">4.5</span>Cavidades corporais e serosas</h3>
+    <p>O tubo ventral se divide em cavidades separadas por estruturas musculares ou por limites ósseos. Cada uma é forrada por uma <b>serosa</b>: uma lâmina de <b>mesotélio</b> (epitélio simples pavimentoso) sobre conjuntivo, com um folheto <b>parietal</b> (na parede) e um <b>visceral</b> (sobre o órgão), separados por um espaço virtual com pouco líquido lubrificante.</p>
+    <div class="tbl min"><table>
+      <thead><tr><th>Cavidade</th><th>Limites</th><th>Serosa</th><th>Principais conteúdos</th></tr></thead>
+      <tbody>
+        <tr><td><b>Craniana</b></td><td>Ossos do crânio</td><td>Não há serosa; <b>meninges</b></td><td>Encéfalo</td></tr>
+        <tr><td><b>Canal vertebral</b></td><td>Forames vertebrais em sequência</td><td>Meninges; espaço epidural com gordura</td><td>Medula espinal, raízes nervosas</td></tr>
+        <tr><td><b>Torácica</b></td><td>Vértebras torácicas, costelas, esterno; caudalmente o <b>diafragma</b>, em forma de cúpula que avança cranialmente</td><td><b>Pleuras</b> (duas cavidades pleurais) e <b>pericárdio</b></td><td>Pulmões, coração, esôfago, traqueia, timo; o <b>mediastino</b> separa as duas cavidades pleurais</td></tr>
+        <tr><td><b>Abdominal</b></td><td>Diafragma cranialmente, vértebras lombares dorsalmente, músculos abdominais lateral e ventralmente; abre-se na pélvica</td><td><b>Peritônio</b> (mesentérios, omentos, ligamentos)</td><td>Estômago(s), intestinos, fígado, baço, pâncreas, rins (retroperitoneais)</td></tr>
+        <tr><td><b>Pélvica</b></td><td>Sacro, vértebras caudais, ossos do quadril; abertura cranial (entrada da pelve)</td><td>Peritônio só na parte cranial (escavações); caudalmente, espaço retroperitoneal</td><td>Reto, bexiga, órgãos genitais internos</td></tr>
+      </tbody></table></div>
+    <div class="note deep"><b>Aprofundamento</b><p>Nos equinos e bovinos o mediastino é espesso e as cavidades pleurais não se comunicam; no cão o mediastino caudal é muito fino e fenestrado, e um pneumotórax ou derrame costuma ser <b>bilateral</b>. Já as <b>aves</b> não têm diafragma muscular: a cavidade corporal é única (celoma), dividida por septos e ocupada pelos sacos aéreos.</p></div>
+    <div class="note clin"><b>Na clínica</b><p>Punções seguem a estratificação e os limites das cavidades: a <b>toracocentese</b> no cão é feita entre o 7º e o 9º espaço intercostal, junto à <b>borda cranial da costela</b> (os vasos e o nervo intercostais correm na borda caudal); a <b>abdominocentese</b> no bovino é feita na região ventral, à direita da linha média, para evitar o rúmen. Em ambas, a agulha atravessa pele, subcutâneo, músculos e serosa parietal.</p></div>
 
     <div class="quiz" data-quiz="posicao"></div>
   </div>
